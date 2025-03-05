@@ -1,0 +1,41 @@
+<div id="breadcrumbs" style="margin-bottom: 2%;">
+    {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+    <a href="/">Startseite</a>
+    {% for crumb in crumbs offset: 1 %}
+        {% capture crumb_text %}{{ crumb | replace:'-',' ' | remove:'.html' }}{% endcapture %}
+        {% if forloop.last %}
+            / {{ page.title }}
+        {% else %}
+            / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">
+            {% assign breadcrumb_words = crumb_text | split: ' ' %}
+            {% for filter_word in breadcrumb_words %}
+                {% if forloop.first %}
+                    {{ filter_word | capitalize }}
+                {% else %}
+                    {% if 
+                    filter_word == 'der' or 
+                    filter_word == 'die' or 
+                    filter_word == 'das' or
+                    filter_word == 'dem' or
+                    filter_word == 'den' or
+                    filter_word == 'des' or
+                    filter_word == 'und' or 
+                    filter_word == 'oder' or 
+                    filter_word == 'an' or
+                    filter_word == 'am' or
+                    filter_word == 'um' or
+                    filter_word == 'für' or 
+                    filter_word == 'von' or
+                    filter_word == 'bis' or
+                    filter_word == 'gestellte'%}
+                        {{ filter_word }}
+                    {% else %}
+                        {{ filter_word | capitalize }}
+                    {% endif %}
+                {% endif %}
+                {% unless forloop.last %} {% endunless %}
+            {% endfor %}
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>
