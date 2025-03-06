@@ -1,10 +1,10 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Aktivitäten an den Konsortialhochschulen
 order: 2.1
 ---
 
-Die folgende Auswahl gibt an, welche Datenquellen an den Hochschulen zur Zeit prioritär für die Einlieferung nach Digi-Kunst.nrw strukturiert und angereichert werden.
+Die folgende Auswahl gibt an, welche Datenquellen an den Hochschulen zur Zeit prioritär für die Einlieferung nach arkumu.nrw strukturiert und angereichert werden.
 
 ----
 
@@ -29,7 +29,7 @@ Die Kunsthochschule für Medien Köln (KHM), gegründet 1989, fordert die interd
 
 Das [Archiv für Mediale Künste](https://www.khm.de/archiv/) an der Kunsthochschule für Medien Köln beherbergt eine beeindruckende Sammlung von studentischen Projekten aus den 35 Jahren seit der Gründung der Hochschule in Form von Audio- und Videoaufzeichnungen, Filmen, Fotografien, Filmstills, Publikationen, E-Publikationen, Websites, Plakaten, Multiples und Flyern, ebenso wie Aufzeichnungen von Vorträgen, Symposien, Konzerten und Interviews.
 
-  * **Aufbereitung von 5600 studentischen Projekten** und **230 Vorträgen, Symposien, Konzerten und Interviews** zur Archivierung in Digi-Kunst.nrw.
+  * **Aufbereitung von 5600 studentischen Projekten** und **230 Vorträgen, Symposien, Konzerten und Interviews** zur Archivierung in arkumu.nrw.
   * **Anpassung der Erfassungs- und Abfrageprozesse** in Zusammenarbeit mit Esther Neumann zur Optimierung der Archivierung studentischer Projekte.
   * **Optimierung der seit 1995 kontinuierlich genutzten FileMaker-Datenbanken**, mittels derer studentische Werke verzeichnet und archiviert werden
   * **Durchführung von projektergänzenden archivarischen Arbeiten**, um die Archivierung und Zugänglichkeit der Werke zu verbessern.

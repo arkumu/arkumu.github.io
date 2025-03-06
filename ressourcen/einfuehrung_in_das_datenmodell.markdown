@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Einführung in das Datenmodell
 order: 2.3
 ---

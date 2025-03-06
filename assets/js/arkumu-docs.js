@@ -298,7 +298,7 @@ document.addEventListener("DOMContentLoaded", function() {
 // von J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) sowie jener von Just the Docs
 // (https://just-the-docs.com/docs/search/). //
 
-// The searches on Digi-Kunst-Docs use Lunr.js (https://lunrjs.com/). Lunr.js ist published under the MIT-License.
+// The searches on arkumu-Docs use Lunr.js (https://lunrjs.com/). Lunr.js ist published under the MIT-License.
 // (https://github.com/olivernn/lunr.js?tab=MIT-1-ov-file). The realization of the search is inspired by the Lurn.js search component //
 // by J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) and the search component by Just the Docs //
 // (https://just-the-docs.com/docs/search/). //
@@ -308,7 +308,7 @@ document.addEventListener('DOMContentLoaded', initialize_search);
 var idx;
 
 function initialize_search() {
-    fetch('https://docs.digi-kunst.nrw/search.json')
+    fetch('https://docs.arkumu.nrw/search.json')
         .then(response => response.json())
         .then(searchData => {
         
@@ -467,7 +467,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // von J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) sowie jener von Just the Docs
 // (https://just-the-docs.com/docs/search/). //
 
-// The searches on Digi-Kunst-Docs use Lunr.js (https://lunrjs.com/). Lunr.js ist published under the MIT-License.
+// The search function on arkumu-Docs uses Lunr.js (https://lunrjs.com/). Lunr.js ist published under the MIT-License.
 // (https://github.com/olivernn/lunr.js?tab=MIT-1-ov-file). The realization of the search is inspired by the Lurn.js search component //
 // by J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) and the search component by Just the Docs //
 // (https://just-the-docs.com/docs/search/). //
@@ -477,7 +477,7 @@ document.addEventListener('DOMContentLoaded', initialize_mobile_search);
 var idx_mobile;
 
 function initialize_mobile_search() {
-    fetch('https://docs.digi-kunst.nrw/search.json')
+    fetch('https://docs.arkumu.nrw/search.json')
         .then(response => response.json())
         .then(searchData => {
             idx_mobile = lunr(function () {

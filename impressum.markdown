@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Impressum
 order: 0
 ---

@@ -1,13 +1,13 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Ereignistypen
 order: 3.2.1
 ---
 
 Ereignistypen spezifizieren die Art des Ereignisses.
 
-[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> Digi-Kunst.nrw-Ereignistypen.xlsx](/assets/documents/Digi-Kunst.nrw-Ereignistypen.xlsx) (20,3 KB)  
-[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> Digi-Kunst.nrw-Ereignistypen.pdf](/assets/documents/Digi-Kunst.nrw-Ereignistypen.pdf) (82,1 KB)  
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> arkumu.nrw-Ereignistypen.xlsx](/assets/documents/arkumu.nrw-Ereignistypen.xlsx) (20,3 KB)  
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> arkumu.nrw-Ereignistypen.pdf](/assets/documents/arkumu.nrw-Ereignistypen.pdf) (82,1 KB)  
 <sub>Stand 17. April 2024  
 Zu diesem Zeitpunkt enthielt die Tabelle noch 52 Einträge.  
 Der Ereignistyp „Mastering“ lässt sich jedoch in der vollständigen [Datenmodell-Tabelle](/technische-dokumentation/datenmodell#tabelle) finden.</sub>

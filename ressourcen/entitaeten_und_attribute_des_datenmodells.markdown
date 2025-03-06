@@ -1,16 +1,16 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Entitäten und Attribute des Datenmodells
 order: 2.4
 ---
 
-Die Aufgabe von Digi-Kunst ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen.
+Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen.
 
 ----
 
 ## Zentrale Entitäten: Projekt und Ereignis
 
-Deshalb benutzt Digi-Kunst.nrw als zentrale Verzeichnungseinheit den Begriff **Projekt**. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Ein Datensatz zu einem Projekt enthält in der Regel einen Titel und die Beschreibung eines Projekts. Hier wird es kategorisiert und verschlagwortet, es wird die einliefernde Hochschule und ggf. deren Organisationseinheit erfasst.  
+Deshalb benutzt arkumu.nrw als zentrale Verzeichnungseinheit den Begriff **Projekt**. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Ein Datensatz zu einem Projekt enthält in der Regel einen Titel und die Beschreibung eines Projekts. Hier wird es kategorisiert und verschlagwortet, es wird die einliefernde Hochschule und ggf. deren Organisationseinheit erfasst.  
 Als zweite zentrale Einheit bilden **Ereignisse** die historische Entwicklung eines Projekts ab:
 
 * Es gibt viele [Typen von Ereignissen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht überhaupt erst ein Kunstwerk, später gibt es dann oft weitere Ereignisse wie Aufführung, Ausstellung oder Premiere.
@@ -87,7 +87,7 @@ Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an. Dafü
 <div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span> / <span style="color: blue">Design</span> / <span style="color: blue">Industrial Design</span></div>
 
 Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch z. B. unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.  
-Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, auch Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien Digi-Kunst.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektkategorien) finden.  
+Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, auch Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien arkumu.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektkategorien) finden.  
 Jede Projektkategorie enthält mindestens auch noch den Link zu einem Begriff aus der [Wikidata](https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&uselang=de), oft sogar ein ganzes Set von Links zu großen kontrollierten Vokabularen: dem Vokabular der Deutschen Nationalbibliothek, dem Vokabular des Getty Art & Architecture Thesaurus und dem Vokabular von Filmportal.de.
 
 ----
@@ -144,25 +144,25 @@ Ein Projekt muss zu mindestens einer und kann zu mehreren [Projektarten](/techni
 
 ## Projekt: Identifikatoren und Normdaten
 
-Ein Projekt bekommt automatisch eine Digi-Kunst-Signatur. Diese setzt sich zusammen aus:
+Ein Projekt bekommt automatisch eine arkumu.nrw-Signatur. Diese setzt sich zusammen aus:
 
-* Der Kennzeichnung „Digi-Kunst“
+* Der Kennzeichnung „arkumu“
 * Einer automatischen Nummer, die fortlaufend die Projekte im System zählt
 * Einem dreistelligen Identifikator für die einliefernde Hochschule: *FUK* für die Folkwang Universität der Künste, *DET* für die Hochschule für Musik Detmold, *HMT* für die Hochschule für Musik und Tanz Köln, *KHM* für die Kunsthochschule für Medien Köln und *RSH* für die Robert Schumann Hochschule Düsseldorf
 * Einer weiteren automatischen Nummer, die fortlaufend die Projekte pro einliefernder Hochschule zählt
 
-Eine vollständige Signatur könnte also wie folgt aussehen: **Digi-Kunst-9876-KHM-5432**.
+Eine vollständige Signatur könnte also wie folgt aussehen: **arkumu.nrw-9876-KHM-5432**.
 
 Des Weiteren werden auch Einlieferer-interne Signaturen bei uns erfasst, ebenso wie Werkverzeichnisnummern.  
 Zusätzlich können zu einem Projekt beliebig viele Normdaten angegeben werden, wie z. B. GND-Einträge für bekannte Werke.
 
 <pre class="mermaid">
 flowchart TB;
-    Projekt-- <span style="background-color: #f4effc">hat</span>  ---> Digi-Kunst-ID
+    Projekt-- <span style="background-color: #f4effc">hat</span>  ---> arkumu-ID
     Projekt-- <span style="background-color: #f4effc">kann, wenn vorhanden, ein oder mehrere haben</span> --> Werkverzeichnisnummer
     Projekt-- <span style="background-color: #f4effc">kann, wenn vorhanden, ein oder mehrere haben</span> ---> Normdaten-Link
     style Projekt fill:#FFFFE0, stroke:#000000;
-    style Digi-Kunst-ID fill:#FFFFE0, stroke:#000000;
+    style arkumu-ID fill:#FFFFE0, stroke:#000000;
     style Werkverzeichnisnummer fill:#FFFFE0, stroke:#000000;
     style Normdaten-Link fill:#FFFFE0, stroke:#000000;
 </pre>
@@ -181,19 +181,19 @@ Zu einem Projekt kann eine projektspezifische, einmalig verwendbare Inhaltswarnu
 Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die Langzeitverfügbarkeit überführen, sie öffentlich zugänglich machen und sie gegebenenfalls an andere Portale für Kultur und Wissen weitergeben kann, benötigt sie dafür die Nutzungsrechte von den Rechteinhaber:innen.  
 Diese können auf zweierlei Arten eingeholt werden:
 
-* Zum einen kann bereits ein Nutzungsvertrag zwischen den Rechteinhaber:innen und der Hochschule bestehen, mit welchem bereits verschiedene Erhaltungsschritte erlaubt sind. Zum Beispiel kann es sein, dass die Archivierung eines Projekts bereits Bestandteil einer vorherigen Vereinbarung war. In diesen Fällen ist zu klären, ob Digi-Kunst.nrw bereits verschiedene Arbeitsschritte ausführen darf, beispielsweise die Projekte zu verzeichnen und die Dateien in die Langzeitverfügbarkeit zu überführen.
-* Zum anderen kann über Digi-Kunst.nrw ein neuer Lizenzvertrag geschlossen werden, falls noch keiner vorliegt oder der bereits bestehende Lizenzvertrag erweitert werden soll. Digi-Kunst.nrw stellt dafür eine speziell für diesen Zweck erstellte Modularlizenz zur Verfügung. Details hierzu finden sich auf der Seite [Lizenzen](/ressourcen/lizenzen).
+* Zum einen kann bereits ein Nutzungsvertrag zwischen den Rechteinhaber:innen und der Hochschule bestehen, mit welchem bereits verschiedene Erhaltungsschritte erlaubt sind. Zum Beispiel kann es sein, dass die Archivierung eines Projekts bereits Bestandteil einer vorherigen Vereinbarung war. In diesen Fällen ist zu klären, ob arkumu.nrw bereits verschiedene Arbeitsschritte ausführen darf, beispielsweise die Projekte zu verzeichnen und die Dateien in die Langzeitverfügbarkeit zu überführen.
+* Zum anderen kann über arkumu.nrw ein neuer Lizenzvertrag geschlossen werden, falls noch keiner vorliegt oder der bereits bestehende Lizenzvertrag erweitert werden soll. arkumu.nrw stellt dafür eine speziell für diesen Zweck erstellte Modularlizenz zur Verfügung. Details hierzu finden sich auf der Seite [Lizenzen](/ressourcen/lizenzen).
 
 Es ist möglich, auf Wunsch alle oder nur einzelne Digitale Objekte eines Projekts (bzw. eines Ereignisses) zu veröffentlichen. Nicht veröffentlichte Digitale Objekte bleiben für die Öffentlichkeit unzugänglich und werden nur in die Langzeitverfügbarkeits-Sicherung des hbz gegeben. Die Metadaten (Titel, Beschreibung, Akteur:innen, usw.) werden, sofern sie keine durch die DSGVO geschützten, persönlichen Informationen beinhalten, frei veröffentlicht.
 
 <pre class="mermaid">
 flowchart TB;
-    Projekt_Urheberrechtsstatus{Ist das Projekt urheberrechtlich\n und/oder leistungsschutzrechtlich geschützt?}-- <span style="background-color: #f4effc">nein</span>  --> Projekt_eingeliefert[Das Projekt kann ohne Lizenzvereinbarung\n bei Digi-Kunst.nrw eingeliefert werden]
+    Projekt_Urheberrechtsstatus{Ist das Projekt urheberrechtlich\n und/oder leistungsschutzrechtlich geschützt?}-- <span style="background-color: #f4effc">nein</span>  --> Projekt_eingeliefert[Das Projekt kann ohne Lizenzvereinbarung\n bei arkumu.nrw eingeliefert werden]
     Projekt_Urheberrechtsstatus-- <span style="background-color: #f4effc">ja</span>  ---> Lizenzvertrag_benötigt[Es wird eine Lizenzvereinbarung benötigt]
     Lizenzvertrag_benötigt --> Besteht_Lizenzvertrag{Besteht bereits ein Lizenzvertrag zwischen\n der Hochschule und dem/der Lizenzgeber:in?}
-    Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">ja</span>  --> Rechte_werden_geprüft[Es wird geprüft, welche Erhaltungsschritte\n bei Digi-Kunst.nrw bereits durchgeführt werden können]
-    Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">nein</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via Digi-Kunst.nrw geschlossen werden]
-    Rechte_werden_geprüft-- <span style="background-color: #f4effc">zusätzlich</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via Digi-Kunst.nrw geschlossen werden]
+    Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">ja</span>  --> Rechte_werden_geprüft[Es wird geprüft, welche Erhaltungsschritte\n bei arkumu.nrw bereits durchgeführt werden können]
+    Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">nein</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via arkumu.nrw geschlossen werden]
+    Rechte_werden_geprüft-- <span style="background-color: #f4effc">zusätzlich</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via arkumu.nrw geschlossen werden]
 </pre>
 
 Außerdem gibt es noch einige Sonderfälle, die im Einzelfall geprüft werden müssen. So kann es sein, dass ein Werk verwaist ist, es also auch nach vorheriger Recherche nicht mehr seinen zugehörigen Urheber:innen zugeordnet werden kann. In diesem Fall kann eine europäische Sonderregelung gelten, bei der die zugehörigen Dateien öffentlich zugänglich gemacht werden könnten.
@@ -203,7 +203,7 @@ Außerdem gibt es noch einige Sonderfälle, die im Einzelfall geprüft werden m�
 
 ## Ereignis: Ereignistypen
 
-Ereignisse können ebenso kategorisiert werden wie Projekte. Ein Ereignis kann ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die Ereignistypen, die den Grundstock von Digi-Kunst.nrw bilden, finden Sie in der Liste unserer [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen). Ein Ereignistyp hat mindestens einen Wikidata-Link und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
+Ereignisse können ebenso kategorisiert werden wie Projekte. Ein Ereignis kann ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die Ereignistypen, die den Grundstock von arkumu.nrw bilden, finden Sie in der Liste unserer [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen). Ein Ereignistyp hat mindestens einen Wikidata-Link und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
 
 <pre class="mermaid">
 flowchart LR;
@@ -417,7 +417,7 @@ Zu einem Informationsträger können die folgenden Informationen erfasst werden:
 
 ## Ereignis: Digitale Objekte
 
-Digi-Kunst.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibündel sowie zugehörige inhaltliche Beschreibung und technische Metadaten. Ein Ereignis kann beliebig viele Digitale Objekte enthalten, und ein Digitales Objekt kann in beliebig vielen Ereignissen auftauchen. Bereits beim Upload werden zentrale Metadaten zur Datei erfasst:
+arkumu.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibündel sowie zugehörige inhaltliche Beschreibung und technische Metadaten. Ein Ereignis kann beliebig viele Digitale Objekte enthalten, und ein Digitales Objekt kann in beliebig vielen Ereignissen auftauchen. Bereits beim Upload werden zentrale Metadaten zur Datei erfasst:
 
   * **Wie ist die Datei entstanden?** Ist sie „born digital“ oder ein Retrodigitalisat?
   * **Zu welchem Medientyp gehört die Datei?** 3D, Audio, Bild, Code, Text oder Video?
@@ -434,12 +434,12 @@ Dies sind die Pflichtangaben, um ein Digitales Objekt erfassen zu können:
 
 | Deutscher Feldname | Englischer Feldname | Kardinalität | Kommentar |
 | ------------- | ------------- | ------------- | ------------- |
-| Digi-Kunst Signatur bzw. ID | Digi-Kunst Call Number / ID | 1 | Ein eindeutiger Identifikator der Datei |	
+| arkumu.nrw Signatur bzw. ID | arkumu.nrw Call Number / ID | 1 | Ein eindeutiger Identifikator der Datei |	
 | Dateiname | File Name | 1 | Der automatisch ausgelesene Dateiname der Datei |
 | Dateigröße | File Size | 1 | Die automatisch ausgelesene Dateigröße der Datei |
 | MIME Type | MIME Type | 1 | Der automatisch ausgelesene Dateityp der Datei |
 | Datei-Änderungsdatum | File Modification Date	| 1 | Das automatisch ausgelesene letzte Änderungsdatum der Datei |
-| Dateipfad | File Path | 1 | Der Dateipfad der Datei im Digi-Kunst.nrw-Erfassungsportal |
+| Dateipfad | File Path | 1 | Der Dateipfad der Datei im arkumu.nrw-Erfassungsportal |
 | Entstehung | Genesis | 0-1 | Eine Auswahl zwischen "born digital" oder "Retrodigitalisat"; optional da die Entstehung bei alten Beständen oft nicht mehr festgestellt werden kann |
 | Medientyp | Media Type | 1 | Eine Auswahl zwischen "3D", "Audio", "Bild", "Code", "Text" oder "Video" |
 | Dateipaket | File Package | 0/1 | Entweder keine Auswahl oder "ja" |

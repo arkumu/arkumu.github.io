@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Team
 order: 1.1
 ---

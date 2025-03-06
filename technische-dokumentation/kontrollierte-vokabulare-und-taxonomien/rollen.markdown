@@ -1,13 +1,13 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Rollen
 order: 3.2.3
 ---
 
 Die Taxonomie der Rollen beschreibt Tätigkeiten, die von Akteur:innen im Rahmen von Ereignissen eingenommen werden können. Zusätzlich enthält die Liste Berufs- und Tätigkeitsangaben, die für biographische Beschreibungen von Akteur:innen benötigt werden.
 
-[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> Digi-Kunst.nrw-Rollen.xlsx](/assets/documents/Digi-Kunst.nrw-Rollen.xlsx) (71,9 KB)  
-[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> Digi-Kunst.nrw-Rollen.pdf](/assets/documents/Digi-Kunst.nrw-Rollen.pdf) (273 KB)  
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> arkumu.nrw-Rollen.xlsx](/assets/documents/arkumu.nrw-Rollen.xlsx) (71,9 KB)  
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> arkumu.nrw-Rollen.pdf](/assets/documents/arkumu.nrw-Rollen.pdf) (273 KB)  
 <sub>Stand 23. April 2024</sub>
 
 | 1. Ebene (deutsch) | 2. Ebene (deutsch) | 3. Ebene (deutsch) | 1. Ebene (englisch) | 2. Ebene (englisch) | 3. Ebene (englisch) | wählt "ist Urheber:in" automatisch aus | wählt "besitzt Leistungsschutzrechte" automatisch aus |  Synonyme | Wikidata-Link | GND-Link (männlich) | GND-Link (weiblich) | GND-Link (Gruppe/Körperschaft) | AAT-Link |

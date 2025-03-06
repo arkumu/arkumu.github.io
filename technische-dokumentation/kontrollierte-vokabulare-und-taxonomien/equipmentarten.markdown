@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Equipmentarten
 order: 3.2.5
 ---

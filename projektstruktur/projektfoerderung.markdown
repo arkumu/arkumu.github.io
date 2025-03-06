@@ -1,10 +1,10 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Projektförderung
 order: 1.2
 ---
 
-Digi-Kunst.nrw wird durch das [Ministerium für Kunst und Kultur des Landes Nordrhein-Westfalen](https://www.mkw.nrw/) gefördert und ist damit ein integraler Bestandteil der landesweiten [Digitalisierungsoffensive](https://www.mkw.nrw/themen/wissenschaft/wissenschaftspolitik/digitalisierungsoffensive). Diese Initiative wird vom Ministerium gemeinsam mit der [Digitalen Hochschule NRW](https://www.dh.nrw/) durchgeführt. Die Ziele dieser Offensive sind vielfältig und erstrecken sich von der Entwicklung eines eines gemeinsamen IT-Sicherheitskonzepts über den Aufbau einer zentralen Forschungsdateninfrastruktur bis hin zur Digitalisierung von Verwaltung, Forschung, Lehre und Studium. Für die Umsetzung dieser Ziele stellte das Ministerium allein bis zum Jahr 2021 jährlich 50 Millionen Euro zur Verfügung. Nach diesem Zeitpunkt sind es weiterhin 35 Millionen Euro pro Jahr.
+arkumu.nrw wird durch das [Ministerium für Kunst und Kultur des Landes Nordrhein-Westfalen](https://www.mkw.nrw/) gefördert und ist damit ein integraler Bestandteil der landesweiten [Digitalisierungsoffensive](https://www.mkw.nrw/themen/wissenschaft/wissenschaftspolitik/digitalisierungsoffensive). Diese Initiative wird vom Ministerium gemeinsam mit der [Digitalen Hochschule NRW](https://www.dh.nrw/) durchgeführt. Die Ziele dieser Offensive sind vielfältig und erstrecken sich von der Entwicklung eines eines gemeinsamen IT-Sicherheitskonzepts über den Aufbau einer zentralen Forschungsdateninfrastruktur bis hin zur Digitalisierung von Verwaltung, Forschung, Lehre und Studium. Für die Umsetzung dieser Ziele stellte das Ministerium allein bis zum Jahr 2021 jährlich 50 Millionen Euro zur Verfügung. Nach diesem Zeitpunkt sind es weiterhin 35 Millionen Euro pro Jahr.
 
 Zu den Kooperationspartnern innerhalb der Digitalen Hochschule NRW gehören unter anderem:
 

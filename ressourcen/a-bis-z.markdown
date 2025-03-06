@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: A bis Z
 order: 2.7
 ---
@@ -24,12 +24,12 @@ order: 2.7
 ----
 
 ### Akteur:innen
-Bei Digi-Kunst.nrw bezeichnet der Begriff "Akteur:innen" alle Personen, Künstler:innengruppen oder Körperschaften, die an den verschiedenen Projekten und Ereignissen beteiligt sind. Diese Akteur:innen können unterschiedliche Rollen übernehmen, wie zum Beispiel Künstler:innen, Kurator:innen, Wissenschaftler:innen oder Organisator:innen. Ein:e Akteur:in ist jemand, der/die aktiv zur Entstehung, Präsentation oder Verwaltung eines künstlerischen Projekts beiträgt. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten_und_attribute_des_datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben).
+Bei arkumu.nrw bezeichnet der Begriff "Akteur:innen" alle Personen, Künstler:innengruppen oder Körperschaften, die an den verschiedenen Projekten und Ereignissen beteiligt sind. Diese Akteur:innen können unterschiedliche Rollen übernehmen, wie zum Beispiel Künstler:innen, Kurator:innen, Wissenschaftler:innen oder Organisator:innen. Ein:e Akteur:in ist jemand, der/die aktiv zur Entstehung, Präsentation oder Verwaltung eines künstlerischen Projekts beiträgt. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten_und_attribute_des_datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben).
 
 ----
 
 ### Ansprechpartner:innen
-Die Mediendokumentar:innen von Digi-Kunst an ihrer Hochschule helfen gerne bei Fragen zu Erfassung, Archivierung, Rechteverwaltung oder anderen Themen. Siehe: [Team](/projektstruktur/team).
+Die Mediendokumentar:innen von arkumu.nrw an ihrer Hochschule helfen gerne bei Fragen zu Erfassung, Archivierung, Rechteverwaltung oder anderen Themen. Siehe: [Team](/projektstruktur/team).
 
 ----
 
@@ -39,7 +39,7 @@ Spezifische Merkmale oder Eigenschaften, die zur Beschreibung und Klassifikation
 ----
 
 ### Backend
-Allgemeine Bezeichnung für eine grafische Benutzeroberfläche, zugänglich nur nach vorheriger Authentifizierung/Anmeldung in einem System. In Digi-Kunst gibt es z.B. das Erfassungs-Backend (auch ”ingest” genannt ), das Admin-Backend (auch ”adm” genannt ) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Allgemeine Bezeichnung für eine grafische Benutzeroberfläche, zugänglich nur nach vorheriger Authentifizierung/Anmeldung in einem System. Im System von arkumu.nrw gibt es z.B. das Erfassungs-Backend (auch ”ingest” genannt ), das Admin-Backend (auch ”adm” genannt ) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
 
 ----
 
@@ -65,7 +65,7 @@ Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Me
 
 ### Entität
 
-Als Entität wird in der Datenmodellierung ein eindeutig zu bestimmendes Objekt bezeichnet, über das Informationen gespeichert oder verarbeitet werden sollen. Das Objekt kann materiell oder immateriell, konkret oder abstrakt sein. Beispiele von Digi-Kunst.nrw: Ein Projekt, ein Ereignis, ein:e Akteur:in.
+Als Entität wird in der Datenmodellierung ein eindeutig zu bestimmendes Objekt bezeichnet, über das Informationen gespeichert oder verarbeitet werden sollen. Das Objekt kann materiell oder immateriell, konkret oder abstrakt sein. Beispiele von arkumu.nrw: Ein Projekt, ein Ereignis, ein:e Akteur:in.
 
 ----
 
@@ -76,11 +76,6 @@ Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einfüh
 
 ### Erfassungs-Backend
 Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Daten-Staging ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
-
----
-
-### Frontend/öffentliche Webseite
-Bezeichnet in Digi-Kunst die öffentlich zugängliche grafische Benutzeroberfläche. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
 
 -----
 
@@ -96,7 +91,7 @@ Langzeitverfügbarkeit (auch: Langzeitarchivierung) bezeichnet den Prozess der d
 ----
 
 ### Lizenz
-Über eine Lizenz wird festgelegt, wer Zugang zu den Digitalen Objekten bekommt und für welche Zwecke diese genutzt werden dürfen. Diese Rechte werden von den Rechteinhaber:innen eingeräumt. Damit ein Projekt oder Werk auf Digi-Kunst.nrw archiviert werden kann, muss der einliefernden Hochschule mindestens das Recht zur Archivierung eingeräumt werden. Auf Wunsch kann auch eine Lizenz gewählt werden, die das Recht zur Veröffentlichung beinhaltet. Gemeinfreie Werke benötigen keine Rechteeinräumung. Siehe: [Lizenzen](/ressourcen/lizenzen/).
+Über eine Lizenz wird festgelegt, wer Zugang zu den Digitalen Objekten bekommt und für welche Zwecke diese genutzt werden dürfen. Diese Rechte werden von den Rechteinhaber:innen eingeräumt. Damit ein Projekt oder Werk auf arkumu.nrw archiviert werden kann, muss der einliefernden Hochschule mindestens das Recht zur Archivierung eingeräumt werden. Auf Wunsch kann auch eine Lizenz gewählt werden, die das Recht zur Veröffentlichung beinhaltet. Gemeinfreie Werke benötigen keine Rechteeinräumung. Siehe: [Lizenzen](/ressourcen/lizenzen/).
 
 ----
 
@@ -106,7 +101,7 @@ Beschreibende Informationen, die zur Klassifikation, Erschließung und Verwaltun
 ----
 
 ### Normdaten
-Normdaten werden für die eindeutige Identifizierung von Personen, Körperschaften, Geografika, Schlagwörtern und Werken benutzt. Sie helfen bei der Vernetzung unterschiedlicher Informationsressourcen und bei der Suche. Digi-Kunst benutzt Normdaten von GND, Wikidata, AAT, VIAF, LCCN, OrcID und weiteren Providern. Eine gute Einführung findet sich auf dem [Wiki der DNB](https://wiki.dnb.de/plugins/servlet/mobile?contentId=322905215#content/view/322905215).
+Normdaten werden für die eindeutige Identifizierung von Personen, Körperschaften, Geografika, Schlagwörtern und Werken benutzt. Sie helfen bei der Vernetzung unterschiedlicher Informationsressourcen und bei der Suche. arkumu.nrw benutzt Normdaten von GND, Wikidata, AAT, VIAF, LCCN, OrcID und weiteren Providern. Eine gute Einführung findet sich auf dem [Wiki der DNB](https://wiki.dnb.de/plugins/servlet/mobile?contentId=322905215#content/view/322905215).
 
 ----
 
@@ -116,7 +111,7 @@ Orte werden an vielen Stellen im System benutzt, z. B. um anzuzeigen, wo ein Ere
 ----
 
 ### Projekte
-Die Aufgabe von Digi-Kunst ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen. Deshalb benutzt Digi-Kunst.nrw als zentrale Verzeichnungseinheit den Begriff Projekt. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung_in_das_datenmodell).
+Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen. Deshalb benutzt arkumu.nrw als zentrale Verzeichnungseinheit den Begriff Projekt. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung_in_das_datenmodell).
 
 ----
 
@@ -141,14 +136,20 @@ Grafische Benutzeroberfläche für das Rosetta-System des [hbz](https://service-
 ---
 
 ### Standards
-Durch die Verwendung öffentlicher Systematiken, Vokabulare und Normdaten gewährleisten wir die Anschlussfähigkeit an Semantic-Web- und Linked-Open-Data-Anwendungen. Die in Digi-Kunst.nrw erfassten Informationen werden in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden können. Große Portale wie die [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/) und [Europeana](https://www.europeana.eu/) können sie abrufen und zusammenführen und damit damit die Archivalien der Hochschulen in ihren Suchmasken durchsuch- und auffindbar machen. Digi-Kunst.nrw arbeitet nach den FAIR-Prinzipien, d. h. alle veröffentlichen Metadaten sind durchsuchbar, zugänglich, interoperabel, wiederverwendbar (findable, accessible, interoperable, reusable). Durch die Nutzung von Rosetta als Langzeitverfügbarkeits-Lösung gewährleisten wir die Konformität mit dem OAIS-Referenzmodell für digitale Langzeitarchive.
+Durch die Verwendung öffentlicher Systematiken, Vokabulare und Normdaten gewährleisten wir die Anschlussfähigkeit an Semantic-Web- und Linked-Open-Data-Anwendungen. Die in arkumu.nrw erfassten Informationen werden in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden können. Große Portale wie die [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/) und [Europeana](https://www.europeana.eu/) können sie abrufen und zusammenführen und damit damit die Archivalien der Hochschulen in ihren Suchmasken durchsuch- und auffindbar machen. arkumu.nrw arbeitet nach den FAIR-Prinzipien, d. h. alle veröffentlichen Metadaten sind durchsuchbar, zugänglich, interoperabel, wiederverwendbar (findable, accessible, interoperable, reusable). Durch die Nutzung von Rosetta als Langzeitverfügbarkeits-Lösung gewährleisten wir die Konformität mit dem OAIS-Referenzmodell für digitale Langzeitarchive.
 
 ----
 
 ### Urheberrecht
 Siehe: [Lizenz](/ressourcen/a-bis-z.html#lizenz)
 
+---
+
+### Web-Portal/öffentliche Webseite
+Bezeichnet in arkumu.nrw die öffentlich zugängliche grafische Benutzeroberfläche. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+
 ----
+
 
 ### Weitere Glossare
 Das [LZV-Glossar des hbz](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=565936255) bietet einen Überblick über die Begriffe zum Thema Langzeitverfügbarkeit.

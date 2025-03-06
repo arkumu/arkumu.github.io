@@ -17,9 +17,9 @@ The published website is available at <https://docs.arkumu.nrw/>.
 
 ## Basis-Konzepte | Basic Concepts
 
-arkumu-Docs ist eine leichtgewichtige [Jekyll](https://jekyllrb.com/)-Umgebung, die dazu optimiert wurde von einer Person oder von einer kleinen Gruppe von Personen gepflegt und gewartet zu werden. Digi-Kunst-Docs.nrw baut auf dem mitausgelieferten [Minima-Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md) auf und verwendet externe wie eigene Open-Source-Komponenten, um seine Funktionalitäten bereitzustellen. Zum erstellen erstellen neuer Webseiten und Webinhalte wird Markdown verwendet, es sind also keine Programmierkenttnisse vonnöten. Lediglich für die technische Wartung sind sie empfholen. Allerdings enthält der Source-Code an zentralen Stellen Kommentare und Erweiterungsmöglichkeiten, sodass viele Arbeiten auch im allgemeinen Betrieb durchgeführt werden können.
+arkumu-Docs ist eine leichtgewichtige [Jekyll](https://jekyllrb.com/)-Umgebung, die dazu optimiert wurde von einer Person oder von einer kleinen Gruppe von Personen gepflegt und gewartet zu werden. arkumu-Docs.nrw baut auf dem mitausgelieferten [Minima-Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md) auf und verwendet externe wie eigene Open-Source-Komponenten, um seine Funktionalitäten bereitzustellen. Zum erstellen erstellen neuer Webseiten und Webinhalte wird Markdown verwendet, es sind also keine Programmierkenttnisse vonnöten. Lediglich für die technische Wartung sind sie empfholen. Allerdings enthält der Source-Code an zentralen Stellen Kommentare und Erweiterungsmöglichkeiten, sodass viele Arbeiten auch im allgemeinen Betrieb durchgeführt werden können.
 
-arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimized to be hosted and maintained by one person or a small group of people. Digi-Kunst-Docs.nrw is based on the included [Minima Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md), and uses external and custom open source components to provide its functionality. Markdown is used for creating new pages and content, so no prior programming knowledge is required. It is only recommended for technical maintenance. However, the source code contains comments and extension options at key points, so that many tasks can also be carried out in general operation.
+arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimized to be hosted and maintained by one person or a small group of people. arkumu-Docs.nrw is based on the included [Minima Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md), and uses external and custom open source components to provide its functionality. Markdown is used for creating new pages and content, so no prior programming knowledge is required. It is only recommended for technical maintenance. However, the source code contains comments and extension options at key points, so that many tasks can also be carried out in general operation.
 
 ----
 
@@ -39,7 +39,7 @@ arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimiz
 
 * **404.html:** Die Fehlerseite der Webpage. | The error site of the webpage.
 
-* **CNAME:** DNS-Weiterleitung von <https://www.digi-kunst.nrw> nach <https://docs.digi-kunst.nrw>. Dieses Feature wird entfernt werden, sobald die Hauptseite verfügbar ist. | DNS forwarding from <https://www.digi-kunst.nrw> to <https://docs.digi-kunst.nrw>. This feature will be removed as soon as the main page is available.
+* **CNAME:** DNS-Weiterleitung von <https://www.arkumu.nrw> nach <https://docs.arkumu.nrw>. Dieses Feature wird entfernt werden, sobald das Web-Portal verfügbar ist. | DNS forwarding from <https://www.arkumu.nrw> to <https://docs.arkumu.nrw>. This feature will be removed as soon as the web portal is available.
 
 * **Gemfile & _config.yml:** Zentrale Dateien zur Steuerung des Kerns der Webseite. Hier finden sich vorallem alle hinzugefügten Plugins. | Central files for controlling the core of the website. All added plugins can be found and managed here.
 

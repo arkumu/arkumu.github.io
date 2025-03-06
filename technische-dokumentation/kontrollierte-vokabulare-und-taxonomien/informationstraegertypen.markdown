@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Informationsträgertypen
 order: 3.2.4
 ---
@@ -7,8 +7,8 @@ order: 3.2.4
 Die folgenden 135 Informationsträgertypen werden benutzt, um materielle Aufzeichnungsmedien und Datenträger zu typisieren. Video, Film und Audio orientieren sich dabei an [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies).
 Siehe auch: [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](http://fileformats.archiveteam.org/wiki/Physical_File_Formats) und [RDA Carrier Types](https://www.loc.gov/standards/valuelist/rdacarrier.html)
 
-[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> Digi-Kunst.nrw-Informationsträgertypen.xlsx](/assets/documents/Digi-Kunst.nrw-Informationsträgertypen.xlsx) (32,2 KB)  
-[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> Digi-Kunst.nrw-Informationsträgertypen.pdf](/assets/documents/Digi-Kunst.nrw-Informationsträgertypen.pdf) (161 KB)  
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> arkumu.nrw-Informationsträgertypen.xlsx](/assets/documents/arkumu.nrw-Informationsträgertypen.xlsx) (32,2 KB)  
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> arkumu.nrw-Informationsträgertypen.pdf](/assets/documents/arkumu.nrw-Informationsträgertypen.pdf) (161 KB)  
 <sub>Stand 2. Juli 2024</sub>
 
 ## Video

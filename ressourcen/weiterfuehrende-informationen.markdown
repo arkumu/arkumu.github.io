@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Weiterführende Informationen
 order: 2.8
 ---

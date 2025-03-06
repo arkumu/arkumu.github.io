@@ -1,5 +1,5 @@
 ---
-layout: digi-kunst-docs
+layout: arkumu-docs
 title: Ressourcen
 order: 2
 ---
@@ -29,4 +29,4 @@ Zentrale Begriffe; in kurzen Texten erklärt.
 Links zu externen Ressourcen zu den Themen Langzeitverfügbarkeit und Erfassung.
 
 [**Lizenzen**](/ressourcen/lizenzen)\
-Informationen zur von Digi-Kunst.nrw entwickelten Modularlizenz für Dateien.
+Informationen zur von arkumu.nrw entwickelten Modularlizenz für Dateien.
