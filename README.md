@@ -18,9 +18,9 @@ The published website is available at <https://docs.arkumu.nrw/>.
 
 ## Basis-Konzepte | Basic Concepts
 
-arkumu-Docs ist eine leichtgewichtige [Jekyll](https://jekyllrb.com/)-Umgebung, die dazu optimiert wurde von einer Person oder von einer kleinen Gruppe von Personen gepflegt und gewartet zu werden. arkumu-Docs.nrw baut auf dem mitausgelieferten [Minima-Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md) auf und verwendet externe wie eigene Open-Source-Komponenten, um seine Funktionalitäten bereitzustellen. Zum erstellen neuer Webseiten und Webinhalte wird Markdown verwendet. Es sind also keine Programmierkenntnisse vonnöten. Lediglich für die technische Wartung sind sie empfholen. Allerdings enthält der Source-Code an zentralen Stellen Kommentare und Erweiterungsmöglichkeiten, sodass viele Arbeiten auch im allgemeinen Betrieb durchgeführt werden können.
+arkumu-Docs ist eine leichtgewichtige [Jekyll](https://jekyllrb.com/)-Umgebung, die dazu optimiert wurde, von einer Person oder von einer kleinen Gruppe von Personen gepflegt und gewartet zu werden. arkumu-Docs baut auf dem mitausgelieferten [Minima-Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md) auf und verwendet externe wie eigene Open-Source-Komponenten, um seine Funktionalitäten bereitzustellen. Zum Erstellen neuer Webseiten und Webinhalte wird Markdown verwendet. Es sind also keine Programmierkenntnisse vonnöten. Lediglich für die technische Wartung sind sie empfohlen. Der Source-Code enthält an zentralen Stellen Kommentare und Erweiterungsmöglichkeiten, so dass viele Arbeiten auch im allgemeinen Betrieb durchgeführt werden können.
 
-arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimized to be hosted and maintained by one person or a small group of people. arkumu-Docs.nrw is based on the included [Minima Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md), and uses external and custom open source components to provide its functionality. Markdown is used for creating new pages and content, so no prior programming knowledge is required. It is only recommended for technical maintenance. However, the source code contains comments and extension options at key points, so that many tasks can also be carried out in general operation.
+arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimized to be hosted and maintained by one person or a small group of people. arkumu-Docs is based on the included [Minima Design 2.5](https://github.com/jekyll/minima/blob/v2.5.0/README.md), and uses external and custom open source components to provide its functionality. Markdown is used for creating new pages and content, so no prior programming knowledge is required. It is only recommended for technical maintenance. The source code contains comments and extension options at key points, so that many tasks can also be carried out in general operation.
 
 ----
 
@@ -56,10 +56,10 @@ arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimiz
 
 ### Vollzogene Schritte / Steps taken
 
-arkumu.nrw-Docs wurde erweitert, dass eine einfachere Benutzung in Docker möglich ist. Dafür wurden folgende Schritte unternommen. | arkumu.nrw-Docs has been extended to make it easier to use in Docker. The following steps were taken to achieve this.
+arkumu-Docs wurde erweitert, dass eine einfachere Benutzung in Docker möglich ist. Dafür wurden folgende Schritte unternommen. | arkumu-Docs has been extended to make it easier to use in Docker. The following steps were taken to achieve this.
 
 #### 1. **Erstellen der Dockerfile / Creation of the Docker file**  
-Es wurde eine <code>Dockerfile</code> erstellt, die ein Ruby-System, in Version 3.2.3, im Container installiert. Das ist die Version, die zur Erstellung von arkumu.nrw-Docs verwendet wurde. Es werden alle Dateien übertragen inklusive der Informationen wie sie in der Gemfile spezifiziert sind. Der Port ist ursprünglich 0.0.0.0 und wird auf [http://localhost:4000/](http://localhost:4000/) lokal gehostet. Die Jekyll-Einstellung <code>--force-polling</code> ermöglicht das automatische neuladen der Jekyll-App im Container. Ebenso ist der Live-Reload von Jekyll mit <code>--livereload</code> aktiviert, was aber in einem Container-Build nur mäßig sinnvoll ist. Er kann bei Bedarf in der Dockerfile und in der unten stehenden <code>docker-compose.yml</code> samt des Port entfernt werden. | A <code>Dockerfile</code> was created that installs a Ruby, version 3.2.3, in the container. That's the version used for creating arkumu.nrw-Docs. All files are transferred including the information as specified in the Gemfile. The port is originally 0.0.0.0 and is hosted locally on http://localhost:4000/. The Jekyll setting <code>--force-polling</code> enables the automatic reload of the Jekyll app in the container. The live reload of Jekyll is also activated with <code>--livereload</code>, but this is only moderately useful in a container build. If required, it can be removed in the Dockerfile and in the <code>docker-compose.yml</code> below, along with the used port.
+Es wurde eine <code>Dockerfile</code> erstellt, die ein Ruby-System, in Version 3.2.3, im Container installiert. Das ist die Version, die zur Erstellung von arkumu-Docs verwendet wurde. Es werden alle Dateien übertragen inklusive der Informationen wie sie in der Gemfile spezifiziert sind. Der Port ist ursprünglich 0.0.0.0 und wird auf [http://localhost:4000/](http://localhost:4000/) lokal gehostet. Die Jekyll-Einstellung <code>--force-polling</code> ermöglicht das automatische neuladen der Jekyll-App im Container. Ebenso ist der Live-Reload von Jekyll mit <code>--livereload</code> aktiviert, was aber in einem Container-Build nur mäßig sinnvoll ist. Er kann bei Bedarf in der Dockerfile und in der unten stehenden <code>docker-compose.yml</code> samt des Port entfernt werden. | A <code>Dockerfile</code> was created that installs a Ruby, version 3.2.3, in the container. That's the version used for creating arkumu-Docs. All files are transferred including the information as specified in the Gemfile. The port is originally 0.0.0.0 and is hosted locally on http://localhost:4000/. The Jekyll setting <code>--force-polling</code> enables the automatic reload of the Jekyll app in the container. The live reload of Jekyll is also activated with <code>--livereload</code>, but this is only moderately useful in a container build. If required, it can be removed in the Dockerfile and in the <code>docker-compose.yml</code> below, along with the used port.
 
 ```dockerfile
 FROM ruby:3.2.3
@@ -81,7 +81,7 @@ Die .yml-Datei ist zum automatischen Neu-Laden des Containers und der Ausgabe au
 ```yml
 services:
   jekyll:
-    container_name: arkumunrwdocs
+    container_name: arkumudocs
     build: .
     ports:
       - "4000:4000"
@@ -97,6 +97,6 @@ Die Installation ist einfach und benötigt nur zwei Schritte. | The installation
 
 Vorraussetzung: | Requirement: Docker ist installiert und läuft. | Docker is installed and running. 
 
-1. Normal das GitHub-Repo klonen: | Simply clone the git repo: <code>git clone https://github.com/Digi-Kunst/digi-kunst.github.io.git</code>.
+1. Normal das GitHub-Repo klonen: | Simply clone the git repo: <code>git clone https://github.com/arkumu/arkumu.github.io.git</code>.
 
 2. Den Docker Container mit <code>docker compose up</code> starten. | Start the docker container with <code>docker compose up</code>.
