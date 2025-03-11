@@ -32,8 +32,15 @@
 *Body*
 ******/
 
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('/assets/fonts/RobotoMono-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body { 
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 16px/1.5 'Roboto Mono', monospace;
   font-size: 100%;
   color: #111;
   background-color: #fdfdfd;
@@ -206,6 +213,7 @@ body {
    padding: 8px 4px 8px 50px;
    border: none;
    border-bottom: 1px solid #ccc;
+   font-family: 'Roboto Mono', monospace;
    font-size: 16px;
    width: 500px;
    box-sizing: border-box;
@@ -275,6 +283,7 @@ body {
    border: none;
    border-bottom: 1px solid #ccc;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   font-family: 'Roboto Mono', monospace;
    font-size: 14px;
    width: 100%;
    box-sizing: border-box;
