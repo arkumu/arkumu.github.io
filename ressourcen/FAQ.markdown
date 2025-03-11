@@ -27,9 +27,9 @@ Das Portal bietet folgende Vorteile:
 
 ----
 
-### Was bedeutet Langzeitverfügbarkeit? Reicht es nicht, wenn meine Dateien lokal bei mir oder zentral an meiner Hochschule gesichert werden? 
+### Was bedeutet Langzeitverfügbarkeit? Reicht es nicht, wenn meine Dateien lokal bei mir oder an meiner Hochschule gesichert werden? 
 
-Die Mehrfach-Sicherung Ihrer Dateien ist in jedem Fall zu empfehlen. Eine erste Handreichung, wie man auch lokal seine Daten vor Verlust bewahren kann, gibt die [National Digital Stewardship Alliance](https://ndsa.org/) in ihren [Empfehlungen](https://osf.io/3na96). Diese Art der Sicherung deckt aber nur das Szenario des Speicherausfalls ab. Langzeitverfügbarkeit bedeutet darüber hinaus, dass Dateien auf Integrität geprüft werden und ggf. in andere Formate konvertiert werden, sodass sie auch in Zukunft wissenschaftlich nutzbar sind. Ebenfalls ist es nötig, Nutzungsrechte zu klären, die dauerhafte organisatorische und finanzielle Sicherung von institutionellen Diensten zu gewährleisten und das Versagen von Hardware und Datenträgern einzuplanen, ebenso wie Hardware- und Software-Obsoleszenz. arkumu.nrw setzt dabei konsequent die Empfehlungen der [Preservation Metadata: Implementation Strategies (PREMIS)](https://www.forschungsdaten.org/index.php/PREMIS) um. 
+Auch wenn Dateien mehrfach redundant gespeichert werden, sorgt diese Art der Speicherung nur für die Unversehrtheit des Datenstroms ("bitstream preservation""). Langzeitverfügbarkeit bedeutet darüber hinaus, dass Systeme eingerichtet werden, die Dateien regelmäßig auf Integrität prüfen und ggf. in andere Formate konvertieren können, sodass sie auch in Zukunft nutzbar sind ("logical preservation"). Ebenfalls ist es nötig, die inhaltliche Interpretierbarkeit der Daten durch beschreibende Metadaten zu sichern ("semantic preservation"), und die Verantwortlichkeiten und Nutzungsrechte zu klären. Grundsätzlich muss die dauerhafte organisatorische und finanzielle Sicherung von institutionellen Diensten gewährleistet und das Versagen von Hardware und Datenträgern ebenso wie Hardware- und Software-Obsoleszenz eingeplant werden. Die Langzeitverfügbarkeit für arkumu.nrw wird vom [hbz NRW](https://www.hbz-nrw.de/produkte/langzeitverfuegbarkeit) durchgeführt.
 
 ----
 

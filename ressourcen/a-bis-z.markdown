@@ -131,7 +131,7 @@ Grafische Benutzeroberfläche für das Rosetta-System des [hbz](https://service-
 ### Sammlungen
 Über Sammlungen können Zusammengehörigkeiten bei den einliefernden Institutionen erfasst werden bzw. eine gemeinsame Provenienz. Beispiele: Tonträger aus dem Bandarchiv der HfMT Köln, Fotografien aus dem Fotoarchiv der Folkwang Universität der Künste, Equipment aus dem Technikarchiv der Kunsthochschule für Medien Köln, aber auch Veranstaltungen aus einer Reihe oder ein Nachlass.
 
----
+----
 
 ### Standards
 Durch die Verwendung öffentlicher Systematiken, Vokabulare und Normdaten gewährleisten wir die Anschlussfähigkeit an Semantic-Web- und Linked-Open-Data-Anwendungen. Die in arkumu.nrw erfassten Informationen werden in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden können. Große Portale wie die [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/) und [Europeana](https://www.europeana.eu/) können sie abrufen und zusammenführen und damit damit die Archivalien der Hochschulen in ihren Suchmasken durchsuch- und auffindbar machen. arkumu.nrw arbeitet nach den FAIR-Prinzipien, d. h. alle veröffentlichen Metadaten sind durchsuchbar, zugänglich, interoperabel, wiederverwendbar (findable, accessible, interoperable, reusable). Durch die Nutzung von Rosetta als Langzeitverfügbarkeits-Lösung gewährleisten wir die Konformität mit dem OAIS-Referenzmodell für digitale Langzeitarchive.
@@ -152,7 +152,7 @@ Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/re
 ### Weitere Glossare
 Das [LZV-Glossar des hbz](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=565936255) bietet einen Überblick über die Begriffe zum Thema Langzeitverfügbarkeit.
 
----
+----
 
 ### Werkverzeichnis
 Werkverzeichnisse sind wissenschaftliche Verzeichnisse der Werke oder des Gesamtwerkes eines Künstlers/einer Künstlerin - vorwiegend von Komponist:innen, bildenden Künstler:innen, Schriftsteller:innen, und Architekt:innen. In der bildenden Kunst werden diese Nachschlagwerke häufig systematisch unterteilt (Sämtliche Zeichnungen und Radierungen, sämtliche Gemälde etc.). Werkverzeichnisse können sich außerdem auf eine künstlerische Epoche, ein Medium oder ein Thema beziehen sowie auf konkrete Sammlungen (Bestandskataloge). Bei der Erfassung von Musikwerken sollte auf Grund der besseren Suchbarkeit auf eine einheitliche Ansetzung geachtet werden. Siehe dazu die [Arbeitshilfe „Liste der maßgeblichen Werkverzeichnisse für Werke der Musik“](https://wiki.dnb.de/display/RDAINFO/Arbeitshilfen) der Deutschen Nationalbibliothek. Beispiel: Mozart, Wolfgang Amadeus: Piano concerto in A Major, K. 488 ⇒ Konzerte, Klavier, Orchester, KV 488 (A-Dur).
