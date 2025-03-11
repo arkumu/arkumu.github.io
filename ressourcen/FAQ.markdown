@@ -18,12 +18,13 @@ Die Hochschulen sind integraler Bestandteil des künstlerischen Erbes des Landes
 ### Welchen Mehrwert generiert arkumu.nrw?
 
 Das Portal bietet folgende Vorteile:
-- Selbstständige Erfassung der künstlerischen Arbeiten durch die Künstler:innen
-- Benutzerfreundliche Erfassungsmaske
+- einfache Einlieferung in die professionell betriebene Langzeitverfügbarkeit des hbz
+- Selbstständige Erfassung der künstlerischen Arbeiten durch die Künstler:innen, wenn gewünscht
+- Benutzer:innenfreundliche Erfassungsmaske
 - Individuelle Rechteverwaltung
-- Erfassung anhand Normdateien
-- Anbindung der Metadaten an Semantic-Web- und Linked-Open-Data-Anwendungen
-- Auffindbarkeit der Projekte und Werke in großen Portalen wie [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/) und [Europeana](https://www.europeana.eu/)
+- Standardgemäße Erfassung von Metadaten
+- Anbindung an Semantic-Web- und Linked-Open-Data-Anwendungen
+- Auffindbarkeit der Projekte und Werke in großen Portalen wie [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/), [Europeana](https://www.europeana.eu/) und [EOSC](https://eosc.eu/).
 
 ----
 
@@ -35,7 +36,7 @@ Auch wenn Dateien mehrfach redundant gespeichert werden, sorgt diese Art der Spe
 
 ### Welche Dateiformate akzeptiert arkumu.nrw? 
 
-Sie können Dateien jedes Typs bei arkumu.nrw einliefern. Wie jede andere Institution aber, die sich mit dem Überführen von Daten in die Langzeitverfügbarkeit beschäftigt, bevorzugen wir vornehmlich verlustfreie und nicht-proprietäre Dateiformate. Gegebenenfalls könnte es notwendig werden, eine sogenannte „Modifizierte Masterdatei“ (Modified Master) anzufertigen, die die Ursprungsdatei in ein langzeitstabileres Format bringt. Eine Übersicht von gängigen Dateiformaten und deren Langzeitstabilität finden Sie bei [LZV.nrw](https://www.lzv.nrw/dateiformate).
+Es können Dateien jedes Typs bei arkumu.nrw eingeliefert werden. Wie jede andere Institution, die sich mit dem Überführen von Daten in die Langzeitverfügbarkeit beschäftigt, werden verlustfreie und nicht-proprietäre Dateiformate bevorzugt. Gegebenenfalls könnte es notwendig werden, eine sogenannte „Modifizierte Masterdatei“ (Modified Master) anzufertigen, die die Ursprungsdatei in ein langzeitstabileres Format bringt. Eine Übersicht von gängigen Dateiformaten und deren Langzeitstabilität finden Sie bei [LZV.nrw](https://www.lzv.nrw/dateiformate). Eine detaillierte, englischsprachige Übersicht, wie Dateiformate eingeschätzt werden, findet sich in der [International Comparison of Recommended File Formats](https://docs.google.com/spreadsheets/d/1XjEjFBCGF3N1spNZc1y0DG8_Uyw18uG2j8V2bsQdYjk/edit?gid=893099148#gid=893099148).
 
 ----
 
@@ -45,15 +46,15 @@ Ziel von arkumu.nrw ist es, das digitale künstlerische Erbe der Hochschulen zu 
 
 ----
 
-### Was ist für das Portal archivierungswürdig? 
+### Welche Inhalte sind archivierungswürdig? 
 
-Eine Bewertung der Archivwürdigkeit einzelner künstlerischen Arbeiten findet durch arkumu.nrw nicht statt. Die einliefernden Institutionen und Künstler:innen entscheiden anhand selbst formulierter Kriterien und unter Berücksichtigung des Urheberrechts selbständig, welche künstlerischen Arbeiten langzeitarchiviert und ggf. darüber hinaus der Öffentlichkeit zur Verfügung gestellt werden. Eine alleinige Sicherung auch ohne Veröffentlichung ist ebenfalls möglich.
+Eine Bewertung der Archivwürdigkeit einzelner künstlerischen Arbeiten findet durch arkumu.nrw nicht statt. Die einliefernden Institutionen und Künstler:innen entscheiden anhand selbst formulierter Kriterien und unter Berücksichtigung des Urheberrechts selbständig, welche künstlerischen Arbeiten langzeitarchiviert und ggf. darüber hinaus der Öffentlichkeit zur Verfügung gestellt werden. Eine alleinige Sicherung ohne Veröffentlichung ist ebenfalls möglich.
 
 ----
 
 ### Verliere ich Rechte an meinen Projekten, wenn ich sie in arkumu.nrw einliefere?
 
-Nein. Als Rechteinhaber:in gewähren sie ihrer Hochschule bestimmte Nutzungsrechte an ihrem Projekt, so dass diese es bei arkumu.nrw einliefern und, wenn das gewünscht ist, auch dort veröffentlichen kann. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, es zu veröffentlichen. Diese Rechte können für das ganze Projekt gelten oder auf Datei-Ebene angepasst werden. Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder vertraulich sind. Siehe [Lizenzen](/ressourcen/lizenzen).
+Nein. Als Rechteinhaber:in gewähren sie ihrer Hochschule bestimmte Nutzungsrechte an ihrem Projekt, so dass diese es bei arkumu.nrw einliefern und, wenn sie das wünschen, auch dort veröffentlichen kann. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, es zu veröffentlichen. Diese Rechte können für das ganze Projekt gelten oder auf Datei-Ebene angepasst werden. Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder vertraulich sind. Siehe [Lizenzen](/ressourcen/lizenzen).
 
 ----
 
@@ -66,4 +67,4 @@ Alle Nutzer:innen und Einliefernde bekommen individuelle Zugänge. Bitte wenden 
 
 ### Wo kann man die Werke und Projekte sehen? 
 
-Die Präsentationsplattform wird derzeit entwickelt und geht voraussichtlich 2025 online.
+Das Web-Portal wird derzeit mit dem [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) und unseren Teammitgliedern vom ITCC der Universität zu Köln entwickelt und geht voraussichtlich 2025 online.
