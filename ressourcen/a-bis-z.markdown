@@ -8,7 +8,6 @@ order: 2.7
 **B:** [Backend](/ressourcen/a-bis-z.html#backend), [Brotkrumen/Breadcrumbs](/ressourcen/a-bis-z.html#brotkrumenbreadcrumbs)  
 **D:** [Dateiformate](/ressourcen/a-bis-z.html#dateiformate), [Datensatz](/ressourcen/a-bis-z.html#datensatz), [Daten-Staging](/ressourcen/a-bis-z.html#daten-staging)  
 **E:** [Entität](/ressourcen/a-bis-z.html#entität), [Ereignis](/ressourcen/a-bis-z.html#ereignis), [Erfassungs-Backend](/ressourcen/a-bis-z.html#erfassungs-backend)  
-**F:** [Frontend/öffentliche Webseite](/ressourcen/a-bis-z.html#frontendöffentliche-webseite)  
 **K:** [Kontrolliertes Vokabular](/ressourcen/a-bis-z.html#kontrolliertes-vokabular)  
 **L:** [Langzeitverfügbarkeit](/ressourcen/a-bis-z.html#langzeitverfügbarkeit), [Lizenz](/ressourcen/a-bis-z.html#lizenz)  
 **M:** [Metadaten](/ressourcen/a-bis-z.html#metadaten)  
