@@ -339,7 +339,7 @@ function initialize_search() {
                     performSearch(query, searchData, searchResultsContainer);
                     searchResultsContainer.style.display = 'block';
                     searchResultsContainer.style.border = '1px solid #ccc';
-                    searchResultsContainer.style.width = '497px';
+                    searchResultsContainer.style.width = '397px';
                 } else {
                     searchResultsContainer.innerHTML = '';
                     searchResultsContainer.style.display = 'none';

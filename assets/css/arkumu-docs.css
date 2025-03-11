@@ -32,8 +32,15 @@
 *Body*
 ******/
 
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('/assets/fonts/RobotoMono-VariableFont_wght.woff2') format('woff2-variations');
+  font-weight: 100 700;
+  font-style: normal;
+}
+
 body { 
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 16px/1.5 'Roboto Mono', monospace;
   font-size: 100%;
   color: #111;
   background-color: #fdfdfd;
@@ -83,7 +90,7 @@ body {
  .site-title {
    font-size: 24px;
    text-decoration: none;
-   font-weight: 300;
+   font-weight: 400;
    letter-spacing: -1px;
    margin-bottom: 0;
    margin-top: 2px;
@@ -206,8 +213,9 @@ body {
    padding: 8px 4px 8px 50px;
    border: none;
    border-bottom: 1px solid #ccc;
+   font-family: 'Roboto Mono', monospace;
    font-size: 16px;
-   width: 500px;
+   width: 400px;
    box-sizing: border-box;
    background-color: #fdfdfd;
    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path fill="rgba(0, 0, 0, 0.5)" d="M784-120 532-372q-30 24-69 38t-83 14q-109 0-184.5-75.5T120-580q0-109 75.5-184.5T380-840q109 0 184.5 75.5T640-580q0 44-14 83t-38 69l252 252-56 56ZM380-400q75 0 127.5-52.5T560-580q0-75-52.5-127.5T380-760q-75 0-127.5 52.5T200-580q0 75 52.5 127.5T380-400Z"/></svg>');
@@ -275,6 +283,7 @@ body {
    border: none;
    border-bottom: 1px solid #ccc;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   font-family: 'Roboto Mono', monospace;
    font-size: 14px;
    width: 100%;
    box-sizing: border-box;
@@ -531,7 +540,7 @@ body {
  
  /*---- Breadcrumbs ----*/
  
- #breadcrumbs {
+#breadcrumbs {
    letter-spacing: -0.8px;
  }
  
