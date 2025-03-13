@@ -5,7 +5,7 @@ order: 1
 ---
 
 [**Team**](/projektstruktur/team)\
-Das Projektteam besteht aus einem Leitungsteam und Mediendokumentar:innen an den jeweiligen Konsortialhochschulen sowie Mitarbeiter:innen am Rechenzentrum der Universität zu Köln.
+Das Projektteam besteht aus einem Leitungsteam und Mediendokumentar:innen an den jeweiligen Konsortialhochschulen sowie Mitarbeiter:innen am IT Center University of Cologne (ITCC).
 
 [**Projektförderung**](/projektstruktur/projektfoerderung)\
 arkumu.nrw wird im Rahmen der landesweiten Digitalisierungsoffensive durch Mittel des Ministeriums für Kultur und Wissenschaft des Landes NRW gefördert.
