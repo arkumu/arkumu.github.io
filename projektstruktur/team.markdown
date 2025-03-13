@@ -4,7 +4,7 @@ title: Team
 order: 1.1
 ---
 
-Das Projektteam besteht aus einer Gesamtprojektleiterin, zwei fachlichen Projektleitern und Mediendokumentar:innen an den jeweiligen Konsortialhochschulen. Zusätzlich gibt es mehrere Stellen für Programmierung und IT, angesiedelt in der Diensteentwicklung des Regionalen Rechenzentrums der Universität zu Köln.
+Das Projektteam besteht aus einer Gesamtprojektleiterin, zwei fachlichen Projektleitern und Mediendokumentar:innen an den jeweiligen Konsortialhochschulen. Zusätzlich gibt es mehrere Stellen für Programmierung und IT, angesiedelt in der Diensteentwicklung des IT Center University of Cologne (ITCC).
 
 ----
 
