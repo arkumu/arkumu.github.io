@@ -17,7 +17,7 @@ order: 2.7
 **R:** [Rechte](/ressourcen/a-bis-z.html#rechte), [Retrieval](/ressourcen/a-bis-z.html#retrieval), [Rosetta-Backend](/ressourcen/a-bis-z.html#rosetta-backend)  
 **S:** [Sammlungen](/ressourcen/a-bis-z.html#sammlungen), [Standards](/ressourcen/a-bis-z.html#standards)  
 **U:** [Urheberrecht](/ressourcen/a-bis-z.html#urheberrecht)  
-**W:** [Weitere Glossare](/ressourcen/a-bis-z.html#weitere-glossare), [Werkverzeichnis](/ressourcen/a-bis-z.html#werkverzeichnis)  
+**W:** [Web-Portal](/ressourcen/a-bis-z.html#web-portal) [Weitere Glossare](/ressourcen/a-bis-z.html#weitere-glossare), [Werkverzeichnis](/ressourcen/a-bis-z.html#werkverzeichnis)  
 **Z:** [Zugang](/ressourcen/a-bis-z.html#zugang)  
 
 ----
@@ -28,7 +28,7 @@ Bei arkumu.nrw bezeichnet der Begriff "Akteur:innen" alle Personen, Künstler:in
 ----
 
 ### Ansprechpartner:innen
-Die Mediendokumentar:innen von arkumu.nrw an ihrer Hochschule helfen gerne bei Fragen zu Erfassung, Archivierung, Rechteverwaltung oder anderen Themen. Siehe: [Team](/projektstruktur/team).
+Die Projektleitung un die Mediendokumentar:innen von arkumu.nrw an ihrer Hochschule helfen gerne bei Fragen zu Erfassung, Archivierung, Rechteverwaltung oder anderen Themen. Siehe: [Team](/projektstruktur/team).
 
 ----
 
@@ -38,7 +38,7 @@ Spezifische Merkmale oder Eigenschaften, die zur Beschreibung und Klassifikation
 ----
 
 ### Backend
-Allgemeine Bezeichnung für eine grafische Benutzeroberfläche, zugänglich nur nach vorheriger Authentifizierung/Anmeldung in einem System. Im System von arkumu.nrw gibt es z.B. das Erfassungs-Backend (auch ”ingest” genannt ), das Admin-Backend (auch ”adm” genannt ) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Allgemeine Bezeichnung für eine grafische Benutzeroberfläche, zugänglich nur nach vorheriger Authentifizierung/Anmeldung in einem System. Im System von arkumu.nrw gibt es das [Erfassungs-Backend](/ressourcen/a-bis-z.html#erfassungs-backend) (auch ”ingest” genannt), das Admin-Backend (auch ”adm” genannt) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
 
 ----
 
@@ -63,7 +63,6 @@ Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Me
 ----
 
 ### Entität
-
 Als Entität wird in der Datenmodellierung ein eindeutig zu bestimmendes Objekt bezeichnet, über das Informationen gespeichert oder verarbeitet werden sollen. Das Objekt kann materiell oder immateriell, konkret oder abstrakt sein. Beispiele von arkumu.nrw: Ein Projekt, ein Ereignis, ein:e Akteur:in.
 
 ----
@@ -120,7 +119,7 @@ Siehe: [Lizenz](/ressourcen/a-bis-z.html#lizenz).
 ----
 
 ### Retrieval
-Kurz für „Information Retrieval“ (Informationswiedergewinnung). Das System, das Indexing, Suche und Wiedergewinnung von Informationen ermöglicht; das Abfragen und Abrufen von Datensätzen per Suchfunktion im Backend und Frontend.  
+Kurz für „Information Retrieval“ (Informationswiedergewinnung). Das System, das Indexing, Suche und Wiedergewinnung von Informationen ermöglicht; das Abfragen und Abrufen von Datensätzen per Suchfunktion im Backend und [Web-Portal](/ressourcen/a-bis-z.html#web-portal).  
 
 ----
 
@@ -132,7 +131,7 @@ Grafische Benutzeroberfläche für das Rosetta-System des [hbz](https://service-
 ### Sammlungen
 Über Sammlungen können Zusammengehörigkeiten bei den einliefernden Institutionen erfasst werden bzw. eine gemeinsame Provenienz. Beispiele: Tonträger aus dem Bandarchiv der HfMT Köln, Fotografien aus dem Fotoarchiv der Folkwang Universität der Künste, Equipment aus dem Technikarchiv der Kunsthochschule für Medien Köln, aber auch Veranstaltungen aus einer Reihe oder ein Nachlass.
 
----
+----
 
 ### Standards
 Durch die Verwendung öffentlicher Systematiken, Vokabulare und Normdaten gewährleisten wir die Anschlussfähigkeit an Semantic-Web- und Linked-Open-Data-Anwendungen. Die in arkumu.nrw erfassten Informationen werden in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden können. Große Portale wie die [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/) und [Europeana](https://www.europeana.eu/) können sie abrufen und zusammenführen und damit damit die Archivalien der Hochschulen in ihren Suchmasken durchsuch- und auffindbar machen. arkumu.nrw arbeitet nach den FAIR-Prinzipien, d. h. alle veröffentlichen Metadaten sind durchsuchbar, zugänglich, interoperabel, wiederverwendbar (findable, accessible, interoperable, reusable). Durch die Nutzung von Rosetta als Langzeitverfügbarkeits-Lösung gewährleisten wir die Konformität mit dem OAIS-Referenzmodell für digitale Langzeitarchive.
@@ -144,8 +143,8 @@ Siehe: [Lizenz](/ressourcen/a-bis-z.html#lizenz)
 
 ---
 
-### Web-Portal/öffentliche Webseite
-Bezeichnet in arkumu.nrw die öffentlich zugängliche grafische Benutzeroberfläche. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+### Web-Portal
+Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
 
 ----
 
@@ -153,7 +152,7 @@ Bezeichnet in arkumu.nrw die öffentlich zugängliche grafische Benutzeroberflä
 ### Weitere Glossare
 Das [LZV-Glossar des hbz](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=565936255) bietet einen Überblick über die Begriffe zum Thema Langzeitverfügbarkeit.
 
----
+----
 
 ### Werkverzeichnis
 Werkverzeichnisse sind wissenschaftliche Verzeichnisse der Werke oder des Gesamtwerkes eines Künstlers/einer Künstlerin - vorwiegend von Komponist:innen, bildenden Künstler:innen, Schriftsteller:innen, und Architekt:innen. In der bildenden Kunst werden diese Nachschlagwerke häufig systematisch unterteilt (Sämtliche Zeichnungen und Radierungen, sämtliche Gemälde etc.). Werkverzeichnisse können sich außerdem auf eine künstlerische Epoche, ein Medium oder ein Thema beziehen sowie auf konkrete Sammlungen (Bestandskataloge). Bei der Erfassung von Musikwerken sollte auf Grund der besseren Suchbarkeit auf eine einheitliche Ansetzung geachtet werden. Siehe dazu die [Arbeitshilfe „Liste der maßgeblichen Werkverzeichnisse für Werke der Musik“](https://wiki.dnb.de/display/RDAINFO/Arbeitshilfen) der Deutschen Nationalbibliothek. Beispiel: Mozart, Wolfgang Amadeus: Piano concerto in A Major, K. 488 ⇒ Konzerte, Klavier, Orchester, KV 488 (A-Dur).
@@ -161,4 +160,4 @@ Werkverzeichnisse sind wissenschaftliche Verzeichnisse der Werke oder des Gesamt
 ----
 
 ### Zugang
-Die Bereitstellung und Verwaltung des Zugriffs auf die digitalisierten künstlerischen und wissenschaftlichen Inhalte.  Abhängig von Nutzungsrechten und Lizenzvereinbarungen gibt es verschiedene Ebenen des Zugangs. Ziel ist es, die digitalisierten Projekte und Werke einer breiten Öffentlichkeit, anderen Künstler:innen und Forschenden zugänglich zu machen, während die Rechte der Urheber geschützt werden. Der Zugang erfolgt über das Frontend und andere Plattformen, die Suche, Ansicht und Download der Metadaten und Daten ermöglichen.
+Die Bereitstellung und Verwaltung des Zugriffs auf die digitalisierten künstlerischen und wissenschaftlichen Inhalte.  Abhängig von Nutzungsrechten und Lizenzvereinbarungen gibt es verschiedene Ebenen des Zugangs. Ziel ist es, die digitalisierten Projekte und Werke einer breiten Öffentlichkeit, anderen Künstler:innen und Forschenden zugänglich zu machen, während die Rechte der Urheber geschützt werden. Der Zugang erfolgt über das [Web-Portal](/ressourcen/a-bis-z.html#web-portal) und andere Plattformen, die Suche, Ansicht und Download der Metadaten und Daten ermöglichen.
