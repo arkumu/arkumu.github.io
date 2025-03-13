@@ -46,9 +46,10 @@ Ziel von arkumu.nrw ist es, das digitale künstlerische Erbe der Hochschulen zu 
 
 ----
 
-### Welche Inhalte sind archivierungswürdig? 
+### Welche Inhalte sind archivwürdig? 
 
-Eine Bewertung der Archivwürdigkeit einzelner künstlerischen Arbeiten findet durch arkumu.nrw nicht statt. Die einliefernden Institutionen und Künstler:innen entscheiden anhand selbst formulierter Kriterien und unter Berücksichtigung des Urheberrechts selbständig, welche künstlerischen Arbeiten langzeitarchiviert und ggf. darüber hinaus der Öffentlichkeit zur Verfügung gestellt werden. Eine alleinige Sicherung ohne Veröffentlichung ist ebenfalls möglich.
+Eine Bewertung der Archivwürdigkeit einzelner künstlerischen Arbeiten findet durch arkumu.nrw nicht statt. Die einliefernden Institutionen und Künstler:innen entscheiden anhand selbst formulierter Kriterien und unter Berücksichtigung des Urheberrechts selbständig, welche künstlerischen Arbeiten langzeitarchiviert und ggf. darüber hinaus der Öffentlichkeit zur Verfügung gestellt werden. Generell lässt sich sagen, dass Materialien archivwürdig sind, 
+[wenn sie einen zeitlosen, bleibenden Wert für die Gesellschaft besitzen](https://doi.org/10.5281/zenodo.15014805).
 
 ----
 
