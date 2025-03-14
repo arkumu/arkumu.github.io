@@ -23,7 +23,7 @@ order: 2.7
 ----
 
 ### Akteur:innen
-Bei arkumu.nrw bezeichnet der Begriff "Akteur:innen" alle Personen, Künstler:innengruppen oder Körperschaften, die an den verschiedenen Projekten und Ereignissen beteiligt sind. Diese Akteur:innen können unterschiedliche Rollen übernehmen, wie zum Beispiel Künstler:innen, Kurator:innen, Wissenschaftler:innen oder Organisator:innen. Ein:e Akteur:in ist jemand, der/die aktiv zur Entstehung, Präsentation oder Verwaltung eines künstlerischen Projekts beiträgt. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten_und_attribute_des_datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben).
+Bei arkumu.nrw bezeichnet der Begriff "Akteur:innen" alle Personen, Künstler:innengruppen oder Körperschaften, die an den verschiedenen Projekten und Ereignissen beteiligt sind. Diese Akteur:innen können unterschiedliche Rollen übernehmen, wie zum Beispiel Künstler:innen, Kurator:innen, Wissenschaftler:innen oder Organisator:innen. Ein:e Akteur:in ist jemand, der/die aktiv zur Entstehung, Präsentation oder Verwaltung eines künstlerischen Projekts beiträgt. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben).
 
 ----
 
@@ -68,7 +68,7 @@ Als Entität wird in der Datenmodellierung ein eindeutig zu bestimmendes Objekt 
 ----
 
 ### Ereignis
-Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung_in_das_datenmodell).
+Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung-in-das-datenmodell).
 
 ----
 
@@ -104,12 +104,12 @@ Normdaten werden für die eindeutige Identifizierung von Personen, Körperschaft
 ----
 
 ### Orte
-Orte werden an vielen Stellen im System benutzt, z. B. um anzuzeigen, wo ein Ereignis stattgefunden hat oder um biografische Informationen zu geben. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten_und_attribute_des_datenmodells.html#ereignis-orte).
+Orte werden an vielen Stellen im System benutzt, z. B. um anzuzeigen, wo ein Ereignis stattgefunden hat oder um biografische Informationen zu geben. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-orte).
 
 ----
 
 ### Projekte
-Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen. Deshalb benutzt arkumu.nrw als zentrale Verzeichnungseinheit den Begriff Projekt. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung_in_das_datenmodell).
+Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen. Deshalb benutzt arkumu.nrw als zentrale Verzeichnungseinheit den Begriff Projekt. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung-in-das-datenmodell).
 
 ----
 

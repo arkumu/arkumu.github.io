@@ -4,16 +4,16 @@ title: Ressourcen
 order: 2
 ---
 
-[**Aktivitäten an den Konsortialhochschulen**](/ressourcen/aktivitaeten_an_den_konsortialhochschulen)\
+[**Aktivitäten an den Konsortialhochschulen**](/ressourcen/aktivitaeten-an-den-konsortialhochschulen)\
 Ein Überblick der prioritär einzuliefernden Datenquellen an den Hochschulen.
 
 [**How-To-Guides für Einliefernde an den Hochschulen**](/ressourcen/how-to-guides-fuer-einliefernde)\
 Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicherung und zur Vorstrukturieren der Daten.
 
-[**Einführung in das Datenmodell**](/ressourcen/einfuehrung_in_das_datenmodell)\
+[**Einführung in das Datenmodell**](/ressourcen/einfuehrung-in-das-datenmodell)\
 Ein erster Überblick über die zentralen Bestandteile unseres Systems samt einer grafischen Übersicht und einigen kurzen Einführungsvideos zu Datenmodell und Erfassung.
 
-[**Entitäten und Attribute des Datenmodells**](/ressourcen/entitaeten_und_attribute_des_datenmodells)\
+[**Entitäten und Attribute des Datenmodells**](/ressourcen/entitaeten-und-attribute-des-datenmodells)\
 Eine ausführliche Erklärung zu zentralen Teilen unseres Systems.
 
 [**Veröffentlichungen und Präsentationen**](/ressourcen/veroeffentlichungen-und-praesentationen)\

@@ -15,13 +15,13 @@ Dieses Strukturdiagramm veranschaulicht den logischen Aufbau der derzeitigen Pro
 
 ## Erfassungs-Backend
 
-Im Erfassungs-Backend können neue [Projekte](/ressourcen/entitaeten_und_attribute_des_datenmodells.html#zentrale-entitäten-projekt-und-ereignis) angelegt und bereits bestehende Projekte verwaltet werden. Das Erfassungs-Backend steht allen einliefernden Personen zur Verfügung. Das sind, neben der [Projektleitung](/projektstruktur/team.html#gesamtprojektleitung) und den [Mediendokumentar:innen](/projektstruktur/team.html#mediendokumentarinnen), zunächst ausgewählte Personen an den Hochschulen. In Zukunft soll dieses Backend aber, via [Shibboleth](https://www.shibboleth.net/), auch für Lehrende und Studierende zugänglich sein.
+Im Erfassungs-Backend können neue [Projekte](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#zentrale-entitäten-projekt-und-ereignis) angelegt und bereits bestehende Projekte verwaltet werden. Das Erfassungs-Backend steht allen einliefernden Personen zur Verfügung. Das sind, neben der [Projektleitung](/projektstruktur/team.html#gesamtprojektleitung) und den [Mediendokumentar:innen](/projektstruktur/team.html#mediendokumentarinnen), zunächst ausgewählte Personen an den Hochschulen. In Zukunft soll dieses Backend aber, via [Shibboleth](https://www.shibboleth.net/), auch für Lehrende und Studierende zugänglich sein.
 
 ----
 
 ## Admin-Backend
 
-Das Admin-Backend umfasst die Verwaltung bestimmter kontrollierter Vokabulare und Taxonomien sowie die Verwaltung von zuweisbaren Rechte- und Lizenzangaben für Projekte und [Digitale Objekte](/ressourcen/entitaeten_und_attribute_des_datenmodells.html#ereignis-digitale-objekte) im Erfassungs-Backend. Zudem können vom Admin-Portal aus alle zentralen Arbeitsschritte zur Überführung in die Langzeitverfügbarkeit (LZV) und zur öffentlichen Webpräsenz geplant und durchgeführt werden. Der Zugriff auf das Admin-Backend ist, je nachdem, was dort verwaltet werden muss, auf die Mediendokumentar:innen und/oder die Projektleitung beschränkt.
+Das Admin-Backend umfasst die Verwaltung bestimmter kontrollierter Vokabulare und Taxonomien sowie die Verwaltung von zuweisbaren Rechte- und Lizenzangaben für Projekte und [Digitale Objekte](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-digitale-objekte) im Erfassungs-Backend. Zudem können vom Admin-Portal aus alle zentralen Arbeitsschritte zur Überführung in die Langzeitverfügbarkeit (LZV) und zur öffentlichen Webpräsenz geplant und durchgeführt werden. Der Zugriff auf das Admin-Backend ist, je nachdem, was dort verwaltet werden muss, auf die Mediendokumentar:innen und/oder die Projektleitung beschränkt.
 
 ----
 
