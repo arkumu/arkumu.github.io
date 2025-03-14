@@ -1,67 +1,67 @@
 <div>
-    {% assign visited_urls = "" %}
-    {% assign sorted_pages = site.pages | where_exp: "item", "item.dir != '/'" | sort: 'order' %}
-    {% for page in sorted_pages %}
-      {% if page.order %}
-        {% if page.url != '/' %}
-          {% assign segments = page.url | split: '/' %}
-          {% assign depth = segments | size %}
-          {% if depth == 2 %}
-            {% unless visited_urls contains page.url %}
+    {%- assign visited_urls = "" -%}
+    {%- assign sorted_pages = site.pages | where_exp: "item", "item.dir != '/'" | sort: 'order' -%}
+    {%- for page in sorted_pages -%}
+      {%- if page.order -%}
+        {%- if page.url != '/' -%}
+          {%- assign segments = page.url | split: '/' -%}
+          {%- assign depth = segments | size -%}
+          {%- if depth == 2 -%}
+            {%- unless visited_urls contains page.url -%}
               <div>
                 <a class="mobile-header" href="{{ page.url}}">{{ page.title }}</a><button class="accordion"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-345 240-585l56-56 184 184 184-184 56 56-240 240Z"/></svg></button>
                 <div class="panel">
-                  {% assign visited_urls = visited_urls | append: page.url | append: "|" %}
-                  {% for level1_page in sorted_pages %}
-                    {% if level1_page.url != '/' %}
-                      {% assign level1_segments = level1_page.url | split: '/' %}
-                      {% if level1_segments[1] == segments[1] and level1_segments | size == 3 %}
-                        {% unless visited_urls contains level1_page.url %}
+                  {%- assign visited_urls = visited_urls | append: page.url | append: "|" -%}
+                  {%- for level1_page in sorted_pages -%}
+                    {%- if level1_page.url != '/' -%}
+                      {%- assign level1_segments = level1_page.url | split: '/' -%}
+                      {%- if level1_segments[1] == segments[1] and level1_segments | size == 3 -%}
+                        {%- unless visited_urls contains level1_page.url -%}
                           <div class="mobile-submenu">
                             <a href="{{ level1_page.url }}">{{ level1_page.title }}</a>
-                            {% assign visited_urls = visited_urls | append: level1_page.url | append: "|" %}
+                            {%- assign visited_urls = visited_urls | append: level1_page.url | append: "|" -%}
                             <ul>
-                              {% for level2_page in sorted_pages %}
-                                {% if level2_page.url != '/' %}
-                                  {% assign level2_segments = level2_page.url | split: '/' %}
-                                  {% if level2_segments[1] == segments[1] and level2_segments[2] == level1_segments[2] and level2_segments | size == 4 %}
-                                    {% unless visited_urls contains level2_page.url %}
+                              {%- for level2_page in sorted_pages -%}
+                                {%- if level2_page.url != '/' -%}
+                                  {%- assign level2_segments = level2_page.url | split: '/' -%}
+                                  {%- if level2_segments[1] == segments[1] and level2_segments[2] == level1_segments[2] and level2_segments | size == 4 -%}
+                                    {%- unless visited_urls contains level2_page.url -%}
                                       <li><a href="{{ level2_page.url }}">{{ level2_page.title }}</a></li>
-                                      {% assign visited_urls = visited_urls | append: level2_page.url | append: "|" %}
+                                      {%- assign visited_urls = visited_urls | append: level2_page.url | append: "|" -%}
                                       <ul>
-                                        {% for level3_page in sorted_pages %}
-                                          {% if level3_page.url != '/' %}
-                                            {% assign level3_segments = level3_page.url | split: '/' %}
-                                            {% if level3_segments[1] == segments[1] and level3_segments[2] == level1_segments[2] and level3_segments[3] == level2_segments[3] and level3_segments | size == 5 %}
-                                              {% unless visited_urls contains level3_page.url %}
+                                        {%- for level3_page in sorted_pages -%}
+                                          {%- if level3_page.url != '/' -%}
+                                            {%- assign level3_segments = level3_page.url | split: '/' -%}
+                                            {%- if level3_segments[1] == segments[1] and level3_segments[2] == level1_segments[2] and level3_segments[3] == level2_segments[3] and level3_segments | size == 5 -%}
+                                              {%- unless visited_urls contains level3_page.url -%}
                                                 <li><a href="{{ level3_page.url }}">{{ level3_page.title }}</a></li>
-                                                {% assign visited_urls = visited_urls | append: level3_page.url | append: "|" %}
-                                                {% comment %} Add another level here {%endcomment%}
-                                              {% endunless %}
-                                            {% endif %}
-                                          {% endif %}
-                                        {% endfor %}
+                                                {%- assign visited_urls = visited_urls | append: level3_page.url | append: "|" -%}
+                                                {%- comment -%} Add another level here {%-endcomment-%}
+                                              {%- endunless -%}
+                                            {%- endif -%}
+                                          {%- endif -%}
+                                        {%- endfor -%}
                                       </ul>
-                                    {% endunless %}
-                                  {% endif %}
-                                {% endif %}
-                              {% endfor %}
+                                    {%- endunless -%}
+                                  {%- endif -%}
+                                {%- endif -%}
+                              {%- endfor -%}
                             </ul>
                           </div>
-                        {% endunless %}
-                      {% endif %}
-                    {% endif %}
-                  {% endfor %}
+                        {%- endunless -%}
+                      {%- endif -%}
+                    {%- endif -%}
+                  {%- endfor -%}
                 </div>
               </div>
-            {% endunless %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+            {%- endunless -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
   </div>
   
-  {% comment %}
+  {%- comment -%}
   
   Diese Komponente unterstützt 4 Ordnungs-Ebenen "out of the box". Sie ist damit in der Lage, einen folgenden Baum korrekt
   abzubilden. | This components supports 4 nesting levels out of the box. It is therefore capable displaying the following
@@ -75,17 +75,17 @@
   see the comment "Add nesting here" and add the following code to expand the code by another level.
   
   <ul>
-    {% for level4_page in sorted_pages %}
-      {% if level4_page.url != '/' %}
-        {% assign level4_segments = level4_page.url | split: '/' %}
-        {% if level4_segments[1] == segments[1] and level4_segments[2] == level1_segments[2] and level4_segments[3] == level2_segments[3] and level4_segments[4] == level3_segments[4] and level4_segments | size == 6 %}
-          {% unless visited_urls contains level4_page.url %}
+    {%- for level4_page in sorted_pages -%}
+      {%- if level4_page.url != '/' -%}
+        {%- assign level4_segments = level4_page.url | split: '/' -%}
+        {%- if level4_segments[1] == segments[1] and level4_segments[2] == level1_segments[2] and level4_segments[3] == level2_segments[3] and level4_segments[4] == level3_segments[4] and level4_segments | size == 6 -%}
+          {%- unless visited_urls contains level4_page.url -%}
             <li><a href="{{ level4_page.url }}">{{ level4_page.title }}</a></li>
-            {% assign visited_urls = visited_urls | append: level4_page.url | append: "|" %}
-          {% endunless %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+            {%- assign visited_urls = visited_urls | append: level4_page.url | append: "|" -%}
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
   </ul>
   
-  {% endcomment%}
+  {%- endcomment-%}
