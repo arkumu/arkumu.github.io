@@ -8,8 +8,8 @@ arkumu.nrw wird durch das [Ministerium für Kunst und Kultur des Landes Nordrhei
 
 Zu den Kooperationspartnern innerhalb der Digitalen Hochschule NRW gehören unter anderem:
 
-* [FDM.nrw](https://fdm-nrw.coscine.de/#/) ( Landesinitiative für Forschungsdatenmanagement NRW)
-* [RDS.nrw](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/nordrhein-westfalen/hochschuluebergreifende-infrastrukturen/research-data-storage-rds/) (Research Data Storage NRW)
+* [FDM.nrw](https://fdm-nrw.coscine.de/#/) (Landesinitiative für Forschungsdatenmanagement NRW)
+* [DataStorage.nrw](https://www.land.nrw/pressemitteilung/riesen-wolke-macht-forschungsdaten-sicher) (ehemals RDS.nrw)
 * [LZV.nrw](https://lzv.nrw/) (Landesinitiative Langzeitverfügbarkeit)
 * weitere Universitäten und Fachhochschulen in Nordrhein-Westfalen, die an digitalen Initiativen und Projekten beteiligt sind
 * spezialisierte Forschungsinstitute und Zentren, die sich auf digitale Technologien und deren Anwendung in der Bildung konzentrieren.
