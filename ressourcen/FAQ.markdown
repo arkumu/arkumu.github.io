@@ -18,19 +18,21 @@ Die Hochschulen sind integraler Bestandteil des künstlerischen Erbes des Landes
 ### Welchen Mehrwert generiert arkumu.nrw?
 
 Das Portal bietet folgende Vorteile:
-- einfache Einlieferung in die professionell betriebene Langzeitverfügbarkeit des hbz
+- Einfache Einlieferung in eine professionell betriebene Langzeitverfügbarkeits-Lösung
 - Selbstständige Erfassung der künstlerischen Arbeiten durch die Künstler:innen, wenn gewünscht
 - Benutzer:innenfreundliche Erfassungsmaske
+- Verständliches und einfach benutzbares Lizenzmodell
 - Individuelle Rechteverwaltung
 - Standardgemäße Erfassung von Metadaten
 - Anbindung an Semantic-Web- und Linked-Open-Data-Anwendungen
+- Öffnung der Sammlungen nach außen durch strukturierte Veröffentlichung der Metadaten
 - Auffindbarkeit der Projekte und Werke in großen Portalen wie [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/), [Europeana](https://www.europeana.eu/) und [EOSC](https://eosc.eu/).
 
 ----
 
 ### Was bedeutet Langzeitverfügbarkeit? Reicht es nicht, wenn meine Dateien lokal bei mir oder an meiner Hochschule gesichert werden? 
 
-Auch wenn Dateien mehrfach redundant gespeichert werden, sorgt diese Art der Speicherung nur für die Unversehrtheit des Datenstroms ("bitstream preservation""). Langzeitverfügbarkeit bedeutet darüber hinaus, dass Systeme eingerichtet werden, die Dateien regelmäßig auf Integrität prüfen und ggf. in andere Formate konvertieren können, sodass sie auch in Zukunft nutzbar sind ("logical preservation"). Ebenfalls ist es nötig, die inhaltliche Interpretierbarkeit der Daten durch beschreibende Metadaten zu sichern ("semantic preservation"), und die Verantwortlichkeiten und Nutzungsrechte zu klären. Grundsätzlich muss die dauerhafte organisatorische und finanzielle Sicherung von institutionellen Diensten gewährleistet und das Versagen von Hardware und Datenträgern ebenso wie Hardware- und Software-Obsoleszenz eingeplant werden. Die Langzeitverfügbarkeit für arkumu.nrw wird vom [hbz NRW](https://www.hbz-nrw.de/produkte/langzeitverfuegbarkeit) durchgeführt.
+Auch wenn Dateien mehrfach redundant gespeichert werden, sorgt diese Art der Speicherung nur für die Unversehrtheit des Datenstroms ("bitstream preservation""). Kurz: "storage is not preservation". Langzeitverfügbarkeit bedeutet darüber hinaus, dass Systeme eingerichtet werden, die Dateien regelmäßig auf Integrität prüfen und ggf. in andere Formate konvertieren können, sodass sie auch in Zukunft nutzbar sind ("logical preservation"). Ebenfalls ist es nötig, die inhaltliche Interpretierbarkeit der Daten durch beschreibende Metadaten zu sichern ("semantic preservation"), und die Verantwortlichkeiten und Nutzungsrechte zu klären. Grundsätzlich muss die dauerhafte organisatorische und finanzielle Sicherung von institutionellen Diensten gewährleistet und das Versagen von Hardware und Datenträgern ebenso wie Hardware- und Software-Obsoleszenz eingeplant werden. Die Langzeitverfügbarkeit für arkumu.nrw wird vom [hbz NRW](https://www.hbz-nrw.de/produkte/langzeitverfuegbarkeit) durchgeführt.
 
 ----
 
@@ -40,7 +42,7 @@ Es können Dateien jedes Typs bei arkumu.nrw eingeliefert werden. Wie jede ander
 
 ----
 
-### Was kann ich bei arkumu.nrw einliefern?
+### Welche Inhalte kann ich bei arkumu.nrw einliefern?
 
 Ziel von arkumu.nrw ist es, das digitale künstlerische Erbe der Hochschulen zu erfassen, zugänglich zu machen und langfristig sichern. Dazu gehören Kunstwerke, digitale Materialien und Dokumentationen über Kunstwerke, ebenso wie Aufzeichnungen von Vorträgen und Meisterklassen. Da dies ein großes Spektrum von Archivalien darstellt, haben wir uns für den vereinheitlichenden Begriff Projekt entschieden.
 
@@ -55,17 +57,23 @@ Eine Bewertung der Archivwürdigkeit einzelner künstlerischen Arbeiten findet d
 
 ### Verliere ich Rechte an meinen Projekten, wenn ich sie in arkumu.nrw einliefere?
 
-Nein. Als Rechteinhaber:in gewähren sie ihrer Hochschule bestimmte Nutzungsrechte an ihrem Projekt, so dass diese es bei arkumu.nrw einliefern und, wenn sie das wünschen, auch dort veröffentlichen kann. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, es zu veröffentlichen. Diese Rechte können für das ganze Projekt gelten oder auf Datei-Ebene angepasst werden. Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder vertraulich sind. Siehe [Lizenzen](/ressourcen/lizenzen).
+Nein. Als Rechteinhaber:in bestimmen sie, welche Nutzungsrechte sie ihrer Hochschule an ihrem Projekt gewähren. Mindestens muss das Recht eingeräumt werden, die Dateien zu speichern und zu kopieren, so dass diese bei arkumu.nrw eingeliefert werden können. Wenn das gewünscht ist, können Dateien auch veröffentlicht werden. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, sie zu veröffentlichen. Dies sind die drei Stufen des [Lizenzmodells von arkumu.nrw](/ressourcen/lizenzen). Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder als vertraulich gekennzeichnet sind.
 
 ----
 
 
 ### Wie erhalte ich Zugang zum Portal? 
 
-Alle Nutzer:innen und Einliefernde bekommen individuelle Zugänge. Bitte wenden sie sich dazu an die [Projektleitung](/projektstruktur/team).
+Im Sommer 2025 wird das Onboarding für diejenigen beginnen, die als Ansprechpartner:innen für das hbz Zugänge für Rosetta bekommen. Mittelfristig ist geplant, dass alle Nutzer:innen und Einliefernde individuelle Zugänge zum Erfassungssystem bekommen. Bitte wenden sie sich für weitere Informationen dazu an die [Projektleitung](/projektstruktur/team), oder eine:n arkumu.nrw-Mediendokumentar:in.
+
+----
+
+### Sollte meine Hochschule die eingelieferten Dateien weiterhin vorhalten? 
+
+Ja, wenn dies möglich ist und der Bedarf besteht, dass Angehörige der Hochschule die Dateien nutzen können, empfehlen wir zum Zweck der einfachen Zugänglichkeit alle Dateien weiterhin auch lokal zu speichern. Der Vorteil der Speicherung in einer Langzeitverfügbarkeits-Lösung bleibt dabei unverändert bestehen.
 
 ----
 
 ### Wo kann man die Werke und Projekte sehen? 
 
-Das Web-Portal wird derzeit mit dem [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) und unseren Teammitgliedern vom ITCC der Universität zu Köln entwickelt und geht voraussichtlich 2025 online.
+Das [Web-Portal](/technische-dokumentation/infrastruktur#web-portal) wird derzeit mit dem [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) und unseren Teammitgliedern vom ITCC der Universität zu Köln entwickelt und geht 2025 online.

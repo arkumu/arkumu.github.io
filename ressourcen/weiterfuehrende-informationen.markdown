@@ -4,7 +4,7 @@ title: Weiterführende Informationen
 order: 2.8
 ---
 
-Auf dieser Seite stellen wir Links zu Themen der Langzeitverfügbarkeit und Erfassung zur Verfügung.
+Auf dieser Seite stellen wir Links zum Thema Langzeitverfügbarkeit zur Verfügung.
 
 ----
 

@@ -26,7 +26,7 @@ Häufig gestellte Fragen zum Projekt.
 Zentrale Begriffe; in kurzen Texten erklärt.
 
 [**Weiterführende Informationen**](/ressourcen/weiterfuehrende-informationen)\
-Links zu externen Ressourcen zu den Themen Langzeitverfügbarkeit und Erfassung.
+Links zu externen Ressourcen zum Thema Langzeitverfügbarkeit.
 
 [**Lizenzen**](/ressourcen/lizenzen)\
 Informationen zur von arkumu.nrw entwickelten Modularlizenz für Dateien.

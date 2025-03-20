@@ -4,7 +4,7 @@ title: A bis Z
 order: 2.7
 ---
 
-**A:** [Akteur:innen](/ressourcen/a-bis-z.html#akteurinnen), [Ansprechpartner:innen](/ressourcen/a-bis-z.html#ansprechpartnerinnen), [Attribute](/ressourcen/a-bis-z.html#attribute)  
+**A:** [Akteur:in](/ressourcen/a-bis-z.html#akteurin), [Attribute](/ressourcen/a-bis-z.html#attribute)  
 **B:** [Backend](/ressourcen/a-bis-z.html#backend), [Brotkrumen/Breadcrumbs](/ressourcen/a-bis-z.html#brotkrumenbreadcrumbs)  
 **D:** [Dateiformate](/ressourcen/a-bis-z.html#dateiformate), [Datensatz](/ressourcen/a-bis-z.html#datensatz), [Daten-Staging](/ressourcen/a-bis-z.html#daten-staging)  
 **E:** [Entität](/ressourcen/a-bis-z.html#entität), [Ereignis](/ressourcen/a-bis-z.html#ereignis), [Erfassungs-Backend](/ressourcen/a-bis-z.html#erfassungs-backend)  
@@ -22,13 +22,8 @@ order: 2.7
 
 ----
 
-### Akteur:innen
-Bei arkumu.nrw bezeichnet der Begriff "Akteur:innen" alle Personen, Künstler:innengruppen oder Körperschaften, die an den verschiedenen Projekten und Ereignissen beteiligt sind. Diese Akteur:innen können unterschiedliche Rollen übernehmen, wie zum Beispiel Künstler:innen, Kurator:innen, Wissenschaftler:innen oder Organisator:innen. Ein:e Akteur:in ist jemand, der/die aktiv zur Entstehung, Präsentation oder Verwaltung eines künstlerischen Projekts beiträgt. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben).
-
-----
-
-### Ansprechpartner:innen
-Die Projektleitung un die Mediendokumentar:innen von arkumu.nrw an ihrer Hochschule helfen gerne bei Fragen zu Erfassung, Archivierung, Rechteverwaltung oder anderen Themen. Siehe: [Team](/projektstruktur/team).
+### Akteur:in
+Bei arkumu.nrw umfasst der Begriff "Akteur:in" alle Personen, Künstler:innengruppen oder Körperschaften, die an den verschiedenen Projekten und Ereignissen beteiligt sind. Akteur:innen können unterschiedliche Rollen übernehmen, wie zum Beispiel Künstler:in, Kurator:in, Musiker:in oder Designer:in. Ein:e Akteur:in ist jemand, der/die aktiv zur Entstehung, Präsentation oder Verwaltung eines künstlerischen Projekts beiträgt. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben).
 
 ----
 
@@ -58,7 +53,7 @@ Manche Dateiformate sind besser als andere für die Langzeitarchivierung geeigne
 ----
 
 ### Daten-Staging
-Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Mediendaten und Metadaten) "landen", um angereichert, geprüft und ggf. freigegeben zu werden. Nach erfolgter Freigabe werden die Datensätze ingestiert. In anderen Systemen wird dieser Ablageort manchmal „pre-Ingest“ genannt. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Mediendaten und Metadaten) zusammengeführt werden, um strukturiert, angereichert, geprüft und ggf. freigegeben zu werden. Nach erfolgter Freigabe werden die Datensätze ingestiert. In anderen Systemen wird dieser Ablageort auch „Pre-Ingest“ genannt. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
 
 ----
 
@@ -144,7 +139,7 @@ Siehe: [Lizenz](/ressourcen/a-bis-z.html#lizenz)
 ---
 
 ### Web-Portal
-Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur/Web-Portal](/technische-dokumentation/infrastruktur#web-portal).
 
 ----
 
