@@ -742,10 +742,10 @@ body {
  /*---- Normal Text ----*/
  
  p {
-   margin-bottom: 4%;
+   margin-bottom: 2%;
  }
  
- /*---- Vertikale Linie ----*/
+ /*---- Horizontale Linie ----*/
  /*---- Horizontal Rule ----*/
  
  hr {
@@ -825,8 +825,8 @@ img {
  
  ul, ol {
    margin-left: 20px;
-   margin-top: 4%;
-   margin-bottom: 4%;
+   margin-top: 2%;
+   margin-bottom: 2%;
  }
  
  li > ul,
