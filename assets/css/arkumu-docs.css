@@ -71,7 +71,7 @@ body {
    margin-bottom: 5%;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .header-container {
      margin-bottom: 0%;
    }
@@ -110,7 +110,7 @@ body {
  /*---- Navigations-Elemente in der Mitte: Styling der Elemente in der  .navigation.html im _includes-Ordner ----*/
  /*---- Navigation elements in the center: Styling for elements in the .navigation.html in the _includes folder ----*/
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .center-navigation {
      display: none;
    }
@@ -147,7 +147,7 @@ body {
  }
  
  .dropdown-toggle {
-   margin-right: 29px;
+   margin-right: 20px;
    height: 50px;
    line-height: 3.5;
  }
@@ -202,14 +202,14 @@ body {
    display: block;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .search {
      display: none;
    }
  }
  
  .search-input {
-   margin-top: 17px;
+   margin-top: 12px;
    padding: 8px 4px 8px 50px;
    border: none;
    border-bottom: 1px solid #ccc;
@@ -270,7 +270,7 @@ body {
    display: none;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .mobile-search {
      display: flex;
      width: 100%;
@@ -345,7 +345,7 @@ body {
    margin-right: 0;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .site-nav {
      position: absolute;
      top: 21px;
@@ -361,7 +361,7 @@ body {
    display: none;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
  .menu-icon {
      display: block;
      float: right;
@@ -400,7 +400,7 @@ body {
    display: none;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .accordion {
      display: inline-block;
      background-color: #e4e4e4;
@@ -495,7 +495,7 @@ body {
    text-decoration: underline;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .page-content {
      margin-right: 3%;
      margin-left: 3%;
@@ -523,7 +523,7 @@ body {
    flex: 1.5;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .left-aside-content {
      display: none;
    }
@@ -544,7 +544,7 @@ body {
    letter-spacing: -0.8px;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    #breadcrumbs {
      padding-top: 2%;
      padding-bottom: 2%;
@@ -592,7 +592,7 @@ body {
    transition: top 0.3s ease;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .sidebar-container {
      display: none;
    }
@@ -642,7 +642,7 @@ body {
    line-height: 1;
  }
 
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .post-title {
      font-size: 36px;
    }
@@ -659,7 +659,7 @@ body {
    font-size: 32px;
  }
 
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .post-content h2 {
      font-size: 28px;
    }
@@ -668,7 +668,7 @@ body {
    font-size: 27px;
  }
 
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .post-content h3 {
      font-size: 22px;
    }
@@ -677,7 +677,7 @@ body {
    font-size: 20px;
  }
 
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .post-content h4 {
      font-size: 18px;
    }
@@ -696,7 +696,7 @@ body {
  /*---- Rem für mobile Version ----*/
  /*---- Rem for mobile version ----*/
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    h1, h2, h3, h4, h5, h6, p, blockquote, hr,
    dl, dd, ol, ul, figure,
    .highlight, #breadcrumbs, span, a {
@@ -753,7 +753,7 @@ body {
    margin-top: 4%;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    hr {
      margin-bottom: 8%;
      margin-top: 8%;
@@ -788,7 +788,7 @@ img {
    cursor: pointer;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .post-content img {
      margin-top: 8%;
      margin-bottom: 8%;
@@ -907,7 +907,7 @@ img {
    border: 2px solid #bbb;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .table-container {
      margin-top: 6%;
      margin-bottom: 6%;
@@ -943,7 +943,7 @@ img {
    font-size: 80%;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    table th, table td {
      font-size: 70%;
    }
@@ -1206,7 +1206,7 @@ img {
  font-size: small;
  }
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .last-modified-date-time {
      font-size: 60%;
    }
@@ -1306,7 +1306,7 @@ img {
  /*----Styling for midsized screens--*/
  
  
- @media screen and (max-width: 1380px) {
+ @media screen and (max-width: 1250px) {
    .footer-container {
      display: block;
    }
