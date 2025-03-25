@@ -68,7 +68,7 @@ Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einfüh
 ----
 
 ### Erfassungs-Backend
-Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Daten-Staging ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Daten-Staging ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe [Infrastruktur/Erfassungs-Backend](/technische-dokumentation/infrastruktur#erfassungs-backend).
 
 -----
 

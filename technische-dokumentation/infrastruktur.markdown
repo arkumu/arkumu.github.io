@@ -43,11 +43,11 @@ Das Web- und Arbeitsrepositorium ist der zentrale Knotenpunkt, an dem alle Daten
 
 ----
 
-## Transfer in das „Dark Archive“ des hbz
+## Transfer in das Dark Archive des hbz
 
 Das Web- und Arbeitsrepositorium produziert aus den erfassten Dateien und Metadaten in sich abgeschlossene Daten-Pakete („SIPs“ nach dem  [OAIS-Referenzmodell](https://docs.nfdi4culture.de/ta4-digital-preservation-basics/4-forschungsdaten-im-digitalen-langzeitarchiv/4-1-das-oais-modell)), die alle nötigen Informationen enthalten, die zur Einlieferung der Dateien in die Langzeitverfügbarkeits-Lösung des [hbz](https://www.hbz-nrw.de/) benötigt werden.  
 
-Nach dem Transfer in den Speicher des hbz werden Dateien, die nicht veröffentlicht werden sollen, aus dem Staging-Speicher gelöscht. Sie befinden dann nur noch im „Dark Archive“ und unter alleiniger Kontrolle der einliefernden Hochschule. 
+Nach dem Transfer in den Speicher des hbz werden Dateien, die nicht veröffentlicht werden sollen, aus dem Staging-Speicher gelöscht. Sie befinden dann nur noch im sogenannten Dark Archive und unter alleiniger Kontrolle der einliefernden Hochschule. Siehe die Informationsseiten des [hbz](https://service-wiki.hbz-nrw.de/spaces/LLZV/pages/565936255/Glossar+wichtiger+Begriffe+f%C3%BCr+die+Langzeitverf%C3%BCgbarkeit#GlossarwichtigerBegriffef%C3%BCrdieLangzeitverf%C3%BCgbarkeit-DarkArchiveDarkArchive) zum Dark Archive.
 
 ----
 
