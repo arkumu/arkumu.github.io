@@ -12,18 +12,19 @@ Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der
 
 ## Zentrale Entitäten: Projekt und Ereignis
 
-Deshalb benutzt arkumu.nrw als zentrale Verzeichnungseinheit den Begriff **Projekt**. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Ein Datensatz zu einem Projekt enthält in der Regel einen Titel und die Beschreibung eines Projekts. Hier wird es kategorisiert und verschlagwortet, es wird die einliefernde Hochschule und ggf. deren Organisationseinheit erfasst.  
+arkumu.nrw nutzt als zentrale Verzeichnungseinheit den Begriff **Projekt**. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Ein Projekt-Datensatz enthält in der Regel einen Titel und die Beschreibung des Projekts. Außerdem wird es kategorisiert, verschlagwortet und die einliefernde Hochschule und ggf. deren Organisationseinheit erfasst.
+
 Als zweite zentrale Einheit bilden **Ereignisse** die historische Entwicklung eines Projekts ab:
 
-* Es gibt viele [Typen von Ereignissen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht überhaupt erst ein Kunstwerk, später gibt es dann oft weitere Ereignisse wie Aufführung, Ausstellung oder Premiere.
+* Es gibt unterschiedliche [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht ein Kunstwerk bzw. ein Projekt. Weitere Ereignisse, wie z. B. Aufführung, Ausstellung oder Premiere, können folgen.
 * Ereignisse haben in der Regel einen Beginn und ein Ende und finden an bestimmten Orten statt.
 * Ereignisse werden von verschiedenen Akteur:innen durch- oder aufgeführt, wodurch sich rechtliche Ansprüche ableiten können.
 * Bei manchen Ereignissen wird bestimmte Software und Equipment verwendet.
 * Bei manchen Ereignissen entstehen Physische Objekte oder werden verwendet.
-* Ereignisse manifestieren sich oder werden dokumentiert in Digitalen Objekten (Dateien).
-* Manche Digitalen Objekte entstehen durch die Retrodigitalisierung eines Informationsträgers.
+* Ereignisse manifestieren sich oder werden dokumentiert in digitalen Objekten (Dateien).
+* Manche digitale Objekte entstehen durch die Retrodigitalisierung eines Informationsträgers.
 
-Diese Informationen sind ausschließlich über Ereignisse mit einem Projekt verknüpft. Ein Projekt kann beliebig viele Ereignisse beinhalten, und dasselbe Ereignis kann in beliebig vielen Projekten auftauchen.
+Diese Informationen sind ausschließlich über Ereignisse mit einem Projekt verknüpft. Ein Projekt kann beliebig viele Ereignisse beinhalten und dasselbe Ereignis kann in beliebig vielen Projekten auftauchen.
 
 <pre class="mermaid">
 flowchart LR;
@@ -38,7 +39,7 @@ flowchart LR;
 
 ## Projekt: Titel & Alternative Titel
 
-Ein Projekt muss einen bevorzugten Titel und kann – bei Bedarf – einen bevorzugten Untertitel haben. Diese bevorzugten Titel werden prominent in Anzeige und Suche angezeigt und sollten den gewünschten Haupt- und/oder Originaltitel des Projekts wiedergeben. Zudem müssen der bevorzugter Titel und der bevorzugter Untertitel eine Sprachauszeichnung erhalten. Für die Sprachauszeichnungen wird die Norm [ISO639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) verwendet.
+Ein Projekt muss einen bevorzugten Titel und kann – bei Bedarf – einen bevorzugten Untertitel haben. Diese bevorzugten Titel werden prominent in Anzeige und Suche angezeigt und sollten den gewünschten Haupt- und/oder Originaltitel des Projekts wiedergeben. Zudem müssen der bevorzugte Titel und der bevorzugte Untertitel eine Sprachauszeichnung erhalten. Für die Sprachauszeichnungen wird die Norm [ISO639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) verwendet.
 
 <pre class="mermaid">
 flowchart TB;
@@ -52,13 +53,13 @@ flowchart TB;
 </pre>
 
 
-Zusätzlich können noch beliebig viele alternative Titel angelegt werden. Es ist häufig der Fall, dass Kunstwerke nicht nur unter einem Namen bekannt sind oder geführt werden, sondern im Laufe ihrer Historie oft mehrere Titel haben. Dies ist auch notwendig, wenn der Originaltitel nicht das lateinische Alphabet verwendet, sondern beispielsweise kyrillische Schrift oder chinesische Zeichen. 
+Häufig werden Kunstwerke nicht nur unter einem Namen geführt, sondern erhalten im Laufe ihrer Historie weitere Titel. Es können beliebig viele alternative Titel angelegt weden. Dies ist beispielsweise auch notwendig, wenn der Originaltitel nicht das lateinische Alphabet verwendet, sondern beispielsweise kyrillische Schrift oder chinesische Zeichen. 
 
 ---
 
 ## Projekt: Beschreibungen & Kommentare
 
-Ein Projekt muss mindestens eine und kann beliebig viele Beschreibungen haben. Folglich ist das Feld „Beschreibung“ in unserer [Datenmodell-Tabelle](/technische-dokumentation/datenmodell#tabelle) mit der Kardinalität „1-u[nendlich]“ gekennzeichnet. Die Beschreibung ist meistens ein von dem/der Autor:in des Projekts verfasster Text, kann aber auch von Dritten stammen. Ähnlich wie Titel haben Beschreibungen eine Sprachauszeichnung, die Angabe, in welcher Sprache sie verfasst ist. Beschreibungen können innerhalb eines Projekts nach ihrer Wertigkeit sortiert werden.
+Ein Projekt muss mindestens eine und kann beliebig viele Beschreibungen haben. Die Beschreibung ist meistens ein von dem/der Autor:in des Projekts verfasster Text, kann aber auch von Dritten stammen. Ähnlich wie Titel haben Beschreibungen eine Sprachauszeichnung, die Angabe, in welcher Sprache sie verfasst ist. Beschreibungen können innerhalb eines Projekts nach ihrer Wertigkeit sortiert werden.
 
 <pre class="mermaid">
 flowchart TB;
@@ -84,20 +85,23 @@ flowchart TB;
 
 ## Projekt: Projektkategorien
 
-Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an. Dafür verwenden wir eine Taxonomie, in der die Kategorien in einem hierarchischen Kontext abgebildet werden. Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ vergeben. In unserem System taucht diese Projektkategorie dann wie folgt auf:
+Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an. Dafür verwenden wir eine Taxonomie, in der die Kategorien in einem hierarchischen Kontext abgebildet werden.
+
+Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ vergeben. In unserem System taucht diese Projektkategorie wie folgt auf:
 
 <div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span> / <span style="color: blue">Design</span> / <span style="color: blue">Industrial Design</span></div>
 
-Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch z. B. unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.  
+Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.
+
 Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien arkumu.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektkategorien) finden.  
-Jede Projektkategorie enthält mindestens auch noch den Link zu einem Objekt aus der [Wikidata](https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&uselang=de), oft sogar noch weitere Links zu großen kontrollierten Vokabularen: der Deutschen Nationalbibliothek, dem Getty Art & Architecture Thesaurus und dem Vokabular von Filmportal.de.
+Jede Projektkategorie enthält mindestens den Link zu einem Objekt aus der [Wikidata](https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&uselang=de) und oft weitere Links zu großen kontrollierten Vokabularen, wie der Deutschen Nationalbibliothek, dem Getty Art & Architecture Thesaurus oder dem Vokabular von Filmportal.de.
 
 ---
 
 ## Projekt: Schlagwörter
 
 Die Verzeichnung der Schlagwörter erfolgt über [Wikidata](https://www.wikidata.org/). Dadurch wird die Anbindung an Semantic-Web- und Linked-Open-Data-Anwendungen gewährleistet. Damit ein Schlagwort in unser System geladen werden kann, benötigt es mindestens einen deutschen oder englischen Wikidata-Eintrag mit zugehöriger Beschreibung, die automatisch ausgelesen werden. Synonyme werden, falls vorhanden, ebenfalls abgerufen, um zusätzlich die Erschließung der erfassten Inhalte zu verbessern.  
-Dieses System der Verschlagwortung über Wikidata findet überall dort Verwendung, wo Schlagwort-ähnliche Einträge gemacht werden können. Neben dem Projekt sind dies Physisches Objekt, Digitales Objekt und Informationsträger.
+Dieses System der Verschlagwortung über Wikidata findet überall dort Verwendung, wo Schlagwort-ähnliche Einträge gemacht werden können. So auch bei den Physischen Objekten, den Digitalen Objekten und den Informationsträgern.
 
 <figure>
 <a href="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_1.png"><img src="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_1.png" alt="Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung." title="Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung."></a>
@@ -123,7 +127,7 @@ Ein Projekt muss einer einliefernden Hochschule zugeordnet werden. Mit diesem Ei
 | Kunsthochschule für Medien Köln | Academy of Media Arts Cologne | [https://www.wikidata.org/entity/Q827038](https://www.wikidata.org/entity/Q827038) | [https://d-nb.info/gnd/2128885-9](https://d-nb.info/gnd/2128885-9) |
 | Robert Schumann Hochschule Düsseldorf | Robert Schumann Hochschule Düsseldorf | [https://www.wikidata.org/entity/Q315238](https://www.wikidata.org/entity/Q315238) | [https://d-nb.info/gnd/5082177-5](https://d-nb.info/gnd/5082177-5) |
 
-Abgesehen von diesem rechtlichen Rahmen kann angegeben werden, aus welcher Organisationseinheit innerhalb der Hochschule ein Projekt stammt. Das kann beispielsweise ein Studiengang sein, ein Forschungsinstitut oder ein Archiv.
+Darüber hinaus kann durch die Angabe einer Organisationseinheit die Herkunft eines Projekts weiter spezifiziert werden. Dies kann beispielsweise ein Studiengang, ein Forschungsinstitut oder ein Archiv der Hochschule sein.
 
 <pre class="mermaid">
 flowchart LR;
@@ -173,7 +177,7 @@ flowchart TB;
 
 ## Projekt: Projekteigenschaften und Inhaltswarnungen
 
-In den Projekteigenschaften können fachspezifische Angaben gemacht werden, etwa die Tonart eines Musikstücks oder die Dauer eines Films. Ein Projekt kann beliebig viele fachspezifische Angaben haben.  
+In den Projekteigenschaften können beliebig viele fachspezifische Angaben gemacht werden, etwa die Tonart eines Musikstücks oder die Dauer eines Films.  
 
 Zu einem Projekt kann eine projektspezifische, einmalig verwendbare Inhaltswarnung gegeben werden. Andere, bereits im Voraus angelegte Inhaltswarnungen können in anderen Projekten immer wieder Verwendung finden.
 
@@ -181,7 +185,7 @@ Zu einem Projekt kann eine projektspezifische, einmalig verwendbare Inhaltswarnu
 
 ## Projekt: Nutzungsrechte
 
-Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die Langzeitverfügbarkeit überführen, sie öffentlich zugänglich machen und sie gegebenenfalls an andere Portale für Kultur und Wissen weitergeben kann, benötigt sie dafür die Nutzungsrechte von den Rechteinhaber:innen.  
+Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die Langzeitverfügbarkeit überführen, sie öffentlich zugänglich machen und sie gegebenenfalls an andere Portale für Kultur und Wissen weitergeben kann, benötigt sie dafür jeweils die Nutzungsrechte von den Rechteinhaber:innen.  
 Diese können auf zweierlei Arten eingeholt werden:
 
 * Zum einen kann bereits ein Nutzungsvertrag zwischen den Rechteinhaber:innen und der Hochschule bestehen, der der Hochschule bereits verschiedene Erhaltungsschritte erlaubt, wie z. B. die Archivierung eines Projekts.
@@ -206,7 +210,7 @@ Außerdem gibt es noch einige Sonderfälle, die im Einzelfall geprüft werden m�
 
 ## Ereignis: Ereignistypen
 
-Ereignisse können ebenso kategorisiert werden wie Projekte. Ein Ereignis kann ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die verwendeten Ereignistypen findet sich in der Liste unserer [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen). Ein Ereignistyp wird mindestens über einen Wikidata-Link definiert und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
+Ereignisse können ebenso wie Projekte kategorisiert werden. Ein Ereignis kann z.B. ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die verwendeten Ereignistypen findet sich in der Liste unserer [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen). Ein Ereignistyp wird mindestens über einen Wikidata-Link definiert und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
 
 <pre class="mermaid">
 flowchart LR;
@@ -244,10 +248,12 @@ Zeitangaben speichern wir nach der Norm [ISO 8601](https://www.iso.org/iso-8601-
 | 2022-02-02 | 2023-03-03 | 02.02.2022–03.03.2023 | 02.02-2022, 0:00 Uhr–03.03.2023, 23:59 Uhr |
 | 2022-02-02T12:12 | 2023-03-02T13:13 | 02.02.2022, 12:12 Uhr–03.03.2023, 13:13 Uhr | 02.02.2022, 12:12 Uhr–03.03.2023, 13:13 Uhr |
 
+
 ---
 
 ## Ereignis: Orte
-Orte werden ähnlich wie Schlagwörter über Wikidata referenziert. Bei Orten wird im Hintergrund eine komplexe Abfrage gestellt, die alle übergeordneten Orte findet. Die Orts-Abfrage ist damit in der Lage, einen eingegebenen Ort direkt in seinen geografischen Kontext zu setzen. Orte werden dabei in 6 Hierarchieebenen erfasst: **Kontinent** > **Land** > **Region** > **Stadt** > **Genauer Ort** > **Interner Ort**.
+Orte werden ähnlich wie Schlagwörter über Wikidata referenziert. Das System stellt im Hintergrund eine komplexe Abfrage, die zusätzlich alle übergeordneten Orte findet. Die Orts-Abfrage ist damit in der Lage, einen eingegebenen Ort direkt in seinen geografischen Kontext zu setzen.Orte werden dabei in 6 Hierarchieebenen erfasst:
+**Kontinent** > **Land** > **Region** > **Stadt** > **Genauer Ort** > **Interner Ort**.
 
 <figure>
 <a href="/assets/images/Erfassungs-Backend_Ort_anlegen_1.PNG"><img src="/assets/images/Erfassungs-Backend_Ort_anlegen_1.PNG" alt="Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung." title="Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung."></a>
@@ -272,6 +278,22 @@ flowchart LR;
     style Ereignis fill:#90EE90, stroke:#000000;
     style AkteurIn fill:#F0F8FF, stroke:#000000;
 </pre>
+
+
+Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und eine Wikidata-Referenz. Zusätzlich können Rollen auch einen rollenspezifischen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link haben. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, findet sich in der [Rollen-Taxonomie](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/rollen).
+
+<pre class="mermaid">
+flowchart TB;
+    AkteurIn[Akteur:in]-- <span style="background-color: #f4effc">hat eine oder mehrere</span> ---> Rolle
+    Rolle-- <span style="background-color: #f4effc">im</span> ---> Ereignis
+    style Ereignis fill:#90EE90, stroke:#000000;
+    style AkteurIn fill:#F0F8FF, stroke:#000000;
+</pre>
+
+Zusätzlich lässt sich angeben, ob ein:e Akteur:in aufgrund einer Rolle Urheberrechte und/oder Leistungsschutzrechte besitzt. Bestimmte Rollen führen in vielen Fällen automatisch zu Urheber- und Leistungsschutzrechten der Akteur:innen. Ist eine Person beispielsweise „Komponist:in“ oder "Künstler:in" in einem Ereignis, dann besitzt sie mit großer Wahrscheinlichkeit Urheberrechte an dem verknüpften Projekt. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungsschutzrechte. Die Taxonomie der Rollen bietet eine Vorauswahl, die angibt, bei welchen Rollen diese Rechte üblicherweise vorhanden sind. Dies entbindet nicht von der Pflicht, individuell zu prüfen, welche Angaben zutreffen.
+
+Weiterhin kann angegeben werden, ob nur vermutet wird, dass ein:e Akteur:in in einem Ereignis mitgewirkt hat. Für diesen Fall gibt es das Feld „Ungesicherte Zuschreibung“.
+
 
 Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werden können:
 
@@ -313,25 +335,14 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 | Kontakt (Telefon) | Contact (Phone) | 0-u | Ein oder mehrere mögliche Telefonkontakte. Diese werden nicht veröffentlicht und nicht mit in die Langzeitverfügbarkeit überführt. |
 | Kontakt (Postanschrift) | Contact (Postal Address) | 0-1 | Eine mögliche Postanschrift. Diese wird nicht veröffentlicht und nicht mit in die Langzeitverfügbarkeit überführt. |
 
-Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und eine Wikidata-Referenz. Zusätzlich können Rollen auch einen rollenspezifischen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link haben. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, findet sich in der [Rollen-Taxonomie](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/rollen).
-
-<pre class="mermaid">
-flowchart TB;
-    AkteurIn[Akteur:in]-- <span style="background-color: #f4effc">hat eine oder mehrere</span> ---> Rolle
-    Rolle-- <span style="background-color: #f4effc">im</span> ---> Ereignis
-    style Ereignis fill:#90EE90, stroke:#000000;
-    style AkteurIn fill:#F0F8FF, stroke:#000000;
-</pre>
-
-Zusätzlich lässt sich angeben, ob ein:e Akteur:in aufgrund einer Rolle Urheberrechte und/oder Leistungsschutzrechte besitzt. Bestimmte Rollen führen in vielen Fällen automatisch zu Urheber- und Leistungsschutzrechten der Akteur:innen. Ist eine Person beispielsweise „Komponist:in“ oder "Künstler:in" in einem Ereignis, dann besitzt sie mit großer Wahrscheinlichkeit Urheberrechte am Projekt. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungsschutzrechte. Die Taxonomie der Rollen bietet eine Vorauswahl, die angibt, bei welchen Rollen diese Rechte üblicherweise vorhanden sind. Dies entbindet nicht von der Pflicht, individuell zu prüfen, welche Angaben zutreffen.
-
-Weiterhin kann angegeben werden, ob nur vermutet wird, dass ein:e Akteur:in in einem Ereignis mitgewirkt hat. Für diesen Fall gibt es das Feld „Ungesicherte Zuschreibung“.
 
 ---
 
 ## Ereignis: Equipment & Software
 
-In einem Ereignis können verschiedene Arten von Equipment und/oder Software zum Einsatz kommen. Mit diese Entität lässt sich z. B. beschreiben, welche technische Ausrüstung oder welche Software in einem Herstellungs-Ereignis verwendet wurden. Die Liste der [Equipmentarten](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/equipmentarten) erlaubt die Kategorisierung von Einträgen in der Tabelle Equipment und Software.
+In einem Ereignis können verschiedene Arten von Equipment und/oder Software zum Einsatz kommen. Mit dieser Entität lässt sich z. B. beschreiben, welche technische Ausrüstung oder welche Software in einem Herstellungs-Ereignis verwendet wurden. Die Liste der [Equipmentarten](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/equipmentarten) erlaubt die Kategorisierung von Einträgen in der Tabelle Equipment und Software.
+
+
 
 | Deutsche Feldbezeichnung | Englische Feldbezeichnung | Verweist auf Entität | Kardinalität | Notizen/Definition/Referenz |
 | ---------- | ---------- | ---------- | ---------- |
@@ -379,7 +390,7 @@ In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. D
 Informationsträger sind materielle Datenträger oder Trägermedien, die digitalisiert wurden, wie z. B. eine Schallplatte, eine Diskette, ein Tonband oder ein VHS-Band. Informationsträger werden durch [die Informationsträgertypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/informationstraegertypen) kategorisiert. 
 
 Anmerkung für die Erfassung: Diese Entität sollte benutzt werden, wenn:
-1. Ein Projekt Retrodigitalisierung beinhaltet und Informationen über analoge Original erhaltenswert sind,
+1. Ein Projekt Retrodigitalisierung beinhaltet und Informationen über analoge Originale erhaltenswert sind,
 2. der Informationsträger unabdingbarer Teil eines Werks ist, z.B. bei einer interaktiven CD-ROM oder
 3. die Details des Transfers von einem digitalen Informationsträger relevant für die Sacherschließung/die digitale Historie und entsprechend erhaltenswert sind.
 		
@@ -422,7 +433,7 @@ Zu einem Informationsträger können die folgenden Informationen erfasst werden:
 
 ## Ereignis: Digitale Objekte
 
-arkumu.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibündel sowie die zugehörige inhaltliche Beschreibung und technische Metadaten. Ein Ereignis kann beliebig viele Digitale Objekte enthalten, und ein Digitales Objekt kann in beliebig vielen Ereignissen auftauchen. Bereits beim Upload werden zentrale Metadaten zur Datei erfasst:
+arkumu.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibündel sowie die zugehörige inhaltliche Beschreibung und die technischen Metadaten. Ein Ereignis kann beliebig viele Digitale Objekte enthalten, und ein Digitales Objekt kann in beliebig vielen Ereignissen auftauchen. Bereits beim Upload werden zentrale Metadaten zur Datei erfasst:
 
 Dies sind die wichtigsten Angaben zu einem Digitalen Objekt:
 
@@ -478,7 +489,7 @@ Mit folgenden Programmen wird außerdem eine Vielzahl von technischen Metadaten 
 
 ## Selbstreferentielle Verknüpfungen
 
-Projekte, Ereignisse und Akteur:innen können jeweils rekursiv verknüpft werden, z. B. ein Projekt kann Teil eines anderen Projekts sein, oder einzelne Akteur:innen sind Mitglied einer Künstler:innengruppe, die ebenfalls als Akteur:in angelegt ist. Diese Art von Verbindungen ist immer reziprok. Das heißt, wenn eine Verbindung hergestellt wurde, wird immer die passende Gegenverbindung mit angelegt. Ein Beispiel: Würde man bei C. P. E. Bach die Verbindung "hat Vater" zu "Johann Sebastian Bach" herstellen, so würde bei Letzterem automatisch folgendes angelegt werden: "ist Vater von" "C. P. E. Bach". 
+Projekte, Ereignisse und Akteur:innen können jeweils rekursiv verknüpft werden, z. B. kann ein Projekt Teil eines anderen Projekts sein, oder einzelne Akteur:innen sind Mitglied einer Künstler:innengruppe, die ebenfalls als Akteur:in angelegt ist. Diese Art von Verbindung ist immer reziprok. Das heißt, wenn eine Verbindung hergestellt wurde, wird immer die passende Gegenverbindung mit angelegt. Ein Beispiel: Würde man bei C. P. E. Bach die Verbindung "hat Vater" zu "Johann Sebastian Bach" herstellen, so würde bei Letzterem automatisch folgendes angelegt werden: "ist Vater von" "C. P. E. Bach". 
 
 <pre class="mermaid">
 flowchart LR;
