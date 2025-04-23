@@ -4,7 +4,7 @@ title: Aktivitäten an den Konsortialhochschulen
 order: 2.1
 ---
 
-Die folgende Auswahl gibt an, welche Datenquellen an den Hochschulen zur Zeit prioritär für die Einlieferung nach arkumu.nrw strukturiert und angereichert werden.
+Die folgende Auswahl gibt an, welche Datenquellen an den Hochschulen zurzeit prioritär für die Einlieferung nach arkumu.nrw strukturiert und angereichert werden.
 
 ----
 
