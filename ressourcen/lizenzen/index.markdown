@@ -4,6 +4,8 @@ title: Lizenzen
 order: 2.9
 ---
 
+---
+
 arkumu.nrw hat für den Umgang mit urheberrechtlich und leistungsschutzrechtlich geschütztem Material eine Modularlizenz entwickelt, mit der sich die einliefernde Hochschule bestimmte Rechte von den Rechteinhaber:innen einräumen lassen kann. Es gibt drei Stufen, die aufeinander aufbauen:
 
 | **A – Langzeitverfügbarkeit** | Das Werk kann von der [eigenen] Hochschule zu Archivzwecken vervielfältigt werden. Dies beinhaltet auch eine Digitalisierung des Werks. Eine Bearbeitung des Werks ist nur zulässig, wenn für Zwecke der Langzeitverfügbarkeit eine Umwandlung bestehender Dateiformate in andere Dateiformate erforderlich ist und diese Umwandlung eine Bearbeitung darstellen sollte. |
@@ -22,7 +24,7 @@ Die Rechteinhaber:innen bestätigen außerdem, dass alle Personen genannt worden
 
 Beispielhaft stellen wir hier den Entwurf der Lizenz-Erklärung A+B+C zur Verfügung. Dieser beinhaltet alle verfügbaren Stufen der Rechteeinräumung. 
 
-  * [arkumu-A+B+C 1.0 (Entwurf)](/ressourcen/lizenzen/arkumu-a+b+c-1.0-entwurf)
+* [**arkumu-A+B+C 1.0 (Entwurf)**](/ressourcen/lizenzen/arkumu-a+b+c-1.0-entwurf)
 
 ----
 
@@ -33,18 +35,18 @@ Zusätzlich zu den oben genannten Nutzungsrechtseinräumungen zugunsten der eige
 
   * [CC BY 4.0 – Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de)\
   Das Werk darf geteilt, verändert und auch kommerziell genutzt werden.  Bei einer Veröffentlichung müssen die Autor:innen genannt[/verlinkt] werden. Ein Verweis zur entsprechenden CC-Lizenz muss angegeben werden.
-  
+
   * [CC BY-NC 4.0 – Namensnennung - Nicht kommerziell 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/deed.de)\
   Das Werk darf für nicht-kommerzielle Nutzungen geteilt und  verändert werden, eine kommerzielle Nutzung ist nicht zulässig.  Bei einer Veröffentlichung müssen die Autor:innen genannt[/verlinkt] werden. Ein Verweis zur entsprechenden CC-Lizenz muss angegeben werden.
-  
+
    * [CC BY-NC-ND 4.0 –Namensnennung - Nicht-kommerziell - Keine Bearbeitung 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)\
   Das Werk darf für nicht-kommerzielle Nutzungen geteilt werden, eine kommerzielle Nutzung ist nicht zulässig.  Das Werk darf nicht bearbeitet oder verändert werden. Bei einer Veröffentlichung müssen die Autor:innen genannt[/verlinkt] werden. Ein Verweis zur entsprechenden CC-Lizenz muss angegeben werden.
-  
+
   * [CC BY-NC-SA – Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)\
 Das Werk darf für nicht-kommerzielle Nutzungen geteilt und  verändert werden, eine kommerzielle Nutzung ist nicht zulässig.  Bei einer Veröffentlichung muss man die Lizenz des Originalwerks auch für das neue Werk angeben und es müssen die Autor:innen genannt[/verlinkt] werden. Ein Verweis zur entsprechenden CC-Lizenz muss angegeben werden.
 
   * [CC BY-ND 4.0 – Namensnennung - Keine Bearbeitung 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/deed.de)\
   Das Werk darf geteilt, verändert und auch kommerziell genutzt werden. Das Werk darf nicht bearbeitet oder verändert werden.  Bei einer Veröffentlichung müssen die Autor:innen genannt[/verlinkt] werden. Ein Verweis zur entsprechenden CC-Lizenz muss angegeben werden.
- 
+  
   * [CC BY-SA 4.0 – Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.de)\
 Das Werk darf geteilt, verändert und auch kommerziell genutzt werden.  Bei einer Veröffentlichung muss man die Lizenz des Originalwerks auch für das neue Werk angeben und es müssen die Autor:innen genannt[/verlinkt] werden.  Ein Verweis zur entsprechenden CC-Lizenz muss angegeben werden.

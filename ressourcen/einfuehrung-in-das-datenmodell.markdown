@@ -4,9 +4,11 @@ title: Einführung in das Datenmodell
 order: 2.3
 ---
 
+---
+
 Das Datenmodell definiert, wie die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die Metadaten erfasst und verfügbar gemacht werden. Zusätzlich umfasst es Wertelisten und Taxonomien, die den Kern des kontrollierten Vokabulars bilden.
 
-----
+---
 
 ## Die wichtigsten Entitäten
 
@@ -23,14 +25,14 @@ Dieses Diagramm zeigt in vereinfachter Form, wie sich die Entitäten und Attribu
 
 [<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> 2024-12-02_Datenmodellierung_vereinfacht.pdf]({{ site.baseurl}}/assets/documents/2024-12-02_Datenmodellierung_vereinfacht.pdf) (20,3 KB)  
 
-----
+---
 
 ## Die Grundlagen des Datenmodells im Video
 <video width="100%" controls>
     <source src="{{ site.baseurl}}/assets/documents/2024-04_datenmodellierung_1_grundlagen.mp4" type="video/mp4">
 </video>
 
-----
+---
 
 ## Beispielhafte Verzeichnung eines einfachen Projekts
 

@@ -4,9 +4,9 @@ title: Lenkungskreis
 order: 1.3
 ---
 
-Der Lenkungskreis ist das für projektbezogene Fragen zuständige Entscheidungsorgan der Kooperationspartner und verantwortlich für die fachliche Steuerung. Er entscheidet u.a. über den Mitteleinsatz, Leistungsänderungen und Änderungen des Zeitplans, die Errichtung von beratenden Gremien nach Bedarf, die Beauftragung externer Dienstleister und trifft sonstige für das Projekt wesentliche Entscheidungen.
+---
 
-Er besteht aus neun ordentlichen Mitgliedern:
+Der Lenkungskreis ist das für projektbezogene Fragen zuständige Entscheidungsorgan der Kooperationspartner und verantwortlich für die fachliche Steuerung. Er entscheidet u.a. über den Mitteleinsatz, Leistungsänderungen und Änderungen des Zeitplans, die Errichtung von beratenden Gremien nach Bedarf, die Beauftragung externer Dienstleister und trifft sonstige für das Projekt wesentliche Entscheidungen. Er besteht aus neun ordentlichen Mitgliedern:
 
 * Je ein:er Vertreter:in jeder der sechs Kooperationspartner,
 * Dem CIO der Kunst- und Musikhochschulen NRW,

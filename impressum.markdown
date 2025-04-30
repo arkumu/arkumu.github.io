@@ -4,6 +4,8 @@ title: Impressum
 order: 0
 ---
 
+---
+
 **Robert Schumann Hochschule Düsseldorf**  
 Fischerstraße 110  
 40476 Düsseldorf  

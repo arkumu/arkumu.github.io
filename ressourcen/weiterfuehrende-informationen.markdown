@@ -4,9 +4,11 @@ title: Weiterführende Informationen
 order: 2.8
 ---
 
+---
+
 Auf dieser Seite stellen wir Links zum Thema Langzeitverfügbarkeit zur Verfügung.
 
-----
+---
 
 ## Deutschsprachige Quellen
 
@@ -19,7 +21,7 @@ Nicht alle Dateiformate sind langzeitstabil. In der interaktiven Tabelle der Lan
 * **Informationen zu Datei-Formaten bei IANUS**  
 Auf den Seiten von [IANUS](https://ianus-fdz.de/it-empfehlungen/dateiformate/index/) finden Sie detaillierte Informationen über die Eigenheiten verschiedener Dateiformate und deren Langzeitstabilität.
 
-----
+---
 
 ## Englischsprachige Quellen
 
