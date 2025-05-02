@@ -28,8 +28,8 @@ Das Ziel von arkumu.nrw ist die qualitativ hochwertige Erschließung, Verfügba
     <a href="https://www.uni-koeln.de/"><img alt="Universität zu Köln Logo" src="/assets/images/universitaet_zu_koeln_logo.png"></a>
     <a href="https://itcc.uni-koeln.de/"><img alt="IT Center University of Cologne (ITCC) Logo" src="/assets/images/logo_itcc.svg"></a>
     <a href="https://www.dh.nrw/"><img alt="Digitale Hochschule Logo" src="/assets/images/DH-NRW_Logo_neu.png"></a>
-    <a href="https://www.hbz-nrw.de/"><img style="padding-top: 2%; max-height: 53px;" alt="Hochschul-Bibliothekszentrum Nordrhein-Westfalen Logo" src="/assets/images/hbz_logo_gross.gif"></a>
-    <a href="https://www.lzv.nrw/"><img style="padding-top: 2%; max-height: 53px;" alt="Langzeitverfügbarkeit Nordrhein-Westfalen Logo" src="/assets/images/LZV.png"></a>
+    <a href="https://www.hbz-nrw.de/"><img style="max-height: 53px;" alt="Hochschul-Bibliothekszentrum Nordrhein-Westfalen Logo" src="/assets/images/hbz_logo_gross.gif"></a>
+    <a href="https://www.lzv.nrw/"><img style="max-height: 53px;" alt="Langzeitverfügbarkeit Nordrhein-Westfalen Logo" src="/assets/images/LZV.png"></a>
 </div>
 
 ---
