@@ -31,7 +31,7 @@ Die Equipmentarten sind auch in der vollständigen [Datenmodell-Tabelle](/techni
 | Drohne | Unmanned Aerial Vehicle | [**Q484000**](https://www.wikidata.org/entity/Q484000) | [**4332556-7**](https://d-nb.info/gnd/4332556-7) |  |
 | Drucker | Printer | [**Q82**](https://www.wikidata.org/entity/Q82) | [**4013091-5**](https://d-nb.info/gnd/4013091-5) | [**300024535**](https://vocab.getty.edu/aat/300024535) |
 | Eingabegerät | Input Device | [**Q864114**](https://www.wikidata.org/entity/Q864114) | [**4148867-2**](https://d-nb.info/gnd/4148867-2) | [**300168267**](https://vocab.getty.edu/aat/300168267) |
-| Einplatinencomputer | single board computer | [**Q944780**](https://www.wikidata.org/entity/Q944780) | [**4191878-2**](https://d-nb.info/gnd/4191878-2) |  |
+| Einplatinencomputer | Single Board Computer | [**Q944780**](https://www.wikidata.org/entity/Q944780) | [**4191878-2**](https://d-nb.info/gnd/4191878-2) |  |
 | elektronisches Bauelement | Electronic Component | [**Q11653**](https://www.wikidata.org/entity/Q11653) | [**4014360-0**](https://d-nb.info/gnd/4014360-0) |  |
 | elektronisches Gerät | Electronic Device | [**Q2858615**](https://www.wikidata.org/entity/Q2858615) |  |  |
 | Filmkamera | Movie Camera | [**Q335095**](https://www.wikidata.org/entity/Q335095) | [**4154362-2**](https://d-nb.info/gnd/4154362-2) | [**300022644**](https://vocab.getty.edu/aat/300022644) |
