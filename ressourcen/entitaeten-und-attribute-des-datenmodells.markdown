@@ -4,6 +4,8 @@ title: Entitäten und Attribute des Datenmodells
 order: 2.4
 ---
 
+---
+
 Diese Seite bietet einen Überblick über das Datenmodell. Eine detaillierte Aufstellung findet sich in der vollständigen [technischen Dokumentation](/technische-dokumentation/datenmodell#tabelle).
 
 Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und in die Langzeitarchivierung zu überführen. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen.
@@ -89,7 +91,11 @@ Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an. Dafü
 
 Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ vergeben. In unserem System taucht diese Projektkategorie wie folgt auf:
 
+<br/>
+
 <div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span> / <span style="color: blue">Design</span> / <span style="color: blue">Industrial Design</span></div>
+
+<br/>
 
 Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.
 
@@ -202,6 +208,8 @@ flowchart TB;
     Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">nein</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via arkumu.nrw geschlossen werden]
     Rechte_werden_geprüft-- <span style="background-color: #f4effc">zusätzlich</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via arkumu.nrw geschlossen werden]
 </pre>
+
+<br/>
 
 Außerdem gibt es noch einige Sonderfälle, die im Einzelfall geprüft werden müssen. So kann es sein, dass ein Werk verwaist ist, es also auch nach vorheriger Recherche nicht mehr seinen zugehörigen Urheber:innen zugeordnet werden kann. In diesem Fall kann eine europäische Sonderregelung gelten, bei der die zugehörigen Dateien öffentlich zugänglich gemacht werden könnten.
 

@@ -4,6 +4,8 @@ title: Infrastruktur
 order: 3.3
 ---
 
+---
+
 Dieses Strukturdiagramm veranschaulicht den logischen Aufbau der derzeitigen Projektinfrastruktur und zeigt die Zusammenhänge von Systemkomponenten, Nutzer:innen, angebundenen Diensten und externen Institutionen. In den folgenden Abschnitten werden die zentralen Einheiten dieses Modells kurz erklärt und ihre zentralen Funktionsweisen beschrieben.
 
 [![arkumu.nrw-Strukturdiagramm Stand Juli 2024](/assets/images/2025-03-20_Strukturdiagramm.png 'Das Strukturdiagramm veranschaulicht den logischen Aufbau der intendierten Projektinfrastruktur')](/assets/images/2025-03-20_Strukturdiagramm.png)
@@ -11,7 +13,7 @@ Dieses Strukturdiagramm veranschaulicht den logischen Aufbau der derzeitigen Pro
 [<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> 2025-03-20_Strukturdiagramm.pdf](/assets/documents/2025-03-20_Strukturdiagramm.pdf) (50 KB)\
 <sub>Stand 20. März 2025</sub>
 
-----
+---
 
 ## Erfassungs-Backend
 
@@ -21,13 +23,13 @@ Die mit der Einlieferung in dem Pre-Ingest beauftragten Personen einer Hochschul
 
 Auf Wunsch können ganze Projekt- und Akteur:innen-Datensätze als vertraulich markiert und damit gesperrt werden. Sie sind dann nur nicht mehr für alle Einliefernden einer Hochschule sondern noch für Benutzende der Rollen „Manager:in“ oder höher zugänglich.
 
-----
+---
 
 ## Admin-Backend
 
 Das Admin-Backend erlaubt die Verwaltung kontrollierter Vokabulare und Taxonomien sowie von Rechte- und Lizenzangaben für Projekte und [Digitale Objekte](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-digitale-objekte) im Erfassungs-Backend. Zudem können vom Admin-Portal aus alle zentralen Arbeitsschritte zur Überführung in die Langzeitverfügbarkeit und zum Web-Portal geplant und durchgeführt werden. Der Zugriff auf das Admin-Backend ist auf die Projektleitung und Benutzende der Rollen „Manager:in“ oder höher beschränkt. Bis zum Ende der ersten Projektlaufzeit 2025 haben zusätzlich die die Mediendokumentar:innen Zugang.
 
-----
+---
 
 ## Staging-Speicher
 
@@ -35,13 +37,13 @@ Sämtliche Dateien werden direkt auf den vom [ITCC](/projektstruktur/team#entwic
 
 Alle Dateien befinden sich bis zum Transfer in den Speicher des hbz auf dem Staging-Speicher. Dateien, die nicht für die Veröffentlichung bestimmt sind, werden danach gelöscht. Gegebenenfalls erstellte Nutzerkopien (wie herunterskalierte Bilder und Audioformate fürs Web) und Originaldateien, die direkt veröffentlicht werden sollen, verbleiben auf diesem Speicher.
 
-----
+---
 
 ## Web- und Arbeitsrepositorium
 
 Das Web- und Arbeitsrepositorium ist der zentrale Knotenpunkt, an dem alle Daten und Dateien, die bei arkumu.nrw erfasst werden, zusammenlaufen und von dem aus sie weiterverarbeitet werden können. arkumu.nrw sollte ursprünglich dafür das speziell für die Archivierung von audio-visuellen Kulturarchivalien entwickelte Repositoriumssystem [KA³](https://ka3.uni-koeln.de/) nutzen, hat aber im Lauf der Projektlaufzeit aufgrund gestiegener Anforderungen eine eigene Softwarelösung entwickelt. Das Web- und Arbeitsrepositorium liefert die Daten für das öffentliche Web-Portal und ist über eine Schnittstelle an die Langzeitverfügbarkeits-Lösung des [hbz](https://www.hbz-nrw.de/) angebunden.
 
-----
+---
 
 ## Transfer in das Dark Archive des hbz
 
@@ -49,13 +51,13 @@ Das Web- und Arbeitsrepositorium produziert aus den erfassten Dateien und Metada
 
 Nach dem Transfer in den Speicher des hbz werden Dateien, die nicht veröffentlicht werden sollen, aus dem Staging-Speicher gelöscht. Sie befinden dann nur noch im sogenannten Dark Archive und unter alleiniger Kontrolle der einliefernden Hochschule. Siehe die Informationsseiten des [hbz](https://service-wiki.hbz-nrw.de/spaces/LLZV/pages/565936255/Glossar+wichtiger+Begriffe+f%C3%BCr+die+Langzeitverf%C3%BCgbarkeit#GlossarwichtigerBegriffef%C3%BCrdieLangzeitverf%C3%BCgbarkeit-DarkArchiveDarkArchive) zum Dark Archive.
 
-----
+---
 
 ## Rosetta-Backend
 
 Über das [Rosetta-Backend](https://www.lzv.nrw/ueber-lzv/wie-funktioniert-lzv) kann die Hochschule auf ihr „Dark Archive“ zugreifen und Erhaltungsmaßnahmen zu ihren digitalen Daten planen und durchführen. Bei Bedarf können alle eingelieferten Daten auch wieder exportiert werden. Weitere Informationen zu diesen Prozessen finden sich im [Wiki der LZV.nrw](https://service-wiki.hbz-nrw.de/display/LLZV/Landesweite+LZV+-+Willkommen).
  
-----
+---
 
 ## Web-Portal
 
