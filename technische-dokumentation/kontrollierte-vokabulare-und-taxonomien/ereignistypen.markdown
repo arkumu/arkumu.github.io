@@ -69,7 +69,7 @@ Die Ereignistypen sind auch in der vollständigen [Datenmodell-Tabelle](/technis
 | Umgestaltung | Transformation | Umwandlung | [**Q10357784**](https://www.wikidata.org/entity/Q10357784) |	[**4452586-2**](https://d-nb.info/gnd/4452586-2) | |  [**lido00029**](http://terminology.lido-schema.org/lido00029) |
 | Uraufführung | World Première	| | [**Q2500107**](https://www.wikidata.org/entity/Q2500107) | [**4236166-7**](https://d-nb.info/gnd/4236166-7) | | |
 | Ursendung | Radio Première | Rundfunk-Premiere, First Radio Broadcast | [**Q118581694**](https://www.wikidata.org/entity/Q118581694) |
-| Veranstaltung | event | activity, events, Event, évènement, événements | [**Q1656682**](https://www.wikidata.org/entity/Q1656682) | [**4125453-3**](https://d-nb.info/gnd/4125453-3) |
+| Veranstaltung | Event | Activity, Events | [**Q1656682**](https://www.wikidata.org/entity/Q1656682) | [**4125453-3**](https://d-nb.info/gnd/4125453-3) |
 | Veröffentlichung | Publishing | Veröffentlichen, Publication | [**Q3972943**](https://www.wikidata.org/entity/Q3972943) | [**4187925-9**](https://d-nb.info/gnd/4187925-9) | [**300054686**](https://vocab.getty.edu/aat/300054686) | [**lido00228**](https://terminology.lido-schema.org/lido00228) |
 | Vertrieb | Marketing | Vermarktung | [**Q39809**](https://www.wikidata.org/entity/Q39809) | [**4127117-8**](https://d-nb.info/gnd/4127117-8) | [**300054673**](https://vocab.getty.edu/aat/300054673) | [**lido00401**](https://terminology.lido-schema.org/lido00401) |
 | Vorlesung | Lecture | Lehrveranstaltung, Talk | [**Q603773**](https://www.wikidata.org/entity/Q603773) | [**4117405-7**](https://d-nb.info/gnd/4117405-7) | [**300026673**](https://vocab.getty.edu/aat/300026673) | |
