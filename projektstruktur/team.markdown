@@ -40,11 +40,6 @@ Folkwang Universität der Künste
 Fon: +49 201 6505 1421  
 [natalie-nesrin.calkozan@folkwang-uni.de](mailto:natalie-nesrin.calkozan@folkwang-uni.de)
 
-**Tilmann Fischer**  
-Hochschule für Musik Detmold  
-Fon: +49 5231 975-685  
-[tilmann.fischer@hfm-detmold.de](mailto:tilmann.fischer@hfm-detmold.de)
-
 **Luisa Grimm**  
 Hochschule für Musik und Tanz Köln\
 [luisa.grimm@hfmt-koeln.de](mailto:luisa.grimm@hfmt-koeln.de)
@@ -63,6 +58,11 @@ Fon: +49 221 20 189 170
 Kunsthochschule für Medien Köln  
 Fon: +49 221 20 189 171  
 [jannik.ott@khm.de](mailto:jannik.ott@khm.de)
+
+**David Siekmann**  
+Hochschule für Musik Detmold  
+Fon: +49 5231 975-874  
+[david.siekmann@hfm-detmold.de](mailto:david.siekmann@hfm-detmold.de)
 
 ----
 
