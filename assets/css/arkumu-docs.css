@@ -1266,23 +1266,24 @@ img {
    margin-bottom: 2%;
    font-weight: 500;
  }
- 
+
  .right-footer {
    margin-top: 0.9%;
    flex: 3;
    display: block;
+   text-align: right;
  }
  
  .right-footer img {
    margin-bottom: 0%;
    margin-top: 0%;
-   filter: grayscale(1);
+   filter: grayscale(100%);
  }
  
  .right-footer img:hover {
-   filter: grayscale(0);
-   filter: brightness(1) !important;
+   filter: none;
    opacity: 1;
+   transition: filter 0.3s ease;
  }
  
  .right-footer-mobile {
@@ -1292,7 +1293,7 @@ img {
  .right-footer-mobile img {
    display: inline-block;
    margin-bottom: 2%;
-   margin-top: 2%;
+   margin-top: 5%;
    filter: grayscale(1);
  }
  
@@ -1367,3 +1368,43 @@ img {
      float: left;
    }
  }
+
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1.5rem;
+  justify-content: center;
+  margin: 0 auto; /* Zentriert den gesamten Container */
+  align-items: center;
+  max-width: 100%;
+}
+
+  /* Logo-Grid-Styling */
+.logo-grid a img {
+  max-height: 60px;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  box-shadow: none !important;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.logo-grid a img:hover {
+  filter: none;
+}
+
+/* Desktop: 6 Logos pro Reihe */
+@media (min-width: 1024px) {
+  .logo-grid {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+/* Tablet und kleiner: 3 Logos pro Reihe */
+@media (max-width: 1023px) {
+  .logo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: start;
+  }
+}
