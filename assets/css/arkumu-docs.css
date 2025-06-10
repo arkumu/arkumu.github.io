@@ -1253,12 +1253,6 @@ img {
    width: 330px;
    margin-top: 7%;
    margin-bottom: 0%;
-   filter: grayscale(1);
- }
- 
- .center-footer img:hover {
-   filter: grayscale(0);
-   opacity: 1;
  }
  
  .center-footer-text {
@@ -1266,23 +1260,17 @@ img {
    margin-bottom: 2%;
    font-weight: 500;
  }
- 
+
  .right-footer {
    margin-top: 0.9%;
    flex: 3;
    display: block;
+   text-align: right;
  }
  
  .right-footer img {
    margin-bottom: 0%;
    margin-top: 0%;
-   filter: grayscale(1);
- }
- 
- .right-footer img:hover {
-   filter: grayscale(0);
-   filter: brightness(1) !important;
-   opacity: 1;
  }
  
  .right-footer-mobile {
@@ -1292,15 +1280,10 @@ img {
  .right-footer-mobile img {
    display: inline-block;
    margin-bottom: 2%;
-   margin-top: 2%;
-   filter: grayscale(1);
+   margin-top: 5%;
  }
  
- .right-footer-mobile img:hover {
-   filter: grayscale(0);
-   opacity: 1;
-   filter: brightness(1) !important;
- }
+
  
  /*----Styling for mittlere Bildschirme--*/
  /*----Styling for midsized screens--*/
@@ -1328,8 +1311,11 @@ img {
    }
  
    .right-footer-mobile {
-     display: inline-block;
-     margin-top: 4%;
+     display: flex;
+     margin-left: 2%;
+     margin-top: 5%;
+     align-items: center;
+     gap: 35px;
    }
  }
  
@@ -1363,7 +1349,55 @@ img {
    }
  
    .right-footer-mobile {
-     display: block;
-     float: left;
+     display: flex;
+     margin-left: 2%;
+     align-items: center;
+     gap: 35px;
+     margin-top:5%;
    }
+
+
+
+   .right-footer-mobile {
+
+}
+
+.right-footer-mobile img {
+  width: 110px;
+  flex-shrink: 1; /* Logos können bei Bedarf verkleinert werden */
+}
  }
+
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 2.5rem;
+  justify-content: center;
+  margin-top:5%;
+  align-items: center;
+  max-width: 100%;
+}
+
+  /* Logo-Grid-Styling */
+.logo-grid a img {
+  max-height: 60px;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  box-shadow: none !important;
+}
+
+/* Desktop: 5 Logos pro Reihe */
+@media (min-width: 1024px) {
+  .logo-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+/* Tablet und kleiner: 3 Logos pro Reihe */
+@media (max-width: 1023px) {
+  .logo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: start;
+  }
+}
