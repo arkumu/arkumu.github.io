@@ -1253,12 +1253,6 @@ img {
    width: 330px;
    margin-top: 7%;
    margin-bottom: 0%;
-   filter: grayscale(1);
- }
- 
- .center-footer img:hover {
-   filter: grayscale(0);
-   opacity: 1;
  }
  
  .center-footer-text {
@@ -1277,13 +1271,6 @@ img {
  .right-footer img {
    margin-bottom: 0%;
    margin-top: 0%;
-   filter: grayscale(100%);
- }
- 
- .right-footer img:hover {
-   filter: none;
-   opacity: 1;
-   transition: filter 0.3s ease;
  }
  
  .right-footer-mobile {
@@ -1294,14 +1281,9 @@ img {
    display: inline-block;
    margin-bottom: 2%;
    margin-top: 5%;
-   filter: grayscale(1);
  }
  
- .right-footer-mobile img:hover {
-   filter: grayscale(0);
-   opacity: 1;
-   filter: brightness(1) !important;
- }
+
  
  /*----Styling for mittlere Bildschirme--*/
  /*----Styling for midsized screens--*/
@@ -1329,8 +1311,11 @@ img {
    }
  
    .right-footer-mobile {
-     display: inline-block;
-     margin-top: 4%;
+     display: flex;
+     margin-left: 2%;
+     margin-top: 5%;
+     align-items: center;
+     gap: 35px;
    }
  }
  
@@ -1364,17 +1349,31 @@ img {
    }
  
    .right-footer-mobile {
-     display: block;
-     float: left;
+     display: flex;
+     margin-left: 2%;
+     align-items: center;
+     gap: 35px;
+     margin-top:5%;
    }
+
+
+
+   .right-footer-mobile {
+
+}
+
+.right-footer-mobile img {
+  width: 110px;
+  flex-shrink: 1; /* Logos können bei Bedarf verkleinert werden */
+}
  }
 
 .logo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  gap: 1.5rem;
+  gap: 2.5rem;
   justify-content: center;
-  margin: 0 auto; /* Zentriert den gesamten Container */
+  margin-top:5%;
   align-items: center;
   max-width: 100%;
 }
@@ -1386,18 +1385,12 @@ img {
   height: auto;
   object-fit: contain;
   box-shadow: none !important;
-  filter: grayscale(100%);
-  transition: filter 0.3s ease;
 }
 
-.logo-grid a img:hover {
-  filter: none;
-}
-
-/* Desktop: 6 Logos pro Reihe */
+/* Desktop: 5 Logos pro Reihe */
 @media (min-width: 1024px) {
   .logo-grid {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
