@@ -7,7 +7,7 @@ order: 2.7
 **A:** [Akteur:in](/ressourcen/a-bis-z.html#akteurin), [Attribute](/ressourcen/a-bis-z.html#attribute)  
 **B:** [Backend](/ressourcen/a-bis-z.html#backend), [Brotkrumen/Breadcrumbs](/ressourcen/a-bis-z.html#brotkrumenbreadcrumbs)  
 **D:** [Dateiformate](/ressourcen/a-bis-z.html#dateiformate), [Datensatz](/ressourcen/a-bis-z.html#datensatz), [Daten-Staging](/ressourcen/a-bis-z.html#daten-staging)  
-**E:** [Entität](/ressourcen/a-bis-z.html#entität), [Ereignis](/ressourcen/a-bis-z.html#ereignis), [Erfassungs-Backend](/ressourcen/a-bis-z.html#erfassungs-backend)  
+**E:** [Entität](/ressourcen/a-bis-z.html#entität), [Ereignis](/ressourcen/a-bis-z.html#ereignis), [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske)  
 **K:** [Kontrolliertes Vokabular](/ressourcen/a-bis-z.html#kontrolliertes-vokabular)  
 **L:** [Langzeitverfügbarkeit](/ressourcen/a-bis-z.html#langzeitverfügbarkeit), [Lizenz](/ressourcen/a-bis-z.html#lizenz)  
 **M:** [Metadaten](/ressourcen/a-bis-z.html#metadaten)  
@@ -33,7 +33,7 @@ Attribute sind spezifische Merkmale oder Eigenschaften, die zur Beschreibung und
 ----
 
 ### Backend
-Backend ist eine allgemeine Bezeichnung für eine Benutzeroberfläche, die nur nach vorheriger Authentifizierung/Anmeldung in einem System zugänglich ist. Im System von arkumu.nrw gibt es das [Erfassungs-Backend](/ressourcen/a-bis-z.html#erfassungs-backend) (auch ”ingest” genannt), das Admin-Backend (auch ”adm” genannt) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Backend ist eine allgemeine Bezeichnung für eine Benutzeroberfläche, die nur nach vorheriger Authentifizierung/Anmeldung in einem System zugänglich ist. Im System von arkumu.nrw gibt es die [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske) (auch ”ingest” genannt), das Admin-Backend (auch ”adm” genannt) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
 
 ----
 
@@ -72,8 +72,8 @@ Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einfüh
 
 ----
 
-### Erfassungs-Backend
-Das Erfassungs-Backend ist eine Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Daten-Staging ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe [Infrastruktur/Erfassungs-Backend](/technische-dokumentation/infrastruktur#erfassungs-backend).
+### Erfassungs-Maske
+Die Erfassungs-Maske ist eine Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Web-Repositorium ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe [Infrastruktur/Importer und Erfassungs-Maske](/technische-dokumentation/infrastruktur#erfassungs-maske-und-erfassungs-maske).
 
 ----
 
