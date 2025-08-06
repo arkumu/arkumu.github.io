@@ -73,11 +73,6 @@ Fon: +49 5231 975-874
 Fon: +49 221 4708 9685   
 [schubert@uni-koeln.de](mailto:schubert@uni-koeln.de)
 
-**Thomas Baur**  
-[ITCC](https://itcc.uni-koeln.de/), Universität zu Köln  
-Fon: +49 221 4708 9605  
-[tbaur3@uni-koeln.de](mailto:tbaur3@uni-koeln.de)
-
 **Francisco Mondaca**  
 [ITCC](https://itcc.uni-koeln.de/), Universität zu Köln  
 Fon: +49 221 47089549  
