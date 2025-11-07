@@ -512,6 +512,7 @@ body {
    min-height: 65vh;
    overflow-x: auto;
    margin-bottom: 1%;
+   margin-right: 3%
  }
  
  .post-content {
@@ -554,12 +555,24 @@ body {
  /*---- Sidebar an der rechten Seite ----*/
  /*---- Sidebar on the right side ----*/
  
- .sidebar {
-   position: fixed;
-   width: 100%;
-   overflow-y: auto;
-   font-size: 13.5px;
- }
+.sidebar {
+  position: fixed;
+  top: 100px;          /* Abstand vom Header */
+  bottom: 290px;       /* Abstand vom Footer */
+  width: 260px;
+  overflow-y: auto;
+  padding-top: 24px;
+  padding-bottom: 32px;
+  font-size: 13.5px;
+
+  /* Scrollbar ausblenden */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.sidebar::-webkit-scrollbar {
+  display: none;
+}
  
  .sidebar a {
    font-size: 11.5px;
@@ -582,7 +595,7 @@ body {
    font-weight: bold;
  }
  
- .worm-indicator {
+ /* .worm-indicator {
    position: fixed;
    margin-left: 4%;
    overflow-y: auto;
@@ -590,7 +603,7 @@ body {
    height: 20px;
    background-color: #ead8ff;
    transition: top 0.3s ease;
- }
+ } */
  
  @media screen and (max-width: 1250px) {
    .sidebar-container {
