@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Projektkategorien
-order: 3.2.2
+order: 3.2.5
 permalink: /documentation/controlled-vocabularies/project-categories
 ---
 

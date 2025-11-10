@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Rollen
-order: 3.2.3
+order: 3.2.7
 permalink: /documentation/controlled-vocabularies/roles
 ---
 

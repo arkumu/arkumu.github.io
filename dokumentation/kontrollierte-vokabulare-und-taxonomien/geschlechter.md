@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Geschlechter
-order: 3.2.4
+order: 3.2.3
 permalink: /documentation/controlled-vocabularies/genders
 ---
 
