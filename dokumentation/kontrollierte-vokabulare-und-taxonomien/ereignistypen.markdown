@@ -10,9 +10,9 @@ permalink: /documentation/controlled-vocabularies/event-types/
 ---
 <br/>
 
-**English:**
+**Deutsch:**
 
-Event Types are used to further categorise [**Events**](#event) in arkumu.nrw. In CIDOC, Events itself are an instance of [**E7** Activity](http://cidoc-crm.org/cidoc-crm/7.1.3/E7_Activity). There, this entity has a number of subclass-entities, that could furthermore distinguish an activity, like [**E65** Creation](http://cidoc-crm.org/cidoc-crm/7.1.3/E65_Creation) for example. But these entities are quite ontological abstracted and not really suited to express the wide variety of events that are taking place in the art world. Since further CRM properties, in these subclass-etities, are not needed to express an Event in the arkumu-sense, this controlled vocabulary is used to more precisely define of what type of an Event is.
+Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter zu kategorisieren. In CIDOC sind Ereignisse selbst eine Instanz von [**E7** Activity](http://cidoc-crm.org/cidoc-crm/7.1.3/E7_Activity). Dort hat diese Entität eine Reihe von Unterklassen-Entitäten, die eine Aktivität weiter unterscheiden könnten, wie beispielsweise [**E65** Creation](http://cidoc-crm.org/cidoc-crm/7.1.3/E65_Creation). Diese Entitäten sind jedoch ontologisch recht abstrakt und nicht wirklich geeignet, um die große Vielfalt der Ereignisse in der Kunstwelt auszudrücken. Da weitere CRM-Properties aus diesen "Subclass Entities" nicht erforderlich sind, um ein Ereignis im Sinne von arkumu auszudrücken, wird dieses kontrollierte Vokabular verwendet, um genauer zu definieren, um welche Art von Ereignis es sich handelt.
 
 <br/>
 
@@ -20,9 +20,9 @@ Event Types are used to further categorise [**Events**](#event) in arkumu.nrw. I
 
 <br/>
 
-**Deutsch:**
+**English:**
 
-Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter zu kategorisieren. In CIDOC sind Ereignisse selbst eine Instanz von [**E7** Activity](http://cidoc-crm.org/cidoc-crm/7.1.3/E7_Activity). Dort hat diese Entität eine Reihe von Unterklassen-Entitäten, die eine Aktivität weiter unterscheiden könnten, wie beispielsweise [**E65** Creation](http://cidoc-crm.org/cidoc-crm/7.1.3/E65_Creation). Diese Entitäten sind jedoch ontologisch recht abstrakt und nicht wirklich geeignet, um die große Vielfalt der Ereignisse in der Kunstwelt auszudrücken. Da weitere CRM-Properties aus diesen "Subclass Entities" nicht erforderlich sind, um ein Ereignis im Sinne von arkumu auszudrücken, wird dieses kontrollierte Vokabular verwendet, um genauer zu definieren, um welche Art von Ereignis es sich handelt.
+Event Types are used to further categorise [**Events**](#event) in arkumu.nrw. In CIDOC, Events itself are an instance of [**E7** Activity](http://cidoc-crm.org/cidoc-crm/7.1.3/E7_Activity). There, this entity has a number of subclass-entities, that could furthermore distinguish an activity, like [**E65** Creation](http://cidoc-crm.org/cidoc-crm/7.1.3/E65_Creation) for example. But these entities are quite ontological abstracted and not really suited to express the wide variety of events that are taking place in the art world. Since further CRM properties, in these subclass-etities, are not needed to express an Event in the arkumu-sense, this controlled vocabulary is used to more precisely define of what type of an Event is.
 
 <br/>
 
