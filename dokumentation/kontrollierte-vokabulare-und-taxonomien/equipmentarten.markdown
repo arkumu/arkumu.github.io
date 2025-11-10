@@ -2,7 +2,7 @@
 layout: arkumu-docs
 title: Equipmentarten
 order: 3.2.5
-permalink: /documentation/controlled-vocabularies/equipment-types/
+permalink: /documentation/controlled-vocabularies/equipment-types
 ---
 
 ```Equipment Types```

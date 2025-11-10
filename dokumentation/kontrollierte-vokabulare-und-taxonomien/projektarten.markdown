@@ -2,7 +2,7 @@
 layout: arkumu-docs
 title: Projektarten
 order: 3.2.6
-permalink: /documentation/controlled-vocabularies/project-types/
+permalink: /documentation/controlled-vocabularies/project-types
 ---
 
 Ein Projekt muss zu mindestens einer und kann zu mehreren Projektarten gehören. Die Projektart bezeichnet den Typ des Projekts im akademischen oder administrativen Kontext. 

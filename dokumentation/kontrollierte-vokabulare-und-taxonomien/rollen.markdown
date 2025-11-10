@@ -2,7 +2,7 @@
 layout: arkumu-docs
 title: Rollen
 order: 3.2.3
-permalink: /documentation/controlled-vocabularies/roles/
+permalink: /documentation/controlled-vocabularies/roles
 ---
 
 ```Roles```
