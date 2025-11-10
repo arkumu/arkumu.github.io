@@ -1,10 +1,11 @@
 ---
 layout: arkumu-docs
-title: Event Types
+title: Ereignistypen
 order: 3.2.1
+permalink: /documentation/controlled-vocabularies/event-types/
 ---
 
-```Ereignistypen```
+```Event types```
 
 ---
 <br/>
@@ -197,7 +198,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 15 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-15`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-15) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-15) |
 | **English Name** | Acquisition |
 | **English Synonyms** | Transfer of Legal Ownership,Transfer of Title  |
 | **German Name** | Erwerb |
@@ -222,7 +223,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 37 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-37`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-37) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-37) |
 | **English Name** | Annual Exhibition |
 | **German Name** | Rundgang |
 | **German Synonyms** | Jahresausstellung |
@@ -244,7 +245,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-3`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-3) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-3) |
 | **English Name** | Arrangement |
 | **English Synonyms** | Musical Arrangement |
 | **German Name** | Arrangement |
@@ -266,7 +267,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-8`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-8) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-8) |
 | **English Name** | Award |
 | **English Synonyms** | Prize |
 | **German Name** | Auszeichnung |
@@ -289,7 +290,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-33`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-33) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-33) |
 | **English Name** | Award Ceremony |
 | **German Name** | Preisverleihung |
 | **Wikidata ID** | [Q4504495](https://www.wikidata.org/entity/Q4504495) |
@@ -309,7 +310,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 24 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-24`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-24) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-24) |
 | **English Name** | Colloquium |
 | **German Name** | Kolloquium |
 | **Wikidata ID** | [Q4228029](https://www.wikidata.org/entity/Q4228029) |
@@ -329,7 +330,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-9`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-9) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-9) |
 | **English Name** | Commissioning |
 | **English Synonyms** | Order |
 | **German Name** | Beauftragung |
@@ -353,7 +354,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 25 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-25`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-25) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-25) |
 | **English Name** | Concert |
 | **German Name** | Konzert |
 | **German Synonyms** | Konzertabend |
@@ -375,7 +376,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 26 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-26`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-26) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-26) |
 | **English Name** | Concert Series |
 | **English Synonyms** | Series of Concerts |
 | **German Name** | Konzertreihe |
@@ -397,7 +398,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 41 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-41`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-41) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-41) |
 | **English Name** | Conference |
 | **English Synonyms** | Academic Conference,Scientific Conference,Convention |
 | **German Name** | Symposium |
@@ -421,7 +422,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 59 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-59`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-59) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-59`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-59) |
 | **English Name** | Conversation |
 | **English Synonyms** | Talk |
 | **German Name** | Gespräch |
@@ -444,7 +445,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 62 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-62`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-62) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-62`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-62) |
 | **English Name** | Course |
 | **English Synonyms** | Class,Educational Course,Academic Course |
 | **German Name** | Kurs |
@@ -467,7 +468,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 21 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-21`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-21) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-21) |
 | **English Name** | Creation |
 | **English Synonyms** | Conception |
 | **German Name** | Geistige Schöpfung |
@@ -490,7 +491,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-11`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-11) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-11) |
 | **English Name** | Data Conversion |
 | **German Name** | Datenkonvertierung |
 | **German Synonyms** | Konvertierung |
@@ -512,7 +513,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-13`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-13) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-13) |
 | **English Name** | Design |
 | **English Synonyms** | Designing |
 | **German Name** | Entwurf |
@@ -537,7 +538,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 52 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-52`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-52) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-52) |
 | **English Name** | Destruction |
 | **German Name** | Zerstörung |
 | **German Synonyms** | Vernichtung |
@@ -561,7 +562,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-12`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-12) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-12) |
 | **English Name** | Digitisation |
 | **English Synonyms** | Retrodigitisation |
 | **German Name** | Digitalisierung |
@@ -585,7 +586,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 54 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-54`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-54) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-54) |
 | **English Name** | Documentation |
 | **German Name** | Dokumentation |
 | **German Synonyms** | Fotodokumentation |
@@ -608,7 +609,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 38 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-38`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-38) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-38) |
 | **English Name** | Editing (Film/TV/Video) |
 | **German Name** | Schnitt |
 | **German Synonyms** | Montage |
@@ -630,7 +631,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 19 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-19`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-19) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-19) |
 | **English Name** | Electroplating |
 | **German Name** | Galvanisierung |
 | **German Synonyms** | Galvanotechnik,Galvanische Beschichtung |
@@ -653,7 +654,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 60 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-60`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-60) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-60`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-60) |
 | **English Name** | Event |
 | **English Synonyms** | Activity |
 | **German Name** | Veranstaltung |
@@ -675,7 +676,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-6`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-6) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-6) |
 | **English Name** | Exhibition |
 | **German Name** | Ausstellung |
 | **German Synonyms** | Kunstausstellung,Gruppenausstellung,Einzelausstellung |
@@ -699,7 +700,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-7`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-7) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-7) |
 | **English Name** | Exhibition Opening |
 | **English Synonyms** | Vernissage,Private View,Opening Reception,Gallery Opening,Gallery Reception |
 | **German Name** | Ausstellungseröffnung |
@@ -722,7 +723,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 16 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-16`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-16) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-16) |
 | **English Name** | Festival |
 | **German Name** | Festival |
 | **Wikidata ID** | [Q132241](https://www.wikidata.org/entity/Q132241) |
@@ -743,7 +744,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 17 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-17`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-17) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-17) |
 | **English Name** | Film Festival |
 | **German Name** | Filmfestival |
 | **German Synonyms** | Filmfestspiel |
@@ -765,7 +766,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 18 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-18`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-18) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-18) |
 | **English Name** | Film Screening |
 | **English Synonyms** | Screening |
 | **German Name** | Filmvorführung |
@@ -788,7 +789,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 39 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-39`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-39) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-39) |
 | **English Name** | Graduation |
 | **German Name** | Studienabschluss |
 | **German Synonyms** | Hochschulabschluss,Graduierung |
@@ -810,7 +811,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 20 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-20`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-20) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-20) |
 | **English Name** | Guest Performance |
 | **German Name** | Gast-Performance |
 | **German Synonyms** | Gastspiel |
@@ -832,7 +833,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-2`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-2) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-2) |
 | **English Name** | Inaugural Lecture |
 | **German Name** | Antrittsvorlesung |
 | **Wikidata ID** | [Q609261](https://www.wikidata.org/entity/Q609261) |
@@ -853,7 +854,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 23 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-23`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-23) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-23) |
 | **English Name** | Interview |
 | **German Name** | Interview |
 | **German Synonyms** | Studiogespräch |
@@ -876,7 +877,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 49 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-49`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-49) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-49) |
 | **English Name** | Lecture |
 | **English Synonyms** | Talk |
 | **German Name** | Vorlesung |
@@ -900,7 +901,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 61 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-61`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-61) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-61`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-61) |
 | **English Name** | Live Streaming |
 | **English Synonyms** | Live Stream |
 | **German Name** | Live-Streaming |
@@ -923,7 +924,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 48 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-48`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-48) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-48) |
 | **English Name** | Marketing |
 | **German Name** | Vertrieb |
 | **German Synonyms** | Vermarktung |
@@ -947,7 +948,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 27 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-27`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-27) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-27) |
 | **English Name** | Master Class |
 | **German Name** | Meisterklasse |
 | **Wikidata ID** | [Q2537465](https://www.wikidata.org/entity/Q2537465) |
@@ -968,7 +969,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 53 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-53`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-53) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-53) |
 | **English Name** | Mastering |
 | **English Synonyms** | Audio-Mastering |
 | **German Name** | Mastering |
@@ -990,7 +991,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-10`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-10) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-10) |
 | **English Name** | Modification |
 | **English Synonyms** | Revision,Edit,Editing,Processing |
 | **German Name** | Bearbeitung |
@@ -1014,7 +1015,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 29 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-29`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-29) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-29) |
 | **English Name** | Music Festival |
 | **German Name** | Musikfestival |
 | **Wikidata ID** | [Q868557](https://www.wikidata.org/entity/Q868557) |
@@ -1035,7 +1036,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 28 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-28`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-28) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-28) |
 | **English Name** | Musical Composition |
 | **German Name** | Musikalische Komposition |
 | **German Synonyms** | Komposition,Komponieren |
@@ -1057,7 +1058,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-5`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-5) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-5) |
 | **English Name** | Musical Performance |
 | **German Name** | Aufführung (Musik) |
 | **German Synonyms** | Musikaufführung |
@@ -1080,7 +1081,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 63 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-63`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-63) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-63`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-63) |
 | **English Name** | Open House |
 | **German Name** | Tag der offenen Tür |
 | **German Synonyms** | TdoT |
@@ -1097,7 +1098,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-32`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-32) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-32) |
 | **English Name** | Panel Discussion |
 | **German Name** | Podiumsdiskussion |
 | **German Synonyms** | Podiumsgespräch |
@@ -1119,7 +1120,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 30 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-30`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-30) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-30) |
 | **English Name** | Performance |
 | **German Name** | Performance |
 | **German Synonyms** | Aktion |
@@ -1143,7 +1144,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-4`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-4) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-4) |
 | **English Name** | Performance (Performing Arts) |
 | **German Name** | Aufführung (Darstellende Künste) |
 | **Wikidata ID** | [Q35140](https://www.wikidata.org/entity/Q35140) |
@@ -1165,7 +1166,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 31 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-31`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-31) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-31) |
 | **English Name** | Planning |
 | **German Name** | Planung |
 | **Wikidata ID** | [Q309100](https://www.wikidata.org/entity/Q309100) |
@@ -1188,7 +1189,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 34 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-34`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-34) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-34) |
 | **English Name** | Première |
 | **German Name** | Premiere |
 | **German Synonyms** | Erstaufführung |
@@ -1211,7 +1212,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 50 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-50`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-50) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-50) |
 | **English Name** | Presentation |
 | **German Name** | Vortrag |
 | **German Synonyms** | Fachvortrag,Präsentation,Buchpräsentation |
@@ -1233,7 +1234,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 22 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-22`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-22) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-22) |
 | **English Name** | Production |
 | **English Synonyms** | Manufacturing |
 | **German Name** | Herstellung |
@@ -1258,7 +1259,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 47 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-47`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-47) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-47) |
 | **English Name** | Publishing |
 | **English Synonyms** | Publication |
 | **German Name** | Veröffentlichung |
@@ -1283,7 +1284,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-1`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-1) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-1) |
 | **English Name** | Purchase |
 | **German Name** | Ankauf |
 | **German Synonyms** | Erwerb |
@@ -1305,7 +1306,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 46 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-46`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-46) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-46) |
 | **English Name** | Radio Première |
 | **English Synonyms** | First Radio Broadcast |
 | **German Name** | Ursendung |
@@ -1327,7 +1328,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 55 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-55`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-55) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-55) |
 | **English Name** | Radio Programme |
 | **English Synonyms** | Radio show,Radio broadcast |
 | **German Name** | Radiosendung |
@@ -1351,7 +1352,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 57 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-57`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-57) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-57) |
 | **English Name** | Reading |
 | **German Name** | Lesung |
 | **German Synonyms** | Literarische Lesung |
@@ -1372,7 +1373,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 35 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-35`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-35) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-35) |
 | **English Name** | Rehearsal |
 | **German Name** | Probe |
 | **Wikidata ID** | [Q1751775](https://www.wikidata.org/entity/Q1751775) |
@@ -1393,7 +1394,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 43 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-43`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-43) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-43) |
 | **English Name** | Sound Recording |
 | **English Synonyms** | Audio Recording |
 | **German Name** | Tonaufnahme |
@@ -1417,7 +1418,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 36 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-36`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-36) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-36) |
 | **English Name** | Speech |
 | **English Synonyms** | Oration,Address |
 | **German Name** | Rede |
@@ -1441,7 +1442,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 40 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-40`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-40) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-40) |
 | **English Name** | Summer School |
 | **German Name** | Sommerakademie |
 | **German Synonyms** | Sommerschule,Sommerhochschule,Sommeruniversität |
@@ -1463,7 +1464,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 56 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-56`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-56) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-56) |
 | **English Name** | Television Programme |
 | **English Synonyms** | TV Programme,TV Broadcast |
 | **German Name** | Fernsehausstrahlung |
@@ -1487,7 +1488,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 42 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-42`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-42) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-42) |
 | **English Name** | Thematic Week |
 | **English Synonyms** | Themed Week |
 | **German Name** | Themenwoche |
@@ -1508,7 +1509,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 44 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-44`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-44) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-44) |
 | **English Name** | Transformation |
 | **German Name** | Umgestaltung |
 | **German Synonyms** | Umwandlung |
@@ -1531,7 +1532,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 58 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-58`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-58) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-58) |
 | **English Name** | Translation |
 | **German Name** | Übersetzung |
 | **Wikidata ID** | [Q7553](https://www.wikidata.org/entity/Q7553) |
@@ -1553,7 +1554,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 14 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-14`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-14) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-14) |
 | **English Name** | TV Première |
 | **English Synonyms** | First TV Broadcast |
 | **German Name** | Erstausstrahlung |
@@ -1575,7 +1576,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 51 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-51`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-51) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-51) |
 | **English Name** | Workshop |
 | **German Name** | Workshop |
 | **Wikidata ID** | [Q27556165](https://www.wikidata.org/entity/Q27556165) |
@@ -1595,7 +1596,7 @@ Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw weiter
 |||
 |-----------|-----------|
 | **ID** | 45 |
-| **URI** | `https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-45`[🔗](https://docs.arkumu.nrw/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/event-types.html#event-type-45) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types/#event-type-45) |
 | **English Name** | World Première |
 | **German Name** | Uraufführung |
 | **Wikidata ID** | [Q2500107](https://www.wikidata.org/entity/Q2500107) |

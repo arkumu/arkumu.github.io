@@ -1,7 +1,8 @@
 ---
 layout: arkumu-docs
-title: Technische Dokumentation
+title: Dokumentation
 order: 3
+permalink: /documentation/
 ---
 
 

@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Equipmentarten
 order: 3.2.5
+permalink: /documentation/controlled-vocabularies/equipment-types/
 ---
 
 Die folgenden Equipmentarten erlauben die Kategorisierung von Einträgen in der Tabelle Equipment und Software.

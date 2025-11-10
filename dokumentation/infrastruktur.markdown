@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Infrastruktur
 order: 3.3
+permalink: /documentation/infrastructure/
 ---
 
 Dieses im Vorprojekt entwickelte Strukturdiagramm veranschaulicht den logischen Aufbau der Projektinfrastruktur und zeigt die Zusammenhänge von Systemkomponenten, Nutzer:innen, angebundenen Diensten und externen Institutionen. In den folgenden Abschnitten werden die zentralen Einheiten dieses Modells kurz erklärt und ihre zentralen Funktionsweisen beschrieben.

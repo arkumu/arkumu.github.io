@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Datenmodell
 order: 3.1
+permalink: /documentation/data-model/
 ---
 
 ----

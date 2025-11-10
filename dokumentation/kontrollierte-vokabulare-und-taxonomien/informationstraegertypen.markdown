@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Informationsträgertypen
 order: 3.2.4
+permalink: /documentation/controlled-vocabularies/information-storage-medium-types
 ---
 
 Die folgenden 135 Informationsträgertypen werden benutzt, um materielle Aufzeichnungsmedien und Datenträger zu typisieren. Video, Film und Audio orientieren sich dabei an [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies).

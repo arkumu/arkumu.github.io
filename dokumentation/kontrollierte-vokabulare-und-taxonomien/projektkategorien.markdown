@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Projektkategorien
 order: 3.2.2
+permalink: /documentation/controlled-vocabularies/project-categories
 ---
 
 Die Taxonomie der Projektkategorien beschreibt in der ersten Ordnung Gattungen der Kunst, die (materielle, digitale, immaterielle, konzeptuelle) Projekte/Werke/Kunstobjekte beschreiben. Ab der zweiten Ordnung ist der Übergang zu Genres nicht scharf trennbar. Jedem Projekt kann eine beliebige Anzahl von Kategorien zugewiesen werden. Dadurch ist es möglich, auch Werke oder Projekte zu beschreiben, die weder in die eine noch die andere Kategorie ausschließlich passen. Zu vielen Einträgen gibt es Synonyme, die bei der Erfassung und späteren Suche Verwendung finden. Dadurch kann z.B. eine Suche nach „Bühnenbild“ (Synonym für Film/Setdesign) Datensätze mit „Setdesign" (bevorzugter Terminus) anzeigen. Dies funktioniert sowohl bei der Eingabe als auch beim Retrieval. Es wurde bewusst eine hierarchische Taxonomie und keine Ontologie verwendet, um die einfache Bedienbarkeit zu gewährleisten. Viele Projektkategorien werden bewusst mehrmals aufgeführt. So kann jeweils der passende Kontext ausgewählt werden. 

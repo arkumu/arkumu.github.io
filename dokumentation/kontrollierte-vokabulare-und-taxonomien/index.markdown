@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Kontrollierte Vokabulare und Taxonomien
 order: 3.2
+permalink: /documentation/controlled-vocabularies/
 ---
 
 Um eine einheitliche Erschließung und Verzeichnung zu gewährleisten, benutzt arkumu.nrw eine Reihe von selbst erstellten Systematiken. Diese enthalten nicht nur die Begriffe selbst, sondern sind mit Verweisen auf externe Dienste wie der Wikidata, der Gemeinsamen Normdatei der Deutschen Nationalbibliothek (GND) oder dem Getty Art & Architecture Thesaurus (AAT) angereichert, wodurch der Anschluss an das Semantic Web gewährleistet wird. Die Systematiken werden nach Bedarf im System erweitert und im Anschluss an dieser Stelle dokumentiert.

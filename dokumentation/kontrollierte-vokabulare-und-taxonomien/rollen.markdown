@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Rollen
 order: 3.2.3
+permalink: /documentation/controlled-vocabularies/roles
 ---
 
 Die Taxonomie der Rollen beschreibt Tätigkeiten, die von Akteur:innen im Rahmen von Ereignissen eingenommen werden können. Zusätzlich enthält die Liste Berufs- und Tätigkeitsangaben, die für biographische Beschreibungen von Akteur:innen benötigt werden.
