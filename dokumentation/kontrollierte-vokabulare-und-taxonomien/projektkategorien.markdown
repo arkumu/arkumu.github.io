@@ -48,1188 +48,1188 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <details><summary>Project Categories ordered by ID | Projektkategorien nach ID geordnet</summary>
 <table>
 <tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>1</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>Akademische Publikation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>Academic Publication</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>2</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>Dissertation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>Doctoral Thesis</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>3</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>Podcast</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>Podcast</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>4</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>Webseite</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>Website</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>5</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>Angewandte Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>Applied Arts</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>6</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>Architektur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>Architecture</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>7</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>8</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>Game Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>Game Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>9</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>Industrial Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>Industrial Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>10</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>Innenarchitektur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>Interior Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>11</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>Kommunikationsdesign</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>Graphic Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>12</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>Mediengestaltung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>Media Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>13</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>Modedesign</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>Fashion Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>14</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>Sound-Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>Sound Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>15</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>Textildesign</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>Textile Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>16</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>Transformation Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>Transformation Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>17</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>User Interface Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>User Interface Design</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>18</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>19</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>Architekturfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>Architectural Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>20</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>Dokumentarfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>Documentary Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>21</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>Fotogrammetrie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>Photogrammetry</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>22</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>Fotojournalismus</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>Photojournalism</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>23</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>Inszenierte Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>Staged Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>24</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>Landschaftsfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>Landscape Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>25</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>Modefotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>Fashion Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>26</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>Porträtfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>Portrait Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>27</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>Produktfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>Product Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>28</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>Theaterfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>Theatrical Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>29</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>Werbefotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>Advertising Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>30</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>Keramik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>Ceramic</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>31</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>Darstellende Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>Performing Arts</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>32</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>33</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>Absurdes Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>Theatre of the Absurd</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>34</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>Alternatives Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>Alternative Theater</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>35</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>Angewandtes Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>Applied Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>36</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>Episches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>Epic Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>37</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>Experimentelles Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>Experimental Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>38</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>Digital Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>Digital Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>39</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>Dokumentarisches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>Documentary Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>40</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>Figurentheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>Puppetry Arts</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>41</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>Freilichttheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>Open-Air Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>42</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>Improvisationstheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>Improvisational Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>43</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>Interaktives Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>Interactive Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>44</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>Jugendtheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>Youth Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>45</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>Kindertheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>Children's Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>46</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>Metatheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>Meta-Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>47</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>Musiktheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>Musical Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>48</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>Physical Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>Physical Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>49</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>Politisches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>Political Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>50</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>Postdramatisches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>Postdramatic Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>51</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>Postmodernes Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>Postmodern Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>52</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>Straßentheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>Street Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>53</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>Sprechtheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>Spoken Drama</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>54</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>Tanztheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>Dance Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>55</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>Film/TV</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>Film/TV</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>56</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>Animationsfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>Animated Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>57</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>Dokudrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>Docudrama</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>58</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>Dokumentarfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>Documentary Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>59</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>Kurz-Dokumentarfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>Short Documentary Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>60</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>Drehbuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>Screenplay</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>61</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>Episode</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>Episode</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>62</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>Episodenfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>Anthology Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>63</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>Essay-Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>Essay Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>64</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>Expanded Cinema</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>Expanded Cinema</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>65</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>Experimentalfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>Experimental Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>66</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>Kompilationsfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>Compilation Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>67</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>Mockumentary</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>Mockumentary</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>68</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>Musikfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>Musical Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>69</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>Musikvideo</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>Music Video</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>70</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>Reportage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>Reportage</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>71</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>Soundtrack</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>72</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>Spielfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>Feature Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>73</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>Kurzspielfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>Short Film</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>74</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>Trailer für Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>Film Trailer</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>75</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>TV-Format</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>Television Programme</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>76</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>Webserie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>Web Series</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>77</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>Werbespot</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>Commercial</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>78</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>79</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>Bio Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>Bio Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>80</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>Digitale Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>Digital Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>81</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>Augmented Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>Augmented Reality</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>82</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>CD-ROM</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>CD-ROM</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>83</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>Computer Generated Imagery</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>Computer Generated Imagery</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>84</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>Computeranimation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>Computer Animation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>85</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>Computerspiel</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>Computer Game</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>86</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>Generative Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>Generative Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>87</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>Interaktive Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>Interactive Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>88</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>Netzkunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>Net Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>89</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>Software</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>Software</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>90</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>User Interface</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>User Interface</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>91</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>Virtual Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>Virtual Reality</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>92</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>Webserie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>Web Series</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>93</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>94</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>Fotoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>Photo Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>95</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>Interaktive Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>Interactive Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>96</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>Intervention</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>Intervention</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>97</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>Klanginstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>Sound Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>98</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>Kunst am Bau</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>Percent for Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>99</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>Kunst im öffentlichen Raum</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>Public Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>100</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>Lichtinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>Light Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>101</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>Videoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>Video Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>102</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>Klangkunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>Sound Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>103</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>Album</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>Album</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>104</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>Field Recording</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>Field Recording</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>105</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>Hörstück</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>Listening Piece</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>106</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>Klanginstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>Sound Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>107</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>Klangobjekt</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>Sound Sculpture</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>108</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>Komposition</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>Composition</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>109</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>Konzert</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>Concert</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>110</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>Soundtrack</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>111</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>Künstler:innen-Publikation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>Artist's Publication</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>112</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>Künstler:innen-Buch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>Artist's Book</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>113</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>Künstler:innen-Text</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>Artist's Statement</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>114</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>Podcast</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>Podcast</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>115</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>Webseite</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>Website</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>116</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>Künstlerische Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>Fine Art Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>117</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>Computer Generated Imagery</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>Computer-Generated Imagery</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>118</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>Dokumentarfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>Documentary Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>119</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>Fotobuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>Photobook</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>120</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>Fotogrammetrie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>Photogrammetry</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>121</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>Fotoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>Photo Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>122</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>Inszenierte Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>Staged Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>123</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>Konzeptuelle Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>Conceptual Photography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>124</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>Lichtkunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>Light Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>125</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>Holografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>Holography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>126</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>Lichtinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>Light Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>127</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>Malerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>128</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>Performance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>129</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>Aktion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>Action</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>130</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>Durational Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>Durational Performance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>131</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>Happening</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>Happening</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>132</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>Intervention</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>Intervention</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>133</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>Performance-Vortrag</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>Lecture Performance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>134</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>Tanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>135</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>Skulptur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>Sculpture</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>136</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>Modell</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>Model</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>137</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>Ready-made</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>Found Object</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>138</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>Videokunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>Video Art</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>139</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>Expanded Cinema</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>Expanded Cinema</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>140</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>Projektionsmapping</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>Projection Mapping</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>141</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>Video-Essay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>Video Essay</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>142</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>Videoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>Video Installation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>143</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>Videoperformance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>Video Performance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>144</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>Videoskulptur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>Video Sculpture</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>145</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>Virtual Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>Virtual Reality</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>146</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>Zeichnung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>Drawing</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>147</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>Collage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>Collage</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>148</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>Comic</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>Comic</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>149</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>Druckgrafik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>Printmaking</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>150</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>Literatur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>Literature</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>151</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>Drama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>Drama</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>152</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>Einakter</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>One-act Play</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>153</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>Historiendrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>Historical Play</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>154</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>Komödie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>Comedy</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>155</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>Libretto</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>Libretto</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>156</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>Monodrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>Monodrama</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>157</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>Moralität</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>Morality Play</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>158</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>Sittenstück</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>Comedy of Manors</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>159</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>Tragikomödie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>Comedy Drama</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>160</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>Tragödie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>Tragedy</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>161</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>Versdrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>Verse Drama</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>162</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>Drehbuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>Screenplay</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>163</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>Epik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>Epic Literature</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>164</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>Erzählung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>Narrative Story</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>165</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>Kurzgeschichte</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>Short Story</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>166</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>Märchen</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>Fairy Tale</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>167</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>Novelle</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>Novella</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>168</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>Parabel</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>Parable</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>169</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>Reportage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>Reportage</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>170</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>Roman</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>Novel</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>171</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>Satire</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>Satire</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>172</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>Literaturlesung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>Literary Reading</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>173</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>Lyrik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>Poetry</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>174</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>Akrostichon</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>Acrostic</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>175</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>Ballade</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>Ballad</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>176</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>Elegie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>Elegy</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>177</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>Epigramm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>Epigram</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>178</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>Gedicht</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>Poem</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>179</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>Gedichtsammlung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>Poetry Collection</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>180</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>Haiku</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>Haiku</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>181</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>Hymne</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>Hymn</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>182</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>Konkrete Poesie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>Concrete Poetry</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>183</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>Lautgedicht</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>Sound Poetry</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>184</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>Limerick</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>Limerick</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>185</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>Songtext</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>Song Lyrics</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>186</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>Nachschlagewerk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>Reference Work</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>187</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>Nichtfiktionale Literatur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>Non-fictional Literature</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>188</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>Autobiografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>Autobiography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>189</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>Biografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>Biography</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>190</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>Blog</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>Blog</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>191</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>Essay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>Essay</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>192</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>Manifest</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>Manifesto</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>193</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>Memoir</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>Memoir</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>194</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>Ratgeber</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>Self-help Book</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>195</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>Sachbuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>Non-fiction Book</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>196</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>Tatsachenroman</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>Non-fiction Novel</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>197</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>198</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>Außereuropäische Kunstmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>Non-european Art Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>199</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>Bühnenmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>Stage Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>200</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>Elektroakustische Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>Electroacoustic Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>201</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>Elektronische Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>Electronic Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>202</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>Ensemblemusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>Ensemble Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>203</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>Folklore</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>Folklore</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>204</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>Geistliche Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>Sacred Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>205</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>Instrumentalmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>Instrumental Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>206</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>207</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>Acid Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>Acid Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>208</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>Afro-Cuban Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>Afro-Cuban Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>209</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>Avantgarde-Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>Avantgarde Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>210</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>Bebop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>Bebop</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>211</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>Big Band</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>Big Band Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>212</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>Boogie-Woogie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>Boogie-Woogie</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>213</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>Chicago Style</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>Chicago Style</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>214</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>Contemporary Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>Contemporary Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>215</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>Cool Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>Cool Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>216</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>Crossover Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>Crossover Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>217</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>Dixieland</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>Dixieland</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>218</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>East Coast Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>East Coast Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>219</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>Ethnojazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>Ethno Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>220</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>Free Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>Free Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>221</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>Hard Bop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>Hard Bop</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>222</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>Jazz Fusion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>Jazz Fusion</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>223</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>New Orleans Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>New Orleans Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>224</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>Progressive Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>Progressive Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>225</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>Ragtime</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>Ragtime</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>226</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>Smooth Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>Smooth Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>227</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>Swing</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>Swing</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>228</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>West Coast Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>West Coast Jazz</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>229</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>Klassische Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>Classical Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>230</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>Militärmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>Military Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>231</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>Neue Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>Neue Musik</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>232</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>Orchestermusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>Orchestral Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>233</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>Popularmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>Popular Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>234</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>American Folk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>American Folk</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>235</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>Beat</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>Beat</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>236</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>Blues</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>Blues</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>237</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>Chanson</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>Chanson</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>238</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>Country</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>Country</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>239</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>Electronic Dance Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>Electronic Dance Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>240</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>Hip-Hop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>Hip-Hop</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>241</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>Metal</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>Metal</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>242</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>New Wave</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>New Wave</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>243</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>Pop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>Pop</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>244</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>Punk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>Punk</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>245</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>Rythm and Blues</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>Rythm and Blues</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>246</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>Reggae</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>Reggae</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>247</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>Rock</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>Rock</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>248</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>Rock and Roll</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>Rock and Roll</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>249</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>Schlager</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>Schlager</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>250</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>Singer/Songwriter/Liedermacher</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>Singer-Songwriter</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>251</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>Ska</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>Ska</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>252</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>Solomusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>Solo Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>253</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>Soundtrack</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>254</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>Filmmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>Film Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>255</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>Videospielmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>Game Soundtrack</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>256</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>Tanzmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>Dance Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>257</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>Vokalmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>Vocal Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>258</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>Weltliche Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>Secular Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>259</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>Werbemusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>Advertising Music</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>260</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>Tanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>261</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>Bühnentanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>Concert Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>262</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>Gruppentanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>Group Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>263</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>Jazztanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>Jazz Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>264</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>Lateinamerikanischer Tanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>Latin American Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>265</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>Modetanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>Poplular Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>266</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>Paartanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>Partner Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>267</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>Reihentanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>Line Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>268</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>Solotanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>Solo Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>269</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>Standardtanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>Ballroom Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>270</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>Streetdance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>Street Dance</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>271</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>Tanztheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>Dance Theatre</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>272</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>Veranstaltung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>Event</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>273</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>Interview</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>Interview</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>274</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>Podiumsdiskussion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>Panel Discussion</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>275</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>Rede</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>Speech</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>276</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>Symposium</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>Conference</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>277</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>Vorlesung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>Lecture</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>278</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>Vortrag</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>Presentation</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>279</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>Oper</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>Opera</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>280</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>Regie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>Direction</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>281</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>Fixed Media</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>Fixed Media</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>282</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>Radiosendung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>Radio Programme</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>283</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>Portrait</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>Portrait</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>284</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>Landschaftsmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>Landscape Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>285</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>Stilleben</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>Still Life</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>286</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>Genremalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>Genre Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>287</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>Historienmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>History Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>288</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>Abstrakte Malerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>Abstract Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>289</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>Architekturmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>Architectural Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>290</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>Interieurmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>Interior Painting</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>291</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>Aktmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>Nude Painting</a></td></tr>
+<tr><td><a href='#project-category-1'>1</a></td><td><a href='#project-category-1'>Akademische Publikation</a></td><td><a href='#project-category-1'>Academic Publication</a></td></tr>
+<tr><td><a href='#project-category-2'>2</a></td><td><a href='#project-category-2'>Dissertation</a></td><td><a href='#project-category-2'>Doctoral Thesis</a></td></tr>
+<tr><td><a href='#project-category-3'>3</a></td><td><a href='#project-category-3'>Podcast</a></td><td><a href='#project-category-3'>Podcast</a></td></tr>
+<tr><td><a href='#project-category-4'>4</a></td><td><a href='#project-category-4'>Webseite</a></td><td><a href='#project-category-4'>Website</a></td></tr>
+<tr><td><a href='#project-category-5'>5</a></td><td><a href='#project-category-5'>Angewandte Kunst</a></td><td><a href='#project-category-5'>Applied Arts</a></td></tr>
+<tr><td><a href='#project-category-6'>6</a></td><td><a href='#project-category-6'>Architektur</a></td><td><a href='#project-category-6'>Architecture</a></td></tr>
+<tr><td><a href='#project-category-7'>7</a></td><td><a href='#project-category-7'>Design</a></td><td><a href='#project-category-7'>Design</a></td></tr>
+<tr><td><a href='#project-category-8'>8</a></td><td><a href='#project-category-8'>Game Design</a></td><td><a href='#project-category-8'>Game Design</a></td></tr>
+<tr><td><a href='#project-category-9'>9</a></td><td><a href='#project-category-9'>Industrial Design</a></td><td><a href='#project-category-9'>Industrial Design</a></td></tr>
+<tr><td><a href='#project-category-10'>10</a></td><td><a href='#project-category-10'>Innenarchitektur</a></td><td><a href='#project-category-10'>Interior Design</a></td></tr>
+<tr><td><a href='#project-category-11'>11</a></td><td><a href='#project-category-11'>Kommunikationsdesign</a></td><td><a href='#project-category-11'>Graphic Design</a></td></tr>
+<tr><td><a href='#project-category-12'>12</a></td><td><a href='#project-category-12'>Mediengestaltung</a></td><td><a href='#project-category-12'>Media Design</a></td></tr>
+<tr><td><a href='#project-category-13'>13</a></td><td><a href='#project-category-13'>Modedesign</a></td><td><a href='#project-category-13'>Fashion Design</a></td></tr>
+<tr><td><a href='#project-category-14'>14</a></td><td><a href='#project-category-14'>Sound-Design</a></td><td><a href='#project-category-14'>Sound Design</a></td></tr>
+<tr><td><a href='#project-category-15'>15</a></td><td><a href='#project-category-15'>Textildesign</a></td><td><a href='#project-category-15'>Textile Design</a></td></tr>
+<tr><td><a href='#project-category-16'>16</a></td><td><a href='#project-category-16'>Transformation Design</a></td><td><a href='#project-category-16'>Transformation Design</a></td></tr>
+<tr><td><a href='#project-category-17'>17</a></td><td><a href='#project-category-17'>User Interface Design</a></td><td><a href='#project-category-17'>User Interface Design</a></td></tr>
+<tr><td><a href='#project-category-18'>18</a></td><td><a href='#project-category-18'>Fotografie</a></td><td><a href='#project-category-18'>Photography</a></td></tr>
+<tr><td><a href='#project-category-19'>19</a></td><td><a href='#project-category-19'>Architekturfotografie</a></td><td><a href='#project-category-19'>Architectural Photography</a></td></tr>
+<tr><td><a href='#project-category-20'>20</a></td><td><a href='#project-category-20'>Dokumentarfotografie</a></td><td><a href='#project-category-20'>Documentary Photography</a></td></tr>
+<tr><td><a href='#project-category-21'>21</a></td><td><a href='#project-category-21'>Fotogrammetrie</a></td><td><a href='#project-category-21'>Photogrammetry</a></td></tr>
+<tr><td><a href='#project-category-22'>22</a></td><td><a href='#project-category-22'>Fotojournalismus</a></td><td><a href='#project-category-22'>Photojournalism</a></td></tr>
+<tr><td><a href='#project-category-23'>23</a></td><td><a href='#project-category-23'>Inszenierte Fotografie</a></td><td><a href='#project-category-23'>Staged Photography</a></td></tr>
+<tr><td><a href='#project-category-24'>24</a></td><td><a href='#project-category-24'>Landschaftsfotografie</a></td><td><a href='#project-category-24'>Landscape Photography</a></td></tr>
+<tr><td><a href='#project-category-25'>25</a></td><td><a href='#project-category-25'>Modefotografie</a></td><td><a href='#project-category-25'>Fashion Photography</a></td></tr>
+<tr><td><a href='#project-category-26'>26</a></td><td><a href='#project-category-26'>Porträtfotografie</a></td><td><a href='#project-category-26'>Portrait Photography</a></td></tr>
+<tr><td><a href='#project-category-27'>27</a></td><td><a href='#project-category-27'>Produktfotografie</a></td><td><a href='#project-category-27'>Product Photography</a></td></tr>
+<tr><td><a href='#project-category-28'>28</a></td><td><a href='#project-category-28'>Theaterfotografie</a></td><td><a href='#project-category-28'>Theatrical Photography</a></td></tr>
+<tr><td><a href='#project-category-29'>29</a></td><td><a href='#project-category-29'>Werbefotografie</a></td><td><a href='#project-category-29'>Advertising Photography</a></td></tr>
+<tr><td><a href='#project-category-30'>30</a></td><td><a href='#project-category-30'>Keramik</a></td><td><a href='#project-category-30'>Ceramic</a></td></tr>
+<tr><td><a href='#project-category-31'>31</a></td><td><a href='#project-category-31'>Darstellende Kunst</a></td><td><a href='#project-category-31'>Performing Arts</a></td></tr>
+<tr><td><a href='#project-category-32'>32</a></td><td><a href='#project-category-32'>Theater</a></td><td><a href='#project-category-32'>Theatre</a></td></tr>
+<tr><td><a href='#project-category-33'>33</a></td><td><a href='#project-category-33'>Absurdes Theater</a></td><td><a href='#project-category-33'>Theatre of the Absurd</a></td></tr>
+<tr><td><a href='#project-category-34'>34</a></td><td><a href='#project-category-34'>Alternatives Theater</a></td><td><a href='#project-category-34'>Alternative Theater</a></td></tr>
+<tr><td><a href='#project-category-35'>35</a></td><td><a href='#project-category-35'>Angewandtes Theater</a></td><td><a href='#project-category-35'>Applied Theatre</a></td></tr>
+<tr><td><a href='#project-category-36'>36</a></td><td><a href='#project-category-36'>Episches Theater</a></td><td><a href='#project-category-36'>Epic Theatre</a></td></tr>
+<tr><td><a href='#project-category-37'>37</a></td><td><a href='#project-category-37'>Experimentelles Theater</a></td><td><a href='#project-category-37'>Experimental Theatre</a></td></tr>
+<tr><td><a href='#project-category-38'>38</a></td><td><a href='#project-category-38'>Digital Theatre</a></td><td><a href='#project-category-38'>Digital Theatre</a></td></tr>
+<tr><td><a href='#project-category-39'>39</a></td><td><a href='#project-category-39'>Dokumentarisches Theater</a></td><td><a href='#project-category-39'>Documentary Theatre</a></td></tr>
+<tr><td><a href='#project-category-40'>40</a></td><td><a href='#project-category-40'>Figurentheater</a></td><td><a href='#project-category-40'>Puppetry Arts</a></td></tr>
+<tr><td><a href='#project-category-41'>41</a></td><td><a href='#project-category-41'>Freilichttheater</a></td><td><a href='#project-category-41'>Open-Air Theatre</a></td></tr>
+<tr><td><a href='#project-category-42'>42</a></td><td><a href='#project-category-42'>Improvisationstheater</a></td><td><a href='#project-category-42'>Improvisational Theatre</a></td></tr>
+<tr><td><a href='#project-category-43'>43</a></td><td><a href='#project-category-43'>Interaktives Theater</a></td><td><a href='#project-category-43'>Interactive Theatre</a></td></tr>
+<tr><td><a href='#project-category-44'>44</a></td><td><a href='#project-category-44'>Jugendtheater</a></td><td><a href='#project-category-44'>Youth Theatre</a></td></tr>
+<tr><td><a href='#project-category-45'>45</a></td><td><a href='#project-category-45'>Kindertheater</a></td><td><a href='#project-category-45'>Children's Theatre</a></td></tr>
+<tr><td><a href='#project-category-46'>46</a></td><td><a href='#project-category-46'>Metatheater</a></td><td><a href='#project-category-46'>Meta-Theatre</a></td></tr>
+<tr><td><a href='#project-category-47'>47</a></td><td><a href='#project-category-47'>Musiktheater</a></td><td><a href='#project-category-47'>Musical Theatre</a></td></tr>
+<tr><td><a href='#project-category-48'>48</a></td><td><a href='#project-category-48'>Physical Theatre</a></td><td><a href='#project-category-48'>Physical Theatre</a></td></tr>
+<tr><td><a href='#project-category-49'>49</a></td><td><a href='#project-category-49'>Politisches Theater</a></td><td><a href='#project-category-49'>Political Theatre</a></td></tr>
+<tr><td><a href='#project-category-50'>50</a></td><td><a href='#project-category-50'>Postdramatisches Theater</a></td><td><a href='#project-category-50'>Postdramatic Theatre</a></td></tr>
+<tr><td><a href='#project-category-51'>51</a></td><td><a href='#project-category-51'>Postmodernes Theater</a></td><td><a href='#project-category-51'>Postmodern Theatre</a></td></tr>
+<tr><td><a href='#project-category-52'>52</a></td><td><a href='#project-category-52'>Straßentheater</a></td><td><a href='#project-category-52'>Street Theatre</a></td></tr>
+<tr><td><a href='#project-category-53'>53</a></td><td><a href='#project-category-53'>Sprechtheater</a></td><td><a href='#project-category-53'>Spoken Drama</a></td></tr>
+<tr><td><a href='#project-category-54'>54</a></td><td><a href='#project-category-54'>Tanztheater</a></td><td><a href='#project-category-54'>Dance Theatre</a></td></tr>
+<tr><td><a href='#project-category-55'>55</a></td><td><a href='#project-category-55'>Film/TV</a></td><td><a href='#project-category-55'>Film/TV</a></td></tr>
+<tr><td><a href='#project-category-56'>56</a></td><td><a href='#project-category-56'>Animationsfilm</a></td><td><a href='#project-category-56'>Animated Film</a></td></tr>
+<tr><td><a href='#project-category-57'>57</a></td><td><a href='#project-category-57'>Dokudrama</a></td><td><a href='#project-category-57'>Docudrama</a></td></tr>
+<tr><td><a href='#project-category-58'>58</a></td><td><a href='#project-category-58'>Dokumentarfilm</a></td><td><a href='#project-category-58'>Documentary Film</a></td></tr>
+<tr><td><a href='#project-category-59'>59</a></td><td><a href='#project-category-59'>Kurz-Dokumentarfilm</a></td><td><a href='#project-category-59'>Short Documentary Film</a></td></tr>
+<tr><td><a href='#project-category-60'>60</a></td><td><a href='#project-category-60'>Drehbuch</a></td><td><a href='#project-category-60'>Screenplay</a></td></tr>
+<tr><td><a href='#project-category-61'>61</a></td><td><a href='#project-category-61'>Episode</a></td><td><a href='#project-category-61'>Episode</a></td></tr>
+<tr><td><a href='#project-category-62'>62</a></td><td><a href='#project-category-62'>Episodenfilm</a></td><td><a href='#project-category-62'>Anthology Film</a></td></tr>
+<tr><td><a href='#project-category-63'>63</a></td><td><a href='#project-category-63'>Essay-Film</a></td><td><a href='#project-category-63'>Essay Film</a></td></tr>
+<tr><td><a href='#project-category-64'>64</a></td><td><a href='#project-category-64'>Expanded Cinema</a></td><td><a href='#project-category-64'>Expanded Cinema</a></td></tr>
+<tr><td><a href='#project-category-65'>65</a></td><td><a href='#project-category-65'>Experimentalfilm</a></td><td><a href='#project-category-65'>Experimental Film</a></td></tr>
+<tr><td><a href='#project-category-66'>66</a></td><td><a href='#project-category-66'>Kompilationsfilm</a></td><td><a href='#project-category-66'>Compilation Film</a></td></tr>
+<tr><td><a href='#project-category-67'>67</a></td><td><a href='#project-category-67'>Mockumentary</a></td><td><a href='#project-category-67'>Mockumentary</a></td></tr>
+<tr><td><a href='#project-category-68'>68</a></td><td><a href='#project-category-68'>Musikfilm</a></td><td><a href='#project-category-68'>Musical Film</a></td></tr>
+<tr><td><a href='#project-category-69'>69</a></td><td><a href='#project-category-69'>Musikvideo</a></td><td><a href='#project-category-69'>Music Video</a></td></tr>
+<tr><td><a href='#project-category-70'>70</a></td><td><a href='#project-category-70'>Reportage</a></td><td><a href='#project-category-70'>Reportage</a></td></tr>
+<tr><td><a href='#project-category-71'>71</a></td><td><a href='#project-category-71'>Soundtrack</a></td><td><a href='#project-category-71'>Soundtrack</a></td></tr>
+<tr><td><a href='#project-category-72'>72</a></td><td><a href='#project-category-72'>Spielfilm</a></td><td><a href='#project-category-72'>Feature Film</a></td></tr>
+<tr><td><a href='#project-category-73'>73</a></td><td><a href='#project-category-73'>Kurzspielfilm</a></td><td><a href='#project-category-73'>Short Film</a></td></tr>
+<tr><td><a href='#project-category-74'>74</a></td><td><a href='#project-category-74'>Trailer für Film</a></td><td><a href='#project-category-74'>Film Trailer</a></td></tr>
+<tr><td><a href='#project-category-75'>75</a></td><td><a href='#project-category-75'>TV-Format</a></td><td><a href='#project-category-75'>Television Programme</a></td></tr>
+<tr><td><a href='#project-category-76'>76</a></td><td><a href='#project-category-76'>Webserie</a></td><td><a href='#project-category-76'>Web Series</a></td></tr>
+<tr><td><a href='#project-category-77'>77</a></td><td><a href='#project-category-77'>Werbespot</a></td><td><a href='#project-category-77'>Commercial</a></td></tr>
+<tr><td><a href='#project-category-78'>78</a></td><td><a href='#project-category-78'>Kunst</a></td><td><a href='#project-category-78'>Art</a></td></tr>
+<tr><td><a href='#project-category-79'>79</a></td><td><a href='#project-category-79'>Bio Art</a></td><td><a href='#project-category-79'>Bio Art</a></td></tr>
+<tr><td><a href='#project-category-80'>80</a></td><td><a href='#project-category-80'>Digitale Kunst</a></td><td><a href='#project-category-80'>Digital Art</a></td></tr>
+<tr><td><a href='#project-category-81'>81</a></td><td><a href='#project-category-81'>Augmented Reality</a></td><td><a href='#project-category-81'>Augmented Reality</a></td></tr>
+<tr><td><a href='#project-category-82'>82</a></td><td><a href='#project-category-82'>CD-ROM</a></td><td><a href='#project-category-82'>CD-ROM</a></td></tr>
+<tr><td><a href='#project-category-83'>83</a></td><td><a href='#project-category-83'>Computer Generated Imagery</a></td><td><a href='#project-category-83'>Computer Generated Imagery</a></td></tr>
+<tr><td><a href='#project-category-84'>84</a></td><td><a href='#project-category-84'>Computeranimation</a></td><td><a href='#project-category-84'>Computer Animation</a></td></tr>
+<tr><td><a href='#project-category-85'>85</a></td><td><a href='#project-category-85'>Computerspiel</a></td><td><a href='#project-category-85'>Computer Game</a></td></tr>
+<tr><td><a href='#project-category-86'>86</a></td><td><a href='#project-category-86'>Generative Kunst</a></td><td><a href='#project-category-86'>Generative Art</a></td></tr>
+<tr><td><a href='#project-category-87'>87</a></td><td><a href='#project-category-87'>Interaktive Kunst</a></td><td><a href='#project-category-87'>Interactive Art</a></td></tr>
+<tr><td><a href='#project-category-88'>88</a></td><td><a href='#project-category-88'>Netzkunst</a></td><td><a href='#project-category-88'>Net Art</a></td></tr>
+<tr><td><a href='#project-category-89'>89</a></td><td><a href='#project-category-89'>Software</a></td><td><a href='#project-category-89'>Software</a></td></tr>
+<tr><td><a href='#project-category-90'>90</a></td><td><a href='#project-category-90'>User Interface</a></td><td><a href='#project-category-90'>User Interface</a></td></tr>
+<tr><td><a href='#project-category-91'>91</a></td><td><a href='#project-category-91'>Virtual Reality</a></td><td><a href='#project-category-91'>Virtual Reality</a></td></tr>
+<tr><td><a href='#project-category-92'>92</a></td><td><a href='#project-category-92'>Webserie</a></td><td><a href='#project-category-92'>Web Series</a></td></tr>
+<tr><td><a href='#project-category-93'>93</a></td><td><a href='#project-category-93'>Installation</a></td><td><a href='#project-category-93'>Installation</a></td></tr>
+<tr><td><a href='#project-category-94'>94</a></td><td><a href='#project-category-94'>Fotoinstallation</a></td><td><a href='#project-category-94'>Photo Installation</a></td></tr>
+<tr><td><a href='#project-category-95'>95</a></td><td><a href='#project-category-95'>Interaktive Kunst</a></td><td><a href='#project-category-95'>Interactive Art</a></td></tr>
+<tr><td><a href='#project-category-96'>96</a></td><td><a href='#project-category-96'>Intervention</a></td><td><a href='#project-category-96'>Intervention</a></td></tr>
+<tr><td><a href='#project-category-97'>97</a></td><td><a href='#project-category-97'>Klanginstallation</a></td><td><a href='#project-category-97'>Sound Installation</a></td></tr>
+<tr><td><a href='#project-category-98'>98</a></td><td><a href='#project-category-98'>Kunst am Bau</a></td><td><a href='#project-category-98'>Percent for Art</a></td></tr>
+<tr><td><a href='#project-category-99'>99</a></td><td><a href='#project-category-99'>Kunst im öffentlichen Raum</a></td><td><a href='#project-category-99'>Public Art</a></td></tr>
+<tr><td><a href='#project-category-100'>100</a></td><td><a href='#project-category-100'>Lichtinstallation</a></td><td><a href='#project-category-100'>Light Installation</a></td></tr>
+<tr><td><a href='#project-category-101'>101</a></td><td><a href='#project-category-101'>Videoinstallation</a></td><td><a href='#project-category-101'>Video Installation</a></td></tr>
+<tr><td><a href='#project-category-102'>102</a></td><td><a href='#project-category-102'>Klangkunst</a></td><td><a href='#project-category-102'>Sound Art</a></td></tr>
+<tr><td><a href='#project-category-103'>103</a></td><td><a href='#project-category-103'>Album</a></td><td><a href='#project-category-103'>Album</a></td></tr>
+<tr><td><a href='#project-category-104'>104</a></td><td><a href='#project-category-104'>Field Recording</a></td><td><a href='#project-category-104'>Field Recording</a></td></tr>
+<tr><td><a href='#project-category-105'>105</a></td><td><a href='#project-category-105'>Hörstück</a></td><td><a href='#project-category-105'>Listening Piece</a></td></tr>
+<tr><td><a href='#project-category-106'>106</a></td><td><a href='#project-category-106'>Klanginstallation</a></td><td><a href='#project-category-106'>Sound Installation</a></td></tr>
+<tr><td><a href='#project-category-107'>107</a></td><td><a href='#project-category-107'>Klangobjekt</a></td><td><a href='#project-category-107'>Sound Sculpture</a></td></tr>
+<tr><td><a href='#project-category-108'>108</a></td><td><a href='#project-category-108'>Komposition</a></td><td><a href='#project-category-108'>Composition</a></td></tr>
+<tr><td><a href='#project-category-109'>109</a></td><td><a href='#project-category-109'>Konzert</a></td><td><a href='#project-category-109'>Concert</a></td></tr>
+<tr><td><a href='#project-category-110'>110</a></td><td><a href='#project-category-110'>Soundtrack</a></td><td><a href='#project-category-110'>Soundtrack</a></td></tr>
+<tr><td><a href='#project-category-111'>111</a></td><td><a href='#project-category-111'>Künstler:innen-Publikation</a></td><td><a href='#project-category-111'>Artist's Publication</a></td></tr>
+<tr><td><a href='#project-category-112'>112</a></td><td><a href='#project-category-112'>Künstler:innen-Buch</a></td><td><a href='#project-category-112'>Artist's Book</a></td></tr>
+<tr><td><a href='#project-category-113'>113</a></td><td><a href='#project-category-113'>Künstler:innen-Text</a></td><td><a href='#project-category-113'>Artist's Statement</a></td></tr>
+<tr><td><a href='#project-category-114'>114</a></td><td><a href='#project-category-114'>Podcast</a></td><td><a href='#project-category-114'>Podcast</a></td></tr>
+<tr><td><a href='#project-category-115'>115</a></td><td><a href='#project-category-115'>Webseite</a></td><td><a href='#project-category-115'>Website</a></td></tr>
+<tr><td><a href='#project-category-116'>116</a></td><td><a href='#project-category-116'>Künstlerische Fotografie</a></td><td><a href='#project-category-116'>Fine Art Photography</a></td></tr>
+<tr><td><a href='#project-category-117'>117</a></td><td><a href='#project-category-117'>Computer Generated Imagery</a></td><td><a href='#project-category-117'>Computer-Generated Imagery</a></td></tr>
+<tr><td><a href='#project-category-118'>118</a></td><td><a href='#project-category-118'>Dokumentarfotografie</a></td><td><a href='#project-category-118'>Documentary Photography</a></td></tr>
+<tr><td><a href='#project-category-119'>119</a></td><td><a href='#project-category-119'>Fotobuch</a></td><td><a href='#project-category-119'>Photobook</a></td></tr>
+<tr><td><a href='#project-category-120'>120</a></td><td><a href='#project-category-120'>Fotogrammetrie</a></td><td><a href='#project-category-120'>Photogrammetry</a></td></tr>
+<tr><td><a href='#project-category-121'>121</a></td><td><a href='#project-category-121'>Fotoinstallation</a></td><td><a href='#project-category-121'>Photo Installation</a></td></tr>
+<tr><td><a href='#project-category-122'>122</a></td><td><a href='#project-category-122'>Inszenierte Fotografie</a></td><td><a href='#project-category-122'>Staged Photography</a></td></tr>
+<tr><td><a href='#project-category-123'>123</a></td><td><a href='#project-category-123'>Konzeptuelle Fotografie</a></td><td><a href='#project-category-123'>Conceptual Photography</a></td></tr>
+<tr><td><a href='#project-category-124'>124</a></td><td><a href='#project-category-124'>Lichtkunst</a></td><td><a href='#project-category-124'>Light Art</a></td></tr>
+<tr><td><a href='#project-category-125'>125</a></td><td><a href='#project-category-125'>Holografie</a></td><td><a href='#project-category-125'>Holography</a></td></tr>
+<tr><td><a href='#project-category-126'>126</a></td><td><a href='#project-category-126'>Lichtinstallation</a></td><td><a href='#project-category-126'>Light Installation</a></td></tr>
+<tr><td><a href='#project-category-127'>127</a></td><td><a href='#project-category-127'>Malerei</a></td><td><a href='#project-category-127'>Painting</a></td></tr>
+<tr><td><a href='#project-category-128'>128</a></td><td><a href='#project-category-128'>Performance</a></td><td><a href='#project-category-128'>Performance</a></td></tr>
+<tr><td><a href='#project-category-129'>129</a></td><td><a href='#project-category-129'>Aktion</a></td><td><a href='#project-category-129'>Action</a></td></tr>
+<tr><td><a href='#project-category-130'>130</a></td><td><a href='#project-category-130'>Durational Performance</a></td><td><a href='#project-category-130'>Durational Performance</a></td></tr>
+<tr><td><a href='#project-category-131'>131</a></td><td><a href='#project-category-131'>Happening</a></td><td><a href='#project-category-131'>Happening</a></td></tr>
+<tr><td><a href='#project-category-132'>132</a></td><td><a href='#project-category-132'>Intervention</a></td><td><a href='#project-category-132'>Intervention</a></td></tr>
+<tr><td><a href='#project-category-133'>133</a></td><td><a href='#project-category-133'>Performance-Vortrag</a></td><td><a href='#project-category-133'>Lecture Performance</a></td></tr>
+<tr><td><a href='#project-category-134'>134</a></td><td><a href='#project-category-134'>Tanz</a></td><td><a href='#project-category-134'>Dance</a></td></tr>
+<tr><td><a href='#project-category-135'>135</a></td><td><a href='#project-category-135'>Skulptur</a></td><td><a href='#project-category-135'>Sculpture</a></td></tr>
+<tr><td><a href='#project-category-136'>136</a></td><td><a href='#project-category-136'>Modell</a></td><td><a href='#project-category-136'>Model</a></td></tr>
+<tr><td><a href='#project-category-137'>137</a></td><td><a href='#project-category-137'>Ready-made</a></td><td><a href='#project-category-137'>Found Object</a></td></tr>
+<tr><td><a href='#project-category-138'>138</a></td><td><a href='#project-category-138'>Videokunst</a></td><td><a href='#project-category-138'>Video Art</a></td></tr>
+<tr><td><a href='#project-category-139'>139</a></td><td><a href='#project-category-139'>Expanded Cinema</a></td><td><a href='#project-category-139'>Expanded Cinema</a></td></tr>
+<tr><td><a href='#project-category-140'>140</a></td><td><a href='#project-category-140'>Projektionsmapping</a></td><td><a href='#project-category-140'>Projection Mapping</a></td></tr>
+<tr><td><a href='#project-category-141'>141</a></td><td><a href='#project-category-141'>Video-Essay</a></td><td><a href='#project-category-141'>Video Essay</a></td></tr>
+<tr><td><a href='#project-category-142'>142</a></td><td><a href='#project-category-142'>Videoinstallation</a></td><td><a href='#project-category-142'>Video Installation</a></td></tr>
+<tr><td><a href='#project-category-143'>143</a></td><td><a href='#project-category-143'>Videoperformance</a></td><td><a href='#project-category-143'>Video Performance</a></td></tr>
+<tr><td><a href='#project-category-144'>144</a></td><td><a href='#project-category-144'>Videoskulptur</a></td><td><a href='#project-category-144'>Video Sculpture</a></td></tr>
+<tr><td><a href='#project-category-145'>145</a></td><td><a href='#project-category-145'>Virtual Reality</a></td><td><a href='#project-category-145'>Virtual Reality</a></td></tr>
+<tr><td><a href='#project-category-146'>146</a></td><td><a href='#project-category-146'>Zeichnung</a></td><td><a href='#project-category-146'>Drawing</a></td></tr>
+<tr><td><a href='#project-category-147'>147</a></td><td><a href='#project-category-147'>Collage</a></td><td><a href='#project-category-147'>Collage</a></td></tr>
+<tr><td><a href='#project-category-148'>148</a></td><td><a href='#project-category-148'>Comic</a></td><td><a href='#project-category-148'>Comic</a></td></tr>
+<tr><td><a href='#project-category-149'>149</a></td><td><a href='#project-category-149'>Druckgrafik</a></td><td><a href='#project-category-149'>Printmaking</a></td></tr>
+<tr><td><a href='#project-category-150'>150</a></td><td><a href='#project-category-150'>Literatur</a></td><td><a href='#project-category-150'>Literature</a></td></tr>
+<tr><td><a href='#project-category-151'>151</a></td><td><a href='#project-category-151'>Drama</a></td><td><a href='#project-category-151'>Drama</a></td></tr>
+<tr><td><a href='#project-category-152'>152</a></td><td><a href='#project-category-152'>Einakter</a></td><td><a href='#project-category-152'>One-act Play</a></td></tr>
+<tr><td><a href='#project-category-153'>153</a></td><td><a href='#project-category-153'>Historiendrama</a></td><td><a href='#project-category-153'>Historical Play</a></td></tr>
+<tr><td><a href='#project-category-154'>154</a></td><td><a href='#project-category-154'>Komödie</a></td><td><a href='#project-category-154'>Comedy</a></td></tr>
+<tr><td><a href='#project-category-155'>155</a></td><td><a href='#project-category-155'>Libretto</a></td><td><a href='#project-category-155'>Libretto</a></td></tr>
+<tr><td><a href='#project-category-156'>156</a></td><td><a href='#project-category-156'>Monodrama</a></td><td><a href='#project-category-156'>Monodrama</a></td></tr>
+<tr><td><a href='#project-category-157'>157</a></td><td><a href='#project-category-157'>Moralität</a></td><td><a href='#project-category-157'>Morality Play</a></td></tr>
+<tr><td><a href='#project-category-158'>158</a></td><td><a href='#project-category-158'>Sittenstück</a></td><td><a href='#project-category-158'>Comedy of Manors</a></td></tr>
+<tr><td><a href='#project-category-159'>159</a></td><td><a href='#project-category-159'>Tragikomödie</a></td><td><a href='#project-category-159'>Comedy Drama</a></td></tr>
+<tr><td><a href='#project-category-160'>160</a></td><td><a href='#project-category-160'>Tragödie</a></td><td><a href='#project-category-160'>Tragedy</a></td></tr>
+<tr><td><a href='#project-category-161'>161</a></td><td><a href='#project-category-161'>Versdrama</a></td><td><a href='#project-category-161'>Verse Drama</a></td></tr>
+<tr><td><a href='#project-category-162'>162</a></td><td><a href='#project-category-162'>Drehbuch</a></td><td><a href='#project-category-162'>Screenplay</a></td></tr>
+<tr><td><a href='#project-category-163'>163</a></td><td><a href='#project-category-163'>Epik</a></td><td><a href='#project-category-163'>Epic Literature</a></td></tr>
+<tr><td><a href='#project-category-164'>164</a></td><td><a href='#project-category-164'>Erzählung</a></td><td><a href='#project-category-164'>Narrative Story</a></td></tr>
+<tr><td><a href='#project-category-165'>165</a></td><td><a href='#project-category-165'>Kurzgeschichte</a></td><td><a href='#project-category-165'>Short Story</a></td></tr>
+<tr><td><a href='#project-category-166'>166</a></td><td><a href='#project-category-166'>Märchen</a></td><td><a href='#project-category-166'>Fairy Tale</a></td></tr>
+<tr><td><a href='#project-category-167'>167</a></td><td><a href='#project-category-167'>Novelle</a></td><td><a href='#project-category-167'>Novella</a></td></tr>
+<tr><td><a href='#project-category-168'>168</a></td><td><a href='#project-category-168'>Parabel</a></td><td><a href='#project-category-168'>Parable</a></td></tr>
+<tr><td><a href='#project-category-169'>169</a></td><td><a href='#project-category-169'>Reportage</a></td><td><a href='#project-category-169'>Reportage</a></td></tr>
+<tr><td><a href='#project-category-170'>170</a></td><td><a href='#project-category-170'>Roman</a></td><td><a href='#project-category-170'>Novel</a></td></tr>
+<tr><td><a href='#project-category-171'>171</a></td><td><a href='#project-category-171'>Satire</a></td><td><a href='#project-category-171'>Satire</a></td></tr>
+<tr><td><a href='#project-category-172'>172</a></td><td><a href='#project-category-172'>Literaturlesung</a></td><td><a href='#project-category-172'>Literary Reading</a></td></tr>
+<tr><td><a href='#project-category-173'>173</a></td><td><a href='#project-category-173'>Lyrik</a></td><td><a href='#project-category-173'>Poetry</a></td></tr>
+<tr><td><a href='#project-category-174'>174</a></td><td><a href='#project-category-174'>Akrostichon</a></td><td><a href='#project-category-174'>Acrostic</a></td></tr>
+<tr><td><a href='#project-category-175'>175</a></td><td><a href='#project-category-175'>Ballade</a></td><td><a href='#project-category-175'>Ballad</a></td></tr>
+<tr><td><a href='#project-category-176'>176</a></td><td><a href='#project-category-176'>Elegie</a></td><td><a href='#project-category-176'>Elegy</a></td></tr>
+<tr><td><a href='#project-category-177'>177</a></td><td><a href='#project-category-177'>Epigramm</a></td><td><a href='#project-category-177'>Epigram</a></td></tr>
+<tr><td><a href='#project-category-178'>178</a></td><td><a href='#project-category-178'>Gedicht</a></td><td><a href='#project-category-178'>Poem</a></td></tr>
+<tr><td><a href='#project-category-179'>179</a></td><td><a href='#project-category-179'>Gedichtsammlung</a></td><td><a href='#project-category-179'>Poetry Collection</a></td></tr>
+<tr><td><a href='#project-category-180'>180</a></td><td><a href='#project-category-180'>Haiku</a></td><td><a href='#project-category-180'>Haiku</a></td></tr>
+<tr><td><a href='#project-category-181'>181</a></td><td><a href='#project-category-181'>Hymne</a></td><td><a href='#project-category-181'>Hymn</a></td></tr>
+<tr><td><a href='#project-category-182'>182</a></td><td><a href='#project-category-182'>Konkrete Poesie</a></td><td><a href='#project-category-182'>Concrete Poetry</a></td></tr>
+<tr><td><a href='#project-category-183'>183</a></td><td><a href='#project-category-183'>Lautgedicht</a></td><td><a href='#project-category-183'>Sound Poetry</a></td></tr>
+<tr><td><a href='#project-category-184'>184</a></td><td><a href='#project-category-184'>Limerick</a></td><td><a href='#project-category-184'>Limerick</a></td></tr>
+<tr><td><a href='#project-category-185'>185</a></td><td><a href='#project-category-185'>Songtext</a></td><td><a href='#project-category-185'>Song Lyrics</a></td></tr>
+<tr><td><a href='#project-category-186'>186</a></td><td><a href='#project-category-186'>Nachschlagewerk</a></td><td><a href='#project-category-186'>Reference Work</a></td></tr>
+<tr><td><a href='#project-category-187'>187</a></td><td><a href='#project-category-187'>Nichtfiktionale Literatur</a></td><td><a href='#project-category-187'>Non-fictional Literature</a></td></tr>
+<tr><td><a href='#project-category-188'>188</a></td><td><a href='#project-category-188'>Autobiografie</a></td><td><a href='#project-category-188'>Autobiography</a></td></tr>
+<tr><td><a href='#project-category-189'>189</a></td><td><a href='#project-category-189'>Biografie</a></td><td><a href='#project-category-189'>Biography</a></td></tr>
+<tr><td><a href='#project-category-190'>190</a></td><td><a href='#project-category-190'>Blog</a></td><td><a href='#project-category-190'>Blog</a></td></tr>
+<tr><td><a href='#project-category-191'>191</a></td><td><a href='#project-category-191'>Essay</a></td><td><a href='#project-category-191'>Essay</a></td></tr>
+<tr><td><a href='#project-category-192'>192</a></td><td><a href='#project-category-192'>Manifest</a></td><td><a href='#project-category-192'>Manifesto</a></td></tr>
+<tr><td><a href='#project-category-193'>193</a></td><td><a href='#project-category-193'>Memoir</a></td><td><a href='#project-category-193'>Memoir</a></td></tr>
+<tr><td><a href='#project-category-194'>194</a></td><td><a href='#project-category-194'>Ratgeber</a></td><td><a href='#project-category-194'>Self-help Book</a></td></tr>
+<tr><td><a href='#project-category-195'>195</a></td><td><a href='#project-category-195'>Sachbuch</a></td><td><a href='#project-category-195'>Non-fiction Book</a></td></tr>
+<tr><td><a href='#project-category-196'>196</a></td><td><a href='#project-category-196'>Tatsachenroman</a></td><td><a href='#project-category-196'>Non-fiction Novel</a></td></tr>
+<tr><td><a href='#project-category-197'>197</a></td><td><a href='#project-category-197'>Musik</a></td><td><a href='#project-category-197'>Music</a></td></tr>
+<tr><td><a href='#project-category-198'>198</a></td><td><a href='#project-category-198'>Außereuropäische Kunstmusik</a></td><td><a href='#project-category-198'>Non-european Art Music</a></td></tr>
+<tr><td><a href='#project-category-199'>199</a></td><td><a href='#project-category-199'>Bühnenmusik</a></td><td><a href='#project-category-199'>Stage Music</a></td></tr>
+<tr><td><a href='#project-category-200'>200</a></td><td><a href='#project-category-200'>Elektroakustische Musik</a></td><td><a href='#project-category-200'>Electroacoustic Music</a></td></tr>
+<tr><td><a href='#project-category-201'>201</a></td><td><a href='#project-category-201'>Elektronische Musik</a></td><td><a href='#project-category-201'>Electronic Music</a></td></tr>
+<tr><td><a href='#project-category-202'>202</a></td><td><a href='#project-category-202'>Ensemblemusik</a></td><td><a href='#project-category-202'>Ensemble Music</a></td></tr>
+<tr><td><a href='#project-category-203'>203</a></td><td><a href='#project-category-203'>Folklore</a></td><td><a href='#project-category-203'>Folklore</a></td></tr>
+<tr><td><a href='#project-category-204'>204</a></td><td><a href='#project-category-204'>Geistliche Musik</a></td><td><a href='#project-category-204'>Sacred Music</a></td></tr>
+<tr><td><a href='#project-category-205'>205</a></td><td><a href='#project-category-205'>Instrumentalmusik</a></td><td><a href='#project-category-205'>Instrumental Music</a></td></tr>
+<tr><td><a href='#project-category-206'>206</a></td><td><a href='#project-category-206'>Jazz</a></td><td><a href='#project-category-206'>Jazz</a></td></tr>
+<tr><td><a href='#project-category-207'>207</a></td><td><a href='#project-category-207'>Acid Jazz</a></td><td><a href='#project-category-207'>Acid Jazz</a></td></tr>
+<tr><td><a href='#project-category-208'>208</a></td><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td></tr>
+<tr><td><a href='#project-category-209'>209</a></td><td><a href='#project-category-209'>Avantgarde-Jazz</a></td><td><a href='#project-category-209'>Avantgarde Jazz</a></td></tr>
+<tr><td><a href='#project-category-210'>210</a></td><td><a href='#project-category-210'>Bebop</a></td><td><a href='#project-category-210'>Bebop</a></td></tr>
+<tr><td><a href='#project-category-211'>211</a></td><td><a href='#project-category-211'>Big Band</a></td><td><a href='#project-category-211'>Big Band Music</a></td></tr>
+<tr><td><a href='#project-category-212'>212</a></td><td><a href='#project-category-212'>Boogie-Woogie</a></td><td><a href='#project-category-212'>Boogie-Woogie</a></td></tr>
+<tr><td><a href='#project-category-213'>213</a></td><td><a href='#project-category-213'>Chicago Style</a></td><td><a href='#project-category-213'>Chicago Style</a></td></tr>
+<tr><td><a href='#project-category-214'>214</a></td><td><a href='#project-category-214'>Contemporary Jazz</a></td><td><a href='#project-category-214'>Contemporary Jazz</a></td></tr>
+<tr><td><a href='#project-category-215'>215</a></td><td><a href='#project-category-215'>Cool Jazz</a></td><td><a href='#project-category-215'>Cool Jazz</a></td></tr>
+<tr><td><a href='#project-category-216'>216</a></td><td><a href='#project-category-216'>Crossover Jazz</a></td><td><a href='#project-category-216'>Crossover Jazz</a></td></tr>
+<tr><td><a href='#project-category-217'>217</a></td><td><a href='#project-category-217'>Dixieland</a></td><td><a href='#project-category-217'>Dixieland</a></td></tr>
+<tr><td><a href='#project-category-218'>218</a></td><td><a href='#project-category-218'>East Coast Jazz</a></td><td><a href='#project-category-218'>East Coast Jazz</a></td></tr>
+<tr><td><a href='#project-category-219'>219</a></td><td><a href='#project-category-219'>Ethnojazz</a></td><td><a href='#project-category-219'>Ethno Jazz</a></td></tr>
+<tr><td><a href='#project-category-220'>220</a></td><td><a href='#project-category-220'>Free Jazz</a></td><td><a href='#project-category-220'>Free Jazz</a></td></tr>
+<tr><td><a href='#project-category-221'>221</a></td><td><a href='#project-category-221'>Hard Bop</a></td><td><a href='#project-category-221'>Hard Bop</a></td></tr>
+<tr><td><a href='#project-category-222'>222</a></td><td><a href='#project-category-222'>Jazz Fusion</a></td><td><a href='#project-category-222'>Jazz Fusion</a></td></tr>
+<tr><td><a href='#project-category-223'>223</a></td><td><a href='#project-category-223'>New Orleans Jazz</a></td><td><a href='#project-category-223'>New Orleans Jazz</a></td></tr>
+<tr><td><a href='#project-category-224'>224</a></td><td><a href='#project-category-224'>Progressive Jazz</a></td><td><a href='#project-category-224'>Progressive Jazz</a></td></tr>
+<tr><td><a href='#project-category-225'>225</a></td><td><a href='#project-category-225'>Ragtime</a></td><td><a href='#project-category-225'>Ragtime</a></td></tr>
+<tr><td><a href='#project-category-226'>226</a></td><td><a href='#project-category-226'>Smooth Jazz</a></td><td><a href='#project-category-226'>Smooth Jazz</a></td></tr>
+<tr><td><a href='#project-category-227'>227</a></td><td><a href='#project-category-227'>Swing</a></td><td><a href='#project-category-227'>Swing</a></td></tr>
+<tr><td><a href='#project-category-228'>228</a></td><td><a href='#project-category-228'>West Coast Jazz</a></td><td><a href='#project-category-228'>West Coast Jazz</a></td></tr>
+<tr><td><a href='#project-category-229'>229</a></td><td><a href='#project-category-229'>Klassische Musik</a></td><td><a href='#project-category-229'>Classical Music</a></td></tr>
+<tr><td><a href='#project-category-230'>230</a></td><td><a href='#project-category-230'>Militärmusik</a></td><td><a href='#project-category-230'>Military Music</a></td></tr>
+<tr><td><a href='#project-category-231'>231</a></td><td><a href='#project-category-231'>Neue Musik</a></td><td><a href='#project-category-231'>Neue Musik</a></td></tr>
+<tr><td><a href='#project-category-232'>232</a></td><td><a href='#project-category-232'>Orchestermusik</a></td><td><a href='#project-category-232'>Orchestral Music</a></td></tr>
+<tr><td><a href='#project-category-233'>233</a></td><td><a href='#project-category-233'>Popularmusik</a></td><td><a href='#project-category-233'>Popular Music</a></td></tr>
+<tr><td><a href='#project-category-234'>234</a></td><td><a href='#project-category-234'>American Folk</a></td><td><a href='#project-category-234'>American Folk</a></td></tr>
+<tr><td><a href='#project-category-235'>235</a></td><td><a href='#project-category-235'>Beat</a></td><td><a href='#project-category-235'>Beat</a></td></tr>
+<tr><td><a href='#project-category-236'>236</a></td><td><a href='#project-category-236'>Blues</a></td><td><a href='#project-category-236'>Blues</a></td></tr>
+<tr><td><a href='#project-category-237'>237</a></td><td><a href='#project-category-237'>Chanson</a></td><td><a href='#project-category-237'>Chanson</a></td></tr>
+<tr><td><a href='#project-category-238'>238</a></td><td><a href='#project-category-238'>Country</a></td><td><a href='#project-category-238'>Country</a></td></tr>
+<tr><td><a href='#project-category-239'>239</a></td><td><a href='#project-category-239'>Electronic Dance Music</a></td><td><a href='#project-category-239'>Electronic Dance Music</a></td></tr>
+<tr><td><a href='#project-category-240'>240</a></td><td><a href='#project-category-240'>Hip-Hop</a></td><td><a href='#project-category-240'>Hip-Hop</a></td></tr>
+<tr><td><a href='#project-category-241'>241</a></td><td><a href='#project-category-241'>Metal</a></td><td><a href='#project-category-241'>Metal</a></td></tr>
+<tr><td><a href='#project-category-242'>242</a></td><td><a href='#project-category-242'>New Wave</a></td><td><a href='#project-category-242'>New Wave</a></td></tr>
+<tr><td><a href='#project-category-243'>243</a></td><td><a href='#project-category-243'>Pop</a></td><td><a href='#project-category-243'>Pop</a></td></tr>
+<tr><td><a href='#project-category-244'>244</a></td><td><a href='#project-category-244'>Punk</a></td><td><a href='#project-category-244'>Punk</a></td></tr>
+<tr><td><a href='#project-category-245'>245</a></td><td><a href='#project-category-245'>Rythm and Blues</a></td><td><a href='#project-category-245'>Rythm and Blues</a></td></tr>
+<tr><td><a href='#project-category-246'>246</a></td><td><a href='#project-category-246'>Reggae</a></td><td><a href='#project-category-246'>Reggae</a></td></tr>
+<tr><td><a href='#project-category-247'>247</a></td><td><a href='#project-category-247'>Rock</a></td><td><a href='#project-category-247'>Rock</a></td></tr>
+<tr><td><a href='#project-category-248'>248</a></td><td><a href='#project-category-248'>Rock and Roll</a></td><td><a href='#project-category-248'>Rock and Roll</a></td></tr>
+<tr><td><a href='#project-category-249'>249</a></td><td><a href='#project-category-249'>Schlager</a></td><td><a href='#project-category-249'>Schlager</a></td></tr>
+<tr><td><a href='#project-category-250'>250</a></td><td><a href='#project-category-250'>Singer/Songwriter/Liedermacher</a></td><td><a href='#project-category-250'>Singer-Songwriter</a></td></tr>
+<tr><td><a href='#project-category-251'>251</a></td><td><a href='#project-category-251'>Ska</a></td><td><a href='#project-category-251'>Ska</a></td></tr>
+<tr><td><a href='#project-category-252'>252</a></td><td><a href='#project-category-252'>Solomusik</a></td><td><a href='#project-category-252'>Solo Music</a></td></tr>
+<tr><td><a href='#project-category-253'>253</a></td><td><a href='#project-category-253'>Soundtrack</a></td><td><a href='#project-category-253'>Soundtrack</a></td></tr>
+<tr><td><a href='#project-category-254'>254</a></td><td><a href='#project-category-254'>Filmmusik</a></td><td><a href='#project-category-254'>Film Music</a></td></tr>
+<tr><td><a href='#project-category-255'>255</a></td><td><a href='#project-category-255'>Videospielmusik</a></td><td><a href='#project-category-255'>Game Soundtrack</a></td></tr>
+<tr><td><a href='#project-category-256'>256</a></td><td><a href='#project-category-256'>Tanzmusik</a></td><td><a href='#project-category-256'>Dance Music</a></td></tr>
+<tr><td><a href='#project-category-257'>257</a></td><td><a href='#project-category-257'>Vokalmusik</a></td><td><a href='#project-category-257'>Vocal Music</a></td></tr>
+<tr><td><a href='#project-category-258'>258</a></td><td><a href='#project-category-258'>Weltliche Musik</a></td><td><a href='#project-category-258'>Secular Music</a></td></tr>
+<tr><td><a href='#project-category-259'>259</a></td><td><a href='#project-category-259'>Werbemusik</a></td><td><a href='#project-category-259'>Advertising Music</a></td></tr>
+<tr><td><a href='#project-category-260'>260</a></td><td><a href='#project-category-260'>Tanz</a></td><td><a href='#project-category-260'>Dance</a></td></tr>
+<tr><td><a href='#project-category-261'>261</a></td><td><a href='#project-category-261'>Bühnentanz</a></td><td><a href='#project-category-261'>Concert Dance</a></td></tr>
+<tr><td><a href='#project-category-262'>262</a></td><td><a href='#project-category-262'>Gruppentanz</a></td><td><a href='#project-category-262'>Group Dance</a></td></tr>
+<tr><td><a href='#project-category-263'>263</a></td><td><a href='#project-category-263'>Jazztanz</a></td><td><a href='#project-category-263'>Jazz Dance</a></td></tr>
+<tr><td><a href='#project-category-264'>264</a></td><td><a href='#project-category-264'>Lateinamerikanischer Tanz</a></td><td><a href='#project-category-264'>Latin American Dance</a></td></tr>
+<tr><td><a href='#project-category-265'>265</a></td><td><a href='#project-category-265'>Modetanz</a></td><td><a href='#project-category-265'>Poplular Dance</a></td></tr>
+<tr><td><a href='#project-category-266'>266</a></td><td><a href='#project-category-266'>Paartanz</a></td><td><a href='#project-category-266'>Partner Dance</a></td></tr>
+<tr><td><a href='#project-category-267'>267</a></td><td><a href='#project-category-267'>Reihentanz</a></td><td><a href='#project-category-267'>Line Dance</a></td></tr>
+<tr><td><a href='#project-category-268'>268</a></td><td><a href='#project-category-268'>Solotanz</a></td><td><a href='#project-category-268'>Solo Dance</a></td></tr>
+<tr><td><a href='#project-category-269'>269</a></td><td><a href='#project-category-269'>Standardtanz</a></td><td><a href='#project-category-269'>Ballroom Dance</a></td></tr>
+<tr><td><a href='#project-category-270'>270</a></td><td><a href='#project-category-270'>Streetdance</a></td><td><a href='#project-category-270'>Street Dance</a></td></tr>
+<tr><td><a href='#project-category-271'>271</a></td><td><a href='#project-category-271'>Tanztheater</a></td><td><a href='#project-category-271'>Dance Theatre</a></td></tr>
+<tr><td><a href='#project-category-272'>272</a></td><td><a href='#project-category-272'>Veranstaltung</a></td><td><a href='#project-category-272'>Event</a></td></tr>
+<tr><td><a href='#project-category-273'>273</a></td><td><a href='#project-category-273'>Interview</a></td><td><a href='#project-category-273'>Interview</a></td></tr>
+<tr><td><a href='#project-category-274'>274</a></td><td><a href='#project-category-274'>Podiumsdiskussion</a></td><td><a href='#project-category-274'>Panel Discussion</a></td></tr>
+<tr><td><a href='#project-category-275'>275</a></td><td><a href='#project-category-275'>Rede</a></td><td><a href='#project-category-275'>Speech</a></td></tr>
+<tr><td><a href='#project-category-276'>276</a></td><td><a href='#project-category-276'>Symposium</a></td><td><a href='#project-category-276'>Conference</a></td></tr>
+<tr><td><a href='#project-category-277'>277</a></td><td><a href='#project-category-277'>Vorlesung</a></td><td><a href='#project-category-277'>Lecture</a></td></tr>
+<tr><td><a href='#project-category-278'>278</a></td><td><a href='#project-category-278'>Vortrag</a></td><td><a href='#project-category-278'>Presentation</a></td></tr>
+<tr><td><a href='#project-category-279'>279</a></td><td><a href='#project-category-279'>Oper</a></td><td><a href='#project-category-279'>Opera</a></td></tr>
+<tr><td><a href='#project-category-280'>280</a></td><td><a href='#project-category-280'>Regie</a></td><td><a href='#project-category-280'>Direction</a></td></tr>
+<tr><td><a href='#project-category-281'>281</a></td><td><a href='#project-category-281'>Fixed Media</a></td><td><a href='#project-category-281'>Fixed Media</a></td></tr>
+<tr><td><a href='#project-category-282'>282</a></td><td><a href='#project-category-282'>Radiosendung</a></td><td><a href='#project-category-282'>Radio Programme</a></td></tr>
+<tr><td><a href='#project-category-283'>283</a></td><td><a href='#project-category-283'>Portrait</a></td><td><a href='#project-category-283'>Portrait</a></td></tr>
+<tr><td><a href='#project-category-284'>284</a></td><td><a href='#project-category-284'>Landschaftsmalerei</a></td><td><a href='#project-category-284'>Landscape Painting</a></td></tr>
+<tr><td><a href='#project-category-285'>285</a></td><td><a href='#project-category-285'>Stilleben</a></td><td><a href='#project-category-285'>Still Life</a></td></tr>
+<tr><td><a href='#project-category-286'>286</a></td><td><a href='#project-category-286'>Genremalerei</a></td><td><a href='#project-category-286'>Genre Painting</a></td></tr>
+<tr><td><a href='#project-category-287'>287</a></td><td><a href='#project-category-287'>Historienmalerei</a></td><td><a href='#project-category-287'>History Painting</a></td></tr>
+<tr><td><a href='#project-category-288'>288</a></td><td><a href='#project-category-288'>Abstrakte Malerei</a></td><td><a href='#project-category-288'>Abstract Painting</a></td></tr>
+<tr><td><a href='#project-category-289'>289</a></td><td><a href='#project-category-289'>Architekturmalerei</a></td><td><a href='#project-category-289'>Architectural Painting</a></td></tr>
+<tr><td><a href='#project-category-290'>290</a></td><td><a href='#project-category-290'>Interieurmalerei</a></td><td><a href='#project-category-290'>Interior Painting</a></td></tr>
+<tr><td><a href='#project-category-291'>291</a></td><td><a href='#project-category-291'>Aktmalerei</a></td><td><a href='#project-category-291'>Nude Painting</a></td></tr>
 </table>
 </details>
 
 <details><summary>Project Categories ordered by German Name | Projektkategorien nach Deutschem Namen geordnet</summary>
 <table>
 <tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>Abstrakte Malerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>Abstract Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>288</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>Absurdes Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>Theatre of the Absurd</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>33</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>Acid Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>Acid Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>207</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>Afro-Cuban Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>Afro-Cuban Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>208</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>Akademische Publikation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>Academic Publication</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>1</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>Akrostichon</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>Acrostic</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>174</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>Aktion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>Action</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>129</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>Aktmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>Nude Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>291</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>Album</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>Album</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>103</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>Alternatives Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>Alternative Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>34</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>American Folk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>American Folk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>234</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>Angewandte Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>Applied Arts</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>5</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>Angewandtes Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>Applied Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>35</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>Animationsfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>Animated Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>56</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>Architektur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>Architecture</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>6</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>Architekturfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>Architectural Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>19</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>Architekturmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>Architectural Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>289</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>Augmented Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>Augmented Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>81</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>Autobiografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>Autobiography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>188</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>Außereuropäische Kunstmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>Non-european Art Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>198</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>Avantgarde-Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>Avantgarde Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>209</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>Ballade</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>Ballad</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>175</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>Beat</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>Beat</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>235</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>Bebop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>Bebop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>210</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>Big Band</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>Big Band Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>211</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>Bio Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>Bio Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>79</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>Biografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>Biography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>189</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>Blog</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>Blog</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>190</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>Blues</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>Blues</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>236</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>Boogie-Woogie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>Boogie-Woogie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>212</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>Bühnenmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>Stage Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>199</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>Bühnentanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>Concert Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>261</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>CD-ROM</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>CD-ROM</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>82</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>Chanson</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>Chanson</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>237</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>Chicago Style</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>Chicago Style</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>213</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>Collage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>Collage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>147</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>Comic</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>Comic</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>148</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>Computer Generated Imagery</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>Computer Generated Imagery</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>83</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>Computer Generated Imagery</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>Computer-Generated Imagery</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>117</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>Computeranimation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>Computer Animation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>84</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>Computerspiel</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>Computer Game</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>85</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>Contemporary Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>Contemporary Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>214</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>Cool Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>Cool Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>215</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>Country</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>Country</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>238</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>Crossover Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>Crossover Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>216</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>Darstellende Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>Performing Arts</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>31</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>7</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>Digital Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>Digital Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>38</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>Digitale Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>Digital Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>80</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>Dissertation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>Doctoral Thesis</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>2</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>Dixieland</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>Dixieland</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>217</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>Dokudrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>Docudrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>57</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>Dokumentarfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>Documentary Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>58</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>Dokumentarfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>Documentary Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>118</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>Dokumentarfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>Documentary Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>20</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>Dokumentarisches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>Documentary Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>39</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>Drama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>Drama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>151</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>Drehbuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>Screenplay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>60</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>Drehbuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>Screenplay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>162</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>Druckgrafik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>Printmaking</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>149</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>Durational Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>Durational Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>130</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>East Coast Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>East Coast Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>218</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>Einakter</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>One-act Play</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>152</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>Electronic Dance Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>Electronic Dance Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>239</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>Elegie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>Elegy</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>176</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>Elektroakustische Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>Electroacoustic Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>200</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>Elektronische Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>Electronic Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>201</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>Ensemblemusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>Ensemble Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>202</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>Epigramm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>Epigram</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>177</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>Epik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>Epic Literature</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>163</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>Episches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>Epic Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>36</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>Episode</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>Episode</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>61</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>Episodenfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>Anthology Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>62</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>Erzählung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>Narrative Story</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>164</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>Essay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>Essay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>191</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>Essay-Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>Essay Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>63</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>Ethnojazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>Ethno Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>219</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>Expanded Cinema</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>Expanded Cinema</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>64</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>Expanded Cinema</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>Expanded Cinema</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>139</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>Experimentalfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>Experimental Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>65</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>Experimentelles Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>Experimental Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>37</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>Field Recording</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>Field Recording</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>104</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>Figurentheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>Puppetry Arts</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>40</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>Film/TV</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>Film/TV</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>55</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>Filmmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>Film Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>254</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>Fixed Media</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>Fixed Media</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>281</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>Folklore</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>Folklore</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>203</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>Fotobuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>Photobook</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>119</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>18</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>Fotogrammetrie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>Photogrammetry</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>120</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>Fotogrammetrie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>Photogrammetry</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>21</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>Fotoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>Photo Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>94</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>Fotoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>Photo Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>121</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>Fotojournalismus</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>Photojournalism</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>22</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>Free Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>Free Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>220</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>Freilichttheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>Open-Air Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>41</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>Game Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>Game Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>8</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>Gedicht</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>Poem</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>178</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>Gedichtsammlung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>Poetry Collection</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>179</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>Geistliche Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>Sacred Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>204</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>Generative Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>Generative Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>86</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>Genremalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>Genre Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>286</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>Gruppentanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>Group Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>262</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>Haiku</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>Haiku</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>180</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>Happening</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>Happening</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>131</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>Hard Bop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>Hard Bop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>221</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>Hip-Hop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>Hip-Hop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>240</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>Historiendrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>Historical Play</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>153</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>Historienmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>History Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>287</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>Holografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>Holography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>125</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>Hymne</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>Hymn</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>181</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>Hörstück</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>Listening Piece</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>105</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>Improvisationstheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>Improvisational Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>42</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>Industrial Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>Industrial Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>9</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>Innenarchitektur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>Interior Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>10</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>93</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>Instrumentalmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>Instrumental Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>205</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>Inszenierte Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>Staged Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>23</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>Inszenierte Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>Staged Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>122</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>Interaktive Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>Interactive Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>95</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>Interaktive Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>Interactive Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>87</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>Interaktives Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>Interactive Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>43</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>Interieurmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>Interior Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>290</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>Intervention</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>Intervention</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>96</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>Intervention</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>Intervention</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>132</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>Interview</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>Interview</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>273</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>206</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>Jazz Fusion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>Jazz Fusion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>222</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>Jazztanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>Jazz Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>263</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>Jugendtheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>Youth Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>44</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>Keramik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>Ceramic</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>30</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>Kindertheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>Children's Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>45</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>Klanginstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>Sound Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>97</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>Klanginstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>Sound Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>106</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>Klangkunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>Sound Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>102</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>Klangobjekt</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>Sound Sculpture</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>107</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>Klassische Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>Classical Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>229</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>Kommunikationsdesign</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>Graphic Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>11</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>Kompilationsfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>Compilation Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>66</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>Komposition</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>Composition</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>108</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>Komödie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>Comedy</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>154</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>Konkrete Poesie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>Concrete Poetry</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>182</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>Konzeptuelle Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>Conceptual Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>123</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>Konzert</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>Concert</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>109</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>Kunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>78</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>Kunst am Bau</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>Percent for Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>98</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>Kunst im öffentlichen Raum</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>Public Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>99</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>Kurz-Dokumentarfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>Short Documentary Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>59</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>Kurzgeschichte</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>Short Story</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>165</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>Kurzspielfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>Short Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>73</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>Künstler:innen-Buch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>Artist's Book</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>112</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>Künstler:innen-Publikation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>Artist's Publication</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>111</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>Künstler:innen-Text</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>Artist's Statement</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>113</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>Künstlerische Fotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>Fine Art Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>116</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>Landschaftsfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>Landscape Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>24</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>Landschaftsmalerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>Landscape Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>284</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>Lateinamerikanischer Tanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>Latin American Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>264</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>Lautgedicht</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>Sound Poetry</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>183</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>Libretto</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>Libretto</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>155</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>Lichtinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>Light Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>100</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>Lichtinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>Light Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>126</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>Lichtkunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>Light Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>124</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>Limerick</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>Limerick</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>184</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>Literatur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>Literature</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>150</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>Literaturlesung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>Literary Reading</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>172</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>Lyrik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>Poetry</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>173</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>Malerei</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>Painting</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>127</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>Manifest</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>Manifesto</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>192</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>Mediengestaltung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>Media Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>12</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>Memoir</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>Memoir</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>193</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>Metal</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>Metal</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>241</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>Metatheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>Meta-Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>46</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>Militärmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>Military Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>230</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>Mockumentary</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>Mockumentary</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>67</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>Modedesign</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>Fashion Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>13</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>Modefotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>Fashion Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>25</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>Modell</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>Model</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>136</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>Modetanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>Poplular Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>265</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>Monodrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>Monodrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>156</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>Moralität</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>Morality Play</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>157</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>197</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>Musikfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>Musical Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>68</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>Musiktheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>Musical Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>47</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>Musikvideo</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>Music Video</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>69</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>Märchen</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>Fairy Tale</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>166</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>Nachschlagewerk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>Reference Work</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>186</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>Netzkunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>Net Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>88</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>Neue Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>Neue Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>231</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>New Orleans Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>New Orleans Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>223</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>New Wave</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>New Wave</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>242</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>Nichtfiktionale Literatur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>Non-fictional Literature</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>187</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>Novelle</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>Novella</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>167</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>Oper</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>Opera</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>279</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>Orchestermusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>Orchestral Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>232</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>Paartanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>Partner Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>266</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>Parabel</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>Parable</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>168</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>128</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>Performance-Vortrag</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>Lecture Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>133</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>Physical Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>Physical Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>48</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>Podcast</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>Podcast</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>3</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>Podcast</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>Podcast</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>114</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>Podiumsdiskussion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>Panel Discussion</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>274</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>Politisches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>Political Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>49</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>Pop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>Pop</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>243</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>Popularmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>Popular Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>233</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>Portrait</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>Portrait</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>283</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>Porträtfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>Portrait Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>26</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>Postdramatisches Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>Postdramatic Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>50</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>Postmodernes Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>Postmodern Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>51</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>Produktfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>Product Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>27</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>Progressive Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>Progressive Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>224</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>Projektionsmapping</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>Projection Mapping</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>140</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>Punk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>Punk</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>244</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>Radiosendung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>Radio Programme</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>282</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>Ragtime</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>Ragtime</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>225</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>Ratgeber</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>Self-help Book</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>194</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>Ready-made</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>Found Object</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>137</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>Rede</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>Speech</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>275</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>Reggae</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>Reggae</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>246</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>Regie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>Direction</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>280</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>Reihentanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>Line Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>267</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>Reportage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>Reportage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>70</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>Reportage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>Reportage</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>169</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>Rock</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>Rock</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>247</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>Rock and Roll</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>Rock and Roll</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>248</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>Roman</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>Novel</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>170</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>Rythm and Blues</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>Rythm and Blues</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>245</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>Sachbuch</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>Non-fiction Book</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>195</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>Satire</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>Satire</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>171</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>Schlager</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>Schlager</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>249</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>Singer/Songwriter/Liedermacher</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>Singer-Songwriter</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>250</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>Sittenstück</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>Comedy of Manors</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>158</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>Ska</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>Ska</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>251</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>Skulptur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>Sculpture</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>135</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>Smooth Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>Smooth Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>226</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>Software</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>Software</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>89</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>Solomusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>Solo Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>252</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>Solotanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>Solo Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>268</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>Songtext</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>Song Lyrics</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>185</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>Sound-Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>Sound Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>14</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>110</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>253</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>71</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>Spielfilm</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>Feature Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>72</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>Sprechtheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>Spoken Drama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>53</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>Standardtanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>Ballroom Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>269</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>Stilleben</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>Still Life</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>285</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>Straßentheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>Street Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>52</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>Streetdance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>Street Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>270</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>Swing</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>Swing</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>227</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>Symposium</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>Conference</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>276</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>Tanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>260</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>Tanz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>Dance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>134</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>Tanzmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>Dance Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>256</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>Tanztheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>Dance Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>271</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>Tanztheater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>Dance Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>54</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>Tatsachenroman</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>Non-fiction Novel</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>196</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>Textildesign</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>Textile Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>15</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>Theater</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>Theatre</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>32</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>Theaterfotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>Theatrical Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>28</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>Tragikomödie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>Comedy Drama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>159</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>Tragödie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>Tragedy</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>160</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>Trailer für Film</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>Film Trailer</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>74</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>Transformation Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>Transformation Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>16</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>TV-Format</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>Television Programme</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>75</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>User Interface</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>User Interface</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>90</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>User Interface Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>User Interface Design</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>17</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>Veranstaltung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>Event</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>272</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>Versdrama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>Verse Drama</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>161</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>Video-Essay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>Video Essay</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>141</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>Videoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>Video Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>101</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>Videoinstallation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>Video Installation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>142</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>Videokunst</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>Video Art</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>138</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>Videoperformance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>Video Performance</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>143</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>Videoskulptur</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>Video Sculpture</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>144</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>Videospielmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>Game Soundtrack</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>255</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>Virtual Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>Virtual Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>145</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>Virtual Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>Virtual Reality</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>91</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>Vokalmusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>Vocal Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>257</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>Vorlesung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>Lecture</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>277</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>Vortrag</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>Presentation</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>278</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>Webseite</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>Website</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>115</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>Webseite</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>Website</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>4</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>Webserie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>Web Series</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>92</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>Webserie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>Web Series</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>76</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>Weltliche Musik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>Secular Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>258</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>Werbefotografie</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>Advertising Photography</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>29</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>Werbemusik</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>Advertising Music</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>259</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>Werbespot</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>Commercial</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>77</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>West Coast Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>West Coast Jazz</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>228</a></td></tr>
-<tr><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>Zeichnung</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>Drawing</a></td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>146</a></td></tr>
+<tr><td><a href='#project-category-288'>Abstrakte Malerei</a></td><td><a href='#project-category-288'>Abstract Painting</a></td><td><a href='#project-category-288'>288</a></td></tr>
+<tr><td><a href='#project-category-33'>Absurdes Theater</a></td><td><a href='#project-category-33'>Theatre of the Absurd</a></td><td><a href='#project-category-33'>33</a></td></tr>
+<tr><td><a href='#project-category-207'>Acid Jazz</a></td><td><a href='#project-category-207'>Acid Jazz</a></td><td><a href='#project-category-207'>207</a></td></tr>
+<tr><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>208</a></td></tr>
+<tr><td><a href='#project-category-1'>Akademische Publikation</a></td><td><a href='#project-category-1'>Academic Publication</a></td><td><a href='#project-category-1'>1</a></td></tr>
+<tr><td><a href='#project-category-174'>Akrostichon</a></td><td><a href='#project-category-174'>Acrostic</a></td><td><a href='#project-category-174'>174</a></td></tr>
+<tr><td><a href='#project-category-129'>Aktion</a></td><td><a href='#project-category-129'>Action</a></td><td><a href='#project-category-129'>129</a></td></tr>
+<tr><td><a href='#project-category-291'>Aktmalerei</a></td><td><a href='#project-category-291'>Nude Painting</a></td><td><a href='#project-category-291'>291</a></td></tr>
+<tr><td><a href='#project-category-103'>Album</a></td><td><a href='#project-category-103'>Album</a></td><td><a href='#project-category-103'>103</a></td></tr>
+<tr><td><a href='#project-category-34'>Alternatives Theater</a></td><td><a href='#project-category-34'>Alternative Theater</a></td><td><a href='#project-category-34'>34</a></td></tr>
+<tr><td><a href='#project-category-234'>American Folk</a></td><td><a href='#project-category-234'>American Folk</a></td><td><a href='#project-category-234'>234</a></td></tr>
+<tr><td><a href='#project-category-5'>Angewandte Kunst</a></td><td><a href='#project-category-5'>Applied Arts</a></td><td><a href='#project-category-5'>5</a></td></tr>
+<tr><td><a href='#project-category-35'>Angewandtes Theater</a></td><td><a href='#project-category-35'>Applied Theatre</a></td><td><a href='#project-category-35'>35</a></td></tr>
+<tr><td><a href='#project-category-56'>Animationsfilm</a></td><td><a href='#project-category-56'>Animated Film</a></td><td><a href='#project-category-56'>56</a></td></tr>
+<tr><td><a href='#project-category-6'>Architektur</a></td><td><a href='#project-category-6'>Architecture</a></td><td><a href='#project-category-6'>6</a></td></tr>
+<tr><td><a href='#project-category-19'>Architekturfotografie</a></td><td><a href='#project-category-19'>Architectural Photography</a></td><td><a href='#project-category-19'>19</a></td></tr>
+<tr><td><a href='#project-category-289'>Architekturmalerei</a></td><td><a href='#project-category-289'>Architectural Painting</a></td><td><a href='#project-category-289'>289</a></td></tr>
+<tr><td><a href='#project-category-81'>Augmented Reality</a></td><td><a href='#project-category-81'>Augmented Reality</a></td><td><a href='#project-category-81'>81</a></td></tr>
+<tr><td><a href='#project-category-188'>Autobiografie</a></td><td><a href='#project-category-188'>Autobiography</a></td><td><a href='#project-category-188'>188</a></td></tr>
+<tr><td><a href='#project-category-198'>Außereuropäische Kunstmusik</a></td><td><a href='#project-category-198'>Non-european Art Music</a></td><td><a href='#project-category-198'>198</a></td></tr>
+<tr><td><a href='#project-category-209'>Avantgarde-Jazz</a></td><td><a href='#project-category-209'>Avantgarde Jazz</a></td><td><a href='#project-category-209'>209</a></td></tr>
+<tr><td><a href='#project-category-175'>Ballade</a></td><td><a href='#project-category-175'>Ballad</a></td><td><a href='#project-category-175'>175</a></td></tr>
+<tr><td><a href='#project-category-235'>Beat</a></td><td><a href='#project-category-235'>Beat</a></td><td><a href='#project-category-235'>235</a></td></tr>
+<tr><td><a href='#project-category-210'>Bebop</a></td><td><a href='#project-category-210'>Bebop</a></td><td><a href='#project-category-210'>210</a></td></tr>
+<tr><td><a href='#project-category-211'>Big Band</a></td><td><a href='#project-category-211'>Big Band Music</a></td><td><a href='#project-category-211'>211</a></td></tr>
+<tr><td><a href='#project-category-79'>Bio Art</a></td><td><a href='#project-category-79'>Bio Art</a></td><td><a href='#project-category-79'>79</a></td></tr>
+<tr><td><a href='#project-category-189'>Biografie</a></td><td><a href='#project-category-189'>Biography</a></td><td><a href='#project-category-189'>189</a></td></tr>
+<tr><td><a href='#project-category-190'>Blog</a></td><td><a href='#project-category-190'>Blog</a></td><td><a href='#project-category-190'>190</a></td></tr>
+<tr><td><a href='#project-category-236'>Blues</a></td><td><a href='#project-category-236'>Blues</a></td><td><a href='#project-category-236'>236</a></td></tr>
+<tr><td><a href='#project-category-212'>Boogie-Woogie</a></td><td><a href='#project-category-212'>Boogie-Woogie</a></td><td><a href='#project-category-212'>212</a></td></tr>
+<tr><td><a href='#project-category-199'>Bühnenmusik</a></td><td><a href='#project-category-199'>Stage Music</a></td><td><a href='#project-category-199'>199</a></td></tr>
+<tr><td><a href='#project-category-261'>Bühnentanz</a></td><td><a href='#project-category-261'>Concert Dance</a></td><td><a href='#project-category-261'>261</a></td></tr>
+<tr><td><a href='#project-category-82'>CD-ROM</a></td><td><a href='#project-category-82'>CD-ROM</a></td><td><a href='#project-category-82'>82</a></td></tr>
+<tr><td><a href='#project-category-237'>Chanson</a></td><td><a href='#project-category-237'>Chanson</a></td><td><a href='#project-category-237'>237</a></td></tr>
+<tr><td><a href='#project-category-213'>Chicago Style</a></td><td><a href='#project-category-213'>Chicago Style</a></td><td><a href='#project-category-213'>213</a></td></tr>
+<tr><td><a href='#project-category-147'>Collage</a></td><td><a href='#project-category-147'>Collage</a></td><td><a href='#project-category-147'>147</a></td></tr>
+<tr><td><a href='#project-category-148'>Comic</a></td><td><a href='#project-category-148'>Comic</a></td><td><a href='#project-category-148'>148</a></td></tr>
+<tr><td><a href='#project-category-83'>Computer Generated Imagery</a></td><td><a href='#project-category-83'>Computer Generated Imagery</a></td><td><a href='#project-category-83'>83</a></td></tr>
+<tr><td><a href='#project-category-117'>Computer Generated Imagery</a></td><td><a href='#project-category-117'>Computer-Generated Imagery</a></td><td><a href='#project-category-117'>117</a></td></tr>
+<tr><td><a href='#project-category-84'>Computeranimation</a></td><td><a href='#project-category-84'>Computer Animation</a></td><td><a href='#project-category-84'>84</a></td></tr>
+<tr><td><a href='#project-category-85'>Computerspiel</a></td><td><a href='#project-category-85'>Computer Game</a></td><td><a href='#project-category-85'>85</a></td></tr>
+<tr><td><a href='#project-category-214'>Contemporary Jazz</a></td><td><a href='#project-category-214'>Contemporary Jazz</a></td><td><a href='#project-category-214'>214</a></td></tr>
+<tr><td><a href='#project-category-215'>Cool Jazz</a></td><td><a href='#project-category-215'>Cool Jazz</a></td><td><a href='#project-category-215'>215</a></td></tr>
+<tr><td><a href='#project-category-238'>Country</a></td><td><a href='#project-category-238'>Country</a></td><td><a href='#project-category-238'>238</a></td></tr>
+<tr><td><a href='#project-category-216'>Crossover Jazz</a></td><td><a href='#project-category-216'>Crossover Jazz</a></td><td><a href='#project-category-216'>216</a></td></tr>
+<tr><td><a href='#project-category-31'>Darstellende Kunst</a></td><td><a href='#project-category-31'>Performing Arts</a></td><td><a href='#project-category-31'>31</a></td></tr>
+<tr><td><a href='#project-category-7'>Design</a></td><td><a href='#project-category-7'>Design</a></td><td><a href='#project-category-7'>7</a></td></tr>
+<tr><td><a href='#project-category-38'>Digital Theatre</a></td><td><a href='#project-category-38'>Digital Theatre</a></td><td><a href='#project-category-38'>38</a></td></tr>
+<tr><td><a href='#project-category-80'>Digitale Kunst</a></td><td><a href='#project-category-80'>Digital Art</a></td><td><a href='#project-category-80'>80</a></td></tr>
+<tr><td><a href='#project-category-2'>Dissertation</a></td><td><a href='#project-category-2'>Doctoral Thesis</a></td><td><a href='#project-category-2'>2</a></td></tr>
+<tr><td><a href='#project-category-217'>Dixieland</a></td><td><a href='#project-category-217'>Dixieland</a></td><td><a href='#project-category-217'>217</a></td></tr>
+<tr><td><a href='#project-category-57'>Dokudrama</a></td><td><a href='#project-category-57'>Docudrama</a></td><td><a href='#project-category-57'>57</a></td></tr>
+<tr><td><a href='#project-category-58'>Dokumentarfilm</a></td><td><a href='#project-category-58'>Documentary Film</a></td><td><a href='#project-category-58'>58</a></td></tr>
+<tr><td><a href='#project-category-118'>Dokumentarfotografie</a></td><td><a href='#project-category-118'>Documentary Photography</a></td><td><a href='#project-category-118'>118</a></td></tr>
+<tr><td><a href='#project-category-20'>Dokumentarfotografie</a></td><td><a href='#project-category-20'>Documentary Photography</a></td><td><a href='#project-category-20'>20</a></td></tr>
+<tr><td><a href='#project-category-39'>Dokumentarisches Theater</a></td><td><a href='#project-category-39'>Documentary Theatre</a></td><td><a href='#project-category-39'>39</a></td></tr>
+<tr><td><a href='#project-category-151'>Drama</a></td><td><a href='#project-category-151'>Drama</a></td><td><a href='#project-category-151'>151</a></td></tr>
+<tr><td><a href='#project-category-60'>Drehbuch</a></td><td><a href='#project-category-60'>Screenplay</a></td><td><a href='#project-category-60'>60</a></td></tr>
+<tr><td><a href='#project-category-162'>Drehbuch</a></td><td><a href='#project-category-162'>Screenplay</a></td><td><a href='#project-category-162'>162</a></td></tr>
+<tr><td><a href='#project-category-149'>Druckgrafik</a></td><td><a href='#project-category-149'>Printmaking</a></td><td><a href='#project-category-149'>149</a></td></tr>
+<tr><td><a href='#project-category-130'>Durational Performance</a></td><td><a href='#project-category-130'>Durational Performance</a></td><td><a href='#project-category-130'>130</a></td></tr>
+<tr><td><a href='#project-category-218'>East Coast Jazz</a></td><td><a href='#project-category-218'>East Coast Jazz</a></td><td><a href='#project-category-218'>218</a></td></tr>
+<tr><td><a href='#project-category-152'>Einakter</a></td><td><a href='#project-category-152'>One-act Play</a></td><td><a href='#project-category-152'>152</a></td></tr>
+<tr><td><a href='#project-category-239'>Electronic Dance Music</a></td><td><a href='#project-category-239'>Electronic Dance Music</a></td><td><a href='#project-category-239'>239</a></td></tr>
+<tr><td><a href='#project-category-176'>Elegie</a></td><td><a href='#project-category-176'>Elegy</a></td><td><a href='#project-category-176'>176</a></td></tr>
+<tr><td><a href='#project-category-200'>Elektroakustische Musik</a></td><td><a href='#project-category-200'>Electroacoustic Music</a></td><td><a href='#project-category-200'>200</a></td></tr>
+<tr><td><a href='#project-category-201'>Elektronische Musik</a></td><td><a href='#project-category-201'>Electronic Music</a></td><td><a href='#project-category-201'>201</a></td></tr>
+<tr><td><a href='#project-category-202'>Ensemblemusik</a></td><td><a href='#project-category-202'>Ensemble Music</a></td><td><a href='#project-category-202'>202</a></td></tr>
+<tr><td><a href='#project-category-177'>Epigramm</a></td><td><a href='#project-category-177'>Epigram</a></td><td><a href='#project-category-177'>177</a></td></tr>
+<tr><td><a href='#project-category-163'>Epik</a></td><td><a href='#project-category-163'>Epic Literature</a></td><td><a href='#project-category-163'>163</a></td></tr>
+<tr><td><a href='#project-category-36'>Episches Theater</a></td><td><a href='#project-category-36'>Epic Theatre</a></td><td><a href='#project-category-36'>36</a></td></tr>
+<tr><td><a href='#project-category-61'>Episode</a></td><td><a href='#project-category-61'>Episode</a></td><td><a href='#project-category-61'>61</a></td></tr>
+<tr><td><a href='#project-category-62'>Episodenfilm</a></td><td><a href='#project-category-62'>Anthology Film</a></td><td><a href='#project-category-62'>62</a></td></tr>
+<tr><td><a href='#project-category-164'>Erzählung</a></td><td><a href='#project-category-164'>Narrative Story</a></td><td><a href='#project-category-164'>164</a></td></tr>
+<tr><td><a href='#project-category-191'>Essay</a></td><td><a href='#project-category-191'>Essay</a></td><td><a href='#project-category-191'>191</a></td></tr>
+<tr><td><a href='#project-category-63'>Essay-Film</a></td><td><a href='#project-category-63'>Essay Film</a></td><td><a href='#project-category-63'>63</a></td></tr>
+<tr><td><a href='#project-category-219'>Ethnojazz</a></td><td><a href='#project-category-219'>Ethno Jazz</a></td><td><a href='#project-category-219'>219</a></td></tr>
+<tr><td><a href='#project-category-64'>Expanded Cinema</a></td><td><a href='#project-category-64'>Expanded Cinema</a></td><td><a href='#project-category-64'>64</a></td></tr>
+<tr><td><a href='#project-category-139'>Expanded Cinema</a></td><td><a href='#project-category-139'>Expanded Cinema</a></td><td><a href='#project-category-139'>139</a></td></tr>
+<tr><td><a href='#project-category-65'>Experimentalfilm</a></td><td><a href='#project-category-65'>Experimental Film</a></td><td><a href='#project-category-65'>65</a></td></tr>
+<tr><td><a href='#project-category-37'>Experimentelles Theater</a></td><td><a href='#project-category-37'>Experimental Theatre</a></td><td><a href='#project-category-37'>37</a></td></tr>
+<tr><td><a href='#project-category-104'>Field Recording</a></td><td><a href='#project-category-104'>Field Recording</a></td><td><a href='#project-category-104'>104</a></td></tr>
+<tr><td><a href='#project-category-40'>Figurentheater</a></td><td><a href='#project-category-40'>Puppetry Arts</a></td><td><a href='#project-category-40'>40</a></td></tr>
+<tr><td><a href='#project-category-55'>Film/TV</a></td><td><a href='#project-category-55'>Film/TV</a></td><td><a href='#project-category-55'>55</a></td></tr>
+<tr><td><a href='#project-category-254'>Filmmusik</a></td><td><a href='#project-category-254'>Film Music</a></td><td><a href='#project-category-254'>254</a></td></tr>
+<tr><td><a href='#project-category-281'>Fixed Media</a></td><td><a href='#project-category-281'>Fixed Media</a></td><td><a href='#project-category-281'>281</a></td></tr>
+<tr><td><a href='#project-category-203'>Folklore</a></td><td><a href='#project-category-203'>Folklore</a></td><td><a href='#project-category-203'>203</a></td></tr>
+<tr><td><a href='#project-category-119'>Fotobuch</a></td><td><a href='#project-category-119'>Photobook</a></td><td><a href='#project-category-119'>119</a></td></tr>
+<tr><td><a href='#project-category-18'>Fotografie</a></td><td><a href='#project-category-18'>Photography</a></td><td><a href='#project-category-18'>18</a></td></tr>
+<tr><td><a href='#project-category-120'>Fotogrammetrie</a></td><td><a href='#project-category-120'>Photogrammetry</a></td><td><a href='#project-category-120'>120</a></td></tr>
+<tr><td><a href='#project-category-21'>Fotogrammetrie</a></td><td><a href='#project-category-21'>Photogrammetry</a></td><td><a href='#project-category-21'>21</a></td></tr>
+<tr><td><a href='#project-category-94'>Fotoinstallation</a></td><td><a href='#project-category-94'>Photo Installation</a></td><td><a href='#project-category-94'>94</a></td></tr>
+<tr><td><a href='#project-category-121'>Fotoinstallation</a></td><td><a href='#project-category-121'>Photo Installation</a></td><td><a href='#project-category-121'>121</a></td></tr>
+<tr><td><a href='#project-category-22'>Fotojournalismus</a></td><td><a href='#project-category-22'>Photojournalism</a></td><td><a href='#project-category-22'>22</a></td></tr>
+<tr><td><a href='#project-category-220'>Free Jazz</a></td><td><a href='#project-category-220'>Free Jazz</a></td><td><a href='#project-category-220'>220</a></td></tr>
+<tr><td><a href='#project-category-41'>Freilichttheater</a></td><td><a href='#project-category-41'>Open-Air Theatre</a></td><td><a href='#project-category-41'>41</a></td></tr>
+<tr><td><a href='#project-category-8'>Game Design</a></td><td><a href='#project-category-8'>Game Design</a></td><td><a href='#project-category-8'>8</a></td></tr>
+<tr><td><a href='#project-category-178'>Gedicht</a></td><td><a href='#project-category-178'>Poem</a></td><td><a href='#project-category-178'>178</a></td></tr>
+<tr><td><a href='#project-category-179'>Gedichtsammlung</a></td><td><a href='#project-category-179'>Poetry Collection</a></td><td><a href='#project-category-179'>179</a></td></tr>
+<tr><td><a href='#project-category-204'>Geistliche Musik</a></td><td><a href='#project-category-204'>Sacred Music</a></td><td><a href='#project-category-204'>204</a></td></tr>
+<tr><td><a href='#project-category-86'>Generative Kunst</a></td><td><a href='#project-category-86'>Generative Art</a></td><td><a href='#project-category-86'>86</a></td></tr>
+<tr><td><a href='#project-category-286'>Genremalerei</a></td><td><a href='#project-category-286'>Genre Painting</a></td><td><a href='#project-category-286'>286</a></td></tr>
+<tr><td><a href='#project-category-262'>Gruppentanz</a></td><td><a href='#project-category-262'>Group Dance</a></td><td><a href='#project-category-262'>262</a></td></tr>
+<tr><td><a href='#project-category-180'>Haiku</a></td><td><a href='#project-category-180'>Haiku</a></td><td><a href='#project-category-180'>180</a></td></tr>
+<tr><td><a href='#project-category-131'>Happening</a></td><td><a href='#project-category-131'>Happening</a></td><td><a href='#project-category-131'>131</a></td></tr>
+<tr><td><a href='#project-category-221'>Hard Bop</a></td><td><a href='#project-category-221'>Hard Bop</a></td><td><a href='#project-category-221'>221</a></td></tr>
+<tr><td><a href='#project-category-240'>Hip-Hop</a></td><td><a href='#project-category-240'>Hip-Hop</a></td><td><a href='#project-category-240'>240</a></td></tr>
+<tr><td><a href='#project-category-153'>Historiendrama</a></td><td><a href='#project-category-153'>Historical Play</a></td><td><a href='#project-category-153'>153</a></td></tr>
+<tr><td><a href='#project-category-287'>Historienmalerei</a></td><td><a href='#project-category-287'>History Painting</a></td><td><a href='#project-category-287'>287</a></td></tr>
+<tr><td><a href='#project-category-125'>Holografie</a></td><td><a href='#project-category-125'>Holography</a></td><td><a href='#project-category-125'>125</a></td></tr>
+<tr><td><a href='#project-category-181'>Hymne</a></td><td><a href='#project-category-181'>Hymn</a></td><td><a href='#project-category-181'>181</a></td></tr>
+<tr><td><a href='#project-category-105'>Hörstück</a></td><td><a href='#project-category-105'>Listening Piece</a></td><td><a href='#project-category-105'>105</a></td></tr>
+<tr><td><a href='#project-category-42'>Improvisationstheater</a></td><td><a href='#project-category-42'>Improvisational Theatre</a></td><td><a href='#project-category-42'>42</a></td></tr>
+<tr><td><a href='#project-category-9'>Industrial Design</a></td><td><a href='#project-category-9'>Industrial Design</a></td><td><a href='#project-category-9'>9</a></td></tr>
+<tr><td><a href='#project-category-10'>Innenarchitektur</a></td><td><a href='#project-category-10'>Interior Design</a></td><td><a href='#project-category-10'>10</a></td></tr>
+<tr><td><a href='#project-category-93'>Installation</a></td><td><a href='#project-category-93'>Installation</a></td><td><a href='#project-category-93'>93</a></td></tr>
+<tr><td><a href='#project-category-205'>Instrumentalmusik</a></td><td><a href='#project-category-205'>Instrumental Music</a></td><td><a href='#project-category-205'>205</a></td></tr>
+<tr><td><a href='#project-category-23'>Inszenierte Fotografie</a></td><td><a href='#project-category-23'>Staged Photography</a></td><td><a href='#project-category-23'>23</a></td></tr>
+<tr><td><a href='#project-category-122'>Inszenierte Fotografie</a></td><td><a href='#project-category-122'>Staged Photography</a></td><td><a href='#project-category-122'>122</a></td></tr>
+<tr><td><a href='#project-category-95'>Interaktive Kunst</a></td><td><a href='#project-category-95'>Interactive Art</a></td><td><a href='#project-category-95'>95</a></td></tr>
+<tr><td><a href='#project-category-87'>Interaktive Kunst</a></td><td><a href='#project-category-87'>Interactive Art</a></td><td><a href='#project-category-87'>87</a></td></tr>
+<tr><td><a href='#project-category-43'>Interaktives Theater</a></td><td><a href='#project-category-43'>Interactive Theatre</a></td><td><a href='#project-category-43'>43</a></td></tr>
+<tr><td><a href='#project-category-290'>Interieurmalerei</a></td><td><a href='#project-category-290'>Interior Painting</a></td><td><a href='#project-category-290'>290</a></td></tr>
+<tr><td><a href='#project-category-96'>Intervention</a></td><td><a href='#project-category-96'>Intervention</a></td><td><a href='#project-category-96'>96</a></td></tr>
+<tr><td><a href='#project-category-132'>Intervention</a></td><td><a href='#project-category-132'>Intervention</a></td><td><a href='#project-category-132'>132</a></td></tr>
+<tr><td><a href='#project-category-273'>Interview</a></td><td><a href='#project-category-273'>Interview</a></td><td><a href='#project-category-273'>273</a></td></tr>
+<tr><td><a href='#project-category-206'>Jazz</a></td><td><a href='#project-category-206'>Jazz</a></td><td><a href='#project-category-206'>206</a></td></tr>
+<tr><td><a href='#project-category-222'>Jazz Fusion</a></td><td><a href='#project-category-222'>Jazz Fusion</a></td><td><a href='#project-category-222'>222</a></td></tr>
+<tr><td><a href='#project-category-263'>Jazztanz</a></td><td><a href='#project-category-263'>Jazz Dance</a></td><td><a href='#project-category-263'>263</a></td></tr>
+<tr><td><a href='#project-category-44'>Jugendtheater</a></td><td><a href='#project-category-44'>Youth Theatre</a></td><td><a href='#project-category-44'>44</a></td></tr>
+<tr><td><a href='#project-category-30'>Keramik</a></td><td><a href='#project-category-30'>Ceramic</a></td><td><a href='#project-category-30'>30</a></td></tr>
+<tr><td><a href='#project-category-45'>Kindertheater</a></td><td><a href='#project-category-45'>Children's Theatre</a></td><td><a href='#project-category-45'>45</a></td></tr>
+<tr><td><a href='#project-category-97'>Klanginstallation</a></td><td><a href='#project-category-97'>Sound Installation</a></td><td><a href='#project-category-97'>97</a></td></tr>
+<tr><td><a href='#project-category-106'>Klanginstallation</a></td><td><a href='#project-category-106'>Sound Installation</a></td><td><a href='#project-category-106'>106</a></td></tr>
+<tr><td><a href='#project-category-102'>Klangkunst</a></td><td><a href='#project-category-102'>Sound Art</a></td><td><a href='#project-category-102'>102</a></td></tr>
+<tr><td><a href='#project-category-107'>Klangobjekt</a></td><td><a href='#project-category-107'>Sound Sculpture</a></td><td><a href='#project-category-107'>107</a></td></tr>
+<tr><td><a href='#project-category-229'>Klassische Musik</a></td><td><a href='#project-category-229'>Classical Music</a></td><td><a href='#project-category-229'>229</a></td></tr>
+<tr><td><a href='#project-category-11'>Kommunikationsdesign</a></td><td><a href='#project-category-11'>Graphic Design</a></td><td><a href='#project-category-11'>11</a></td></tr>
+<tr><td><a href='#project-category-66'>Kompilationsfilm</a></td><td><a href='#project-category-66'>Compilation Film</a></td><td><a href='#project-category-66'>66</a></td></tr>
+<tr><td><a href='#project-category-108'>Komposition</a></td><td><a href='#project-category-108'>Composition</a></td><td><a href='#project-category-108'>108</a></td></tr>
+<tr><td><a href='#project-category-154'>Komödie</a></td><td><a href='#project-category-154'>Comedy</a></td><td><a href='#project-category-154'>154</a></td></tr>
+<tr><td><a href='#project-category-182'>Konkrete Poesie</a></td><td><a href='#project-category-182'>Concrete Poetry</a></td><td><a href='#project-category-182'>182</a></td></tr>
+<tr><td><a href='#project-category-123'>Konzeptuelle Fotografie</a></td><td><a href='#project-category-123'>Conceptual Photography</a></td><td><a href='#project-category-123'>123</a></td></tr>
+<tr><td><a href='#project-category-109'>Konzert</a></td><td><a href='#project-category-109'>Concert</a></td><td><a href='#project-category-109'>109</a></td></tr>
+<tr><td><a href='#project-category-78'>Kunst</a></td><td><a href='#project-category-78'>Art</a></td><td><a href='#project-category-78'>78</a></td></tr>
+<tr><td><a href='#project-category-98'>Kunst am Bau</a></td><td><a href='#project-category-98'>Percent for Art</a></td><td><a href='#project-category-98'>98</a></td></tr>
+<tr><td><a href='#project-category-99'>Kunst im öffentlichen Raum</a></td><td><a href='#project-category-99'>Public Art</a></td><td><a href='#project-category-99'>99</a></td></tr>
+<tr><td><a href='#project-category-59'>Kurz-Dokumentarfilm</a></td><td><a href='#project-category-59'>Short Documentary Film</a></td><td><a href='#project-category-59'>59</a></td></tr>
+<tr><td><a href='#project-category-165'>Kurzgeschichte</a></td><td><a href='#project-category-165'>Short Story</a></td><td><a href='#project-category-165'>165</a></td></tr>
+<tr><td><a href='#project-category-73'>Kurzspielfilm</a></td><td><a href='#project-category-73'>Short Film</a></td><td><a href='#project-category-73'>73</a></td></tr>
+<tr><td><a href='#project-category-112'>Künstler:innen-Buch</a></td><td><a href='#project-category-112'>Artist's Book</a></td><td><a href='#project-category-112'>112</a></td></tr>
+<tr><td><a href='#project-category-111'>Künstler:innen-Publikation</a></td><td><a href='#project-category-111'>Artist's Publication</a></td><td><a href='#project-category-111'>111</a></td></tr>
+<tr><td><a href='#project-category-113'>Künstler:innen-Text</a></td><td><a href='#project-category-113'>Artist's Statement</a></td><td><a href='#project-category-113'>113</a></td></tr>
+<tr><td><a href='#project-category-116'>Künstlerische Fotografie</a></td><td><a href='#project-category-116'>Fine Art Photography</a></td><td><a href='#project-category-116'>116</a></td></tr>
+<tr><td><a href='#project-category-24'>Landschaftsfotografie</a></td><td><a href='#project-category-24'>Landscape Photography</a></td><td><a href='#project-category-24'>24</a></td></tr>
+<tr><td><a href='#project-category-284'>Landschaftsmalerei</a></td><td><a href='#project-category-284'>Landscape Painting</a></td><td><a href='#project-category-284'>284</a></td></tr>
+<tr><td><a href='#project-category-264'>Lateinamerikanischer Tanz</a></td><td><a href='#project-category-264'>Latin American Dance</a></td><td><a href='#project-category-264'>264</a></td></tr>
+<tr><td><a href='#project-category-183'>Lautgedicht</a></td><td><a href='#project-category-183'>Sound Poetry</a></td><td><a href='#project-category-183'>183</a></td></tr>
+<tr><td><a href='#project-category-155'>Libretto</a></td><td><a href='#project-category-155'>Libretto</a></td><td><a href='#project-category-155'>155</a></td></tr>
+<tr><td><a href='#project-category-100'>Lichtinstallation</a></td><td><a href='#project-category-100'>Light Installation</a></td><td><a href='#project-category-100'>100</a></td></tr>
+<tr><td><a href='#project-category-126'>Lichtinstallation</a></td><td><a href='#project-category-126'>Light Installation</a></td><td><a href='#project-category-126'>126</a></td></tr>
+<tr><td><a href='#project-category-124'>Lichtkunst</a></td><td><a href='#project-category-124'>Light Art</a></td><td><a href='#project-category-124'>124</a></td></tr>
+<tr><td><a href='#project-category-184'>Limerick</a></td><td><a href='#project-category-184'>Limerick</a></td><td><a href='#project-category-184'>184</a></td></tr>
+<tr><td><a href='#project-category-150'>Literatur</a></td><td><a href='#project-category-150'>Literature</a></td><td><a href='#project-category-150'>150</a></td></tr>
+<tr><td><a href='#project-category-172'>Literaturlesung</a></td><td><a href='#project-category-172'>Literary Reading</a></td><td><a href='#project-category-172'>172</a></td></tr>
+<tr><td><a href='#project-category-173'>Lyrik</a></td><td><a href='#project-category-173'>Poetry</a></td><td><a href='#project-category-173'>173</a></td></tr>
+<tr><td><a href='#project-category-127'>Malerei</a></td><td><a href='#project-category-127'>Painting</a></td><td><a href='#project-category-127'>127</a></td></tr>
+<tr><td><a href='#project-category-192'>Manifest</a></td><td><a href='#project-category-192'>Manifesto</a></td><td><a href='#project-category-192'>192</a></td></tr>
+<tr><td><a href='#project-category-12'>Mediengestaltung</a></td><td><a href='#project-category-12'>Media Design</a></td><td><a href='#project-category-12'>12</a></td></tr>
+<tr><td><a href='#project-category-193'>Memoir</a></td><td><a href='#project-category-193'>Memoir</a></td><td><a href='#project-category-193'>193</a></td></tr>
+<tr><td><a href='#project-category-241'>Metal</a></td><td><a href='#project-category-241'>Metal</a></td><td><a href='#project-category-241'>241</a></td></tr>
+<tr><td><a href='#project-category-46'>Metatheater</a></td><td><a href='#project-category-46'>Meta-Theatre</a></td><td><a href='#project-category-46'>46</a></td></tr>
+<tr><td><a href='#project-category-230'>Militärmusik</a></td><td><a href='#project-category-230'>Military Music</a></td><td><a href='#project-category-230'>230</a></td></tr>
+<tr><td><a href='#project-category-67'>Mockumentary</a></td><td><a href='#project-category-67'>Mockumentary</a></td><td><a href='#project-category-67'>67</a></td></tr>
+<tr><td><a href='#project-category-13'>Modedesign</a></td><td><a href='#project-category-13'>Fashion Design</a></td><td><a href='#project-category-13'>13</a></td></tr>
+<tr><td><a href='#project-category-25'>Modefotografie</a></td><td><a href='#project-category-25'>Fashion Photography</a></td><td><a href='#project-category-25'>25</a></td></tr>
+<tr><td><a href='#project-category-136'>Modell</a></td><td><a href='#project-category-136'>Model</a></td><td><a href='#project-category-136'>136</a></td></tr>
+<tr><td><a href='#project-category-265'>Modetanz</a></td><td><a href='#project-category-265'>Poplular Dance</a></td><td><a href='#project-category-265'>265</a></td></tr>
+<tr><td><a href='#project-category-156'>Monodrama</a></td><td><a href='#project-category-156'>Monodrama</a></td><td><a href='#project-category-156'>156</a></td></tr>
+<tr><td><a href='#project-category-157'>Moralität</a></td><td><a href='#project-category-157'>Morality Play</a></td><td><a href='#project-category-157'>157</a></td></tr>
+<tr><td><a href='#project-category-197'>Musik</a></td><td><a href='#project-category-197'>Music</a></td><td><a href='#project-category-197'>197</a></td></tr>
+<tr><td><a href='#project-category-68'>Musikfilm</a></td><td><a href='#project-category-68'>Musical Film</a></td><td><a href='#project-category-68'>68</a></td></tr>
+<tr><td><a href='#project-category-47'>Musiktheater</a></td><td><a href='#project-category-47'>Musical Theatre</a></td><td><a href='#project-category-47'>47</a></td></tr>
+<tr><td><a href='#project-category-69'>Musikvideo</a></td><td><a href='#project-category-69'>Music Video</a></td><td><a href='#project-category-69'>69</a></td></tr>
+<tr><td><a href='#project-category-166'>Märchen</a></td><td><a href='#project-category-166'>Fairy Tale</a></td><td><a href='#project-category-166'>166</a></td></tr>
+<tr><td><a href='#project-category-186'>Nachschlagewerk</a></td><td><a href='#project-category-186'>Reference Work</a></td><td><a href='#project-category-186'>186</a></td></tr>
+<tr><td><a href='#project-category-88'>Netzkunst</a></td><td><a href='#project-category-88'>Net Art</a></td><td><a href='#project-category-88'>88</a></td></tr>
+<tr><td><a href='#project-category-231'>Neue Musik</a></td><td><a href='#project-category-231'>Neue Musik</a></td><td><a href='#project-category-231'>231</a></td></tr>
+<tr><td><a href='#project-category-223'>New Orleans Jazz</a></td><td><a href='#project-category-223'>New Orleans Jazz</a></td><td><a href='#project-category-223'>223</a></td></tr>
+<tr><td><a href='#project-category-242'>New Wave</a></td><td><a href='#project-category-242'>New Wave</a></td><td><a href='#project-category-242'>242</a></td></tr>
+<tr><td><a href='#project-category-187'>Nichtfiktionale Literatur</a></td><td><a href='#project-category-187'>Non-fictional Literature</a></td><td><a href='#project-category-187'>187</a></td></tr>
+<tr><td><a href='#project-category-167'>Novelle</a></td><td><a href='#project-category-167'>Novella</a></td><td><a href='#project-category-167'>167</a></td></tr>
+<tr><td><a href='#project-category-279'>Oper</a></td><td><a href='#project-category-279'>Opera</a></td><td><a href='#project-category-279'>279</a></td></tr>
+<tr><td><a href='#project-category-232'>Orchestermusik</a></td><td><a href='#project-category-232'>Orchestral Music</a></td><td><a href='#project-category-232'>232</a></td></tr>
+<tr><td><a href='#project-category-266'>Paartanz</a></td><td><a href='#project-category-266'>Partner Dance</a></td><td><a href='#project-category-266'>266</a></td></tr>
+<tr><td><a href='#project-category-168'>Parabel</a></td><td><a href='#project-category-168'>Parable</a></td><td><a href='#project-category-168'>168</a></td></tr>
+<tr><td><a href='#project-category-128'>Performance</a></td><td><a href='#project-category-128'>Performance</a></td><td><a href='#project-category-128'>128</a></td></tr>
+<tr><td><a href='#project-category-133'>Performance-Vortrag</a></td><td><a href='#project-category-133'>Lecture Performance</a></td><td><a href='#project-category-133'>133</a></td></tr>
+<tr><td><a href='#project-category-48'>Physical Theatre</a></td><td><a href='#project-category-48'>Physical Theatre</a></td><td><a href='#project-category-48'>48</a></td></tr>
+<tr><td><a href='#project-category-3'>Podcast</a></td><td><a href='#project-category-3'>Podcast</a></td><td><a href='#project-category-3'>3</a></td></tr>
+<tr><td><a href='#project-category-114'>Podcast</a></td><td><a href='#project-category-114'>Podcast</a></td><td><a href='#project-category-114'>114</a></td></tr>
+<tr><td><a href='#project-category-274'>Podiumsdiskussion</a></td><td><a href='#project-category-274'>Panel Discussion</a></td><td><a href='#project-category-274'>274</a></td></tr>
+<tr><td><a href='#project-category-49'>Politisches Theater</a></td><td><a href='#project-category-49'>Political Theatre</a></td><td><a href='#project-category-49'>49</a></td></tr>
+<tr><td><a href='#project-category-243'>Pop</a></td><td><a href='#project-category-243'>Pop</a></td><td><a href='#project-category-243'>243</a></td></tr>
+<tr><td><a href='#project-category-233'>Popularmusik</a></td><td><a href='#project-category-233'>Popular Music</a></td><td><a href='#project-category-233'>233</a></td></tr>
+<tr><td><a href='#project-category-283'>Portrait</a></td><td><a href='#project-category-283'>Portrait</a></td><td><a href='#project-category-283'>283</a></td></tr>
+<tr><td><a href='#project-category-26'>Porträtfotografie</a></td><td><a href='#project-category-26'>Portrait Photography</a></td><td><a href='#project-category-26'>26</a></td></tr>
+<tr><td><a href='#project-category-50'>Postdramatisches Theater</a></td><td><a href='#project-category-50'>Postdramatic Theatre</a></td><td><a href='#project-category-50'>50</a></td></tr>
+<tr><td><a href='#project-category-51'>Postmodernes Theater</a></td><td><a href='#project-category-51'>Postmodern Theatre</a></td><td><a href='#project-category-51'>51</a></td></tr>
+<tr><td><a href='#project-category-27'>Produktfotografie</a></td><td><a href='#project-category-27'>Product Photography</a></td><td><a href='#project-category-27'>27</a></td></tr>
+<tr><td><a href='#project-category-224'>Progressive Jazz</a></td><td><a href='#project-category-224'>Progressive Jazz</a></td><td><a href='#project-category-224'>224</a></td></tr>
+<tr><td><a href='#project-category-140'>Projektionsmapping</a></td><td><a href='#project-category-140'>Projection Mapping</a></td><td><a href='#project-category-140'>140</a></td></tr>
+<tr><td><a href='#project-category-244'>Punk</a></td><td><a href='#project-category-244'>Punk</a></td><td><a href='#project-category-244'>244</a></td></tr>
+<tr><td><a href='#project-category-282'>Radiosendung</a></td><td><a href='#project-category-282'>Radio Programme</a></td><td><a href='#project-category-282'>282</a></td></tr>
+<tr><td><a href='#project-category-225'>Ragtime</a></td><td><a href='#project-category-225'>Ragtime</a></td><td><a href='#project-category-225'>225</a></td></tr>
+<tr><td><a href='#project-category-194'>Ratgeber</a></td><td><a href='#project-category-194'>Self-help Book</a></td><td><a href='#project-category-194'>194</a></td></tr>
+<tr><td><a href='#project-category-137'>Ready-made</a></td><td><a href='#project-category-137'>Found Object</a></td><td><a href='#project-category-137'>137</a></td></tr>
+<tr><td><a href='#project-category-275'>Rede</a></td><td><a href='#project-category-275'>Speech</a></td><td><a href='#project-category-275'>275</a></td></tr>
+<tr><td><a href='#project-category-246'>Reggae</a></td><td><a href='#project-category-246'>Reggae</a></td><td><a href='#project-category-246'>246</a></td></tr>
+<tr><td><a href='#project-category-280'>Regie</a></td><td><a href='#project-category-280'>Direction</a></td><td><a href='#project-category-280'>280</a></td></tr>
+<tr><td><a href='#project-category-267'>Reihentanz</a></td><td><a href='#project-category-267'>Line Dance</a></td><td><a href='#project-category-267'>267</a></td></tr>
+<tr><td><a href='#project-category-70'>Reportage</a></td><td><a href='#project-category-70'>Reportage</a></td><td><a href='#project-category-70'>70</a></td></tr>
+<tr><td><a href='#project-category-169'>Reportage</a></td><td><a href='#project-category-169'>Reportage</a></td><td><a href='#project-category-169'>169</a></td></tr>
+<tr><td><a href='#project-category-247'>Rock</a></td><td><a href='#project-category-247'>Rock</a></td><td><a href='#project-category-247'>247</a></td></tr>
+<tr><td><a href='#project-category-248'>Rock and Roll</a></td><td><a href='#project-category-248'>Rock and Roll</a></td><td><a href='#project-category-248'>248</a></td></tr>
+<tr><td><a href='#project-category-170'>Roman</a></td><td><a href='#project-category-170'>Novel</a></td><td><a href='#project-category-170'>170</a></td></tr>
+<tr><td><a href='#project-category-245'>Rythm and Blues</a></td><td><a href='#project-category-245'>Rythm and Blues</a></td><td><a href='#project-category-245'>245</a></td></tr>
+<tr><td><a href='#project-category-195'>Sachbuch</a></td><td><a href='#project-category-195'>Non-fiction Book</a></td><td><a href='#project-category-195'>195</a></td></tr>
+<tr><td><a href='#project-category-171'>Satire</a></td><td><a href='#project-category-171'>Satire</a></td><td><a href='#project-category-171'>171</a></td></tr>
+<tr><td><a href='#project-category-249'>Schlager</a></td><td><a href='#project-category-249'>Schlager</a></td><td><a href='#project-category-249'>249</a></td></tr>
+<tr><td><a href='#project-category-250'>Singer/Songwriter/Liedermacher</a></td><td><a href='#project-category-250'>Singer-Songwriter</a></td><td><a href='#project-category-250'>250</a></td></tr>
+<tr><td><a href='#project-category-158'>Sittenstück</a></td><td><a href='#project-category-158'>Comedy of Manors</a></td><td><a href='#project-category-158'>158</a></td></tr>
+<tr><td><a href='#project-category-251'>Ska</a></td><td><a href='#project-category-251'>Ska</a></td><td><a href='#project-category-251'>251</a></td></tr>
+<tr><td><a href='#project-category-135'>Skulptur</a></td><td><a href='#project-category-135'>Sculpture</a></td><td><a href='#project-category-135'>135</a></td></tr>
+<tr><td><a href='#project-category-226'>Smooth Jazz</a></td><td><a href='#project-category-226'>Smooth Jazz</a></td><td><a href='#project-category-226'>226</a></td></tr>
+<tr><td><a href='#project-category-89'>Software</a></td><td><a href='#project-category-89'>Software</a></td><td><a href='#project-category-89'>89</a></td></tr>
+<tr><td><a href='#project-category-252'>Solomusik</a></td><td><a href='#project-category-252'>Solo Music</a></td><td><a href='#project-category-252'>252</a></td></tr>
+<tr><td><a href='#project-category-268'>Solotanz</a></td><td><a href='#project-category-268'>Solo Dance</a></td><td><a href='#project-category-268'>268</a></td></tr>
+<tr><td><a href='#project-category-185'>Songtext</a></td><td><a href='#project-category-185'>Song Lyrics</a></td><td><a href='#project-category-185'>185</a></td></tr>
+<tr><td><a href='#project-category-14'>Sound-Design</a></td><td><a href='#project-category-14'>Sound Design</a></td><td><a href='#project-category-14'>14</a></td></tr>
+<tr><td><a href='#project-category-110'>Soundtrack</a></td><td><a href='#project-category-110'>Soundtrack</a></td><td><a href='#project-category-110'>110</a></td></tr>
+<tr><td><a href='#project-category-253'>Soundtrack</a></td><td><a href='#project-category-253'>Soundtrack</a></td><td><a href='#project-category-253'>253</a></td></tr>
+<tr><td><a href='#project-category-71'>Soundtrack</a></td><td><a href='#project-category-71'>Soundtrack</a></td><td><a href='#project-category-71'>71</a></td></tr>
+<tr><td><a href='#project-category-72'>Spielfilm</a></td><td><a href='#project-category-72'>Feature Film</a></td><td><a href='#project-category-72'>72</a></td></tr>
+<tr><td><a href='#project-category-53'>Sprechtheater</a></td><td><a href='#project-category-53'>Spoken Drama</a></td><td><a href='#project-category-53'>53</a></td></tr>
+<tr><td><a href='#project-category-269'>Standardtanz</a></td><td><a href='#project-category-269'>Ballroom Dance</a></td><td><a href='#project-category-269'>269</a></td></tr>
+<tr><td><a href='#project-category-285'>Stilleben</a></td><td><a href='#project-category-285'>Still Life</a></td><td><a href='#project-category-285'>285</a></td></tr>
+<tr><td><a href='#project-category-52'>Straßentheater</a></td><td><a href='#project-category-52'>Street Theatre</a></td><td><a href='#project-category-52'>52</a></td></tr>
+<tr><td><a href='#project-category-270'>Streetdance</a></td><td><a href='#project-category-270'>Street Dance</a></td><td><a href='#project-category-270'>270</a></td></tr>
+<tr><td><a href='#project-category-227'>Swing</a></td><td><a href='#project-category-227'>Swing</a></td><td><a href='#project-category-227'>227</a></td></tr>
+<tr><td><a href='#project-category-276'>Symposium</a></td><td><a href='#project-category-276'>Conference</a></td><td><a href='#project-category-276'>276</a></td></tr>
+<tr><td><a href='#project-category-260'>Tanz</a></td><td><a href='#project-category-260'>Dance</a></td><td><a href='#project-category-260'>260</a></td></tr>
+<tr><td><a href='#project-category-134'>Tanz</a></td><td><a href='#project-category-134'>Dance</a></td><td><a href='#project-category-134'>134</a></td></tr>
+<tr><td><a href='#project-category-256'>Tanzmusik</a></td><td><a href='#project-category-256'>Dance Music</a></td><td><a href='#project-category-256'>256</a></td></tr>
+<tr><td><a href='#project-category-271'>Tanztheater</a></td><td><a href='#project-category-271'>Dance Theatre</a></td><td><a href='#project-category-271'>271</a></td></tr>
+<tr><td><a href='#project-category-54'>Tanztheater</a></td><td><a href='#project-category-54'>Dance Theatre</a></td><td><a href='#project-category-54'>54</a></td></tr>
+<tr><td><a href='#project-category-196'>Tatsachenroman</a></td><td><a href='#project-category-196'>Non-fiction Novel</a></td><td><a href='#project-category-196'>196</a></td></tr>
+<tr><td><a href='#project-category-15'>Textildesign</a></td><td><a href='#project-category-15'>Textile Design</a></td><td><a href='#project-category-15'>15</a></td></tr>
+<tr><td><a href='#project-category-32'>Theater</a></td><td><a href='#project-category-32'>Theatre</a></td><td><a href='#project-category-32'>32</a></td></tr>
+<tr><td><a href='#project-category-28'>Theaterfotografie</a></td><td><a href='#project-category-28'>Theatrical Photography</a></td><td><a href='#project-category-28'>28</a></td></tr>
+<tr><td><a href='#project-category-159'>Tragikomödie</a></td><td><a href='#project-category-159'>Comedy Drama</a></td><td><a href='#project-category-159'>159</a></td></tr>
+<tr><td><a href='#project-category-160'>Tragödie</a></td><td><a href='#project-category-160'>Tragedy</a></td><td><a href='#project-category-160'>160</a></td></tr>
+<tr><td><a href='#project-category-74'>Trailer für Film</a></td><td><a href='#project-category-74'>Film Trailer</a></td><td><a href='#project-category-74'>74</a></td></tr>
+<tr><td><a href='#project-category-16'>Transformation Design</a></td><td><a href='#project-category-16'>Transformation Design</a></td><td><a href='#project-category-16'>16</a></td></tr>
+<tr><td><a href='#project-category-75'>TV-Format</a></td><td><a href='#project-category-75'>Television Programme</a></td><td><a href='#project-category-75'>75</a></td></tr>
+<tr><td><a href='#project-category-90'>User Interface</a></td><td><a href='#project-category-90'>User Interface</a></td><td><a href='#project-category-90'>90</a></td></tr>
+<tr><td><a href='#project-category-17'>User Interface Design</a></td><td><a href='#project-category-17'>User Interface Design</a></td><td><a href='#project-category-17'>17</a></td></tr>
+<tr><td><a href='#project-category-272'>Veranstaltung</a></td><td><a href='#project-category-272'>Event</a></td><td><a href='#project-category-272'>272</a></td></tr>
+<tr><td><a href='#project-category-161'>Versdrama</a></td><td><a href='#project-category-161'>Verse Drama</a></td><td><a href='#project-category-161'>161</a></td></tr>
+<tr><td><a href='#project-category-141'>Video-Essay</a></td><td><a href='#project-category-141'>Video Essay</a></td><td><a href='#project-category-141'>141</a></td></tr>
+<tr><td><a href='#project-category-101'>Videoinstallation</a></td><td><a href='#project-category-101'>Video Installation</a></td><td><a href='#project-category-101'>101</a></td></tr>
+<tr><td><a href='#project-category-142'>Videoinstallation</a></td><td><a href='#project-category-142'>Video Installation</a></td><td><a href='#project-category-142'>142</a></td></tr>
+<tr><td><a href='#project-category-138'>Videokunst</a></td><td><a href='#project-category-138'>Video Art</a></td><td><a href='#project-category-138'>138</a></td></tr>
+<tr><td><a href='#project-category-143'>Videoperformance</a></td><td><a href='#project-category-143'>Video Performance</a></td><td><a href='#project-category-143'>143</a></td></tr>
+<tr><td><a href='#project-category-144'>Videoskulptur</a></td><td><a href='#project-category-144'>Video Sculpture</a></td><td><a href='#project-category-144'>144</a></td></tr>
+<tr><td><a href='#project-category-255'>Videospielmusik</a></td><td><a href='#project-category-255'>Game Soundtrack</a></td><td><a href='#project-category-255'>255</a></td></tr>
+<tr><td><a href='#project-category-145'>Virtual Reality</a></td><td><a href='#project-category-145'>Virtual Reality</a></td><td><a href='#project-category-145'>145</a></td></tr>
+<tr><td><a href='#project-category-91'>Virtual Reality</a></td><td><a href='#project-category-91'>Virtual Reality</a></td><td><a href='#project-category-91'>91</a></td></tr>
+<tr><td><a href='#project-category-257'>Vokalmusik</a></td><td><a href='#project-category-257'>Vocal Music</a></td><td><a href='#project-category-257'>257</a></td></tr>
+<tr><td><a href='#project-category-277'>Vorlesung</a></td><td><a href='#project-category-277'>Lecture</a></td><td><a href='#project-category-277'>277</a></td></tr>
+<tr><td><a href='#project-category-278'>Vortrag</a></td><td><a href='#project-category-278'>Presentation</a></td><td><a href='#project-category-278'>278</a></td></tr>
+<tr><td><a href='#project-category-115'>Webseite</a></td><td><a href='#project-category-115'>Website</a></td><td><a href='#project-category-115'>115</a></td></tr>
+<tr><td><a href='#project-category-4'>Webseite</a></td><td><a href='#project-category-4'>Website</a></td><td><a href='#project-category-4'>4</a></td></tr>
+<tr><td><a href='#project-category-92'>Webserie</a></td><td><a href='#project-category-92'>Web Series</a></td><td><a href='#project-category-92'>92</a></td></tr>
+<tr><td><a href='#project-category-76'>Webserie</a></td><td><a href='#project-category-76'>Web Series</a></td><td><a href='#project-category-76'>76</a></td></tr>
+<tr><td><a href='#project-category-258'>Weltliche Musik</a></td><td><a href='#project-category-258'>Secular Music</a></td><td><a href='#project-category-258'>258</a></td></tr>
+<tr><td><a href='#project-category-29'>Werbefotografie</a></td><td><a href='#project-category-29'>Advertising Photography</a></td><td><a href='#project-category-29'>29</a></td></tr>
+<tr><td><a href='#project-category-259'>Werbemusik</a></td><td><a href='#project-category-259'>Advertising Music</a></td><td><a href='#project-category-259'>259</a></td></tr>
+<tr><td><a href='#project-category-77'>Werbespot</a></td><td><a href='#project-category-77'>Commercial</a></td><td><a href='#project-category-77'>77</a></td></tr>
+<tr><td><a href='#project-category-228'>West Coast Jazz</a></td><td><a href='#project-category-228'>West Coast Jazz</a></td><td><a href='#project-category-228'>228</a></td></tr>
+<tr><td><a href='#project-category-146'>Zeichnung</a></td><td><a href='#project-category-146'>Drawing</a></td><td><a href='#project-category-146'>146</a></td></tr>
 </table>
 </details>
 
 <details><summary>Project Categories ordered by German Breadcrumb | Projektkategorien nach Deutschem Breadcrumb geordnet</summary>
 <table>
 <tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td>[Akademische Publikation](#project-category-1)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1' target='_blank'>1</a></td></tr>
-<tr><td>[Akademische Publikation](#project-category-1) > [Dissertation](#project-category-2)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2' target='_blank'>2</a></td></tr>
-<tr><td>[Akademische Publikation](#project-category-1) > [Podcast](#project-category-3)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3' target='_blank'>3</a></td></tr>
-<tr><td>[Akademische Publikation](#project-category-1) > [Webseite](#project-category-4)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4' target='_blank'>4</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5' target='_blank'>5</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Architektur](#project-category-6)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6' target='_blank'>6</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7' target='_blank'>7</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Game Design](#project-category-8)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8' target='_blank'>8</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Industrial Design](#project-category-9)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9' target='_blank'>9</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Innenarchitektur](#project-category-10)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10' target='_blank'>10</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Kommunikationsdesign](#project-category-11)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11' target='_blank'>11</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Mediengestaltung](#project-category-12)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12' target='_blank'>12</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Modedesign](#project-category-13)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13' target='_blank'>13</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Sound-Design](#project-category-14)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14' target='_blank'>14</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Textildesign](#project-category-15)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15' target='_blank'>15</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Transformation Design](#project-category-16)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16' target='_blank'>16</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [User Interface Design](#project-category-17)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17' target='_blank'>17</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18' target='_blank'>18</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Architekturfotografie](#project-category-19)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19' target='_blank'>19</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Dokumentarfotografie](#project-category-20)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20' target='_blank'>20</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Fotogrammetrie](#project-category-21)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21' target='_blank'>21</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Fotojournalismus](#project-category-22)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22' target='_blank'>22</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Inszenierte Fotografie](#project-category-23)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23' target='_blank'>23</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Landschaftsfotografie](#project-category-24)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24' target='_blank'>24</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Modefotografie](#project-category-25)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25' target='_blank'>25</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Porträtfotografie](#project-category-26)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26' target='_blank'>26</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Produktfotografie](#project-category-27)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27' target='_blank'>27</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Theaterfotografie](#project-category-28)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28' target='_blank'>28</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Werbefotografie](#project-category-29)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29' target='_blank'>29</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Keramik](#project-category-30)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30' target='_blank'>30</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31' target='_blank'>31</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32' target='_blank'>32</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Absurdes Theater](#project-category-33)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33' target='_blank'>33</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Alternatives Theater](#project-category-34)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34' target='_blank'>34</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Angewandtes Theater](#project-category-35)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35' target='_blank'>35</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Digital Theatre](#project-category-38)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38' target='_blank'>38</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Dokumentarisches Theater](#project-category-39)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39' target='_blank'>39</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Episches Theater](#project-category-36)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36' target='_blank'>36</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Experimentelles Theater](#project-category-37)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37' target='_blank'>37</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Figurentheater](#project-category-40)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40' target='_blank'>40</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Freilichttheater](#project-category-41)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41' target='_blank'>41</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Improvisationstheater](#project-category-42)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42' target='_blank'>42</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Interaktives Theater](#project-category-43)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43' target='_blank'>43</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Jugendtheater](#project-category-44)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44' target='_blank'>44</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Kindertheater](#project-category-45)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45' target='_blank'>45</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Metatheater](#project-category-46)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46' target='_blank'>46</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Musiktheater](#project-category-47)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47' target='_blank'>47</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Physical Theatre](#project-category-48)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48' target='_blank'>48</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Politisches Theater](#project-category-49)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49' target='_blank'>49</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Postdramatisches Theater](#project-category-50)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50' target='_blank'>50</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Postmodernes Theater](#project-category-51)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51' target='_blank'>51</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Regie](#project-category-280)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280' target='_blank'>280</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Sprechtheater](#project-category-53)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53' target='_blank'>53</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Straßentheater](#project-category-52)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52' target='_blank'>52</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Tanztheater](#project-category-54)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54' target='_blank'>54</a></td></tr>
-<tr><td>[Film/TV](#project-category-55)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55' target='_blank'>55</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Animationsfilm](#project-category-56)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56' target='_blank'>56</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Dokudrama](#project-category-57)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57' target='_blank'>57</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Dokumentarfilm](#project-category-58)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58' target='_blank'>58</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Dokumentarfilm](#project-category-58) > [Kurz-Dokumentarfilm](#project-category-59)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59' target='_blank'>59</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Drehbuch](#project-category-60)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60' target='_blank'>60</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Episode](#project-category-61)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61' target='_blank'>61</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Episodenfilm](#project-category-62)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62' target='_blank'>62</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Essay-Film](#project-category-63)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63' target='_blank'>63</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Expanded Cinema](#project-category-64)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64' target='_blank'>64</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Experimentalfilm](#project-category-65)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65' target='_blank'>65</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Kompilationsfilm](#project-category-66)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66' target='_blank'>66</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Mockumentary](#project-category-67)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67' target='_blank'>67</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Musikfilm](#project-category-68)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68' target='_blank'>68</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Musikvideo](#project-category-69)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69' target='_blank'>69</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Reportage](#project-category-70)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70' target='_blank'>70</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Soundtrack](#project-category-71)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71' target='_blank'>71</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Spielfilm](#project-category-72)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72' target='_blank'>72</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Spielfilm](#project-category-72) > [Kurzspielfilm](#project-category-73)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73' target='_blank'>73</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Trailer für Film](#project-category-74)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74' target='_blank'>74</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [TV-Format](#project-category-75)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75' target='_blank'>75</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Webserie](#project-category-76)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76' target='_blank'>76</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Werbespot](#project-category-77)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77' target='_blank'>77</a></td></tr>
-<tr><td>[Kunst](#project-category-78)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78' target='_blank'>78</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Bio Art](#project-category-79)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79' target='_blank'>79</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80' target='_blank'>80</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Augmented Reality](#project-category-81)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81' target='_blank'>81</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [CD-ROM](#project-category-82)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82' target='_blank'>82</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computer Generated Imagery](#project-category-83)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83' target='_blank'>83</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computeranimation](#project-category-84)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84' target='_blank'>84</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computerspiel](#project-category-85)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85' target='_blank'>85</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Generative Kunst](#project-category-86)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86' target='_blank'>86</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Interaktive Kunst](#project-category-87)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87' target='_blank'>87</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Netzkunst](#project-category-88)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88' target='_blank'>88</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Software](#project-category-89)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89' target='_blank'>89</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [User Interface](#project-category-90)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90' target='_blank'>90</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Virtual Reality](#project-category-91)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91' target='_blank'>91</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Webserie](#project-category-92)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92' target='_blank'>92</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93' target='_blank'>93</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Fotoinstallation](#project-category-94)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94' target='_blank'>94</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Interaktive Kunst](#project-category-95)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95' target='_blank'>95</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Intervention](#project-category-96)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96' target='_blank'>96</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Klanginstallation](#project-category-97)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97' target='_blank'>97</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Kunst am Bau](#project-category-98)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98' target='_blank'>98</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Kunst im öffentlichen Raum](#project-category-99)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99' target='_blank'>99</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Lichtinstallation](#project-category-100)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100' target='_blank'>100</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Videoinstallation](#project-category-101)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101' target='_blank'>101</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102' target='_blank'>102</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Album](#project-category-103)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103' target='_blank'>103</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Field Recording](#project-category-104)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104' target='_blank'>104</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Hörstück](#project-category-105)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105' target='_blank'>105</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Klanginstallation](#project-category-106)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106' target='_blank'>106</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Klangobjekt](#project-category-107)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107' target='_blank'>107</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Komposition](#project-category-108)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108' target='_blank'>108</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Konzert](#project-category-109)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109' target='_blank'>109</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Soundtrack](#project-category-110)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110' target='_blank'>110</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111' target='_blank'>111</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Künstler:innen-Buch](#project-category-112)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112' target='_blank'>112</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Künstler:innen-Text](#project-category-113)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113' target='_blank'>113</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Podcast](#project-category-114)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114' target='_blank'>114</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Webseite](#project-category-115)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115' target='_blank'>115</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116' target='_blank'>116</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Computer Generated Imagery](#project-category-117)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117' target='_blank'>117</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Dokumentarfotografie](#project-category-118)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118' target='_blank'>118</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotobuch](#project-category-119)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119' target='_blank'>119</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotogrammetrie](#project-category-120)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120' target='_blank'>120</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotoinstallation](#project-category-121)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121' target='_blank'>121</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Inszenierte Fotografie](#project-category-122)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122' target='_blank'>122</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Konzeptuelle Fotografie](#project-category-123)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123' target='_blank'>123</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124' target='_blank'>124</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124) > [Holografie](#project-category-125)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125' target='_blank'>125</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124) > [Lichtinstallation](#project-category-126)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126' target='_blank'>126</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127' target='_blank'>127</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Abstrakte Malerei](#project-category-288)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288' target='_blank'>288</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Aktmalerei](#project-category-291)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291' target='_blank'>291</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Architekturmalerei](#project-category-289)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289' target='_blank'>289</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Genremalerei](#project-category-286)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286' target='_blank'>286</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Historienmalerei](#project-category-287)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287' target='_blank'>287</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Interieurmalerei](#project-category-290)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290' target='_blank'>290</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Landschaftsmalerei](#project-category-284)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284' target='_blank'>284</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Portrait](#project-category-283)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283' target='_blank'>283</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Stilleben](#project-category-285)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285' target='_blank'>285</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128' target='_blank'>128</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Aktion](#project-category-129)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129' target='_blank'>129</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Durational Performance](#project-category-130)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130' target='_blank'>130</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Happening](#project-category-131)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131' target='_blank'>131</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Intervention](#project-category-132)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132' target='_blank'>132</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Performance-Vortrag](#project-category-133)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133' target='_blank'>133</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Tanz](#project-category-134)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134' target='_blank'>134</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135' target='_blank'>135</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135) > [Modell](#project-category-136)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136' target='_blank'>136</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135) > [Ready-made](#project-category-137)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137' target='_blank'>137</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138' target='_blank'>138</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Expanded Cinema](#project-category-139)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139' target='_blank'>139</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Projektionsmapping](#project-category-140)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140' target='_blank'>140</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Video-Essay](#project-category-141)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141' target='_blank'>141</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoinstallation](#project-category-142)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142' target='_blank'>142</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoperformance](#project-category-143)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143' target='_blank'>143</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoskulptur](#project-category-144)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144' target='_blank'>144</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Virtual Reality](#project-category-145)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145' target='_blank'>145</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146' target='_blank'>146</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Collage](#project-category-147)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147' target='_blank'>147</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Comic](#project-category-148)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148' target='_blank'>148</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Druckgrafik](#project-category-149)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149' target='_blank'>149</a></td></tr>
-<tr><td>[Literatur](#project-category-150)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150' target='_blank'>150</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151' target='_blank'>151</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Einakter](#project-category-152)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152' target='_blank'>152</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Historiendrama](#project-category-153)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153' target='_blank'>153</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Komödie](#project-category-154)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154' target='_blank'>154</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Libretto](#project-category-155)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155' target='_blank'>155</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Monodrama](#project-category-156)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156' target='_blank'>156</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Moralität](#project-category-157)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157' target='_blank'>157</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Sittenstück](#project-category-158)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158' target='_blank'>158</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Tragikomödie](#project-category-159)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159' target='_blank'>159</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Tragödie](#project-category-160)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160' target='_blank'>160</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Versdrama](#project-category-161)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161' target='_blank'>161</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drehbuch](#project-category-162)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162' target='_blank'>162</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163' target='_blank'>163</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Erzählung](#project-category-164)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164' target='_blank'>164</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Kurzgeschichte](#project-category-165)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165' target='_blank'>165</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Märchen](#project-category-166)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166' target='_blank'>166</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Novelle](#project-category-167)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167' target='_blank'>167</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Parabel](#project-category-168)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168' target='_blank'>168</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Reportage](#project-category-169)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169' target='_blank'>169</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Roman](#project-category-170)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170' target='_blank'>170</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Satire](#project-category-171)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171' target='_blank'>171</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Literaturlesung](#project-category-172)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172' target='_blank'>172</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173' target='_blank'>173</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Akrostichon](#project-category-174)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174' target='_blank'>174</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Ballade](#project-category-175)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175' target='_blank'>175</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Elegie](#project-category-176)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176' target='_blank'>176</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Epigramm](#project-category-177)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177' target='_blank'>177</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Gedicht](#project-category-178)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178' target='_blank'>178</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Gedichtsammlung](#project-category-179)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179' target='_blank'>179</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Haiku](#project-category-180)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180' target='_blank'>180</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Hymne](#project-category-181)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181' target='_blank'>181</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Konkrete Poesie](#project-category-182)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182' target='_blank'>182</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Lautgedicht](#project-category-183)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183' target='_blank'>183</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Limerick](#project-category-184)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184' target='_blank'>184</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Songtext](#project-category-185)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185' target='_blank'>185</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nachschlagewerk](#project-category-186)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186' target='_blank'>186</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187' target='_blank'>187</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Autobiografie](#project-category-188)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188' target='_blank'>188</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Biografie](#project-category-189)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189' target='_blank'>189</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Blog](#project-category-190)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190' target='_blank'>190</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Essay](#project-category-191)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191' target='_blank'>191</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Manifest](#project-category-192)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192' target='_blank'>192</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Memoir](#project-category-193)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193' target='_blank'>193</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Ratgeber](#project-category-194)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194' target='_blank'>194</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Sachbuch](#project-category-195)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195' target='_blank'>195</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Tatsachenroman](#project-category-196)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196' target='_blank'>196</a></td></tr>
-<tr><td>[Musik](#project-category-197)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197' target='_blank'>197</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Außereuropäische Kunstmusik](#project-category-198)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198' target='_blank'>198</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Bühnenmusik](#project-category-199)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199' target='_blank'>199</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Bühnenmusik](#project-category-199) > [Oper](#project-category-279)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279' target='_blank'>279</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Elektroakustische Musik](#project-category-200)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200' target='_blank'>200</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Elektroakustische Musik](#project-category-200) > [Fixed Media](#project-category-281)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281' target='_blank'>281</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Elektronische Musik](#project-category-201)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201' target='_blank'>201</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Ensemblemusik](#project-category-202)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202' target='_blank'>202</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Folklore](#project-category-203)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203' target='_blank'>203</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Geistliche Musik](#project-category-204)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204' target='_blank'>204</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Instrumentalmusik](#project-category-205)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205' target='_blank'>205</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206' target='_blank'>206</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Acid Jazz](#project-category-207)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207' target='_blank'>207</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Afro-Cuban Jazz](#project-category-208)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208' target='_blank'>208</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Avantgarde-Jazz](#project-category-209)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209' target='_blank'>209</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Bebop](#project-category-210)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210' target='_blank'>210</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Big Band](#project-category-211)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211' target='_blank'>211</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Boogie-Woogie](#project-category-212)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212' target='_blank'>212</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Chicago Style](#project-category-213)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213' target='_blank'>213</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Contemporary Jazz](#project-category-214)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214' target='_blank'>214</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Cool Jazz](#project-category-215)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215' target='_blank'>215</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Crossover Jazz](#project-category-216)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216' target='_blank'>216</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Dixieland](#project-category-217)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217' target='_blank'>217</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [East Coast Jazz](#project-category-218)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218' target='_blank'>218</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Ethnojazz](#project-category-219)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219' target='_blank'>219</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Free Jazz](#project-category-220)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220' target='_blank'>220</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Hard Bop](#project-category-221)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221' target='_blank'>221</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Jazz Fusion](#project-category-222)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222' target='_blank'>222</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [New Orleans Jazz](#project-category-223)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223' target='_blank'>223</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Progressive Jazz](#project-category-224)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224' target='_blank'>224</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Ragtime](#project-category-225)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225' target='_blank'>225</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Smooth Jazz](#project-category-226)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226' target='_blank'>226</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Swing](#project-category-227)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227' target='_blank'>227</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [West Coast Jazz](#project-category-228)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228' target='_blank'>228</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Klassische Musik](#project-category-229)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229' target='_blank'>229</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Militärmusik](#project-category-230)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230' target='_blank'>230</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Neue Musik](#project-category-231)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231' target='_blank'>231</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Orchestermusik](#project-category-232)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232' target='_blank'>232</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233' target='_blank'>233</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [American Folk](#project-category-234)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234' target='_blank'>234</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Beat](#project-category-235)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235' target='_blank'>235</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Blues](#project-category-236)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236' target='_blank'>236</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Chanson](#project-category-237)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237' target='_blank'>237</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Country](#project-category-238)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238' target='_blank'>238</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Electronic Dance Music](#project-category-239)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239' target='_blank'>239</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Hip-Hop](#project-category-240)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240' target='_blank'>240</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Metal](#project-category-241)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241' target='_blank'>241</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [New Wave](#project-category-242)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242' target='_blank'>242</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Pop](#project-category-243)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243' target='_blank'>243</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Punk](#project-category-244)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244' target='_blank'>244</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Reggae](#project-category-246)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246' target='_blank'>246</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rock and Roll](#project-category-248)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248' target='_blank'>248</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rock](#project-category-247)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247' target='_blank'>247</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rythm and Blues](#project-category-245)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245' target='_blank'>245</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Schlager](#project-category-249)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249' target='_blank'>249</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Singer/Songwriter/Liedermacher](#project-category-250)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250' target='_blank'>250</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Ska](#project-category-251)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251' target='_blank'>251</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Solomusik](#project-category-252)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252' target='_blank'>252</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253' target='_blank'>253</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253) > [Filmmusik](#project-category-254)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254' target='_blank'>254</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253) > [Videospielmusik](#project-category-255)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255' target='_blank'>255</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Tanzmusik](#project-category-256)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256' target='_blank'>256</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Vokalmusik](#project-category-257)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257' target='_blank'>257</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Weltliche Musik](#project-category-258)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258' target='_blank'>258</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Werbemusik](#project-category-259)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259' target='_blank'>259</a></td></tr>
-<tr><td>[Tanz](#project-category-260)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260' target='_blank'>260</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Bühnentanz](#project-category-261)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261' target='_blank'>261</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Gruppentanz](#project-category-262)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262' target='_blank'>262</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Jazztanz](#project-category-263)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263' target='_blank'>263</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Lateinamerikanischer Tanz](#project-category-264)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264' target='_blank'>264</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Modetanz](#project-category-265)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265' target='_blank'>265</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Paartanz](#project-category-266)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266' target='_blank'>266</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Reihentanz](#project-category-267)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267' target='_blank'>267</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Solotanz](#project-category-268)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268' target='_blank'>268</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Standardtanz](#project-category-269)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269' target='_blank'>269</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Streetdance](#project-category-270)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270' target='_blank'>270</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Tanztheater](#project-category-271)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271' target='_blank'>271</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272' target='_blank'>272</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Interview](#project-category-273)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273' target='_blank'>273</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Podiumsdiskussion](#project-category-274)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274' target='_blank'>274</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Radiosendung](#project-category-282)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282' target='_blank'>282</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Rede](#project-category-275)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275' target='_blank'>275</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Symposium](#project-category-276)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276' target='_blank'>276</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Vorlesung](#project-category-277)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277' target='_blank'>277</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Vortrag](#project-category-278)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278' target='_blank'>278</a></td></tr>
+<tr><td>[Akademische Publikation](#project-category-1)</td><td><a href='#project-category-1'>1</a></td></tr>
+<tr><td>[Akademische Publikation](#project-category-1) > [Dissertation](#project-category-2)</td><td><a href='#project-category-2'>2</a></td></tr>
+<tr><td>[Akademische Publikation](#project-category-1) > [Podcast](#project-category-3)</td><td><a href='#project-category-3'>3</a></td></tr>
+<tr><td>[Akademische Publikation](#project-category-1) > [Webseite](#project-category-4)</td><td><a href='#project-category-4'>4</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5)</td><td><a href='#project-category-5'>5</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Architektur](#project-category-6)</td><td><a href='#project-category-6'>6</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7)</td><td><a href='#project-category-7'>7</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Game Design](#project-category-8)</td><td><a href='#project-category-8'>8</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Industrial Design](#project-category-9)</td><td><a href='#project-category-9'>9</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Innenarchitektur](#project-category-10)</td><td><a href='#project-category-10'>10</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Kommunikationsdesign](#project-category-11)</td><td><a href='#project-category-11'>11</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Mediengestaltung](#project-category-12)</td><td><a href='#project-category-12'>12</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Modedesign](#project-category-13)</td><td><a href='#project-category-13'>13</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Sound-Design](#project-category-14)</td><td><a href='#project-category-14'>14</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Textildesign](#project-category-15)</td><td><a href='#project-category-15'>15</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Transformation Design](#project-category-16)</td><td><a href='#project-category-16'>16</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [User Interface Design](#project-category-17)</td><td><a href='#project-category-17'>17</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18)</td><td><a href='#project-category-18'>18</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Architekturfotografie](#project-category-19)</td><td><a href='#project-category-19'>19</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Dokumentarfotografie](#project-category-20)</td><td><a href='#project-category-20'>20</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Fotogrammetrie](#project-category-21)</td><td><a href='#project-category-21'>21</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Fotojournalismus](#project-category-22)</td><td><a href='#project-category-22'>22</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Inszenierte Fotografie](#project-category-23)</td><td><a href='#project-category-23'>23</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Landschaftsfotografie](#project-category-24)</td><td><a href='#project-category-24'>24</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Modefotografie](#project-category-25)</td><td><a href='#project-category-25'>25</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Porträtfotografie](#project-category-26)</td><td><a href='#project-category-26'>26</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Produktfotografie](#project-category-27)</td><td><a href='#project-category-27'>27</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Theaterfotografie](#project-category-28)</td><td><a href='#project-category-28'>28</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Werbefotografie](#project-category-29)</td><td><a href='#project-category-29'>29</a></td></tr>
+<tr><td>[Angewandte Kunst](#project-category-5) > [Keramik](#project-category-30)</td><td><a href='#project-category-30'>30</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31)</td><td><a href='#project-category-31'>31</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32)</td><td><a href='#project-category-32'>32</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Absurdes Theater](#project-category-33)</td><td><a href='#project-category-33'>33</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Alternatives Theater](#project-category-34)</td><td><a href='#project-category-34'>34</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Angewandtes Theater](#project-category-35)</td><td><a href='#project-category-35'>35</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Digital Theatre](#project-category-38)</td><td><a href='#project-category-38'>38</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Dokumentarisches Theater](#project-category-39)</td><td><a href='#project-category-39'>39</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Episches Theater](#project-category-36)</td><td><a href='#project-category-36'>36</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Experimentelles Theater](#project-category-37)</td><td><a href='#project-category-37'>37</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Figurentheater](#project-category-40)</td><td><a href='#project-category-40'>40</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Freilichttheater](#project-category-41)</td><td><a href='#project-category-41'>41</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Improvisationstheater](#project-category-42)</td><td><a href='#project-category-42'>42</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Interaktives Theater](#project-category-43)</td><td><a href='#project-category-43'>43</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Jugendtheater](#project-category-44)</td><td><a href='#project-category-44'>44</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Kindertheater](#project-category-45)</td><td><a href='#project-category-45'>45</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Metatheater](#project-category-46)</td><td><a href='#project-category-46'>46</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Musiktheater](#project-category-47)</td><td><a href='#project-category-47'>47</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Physical Theatre](#project-category-48)</td><td><a href='#project-category-48'>48</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Politisches Theater](#project-category-49)</td><td><a href='#project-category-49'>49</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Postdramatisches Theater](#project-category-50)</td><td><a href='#project-category-50'>50</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Postmodernes Theater](#project-category-51)</td><td><a href='#project-category-51'>51</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Regie](#project-category-280)</td><td><a href='#project-category-280'>280</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Sprechtheater](#project-category-53)</td><td><a href='#project-category-53'>53</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Straßentheater](#project-category-52)</td><td><a href='#project-category-52'>52</a></td></tr>
+<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Tanztheater](#project-category-54)</td><td><a href='#project-category-54'>54</a></td></tr>
+<tr><td>[Film/TV](#project-category-55)</td><td><a href='#project-category-55'>55</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Animationsfilm](#project-category-56)</td><td><a href='#project-category-56'>56</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Dokudrama](#project-category-57)</td><td><a href='#project-category-57'>57</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Dokumentarfilm](#project-category-58)</td><td><a href='#project-category-58'>58</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Dokumentarfilm](#project-category-58) > [Kurz-Dokumentarfilm](#project-category-59)</td><td><a href='#project-category-59'>59</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Drehbuch](#project-category-60)</td><td><a href='#project-category-60'>60</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Episode](#project-category-61)</td><td><a href='#project-category-61'>61</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Episodenfilm](#project-category-62)</td><td><a href='#project-category-62'>62</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Essay-Film](#project-category-63)</td><td><a href='#project-category-63'>63</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Expanded Cinema](#project-category-64)</td><td><a href='#project-category-64'>64</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Experimentalfilm](#project-category-65)</td><td><a href='#project-category-65'>65</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Kompilationsfilm](#project-category-66)</td><td><a href='#project-category-66'>66</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Mockumentary](#project-category-67)</td><td><a href='#project-category-67'>67</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Musikfilm](#project-category-68)</td><td><a href='#project-category-68'>68</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Musikvideo](#project-category-69)</td><td><a href='#project-category-69'>69</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Reportage](#project-category-70)</td><td><a href='#project-category-70'>70</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Soundtrack](#project-category-71)</td><td><a href='#project-category-71'>71</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Spielfilm](#project-category-72)</td><td><a href='#project-category-72'>72</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Spielfilm](#project-category-72) > [Kurzspielfilm](#project-category-73)</td><td><a href='#project-category-73'>73</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Trailer für Film](#project-category-74)</td><td><a href='#project-category-74'>74</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [TV-Format](#project-category-75)</td><td><a href='#project-category-75'>75</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Webserie](#project-category-76)</td><td><a href='#project-category-76'>76</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Werbespot](#project-category-77)</td><td><a href='#project-category-77'>77</a></td></tr>
+<tr><td>[Kunst](#project-category-78)</td><td><a href='#project-category-78'>78</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Bio Art](#project-category-79)</td><td><a href='#project-category-79'>79</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80)</td><td><a href='#project-category-80'>80</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Augmented Reality](#project-category-81)</td><td><a href='#project-category-81'>81</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [CD-ROM](#project-category-82)</td><td><a href='#project-category-82'>82</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computer Generated Imagery](#project-category-83)</td><td><a href='#project-category-83'>83</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computeranimation](#project-category-84)</td><td><a href='#project-category-84'>84</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computerspiel](#project-category-85)</td><td><a href='#project-category-85'>85</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Generative Kunst](#project-category-86)</td><td><a href='#project-category-86'>86</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Interaktive Kunst](#project-category-87)</td><td><a href='#project-category-87'>87</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Netzkunst](#project-category-88)</td><td><a href='#project-category-88'>88</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Software](#project-category-89)</td><td><a href='#project-category-89'>89</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [User Interface](#project-category-90)</td><td><a href='#project-category-90'>90</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Virtual Reality](#project-category-91)</td><td><a href='#project-category-91'>91</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Webserie](#project-category-92)</td><td><a href='#project-category-92'>92</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93)</td><td><a href='#project-category-93'>93</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Fotoinstallation](#project-category-94)</td><td><a href='#project-category-94'>94</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Interaktive Kunst](#project-category-95)</td><td><a href='#project-category-95'>95</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Intervention](#project-category-96)</td><td><a href='#project-category-96'>96</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Klanginstallation](#project-category-97)</td><td><a href='#project-category-97'>97</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Kunst am Bau](#project-category-98)</td><td><a href='#project-category-98'>98</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Kunst im öffentlichen Raum](#project-category-99)</td><td><a href='#project-category-99'>99</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Lichtinstallation](#project-category-100)</td><td><a href='#project-category-100'>100</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Videoinstallation](#project-category-101)</td><td><a href='#project-category-101'>101</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102)</td><td><a href='#project-category-102'>102</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Album](#project-category-103)</td><td><a href='#project-category-103'>103</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Field Recording](#project-category-104)</td><td><a href='#project-category-104'>104</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Hörstück](#project-category-105)</td><td><a href='#project-category-105'>105</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Klanginstallation](#project-category-106)</td><td><a href='#project-category-106'>106</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Klangobjekt](#project-category-107)</td><td><a href='#project-category-107'>107</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Komposition](#project-category-108)</td><td><a href='#project-category-108'>108</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Konzert](#project-category-109)</td><td><a href='#project-category-109'>109</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Soundtrack](#project-category-110)</td><td><a href='#project-category-110'>110</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111)</td><td><a href='#project-category-111'>111</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Künstler:innen-Buch](#project-category-112)</td><td><a href='#project-category-112'>112</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Künstler:innen-Text](#project-category-113)</td><td><a href='#project-category-113'>113</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Podcast](#project-category-114)</td><td><a href='#project-category-114'>114</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Webseite](#project-category-115)</td><td><a href='#project-category-115'>115</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116)</td><td><a href='#project-category-116'>116</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Computer Generated Imagery](#project-category-117)</td><td><a href='#project-category-117'>117</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Dokumentarfotografie](#project-category-118)</td><td><a href='#project-category-118'>118</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotobuch](#project-category-119)</td><td><a href='#project-category-119'>119</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotogrammetrie](#project-category-120)</td><td><a href='#project-category-120'>120</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotoinstallation](#project-category-121)</td><td><a href='#project-category-121'>121</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Inszenierte Fotografie](#project-category-122)</td><td><a href='#project-category-122'>122</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Konzeptuelle Fotografie](#project-category-123)</td><td><a href='#project-category-123'>123</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124)</td><td><a href='#project-category-124'>124</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124) > [Holografie](#project-category-125)</td><td><a href='#project-category-125'>125</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124) > [Lichtinstallation](#project-category-126)</td><td><a href='#project-category-126'>126</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127)</td><td><a href='#project-category-127'>127</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Abstrakte Malerei](#project-category-288)</td><td><a href='#project-category-288'>288</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Aktmalerei](#project-category-291)</td><td><a href='#project-category-291'>291</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Architekturmalerei](#project-category-289)</td><td><a href='#project-category-289'>289</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Genremalerei](#project-category-286)</td><td><a href='#project-category-286'>286</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Historienmalerei](#project-category-287)</td><td><a href='#project-category-287'>287</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Interieurmalerei](#project-category-290)</td><td><a href='#project-category-290'>290</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Landschaftsmalerei](#project-category-284)</td><td><a href='#project-category-284'>284</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Portrait](#project-category-283)</td><td><a href='#project-category-283'>283</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Stilleben](#project-category-285)</td><td><a href='#project-category-285'>285</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128)</td><td><a href='#project-category-128'>128</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Aktion](#project-category-129)</td><td><a href='#project-category-129'>129</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Durational Performance](#project-category-130)</td><td><a href='#project-category-130'>130</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Happening](#project-category-131)</td><td><a href='#project-category-131'>131</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Intervention](#project-category-132)</td><td><a href='#project-category-132'>132</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Performance-Vortrag](#project-category-133)</td><td><a href='#project-category-133'>133</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Tanz](#project-category-134)</td><td><a href='#project-category-134'>134</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135)</td><td><a href='#project-category-135'>135</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135) > [Modell](#project-category-136)</td><td><a href='#project-category-136'>136</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135) > [Ready-made](#project-category-137)</td><td><a href='#project-category-137'>137</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138)</td><td><a href='#project-category-138'>138</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Expanded Cinema](#project-category-139)</td><td><a href='#project-category-139'>139</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Projektionsmapping](#project-category-140)</td><td><a href='#project-category-140'>140</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Video-Essay](#project-category-141)</td><td><a href='#project-category-141'>141</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoinstallation](#project-category-142)</td><td><a href='#project-category-142'>142</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoperformance](#project-category-143)</td><td><a href='#project-category-143'>143</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoskulptur](#project-category-144)</td><td><a href='#project-category-144'>144</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Virtual Reality](#project-category-145)</td><td><a href='#project-category-145'>145</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146)</td><td><a href='#project-category-146'>146</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Collage](#project-category-147)</td><td><a href='#project-category-147'>147</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Comic](#project-category-148)</td><td><a href='#project-category-148'>148</a></td></tr>
+<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Druckgrafik](#project-category-149)</td><td><a href='#project-category-149'>149</a></td></tr>
+<tr><td>[Literatur](#project-category-150)</td><td><a href='#project-category-150'>150</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151)</td><td><a href='#project-category-151'>151</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Einakter](#project-category-152)</td><td><a href='#project-category-152'>152</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Historiendrama](#project-category-153)</td><td><a href='#project-category-153'>153</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Komödie](#project-category-154)</td><td><a href='#project-category-154'>154</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Libretto](#project-category-155)</td><td><a href='#project-category-155'>155</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Monodrama](#project-category-156)</td><td><a href='#project-category-156'>156</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Moralität](#project-category-157)</td><td><a href='#project-category-157'>157</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Sittenstück](#project-category-158)</td><td><a href='#project-category-158'>158</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Tragikomödie](#project-category-159)</td><td><a href='#project-category-159'>159</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Tragödie](#project-category-160)</td><td><a href='#project-category-160'>160</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Versdrama](#project-category-161)</td><td><a href='#project-category-161'>161</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Drehbuch](#project-category-162)</td><td><a href='#project-category-162'>162</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163)</td><td><a href='#project-category-163'>163</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Erzählung](#project-category-164)</td><td><a href='#project-category-164'>164</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Kurzgeschichte](#project-category-165)</td><td><a href='#project-category-165'>165</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Märchen](#project-category-166)</td><td><a href='#project-category-166'>166</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Novelle](#project-category-167)</td><td><a href='#project-category-167'>167</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Parabel](#project-category-168)</td><td><a href='#project-category-168'>168</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Reportage](#project-category-169)</td><td><a href='#project-category-169'>169</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Roman](#project-category-170)</td><td><a href='#project-category-170'>170</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Satire](#project-category-171)</td><td><a href='#project-category-171'>171</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Literaturlesung](#project-category-172)</td><td><a href='#project-category-172'>172</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173)</td><td><a href='#project-category-173'>173</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Akrostichon](#project-category-174)</td><td><a href='#project-category-174'>174</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Ballade](#project-category-175)</td><td><a href='#project-category-175'>175</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Elegie](#project-category-176)</td><td><a href='#project-category-176'>176</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Epigramm](#project-category-177)</td><td><a href='#project-category-177'>177</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Gedicht](#project-category-178)</td><td><a href='#project-category-178'>178</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Gedichtsammlung](#project-category-179)</td><td><a href='#project-category-179'>179</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Haiku](#project-category-180)</td><td><a href='#project-category-180'>180</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Hymne](#project-category-181)</td><td><a href='#project-category-181'>181</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Konkrete Poesie](#project-category-182)</td><td><a href='#project-category-182'>182</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Lautgedicht](#project-category-183)</td><td><a href='#project-category-183'>183</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Limerick](#project-category-184)</td><td><a href='#project-category-184'>184</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Songtext](#project-category-185)</td><td><a href='#project-category-185'>185</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nachschlagewerk](#project-category-186)</td><td><a href='#project-category-186'>186</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187)</td><td><a href='#project-category-187'>187</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Autobiografie](#project-category-188)</td><td><a href='#project-category-188'>188</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Biografie](#project-category-189)</td><td><a href='#project-category-189'>189</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Blog](#project-category-190)</td><td><a href='#project-category-190'>190</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Essay](#project-category-191)</td><td><a href='#project-category-191'>191</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Manifest](#project-category-192)</td><td><a href='#project-category-192'>192</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Memoir](#project-category-193)</td><td><a href='#project-category-193'>193</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Ratgeber](#project-category-194)</td><td><a href='#project-category-194'>194</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Sachbuch](#project-category-195)</td><td><a href='#project-category-195'>195</a></td></tr>
+<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Tatsachenroman](#project-category-196)</td><td><a href='#project-category-196'>196</a></td></tr>
+<tr><td>[Musik](#project-category-197)</td><td><a href='#project-category-197'>197</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Außereuropäische Kunstmusik](#project-category-198)</td><td><a href='#project-category-198'>198</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Bühnenmusik](#project-category-199)</td><td><a href='#project-category-199'>199</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Bühnenmusik](#project-category-199) > [Oper](#project-category-279)</td><td><a href='#project-category-279'>279</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Elektroakustische Musik](#project-category-200)</td><td><a href='#project-category-200'>200</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Elektroakustische Musik](#project-category-200) > [Fixed Media](#project-category-281)</td><td><a href='#project-category-281'>281</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Elektronische Musik](#project-category-201)</td><td><a href='#project-category-201'>201</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Ensemblemusik](#project-category-202)</td><td><a href='#project-category-202'>202</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Folklore](#project-category-203)</td><td><a href='#project-category-203'>203</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Geistliche Musik](#project-category-204)</td><td><a href='#project-category-204'>204</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Instrumentalmusik](#project-category-205)</td><td><a href='#project-category-205'>205</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206)</td><td><a href='#project-category-206'>206</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Acid Jazz](#project-category-207)</td><td><a href='#project-category-207'>207</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Afro-Cuban Jazz](#project-category-208)</td><td><a href='#project-category-208'>208</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Avantgarde-Jazz](#project-category-209)</td><td><a href='#project-category-209'>209</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Bebop](#project-category-210)</td><td><a href='#project-category-210'>210</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Big Band](#project-category-211)</td><td><a href='#project-category-211'>211</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Boogie-Woogie](#project-category-212)</td><td><a href='#project-category-212'>212</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Chicago Style](#project-category-213)</td><td><a href='#project-category-213'>213</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Contemporary Jazz](#project-category-214)</td><td><a href='#project-category-214'>214</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Cool Jazz](#project-category-215)</td><td><a href='#project-category-215'>215</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Crossover Jazz](#project-category-216)</td><td><a href='#project-category-216'>216</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Dixieland](#project-category-217)</td><td><a href='#project-category-217'>217</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [East Coast Jazz](#project-category-218)</td><td><a href='#project-category-218'>218</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Ethnojazz](#project-category-219)</td><td><a href='#project-category-219'>219</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Free Jazz](#project-category-220)</td><td><a href='#project-category-220'>220</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Hard Bop](#project-category-221)</td><td><a href='#project-category-221'>221</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Jazz Fusion](#project-category-222)</td><td><a href='#project-category-222'>222</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [New Orleans Jazz](#project-category-223)</td><td><a href='#project-category-223'>223</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Progressive Jazz](#project-category-224)</td><td><a href='#project-category-224'>224</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Ragtime](#project-category-225)</td><td><a href='#project-category-225'>225</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Smooth Jazz](#project-category-226)</td><td><a href='#project-category-226'>226</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Swing](#project-category-227)</td><td><a href='#project-category-227'>227</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [West Coast Jazz](#project-category-228)</td><td><a href='#project-category-228'>228</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Klassische Musik](#project-category-229)</td><td><a href='#project-category-229'>229</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Militärmusik](#project-category-230)</td><td><a href='#project-category-230'>230</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Neue Musik](#project-category-231)</td><td><a href='#project-category-231'>231</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Orchestermusik](#project-category-232)</td><td><a href='#project-category-232'>232</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233)</td><td><a href='#project-category-233'>233</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [American Folk](#project-category-234)</td><td><a href='#project-category-234'>234</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Beat](#project-category-235)</td><td><a href='#project-category-235'>235</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Blues](#project-category-236)</td><td><a href='#project-category-236'>236</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Chanson](#project-category-237)</td><td><a href='#project-category-237'>237</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Country](#project-category-238)</td><td><a href='#project-category-238'>238</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Electronic Dance Music](#project-category-239)</td><td><a href='#project-category-239'>239</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Hip-Hop](#project-category-240)</td><td><a href='#project-category-240'>240</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Metal](#project-category-241)</td><td><a href='#project-category-241'>241</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [New Wave](#project-category-242)</td><td><a href='#project-category-242'>242</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Pop](#project-category-243)</td><td><a href='#project-category-243'>243</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Punk](#project-category-244)</td><td><a href='#project-category-244'>244</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Reggae](#project-category-246)</td><td><a href='#project-category-246'>246</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rock and Roll](#project-category-248)</td><td><a href='#project-category-248'>248</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rock](#project-category-247)</td><td><a href='#project-category-247'>247</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rythm and Blues](#project-category-245)</td><td><a href='#project-category-245'>245</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Schlager](#project-category-249)</td><td><a href='#project-category-249'>249</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Singer/Songwriter/Liedermacher](#project-category-250)</td><td><a href='#project-category-250'>250</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Ska](#project-category-251)</td><td><a href='#project-category-251'>251</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Solomusik](#project-category-252)</td><td><a href='#project-category-252'>252</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253)</td><td><a href='#project-category-253'>253</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253) > [Filmmusik](#project-category-254)</td><td><a href='#project-category-254'>254</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253) > [Videospielmusik](#project-category-255)</td><td><a href='#project-category-255'>255</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Tanzmusik](#project-category-256)</td><td><a href='#project-category-256'>256</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Vokalmusik](#project-category-257)</td><td><a href='#project-category-257'>257</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Weltliche Musik](#project-category-258)</td><td><a href='#project-category-258'>258</a></td></tr>
+<tr><td>[Musik](#project-category-197) > [Werbemusik](#project-category-259)</td><td><a href='#project-category-259'>259</a></td></tr>
+<tr><td>[Tanz](#project-category-260)</td><td><a href='#project-category-260'>260</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Bühnentanz](#project-category-261)</td><td><a href='#project-category-261'>261</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Gruppentanz](#project-category-262)</td><td><a href='#project-category-262'>262</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Jazztanz](#project-category-263)</td><td><a href='#project-category-263'>263</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Lateinamerikanischer Tanz](#project-category-264)</td><td><a href='#project-category-264'>264</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Modetanz](#project-category-265)</td><td><a href='#project-category-265'>265</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Paartanz](#project-category-266)</td><td><a href='#project-category-266'>266</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Reihentanz](#project-category-267)</td><td><a href='#project-category-267'>267</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Solotanz](#project-category-268)</td><td><a href='#project-category-268'>268</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Standardtanz](#project-category-269)</td><td><a href='#project-category-269'>269</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Streetdance](#project-category-270)</td><td><a href='#project-category-270'>270</a></td></tr>
+<tr><td>[Tanz](#project-category-260) > [Tanztheater](#project-category-271)</td><td><a href='#project-category-271'>271</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272)</td><td><a href='#project-category-272'>272</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Interview](#project-category-273)</td><td><a href='#project-category-273'>273</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Podiumsdiskussion](#project-category-274)</td><td><a href='#project-category-274'>274</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Radiosendung](#project-category-282)</td><td><a href='#project-category-282'>282</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Rede](#project-category-275)</td><td><a href='#project-category-275'>275</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Symposium](#project-category-276)</td><td><a href='#project-category-276'>276</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Vorlesung](#project-category-277)</td><td><a href='#project-category-277'>277</a></td></tr>
+<tr><td>[Veranstaltung](#project-category-272) > [Vortrag](#project-category-278)</td><td><a href='#project-category-278'>278</a></td></tr>
 </table>
 </details>
 
 <details><summary>Project Categories ordered by English Breadcrumb | Projektkategorien nach Englischem Breadcrumb geordnet</summary>
 <table>
 <tr><th>English Breadcrumb</th><th>ID</th></tr>
-<tr><td>[Academic Publication](#project-category-1)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1'>1</a></td></tr>
-<tr><td>[Academic Publication](#project-category-1) > [Doctoral Thesis](#project-category-2)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2'>2</a></td></tr>
-<tr><td>[Academic Publication](#project-category-1) > [Podcast](#project-category-3)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3'>3</a></td></tr>
-<tr><td>[Academic Publication](#project-category-1) > [Website](#project-category-4)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4'>4</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5'>5</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Architecture](#project-category-6)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6'>6</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Ceramic](#project-category-30)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30'>30</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7'>7</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Fashion Design](#project-category-13)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13'>13</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Game Design](#project-category-8)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8'>8</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Graphic Design](#project-category-11)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11'>11</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Industrial Design](#project-category-9)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9'>9</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Interior Design](#project-category-10)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10'>10</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Media Design](#project-category-12)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12'>12</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Sound Design](#project-category-14)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14'>14</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Textile Design](#project-category-15)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15'>15</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Transformation Design](#project-category-16)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16'>16</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [User Interface Design](#project-category-17)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17'>17</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18'>18</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Advertising Photography](#project-category-29)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29'>29</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Architectural Photography](#project-category-19)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19'>19</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Documentary Photography](#project-category-20)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20'>20</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Fashion Photography](#project-category-25)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25'>25</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Landscape Photography](#project-category-24)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24'>24</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Photogrammetry](#project-category-21)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21'>21</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Photojournalism](#project-category-22)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22'>22</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Portrait Photography](#project-category-26)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26'>26</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Product Photography](#project-category-27)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27'>27</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Staged Photography](#project-category-23)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23'>23</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Theatrical Photography](#project-category-28)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28'>28</a></td></tr>
-<tr><td>[Art](#project-category-78)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78'>78</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111'>111</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111) > [Artist's Book](#project-category-112)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112'>112</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111) > [Artist's Statement](#project-category-113)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113'>113</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Bio Art](#project-category-79)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79'>79</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80'>80</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Augmented Reality](#project-category-81)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81'>81</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [CD-ROM](#project-category-82)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82'>82</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Animation](#project-category-84)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84'>84</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Game](#project-category-85)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85'>85</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Generated Imagery](#project-category-83)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83'>83</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Generative Art](#project-category-86)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86'>86</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Interactive Art](#project-category-87)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87'>87</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Net Art](#project-category-88)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88'>88</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Software](#project-category-89)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89'>89</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [User Interface](#project-category-90)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90'>90</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Virtual Reality](#project-category-91)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91'>91</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Web Series](#project-category-92)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92'>92</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146'>146</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Collage](#project-category-147)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147'>147</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Comic](#project-category-148)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148'>148</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Printmaking](#project-category-149)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149'>149</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116'>116</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Computer-Generated Imagery](#project-category-117)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117'>117</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Conceptual Photography](#project-category-123)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123'>123</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Documentary Photography](#project-category-118)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118'>118</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photo Installation](#project-category-121)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121'>121</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photobook](#project-category-119)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119'>119</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photogrammetry](#project-category-120)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120'>120</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Staged Photography](#project-category-122)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122'>122</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93'>93</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Interactive Art](#project-category-95)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95'>95</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Intervention](#project-category-96)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96'>96</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Light Installation](#project-category-100)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100'>100</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Percent for Art](#project-category-98)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98'>98</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Photo Installation](#project-category-94)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94'>94</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Public Art](#project-category-99)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99'>99</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Sound Installation](#project-category-97)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97'>97</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Video Installation](#project-category-101)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101'>101</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Podcast](#project-category-114)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114'>114</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Website](#project-category-115)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115'>115</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124'>124</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124) > [Holography](#project-category-125)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125'>125</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124) > [Light Installation](#project-category-126)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126'>126</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127'>127</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Abstract Painting](#project-category-288)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288'>288</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Architectural Painting](#project-category-289)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289'>289</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Genre Painting](#project-category-286)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286'>286</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [History Painting](#project-category-287)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287'>287</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Interior Painting](#project-category-290)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290'>290</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Landscape Painting](#project-category-284)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284'>284</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Nude Painting](#project-category-291)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291'>291</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Portrait](#project-category-283)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283'>283</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Still Life](#project-category-285)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285'>285</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128'>128</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Action](#project-category-129)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129'>129</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Dance](#project-category-134)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134'>134</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Durational Performance](#project-category-130)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130'>130</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Happening](#project-category-131)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131'>131</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Intervention](#project-category-132)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132'>132</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Lecture Performance](#project-category-133)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133'>133</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135'>135</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135) > [Found Object](#project-category-137)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137'>137</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135) > [Model](#project-category-136)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136'>136</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102'>102</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Album](#project-category-103)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103'>103</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Composition](#project-category-108)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108'>108</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Concert](#project-category-109)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109'>109</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Field Recording](#project-category-104)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104'>104</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Listening Piece](#project-category-105)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105'>105</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Sound Installation](#project-category-106)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106'>106</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Sound Sculpture](#project-category-107)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107'>107</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Soundtrack](#project-category-110)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110'>110</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138'>138</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Expanded Cinema](#project-category-139)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139'>139</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Projection Mapping](#project-category-140)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140'>140</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Essay](#project-category-141)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141'>141</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Installation](#project-category-142)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142'>142</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Performance](#project-category-143)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143'>143</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Sculpture](#project-category-144)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144'>144</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Virtual Reality](#project-category-145)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145'>145</a></td></tr>
-<tr><td>[Dance](#project-category-260)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260'>260</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Ballroom Dance](#project-category-269)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269'>269</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Concert Dance](#project-category-261)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261'>261</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Dance Theatre](#project-category-271)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271'>271</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Group Dance](#project-category-262)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262'>262</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Jazz Dance](#project-category-263)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263'>263</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Latin American Dance](#project-category-264)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264'>264</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Line Dance](#project-category-267)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267'>267</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Partner Dance](#project-category-266)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266'>266</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Poplular Dance](#project-category-265)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265'>265</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Solo Dance](#project-category-268)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268'>268</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Street Dance](#project-category-270)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270'>270</a></td></tr>
-<tr><td>[Event](#project-category-272)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272'>272</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-273)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273'>273</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-274)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274'>274</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-275)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275'>275</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-276)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276'>276</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-277)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277'>277</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-278)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278'>278</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Radio Program](#project-category-282)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282'>282</a></td></tr>
-<tr><td>[Film/TV](#project-category-55)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55'>55</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Animated Film](#project-category-56)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56'>56</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Anthology Film](#project-category-62)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62'>62</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Commercial](#project-category-77)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77'>77</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Compilation Film](#project-category-66)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66'>66</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Docudrama](#project-category-57)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57'>57</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Documentary Film](#project-category-58)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58'>58</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Documentary Film](#project-category-58) > [Short Documentary Film](#project-category-59)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59'>59</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Episode](#project-category-61)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61'>61</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Essay Film](#project-category-63)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63'>63</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Expanded Cinema](#project-category-64)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64'>64</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Experimental Film](#project-category-65)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65'>65</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Feature Film](#project-category-72)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72'>72</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Feature Film](#project-category-72) > [Short Film](#project-category-73)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73'>73</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Film Trailer](#project-category-74)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74'>74</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Mockumentary](#project-category-67)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67'>67</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Music Video](#project-category-69)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69'>69</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Musical Film](#project-category-68)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68'>68</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Reportage](#project-category-70)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70'>70</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Screenplay](#project-category-60)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60'>60</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Soundtrack](#project-category-71)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71'>71</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Television Program](#project-category-75)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75'>75</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Web Series](#project-category-76)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76'>76</a></td></tr>
-<tr><td>[Literature](#project-category-150)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150'>150</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151'>151</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy Drama](#project-category-159)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159'>159</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy of Manors](#project-category-158)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158'>158</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy](#project-category-154)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154'>154</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Historical Play](#project-category-153)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153'>153</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Libretto](#project-category-155)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155'>155</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Monodrama](#project-category-156)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156'>156</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Morality Play](#project-category-157)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157'>157</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [One-act Play](#project-category-152)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152'>152</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Tragedy](#project-category-160)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160'>160</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Verse Drama](#project-category-161)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161'>161</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163'>163</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Fairy Tale](#project-category-166)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166'>166</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Narrative Story](#project-category-164)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164'>164</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Novel](#project-category-170)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170'>170</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Novella](#project-category-167)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167'>167</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Parable](#project-category-168)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168'>168</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Reportage](#project-category-169)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169'>169</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Satire](#project-category-171)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171'>171</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Short Story](#project-category-165)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165'>165</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Literary Reading](#project-category-172)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172'>172</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187'>187</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Autobiography](#project-category-188)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188'>188</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Biography](#project-category-189)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189'>189</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Blog](#project-category-190)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190'>190</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Essay](#project-category-191)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191'>191</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Manifesto](#project-category-192)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192'>192</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Memoir](#project-category-193)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193'>193</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Non-fiction Book](#project-category-195)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195'>195</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Non-fiction Novel](#project-category-196)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196'>196</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Self-help Book](#project-category-194)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194'>194</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173'>173</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Acrostic](#project-category-174)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174'>174</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Ballad](#project-category-175)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175'>175</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Concrete Poetry](#project-category-182)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182'>182</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Elegy](#project-category-176)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176'>176</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Epigram](#project-category-177)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177'>177</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Haiku](#project-category-180)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180'>180</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Hymn](#project-category-181)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181'>181</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Limerick](#project-category-184)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184'>184</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Poem](#project-category-178)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178'>178</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Poetry Collection](#project-category-179)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179'>179</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Song Lyrics](#project-category-185)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185'>185</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Sound Poetry](#project-category-183)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183'>183</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Reference Work](#project-category-186)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186'>186</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Screenplay](#project-category-162)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162'>162</a></td></tr>
-<tr><td>[Music](#project-category-197)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197'>197</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Advertising Music](#project-category-259)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259'>259</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Classical Music](#project-category-229)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229'>229</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Dance Music](#project-category-256)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256'>256</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Electroacoustic Music](#project-category-200)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200'>200</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Electroacoustic Music](#project-category-200) > [Fixed Media](#project-category-281)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281'>281</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Electronic Music](#project-category-201)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201'>201</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Ensemble Music](#project-category-202)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202'>202</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Folklore](#project-category-203)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203'>203</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Instrumental Music](#project-category-205)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205'>205</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206'>206</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Acid Jazz](#project-category-207)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207'>207</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Afro-Cuban Jazz](#project-category-208)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208'>208</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Avantgarde Jazz](#project-category-209)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209'>209</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Bebop](#project-category-210)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210'>210</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Big Band Music](#project-category-211)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211'>211</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Boogie-Woogie](#project-category-212)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212'>212</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Chicago Style](#project-category-213)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213'>213</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Contemporary Jazz](#project-category-214)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214'>214</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Cool Jazz](#project-category-215)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215'>215</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Crossover Jazz](#project-category-216)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216'>216</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Dixieland](#project-category-217)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217'>217</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [East Coast Jazz](#project-category-218)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218'>218</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Ethno Jazz](#project-category-219)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219'>219</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Free Jazz](#project-category-220)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220'>220</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Hard Bop](#project-category-221)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221'>221</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Jazz Fusion](#project-category-222)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222'>222</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [New Orleans Jazz](#project-category-223)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223'>223</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Progressive Jazz](#project-category-224)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224'>224</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Ragtime](#project-category-225)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225'>225</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Smooth Jazz](#project-category-226)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226'>226</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Swing](#project-category-227)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227'>227</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [West Coast Jazz](#project-category-228)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228'>228</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Military Music](#project-category-230)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230'>230</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Neue Musik](#project-category-231)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231'>231</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Non-european Art Music](#project-category-198)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198'>198</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Orchestral Music](#project-category-232)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232'>232</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233'>233</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [American Folk](#project-category-234)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234'>234</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Beat](#project-category-235)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235'>235</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Blues](#project-category-236)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236'>236</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Chanson](#project-category-237)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237'>237</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Country](#project-category-238)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238'>238</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Electronic Dance Music](#project-category-239)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239'>239</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Hip-Hop](#project-category-240)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240'>240</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Metal](#project-category-241)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241'>241</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [New Wave](#project-category-242)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242'>242</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Pop](#project-category-243)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243'>243</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Punk](#project-category-244)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244'>244</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Reggae](#project-category-246)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246'>246</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rock and Roll](#project-category-248)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248'>248</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rock](#project-category-247)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247'>247</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rythm and Blues](#project-category-245)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245'>245</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Schlager](#project-category-249)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249'>249</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Singer-Songwriter](#project-category-250)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250'>250</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Ska](#project-category-251)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251'>251</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Sacred Music](#project-category-204)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204'>204</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Secular Music](#project-category-258)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258'>258</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Solo Music](#project-category-252)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252'>252</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253'>253</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253) > [Film Music](#project-category-254)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254'>254</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253) > [Game Soundtrack](#project-category-255)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255'>255</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Stage Music](#project-category-199)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199'>199</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Stage Music](#project-category-199) > [Oper](#project-category-279)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279'>279</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Vocal Music](#project-category-257)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257'>257</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31'>31</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32'>32</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Alternative Theater](#project-category-34)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34'>34</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Applied Theatre](#project-category-35)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35'>35</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Children's Theatre](#project-category-45)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45'>45</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Dance Theatre](#project-category-54)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54'>54</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Digital Theatre](#project-category-38)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38'>38</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Direction](#project-category-280)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280'>280</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Documentary Theatre](#project-category-39)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39'>39</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Epic Theatre](#project-category-36)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36'>36</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Experimental Theatre](#project-category-37)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37'>37</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Improvisational Theatre](#project-category-42)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42'>42</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Interactive Theatre](#project-category-43)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43'>43</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Meta-Theatre](#project-category-46)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46'>46</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Musical Theatre](#project-category-47)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47'>47</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Open-Air Theatre](#project-category-41)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41'>41</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Physical Theatre](#project-category-48)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48'>48</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Political Theatre](#project-category-49)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49'>49</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Postdramatic Theatre](#project-category-50)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50'>50</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Postmodern Theatre](#project-category-51)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51'>51</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Puppetry Arts](#project-category-40)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40'>40</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Spoken Drama](#project-category-53)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53'>53</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Street Theatre](#project-category-52)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52'>52</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Theatre of the Absurd](#project-category-33)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33'>33</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Youth Theatre](#project-category-44)</td><td><a href='https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44'>44</a></td></tr>
+<tr><td>[Academic Publication](#project-category-1)</td><td><a href='#project-category-1'>1</a></td></tr>
+<tr><td>[Academic Publication](#project-category-1) > [Doctoral Thesis](#project-category-2)</td><td><a href='#project-category-2'>2</a></td></tr>
+<tr><td>[Academic Publication](#project-category-1) > [Podcast](#project-category-3)</td><td><a href='#project-category-3'>3</a></td></tr>
+<tr><td>[Academic Publication](#project-category-1) > [Website](#project-category-4)</td><td><a href='#project-category-4'>4</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5)</td><td><a href='#project-category-5'>5</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Architecture](#project-category-6)</td><td><a href='#project-category-6'>6</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Ceramic](#project-category-30)</td><td><a href='#project-category-30'>30</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7)</td><td><a href='#project-category-7'>7</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Fashion Design](#project-category-13)</td><td><a href='#project-category-13'>13</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Game Design](#project-category-8)</td><td><a href='#project-category-8'>8</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Graphic Design](#project-category-11)</td><td><a href='#project-category-11'>11</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Industrial Design](#project-category-9)</td><td><a href='#project-category-9'>9</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Interior Design](#project-category-10)</td><td><a href='#project-category-10'>10</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Media Design](#project-category-12)</td><td><a href='#project-category-12'>12</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Sound Design](#project-category-14)</td><td><a href='#project-category-14'>14</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Textile Design](#project-category-15)</td><td><a href='#project-category-15'>15</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Transformation Design](#project-category-16)</td><td><a href='#project-category-16'>16</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [User Interface Design](#project-category-17)</td><td><a href='#project-category-17'>17</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18)</td><td><a href='#project-category-18'>18</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Advertising Photography](#project-category-29)</td><td><a href='#project-category-29'>29</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Architectural Photography](#project-category-19)</td><td><a href='#project-category-19'>19</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Documentary Photography](#project-category-20)</td><td><a href='#project-category-20'>20</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Fashion Photography](#project-category-25)</td><td><a href='#project-category-25'>25</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Landscape Photography](#project-category-24)</td><td><a href='#project-category-24'>24</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Photogrammetry](#project-category-21)</td><td><a href='#project-category-21'>21</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Photojournalism](#project-category-22)</td><td><a href='#project-category-22'>22</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Portrait Photography](#project-category-26)</td><td><a href='#project-category-26'>26</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Product Photography](#project-category-27)</td><td><a href='#project-category-27'>27</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Staged Photography](#project-category-23)</td><td><a href='#project-category-23'>23</a></td></tr>
+<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Theatrical Photography](#project-category-28)</td><td><a href='#project-category-28'>28</a></td></tr>
+<tr><td>[Art](#project-category-78)</td><td><a href='#project-category-78'>78</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111)</td><td><a href='#project-category-111'>111</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111) > [Artist's Book](#project-category-112)</td><td><a href='#project-category-112'>112</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111) > [Artist's Statement](#project-category-113)</td><td><a href='#project-category-113'>113</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Bio Art](#project-category-79)</td><td><a href='#project-category-79'>79</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80)</td><td><a href='#project-category-80'>80</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Augmented Reality](#project-category-81)</td><td><a href='#project-category-81'>81</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [CD-ROM](#project-category-82)</td><td><a href='#project-category-82'>82</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Animation](#project-category-84)</td><td><a href='#project-category-84'>84</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Game](#project-category-85)</td><td><a href='#project-category-85'>85</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Generated Imagery](#project-category-83)</td><td><a href='#project-category-83'>83</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Generative Art](#project-category-86)</td><td><a href='#project-category-86'>86</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Interactive Art](#project-category-87)</td><td><a href='#project-category-87'>87</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Net Art](#project-category-88)</td><td><a href='#project-category-88'>88</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Software](#project-category-89)</td><td><a href='#project-category-89'>89</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [User Interface](#project-category-90)</td><td><a href='#project-category-90'>90</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Virtual Reality](#project-category-91)</td><td><a href='#project-category-91'>91</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Web Series](#project-category-92)</td><td><a href='#project-category-92'>92</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146)</td><td><a href='#project-category-146'>146</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Collage](#project-category-147)</td><td><a href='#project-category-147'>147</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Comic](#project-category-148)</td><td><a href='#project-category-148'>148</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Printmaking](#project-category-149)</td><td><a href='#project-category-149'>149</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116)</td><td><a href='#project-category-116'>116</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Computer-Generated Imagery](#project-category-117)</td><td><a href='#project-category-117'>117</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Conceptual Photography](#project-category-123)</td><td><a href='#project-category-123'>123</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Documentary Photography](#project-category-118)</td><td><a href='#project-category-118'>118</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photo Installation](#project-category-121)</td><td><a href='#project-category-121'>121</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photobook](#project-category-119)</td><td><a href='#project-category-119'>119</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photogrammetry](#project-category-120)</td><td><a href='#project-category-120'>120</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Staged Photography](#project-category-122)</td><td><a href='#project-category-122'>122</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93)</td><td><a href='#project-category-93'>93</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Interactive Art](#project-category-95)</td><td><a href='#project-category-95'>95</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Intervention](#project-category-96)</td><td><a href='#project-category-96'>96</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Light Installation](#project-category-100)</td><td><a href='#project-category-100'>100</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Percent for Art](#project-category-98)</td><td><a href='#project-category-98'>98</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Photo Installation](#project-category-94)</td><td><a href='#project-category-94'>94</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Public Art](#project-category-99)</td><td><a href='#project-category-99'>99</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Sound Installation](#project-category-97)</td><td><a href='#project-category-97'>97</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Video Installation](#project-category-101)</td><td><a href='#project-category-101'>101</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Podcast](#project-category-114)</td><td><a href='#project-category-114'>114</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Website](#project-category-115)</td><td><a href='#project-category-115'>115</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124)</td><td><a href='#project-category-124'>124</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124) > [Holography](#project-category-125)</td><td><a href='#project-category-125'>125</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124) > [Light Installation](#project-category-126)</td><td><a href='#project-category-126'>126</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127)</td><td><a href='#project-category-127'>127</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Abstract Painting](#project-category-288)</td><td><a href='#project-category-288'>288</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Architectural Painting](#project-category-289)</td><td><a href='#project-category-289'>289</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Genre Painting](#project-category-286)</td><td><a href='#project-category-286'>286</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [History Painting](#project-category-287)</td><td><a href='#project-category-287'>287</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Interior Painting](#project-category-290)</td><td><a href='#project-category-290'>290</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Landscape Painting](#project-category-284)</td><td><a href='#project-category-284'>284</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Nude Painting](#project-category-291)</td><td><a href='#project-category-291'>291</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Portrait](#project-category-283)</td><td><a href='#project-category-283'>283</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Still Life](#project-category-285)</td><td><a href='#project-category-285'>285</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128)</td><td><a href='#project-category-128'>128</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Action](#project-category-129)</td><td><a href='#project-category-129'>129</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Dance](#project-category-134)</td><td><a href='#project-category-134'>134</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Durational Performance](#project-category-130)</td><td><a href='#project-category-130'>130</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Happening](#project-category-131)</td><td><a href='#project-category-131'>131</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Intervention](#project-category-132)</td><td><a href='#project-category-132'>132</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Lecture Performance](#project-category-133)</td><td><a href='#project-category-133'>133</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135)</td><td><a href='#project-category-135'>135</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135) > [Found Object](#project-category-137)</td><td><a href='#project-category-137'>137</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135) > [Model](#project-category-136)</td><td><a href='#project-category-136'>136</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102)</td><td><a href='#project-category-102'>102</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Album](#project-category-103)</td><td><a href='#project-category-103'>103</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Composition](#project-category-108)</td><td><a href='#project-category-108'>108</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Concert](#project-category-109)</td><td><a href='#project-category-109'>109</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Field Recording](#project-category-104)</td><td><a href='#project-category-104'>104</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Listening Piece](#project-category-105)</td><td><a href='#project-category-105'>105</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Sound Installation](#project-category-106)</td><td><a href='#project-category-106'>106</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Sound Sculpture](#project-category-107)</td><td><a href='#project-category-107'>107</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Soundtrack](#project-category-110)</td><td><a href='#project-category-110'>110</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138)</td><td><a href='#project-category-138'>138</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Expanded Cinema](#project-category-139)</td><td><a href='#project-category-139'>139</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Projection Mapping](#project-category-140)</td><td><a href='#project-category-140'>140</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Essay](#project-category-141)</td><td><a href='#project-category-141'>141</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Installation](#project-category-142)</td><td><a href='#project-category-142'>142</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Performance](#project-category-143)</td><td><a href='#project-category-143'>143</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Sculpture](#project-category-144)</td><td><a href='#project-category-144'>144</a></td></tr>
+<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Virtual Reality](#project-category-145)</td><td><a href='#project-category-145'>145</a></td></tr>
+<tr><td>[Dance](#project-category-260)</td><td><a href='#project-category-260'>260</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Ballroom Dance](#project-category-269)</td><td><a href='#project-category-269'>269</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Concert Dance](#project-category-261)</td><td><a href='#project-category-261'>261</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Dance Theatre](#project-category-271)</td><td><a href='#project-category-271'>271</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Group Dance](#project-category-262)</td><td><a href='#project-category-262'>262</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Jazz Dance](#project-category-263)</td><td><a href='#project-category-263'>263</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Latin American Dance](#project-category-264)</td><td><a href='#project-category-264'>264</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Line Dance](#project-category-267)</td><td><a href='#project-category-267'>267</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Partner Dance](#project-category-266)</td><td><a href='#project-category-266'>266</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Poplular Dance](#project-category-265)</td><td><a href='#project-category-265'>265</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Solo Dance](#project-category-268)</td><td><a href='#project-category-268'>268</a></td></tr>
+<tr><td>[Dance](#project-category-260) > [Street Dance](#project-category-270)</td><td><a href='#project-category-270'>270</a></td></tr>
+<tr><td>[Event](#project-category-272)</td><td><a href='#project-category-272'>272</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Interview](#project-category-273)</td><td><a href='#project-category-273'>273</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Interview](#project-category-274)</td><td><a href='#project-category-274'>274</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Interview](#project-category-275)</td><td><a href='#project-category-275'>275</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Interview](#project-category-276)</td><td><a href='#project-category-276'>276</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Interview](#project-category-277)</td><td><a href='#project-category-277'>277</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Interview](#project-category-278)</td><td><a href='#project-category-278'>278</a></td></tr>
+<tr><td>[Event](#project-category-272) > [Radio Program](#project-category-282)</td><td><a href='#project-category-282'>282</a></td></tr>
+<tr><td>[Film/TV](#project-category-55)</td><td><a href='#project-category-55'>55</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Animated Film](#project-category-56)</td><td><a href='#project-category-56'>56</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Anthology Film](#project-category-62)</td><td><a href='#project-category-62'>62</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Commercial](#project-category-77)</td><td><a href='#project-category-77'>77</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Compilation Film](#project-category-66)</td><td><a href='#project-category-66'>66</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Docudrama](#project-category-57)</td><td><a href='#project-category-57'>57</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Documentary Film](#project-category-58)</td><td><a href='#project-category-58'>58</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Documentary Film](#project-category-58) > [Short Documentary Film](#project-category-59)</td><td><a href='#project-category-59'>59</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Episode](#project-category-61)</td><td><a href='#project-category-61'>61</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Essay Film](#project-category-63)</td><td><a href='#project-category-63'>63</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Expanded Cinema](#project-category-64)</td><td><a href='#project-category-64'>64</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Experimental Film](#project-category-65)</td><td><a href='#project-category-65'>65</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Feature Film](#project-category-72)</td><td><a href='#project-category-72'>72</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Feature Film](#project-category-72) > [Short Film](#project-category-73)</td><td><a href='#project-category-73'>73</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Film Trailer](#project-category-74)</td><td><a href='#project-category-74'>74</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Mockumentary](#project-category-67)</td><td><a href='#project-category-67'>67</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Music Video](#project-category-69)</td><td><a href='#project-category-69'>69</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Musical Film](#project-category-68)</td><td><a href='#project-category-68'>68</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Reportage](#project-category-70)</td><td><a href='#project-category-70'>70</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Screenplay](#project-category-60)</td><td><a href='#project-category-60'>60</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Soundtrack](#project-category-71)</td><td><a href='#project-category-71'>71</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Television Program](#project-category-75)</td><td><a href='#project-category-75'>75</a></td></tr>
+<tr><td>[Film/TV](#project-category-55) > [Web Series](#project-category-76)</td><td><a href='#project-category-76'>76</a></td></tr>
+<tr><td>[Literature](#project-category-150)</td><td><a href='#project-category-150'>150</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151)</td><td><a href='#project-category-151'>151</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy Drama](#project-category-159)</td><td><a href='#project-category-159'>159</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy of Manors](#project-category-158)</td><td><a href='#project-category-158'>158</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy](#project-category-154)</td><td><a href='#project-category-154'>154</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Historical Play](#project-category-153)</td><td><a href='#project-category-153'>153</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Libretto](#project-category-155)</td><td><a href='#project-category-155'>155</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Monodrama](#project-category-156)</td><td><a href='#project-category-156'>156</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Morality Play](#project-category-157)</td><td><a href='#project-category-157'>157</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [One-act Play](#project-category-152)</td><td><a href='#project-category-152'>152</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Tragedy](#project-category-160)</td><td><a href='#project-category-160'>160</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Verse Drama](#project-category-161)</td><td><a href='#project-category-161'>161</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163)</td><td><a href='#project-category-163'>163</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Fairy Tale](#project-category-166)</td><td><a href='#project-category-166'>166</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Narrative Story](#project-category-164)</td><td><a href='#project-category-164'>164</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Novel](#project-category-170)</td><td><a href='#project-category-170'>170</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Novella](#project-category-167)</td><td><a href='#project-category-167'>167</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Parable](#project-category-168)</td><td><a href='#project-category-168'>168</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Reportage](#project-category-169)</td><td><a href='#project-category-169'>169</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Satire](#project-category-171)</td><td><a href='#project-category-171'>171</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Short Story](#project-category-165)</td><td><a href='#project-category-165'>165</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Literary Reading](#project-category-172)</td><td><a href='#project-category-172'>172</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187)</td><td><a href='#project-category-187'>187</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Autobiography](#project-category-188)</td><td><a href='#project-category-188'>188</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Biography](#project-category-189)</td><td><a href='#project-category-189'>189</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Blog](#project-category-190)</td><td><a href='#project-category-190'>190</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Essay](#project-category-191)</td><td><a href='#project-category-191'>191</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Manifesto](#project-category-192)</td><td><a href='#project-category-192'>192</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Memoir](#project-category-193)</td><td><a href='#project-category-193'>193</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Non-fiction Book](#project-category-195)</td><td><a href='#project-category-195'>195</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Non-fiction Novel](#project-category-196)</td><td><a href='#project-category-196'>196</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Self-help Book](#project-category-194)</td><td><a href='#project-category-194'>194</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173)</td><td><a href='#project-category-173'>173</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Acrostic](#project-category-174)</td><td><a href='#project-category-174'>174</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Ballad](#project-category-175)</td><td><a href='#project-category-175'>175</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Concrete Poetry](#project-category-182)</td><td><a href='#project-category-182'>182</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Elegy](#project-category-176)</td><td><a href='#project-category-176'>176</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Epigram](#project-category-177)</td><td><a href='#project-category-177'>177</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Haiku](#project-category-180)</td><td><a href='#project-category-180'>180</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Hymn](#project-category-181)</td><td><a href='#project-category-181'>181</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Limerick](#project-category-184)</td><td><a href='#project-category-184'>184</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Poem](#project-category-178)</td><td><a href='#project-category-178'>178</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Poetry Collection](#project-category-179)</td><td><a href='#project-category-179'>179</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Song Lyrics](#project-category-185)</td><td><a href='#project-category-185'>185</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Sound Poetry](#project-category-183)</td><td><a href='#project-category-183'>183</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Reference Work](#project-category-186)</td><td><a href='#project-category-186'>186</a></td></tr>
+<tr><td>[Literature](#project-category-150) > [Screenplay](#project-category-162)</td><td><a href='#project-category-162'>162</a></td></tr>
+<tr><td>[Music](#project-category-197)</td><td><a href='#project-category-197'>197</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Advertising Music](#project-category-259)</td><td><a href='#project-category-259'>259</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Classical Music](#project-category-229)</td><td><a href='#project-category-229'>229</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Dance Music](#project-category-256)</td><td><a href='#project-category-256'>256</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Electroacoustic Music](#project-category-200)</td><td><a href='#project-category-200'>200</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Electroacoustic Music](#project-category-200) > [Fixed Media](#project-category-281)</td><td><a href='#project-category-281'>281</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Electronic Music](#project-category-201)</td><td><a href='#project-category-201'>201</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Ensemble Music](#project-category-202)</td><td><a href='#project-category-202'>202</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Folklore](#project-category-203)</td><td><a href='#project-category-203'>203</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Instrumental Music](#project-category-205)</td><td><a href='#project-category-205'>205</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206)</td><td><a href='#project-category-206'>206</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Acid Jazz](#project-category-207)</td><td><a href='#project-category-207'>207</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Afro-Cuban Jazz](#project-category-208)</td><td><a href='#project-category-208'>208</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Avantgarde Jazz](#project-category-209)</td><td><a href='#project-category-209'>209</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Bebop](#project-category-210)</td><td><a href='#project-category-210'>210</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Big Band Music](#project-category-211)</td><td><a href='#project-category-211'>211</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Boogie-Woogie](#project-category-212)</td><td><a href='#project-category-212'>212</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Chicago Style](#project-category-213)</td><td><a href='#project-category-213'>213</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Contemporary Jazz](#project-category-214)</td><td><a href='#project-category-214'>214</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Cool Jazz](#project-category-215)</td><td><a href='#project-category-215'>215</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Crossover Jazz](#project-category-216)</td><td><a href='#project-category-216'>216</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Dixieland](#project-category-217)</td><td><a href='#project-category-217'>217</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [East Coast Jazz](#project-category-218)</td><td><a href='#project-category-218'>218</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Ethno Jazz](#project-category-219)</td><td><a href='#project-category-219'>219</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Free Jazz](#project-category-220)</td><td><a href='#project-category-220'>220</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Hard Bop](#project-category-221)</td><td><a href='#project-category-221'>221</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Jazz Fusion](#project-category-222)</td><td><a href='#project-category-222'>222</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [New Orleans Jazz](#project-category-223)</td><td><a href='#project-category-223'>223</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Progressive Jazz](#project-category-224)</td><td><a href='#project-category-224'>224</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Ragtime](#project-category-225)</td><td><a href='#project-category-225'>225</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Smooth Jazz](#project-category-226)</td><td><a href='#project-category-226'>226</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Swing](#project-category-227)</td><td><a href='#project-category-227'>227</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [West Coast Jazz](#project-category-228)</td><td><a href='#project-category-228'>228</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Military Music](#project-category-230)</td><td><a href='#project-category-230'>230</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Neue Musik](#project-category-231)</td><td><a href='#project-category-231'>231</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Non-european Art Music](#project-category-198)</td><td><a href='#project-category-198'>198</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Orchestral Music](#project-category-232)</td><td><a href='#project-category-232'>232</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233)</td><td><a href='#project-category-233'>233</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [American Folk](#project-category-234)</td><td><a href='#project-category-234'>234</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Beat](#project-category-235)</td><td><a href='#project-category-235'>235</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Blues](#project-category-236)</td><td><a href='#project-category-236'>236</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Chanson](#project-category-237)</td><td><a href='#project-category-237'>237</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Country](#project-category-238)</td><td><a href='#project-category-238'>238</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Electronic Dance Music](#project-category-239)</td><td><a href='#project-category-239'>239</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Hip-Hop](#project-category-240)</td><td><a href='#project-category-240'>240</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Metal](#project-category-241)</td><td><a href='#project-category-241'>241</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [New Wave](#project-category-242)</td><td><a href='#project-category-242'>242</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Pop](#project-category-243)</td><td><a href='#project-category-243'>243</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Punk](#project-category-244)</td><td><a href='#project-category-244'>244</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Reggae](#project-category-246)</td><td><a href='#project-category-246'>246</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rock and Roll](#project-category-248)</td><td><a href='#project-category-248'>248</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rock](#project-category-247)</td><td><a href='#project-category-247'>247</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rythm and Blues](#project-category-245)</td><td><a href='#project-category-245'>245</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Schlager](#project-category-249)</td><td><a href='#project-category-249'>249</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Singer-Songwriter](#project-category-250)</td><td><a href='#project-category-250'>250</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Ska](#project-category-251)</td><td><a href='#project-category-251'>251</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Sacred Music](#project-category-204)</td><td><a href='#project-category-204'>204</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Secular Music](#project-category-258)</td><td><a href='#project-category-258'>258</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Solo Music](#project-category-252)</td><td><a href='#project-category-252'>252</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253)</td><td><a href='#project-category-253'>253</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253) > [Film Music](#project-category-254)</td><td><a href='#project-category-254'>254</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253) > [Game Soundtrack](#project-category-255)</td><td><a href='#project-category-255'>255</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Stage Music](#project-category-199)</td><td><a href='#project-category-199'>199</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Stage Music](#project-category-199) > [Oper](#project-category-279)</td><td><a href='#project-category-279'>279</a></td></tr>
+<tr><td>[Music](#project-category-197) > [Vocal Music](#project-category-257)</td><td><a href='#project-category-257'>257</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31)</td><td><a href='#project-category-31'>31</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32)</td><td><a href='#project-category-32'>32</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Alternative Theater](#project-category-34)</td><td><a href='#project-category-34'>34</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Applied Theatre](#project-category-35)</td><td><a href='#project-category-35'>35</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Children's Theatre](#project-category-45)</td><td><a href='#project-category-45'>45</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Dance Theatre](#project-category-54)</td><td><a href='#project-category-54'>54</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Digital Theatre](#project-category-38)</td><td><a href='#project-category-38'>38</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Direction](#project-category-280)</td><td><a href='#project-category-280'>280</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Documentary Theatre](#project-category-39)</td><td><a href='#project-category-39'>39</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Epic Theatre](#project-category-36)</td><td><a href='#project-category-36'>36</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Experimental Theatre](#project-category-37)</td><td><a href='#project-category-37'>37</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Improvisational Theatre](#project-category-42)</td><td><a href='#project-category-42'>42</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Interactive Theatre](#project-category-43)</td><td><a href='#project-category-43'>43</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Meta-Theatre](#project-category-46)</td><td><a href='#project-category-46'>46</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Musical Theatre](#project-category-47)</td><td><a href='#project-category-47'>47</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Open-Air Theatre](#project-category-41)</td><td><a href='#project-category-41'>41</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Physical Theatre](#project-category-48)</td><td><a href='#project-category-48'>48</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Political Theatre](#project-category-49)</td><td><a href='#project-category-49'>49</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Postdramatic Theatre](#project-category-50)</td><td><a href='#project-category-50'>50</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Postmodern Theatre](#project-category-51)</td><td><a href='#project-category-51'>51</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Puppetry Arts](#project-category-40)</td><td><a href='#project-category-40'>40</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Spoken Drama](#project-category-53)</td><td><a href='#project-category-53'>53</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Street Theatre](#project-category-52)</td><td><a href='#project-category-52'>52</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Theatre of the Absurd](#project-category-33)</td><td><a href='#project-category-33'>33</a></td></tr>
+<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Youth Theatre](#project-category-44)</td><td><a href='#project-category-44'>44</a></td></tr>
 </table>
 </details>
 
@@ -1241,14 +1241,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-288" class="anchor" id="user-content-project-category-288">project-category-288</a>
+<a href="#project-category-288" id="project-category-288">project-category-288</a>
 
 ## Abstract Painting
 
 |||
 |-----------|-----------|
 | **ID** | 288 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-288) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-288`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-288) |
 | **English Name** | Abstract Painting |
 | **German Name** | Abstrakte Malerei |
 | **German Synonyms** | abstraktes Gemälde,Absolute Malerei |
@@ -1266,14 +1266,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-1" class="anchor" id="user-content-project-category-1">project-category-1</a>
+<a href="#project-category-1" id="project-category-1">project-category-1</a>
 
 ## Academic Publication
 
 |||
 |-----------|-----------|
 | **ID** | 1 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-1) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-1) |
 | **English Name** | Academic Publication |
 | **English Synonyms** | Scientific Publication,Research Publication |
 | **German Name** | Akademische Publikation |
@@ -1291,14 +1291,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-207" class="anchor" id="user-content-project-category-207">project-category-207</a>
+<a href="#project-category-207" id="project-category-207">project-category-207</a>
 
 ## Acid Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 207 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-207) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-207`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-207) |
 | **English Name** | Acid Jazz |
 | **English Synonyms** | Dancefloor Jazz,Club Jazz |
 | **German Name** | Acid Jazz |
@@ -1316,14 +1316,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-174" class="anchor" id="user-content-project-category-174">project-category-174</a>
+<a href="#project-category-174" id="project-category-174">project-category-174</a>
 
 ## Acrostic
 
 |||
 |-----------|-----------|
 | **ID** | 174 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-174) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-174`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-174) |
 | **English Name** | Acrostic |
 | **German Name** | Akrostichon |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -1341,14 +1341,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-129" class="anchor" id="user-content-project-category-129">project-category-129</a>
+<a href="#project-category-129" id="project-category-129">project-category-129</a>
 
 ## Action
 
 |||
 |-----------|-----------|
 | **ID** | 129 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-129) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-129`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-129) |
 | **English Name** | Action |
 | **German Name** | Aktion |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -1366,14 +1366,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-259" class="anchor" id="user-content-project-category-259">project-category-259</a>
+<a href="#project-category-259" id="project-category-259">project-category-259</a>
 
 ## Advertising Music
 
 |||
 |-----------|-----------|
 | **ID** | 259 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-259) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-259`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-259) |
 | **English Name** | Advertising Music |
 | **German Name** | Werbemusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -1389,14 +1389,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-29" class="anchor" id="user-content-project-category-29">project-category-29</a>
+<a href="#project-category-29" id="project-category-29">project-category-29</a>
 
 ## Advertising Photography
 
 |||
 |-----------|-----------|
 | **ID** | 29 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-29) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-29) |
 | **English Name** | Advertising Photography |
 | **German Name** | Werbefotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -1414,14 +1414,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-208" class="anchor" id="user-content-project-category-208">project-category-208</a>
+<a href="#project-category-208" id="project-category-208">project-category-208</a>
 
 ## Afro-Cuban Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 208 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-208) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-208`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-208) |
 | **English Name** | Afro-Cuban Jazz |
 | **German Name** | Afro-Cuban Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1438,14 +1438,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-103" class="anchor" id="user-content-project-category-103">project-category-103</a>
+<a href="#project-category-103" id="project-category-103">project-category-103</a>
 
 ## Album
 
 |||
 |-----------|-----------|
 | **ID** | 103 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-103) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-103`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-103) |
 | **English Name** | Album |
 | **German Name** | Album |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -1462,14 +1462,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-34" class="anchor" id="user-content-project-category-34">project-category-34</a>
+<a href="#project-category-34" id="project-category-34">project-category-34</a>
 
 ## Alternative Theater
 
 |||
 |-----------|-----------|
 | **ID** | 34 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-34) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-34) |
 | **English Name** | Alternative Theater |
 | **English Synonyms** | Fringe |
 | **German Name** | Alternatives Theater |
@@ -1487,14 +1487,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-234" class="anchor" id="user-content-project-category-234">project-category-234</a>
+<a href="#project-category-234" id="project-category-234">project-category-234</a>
 
 ## American Folk
 
 |||
 |-----------|-----------|
 | **ID** | 234 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-234) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-234`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-234) |
 | **English Name** | American Folk |
 | **German Name** | American Folk |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -1511,14 +1511,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-56" class="anchor" id="user-content-project-category-56">project-category-56</a>
+<a href="#project-category-56" id="project-category-56">project-category-56</a>
 
 ## Animated Film
 
 |||
 |-----------|-----------|
 | **ID** | 56 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-56) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-56) |
 | **English Name** | Animated Film |
 | **English Synonyms** | Animation |
 | **German Name** | Animationsfilm |
@@ -1539,14 +1539,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-62" class="anchor" id="user-content-project-category-62">project-category-62</a>
+<a href="#project-category-62" id="project-category-62">project-category-62</a>
 
 ## Anthology Film
 
 |||
 |-----------|-----------|
 | **ID** | 62 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-62) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-62`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-62) |
 | **English Name** | Anthology Film |
 | **German Name** | Episodenfilm |
 | **German Synonyms** | Anthologie |
@@ -1564,14 +1564,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-5" class="anchor" id="user-content-project-category-5">project-category-5</a>
+<a href="#project-category-5" id="project-category-5">project-category-5</a>
 
 ## Applied Arts
 
 |||
 |-----------|-----------|
 | **ID** | 5 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-5) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-5) |
 | **English Name** | Applied Arts |
 | **German Name** | Angewandte Kunst |
 | **German Synonyms** | Gestaltung,Kunstgewerbe |
@@ -1589,14 +1589,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-35" class="anchor" id="user-content-project-category-35">project-category-35</a>
+<a href="#project-category-35" id="project-category-35">project-category-35</a>
 
 ## Applied Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 35 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-35) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-35) |
 | **English Name** | Applied Theatre |
 | **English Synonyms** | Applied Drama,Applied Performance |
 | **German Name** | Angewandtes Theater |
@@ -1614,14 +1614,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-289" class="anchor" id="user-content-project-category-289">project-category-289</a>
+<a href="#project-category-289" id="project-category-289">project-category-289</a>
 
 ## Architectural Painting
 
 |||
 |-----------|-----------|
 | **ID** | 289 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-289) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-289`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-289) |
 | **English Name** | Architectural Painting |
 | **English Synonyms** | Architectural Picture |
 | **German Name** | Architekturmalerei |
@@ -1640,14 +1640,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-19" class="anchor" id="user-content-project-category-19">project-category-19</a>
+<a href="#project-category-19" id="project-category-19">project-category-19</a>
 
 ## Architectural Photography
 
 |||
 |-----------|-----------|
 | **ID** | 19 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-19) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-19) |
 | **English Name** | Architectural Photography |
 | **German Name** | Architekturfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -1665,14 +1665,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-6" class="anchor" id="user-content-project-category-6">project-category-6</a>
+<a href="#project-category-6" id="project-category-6">project-category-6</a>
 
 ## Architecture
 
 |||
 |-----------|-----------|
 | **ID** | 6 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-6) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-6) |
 | **English Name** | Architecture |
 | **German Name** | Architektur |
 | **Parent Project Category** | [Applied Arts](#project-category-5) |
@@ -1690,14 +1690,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-78" class="anchor" id="user-content-project-category-78">project-category-78</a>
+<a href="#project-category-78" id="project-category-78">project-category-78</a>
 
 ## Art
 
 |||
 |-----------|-----------|
 | **ID** | 78 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-78) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-78`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-78) |
 | **English Name** | Art |
 | **English Synonyms** | Fine Art,Visual Art |
 | **German Name** | Kunst |
@@ -1716,14 +1716,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-112" class="anchor" id="user-content-project-category-112">project-category-112</a>
+<a href="#project-category-112" id="project-category-112">project-category-112</a>
 
 ## Artist's Book
 
 |||
 |-----------|-----------|
 | **ID** | 112 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-112) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-112`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-112) |
 | **English Name** | Artist's Book |
 | **English Synonyms** | Artist book,Book Art |
 | **German Name** | Künstler:innen-Buch |
@@ -1743,14 +1743,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-111" class="anchor" id="user-content-project-category-111">project-category-111</a>
+<a href="#project-category-111" id="project-category-111">project-category-111</a>
 
 ## Artist's Publication
 
 |||
 |-----------|-----------|
 | **ID** | 111 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-111) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-111`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-111) |
 | **English Name** | Artist's Publication |
 | **German Name** | Künstler:innen-Publikation |
 | **German Synonyms** | Künstlerpublikation |
@@ -1767,14 +1767,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-113" class="anchor" id="user-content-project-category-113">project-category-113</a>
+<a href="#project-category-113" id="project-category-113">project-category-113</a>
 
 ## Artist's Statement
 
 |||
 |-----------|-----------|
 | **ID** | 113 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-113) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-113`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-113) |
 | **English Name** | Artist's Statement |
 | **English Synonyms** | Artist's Text,Statement |
 | **German Name** | Künstler:innen-Text |
@@ -1793,14 +1793,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-81" class="anchor" id="user-content-project-category-81">project-category-81</a>
+<a href="#project-category-81" id="project-category-81">project-category-81</a>
 
 ## Augmented Reality
 
 |||
 |-----------|-----------|
 | **ID** | 81 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-81) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-81`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-81) |
 | **English Name** | Augmented Reality |
 | **English Synonyms** | AR |
 | **German Name** | Augmented Reality |
@@ -1820,14 +1820,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-188" class="anchor" id="user-content-project-category-188">project-category-188</a>
+<a href="#project-category-188" id="project-category-188">project-category-188</a>
 
 ## Autobiography
 
 |||
 |-----------|-----------|
 | **ID** | 188 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-188) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-188`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-188) |
 | **English Name** | Autobiography |
 | **German Name** | Autobiografie |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -1845,14 +1845,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-209" class="anchor" id="user-content-project-category-209">project-category-209</a>
+<a href="#project-category-209" id="project-category-209">project-category-209</a>
 
 ## Avantgarde Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 209 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-209) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-209`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-209) |
 | **English Name** | Avantgarde Jazz |
 | **German Name** | Avantgarde-Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1868,14 +1868,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-175" class="anchor" id="user-content-project-category-175">project-category-175</a>
+<a href="#project-category-175" id="project-category-175">project-category-175</a>
 
 ## Ballad
 
 |||
 |-----------|-----------|
 | **ID** | 175 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-175) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-175`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-175) |
 | **English Name** | Ballad |
 | **German Name** | Ballade |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -1893,14 +1893,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-269" class="anchor" id="user-content-project-category-269">project-category-269</a>
+<a href="#project-category-269" id="project-category-269">project-category-269</a>
 
 ## Ballroom Dance
 
 |||
 |-----------|-----------|
 | **ID** | 269 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-269) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-269`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-269) |
 | **English Name** | Ballroom Dance |
 | **German Name** | Standardtanz |
 | **German Synonyms** | Gesellschaftstanz |
@@ -1918,14 +1918,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-235" class="anchor" id="user-content-project-category-235">project-category-235</a>
+<a href="#project-category-235" id="project-category-235">project-category-235</a>
 
 ## Beat
 
 |||
 |-----------|-----------|
 | **ID** | 235 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-235) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-235`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-235) |
 | **English Name** | Beat |
 | **German Name** | Beat |
 | **German Synonyms** | Beatmusik |
@@ -1943,14 +1943,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-210" class="anchor" id="user-content-project-category-210">project-category-210</a>
+<a href="#project-category-210" id="project-category-210">project-category-210</a>
 
 ## Bebop
 
 |||
 |-----------|-----------|
 | **ID** | 210 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-210) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-210`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-210) |
 | **English Name** | Bebop |
 | **German Name** | Bebop |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1967,14 +1967,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-211" class="anchor" id="user-content-project-category-211">project-category-211</a>
+<a href="#project-category-211" id="project-category-211">project-category-211</a>
 
 ## Big Band Music
 
 |||
 |-----------|-----------|
 | **ID** | 211 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-211) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-211`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-211) |
 | **English Name** | Big Band Music |
 | **German Name** | Big Band |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1990,14 +1990,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-79" class="anchor" id="user-content-project-category-79">project-category-79</a>
+<a href="#project-category-79" id="project-category-79">project-category-79</a>
 
 ## Bio Art
 
 |||
 |-----------|-----------|
 | **ID** | 79 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-79) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-79`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-79) |
 | **English Name** | Bio Art |
 | **German Name** | Bio Art |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -2015,14 +2015,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-189" class="anchor" id="user-content-project-category-189">project-category-189</a>
+<a href="#project-category-189" id="project-category-189">project-category-189</a>
 
 ## Biography
 
 |||
 |-----------|-----------|
 | **ID** | 189 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-189) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-189`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-189) |
 | **English Name** | Biography |
 | **German Name** | Biografie |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -2040,14 +2040,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-190" class="anchor" id="user-content-project-category-190">project-category-190</a>
+<a href="#project-category-190" id="project-category-190">project-category-190</a>
 
 ## Blog
 
 |||
 |-----------|-----------|
 | **ID** | 190 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-190) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-190`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-190) |
 | **English Name** | Blog |
 | **German Name** | Blog |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -2065,14 +2065,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-236" class="anchor" id="user-content-project-category-236">project-category-236</a>
+<a href="#project-category-236" id="project-category-236">project-category-236</a>
 
 ## Blues
 
 |||
 |-----------|-----------|
 | **ID** | 236 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-236) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-236`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-236) |
 | **English Name** | Blues |
 | **German Name** | Blues |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -2089,14 +2089,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-212" class="anchor" id="user-content-project-category-212">project-category-212</a>
+<a href="#project-category-212" id="project-category-212">project-category-212</a>
 
 ## Boogie-Woogie
 
 |||
 |-----------|-----------|
 | **ID** | 212 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-212) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-212`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-212) |
 | **English Name** | Boogie-Woogie |
 | **German Name** | Boogie-Woogie |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2113,14 +2113,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-82" class="anchor" id="user-content-project-category-82">project-category-82</a>
+<a href="#project-category-82" id="project-category-82">project-category-82</a>
 
 ## CD-ROM
 
 |||
 |-----------|-----------|
 | **ID** | 82 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-82) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-82`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-82) |
 | **English Name** | CD-ROM |
 | **German Name** | CD-ROM |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -2138,14 +2138,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-30" class="anchor" id="user-content-project-category-30">project-category-30</a>
+<a href="#project-category-30" id="project-category-30">project-category-30</a>
 
 ## Ceramic
 
 |||
 |-----------|-----------|
 | **ID** | 30 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-30) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-30) |
 | **English Name** | Ceramic |
 | **English Synonyms** | Pottery |
 | **German Name** | Keramik |
@@ -2164,14 +2164,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-237" class="anchor" id="user-content-project-category-237">project-category-237</a>
+<a href="#project-category-237" id="project-category-237">project-category-237</a>
 
 ## Chanson
 
 |||
 |-----------|-----------|
 | **ID** | 237 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-237) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-237`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-237) |
 | **English Name** | Chanson |
 | **German Name** | Chanson |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -2188,14 +2188,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-213" class="anchor" id="user-content-project-category-213">project-category-213</a>
+<a href="#project-category-213" id="project-category-213">project-category-213</a>
 
 ## Chicago Style
 
 |||
 |-----------|-----------|
 | **ID** | 213 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-213) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-213`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-213) |
 | **English Name** | Chicago Style |
 | **German Name** | Chicago Style |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2211,14 +2211,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-45" class="anchor" id="user-content-project-category-45">project-category-45</a>
+<a href="#project-category-45" id="project-category-45">project-category-45</a>
 
 ## Children's Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 45 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-45) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-45) |
 | **English Name** | Children's Theatre |
 | **German Name** | Kindertheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -2235,14 +2235,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-229" class="anchor" id="user-content-project-category-229">project-category-229</a>
+<a href="#project-category-229" id="project-category-229">project-category-229</a>
 
 ## Classical Music
 
 |||
 |-----------|-----------|
 | **ID** | 229 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-229) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-229`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-229) |
 | **English Name** | Classical Music |
 | **German Name** | Klassische Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -2259,14 +2259,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-147" class="anchor" id="user-content-project-category-147">project-category-147</a>
+<a href="#project-category-147" id="project-category-147">project-category-147</a>
 
 ## Collage
 
 |||
 |-----------|-----------|
 | **ID** | 147 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-147) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-147`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-147) |
 | **English Name** | Collage |
 | **German Name** | Collage |
 | **German Synonyms** | Decollage,Fotomontage,Assemblage |
@@ -2285,14 +2285,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-154" class="anchor" id="user-content-project-category-154">project-category-154</a>
+<a href="#project-category-154" id="project-category-154">project-category-154</a>
 
 ## Comedy
 
 |||
 |-----------|-----------|
 | **ID** | 154 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-154) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-154`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-154) |
 | **English Name** | Comedy |
 | **German Name** | Komödie |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -2310,14 +2310,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-159" class="anchor" id="user-content-project-category-159">project-category-159</a>
+<a href="#project-category-159" id="project-category-159">project-category-159</a>
 
 ## Comedy Drama
 
 |||
 |-----------|-----------|
 | **ID** | 159 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-159) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-159`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-159) |
 | **English Name** | Comedy Drama |
 | **English Synonyms** | Dramedy |
 | **German Name** | Tragikomödie |
@@ -2335,14 +2335,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-158" class="anchor" id="user-content-project-category-158">project-category-158</a>
+<a href="#project-category-158" id="project-category-158">project-category-158</a>
 
 ## Comedy of Manors
 
 |||
 |-----------|-----------|
 | **ID** | 158 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-158) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-158`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-158) |
 | **English Name** | Comedy of Manors |
 | **German Name** | Sittenstück |
 | **German Synonyms** | Konversationsstück |
@@ -2360,14 +2360,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-148" class="anchor" id="user-content-project-category-148">project-category-148</a>
+<a href="#project-category-148" id="project-category-148">project-category-148</a>
 
 ## Comic
 
 |||
 |-----------|-----------|
 | **ID** | 148 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-148) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-148`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-148) |
 | **English Name** | Comic |
 | **English Synonyms** | Graphic Novel |
 | **German Name** | Comic |
@@ -2386,14 +2386,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-77" class="anchor" id="user-content-project-category-77">project-category-77</a>
+<a href="#project-category-77" id="project-category-77">project-category-77</a>
 
 ## Commercial
 
 |||
 |-----------|-----------|
 | **ID** | 77 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-77) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-77`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-77) |
 | **English Name** | Commercial |
 | **English Synonyms** | Audio-Visual Advertisement,Advertising Film,Advertisement,Promotional Video |
 | **German Name** | Werbespot |
@@ -2413,14 +2413,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-66" class="anchor" id="user-content-project-category-66">project-category-66</a>
+<a href="#project-category-66" id="project-category-66">project-category-66</a>
 
 ## Compilation Film
 
 |||
 |-----------|-----------|
 | **ID** | 66 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-66) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-66`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-66) |
 | **English Name** | Compilation Film |
 | **German Name** | Kompilationsfilm |
 | **German Synonyms** | Archivfilm,Chronikfilm |
@@ -2439,14 +2439,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-108" class="anchor" id="user-content-project-category-108">project-category-108</a>
+<a href="#project-category-108" id="project-category-108">project-category-108</a>
 
 ## Composition
 
 |||
 |-----------|-----------|
 | **ID** | 108 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-108) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-108`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-108) |
 | **English Name** | Composition |
 | **German Name** | Komposition |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -2463,14 +2463,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-84" class="anchor" id="user-content-project-category-84">project-category-84</a>
+<a href="#project-category-84" id="project-category-84">project-category-84</a>
 
 ## Computer Animation
 
 |||
 |-----------|-----------|
 | **ID** | 84 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-84) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-84`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-84) |
 | **English Name** | Computer Animation |
 | **German Name** | Computeranimation |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -2488,14 +2488,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-85" class="anchor" id="user-content-project-category-85">project-category-85</a>
+<a href="#project-category-85" id="project-category-85">project-category-85</a>
 
 ## Computer Game
 
 |||
 |-----------|-----------|
 | **ID** | 85 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-85) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-85`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-85) |
 | **English Name** | Computer Game |
 | **English Synonyms** | Game,Video Game,Serious Game |
 | **German Name** | Computerspiel |
@@ -2515,14 +2515,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-83" class="anchor" id="user-content-project-category-83">project-category-83</a>
+<a href="#project-category-83" id="project-category-83">project-category-83</a>
 
 ## Computer Generated Imagery
 
 |||
 |-----------|-----------|
 | **ID** | 83 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-83) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-83`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-83) |
 | **English Name** | Computer Generated Imagery |
 | **English Synonyms** | CGI,Computer Graphics |
 | **German Name** | Computer Generated Imagery |
@@ -2542,14 +2542,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-117" class="anchor" id="user-content-project-category-117">project-category-117</a>
+<a href="#project-category-117" id="project-category-117">project-category-117</a>
 
 ## Computer-Generated Imagery
 
 |||
 |-----------|-----------|
 | **ID** | 117 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-117) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-117`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-117) |
 | **English Name** | Computer-Generated Imagery |
 | **English Synonyms** | CGI,Computer Graphics |
 | **German Name** | Computer Generated Imagery |
@@ -2569,14 +2569,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-123" class="anchor" id="user-content-project-category-123">project-category-123</a>
+<a href="#project-category-123" id="project-category-123">project-category-123</a>
 
 ## Conceptual Photography
 
 |||
 |-----------|-----------|
 | **ID** | 123 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-123) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-123`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-123) |
 | **English Name** | Conceptual Photography |
 | **German Name** | Konzeptuelle Fotografie |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -2592,14 +2592,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-109" class="anchor" id="user-content-project-category-109">project-category-109</a>
+<a href="#project-category-109" id="project-category-109">project-category-109</a>
 
 ## Concert
 
 |||
 |-----------|-----------|
 | **ID** | 109 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-109) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-109`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-109) |
 | **English Name** | Concert |
 | **German Name** | Konzert |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -2617,14 +2617,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-261" class="anchor" id="user-content-project-category-261">project-category-261</a>
+<a href="#project-category-261" id="project-category-261">project-category-261</a>
 
 ## Concert Dance
 
 |||
 |-----------|-----------|
 | **ID** | 261 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-261) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-261`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-261) |
 | **English Name** | Concert Dance |
 | **German Name** | Bühnentanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -2640,14 +2640,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-182" class="anchor" id="user-content-project-category-182">project-category-182</a>
+<a href="#project-category-182" id="project-category-182">project-category-182</a>
 
 ## Concrete Poetry
 
 |||
 |-----------|-----------|
 | **ID** | 182 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-182) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-182`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-182) |
 | **English Name** | Concrete Poetry |
 | **German Name** | Konkrete Poesie |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -2665,14 +2665,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-276" class="anchor" id="user-content-project-category-276">project-category-276</a>
+<a href="#project-category-276" id="project-category-276">project-category-276</a>
 
 ## Conference
 
 |||
 |-----------|-----------|
 | **ID** | 276 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-276) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-276`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-276) |
 | **English Name** | Conference |
 | **English Synonyms** | Academic Conference,Scientific Conference,Convention |
 | **German Name** | Symposium |
@@ -2692,14 +2692,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-214" class="anchor" id="user-content-project-category-214">project-category-214</a>
+<a href="#project-category-214" id="project-category-214">project-category-214</a>
 
 ## Contemporary Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 214 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-214) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-214`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-214) |
 | **English Name** | Contemporary Jazz |
 | **German Name** | Contemporary Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2715,14 +2715,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-215" class="anchor" id="user-content-project-category-215">project-category-215</a>
+<a href="#project-category-215" id="project-category-215">project-category-215</a>
 
 ## Cool Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 215 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-215) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-215`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-215) |
 | **English Name** | Cool Jazz |
 | **German Name** | Cool Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2739,14 +2739,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-238" class="anchor" id="user-content-project-category-238">project-category-238</a>
+<a href="#project-category-238" id="project-category-238">project-category-238</a>
 
 ## Country
 
 |||
 |-----------|-----------|
 | **ID** | 238 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-238) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-238`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-238) |
 | **English Name** | Country |
 | **English Synonyms** | Countrymusic |
 | **German Name** | Country |
@@ -2764,14 +2764,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-216" class="anchor" id="user-content-project-category-216">project-category-216</a>
+<a href="#project-category-216" id="project-category-216">project-category-216</a>
 
 ## Crossover Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 216 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-216) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-216`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-216) |
 | **English Name** | Crossover Jazz |
 | **German Name** | Crossover Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2787,14 +2787,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-260" class="anchor" id="user-content-project-category-260">project-category-260</a>
+<a href="#project-category-260" id="project-category-260">project-category-260</a>
 
 ## Dance
 
 |||
 |-----------|-----------|
 | **ID** | 260 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-260) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-260`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-260) |
 | **English Name** | Dance |
 | **German Name** | Tanz |
 | **German Breadcrumb** | [Tanz](#project-category-260) |
@@ -2811,14 +2811,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-134" class="anchor" id="user-content-project-category-134">project-category-134</a>
+<a href="#project-category-134" id="project-category-134">project-category-134</a>
 
 ## Dance
 
 |||
 |-----------|-----------|
 | **ID** | 134 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-134) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-134`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-134) |
 | **English Name** | Dance |
 | **German Name** | Tanz |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -2836,14 +2836,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-256" class="anchor" id="user-content-project-category-256">project-category-256</a>
+<a href="#project-category-256" id="project-category-256">project-category-256</a>
 
 ## Dance Music
 
 |||
 |-----------|-----------|
 | **ID** | 256 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-256) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-256`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-256) |
 | **English Name** | Dance Music |
 | **German Name** | Tanzmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -2860,14 +2860,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-271" class="anchor" id="user-content-project-category-271">project-category-271</a>
+<a href="#project-category-271" id="project-category-271">project-category-271</a>
 
 ## Dance Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 271 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-271) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-271`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-271) |
 | **English Name** | Dance Theatre |
 | **German Name** | Tanztheater |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -2884,14 +2884,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-54" class="anchor" id="user-content-project-category-54">project-category-54</a>
+<a href="#project-category-54" id="project-category-54">project-category-54</a>
 
 ## Dance Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 54 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-54) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-54) |
 | **English Name** | Dance Theatre |
 | **German Name** | Tanztheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -2908,14 +2908,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-7" class="anchor" id="user-content-project-category-7">project-category-7</a>
+<a href="#project-category-7" id="project-category-7">project-category-7</a>
 
 ## Design
 
 |||
 |-----------|-----------|
 | **ID** | 7 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-7) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-7) |
 | **English Name** | Design |
 | **German Name** | Design |
 | **Parent Project Category** | [Applied Arts](#project-category-5) |
@@ -2933,14 +2933,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-80" class="anchor" id="user-content-project-category-80">project-category-80</a>
+<a href="#project-category-80" id="project-category-80">project-category-80</a>
 
 ## Digital Art
 
 |||
 |-----------|-----------|
 | **ID** | 80 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-80) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-80`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-80) |
 | **English Name** | Digital Art |
 | **German Name** | Digitale Kunst |
 | **German Synonyms** | Computerbasierte Kunst, Computerkunst |
@@ -2959,14 +2959,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-38" class="anchor" id="user-content-project-category-38">project-category-38</a>
+<a href="#project-category-38" id="project-category-38">project-category-38</a>
 
 ## Digital Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 38 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-38) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-38) |
 | **English Name** | Digital Theatre |
 | **German Name** | Digital Theatre |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -2982,14 +2982,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-280" class="anchor" id="user-content-project-category-280">project-category-280</a>
+<a href="#project-category-280" id="project-category-280">project-category-280</a>
 
 ## Direction
 
 |||
 |-----------|-----------|
 | **ID** | 280 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-280) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-280`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-280) |
 | **English Name** | Direction |
 | **English Synonyms** | Stage Direction |
 | **German Name** | Regie |
@@ -3008,14 +3008,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-217" class="anchor" id="user-content-project-category-217">project-category-217</a>
+<a href="#project-category-217" id="project-category-217">project-category-217</a>
 
 ## Dixieland
 
 |||
 |-----------|-----------|
 | **ID** | 217 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-217) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-217`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-217) |
 | **English Name** | Dixieland |
 | **German Name** | Dixieland |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -3032,14 +3032,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-2" class="anchor" id="user-content-project-category-2">project-category-2</a>
+<a href="#project-category-2" id="project-category-2">project-category-2</a>
 
 ## Doctoral Thesis
 
 |||
 |-----------|-----------|
 | **ID** | 2 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-2) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-2) |
 | **English Name** | Doctoral Thesis |
 | **English Synonyms** | Dissertation,PhD Thesis,Thesis |
 | **German Name** | Dissertation |
@@ -3059,14 +3059,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-57" class="anchor" id="user-content-project-category-57">project-category-57</a>
+<a href="#project-category-57" id="project-category-57">project-category-57</a>
 
 ## Docudrama
 
 |||
 |-----------|-----------|
 | **ID** | 57 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-57) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-57) |
 | **English Name** | Docudrama |
 | **German Name** | Dokudrama |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3083,14 +3083,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-58" class="anchor" id="user-content-project-category-58">project-category-58</a>
+<a href="#project-category-58" id="project-category-58">project-category-58</a>
 
 ## Documentary Film
 
 |||
 |-----------|-----------|
 | **ID** | 58 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-58) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-58) |
 | **English Name** | Documentary Film |
 | **German Name** | Dokumentarfilm |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3109,14 +3109,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-118" class="anchor" id="user-content-project-category-118">project-category-118</a>
+<a href="#project-category-118" id="project-category-118">project-category-118</a>
 
 ## Documentary Photography
 
 |||
 |-----------|-----------|
 | **ID** | 118 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-118) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-118`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-118) |
 | **English Name** | Documentary Photography |
 | **German Name** | Dokumentarfotografie |
 | **German Synonyms** | Künstlerische Dokumentarfotografie |
@@ -3135,14 +3135,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-20" class="anchor" id="user-content-project-category-20">project-category-20</a>
+<a href="#project-category-20" id="project-category-20">project-category-20</a>
 
 ## Documentary Photography
 
 |||
 |-----------|-----------|
 | **ID** | 20 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-20) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-20) |
 | **English Name** | Documentary Photography |
 | **German Name** | Dokumentarfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -3160,14 +3160,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-39" class="anchor" id="user-content-project-category-39">project-category-39</a>
+<a href="#project-category-39" id="project-category-39">project-category-39</a>
 
 ## Documentary Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 39 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-39) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-39) |
 | **English Name** | Documentary Theatre |
 | **German Name** | Dokumentarisches Theater |
 | **German Synonyms** | Dokumentartheater,Dokumentarspiel |
@@ -3185,14 +3185,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-151" class="anchor" id="user-content-project-category-151">project-category-151</a>
+<a href="#project-category-151" id="project-category-151">project-category-151</a>
 
 ## Drama
 
 |||
 |-----------|-----------|
 | **ID** | 151 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-151) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-151`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-151) |
 | **English Name** | Drama |
 | **German Name** | Drama |
 | **Parent Project Category** | [Literature](#project-category-150) |
@@ -3210,14 +3210,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-146" class="anchor" id="user-content-project-category-146">project-category-146</a>
+<a href="#project-category-146" id="project-category-146">project-category-146</a>
 
 ## Drawing
 
 |||
 |-----------|-----------|
 | **ID** | 146 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-146) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-146`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-146) |
 | **English Name** | Drawing |
 | **German Name** | Zeichnung |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -3235,14 +3235,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-130" class="anchor" id="user-content-project-category-130">project-category-130</a>
+<a href="#project-category-130" id="project-category-130">project-category-130</a>
 
 ## Durational Performance
 
 |||
 |-----------|-----------|
 | **ID** | 130 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-130) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-130`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-130) |
 | **English Name** | Durational Performance |
 | **English Synonyms** | Durational Art,Endurance Art |
 | **German Name** | Durational Performance |
@@ -3259,14 +3259,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-218" class="anchor" id="user-content-project-category-218">project-category-218</a>
+<a href="#project-category-218" id="project-category-218">project-category-218</a>
 
 ## East Coast Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 218 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-218) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-218`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-218) |
 | **English Name** | East Coast Jazz |
 | **German Name** | East Coast Jazz |
 | **German Synonyms** | East-Coast-Jazz |
@@ -3283,14 +3283,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-200" class="anchor" id="user-content-project-category-200">project-category-200</a>
+<a href="#project-category-200" id="project-category-200">project-category-200</a>
 
 ## Electroacoustic Music
 
 |||
 |-----------|-----------|
 | **ID** | 200 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-200) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-200`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-200) |
 | **English Name** | Electroacoustic Music |
 | **German Name** | Elektroakustische Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -3308,14 +3308,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-239" class="anchor" id="user-content-project-category-239">project-category-239</a>
+<a href="#project-category-239" id="project-category-239">project-category-239</a>
 
 ## Electronic Dance Music
 
 |||
 |-----------|-----------|
 | **ID** | 239 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-239) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-239`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-239) |
 | **English Name** | Electronic Dance Music |
 | **English Synonyms** | EDM |
 | **German Name** | Electronic Dance Music |
@@ -3332,14 +3332,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-201" class="anchor" id="user-content-project-category-201">project-category-201</a>
+<a href="#project-category-201" id="project-category-201">project-category-201</a>
 
 ## Electronic Music
 
 |||
 |-----------|-----------|
 | **ID** | 201 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-201) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-201`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-201) |
 | **English Name** | Electronic Music |
 | **German Name** | Elektronische Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -3357,14 +3357,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-176" class="anchor" id="user-content-project-category-176">project-category-176</a>
+<a href="#project-category-176" id="project-category-176">project-category-176</a>
 
 ## Elegy
 
 |||
 |-----------|-----------|
 | **ID** | 176 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-176) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-176`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-176) |
 | **English Name** | Elegy |
 | **German Name** | Elegie |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -3382,14 +3382,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-202" class="anchor" id="user-content-project-category-202">project-category-202</a>
+<a href="#project-category-202" id="project-category-202">project-category-202</a>
 
 ## Ensemble Music
 
 |||
 |-----------|-----------|
 | **ID** | 202 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-202) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-202`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-202) |
 | **English Name** | Ensemble Music |
 | **German Name** | Ensemblemusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -3406,14 +3406,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-163" class="anchor" id="user-content-project-category-163">project-category-163</a>
+<a href="#project-category-163" id="project-category-163">project-category-163</a>
 
 ## Epic Literature
 
 |||
 |-----------|-----------|
 | **ID** | 163 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-163) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-163`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-163) |
 | **English Name** | Epic Literature |
 | **German Name** | Epik |
 | **German Synonyms** | Epische Literatur |
@@ -3432,14 +3432,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-36" class="anchor" id="user-content-project-category-36">project-category-36</a>
+<a href="#project-category-36" id="project-category-36">project-category-36</a>
 
 ## Epic Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 36 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-36) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-36) |
 | **English Name** | Epic Theatre |
 | **German Name** | Episches Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -3456,14 +3456,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-177" class="anchor" id="user-content-project-category-177">project-category-177</a>
+<a href="#project-category-177" id="project-category-177">project-category-177</a>
 
 ## Epigram
 
 |||
 |-----------|-----------|
 | **ID** | 177 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-177) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-177`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-177) |
 | **English Name** | Epigram |
 | **German Name** | Epigramm |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -3481,14 +3481,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-61" class="anchor" id="user-content-project-category-61">project-category-61</a>
+<a href="#project-category-61" id="project-category-61">project-category-61</a>
 
 ## Episode
 
 |||
 |-----------|-----------|
 | **ID** | 61 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-61) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-61`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-61) |
 | **English Name** | Episode |
 | **German Name** | Episode |
 | **German Synonyms** | Folge |
@@ -3506,14 +3506,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-191" class="anchor" id="user-content-project-category-191">project-category-191</a>
+<a href="#project-category-191" id="project-category-191">project-category-191</a>
 
 ## Essay
 
 |||
 |-----------|-----------|
 | **ID** | 191 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-191) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-191`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-191) |
 | **English Name** | Essay |
 | **German Name** | Essay |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -3531,14 +3531,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-63" class="anchor" id="user-content-project-category-63">project-category-63</a>
+<a href="#project-category-63" id="project-category-63">project-category-63</a>
 
 ## Essay Film
 
 |||
 |-----------|-----------|
 | **ID** | 63 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-63) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-63`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-63) |
 | **English Name** | Essay Film |
 | **German Name** | Essay-Film |
 | **German Synonyms** | Film-Essay |
@@ -3556,14 +3556,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-219" class="anchor" id="user-content-project-category-219">project-category-219</a>
+<a href="#project-category-219" id="project-category-219">project-category-219</a>
 
 ## Ethno Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 219 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-219) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-219`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-219) |
 | **English Name** | Ethno Jazz |
 | **German Name** | Ethnojazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -3579,14 +3579,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-272" class="anchor" id="user-content-project-category-272">project-category-272</a>
+<a href="#project-category-272" id="project-category-272">project-category-272</a>
 
 ## Event
 
 |||
 |-----------|-----------|
 | **ID** | 272 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-272) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-272`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-272) |
 | **English Name** | Event |
 | **German Name** | Veranstaltung |
 | **German Breadcrumb** | [Veranstaltung](#project-category-272) |
@@ -3603,14 +3603,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-64" class="anchor" id="user-content-project-category-64">project-category-64</a>
+<a href="#project-category-64" id="project-category-64">project-category-64</a>
 
 ## Expanded Cinema
 
 |||
 |-----------|-----------|
 | **ID** | 64 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-64) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-64`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-64) |
 | **English Name** | Expanded Cinema |
 | **German Name** | Expanded Cinema |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3627,14 +3627,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-139" class="anchor" id="user-content-project-category-139">project-category-139</a>
+<a href="#project-category-139" id="project-category-139">project-category-139</a>
 
 ## Expanded Cinema
 
 |||
 |-----------|-----------|
 | **ID** | 139 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-139) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-139`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-139) |
 | **English Name** | Expanded Cinema |
 | **German Name** | Expanded Cinema |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -3651,14 +3651,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-65" class="anchor" id="user-content-project-category-65">project-category-65</a>
+<a href="#project-category-65" id="project-category-65">project-category-65</a>
 
 ## Experimental Film
 
 |||
 |-----------|-----------|
 | **ID** | 65 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-65) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-65`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-65) |
 | **English Name** | Experimental Film |
 | **German Name** | Experimentalfilm |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3677,14 +3677,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-37" class="anchor" id="user-content-project-category-37">project-category-37</a>
+<a href="#project-category-37" id="project-category-37">project-category-37</a>
 
 ## Experimental Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 37 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-37) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-37) |
 | **English Name** | Experimental Theatre |
 | **German Name** | Experimentelles Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -3701,14 +3701,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-166" class="anchor" id="user-content-project-category-166">project-category-166</a>
+<a href="#project-category-166" id="project-category-166">project-category-166</a>
 
 ## Fairy Tale
 
 |||
 |-----------|-----------|
 | **ID** | 166 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-166) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-166`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-166) |
 | **English Name** | Fairy Tale |
 | **German Name** | Märchen |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -3726,14 +3726,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-13" class="anchor" id="user-content-project-category-13">project-category-13</a>
+<a href="#project-category-13" id="project-category-13">project-category-13</a>
 
 ## Fashion Design
 
 |||
 |-----------|-----------|
 | **ID** | 13 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-13) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-13) |
 | **English Name** | Fashion Design |
 | **German Name** | Modedesign |
 | **Parent Project Category** | [Design](#project-category-7) |
@@ -3751,14 +3751,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-25" class="anchor" id="user-content-project-category-25">project-category-25</a>
+<a href="#project-category-25" id="project-category-25">project-category-25</a>
 
 ## Fashion Photography
 
 |||
 |-----------|-----------|
 | **ID** | 25 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-25) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-25) |
 | **English Name** | Fashion Photography |
 | **German Name** | Modefotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -3776,14 +3776,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-72" class="anchor" id="user-content-project-category-72">project-category-72</a>
+<a href="#project-category-72" id="project-category-72">project-category-72</a>
 
 ## Feature Film
 
 |||
 |-----------|-----------|
 | **ID** | 72 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-72) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-72`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-72) |
 | **English Name** | Feature Film |
 | **English Synonyms** | Movie,Fiction Film |
 | **German Name** | Spielfilm |
@@ -3804,14 +3804,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-104" class="anchor" id="user-content-project-category-104">project-category-104</a>
+<a href="#project-category-104" id="project-category-104">project-category-104</a>
 
 ## Field Recording
 
 |||
 |-----------|-----------|
 | **ID** | 104 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-104) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-104`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-104) |
 | **English Name** | Field Recording |
 | **English Synonyms** | Live Sound Recording |
 | **German Name** | Field Recording |
@@ -3831,14 +3831,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-254" class="anchor" id="user-content-project-category-254">project-category-254</a>
+<a href="#project-category-254" id="project-category-254">project-category-254</a>
 
 ## Film Music
 
 |||
 |-----------|-----------|
 | **ID** | 254 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-254) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-254`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-254) |
 | **English Name** | Film Music |
 | **German Name** | Filmmusik |
 | **Parent Project Category** | [Soundtrack](#project-category-253) |
@@ -3855,14 +3855,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-74" class="anchor" id="user-content-project-category-74">project-category-74</a>
+<a href="#project-category-74" id="project-category-74">project-category-74</a>
 
 ## Film Trailer
 
 |||
 |-----------|-----------|
 | **ID** | 74 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-74) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-74`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-74) |
 | **English Name** | Film Trailer |
 | **German Name** | Trailer für Film |
 | **German Synonyms** | Kinotrailer,Filmtrailer |
@@ -3882,14 +3882,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-55" class="anchor" id="user-content-project-category-55">project-category-55</a>
+<a href="#project-category-55" id="project-category-55">project-category-55</a>
 
 ## Film/TV
 
 |||
 |-----------|-----------|
 | **ID** | 55 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-55) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-55) |
 | **English Name** | Film/TV |
 | **German Name** | Film/TV |
 | **German Synonyms** | Film/Fernsehen |
@@ -3907,14 +3907,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-116" class="anchor" id="user-content-project-category-116">project-category-116</a>
+<a href="#project-category-116" id="project-category-116">project-category-116</a>
 
 ## Fine Art Photography
 
 |||
 |-----------|-----------|
 | **ID** | 116 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-116) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-116`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-116) |
 | **English Name** | Fine Art Photography |
 | **German Name** | Künstlerische Fotografie |
 | **German Synonyms** | Fotokunst,Kunstfotografie |
@@ -3932,14 +3932,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-281" class="anchor" id="user-content-project-category-281">project-category-281</a>
+<a href="#project-category-281" id="project-category-281">project-category-281</a>
 
 ## Fixed Media
 
 |||
 |-----------|-----------|
 | **ID** | 281 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-281) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-281`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-281) |
 | **English Name** | Fixed Media |
 | **German Name** | Fixed Media |
 | **German Synonyms** | Lautsprechermusik |
@@ -3957,14 +3957,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-203" class="anchor" id="user-content-project-category-203">project-category-203</a>
+<a href="#project-category-203" id="project-category-203">project-category-203</a>
 
 ## Folklore
 
 |||
 |-----------|-----------|
 | **ID** | 203 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-203) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-203`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-203) |
 | **English Name** | Folklore |
 | **German Name** | Folklore |
 | **German Synonyms** | Volksmusik |
@@ -3983,14 +3983,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-137" class="anchor" id="user-content-project-category-137">project-category-137</a>
+<a href="#project-category-137" id="project-category-137">project-category-137</a>
 
 ## Found Object
 
 |||
 |-----------|-----------|
 | **ID** | 137 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-137) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-137`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-137) |
 | **English Name** | Found Object |
 | **German Name** | Ready-made |
 | **German Synonyms** | Objekt,Objet Trouvé |
@@ -4009,14 +4009,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-220" class="anchor" id="user-content-project-category-220">project-category-220</a>
+<a href="#project-category-220" id="project-category-220">project-category-220</a>
 
 ## Free Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 220 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-220) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-220`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-220) |
 | **English Name** | Free Jazz |
 | **German Name** | Free Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -4033,14 +4033,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-8" class="anchor" id="user-content-project-category-8">project-category-8</a>
+<a href="#project-category-8" id="project-category-8">project-category-8</a>
 
 ## Game Design
 
 |||
 |-----------|-----------|
 | **ID** | 8 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-8) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-8) |
 | **English Name** | Game Design |
 | **English Synonyms** | Gamedesign |
 | **German Name** | Game Design |
@@ -4057,14 +4057,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-255" class="anchor" id="user-content-project-category-255">project-category-255</a>
+<a href="#project-category-255" id="project-category-255">project-category-255</a>
 
 ## Game Soundtrack
 
 |||
 |-----------|-----------|
 | **ID** | 255 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-255) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-255`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-255) |
 | **English Name** | Game Soundtrack |
 | **German Name** | Videospielmusik |
 | **German Synonyms** | Game-Soundtrack,Computerspielmusik |
@@ -4082,14 +4082,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-86" class="anchor" id="user-content-project-category-86">project-category-86</a>
+<a href="#project-category-86" id="project-category-86">project-category-86</a>
 
 ## Generative Art
 
 |||
 |-----------|-----------|
 | **ID** | 86 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-86) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-86`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-86) |
 | **English Name** | Generative Art |
 | **German Name** | Generative Kunst |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -4106,14 +4106,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-286" class="anchor" id="user-content-project-category-286">project-category-286</a>
+<a href="#project-category-286" id="project-category-286">project-category-286</a>
 
 ## Genre Painting
 
 |||
 |-----------|-----------|
 | **ID** | 286 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-286) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-286`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-286) |
 | **English Name** | Genre Painting |
 | **German Name** | Genremalerei |
 | **German Synonyms** | Genrebild,Genreszene |
@@ -4132,14 +4132,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-11" class="anchor" id="user-content-project-category-11">project-category-11</a>
+<a href="#project-category-11" id="project-category-11">project-category-11</a>
 
 ## Graphic Design
 
 |||
 |-----------|-----------|
 | **ID** | 11 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-11) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-11) |
 | **English Name** | Graphic Design |
 | **English Synonyms** | Communication Design |
 | **German Name** | Kommunikationsdesign |
@@ -4159,14 +4159,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-262" class="anchor" id="user-content-project-category-262">project-category-262</a>
+<a href="#project-category-262" id="project-category-262">project-category-262</a>
 
 ## Group Dance
 
 |||
 |-----------|-----------|
 | **ID** | 262 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-262) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-262`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-262) |
 | **English Name** | Group Dance |
 | **German Name** | Gruppentanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -4183,14 +4183,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-180" class="anchor" id="user-content-project-category-180">project-category-180</a>
+<a href="#project-category-180" id="project-category-180">project-category-180</a>
 
 ## Haiku
 
 |||
 |-----------|-----------|
 | **ID** | 180 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-180) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-180`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-180) |
 | **English Name** | Haiku |
 | **German Name** | Haiku |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -4207,14 +4207,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-131" class="anchor" id="user-content-project-category-131">project-category-131</a>
+<a href="#project-category-131" id="project-category-131">project-category-131</a>
 
 ## Happening
 
 |||
 |-----------|-----------|
 | **ID** | 131 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-131) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-131`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-131) |
 | **English Name** | Happening |
 | **German Name** | Happening |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -4232,14 +4232,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-221" class="anchor" id="user-content-project-category-221">project-category-221</a>
+<a href="#project-category-221" id="project-category-221">project-category-221</a>
 
 ## Hard Bop
 
 |||
 |-----------|-----------|
 | **ID** | 221 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-221) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-221`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-221) |
 | **English Name** | Hard Bop |
 | **German Name** | Hard Bop |
 | **German Synonyms** | Hardbop |
@@ -4257,14 +4257,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-240" class="anchor" id="user-content-project-category-240">project-category-240</a>
+<a href="#project-category-240" id="project-category-240">project-category-240</a>
 
 ## Hip-Hop
 
 |||
 |-----------|-----------|
 | **ID** | 240 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-240) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-240`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-240) |
 | **English Name** | Hip-Hop |
 | **German Name** | Hip-Hop |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -4281,14 +4281,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-153" class="anchor" id="user-content-project-category-153">project-category-153</a>
+<a href="#project-category-153" id="project-category-153">project-category-153</a>
 
 ## Historical Play
 
 |||
 |-----------|-----------|
 | **ID** | 153 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-153) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-153`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-153) |
 | **English Name** | Historical Play |
 | **German Name** | Historiendrama |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -4305,14 +4305,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-287" class="anchor" id="user-content-project-category-287">project-category-287</a>
+<a href="#project-category-287" id="project-category-287">project-category-287</a>
 
 ## History Painting
 
 |||
 |-----------|-----------|
 | **ID** | 287 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-287) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-287`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-287) |
 | **English Name** | History Painting |
 | **German Name** | Historienmalerei |
 | **German Synonyms** | Historiengemälde,Historienbild |
@@ -4331,14 +4331,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-125" class="anchor" id="user-content-project-category-125">project-category-125</a>
+<a href="#project-category-125" id="project-category-125">project-category-125</a>
 
 ## Holography
 
 |||
 |-----------|-----------|
 | **ID** | 125 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-125) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-125`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-125) |
 | **English Name** | Holography |
 | **German Name** | Holografie |
 | **German Synonyms** | Holografische Arbeit |
@@ -4357,14 +4357,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-181" class="anchor" id="user-content-project-category-181">project-category-181</a>
+<a href="#project-category-181" id="project-category-181">project-category-181</a>
 
 ## Hymn
 
 |||
 |-----------|-----------|
 | **ID** | 181 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-181) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-181`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-181) |
 | **English Name** | Hymn |
 | **German Name** | Hymne |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -4382,14 +4382,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-42" class="anchor" id="user-content-project-category-42">project-category-42</a>
+<a href="#project-category-42" id="project-category-42">project-category-42</a>
 
 ## Improvisational Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 42 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-42) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-42) |
 | **English Name** | Improvisational Theatre |
 | **German Name** | Improvisationstheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -4405,14 +4405,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-9" class="anchor" id="user-content-project-category-9">project-category-9</a>
+<a href="#project-category-9" id="project-category-9">project-category-9</a>
 
 ## Industrial Design
 
 |||
 |-----------|-----------|
 | **ID** | 9 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-9) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-9) |
 | **English Name** | Industrial Design |
 | **English Synonyms** | Product Design |
 | **German Name** | Industrial Design |
@@ -4432,14 +4432,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-93" class="anchor" id="user-content-project-category-93">project-category-93</a>
+<a href="#project-category-93" id="project-category-93">project-category-93</a>
 
 ## Installation
 
 |||
 |-----------|-----------|
 | **ID** | 93 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-93) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-93`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-93) |
 | **English Name** | Installation |
 | **English Synonyms** | Environment |
 | **German Name** | Installation |
@@ -4459,14 +4459,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-205" class="anchor" id="user-content-project-category-205">project-category-205</a>
+<a href="#project-category-205" id="project-category-205">project-category-205</a>
 
 ## Instrumental Music
 
 |||
 |-----------|-----------|
 | **ID** | 205 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-205) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-205`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-205) |
 | **English Name** | Instrumental Music |
 | **German Name** | Instrumentalmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -4483,14 +4483,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-95" class="anchor" id="user-content-project-category-95">project-category-95</a>
+<a href="#project-category-95" id="project-category-95">project-category-95</a>
 
 ## Interactive Art
 
 |||
 |-----------|-----------|
 | **ID** | 95 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-95) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-95`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-95) |
 | **English Name** | Interactive Art |
 | **German Name** | Interaktive Kunst |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -4508,14 +4508,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-87" class="anchor" id="user-content-project-category-87">project-category-87</a>
+<a href="#project-category-87" id="project-category-87">project-category-87</a>
 
 ## Interactive Art
 
 |||
 |-----------|-----------|
 | **ID** | 87 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-87) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-87`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-87) |
 | **English Name** | Interactive Art |
 | **German Name** | Interaktive Kunst |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -4533,14 +4533,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-43" class="anchor" id="user-content-project-category-43">project-category-43</a>
+<a href="#project-category-43" id="project-category-43">project-category-43</a>
 
 ## Interactive Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 43 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-43) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-43) |
 | **English Name** | Interactive Theatre |
 | **German Name** | Interaktives Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -4556,14 +4556,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-10" class="anchor" id="user-content-project-category-10">project-category-10</a>
+<a href="#project-category-10" id="project-category-10">project-category-10</a>
 
 ## Interior Design
 
 |||
 |-----------|-----------|
 | **ID** | 10 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-10) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-10) |
 | **English Name** | Interior Design |
 | **German Name** | Innenarchitektur |
 | **German Synonyms** | Mediale Raumgestaltung,Raumgestaltung |
@@ -4582,14 +4582,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-290" class="anchor" id="user-content-project-category-290">project-category-290</a>
+<a href="#project-category-290" id="project-category-290">project-category-290</a>
 
 ## Interior Painting
 
 |||
 |-----------|-----------|
 | **ID** | 290 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-290) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-290`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-290) |
 | **English Name** | Interior Painting |
 | **German Name** | Interieurmalerei |
 | **Parent Project Category** | [Painting](#project-category-127) |
@@ -4605,14 +4605,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-96" class="anchor" id="user-content-project-category-96">project-category-96</a>
+<a href="#project-category-96" id="project-category-96">project-category-96</a>
 
 ## Intervention
 
 |||
 |-----------|-----------|
 | **ID** | 96 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-96) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-96`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-96) |
 | **English Name** | Intervention |
 | **German Name** | Intervention |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -4629,14 +4629,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-132" class="anchor" id="user-content-project-category-132">project-category-132</a>
+<a href="#project-category-132" id="project-category-132">project-category-132</a>
 
 ## Intervention
 
 |||
 |-----------|-----------|
 | **ID** | 132 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-132) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-132`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-132) |
 | **English Name** | Intervention |
 | **German Name** | Intervention |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -4653,14 +4653,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-273" class="anchor" id="user-content-project-category-273">project-category-273</a>
+<a href="#project-category-273" id="project-category-273">project-category-273</a>
 
 ## Interview
 
 |||
 |-----------|-----------|
 | **ID** | 273 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-273) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-273`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-273) |
 | **English Name** | Interview |
 | **German Name** | Interview |
 | **Parent Project Category** | [Event](#project-category-272) |
@@ -4678,14 +4678,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-206" class="anchor" id="user-content-project-category-206">project-category-206</a>
+<a href="#project-category-206" id="project-category-206">project-category-206</a>
 
 ## Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 206 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-206) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-206`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-206) |
 | **English Name** | Jazz |
 | **German Name** | Jazz |
 | **German Synonyms** | Jazzmusik |
@@ -4704,14 +4704,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-263" class="anchor" id="user-content-project-category-263">project-category-263</a>
+<a href="#project-category-263" id="project-category-263">project-category-263</a>
 
 ## Jazz Dance
 
 |||
 |-----------|-----------|
 | **ID** | 263 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-263) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-263`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-263) |
 | **English Name** | Jazz Dance |
 | **German Name** | Jazztanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -4728,14 +4728,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-222" class="anchor" id="user-content-project-category-222">project-category-222</a>
+<a href="#project-category-222" id="project-category-222">project-category-222</a>
 
 ## Jazz Fusion
 
 |||
 |-----------|-----------|
 | **ID** | 222 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-222) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-222`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-222) |
 | **English Name** | Jazz Fusion |
 | **German Name** | Jazz Fusion |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -4751,14 +4751,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-284" class="anchor" id="user-content-project-category-284">project-category-284</a>
+<a href="#project-category-284" id="project-category-284">project-category-284</a>
 
 ## Landscape Painting
 
 |||
 |-----------|-----------|
 | **ID** | 284 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-284) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-284`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-284) |
 | **English Name** | Landscape Painting |
 | **German Name** | Landschaftsmalerei |
 | **German Synonyms** | Landschaftsgemälde |
@@ -4777,14 +4777,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-24" class="anchor" id="user-content-project-category-24">project-category-24</a>
+<a href="#project-category-24" id="project-category-24">project-category-24</a>
 
 ## Landscape Photography
 
 |||
 |-----------|-----------|
 | **ID** | 24 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-24) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-24) |
 | **English Name** | Landscape Photography |
 | **German Name** | Landschaftsfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -4801,14 +4801,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-264" class="anchor" id="user-content-project-category-264">project-category-264</a>
+<a href="#project-category-264" id="project-category-264">project-category-264</a>
 
 ## Latin American Dance
 
 |||
 |-----------|-----------|
 | **ID** | 264 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-264) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-264`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-264) |
 | **English Name** | Latin American Dance |
 | **German Name** | Lateinamerikanischer Tanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -4825,14 +4825,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-277" class="anchor" id="user-content-project-category-277">project-category-277</a>
+<a href="#project-category-277" id="project-category-277">project-category-277</a>
 
 ## Lecture
 
 |||
 |-----------|-----------|
 | **ID** | 277 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-277) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-277`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-277) |
 | **English Name** | Lecture |
 | **English Synonyms** | Talk |
 | **German Name** | Vorlesung |
@@ -4852,14 +4852,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-133" class="anchor" id="user-content-project-category-133">project-category-133</a>
+<a href="#project-category-133" id="project-category-133">project-category-133</a>
 
 ## Lecture Performance
 
 |||
 |-----------|-----------|
 | **ID** | 133 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-133) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-133`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-133) |
 | **English Name** | Lecture Performance |
 | **English Synonyms** | Performance Lecture,Performance-Lecture |
 | **German Name** | Performance-Vortrag |
@@ -4878,14 +4878,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-155" class="anchor" id="user-content-project-category-155">project-category-155</a>
+<a href="#project-category-155" id="project-category-155">project-category-155</a>
 
 ## Libretto
 
 |||
 |-----------|-----------|
 | **ID** | 155 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-155) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-155`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-155) |
 | **English Name** | Libretto |
 | **German Name** | Libretto |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -4903,14 +4903,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-124" class="anchor" id="user-content-project-category-124">project-category-124</a>
+<a href="#project-category-124" id="project-category-124">project-category-124</a>
 
 ## Light Art
 
 |||
 |-----------|-----------|
 | **ID** | 124 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-124) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-124`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-124) |
 | **English Name** | Light Art |
 | **German Name** | Lichtkunst |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -4928,14 +4928,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-100" class="anchor" id="user-content-project-category-100">project-category-100</a>
+<a href="#project-category-100" id="project-category-100">project-category-100</a>
 
 ## Light Installation
 
 |||
 |-----------|-----------|
 | **ID** | 100 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-100) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-100`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-100) |
 | **English Name** | Light Installation |
 | **German Name** | Lichtinstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -4952,14 +4952,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-126" class="anchor" id="user-content-project-category-126">project-category-126</a>
+<a href="#project-category-126" id="project-category-126">project-category-126</a>
 
 ## Light Installation
 
 |||
 |-----------|-----------|
 | **ID** | 126 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-126) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-126`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-126) |
 | **English Name** | Light Installation |
 | **German Name** | Lichtinstallation |
 | **Parent Project Category** | [Light Art](#project-category-124) |
@@ -4976,14 +4976,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-184" class="anchor" id="user-content-project-category-184">project-category-184</a>
+<a href="#project-category-184" id="project-category-184">project-category-184</a>
 
 ## Limerick
 
 |||
 |-----------|-----------|
 | **ID** | 184 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-184) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-184`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-184) |
 | **English Name** | Limerick |
 | **German Name** | Limerick |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -5001,14 +5001,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-267" class="anchor" id="user-content-project-category-267">project-category-267</a>
+<a href="#project-category-267" id="project-category-267">project-category-267</a>
 
 ## Line Dance
 
 |||
 |-----------|-----------|
 | **ID** | 267 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-267) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-267`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-267) |
 | **English Name** | Line Dance |
 | **German Name** | Reihentanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -5025,14 +5025,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-105" class="anchor" id="user-content-project-category-105">project-category-105</a>
+<a href="#project-category-105" id="project-category-105">project-category-105</a>
 
 ## Listening Piece
 
 |||
 |-----------|-----------|
 | **ID** | 105 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-105) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-105`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-105) |
 | **English Name** | Listening Piece |
 | **German Name** | Hörstück |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -5049,14 +5049,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-172" class="anchor" id="user-content-project-category-172">project-category-172</a>
+<a href="#project-category-172" id="project-category-172">project-category-172</a>
 
 ## Literary Reading
 
 |||
 |-----------|-----------|
 | **ID** | 172 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-172) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-172`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-172) |
 | **English Name** | Literary Reading |
 | **German Name** | Literaturlesung |
 | **German Synonyms** | Autorenlesung |
@@ -5073,14 +5073,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-150" class="anchor" id="user-content-project-category-150">project-category-150</a>
+<a href="#project-category-150" id="project-category-150">project-category-150</a>
 
 ## Literature
 
 |||
 |-----------|-----------|
 | **ID** | 150 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-150) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-150`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-150) |
 | **English Name** | Literature |
 | **German Name** | Literatur |
 | **German Breadcrumb** | [Literatur](#project-category-150) |
@@ -5097,14 +5097,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-192" class="anchor" id="user-content-project-category-192">project-category-192</a>
+<a href="#project-category-192" id="project-category-192">project-category-192</a>
 
 ## Manifesto
 
 |||
 |-----------|-----------|
 | **ID** | 192 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-192) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-192`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-192) |
 | **English Name** | Manifesto |
 | **German Name** | Manifest |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5122,14 +5122,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-12" class="anchor" id="user-content-project-category-12">project-category-12</a>
+<a href="#project-category-12" id="project-category-12">project-category-12</a>
 
 ## Media Design
 
 |||
 |-----------|-----------|
 | **ID** | 12 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-12) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-12) |
 | **English Name** | Media Design |
 | **German Name** | Mediengestaltung |
 | **German Synonyms** | Mediendesign |
@@ -5147,14 +5147,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-193" class="anchor" id="user-content-project-category-193">project-category-193</a>
+<a href="#project-category-193" id="project-category-193">project-category-193</a>
 
 ## Memoir
 
 |||
 |-----------|-----------|
 | **ID** | 193 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-193) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-193`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-193) |
 | **English Name** | Memoir |
 | **German Name** | Memoir |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5171,14 +5171,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-46" class="anchor" id="user-content-project-category-46">project-category-46</a>
+<a href="#project-category-46" id="project-category-46">project-category-46</a>
 
 ## Meta-Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 46 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-46) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-46) |
 | **English Name** | Meta-Theatre |
 | **German Name** | Metatheater |
 | **German Synonyms** | Metadrama |
@@ -5196,14 +5196,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-241" class="anchor" id="user-content-project-category-241">project-category-241</a>
+<a href="#project-category-241" id="project-category-241">project-category-241</a>
 
 ## Metal
 
 |||
 |-----------|-----------|
 | **ID** | 241 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-241) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-241`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-241) |
 | **English Name** | Metal |
 | **English Synonyms** | Heavy Metal |
 | **German Name** | Metal |
@@ -5221,14 +5221,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-230" class="anchor" id="user-content-project-category-230">project-category-230</a>
+<a href="#project-category-230" id="project-category-230">project-category-230</a>
 
 ## Military Music
 
 |||
 |-----------|-----------|
 | **ID** | 230 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-230) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-230`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-230) |
 | **English Name** | Military Music |
 | **German Name** | Militärmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5245,14 +5245,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-67" class="anchor" id="user-content-project-category-67">project-category-67</a>
+<a href="#project-category-67" id="project-category-67">project-category-67</a>
 
 ## Mockumentary
 
 |||
 |-----------|-----------|
 | **ID** | 67 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-67) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-67`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-67) |
 | **English Name** | Mockumentary |
 | **German Name** | Mockumentary |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -5269,14 +5269,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-136" class="anchor" id="user-content-project-category-136">project-category-136</a>
+<a href="#project-category-136" id="project-category-136">project-category-136</a>
 
 ## Model
 
 |||
 |-----------|-----------|
 | **ID** | 136 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-136) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-136`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-136) |
 | **English Name** | Model |
 | **German Name** | Modell |
 | **German Synonyms** | Maquette |
@@ -5295,14 +5295,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-156" class="anchor" id="user-content-project-category-156">project-category-156</a>
+<a href="#project-category-156" id="project-category-156">project-category-156</a>
 
 ## Monodrama
 
 |||
 |-----------|-----------|
 | **ID** | 156 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-156) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-156`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-156) |
 | **English Name** | Monodrama |
 | **German Name** | Monodrama |
 | **German Synonyms** | Einpersonenstück,Monodram |
@@ -5320,14 +5320,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-157" class="anchor" id="user-content-project-category-157">project-category-157</a>
+<a href="#project-category-157" id="project-category-157">project-category-157</a>
 
 ## Morality Play
 
 |||
 |-----------|-----------|
 | **ID** | 157 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-157) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-157`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-157) |
 | **English Name** | Morality Play |
 | **German Name** | Moralität |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -5345,14 +5345,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-197" class="anchor" id="user-content-project-category-197">project-category-197</a>
+<a href="#project-category-197" id="project-category-197">project-category-197</a>
 
 ## Music
 
 |||
 |-----------|-----------|
 | **ID** | 197 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-197) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-197`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-197) |
 | **English Name** | Music |
 | **German Name** | Musik |
 | **German Breadcrumb** | [Musik](#project-category-197) |
@@ -5369,14 +5369,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-69" class="anchor" id="user-content-project-category-69">project-category-69</a>
+<a href="#project-category-69" id="project-category-69">project-category-69</a>
 
 ## Music Video
 
 |||
 |-----------|-----------|
 | **ID** | 69 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-69) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-69`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-69) |
 | **English Name** | Music Video |
 | **German Name** | Musikvideo |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -5394,14 +5394,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-68" class="anchor" id="user-content-project-category-68">project-category-68</a>
+<a href="#project-category-68" id="project-category-68">project-category-68</a>
 
 ## Musical Film
 
 |||
 |-----------|-----------|
 | **ID** | 68 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-68) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-68`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-68) |
 | **English Name** | Musical Film |
 | **German Name** | Musikfilm |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -5418,14 +5418,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-47" class="anchor" id="user-content-project-category-47">project-category-47</a>
+<a href="#project-category-47" id="project-category-47">project-category-47</a>
 
 ## Musical Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 47 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-47) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-47) |
 | **English Name** | Musical Theatre |
 | **German Name** | Musiktheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -5442,14 +5442,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-164" class="anchor" id="user-content-project-category-164">project-category-164</a>
+<a href="#project-category-164" id="project-category-164">project-category-164</a>
 
 ## Narrative Story
 
 |||
 |-----------|-----------|
 | **ID** | 164 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-164) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-164`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-164) |
 | **English Name** | Narrative Story |
 | **German Name** | Erzählung |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5467,14 +5467,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-88" class="anchor" id="user-content-project-category-88">project-category-88</a>
+<a href="#project-category-88" id="project-category-88">project-category-88</a>
 
 ## Net Art
 
 |||
 |-----------|-----------|
 | **ID** | 88 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-88) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-88`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-88) |
 | **English Name** | Net Art |
 | **English Synonyms** | NetArt,Internet Art |
 | **German Name** | Netzkunst |
@@ -5494,14 +5494,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-231" class="anchor" id="user-content-project-category-231">project-category-231</a>
+<a href="#project-category-231" id="project-category-231">project-category-231</a>
 
 ## Neue Musik
 
 |||
 |-----------|-----------|
 | **ID** | 231 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-231) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-231`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-231) |
 | **English Name** | Neue Musik |
 | **German Name** | Neue Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5518,14 +5518,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-223" class="anchor" id="user-content-project-category-223">project-category-223</a>
+<a href="#project-category-223" id="project-category-223">project-category-223</a>
 
 ## New Orleans Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 223 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-223) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-223`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-223) |
 | **English Name** | New Orleans Jazz |
 | **German Name** | New Orleans Jazz |
 | **German Synonyms** | New-Orleans-Jazz |
@@ -5543,14 +5543,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-242" class="anchor" id="user-content-project-category-242">project-category-242</a>
+<a href="#project-category-242" id="project-category-242">project-category-242</a>
 
 ## New Wave
 
 |||
 |-----------|-----------|
 | **ID** | 242 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-242) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-242`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-242) |
 | **English Name** | New Wave |
 | **German Name** | New Wave |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -5567,14 +5567,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-198" class="anchor" id="user-content-project-category-198">project-category-198</a>
+<a href="#project-category-198" id="project-category-198">project-category-198</a>
 
 ## Non-european Art Music
 
 |||
 |-----------|-----------|
 | **ID** | 198 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-198) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-198`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-198) |
 | **English Name** | Non-european Art Music |
 | **German Name** | Außereuropäische Kunstmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5590,14 +5590,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-195" class="anchor" id="user-content-project-category-195">project-category-195</a>
+<a href="#project-category-195" id="project-category-195">project-category-195</a>
 
 ## Non-fiction Book
 
 |||
 |-----------|-----------|
 | **ID** | 195 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-195) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-195`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-195) |
 | **English Name** | Non-fiction Book |
 | **German Name** | Sachbuch |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5615,14 +5615,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-196" class="anchor" id="user-content-project-category-196">project-category-196</a>
+<a href="#project-category-196" id="project-category-196">project-category-196</a>
 
 ## Non-fiction Novel
 
 |||
 |-----------|-----------|
 | **ID** | 196 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-196) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-196`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-196) |
 | **English Name** | Non-fiction Novel |
 | **German Name** | Tatsachenroman |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5638,14 +5638,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-187" class="anchor" id="user-content-project-category-187">project-category-187</a>
+<a href="#project-category-187" id="project-category-187">project-category-187</a>
 
 ## Non-fictional Literature
 
 |||
 |-----------|-----------|
 | **ID** | 187 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-187) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-187`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-187) |
 | **English Name** | Non-fictional Literature |
 | **German Name** | Nichtfiktionale Literatur |
 | **Parent Project Category** | [Literature](#project-category-150) |
@@ -5662,14 +5662,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-170" class="anchor" id="user-content-project-category-170">project-category-170</a>
+<a href="#project-category-170" id="project-category-170">project-category-170</a>
 
 ## Novel
 
 |||
 |-----------|-----------|
 | **ID** | 170 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-170) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-170`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-170) |
 | **English Name** | Novel |
 | **German Name** | Roman |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5687,14 +5687,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-167" class="anchor" id="user-content-project-category-167">project-category-167</a>
+<a href="#project-category-167" id="project-category-167">project-category-167</a>
 
 ## Novella
 
 |||
 |-----------|-----------|
 | **ID** | 167 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-167) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-167`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-167) |
 | **English Name** | Novella |
 | **German Name** | Novelle |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5712,14 +5712,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-291" class="anchor" id="user-content-project-category-291">project-category-291</a>
+<a href="#project-category-291" id="project-category-291">project-category-291</a>
 
 ## Nude Painting
 
 |||
 |-----------|-----------|
 | **ID** | 291 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-291) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-291`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-291) |
 | **English Name** | Nude Painting |
 | **German Name** | Aktmalerei |
 | **Parent Project Category** | [Painting](#project-category-127) |
@@ -5736,14 +5736,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-152" class="anchor" id="user-content-project-category-152">project-category-152</a>
+<a href="#project-category-152" id="project-category-152">project-category-152</a>
 
 ## One-act Play
 
 |||
 |-----------|-----------|
 | **ID** | 152 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-152) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-152`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-152) |
 | **English Name** | One-act Play |
 | **German Name** | Einakter |
 | **German Synonyms** | Kurzdrama |
@@ -5761,14 +5761,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-41" class="anchor" id="user-content-project-category-41">project-category-41</a>
+<a href="#project-category-41" id="project-category-41">project-category-41</a>
 
 ## Open-Air Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 41 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-41) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-41) |
 | **English Name** | Open-Air Theatre |
 | **German Name** | Freilichttheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -5784,14 +5784,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-279" class="anchor" id="user-content-project-category-279">project-category-279</a>
+<a href="#project-category-279" id="project-category-279">project-category-279</a>
 
 ## Opera
 
 |||
 |-----------|-----------|
 | **ID** | 279 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-279) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-279`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-279) |
 | **English Name** | Opera |
 | **German Name** | Oper |
 | **Parent Project Category** | [Stage Music](#project-category-199) |
@@ -5809,14 +5809,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-232" class="anchor" id="user-content-project-category-232">project-category-232</a>
+<a href="#project-category-232" id="project-category-232">project-category-232</a>
 
 ## Orchestral Music
 
 |||
 |-----------|-----------|
 | **ID** | 232 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-232) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-232`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-232) |
 | **English Name** | Orchestral Music |
 | **German Name** | Orchestermusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5833,14 +5833,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-127" class="anchor" id="user-content-project-category-127">project-category-127</a>
+<a href="#project-category-127" id="project-category-127">project-category-127</a>
 
 ## Painting
 
 |||
 |-----------|-----------|
 | **ID** | 127 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-127) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-127`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-127) |
 | **English Name** | Painting |
 | **German Name** | Malerei |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -5858,14 +5858,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-274" class="anchor" id="user-content-project-category-274">project-category-274</a>
+<a href="#project-category-274" id="project-category-274">project-category-274</a>
 
 ## Panel Discussion
 
 |||
 |-----------|-----------|
 | **ID** | 274 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-274) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-274`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-274) |
 | **English Name** | Panel Discussion |
 | **German Name** | Podiumsdiskussion |
 | **German Synonyms** | Podiumsgespräch |
@@ -5883,14 +5883,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-168" class="anchor" id="user-content-project-category-168">project-category-168</a>
+<a href="#project-category-168" id="project-category-168">project-category-168</a>
 
 ## Parable
 
 |||
 |-----------|-----------|
 | **ID** | 168 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-168) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-168`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-168) |
 | **English Name** | Parable |
 | **German Name** | Parabel |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5908,14 +5908,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-266" class="anchor" id="user-content-project-category-266">project-category-266</a>
+<a href="#project-category-266" id="project-category-266">project-category-266</a>
 
 ## Partner Dance
 
 |||
 |-----------|-----------|
 | **ID** | 266 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-266) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-266`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-266) |
 | **English Name** | Partner Dance |
 | **German Name** | Paartanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -5932,14 +5932,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-98" class="anchor" id="user-content-project-category-98">project-category-98</a>
+<a href="#project-category-98" id="project-category-98">project-category-98</a>
 
 ## Percent for Art
 
 |||
 |-----------|-----------|
 | **ID** | 98 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-98) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-98`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-98) |
 | **English Name** | Percent for Art |
 | **German Name** | Kunst am Bau |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -5956,14 +5956,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-128" class="anchor" id="user-content-project-category-128">project-category-128</a>
+<a href="#project-category-128" id="project-category-128">project-category-128</a>
 
 ## Performance
 
 |||
 |-----------|-----------|
 | **ID** | 128 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-128) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-128`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-128) |
 | **English Name** | Performance |
 | **German Name** | Performance |
 | **German Synonyms** | Aktionskunst,Handlung |
@@ -5982,14 +5982,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-31" class="anchor" id="user-content-project-category-31">project-category-31</a>
+<a href="#project-category-31" id="project-category-31">project-category-31</a>
 
 ## Performing Arts
 
 |||
 |-----------|-----------|
 | **ID** | 31 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-31) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-31) |
 | **English Name** | Performing Arts |
 | **English Synonyms** | Live Arts |
 | **German Name** | Darstellende Kunst |
@@ -6007,14 +6007,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-94" class="anchor" id="user-content-project-category-94">project-category-94</a>
+<a href="#project-category-94" id="project-category-94">project-category-94</a>
 
 ## Photo Installation
 
 |||
 |-----------|-----------|
 | **ID** | 94 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-94) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-94`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-94) |
 | **English Name** | Photo Installation |
 | **German Name** | Fotoinstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -6031,14 +6031,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-121" class="anchor" id="user-content-project-category-121">project-category-121</a>
+<a href="#project-category-121" id="project-category-121">project-category-121</a>
 
 ## Photo Installation
 
 |||
 |-----------|-----------|
 | **ID** | 121 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-121) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-121`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-121) |
 | **English Name** | Photo Installation |
 | **German Name** | Fotoinstallation |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -6055,14 +6055,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-119" class="anchor" id="user-content-project-category-119">project-category-119</a>
+<a href="#project-category-119" id="project-category-119">project-category-119</a>
 
 ## Photobook
 
 |||
 |-----------|-----------|
 | **ID** | 119 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-119) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-119`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-119) |
 | **English Name** | Photobook |
 | **English Synonyms** | Photo-Book,Photo Book |
 | **German Name** | Fotobuch |
@@ -6081,14 +6081,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-120" class="anchor" id="user-content-project-category-120">project-category-120</a>
+<a href="#project-category-120" id="project-category-120">project-category-120</a>
 
 ## Photogrammetry
 
 |||
 |-----------|-----------|
 | **ID** | 120 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-120) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-120`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-120) |
 | **English Name** | Photogrammetry |
 | **German Name** | Fotogrammetrie |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -6106,14 +6106,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-21" class="anchor" id="user-content-project-category-21">project-category-21</a>
+<a href="#project-category-21" id="project-category-21">project-category-21</a>
 
 ## Photogrammetry
 
 |||
 |-----------|-----------|
 | **ID** | 21 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-21) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-21) |
 | **English Name** | Photogrammetry |
 | **German Name** | Fotogrammetrie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -6131,14 +6131,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-18" class="anchor" id="user-content-project-category-18">project-category-18</a>
+<a href="#project-category-18" id="project-category-18">project-category-18</a>
 
 ## Photography
 
 |||
 |-----------|-----------|
 | **ID** | 18 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-18) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-18) |
 | **English Name** | Photography |
 | **German Name** | Fotografie |
 | **Parent Project Category** | [Applied Arts](#project-category-5) |
@@ -6156,14 +6156,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-22" class="anchor" id="user-content-project-category-22">project-category-22</a>
+<a href="#project-category-22" id="project-category-22">project-category-22</a>
 
 ## Photojournalism
 
 |||
 |-----------|-----------|
 | **ID** | 22 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-22) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-22) |
 | **English Name** | Photojournalism |
 | **German Name** | Fotojournalismus |
 | **German Synonyms** | Bildjournalismus,Bildpublizistik,Bildberichterstattung |
@@ -6182,14 +6182,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-48" class="anchor" id="user-content-project-category-48">project-category-48</a>
+<a href="#project-category-48" id="project-category-48">project-category-48</a>
 
 ## Physical Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 48 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-48) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-48) |
 | **English Name** | Physical Theatre |
 | **German Name** | Physical Theatre |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6205,14 +6205,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-3" class="anchor" id="user-content-project-category-3">project-category-3</a>
+<a href="#project-category-3" id="project-category-3">project-category-3</a>
 
 ## Podcast
 
 |||
 |-----------|-----------|
 | **ID** | 3 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-3) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-3) |
 | **English Name** | Podcast |
 | **German Name** | Podcast |
 | **Parent Project Category** | [Academic Publication](#project-category-1) |
@@ -6230,14 +6230,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-114" class="anchor" id="user-content-project-category-114">project-category-114</a>
+<a href="#project-category-114" id="project-category-114">project-category-114</a>
 
 ## Podcast
 
 |||
 |-----------|-----------|
 | **ID** | 114 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-114) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-114`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-114) |
 | **English Name** | Podcast |
 | **German Name** | Podcast |
 | **Parent Project Category** | [Artist's Publication](#project-category-111) |
@@ -6255,14 +6255,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-178" class="anchor" id="user-content-project-category-178">project-category-178</a>
+<a href="#project-category-178" id="project-category-178">project-category-178</a>
 
 ## Poem
 
 |||
 |-----------|-----------|
 | **ID** | 178 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-178) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-178`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-178) |
 | **English Name** | Poem |
 | **German Name** | Gedicht |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -6279,14 +6279,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-173" class="anchor" id="user-content-project-category-173">project-category-173</a>
+<a href="#project-category-173" id="project-category-173">project-category-173</a>
 
 ## Poetry
 
 |||
 |-----------|-----------|
 | **ID** | 173 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-173) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-173`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-173) |
 | **English Name** | Poetry |
 | **German Name** | Lyrik |
 | **German Synonyms** | Poesie |
@@ -6305,14 +6305,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-179" class="anchor" id="user-content-project-category-179">project-category-179</a>
+<a href="#project-category-179" id="project-category-179">project-category-179</a>
 
 ## Poetry Collection
 
 |||
 |-----------|-----------|
 | **ID** | 179 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-179) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-179`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-179) |
 | **English Name** | Poetry Collection |
 | **German Name** | Gedichtsammlung |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -6328,14 +6328,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-49" class="anchor" id="user-content-project-category-49">project-category-49</a>
+<a href="#project-category-49" id="project-category-49">project-category-49</a>
 
 ## Political Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 49 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-49) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-49) |
 | **English Name** | Political Theatre |
 | **German Name** | Politisches Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6352,14 +6352,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-243" class="anchor" id="user-content-project-category-243">project-category-243</a>
+<a href="#project-category-243" id="project-category-243">project-category-243</a>
 
 ## Pop
 
 |||
 |-----------|-----------|
 | **ID** | 243 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-243) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-243`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-243) |
 | **English Name** | Pop |
 | **German Name** | Pop |
 | **German Synonyms** | Popmusik |
@@ -6377,14 +6377,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-265" class="anchor" id="user-content-project-category-265">project-category-265</a>
+<a href="#project-category-265" id="project-category-265">project-category-265</a>
 
 ## Poplular Dance
 
 |||
 |-----------|-----------|
 | **ID** | 265 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-265) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-265`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-265) |
 | **English Name** | Poplular Dance |
 | **German Name** | Modetanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -6401,14 +6401,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-233" class="anchor" id="user-content-project-category-233">project-category-233</a>
+<a href="#project-category-233" id="project-category-233">project-category-233</a>
 
 ## Popular Music
 
 |||
 |-----------|-----------|
 | **ID** | 233 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-233) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-233`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-233) |
 | **English Name** | Popular Music |
 | **German Name** | Popularmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -6424,14 +6424,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-283" class="anchor" id="user-content-project-category-283">project-category-283</a>
+<a href="#project-category-283" id="project-category-283">project-category-283</a>
 
 ## Portrait
 
 |||
 |-----------|-----------|
 | **ID** | 283 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-283) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-283`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-283) |
 | **English Name** | Portrait |
 | **English Synonyms** | Portrait Painting |
 | **German Name** | Portrait |
@@ -6451,14 +6451,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-26" class="anchor" id="user-content-project-category-26">project-category-26</a>
+<a href="#project-category-26" id="project-category-26">project-category-26</a>
 
 ## Portrait Photography
 
 |||
 |-----------|-----------|
 | **ID** | 26 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-26) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-26) |
 | **English Name** | Portrait Photography |
 | **German Name** | Porträtfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -6476,14 +6476,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-50" class="anchor" id="user-content-project-category-50">project-category-50</a>
+<a href="#project-category-50" id="project-category-50">project-category-50</a>
 
 ## Postdramatic Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 50 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-50) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-50) |
 | **English Name** | Postdramatic Theatre |
 | **German Name** | Postdramatisches Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6500,14 +6500,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-51" class="anchor" id="user-content-project-category-51">project-category-51</a>
+<a href="#project-category-51" id="project-category-51">project-category-51</a>
 
 ## Postmodern Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 51 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-51) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-51) |
 | **English Name** | Postmodern Theatre |
 | **German Name** | Postmodernes Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6523,14 +6523,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-278" class="anchor" id="user-content-project-category-278">project-category-278</a>
+<a href="#project-category-278" id="project-category-278">project-category-278</a>
 
 ## Presentation
 
 |||
 |-----------|-----------|
 | **ID** | 278 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-278) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-278`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-278) |
 | **English Name** | Presentation |
 | **German Name** | Vortrag |
 | **German Synonyms** | Referat,Präsentation |
@@ -6549,14 +6549,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-149" class="anchor" id="user-content-project-category-149">project-category-149</a>
+<a href="#project-category-149" id="project-category-149">project-category-149</a>
 
 ## Printmaking
 
 |||
 |-----------|-----------|
 | **ID** | 149 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-149) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-149`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-149) |
 | **English Name** | Printmaking |
 | **German Name** | Druckgrafik |
 | **German Synonyms** | Grafik |
@@ -6575,14 +6575,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-27" class="anchor" id="user-content-project-category-27">project-category-27</a>
+<a href="#project-category-27" id="project-category-27">project-category-27</a>
 
 ## Product Photography
 
 |||
 |-----------|-----------|
 | **ID** | 27 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-27) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-27) |
 | **English Name** | Product Photography |
 | **German Name** | Produktfotografie |
 | **German Synonyms** | Sachfotografie |
@@ -6600,14 +6600,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-224" class="anchor" id="user-content-project-category-224">project-category-224</a>
+<a href="#project-category-224" id="project-category-224">project-category-224</a>
 
 ## Progressive Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 224 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-224) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-224`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-224) |
 | **English Name** | Progressive Jazz |
 | **German Name** | Progressive Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -6623,14 +6623,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-140" class="anchor" id="user-content-project-category-140">project-category-140</a>
+<a href="#project-category-140" id="project-category-140">project-category-140</a>
 
 ## Projection Mapping
 
 |||
 |-----------|-----------|
 | **ID** | 140 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-140) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-140`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-140) |
 | **English Name** | Projection Mapping |
 | **German Name** | Projektionsmapping |
 | **German Synonyms** | Videomapping |
@@ -6647,14 +6647,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-99" class="anchor" id="user-content-project-category-99">project-category-99</a>
+<a href="#project-category-99" id="project-category-99">project-category-99</a>
 
 ## Public Art
 
 |||
 |-----------|-----------|
 | **ID** | 99 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-99) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-99`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-99) |
 | **English Name** | Public Art |
 | **German Name** | Kunst im öffentlichen Raum |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -6672,14 +6672,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-244" class="anchor" id="user-content-project-category-244">project-category-244</a>
+<a href="#project-category-244" id="project-category-244">project-category-244</a>
 
 ## Punk
 
 |||
 |-----------|-----------|
 | **ID** | 244 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-244) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-244`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-244) |
 | **English Name** | Punk |
 | **German Name** | Punk |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -6696,14 +6696,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-40" class="anchor" id="user-content-project-category-40">project-category-40</a>
+<a href="#project-category-40" id="project-category-40">project-category-40</a>
 
 ## Puppetry Arts
 
 |||
 |-----------|-----------|
 | **ID** | 40 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-40) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-40) |
 | **English Name** | Puppetry Arts |
 | **German Name** | Figurentheater |
 | **German Synonyms** | Puppentheater, Puppenspiel |
@@ -6721,14 +6721,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-282" class="anchor" id="user-content-project-category-282">project-category-282</a>
+<a href="#project-category-282" id="project-category-282">project-category-282</a>
 
 ## Radio Programme
 
 |||
 |-----------|-----------|
 | **ID** | 282 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-282) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-282`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-282) |
 | **English Name** | Radio Programme |
 | **English Synonyms** | Radio Show,Radio Program |
 | **German Name** | Radiosendung |
@@ -6748,14 +6748,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-225" class="anchor" id="user-content-project-category-225">project-category-225</a>
+<a href="#project-category-225" id="project-category-225">project-category-225</a>
 
 ## Ragtime
 
 |||
 |-----------|-----------|
 | **ID** | 225 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-225) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-225`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-225) |
 | **English Name** | Ragtime |
 | **German Name** | Ragtime |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -6772,14 +6772,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-186" class="anchor" id="user-content-project-category-186">project-category-186</a>
+<a href="#project-category-186" id="project-category-186">project-category-186</a>
 
 ## Reference Work
 
 |||
 |-----------|-----------|
 | **ID** | 186 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-186) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-186`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-186) |
 | **English Name** | Reference Work |
 | **English Synonyms** | Reference Book |
 | **German Name** | Nachschlagewerk |
@@ -6798,14 +6798,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-246" class="anchor" id="user-content-project-category-246">project-category-246</a>
+<a href="#project-category-246" id="project-category-246">project-category-246</a>
 
 ## Reggae
 
 |||
 |-----------|-----------|
 | **ID** | 246 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-246) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-246`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-246) |
 | **English Name** | Reggae |
 | **German Name** | Reggae |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -6822,14 +6822,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-70" class="anchor" id="user-content-project-category-70">project-category-70</a>
+<a href="#project-category-70" id="project-category-70">project-category-70</a>
 
 ## Reportage
 
 |||
 |-----------|-----------|
 | **ID** | 70 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-70) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-70`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-70) |
 | **English Name** | Reportage |
 | **German Name** | Reportage |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -6846,14 +6846,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-169" class="anchor" id="user-content-project-category-169">project-category-169</a>
+<a href="#project-category-169" id="project-category-169">project-category-169</a>
 
 ## Reportage
 
 |||
 |-----------|-----------|
 | **ID** | 169 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-169) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-169`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-169) |
 | **English Name** | Reportage |
 | **German Name** | Reportage |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -6870,14 +6870,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-247" class="anchor" id="user-content-project-category-247">project-category-247</a>
+<a href="#project-category-247" id="project-category-247">project-category-247</a>
 
 ## Rock
 
 |||
 |-----------|-----------|
 | **ID** | 247 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-247) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-247`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-247) |
 | **English Name** | Rock |
 | **German Name** | Rock |
 | **German Synonyms** | Rockmusik |
@@ -6895,14 +6895,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-248" class="anchor" id="user-content-project-category-248">project-category-248</a>
+<a href="#project-category-248" id="project-category-248">project-category-248</a>
 
 ## Rock and Roll
 
 |||
 |-----------|-----------|
 | **ID** | 248 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-248) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-248`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-248) |
 | **English Name** | Rock and Roll |
 | **German Name** | Rock and Roll |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -6919,14 +6919,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-245" class="anchor" id="user-content-project-category-245">project-category-245</a>
+<a href="#project-category-245" id="project-category-245">project-category-245</a>
 
 ## Rythm and Blues
 
 |||
 |-----------|-----------|
 | **ID** | 245 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-245) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-245`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-245) |
 | **English Name** | Rythm and Blues |
 | **English Synonyms** | Rhythm & Blues,R&B,R ’n’ B,RnB,R'n'B |
 | **German Name** | Rythm and Blues |
@@ -6945,14 +6945,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-204" class="anchor" id="user-content-project-category-204">project-category-204</a>
+<a href="#project-category-204" id="project-category-204">project-category-204</a>
 
 ## Sacred Music
 
 |||
 |-----------|-----------|
 | **ID** | 204 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-204) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-204`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-204) |
 | **English Name** | Sacred Music |
 | **German Name** | Geistliche Musik |
 | **German Synonyms** | Kirchenmusik,sakrale Musik,Sakralmusik,religiöse Musik,Religious Music |
@@ -6970,14 +6970,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-171" class="anchor" id="user-content-project-category-171">project-category-171</a>
+<a href="#project-category-171" id="project-category-171">project-category-171</a>
 
 ## Satire
 
 |||
 |-----------|-----------|
 | **ID** | 171 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-171) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-171`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-171) |
 | **English Name** | Satire |
 | **German Name** | Satire |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -6995,14 +6995,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-249" class="anchor" id="user-content-project-category-249">project-category-249</a>
+<a href="#project-category-249" id="project-category-249">project-category-249</a>
 
 ## Schlager
 
 |||
 |-----------|-----------|
 | **ID** | 249 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-249) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-249`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-249) |
 | **English Name** | Schlager |
 | **German Name** | Schlager |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -7019,14 +7019,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-60" class="anchor" id="user-content-project-category-60">project-category-60</a>
+<a href="#project-category-60" id="project-category-60">project-category-60</a>
 
 ## Screenplay
 
 |||
 |-----------|-----------|
 | **ID** | 60 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-60) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-60`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-60) |
 | **English Name** | Screenplay |
 | **English Synonyms** | Film Script |
 | **German Name** | Drehbuch |
@@ -7045,14 +7045,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-162" class="anchor" id="user-content-project-category-162">project-category-162</a>
+<a href="#project-category-162" id="project-category-162">project-category-162</a>
 
 ## Screenplay
 
 |||
 |-----------|-----------|
 | **ID** | 162 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-162) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-162`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-162) |
 | **English Name** | Screenplay |
 | **English Synonyms** | Film Script |
 | **German Name** | Drehbuch |
@@ -7071,14 +7071,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-135" class="anchor" id="user-content-project-category-135">project-category-135</a>
+<a href="#project-category-135" id="project-category-135">project-category-135</a>
 
 ## Sculpture
 
 |||
 |-----------|-----------|
 | **ID** | 135 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-135) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-135`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-135) |
 | **English Name** | Sculpture |
 | **German Name** | Skulptur |
 | **German Synonyms** | Plastik,Bildhauerkunst,Bildhauerei,Objekt,Objektkunst |
@@ -7097,14 +7097,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-258" class="anchor" id="user-content-project-category-258">project-category-258</a>
+<a href="#project-category-258" id="project-category-258">project-category-258</a>
 
 ## Secular Music
 
 |||
 |-----------|-----------|
 | **ID** | 258 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-258) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-258`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-258) |
 | **English Name** | Secular Music |
 | **German Name** | Weltliche Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7121,14 +7121,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-194" class="anchor" id="user-content-project-category-194">project-category-194</a>
+<a href="#project-category-194" id="project-category-194">project-category-194</a>
 
 ## Self-help Book
 
 |||
 |-----------|-----------|
 | **ID** | 194 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-194) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-194`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-194) |
 | **English Name** | Self-help Book |
 | **German Name** | Ratgeber |
 | **German Synonyms** | Selbsthilfeliteratur |
@@ -7146,14 +7146,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-59" class="anchor" id="user-content-project-category-59">project-category-59</a>
+<a href="#project-category-59" id="project-category-59">project-category-59</a>
 
 ## Short Documentary Film
 
 |||
 |-----------|-----------|
 | **ID** | 59 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-59) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-59`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-59) |
 | **English Name** | Short Documentary Film |
 | **German Name** | Kurz-Dokumentarfilm |
 | **Parent Project Category** | [Documentary Film](#project-category-58) |
@@ -7170,14 +7170,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-73" class="anchor" id="user-content-project-category-73">project-category-73</a>
+<a href="#project-category-73" id="project-category-73">project-category-73</a>
 
 ## Short Film
 
 |||
 |-----------|-----------|
 | **ID** | 73 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-73) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-73`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-73) |
 | **English Name** | Short Film |
 | **German Name** | Kurzspielfilm |
 | **German Synonyms** | Kurzfilm |
@@ -7196,14 +7196,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-165" class="anchor" id="user-content-project-category-165">project-category-165</a>
+<a href="#project-category-165" id="project-category-165">project-category-165</a>
 
 ## Short Story
 
 |||
 |-----------|-----------|
 | **ID** | 165 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-165) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-165`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-165) |
 | **English Name** | Short Story |
 | **German Name** | Kurzgeschichte |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -7221,14 +7221,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-250" class="anchor" id="user-content-project-category-250">project-category-250</a>
+<a href="#project-category-250" id="project-category-250">project-category-250</a>
 
 ## Singer-Songwriter
 
 |||
 |-----------|-----------|
 | **ID** | 250 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-250) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-250`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-250) |
 | **English Name** | Singer-Songwriter |
 | **German Name** | Singer/Songwriter/Liedermacher |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -7244,14 +7244,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-251" class="anchor" id="user-content-project-category-251">project-category-251</a>
+<a href="#project-category-251" id="project-category-251">project-category-251</a>
 
 ## Ska
 
 |||
 |-----------|-----------|
 | **ID** | 251 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-251) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-251`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-251) |
 | **English Name** | Ska |
 | **German Name** | Ska |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -7268,14 +7268,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-226" class="anchor" id="user-content-project-category-226">project-category-226</a>
+<a href="#project-category-226" id="project-category-226">project-category-226</a>
 
 ## Smooth Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 226 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-226) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-226`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-226) |
 | **English Name** | Smooth Jazz |
 | **German Name** | Smooth Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -7291,14 +7291,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-89" class="anchor" id="user-content-project-category-89">project-category-89</a>
+<a href="#project-category-89" id="project-category-89">project-category-89</a>
 
 ## Software
 
 |||
 |-----------|-----------|
 | **ID** | 89 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-89) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-89`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-89) |
 | **English Name** | Software |
 | **German Name** | Software |
 | **German Synonyms** | Softwarekunst |
@@ -7315,14 +7315,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-268" class="anchor" id="user-content-project-category-268">project-category-268</a>
+<a href="#project-category-268" id="project-category-268">project-category-268</a>
 
 ## Solo Dance
 
 |||
 |-----------|-----------|
 | **ID** | 268 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-268) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-268`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-268) |
 | **English Name** | Solo Dance |
 | **German Name** | Solotanz |
 | **German Synonyms** | Einzeltanz |
@@ -7340,14 +7340,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-252" class="anchor" id="user-content-project-category-252">project-category-252</a>
+<a href="#project-category-252" id="project-category-252">project-category-252</a>
 
 ## Solo Music
 
 |||
 |-----------|-----------|
 | **ID** | 252 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-252) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-252`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-252) |
 | **English Name** | Solo Music |
 | **German Name** | Solomusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7363,14 +7363,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-185" class="anchor" id="user-content-project-category-185">project-category-185</a>
+<a href="#project-category-185" id="project-category-185">project-category-185</a>
 
 ## Song Lyrics
 
 |||
 |-----------|-----------|
 | **ID** | 185 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-185) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-185`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-185) |
 | **English Name** | Song Lyrics |
 | **German Name** | Songtext |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -7387,14 +7387,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-102" class="anchor" id="user-content-project-category-102">project-category-102</a>
+<a href="#project-category-102" id="project-category-102">project-category-102</a>
 
 ## Sound Art
 
 |||
 |-----------|-----------|
 | **ID** | 102 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-102) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-102`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-102) |
 | **English Name** | Sound Art |
 | **German Name** | Klangkunst |
 | **German Synonyms** | Klang |
@@ -7413,14 +7413,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-14" class="anchor" id="user-content-project-category-14">project-category-14</a>
+<a href="#project-category-14" id="project-category-14">project-category-14</a>
 
 ## Sound Design
 
 |||
 |-----------|-----------|
 | **ID** | 14 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-14) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-14) |
 | **English Name** | Sound Design |
 | **German Name** | Sound-Design |
 | **German Synonyms** | Tongestaltung |
@@ -7438,14 +7438,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-97" class="anchor" id="user-content-project-category-97">project-category-97</a>
+<a href="#project-category-97" id="project-category-97">project-category-97</a>
 
 ## Sound Installation
 
 |||
 |-----------|-----------|
 | **ID** | 97 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-97) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-97`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-97) |
 | **English Name** | Sound Installation |
 | **German Name** | Klanginstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -7462,14 +7462,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-106" class="anchor" id="user-content-project-category-106">project-category-106</a>
+<a href="#project-category-106" id="project-category-106">project-category-106</a>
 
 ## Sound Installation
 
 |||
 |-----------|-----------|
 | **ID** | 106 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-106) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-106`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-106) |
 | **English Name** | Sound Installation |
 | **German Name** | Klanginstallation |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -7486,14 +7486,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-183" class="anchor" id="user-content-project-category-183">project-category-183</a>
+<a href="#project-category-183" id="project-category-183">project-category-183</a>
 
 ## Sound Poetry
 
 |||
 |-----------|-----------|
 | **ID** | 183 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-183) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-183`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-183) |
 | **English Name** | Sound Poetry |
 | **German Name** | Lautgedicht |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -7511,14 +7511,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-107" class="anchor" id="user-content-project-category-107">project-category-107</a>
+<a href="#project-category-107" id="project-category-107">project-category-107</a>
 
 ## Sound Sculpture
 
 |||
 |-----------|-----------|
 | **ID** | 107 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-107) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-107`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-107) |
 | **English Name** | Sound Sculpture |
 | **German Name** | Klangobjekt |
 | **German Synonyms** | Akustische Skulptur |
@@ -7537,14 +7537,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-110" class="anchor" id="user-content-project-category-110">project-category-110</a>
+<a href="#project-category-110" id="project-category-110">project-category-110</a>
 
 ## Soundtrack
 
 |||
 |-----------|-----------|
 | **ID** | 110 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-110) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-110`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-110) |
 | **English Name** | Soundtrack |
 | **German Name** | Soundtrack |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -7562,14 +7562,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-253" class="anchor" id="user-content-project-category-253">project-category-253</a>
+<a href="#project-category-253" id="project-category-253">project-category-253</a>
 
 ## Soundtrack
 
 |||
 |-----------|-----------|
 | **ID** | 253 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-253) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-253`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-253) |
 | **English Name** | Soundtrack |
 | **German Name** | Soundtrack |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7587,14 +7587,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-71" class="anchor" id="user-content-project-category-71">project-category-71</a>
+<a href="#project-category-71" id="project-category-71">project-category-71</a>
 
 ## Soundtrack
 
 |||
 |-----------|-----------|
 | **ID** | 71 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-71) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-71`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-71) |
 | **English Name** | Soundtrack |
 | **German Name** | Soundtrack |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -7612,14 +7612,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-275" class="anchor" id="user-content-project-category-275">project-category-275</a>
+<a href="#project-category-275" id="project-category-275">project-category-275</a>
 
 ## Speech
 
 |||
 |-----------|-----------|
 | **ID** | 275 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-275) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-275`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-275) |
 | **English Name** | Speech |
 | **English Synonyms** | Oration,Address |
 | **German Name** | Rede |
@@ -7639,14 +7639,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-53" class="anchor" id="user-content-project-category-53">project-category-53</a>
+<a href="#project-category-53" id="project-category-53">project-category-53</a>
 
 ## Spoken Drama
 
 |||
 |-----------|-----------|
 | **ID** | 53 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-53) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-53) |
 | **English Name** | Spoken Drama |
 | **English Synonyms** | Drama,Common Theatre |
 | **German Name** | Sprechtheater |
@@ -7665,14 +7665,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-199" class="anchor" id="user-content-project-category-199">project-category-199</a>
+<a href="#project-category-199" id="project-category-199">project-category-199</a>
 
 ## Stage Music
 
 |||
 |-----------|-----------|
 | **ID** | 199 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-199) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-199`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-199) |
 | **English Name** | Stage Music |
 | **German Name** | Bühnenmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7689,14 +7689,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-23" class="anchor" id="user-content-project-category-23">project-category-23</a>
+<a href="#project-category-23" id="project-category-23">project-category-23</a>
 
 ## Staged Photography
 
 |||
 |-----------|-----------|
 | **ID** | 23 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-23) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-23) |
 | **English Name** | Staged Photography |
 | **German Name** | Inszenierte Fotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -7713,14 +7713,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-122" class="anchor" id="user-content-project-category-122">project-category-122</a>
+<a href="#project-category-122" id="project-category-122">project-category-122</a>
 
 ## Staged Photography
 
 |||
 |-----------|-----------|
 | **ID** | 122 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-122) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-122`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-122) |
 | **English Name** | Staged Photography |
 | **German Name** | Inszenierte Fotografie |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -7737,14 +7737,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-285" class="anchor" id="user-content-project-category-285">project-category-285</a>
+<a href="#project-category-285" id="project-category-285">project-category-285</a>
 
 ## Still Life
 
 |||
 |-----------|-----------|
 | **ID** | 285 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-285) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-285`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-285) |
 | **English Name** | Still Life |
 | **English Synonyms** | Still-Life Art |
 | **German Name** | Stilleben |
@@ -7763,14 +7763,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-270" class="anchor" id="user-content-project-category-270">project-category-270</a>
+<a href="#project-category-270" id="project-category-270">project-category-270</a>
 
 ## Street Dance
 
 |||
 |-----------|-----------|
 | **ID** | 270 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-270) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-270`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-270) |
 | **English Name** | Street Dance |
 | **English Synonyms** | Breakdance |
 | **German Name** | Streetdance |
@@ -7789,14 +7789,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-52" class="anchor" id="user-content-project-category-52">project-category-52</a>
+<a href="#project-category-52" id="project-category-52">project-category-52</a>
 
 ## Street Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 52 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-52) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-52) |
 | **English Name** | Street Theatre |
 | **German Name** | Straßentheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -7814,14 +7814,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-227" class="anchor" id="user-content-project-category-227">project-category-227</a>
+<a href="#project-category-227" id="project-category-227">project-category-227</a>
 
 ## Swing
 
 |||
 |-----------|-----------|
 | **ID** | 227 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-227) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-227`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-227) |
 | **English Name** | Swing |
 | **German Name** | Swing |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -7838,14 +7838,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-75" class="anchor" id="user-content-project-category-75">project-category-75</a>
+<a href="#project-category-75" id="project-category-75">project-category-75</a>
 
 ## Television Programme
 
 |||
 |-----------|-----------|
 | **ID** | 75 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-75) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-75`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-75) |
 | **English Name** | Television Programme |
 | **English Synonyms** | TV Program,TV Show,Television Program |
 | **German Name** | TV-Format |
@@ -7865,14 +7865,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-15" class="anchor" id="user-content-project-category-15">project-category-15</a>
+<a href="#project-category-15" id="project-category-15">project-category-15</a>
 
 ## Textile Design
 
 |||
 |-----------|-----------|
 | **ID** | 15 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-15) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-15) |
 | **English Name** | Textile Design |
 | **German Name** | Textildesign |
 | **Parent Project Category** | [Design](#project-category-7) |
@@ -7890,14 +7890,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-32" class="anchor" id="user-content-project-category-32">project-category-32</a>
+<a href="#project-category-32" id="project-category-32">project-category-32</a>
 
 ## Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 32 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-32) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-32) |
 | **English Name** | Theatre |
 | **German Name** | Theater |
 | **Parent Project Category** | [Performing Arts](#project-category-31) |
@@ -7915,14 +7915,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-33" class="anchor" id="user-content-project-category-33">project-category-33</a>
+<a href="#project-category-33" id="project-category-33">project-category-33</a>
 
 ## Theatre of the Absurd
 
 |||
 |-----------|-----------|
 | **ID** | 33 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-33) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-33) |
 | **English Name** | Theatre of the Absurd |
 | **German Name** | Absurdes Theater |
 | **German Synonyms** | Antitheater,Absurdes Drama |
@@ -7940,14 +7940,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-28" class="anchor" id="user-content-project-category-28">project-category-28</a>
+<a href="#project-category-28" id="project-category-28">project-category-28</a>
 
 ## Theatrical Photography
 
 |||
 |-----------|-----------|
 | **ID** | 28 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-28) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-28) |
 | **English Name** | Theatrical Photography |
 | **German Name** | Theaterfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -7964,14 +7964,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-160" class="anchor" id="user-content-project-category-160">project-category-160</a>
+<a href="#project-category-160" id="project-category-160">project-category-160</a>
 
 ## Tragedy
 
 |||
 |-----------|-----------|
 | **ID** | 160 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-160) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-160`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-160) |
 | **English Name** | Tragedy |
 | **German Name** | Tragödie |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -7989,14 +7989,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-16" class="anchor" id="user-content-project-category-16">project-category-16</a>
+<a href="#project-category-16" id="project-category-16">project-category-16</a>
 
 ## Transformation Design
 
 |||
 |-----------|-----------|
 | **ID** | 16 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-16) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-16) |
 | **English Name** | Transformation Design |
 | **German Name** | Transformation Design |
 | **Parent Project Category** | [Design](#project-category-7) |
@@ -8012,14 +8012,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-90" class="anchor" id="user-content-project-category-90">project-category-90</a>
+<a href="#project-category-90" id="project-category-90">project-category-90</a>
 
 ## User Interface
 
 |||
 |-----------|-----------|
 | **ID** | 90 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-90) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-90`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-90) |
 | **English Name** | User Interface |
 | **English Synonyms** | UI,Interface |
 | **German Name** | User Interface |
@@ -8038,14 +8038,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-17" class="anchor" id="user-content-project-category-17">project-category-17</a>
+<a href="#project-category-17" id="project-category-17">project-category-17</a>
 
 ## User Interface Design
 
 |||
 |-----------|-----------|
 | **ID** | 17 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-17) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-17) |
 | **English Name** | User Interface Design |
 | **English Synonyms** | UI Design |
 | **German Name** | User Interface Design |
@@ -8063,14 +8063,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-161" class="anchor" id="user-content-project-category-161">project-category-161</a>
+<a href="#project-category-161" id="project-category-161">project-category-161</a>
 
 ## Verse Drama
 
 |||
 |-----------|-----------|
 | **ID** | 161 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-161) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-161`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-161) |
 | **English Name** | Verse Drama |
 | **German Name** | Versdrama |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -8088,14 +8088,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-138" class="anchor" id="user-content-project-category-138">project-category-138</a>
+<a href="#project-category-138" id="project-category-138">project-category-138</a>
 
 ## Video Art
 
 |||
 |-----------|-----------|
 | **ID** | 138 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-138) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-138`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-138) |
 | **English Name** | Video Art |
 | **German Name** | Videokunst |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -8113,14 +8113,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-141" class="anchor" id="user-content-project-category-141">project-category-141</a>
+<a href="#project-category-141" id="project-category-141">project-category-141</a>
 
 ## Video Essay
 
 |||
 |-----------|-----------|
 | **ID** | 141 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-141) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-141`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-141) |
 | **English Name** | Video Essay |
 | **German Name** | Video-Essay |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -8136,14 +8136,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-101" class="anchor" id="user-content-project-category-101">project-category-101</a>
+<a href="#project-category-101" id="project-category-101">project-category-101</a>
 
 ## Video Installation
 
 |||
 |-----------|-----------|
 | **ID** | 101 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-101) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-101`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-101) |
 | **English Name** | Video Installation |
 | **German Name** | Videoinstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -8160,14 +8160,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-142" class="anchor" id="user-content-project-category-142">project-category-142</a>
+<a href="#project-category-142" id="project-category-142">project-category-142</a>
 
 ## Video Installation
 
 |||
 |-----------|-----------|
 | **ID** | 142 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-142) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-142`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-142) |
 | **English Name** | Video Installation |
 | **German Name** | Videoinstallation |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -8184,14 +8184,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-143" class="anchor" id="user-content-project-category-143">project-category-143</a>
+<a href="#project-category-143" id="project-category-143">project-category-143</a>
 
 ## Video Performance
 
 |||
 |-----------|-----------|
 | **ID** | 143 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-143) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-143`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-143) |
 | **English Name** | Video Performance |
 | **German Name** | Videoperformance |
 | **German Synonyms** | Video-Performance |
@@ -8208,14 +8208,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-144" class="anchor" id="user-content-project-category-144">project-category-144</a>
+<a href="#project-category-144" id="project-category-144">project-category-144</a>
 
 ## Video Sculpture
 
 |||
 |-----------|-----------|
 | **ID** | 144 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-144) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-144`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-144) |
 | **English Name** | Video Sculpture |
 | **German Name** | Videoskulptur |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -8231,14 +8231,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-145" class="anchor" id="user-content-project-category-145">project-category-145</a>
+<a href="#project-category-145" id="project-category-145">project-category-145</a>
 
 ## Virtual Reality
 
 |||
 |-----------|-----------|
 | **ID** | 145 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-145) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-145`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-145) |
 | **English Name** | Virtual Reality |
 | **English Synonyms** | VR |
 | **German Name** | Virtual Reality |
@@ -8258,14 +8258,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-91" class="anchor" id="user-content-project-category-91">project-category-91</a>
+<a href="#project-category-91" id="project-category-91">project-category-91</a>
 
 ## Virtual Reality
 
 |||
 |-----------|-----------|
 | **ID** | 91 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-91) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-91`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-91) |
 | **English Name** | Virtual Reality |
 | **English Synonyms** | VR |
 | **German Name** | Virtual Reality |
@@ -8285,14 +8285,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-257" class="anchor" id="user-content-project-category-257">project-category-257</a>
+<a href="#project-category-257" id="project-category-257">project-category-257</a>
 
 ## Vocal Music
 
 |||
 |-----------|-----------|
 | **ID** | 257 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-257) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-257`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-257) |
 | **English Name** | Vocal Music |
 | **German Name** | Vokalmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -8309,14 +8309,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-92" class="anchor" id="user-content-project-category-92">project-category-92</a>
+<a href="#project-category-92" id="project-category-92">project-category-92</a>
 
 ## Web Series
 
 |||
 |-----------|-----------|
 | **ID** | 92 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-92) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-92`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-92) |
 | **English Name** | Web Series |
 | **English Synonyms** | VLOG,Video Blog,Serial |
 | **German Name** | Webserie |
@@ -8335,14 +8335,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-76" class="anchor" id="user-content-project-category-76">project-category-76</a>
+<a href="#project-category-76" id="project-category-76">project-category-76</a>
 
 ## Web Series
 
 |||
 |-----------|-----------|
 | **ID** | 76 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-76) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-76`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-76) |
 | **English Name** | Web Series |
 | **English Synonyms** | VLOG,Video Blog,Serial |
 | **German Name** | Webserie |
@@ -8361,14 +8361,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-115" class="anchor" id="user-content-project-category-115">project-category-115</a>
+<a href="#project-category-115" id="project-category-115">project-category-115</a>
 
 ## Website
 
 |||
 |-----------|-----------|
 | **ID** | 115 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-115) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-115`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-115) |
 | **English Name** | Website |
 | **German Name** | Webseite |
 | **Parent Project Category** | [Artist's Publication](#project-category-111) |
@@ -8386,14 +8386,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-4" class="anchor" id="user-content-project-category-4">project-category-4</a>
+<a href="#project-category-4" id="project-category-4">project-category-4</a>
 
 ## Website
 
 |||
 |-----------|-----------|
 | **ID** | 4 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-4) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-4) |
 | **English Name** | Website |
 | **German Name** | Webseite |
 | **Parent Project Category** | [Academic Publication](#project-category-1) |
@@ -8411,14 +8411,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-228" class="anchor" id="user-content-project-category-228">project-category-228</a>
+<a href="#project-category-228" id="project-category-228">project-category-228</a>
 
 ## West Coast Jazz
 
 |||
 |-----------|-----------|
 | **ID** | 228 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-228) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-228`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-228) |
 | **English Name** | West Coast Jazz |
 | **German Name** | West Coast Jazz |
 | **German Synonyms** | West-Coast-Jazz |
@@ -8436,14 +8436,14 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 <br/>
 <br/>
 
-<a href="#project-category-44" class="anchor" id="user-content-project-category-44">project-category-44</a>
+<a href="#project-category-44" id="project-category-44">project-category-44</a>
 
 ## Youth Theatre
 
 |||
 |-----------|-----------|
 | **ID** | 44 |
-| **URI** | `https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44`[🔗](https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-categories#project-category-44) |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-44) |
 | **English Name** | Youth Theatre |
 | **German Name** | Jugendtheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
