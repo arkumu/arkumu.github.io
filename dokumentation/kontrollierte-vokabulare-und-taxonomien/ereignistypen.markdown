@@ -7,7 +7,10 @@ permalink: /documentation/controlled-vocabularies/event-types/
 
 ```Event types```
 
+<br/>
+
 ---
+
 <br/>
 
 **Deutsch:**
