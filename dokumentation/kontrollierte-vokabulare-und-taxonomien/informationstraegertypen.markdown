@@ -17,7 +17,7 @@ permalink: /documentation/controlled-vocabularies/information-storage-medium-typ
 
 **Deutsch:**
 
-Informationsträgertypen werden zur Klassifizierung von Informationsträgern verwendet, die wiederum mit Ereignissen verknüpft werden können. Die Einträge zu Video, Film und Audio basieren zum Teil auf den [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Weitere Informationen zu Informationsträgern finden Sie im [Museum of Obsolete Media](https://obsoletemedia.org/), auf [fileformats.archiveteam.org](fileformats.archiveteam.org) sowie auf der [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+Informationsträgertypen werden zur Klassifizierung von Informationsträgern verwendet, die wiederum mit Ereignissen verknüpft werden können. Die Einträge zu Video, Film und Audio basieren zum Teil auf den [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Weitere Informationen zu Informationsträgern finden Sie im [Museum of Obsolete Media](https://obsoletemedia.org/), auf [fileformats.archiveteam.org](https://fileformats.archiveteam.org) sowie auf der [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
 
 <br/>
 
@@ -27,7 +27,7 @@ Informationsträgertypen werden zur Klassifizierung von Informationsträgern ver
 
 **English:**
 
-Information Storage Medium Types are used to classify Information Storage Mediums, which itself can then be connected to Events. The video, film and audio entries are, in part, based on the [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). For further reading on Information Storage Mediums see the [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](fileformats.archiveteam.org), as well as the [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+Information Storage Medium Types are used to classify Information Storage Mediums, which itself can then be connected to Events. The video, film and audio entries are, in part, based on the [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). For further reading on Information Storage Mediums see the [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](https://fileformats.archiveteam.org), as well as the [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
 
 <br/>
 
