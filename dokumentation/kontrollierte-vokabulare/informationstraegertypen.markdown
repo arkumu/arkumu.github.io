@@ -1,9 +1,11 @@
 ---
 layout: arkumu-docs
-title: Informationsträgertypen
+title: ❗ Informationsträgertypen
 order: 3.2.4
 permalink: /documentation/controlled-vocabularies/information-storage-medium-types
 ---
+
+``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Information Storage Medium Types```
 

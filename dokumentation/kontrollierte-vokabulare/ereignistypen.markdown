@@ -1,9 +1,11 @@
 ---
 layout: arkumu-docs
-title: Ereignistypen
+title: ❗ Ereignistypen
 order: 3.2.1
 permalink: /documentation/controlled-vocabularies/event-types
 ---
+
+``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Event types```
 

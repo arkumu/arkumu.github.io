@@ -1,9 +1,11 @@
 ---
 layout: arkumu-docs
-title: Equipmentarten
+title: ❗ Equipmentarten
 order: 3.2.2
 permalink: /documentation/controlled-vocabularies/equipment-types
 ---
+
+``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Equipment Types```
 
