@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
-title: Datenmodell
-order: 3.1
+title: ❗ Datenmodell
+order: 3.1.0
 permalink: /documentation/data-model/
 ---
 
