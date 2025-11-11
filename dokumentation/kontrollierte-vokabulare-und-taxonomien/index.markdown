@@ -1,9 +1,12 @@
 ---
 layout: arkumu-docs
-title: Kontrollierte Vokabulare
+title: ❗ Kontrollierte Vokabulare
 order: 3.2
 permalink: /documentation/controlled-vocabularies/
 ---
+
+``` ❗To-Do: Enthält noch dead links ```
+
 
 ## To-Dos: Links fixen
 
