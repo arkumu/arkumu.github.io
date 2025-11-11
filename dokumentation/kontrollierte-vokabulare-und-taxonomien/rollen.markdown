@@ -61,7 +61,7 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 <tr><td><a href='#role-10'>10</a></td><td><a href='#role-10'>Arrangeur:in</a></td><td><a href='#role-10'>music arranger</a></td></tr>
 <tr><td><a href='#role-11'>11</a></td><td><a href='#role-11'>Arzt/Ärztin</a></td><td><a href='#role-11'>physician</a></td></tr>
 <tr><td><a href='#role-12'>12</a></td><td><a href='#role-12'>Augenarzt/Augenärztin</a></td><td><a href='#role-12'>ophthalmologist</a></td></tr>
-<tr><td><a href='#role-13'>13</a></td><td><a href='#role-13'>Assistent:in</a></td><td><a href='#role-13'>assistent</a></td></tr>
+<tr><td><a href='#role-13'>13</a></td><td><a href='#role-13'>Assistent:in</a></td><td><a href='#role-13'>assistant</a></td></tr>
 <tr><td><a href='#role-14'>14</a></td><td><a href='#role-14'>Aufnahmeexpert:in</a></td><td><a href='#role-14'>recording expert</a></td></tr>
 <tr><td><a href='#role-15'>15</a></td><td><a href='#role-15'>Aufnahmeleiter:in</a></td><td><a href='#role-15'>recording supervisor</a></td></tr>
 <tr><td><a href='#role-16'>16</a></td><td><a href='#role-16'>Tonmeister:in</a></td><td><a href='#role-16'>tonmeister</a></td></tr>
@@ -473,7 +473,7 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 <tr><td><a href='#role-8'>Archäolog:in</a></td><td><a href='#role-8'>archaeologist</a></td><td><a href='#role-8'>8</a></td></tr>
 <tr><td><a href='#role-10'>Arrangeur:in</a></td><td><a href='#role-10'>music arranger</a></td><td><a href='#role-10'>10</a></td></tr>
 <tr><td><a href='#role-11'>Arzt/Ärztin</a></td><td><a href='#role-11'>physician</a></td><td><a href='#role-11'>11</a></td></tr>
-<tr><td><a href='#role-13'>Assistent:in</a></td><td><a href='#role-13'>assistent</a></td><td><a href='#role-13'>13</a></td></tr>
+<tr><td><a href='#role-13'>Assistent:in</a></td><td><a href='#role-13'>assistant</a></td><td><a href='#role-13'>13</a></td></tr>
 <tr><td><a href='#role-14'>Aufnahmeexpert:in</a></td><td><a href='#role-14'>recording expert</a></td><td><a href='#role-14'>14</a></td></tr>
 <tr><td><a href='#role-15'>Aufnahmeleiter:in</a></td><td><a href='#role-15'>recording supervisor</a></td><td><a href='#role-15'>15</a></td></tr>
 <tr><td><a href='#role-17'>Auftraggeber:in</a></td><td><a href='#role-17'>commissioner</a></td><td><a href='#role-17'>17</a></td></tr>
@@ -1306,7 +1306,7 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 <tr><td>[artist](#role-119) > [video artist](#role-323)</td><td><a href='#role-323'>323</a></td></tr>
 <tr><td>[artistic director](#role-234)</td><td><a href='#role-324'>324</a></td></tr>
 <tr><td>[assistant director](#role-196)</td><td><a href='#role-196'>196</a></td></tr>
-<tr><td>[assistent](#role-13)</td><td><a href='#role-13'>13</a></td></tr>
+<tr><td>[assistant](#role-13)</td><td><a href='#role-13'>13</a></td></tr>
 <tr><td>[athlete](#role-355)</td><td><a href='#role-355'>355</a></td></tr>
 <tr><td>[athlete](#role-355) > [martial artist](#role-357)</td><td><a href='#role-357'>357</a></td></tr>
 <tr><td>[athlete](#role-355) > [mountaineer](#role-356)</td><td><a href='#role-356'>356</a></td></tr>
@@ -2370,7 +2370,7 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 
 <a href="#role-13" id="role-13">role-13</a>
 
-## assistent
+## assistant
 
 |||
 |-----------|-----------|
@@ -2378,12 +2378,12 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 | **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-13) |
 | **German Name** | Assistent:in |
 | **German Synonyms** | Assistentin,Assistent |
-| **English Name** | assistent |
+| **English Name** | assistant |
 | **Wikidata ID** | [Q23835475](https://www.wikidata.org/entity/Q23835475) |
 | **GND ID (male)** | [4348052-4](https://d-nb.info/gnd/4348052-4) |
 | **GND ID (female)** | [1077104391](https://d-nb.info/gnd/1077104391) |
 | **German Breadcrumb** | [Assistent:in](#role-13) |
-| **English Breadcrumb** | [assistent](#role-13) |
+| **English Breadcrumb** | [assistant](#role-13) |
 | **Pre-selects "ist Urheber:in" automatically** | ⨉ |
 | **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ⨉ |
 
