@@ -35,9 +35,9 @@ Organisational Units comprise – in the form of a controlled vocabulary – stu
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://docs.arkumu.nrw/assets/documents/Organisational_Units.csv | 2025-11-02 |
-| **Excel** | https://docs.arkumu.nrw/assets/documents/Organisational_Units.xlsx | 2025-11-02 |
-| **PDF** | https://docs.arkumu.nrw/assets/documents/Organisational_Units.pdf | 2025-11-02 |
+| **CSV** | <https://docs.arkumu.nrw/assets/documents/Organisational_Units.csv> | 2025-11-02 |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Organisational_Units.xlsx> | 2025-11-02 |
+| **PDF** | <https://docs.arkumu.nrw/assets/documents/Organisational_Units.pdf> | 2025-11-02 |
 
 <br/>
 
