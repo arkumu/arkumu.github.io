@@ -1,0 +1,14 @@
+ID;URI;English Name;German Name;Wikidata ID
+1;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#bachelor-thesis;Bachelor Thesis;Bachelorarbeit;Q798134
+2;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#diploma-project;Diploma Project;Diplomprojekt;Q30749496
+3;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#research-project;Research Project;Forschungsprojekt;Q1298668
+4;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#autonomous-project;Autonomous Project;Autonomes Projekt;Q124535359
+5;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#master-thesis;Master Thesis;Masterarbeit;Q1907875
+6;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#project-1-khm;Project 1 (KHM);Projekt 1 (KHM);Q123692929
+7;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#project-2-khm;Project 2 (KHM);Projekt 2 (KHM);Q123692947
+8;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#collection-item;Collection Item;Sammlungsobjekt;Q106815942
+9;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#student-project;Student Project;Studentisches Projekt;Q30032131
+10;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#event;Event;Veranstaltung;Q1656682
+11;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#vordiplom;Vordiplom;Vordiplom;Q1227202
+12;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#seminar-project;Seminar Project;Seminarprojekt;Q135995720
+13;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/project-types#doctoral-thesis;Doctoral Thesis;Dissertation;Q187685

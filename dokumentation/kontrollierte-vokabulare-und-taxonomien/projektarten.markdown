@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Projektarten
+title: Projektarten
 order: 3.2.7
 permalink: /documentation/controlled-vocabularies/project-types
 ---
-
-``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Project Types```
 
@@ -37,9 +35,9 @@ Project Types categorise a project in a primarily academic or more general sense
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Project_Types.csv | 2025-10-27 |
-| **Excel** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Project_Types.xlsx | 2025-10-27 |
-| **PDF** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Project_Types.pdf | 2025-10-27 |
+| **CSV** | <https://docs.arkumu.nrw/assets/documents/Project_Types.csv> | 2025-10-27 |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Project_Types.xlsx> | 2025-10-27 |
+| **PDF** | <https://docs.arkumu.nrw/assets/documents/Project_Types.pdf> | 2025-10-27 |
 
 <br/>
 
