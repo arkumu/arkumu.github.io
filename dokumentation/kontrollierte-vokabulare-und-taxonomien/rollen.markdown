@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Rollen
+title: Rollen
 order: 3.2.9
 permalink: /documentation/controlled-vocabularies/roles
 ---
-
-``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Roles```
 
@@ -38,9 +36,9 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Roles.csv | 2025-10-16 |
-| **Excel** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Roles.xlsx | 2025-10-16 |
-| **PDF** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Roles.pdf | 2025-10-16 |
+| **CSV** | <https://docs.arkumu.nrw/assets/documents/Roles.csv> | 2025-10-16 |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Roles.xlsx> | 2025-10-16 |
+| **PDF** | <https://docs.arkumu.nrw/assets/documents/Roles.pdf> | 2025-10-16 |
 
 <br/>
 
