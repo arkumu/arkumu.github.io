@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Organisationeinheiten
+title: Organisationeinheiten
 order: 3.2.6
 permalink: /documentation/controlled-vocabularies/organisational-units
 ---
-
-``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Organisational Units```
 
@@ -37,9 +35,9 @@ Organisational Units comprise – in the form of a controlled vocabulary – stu
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Organisational_Units.csv | 2025-11-02 |
-| **Excel** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Organisational_Units.xlsx | 2025-11-02 |
-| **PDF** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Organisational_Units.pdf | 2025-11-02 |
+| **CSV** | https://docs.arkumu.nrw/assets/documents/Organisational_Units.csv | 2025-11-02 |
+| **Excel** | https://docs.arkumu.nrw/assets/documents/Organisational_Units.xlsx | 2025-11-02 |
+| **PDF** | https://docs.arkumu.nrw/assets/documents/Organisational_Units.pdf | 2025-11-02 |
 
 <br/>
 
