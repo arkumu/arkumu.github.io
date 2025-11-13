@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Projektkategorien
+title: Projektkategorien
 order: 3.2.8
 permalink: /documentation/controlled-vocabularies/project-categories
 ---
-
-``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Project Categories```
 
@@ -37,9 +35,9 @@ Project Caterories typify a Project in a primarily artistic sense. [Project Type
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Project_Categories.csv | 2025-10-27 |
-| **Excel** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Project_Categories.xlsx | 2025-10-27 |
-| **PDF** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Project_Categories.pdf | 2025-10-27 |
+| **CSV** | <https://docs.arkumu.nrw/assets/documents/Project_Categories.csv> | 2025-10-27 |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Project_Categories.xlsx> | 2025-10-27 |
+| **PDF** | <https://docs.arkumu.nrw/assets/documents/Project_Categories.pdf> | 2025-10-27 |
 
 <br/>
 
