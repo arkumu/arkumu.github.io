@@ -38,9 +38,9 @@ Event Types are used to further categorise [**Events**](#event) in arkumu.nrw. I
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | <https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Event_Types.csv> | 2025-10-16 |
-| **Excel** | <https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Event_Types.xlsx> | 2025-10-16 |
-| **PDF** | <https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Event_Types.pdf>  | 2025-10-16 |
+| **CSV** | <https://docs.arkumu.nrw/assets/documents/Event_Types.csv> | 2025-10-16 |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Event_Types.xlsx> | 2025-10-16 |
+| **PDF** | <https://docs.arkumu.nrw/assets/documents/Event_Types.pdf>  | 2025-10-16 |
 
 <br/>
 <br/>

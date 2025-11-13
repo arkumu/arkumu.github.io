@@ -1,0 +1,64 @@
+ID;URI;English Name;English Synonyms;German Name;German Synonyms;Wikidata ID;GND ID;AAT ID;LIDO Terminology ID
+1;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-1;Purchase;;Ankauf;Erwerb;Q1369832;4128692-3;;
+2;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-2;Inaugural Lecture;;Antrittsvorlesung;;Q609261;4426602-9;;
+3;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-3;Arrangement;Musical Arrangement;Arrangement;;Q379755;4285138-5;;
+4;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-4;Performance (Performing Arts);;Aufführung (Darstellende Künste);;Q35140;4143388-9;;lido00030
+5;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-5;Musical Performance;;Aufführung (Musik);Musikaufführung;Q106805967;7502757-4;;lido00030
+6;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-6;Exhibition;;Ausstellung;Kunstausstellung,Gruppenausstellung,Einzelausstellung;Q464980;4129601-1;300054766;lido00225
+7;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-7;Exhibition Opening;Vernissage,Private View,Opening Reception,Gallery Opening,Gallery Reception;Ausstellungseröffnung;Vernissage;Q772257;4435671-7;;
+8;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-8;Award;Prize;Auszeichnung;Ehrung,Preis;Q618779;4338046-3;;
+9;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-9;Commissioning;Order;Beauftragung;Auftrag,Order;Q566889;4003557-8;;lido00226
+10;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-10;Modification;Revision,Edit,Editing,Processing;Bearbeitung;Revision,Umarbeitung,Adaption;Q109243379;4120981-3;;lido00006
+11;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-11;Data Conversion;;Datenkonvertierung;Konvertierung;Q1783551;4138254-7;;
+12;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-12;Digitisation;Retrodigitisation;Digitalisierung;Retrodigitalisierung;Q843958;4123065-6;300202383;
+13;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-13;Design;Designing;Entwurf;Entwerfen,Gestaltung;Q1519454;4121208-3;300102051;lido00224
+14;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-14;TV Première;First TV Broadcast;Erstausstrahlung;Erstsendung;Q118581977;;;
+15;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-15;Acquisition;Transfer of Legal Ownership,Transfer of Title ;Erwerb;Akquise,Erwerbung,Zugang (Erwerb);Q3604747;4212536-4;300157782;lido00001
+16;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-16;Festival;;Festival;;Q132241;4154198-4;;
+17;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-17;Film Festival;;Filmfestival;Filmfestspiel;Q220505;4359942-4;;
+18;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-18;Film Screening;Screening;Filmvorführung;Vorführung;Q2295790;4196355-6;;
+19;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-19;Electroplating;;Galvanisierung;Galvanotechnik,Galvanische Beschichtung;Q3503392;4129892-5;300054000;
+20;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-20;Guest Performance;;Gast-Performance;Gastspiel;Q40249767;4255674-0;;
+21;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-21;Creation;Conception;Geistige Schöpfung;Begriffliche Schöpfung,Intellektuelle Schöpfung,Konzeptuelle Schöpfung,Künstlerische Schöpfung;Q11398090;;;lido00012
+22;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-22;Production;Manufacturing;Herstellung;Produktion,Fabrikation,Fertigung;Q739302;4159653-5;300054713;lido00007
+23;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-23;Interview;;Interview;Studiogespräch;Q178651;4027503-6;300026392;
+24;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-24;Colloquium;;Kolloquium;;Q4228029;;;
+25;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-25;Concert;;Konzert;Konzertabend;Q182832;4317474-7;;
+26;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-26;Concert Series;Series of Concerts;Konzertreihe;;Q107736918;4432417-0;;
+27;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-27;Master Class;;Meisterklasse;;Q2537465;1033761672;;
+28;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-28;Musical Composition;;Musikalische Komposition;Komposition,Komponieren;Q11895763;4133320-2;;
+29;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-29;Music Festival;;Musikfestival;;Q868557;4170821-0;;
+30;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-30;Performance;;Performance;Aktion;Q213156;4173750-7;300121445;lido00030
+31;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-31;Planning;;Planung;;Q309100;4046235-3 ;300054425;lido00032
+32;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-32;Panel Discussion;;Podiumsdiskussion;Podiumsgespräch;Q2100278;4614247-2;;
+33;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-33;Award Ceremony;;Preisverleihung;;Q4504495;;;
+34;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-34;Première;;Premiere;Erstaufführung;Q204854;4519367-8;300069101;
+35;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-35;Rehearsal;;Probe;;Q1751775;7660069-5;;
+36;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-36;Speech;Oration,Address;Rede;Oration,Ansprache;Q861911;4048882-2;300417595;
+37;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-37;Annual Exhibition;;Rundgang;Jahresausstellung;Q55336815;;300311622;
+38;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-38;Editing (Film/TV/Video);;Schnitt;Montage;Q237893;4281773-0;;
+39;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-39;Graduation;;Studienabschluss;Hochschulabschluss,Graduierung;Q1054021;4332831-3;;
+40;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-40;Summer School;;Sommerakademie;Sommerschule,Sommerhochschule,Sommeruniversität;Q647882;4331584-7;;
+41;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-41;Conference;Academic Conference,Scientific Conference,Convention;Symposium;Wissenschaftliche Konferenz,Konferenz,Kongress;Q2020153;4032055-8;300054789;
+42;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-42;Thematic Week;Themed Week;Themenwoche;;Q10692570;;;
+43;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-43;Sound Recording;Audio Recording;Tonaufnahme;Tonaufzeichnung,Schallaufnahme,Audioaufzeichnung;Q5057302;4052020-1;300255735;
+44;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-44;Transformation;;Umgestaltung;Umwandlung;Q10357784;4452586-2;;lido00029
+45;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-45;World Première;;Uraufführung;;Q2500107;4236166-7;;
+46;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-46;Radio Première;First Radio Broadcast;Ursendung;Rundfunk-Premiere;Q118581694;;;
+47;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-47;Publishing;Publication;Veröffentlichung;Veröffentlichen;Q3972943;4187925-9;300054686;lido00228
+48;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-48;Marketing;;Vertrieb;Vermarktung;Q39809;4127117-8;300054673;lido00401
+49;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-49;Lecture;Talk;Vorlesung;Lehrveranstaltung;Q603773;4117405-7;300026673;
+50;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-50;Presentation;;Vortrag;Fachvortrag,Präsentation,Buchpräsentation;Q604733;4064035-8;;
+51;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-51;Workshop;;Workshop;;Q27556165;;;
+52;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-52;Destruction;;Zerstörung;Vernichtung;Q17781833;4222882-7;300053087;lido00026
+53;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-53;Mastering;Audio-Mastering;Mastering;Audio-Mastering;Q421031;;;
+54;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-54;Documentation;;Dokumentation;Fotodokumentation;Q788790;4012656-0;300379366;
+55;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-55;Radio Programme;Radio show,Radio broadcast;Radiosendung;Hörfunksendung;Q1555508;4160384-9;300387763;
+56;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-56;Television Programme;TV Programme,TV Broadcast;Fernsehausstrahlung;Fernsehsendung,TV-Sendung;Q15416;4016842-6;300263432;
+57;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-57;Reading;;Lesung;Literarische Lesung;Q106499608;;;
+58;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-58;Translation;;Übersetzung;;Q7553;4061418-9;300069831;
+59;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-59;Conversation;Talk;Gespräch;Unterhaltung;Q52943;4020713-4;;
+60;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-60;Event;Activity;Veranstaltung;;Q1656682;4125453-3;;
+61;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-61;Live Streaming;Live Stream;Live-Streaming;Live-Stream,Echtzeitübertragung,Live Stream,Livestream;Q3027665;4614855-3;;
+62;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-62;Course;Class,Educational Course,Academic Course;Kurs;Lehrveranstaltung;Q600134;4166215-5;;
+63;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/event-types#event-type-63;Open House;;Tag der offenen Tür;TdoT;Q1421331;4193984-0;;
