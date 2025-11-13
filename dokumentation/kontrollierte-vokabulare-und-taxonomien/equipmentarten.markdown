@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Equipmentarten
+title: Equipmentarten
 order: 3.2.2
 permalink: /documentation/controlled-vocabularies/equipment-types
 ---
-
-``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Equipment Types```
 
@@ -38,9 +36,9 @@ Equipment types allow for a rough categorisation of equipment and software that 
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Equipment_Types.csv | 2025-11-02 |
-| **Excel** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Equipment_Types.xlsx | 2025-11-02 |
-| **PDF** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Equipment_Types.pdf | 2025-11-02 |
+| **CSV** | <https://docs.arkumu.nrw/assets/documents/Equipment_Types.csv> | 2025-11-02 |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Equipment_Types.xlsx> | 2025-11-02 |
+| **PDF** | <https://docs.arkumu.nrw/assets/documents/Equipment_Types.pdf> | 2025-11-02 |
 
 <br/>
 

@@ -1,0 +1,59 @@
+ID;URI;English Name;German Name;Wikidata ID;GND ID;AAT ID
+1;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-1;3D Printer;3D-Drucker;Q3834994;1051019354;300391466
+2;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-2;3D Scanner;3D-Scanner;Q1775257;7704418-6;
+3;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-3;Phonograph Needle;Abtastnadel;Q10923110;;300374973
+4;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-4;Video Projector;Beamer;Q275568;4726555-3;
+5;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-5;Printer;Drucker;Q82;4013091-5;300024535
+6;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-6;Flatbed Scanner;Flachbildscanner;Q82744;;
+7;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-7;Photographic Camera;Fotokamera;Q15328;4045869-6;300022636
+8;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-8;Milling Machine;Fräse;Q623106;;300024721
+9;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-9;Loudspeaker;Lautsprecher;Q570;;300250653
+10;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-10;Microphone;Mikrofon;Q46384;4139330-2;300266322
+11;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-11;Mixer;Mischpult;Q654117;4039545-5;300420468
+12;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-12;Musical Instrument;Musikinstrument;Q34379;4040851-6;300041620
+13;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-13;Plug-In;Plug-In;Q184148;4753748-6;
+14;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-14;Sample Library;Samplebibliothek;Q7410139;;
+15;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-15;Server;Server;Q44127;4209324-7;300266043
+16;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-16;Software;Software;Q7397;4055382-6;300028566
+17;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-17;Pickup;Tonabnehmer;Q572648;4185653-3;300421687
+18;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-18;Video Camera;Videokamera;Q313614;4136080-1;300263898
+19;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-19;Preamp;Vorstufe;Q399804;4454584-8;
+20;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-20;VR Headset;VR-Headset;Q19600329;;
+21;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-21;Transducer;Wandler;Q215928;4064541-1;300264909
+22;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-22;Archéophone;Archéophone;Q2860627;;
+23;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-23;Streaming Box;Streaming-Box;Q1427348;1095126237;
+24;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-24;Electronic Visual Display;Bildschirm;Q6021804;4125194-5;
+25;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-25;Single Board Computer;Einplatinencomputer;Q944780;4191878-2;
+26;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-26;Computer;Computer;Q68;4070083-5;
+27;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-27;Microcontroller;Mikrocontroller;Q165678;4127438-6;
+28;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-28;Smartphone;Smartphone;Q22645;4845922-7;
+29;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-29;Internet;Internet;Q75;4308416-3;
+30;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-30;Audio Equipment;Audioequipment;Q15190726;;300387677
+31;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-31;Sound Recording Device;Audiorekorder;Q758891;;
+32;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-32;Information Carrier;Datenträger;Q193395;4351464-9;
+33;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-33;Slide Projector;Diaprojektor;Q846668;4275358-2;300311986
+34;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-34;Digital Media Player;Media Player;Q1567371;;
+35;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-35;Digital Camera;Digitalkamera;Q62927;4519830-5;300266792
+36;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-36;Unmanned Aerial Vehicle;Drohne;Q484000;4332556-7;
+37;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-37;Input Device;Eingabegerät;Q864114;4148867-2;300168267
+38;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-38;Electronic Device;elektronisches Gerät;Q2858615;;
+39;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-39;Movie Camera;Filmkamera;Q335095;4154362-2;300022644
+40;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-40;Additional Camera Equipment;Kamerazubehör;Q131375504;;
+41;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-41;Headphones;Kopfhörer;Q186819;4165262-9;300266751
+42;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-42;Lighting Equipment;Lichtequipment;Q131375480;;
+43;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-43;Objective (Optics);Objektiv;Q3880557;4123864-3;
+44;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-44;Robot;Roboter;Q11012;4050208-9;300391077
+45;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-45;Sensor;Sensor;Q167676;4038824-4;300379784
+46;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-46;Other Equipment;Sonstiges Equipment;Q55107540;;
+47;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-47;Tripod;Stativ;Q1444534;;300164679
+48;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-48;Electric Power Source;Stromquelle;Q1753139;;
+49;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-49;Studio Equipment;Studioequipment;Q131375449;;
+50;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-50;Tablet Computer;Tabletcomputer;Q155972;7602964-5;300387132
+51;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-51;Physical Tool;Werkzeug;Q39546;4065596-9;300024841
+52;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-52;Monitor;Monitor;Q5290;;
+53;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-53;Record Player;Schallplattenspieler;Q17591720;4174890-6;300310108
+54;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-54;Electronic Component;elektronisches Bauelement;Q11653;4014360-0;
+55;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-55;Embroidery Machine;Stickmaschiene;Q1790385;4372998-8;300425090
+56;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-56;Programming Language;Programmiersprache;Q9143;4047409-4;
+57;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-57;Encoder;Encoder;Q42586063;;300425101
+58;https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/wikis/controlled-vocabularies/equipment-types#equipment-type-58;Vision Mixer;Bildmischer;Q860964;;
