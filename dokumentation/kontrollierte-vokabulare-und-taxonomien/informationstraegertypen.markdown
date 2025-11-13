@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Informationsträgertypen
+title: Informationsträgertypen
 order: 3.2.4
 permalink: /documentation/controlled-vocabularies/information-storage-medium-types
 ---
-
-``` ❗To-Do: Herunterladbare Tabellen austauschen ```
 
 ```Information Storage Medium Types```
 
@@ -37,9 +35,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
-| **CSV** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Information_Storage_Medium_Types.csv | 2025-11-03 |
-| **Excel** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Information_Storage_Medium_Types.xlsx | 2025-11-03 |
-| **PDF** | https://gitlab.git.nrw/arkumu/arkumu-exchange-portal/-/blob/main/controlled_vocabularies/Information_Storage_Medium_Types.pdf | 2025-11-03 |
+| **CSV** | https://docs.arkumu.nrw/assets/documents/Information_Storage_Medium_Types.csv | 2025-11-03 |
+| **Excel** | https://docs.arkumu.nrw/assets/documents/Information_Storage_Medium_Types.xlsx | 2025-11-03 |
+| **PDF** | https://docs.arkumu.nrw/assets/documents/Information_Storage_Medium_Types.pdf | 2025-11-03 |
 
 <br/>
 
