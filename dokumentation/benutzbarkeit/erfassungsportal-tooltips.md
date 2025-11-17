@@ -15,7 +15,7 @@ permalink: /documentation/usability/ingest-portal-tooltips
 
 **Deutsch:**
 
-Die folgenden Tooltips wurden in gemeinsamer Arbeit des fachlichen Teams entwickelt und dienen dazu, sowohl für Erstbenutzer:innen wie für erfahre Benutzer:innen gleichermaßen, eine Feld- für Feld-Beschreibung des Datenmodells an die Hand zu geben. Dabei erläutern die Tooltips, wie und in welcher Form die Felder und fachlichen Inhalte zu befüllen und zu verstehen sind, sodass qualitativ hochwertige Metadaten entstehen.
+Die folgenden Tooltips wurden in gemeinsamer Arbeit des fachlichen Teams entwickelt und dienen dazu, für Erstbenutzer:innen wie für erfahrene Benutzer:innen gleichermaßen eine Feld- für Feld-Beschreibung des Datenmodells an die Hand zu geben. Dabei erläutern die Tooltips, wie und in welcher Form die Felder und fachlichen Inhalte zu befüllen und zu verstehen sind, sodass qualitativ hochwertige Metadaten entstehen.
 
 <br/>
 
@@ -25,7 +25,7 @@ Die folgenden Tooltips wurden in gemeinsamer Arbeit des fachlichen Teams entwick
 
 **English:**
 
-The following tooltips were developed in collaborative work by the artistic-archival team and serve to provide both first-time users and experienced users with a practical field-by-field description of the data model. The tooltips explain how and in what form the fields and their content should be filled in and understood in order to produce high-quality metadata.
+The following tooltips were developed collaboratively by the artistic-archival team and serve to provide both first-time users and experienced users with a practical field-by-field description of the data model. The tooltips explain how and in what form the fields and their content should be filled in and understood in order to produce high-quality metadata.
 
 <br/>
 
