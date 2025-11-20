@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: arkumu.nrw Dokumentation
+title: arkumu.nrw Dokumentation und Ressourcen
 order: 0
 ---
 

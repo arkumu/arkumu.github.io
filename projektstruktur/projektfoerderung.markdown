@@ -19,4 +19,4 @@ Zu den Kooperationspartnern innerhalb der Digitalen Hochschule NRW gehören unte
 
 Diese und andere Kooperationen wie der regelmäßige Austausch mit der [NFDI4Culture](https://nfdi4culture.de/) zielen darauf ab, Synergien in der digitalen Transformation des Bildungssektors zu schaffen und eine effiziente Nutzung von Ressourcen und Know-how über verschiedene Einrichtungen hinweg zu ermöglichen.
 
-Ein einjähriges Vorprojekt wurde vom 1. Juli 2020 bis zum 30. Juni 2021 durchgeführt. Seit dem 1. November 2022 läuft das dreijährige Hauptprojekt.
+Ein einjähriges Vorprojekt wurde vom 1. Juli 2020 bis zum 30. Juni 2021 durchgeführt. Seit dem 1. November 2022 und noch bis Ende Dezember 2025 läuft das dreijährige Hauptprojekt.
