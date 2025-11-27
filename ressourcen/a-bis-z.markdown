@@ -33,7 +33,7 @@ Attribute sind spezifische Merkmale oder Eigenschaften, die zur Beschreibung und
 ----
 
 ### Backend
-Backend ist eine allgemeine Bezeichnung für eine Benutzeroberfläche, die nur nach vorheriger Authentifizierung/Anmeldung in einem System zugänglich ist. Im System von arkumu.nrw gibt es die [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske) (auch ”ingest” genannt), das Admin-Backend (auch ”adm” genannt) und das Rosetta-Backend. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Backend ist eine allgemeine Bezeichnung für eine Benutzeroberfläche, die nur nach vorheriger Authentifizierung/Anmeldung in einem System zugänglich ist. Im System von arkumu.nrw gibt es die [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske) (auch ”ingest” genannt), das Admin-Backend (auch ”adm” genannt) und das Rosetta-Backend. Siehe: [Infrastruktur](/documentation/infrastructure).
 
 ----
 
@@ -53,7 +53,7 @@ Manche Dateiformate sind besser als andere für die Langzeitarchivierung geeigne
 ----
 
 ### Daten-Staging
-Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Mediendaten und Metadaten) zusammengeführt werden, um strukturiert, angereichert, geprüft und ggf. freigegeben zu werden, nennt sich Daten-Staging. Nach erfolgter Freigabe werden die Datensätze ingestiert(wohin?). In anderen Systemen wird dieser Ablageort auch „Pre-Ingest“ genannt. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Mediendaten und Metadaten) zusammengeführt werden, um strukturiert, angereichert, geprüft und ggf. freigegeben zu werden, nennt sich Daten-Staging. Nach erfolgter Freigabe werden die Datensätze ingestiert(wohin?). In anderen Systemen wird dieser Ablageort auch „Pre-Ingest“ genannt. Siehe: [Infrastruktur](/documentation/infrastructure).
 
 ----
 
@@ -73,7 +73,7 @@ Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einfüh
 ----
 
 ### Erfassungs-Maske
-Die Erfassungs-Maske ist eine Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Web-Repositorium ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe [Infrastruktur/Importer und Erfassungs-Maske](/technische-dokumentation/infrastruktur#erfassungs-maske-und-erfassungs-maske).
+Die Erfassungs-Maske ist eine Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Web-Repositorium ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe [Infrastruktur/Importer und Erfassungs-Maske](/documentation/infrastructure#erfassungs-maske-und-erfassungs-maske).
 
 ----
 
@@ -143,14 +143,14 @@ Kurz für „Information Retrieval“ (Informationswiedergewinnung) und meint de
 ----
 
 ### Rolle
-Siehe: [Rollen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/rollen.html)
+Siehe: [Rollen](/documentation/controlled-vocabularies/roles.html)
 ODER
 Siehe: [Ereignis: Akteur:innen, Rollen und Rechteangaben](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben)
 
 ----
 
 ### Rosetta-Backend
-Das Rosetta-Backend ist die grafische Benutzeroberfläche für das Rosetta-System des [hbz](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=621051918). Ein Teil der technischen Infrastruktur zur Langzeitarchivierung digitaler Inhalte. Es handelt sich um eine Plattform, die von Ex Libris entwickelt wurde und darauf abzielt, digitale Objekte zu verwalten, zu speichern und deren langfristige Verfügbarkeit zu gewährleisten. Rosetta unterstützt die Speicherung und Pflege von Metadaten, die technische Validierung und die Überwachung der Dateiintegrität. Es wird verwendet, um sicherzustellen, dass digitale Kunstwerke und andere archivierte Materialien langfristig zugänglich und nutzbar bleiben. Siehe: [Infrastruktur](/technische-dokumentation/infrastruktur).
+Das Rosetta-Backend ist die grafische Benutzeroberfläche für das Rosetta-System des [hbz](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=621051918). Ein Teil der technischen Infrastruktur zur Langzeitarchivierung digitaler Inhalte. Es handelt sich um eine Plattform, die von Ex Libris entwickelt wurde und darauf abzielt, digitale Objekte zu verwalten, zu speichern und deren langfristige Verfügbarkeit zu gewährleisten. Rosetta unterstützt die Speicherung und Pflege von Metadaten, die technische Validierung und die Überwachung der Dateiintegrität. Es wird verwendet, um sicherzustellen, dass digitale Kunstwerke und andere archivierte Materialien langfristig zugänglich und nutzbar bleiben. Siehe: [Infrastruktur](/documentation/infrastructure).
 
 ----
 
@@ -171,7 +171,7 @@ Siehe: [Lizenz](/ressourcen/a-bis-z.html#lizenz)
 ----
 
 ### Web-Portal
-Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur/Web-Portal](/technische-dokumentation/infrastruktur#web-portal).
+Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur/Web-Portal](/documentation/infrastructure#web-portal).
 
 ----
 

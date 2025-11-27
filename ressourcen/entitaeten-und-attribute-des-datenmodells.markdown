@@ -16,7 +16,7 @@ arkumu.nrw nutzt als zentrale Verzeichnungseinheit den Begriff **Projekt**. Dies
 
 Als zweite zentrale Einheit bilden **Ereignisse** die historische Entwicklung eines Projekts ab:
 
-* Es gibt unterschiedliche [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht ein Kunstwerk bzw. ein Projekt. Weitere Ereignisse, wie z. B. Aufführung, Ausstellung oder Premiere, können folgen.
+* Es gibt unterschiedliche [Ereignistypen](/documentation/controlled-vocabularies/event-types): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht ein Kunstwerk bzw. ein Projekt. Weitere Ereignisse, wie z. B. Aufführung, Ausstellung oder Premiere, können folgen.
 * Ereignisse haben in der Regel einen Beginn und ein Ende und finden an bestimmten Orten statt.
 * Ereignisse werden von verschiedenen Akteur:innen durch- oder aufgeführt, wodurch sich rechtliche Ansprüche ableiten können.
 * Bei manchen Ereignissen wird bestimmte Software und Equipment verwendet.
@@ -93,7 +93,7 @@ Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ ve
 
 Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.
 
-Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien arkumu.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektkategorien) finden.  
+Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien arkumu.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/documentation/controlled-vocabularies/project-categories) finden.  
 Jede Projektkategorie enthält mindestens den Link zu einem Objekt aus der [Wikidata](https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&uselang=de) und oft weitere Links zu großen kontrollierten Vokabularen, wie der Deutschen Nationalbibliothek, dem Getty Art & Architecture Thesaurus oder dem Vokabular von Filmportal.de.
 
 ---
@@ -210,7 +210,7 @@ Außerdem gibt es noch einige Sonderfälle, die im Einzelfall geprüft werden m�
 
 ## Ereignis: Ereignistypen
 
-Ereignisse können ebenso wie Projekte kategorisiert werden. Ein Ereignis kann z.B. ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die verwendeten Ereignistypen findet sich in der Liste unserer [Ereignistypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen). Ein Ereignistyp wird mindestens über einen Wikidata-Link definiert und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
+Ereignisse können ebenso wie Projekte kategorisiert werden. Ein Ereignis kann z.B. ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die verwendeten Ereignistypen findet sich in der Liste unserer [Ereignistypen](/documentation/controlled-vocabularies/event-types). Ein Ereignistyp wird mindestens über einen Wikidata-Link definiert und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
 
 <pre class="mermaid">
 flowchart LR;
@@ -280,7 +280,7 @@ flowchart LR;
 </pre>
 
 
-Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und eine Wikidata-Referenz. Zusätzlich können Rollen auch einen rollenspezifischen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link haben. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, findet sich in der [Rollen-Taxonomie](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/rollen).
+Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und eine Wikidata-Referenz. Zusätzlich können Rollen auch einen rollenspezifischen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link haben. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, findet sich in der [Rollen-Taxonomie](/documentation/controlled-vocabularies/roles).
 
 <pre class="mermaid">
 flowchart TB;

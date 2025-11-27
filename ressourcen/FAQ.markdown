@@ -85,4 +85,4 @@ Ja, wenn dies möglich ist und der Bedarf besteht, dass Angehörige der Hochschu
 
 ### Wo kann man die Werke und Projekte sehen? 
 
-Das [Web-Portal](/technische-dokumentation/infrastruktur#web-portal) wird derzeit mit dem [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) und unseren Teammitgliedern vom ITCC der Universität zu Köln entwickelt und geht 2025 online.
+Das [Web-Portal](/documentation/infrastructure#web-portal) wird derzeit mit dem [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) und unseren Teammitgliedern vom ITCC der Universität zu Köln entwickelt und geht 2025 online.

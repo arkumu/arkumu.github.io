@@ -14,5 +14,5 @@ Das Datenmodell definiert, wie die heterogenen Rohinformationen der unterschiedl
 [**Kontrollierte Vokabulare und Taxonomien**](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/)\
 Um eine einheitliche Erschließung und Verzeichnung zu gewährleisten, benutzt arkumu.nrw eine Reihe von selbst erstellten Systematiken.
 
-[**Infrastruktur**](/technische-dokumentation/infrastruktur)\
+[**Infrastruktur**](/documentation/infrastructure)\
 Informationen über verwendete Soft- und Hardware und die Zusammenhänge von Systemkomponenten, Nutzer:innen, angebundenen Diensten und externen Institutionen.
