@@ -8,7 +8,7 @@ permalink: /documentation/
 
 
 
-[**Datenmodell**](/technische-dokumentation/datenmodell)\
+[**Datenmodell**](/documentation/data-model)\
 Das Datenmodell definiert, wie die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
 
 [**Kontrollierte Vokabulare und Taxonomien**](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/)\

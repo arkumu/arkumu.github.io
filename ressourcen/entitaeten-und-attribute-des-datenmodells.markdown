@@ -4,7 +4,7 @@ title: Entitäten und Attribute des Datenmodells
 order: 2.4
 ---
 
-Diese Seite bietet einen Überblick über das Datenmodell. Eine detaillierte Aufstellung findet sich in der vollständigen [technischen Dokumentation](/technische-dokumentation/datenmodell#tabelle).
+Diese Seite bietet einen Überblick über das Datenmodell. Eine detaillierte Aufstellung findet sich in der vollständigen [Dokumentation](/documentation/data-model#tabelle).
 
 Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und in die Langzeitarchivierung zu überführen. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen.
 
@@ -18,8 +18,9 @@ Als zweite zentrale Einheit bilden **Ereignisse** die historische Entwicklung ei
 
 * Es gibt unterschiedliche [Ereignistypen](/documentation/controlled-vocabularies/event-types): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht ein Kunstwerk bzw. ein Projekt. Weitere Ereignisse, wie z. B. Aufführung, Ausstellung oder Premiere, können folgen.
 * Ereignisse haben in der Regel einen Beginn und ein Ende und finden an bestimmten Orten statt.
-* Ereignisse werden von verschiedenen Akteur:innen durch- oder aufgeführt, wodurch sich rechtliche Ansprüche ableiten können.
-* Bei manchen Ereignissen wird bestimmte Software und Equipment verwendet.
+* Ereignisse werden von verschiedenen Akteur:innen durch- oder aufgeführt
+* Je nach eingenommener Rolle können Akteur:innen aus ihrer Tätigkeit rechtliche Ansprüche ableiten.
+* Bei manchen Ereignissen wird bestimmte Software und bestimmtes Equipment verwendet.
 * Bei manchen Ereignissen entstehen Physische Objekte oder werden verwendet.
 * Ereignisse manifestieren sich oder werden dokumentiert in digitalen Objekten (Dateien).
 * Manche digitale Objekte entstehen durch die Retrodigitalisierung eines Informationsträgers.
@@ -39,7 +40,7 @@ flowchart LR;
 
 ## Projekt: Titel & Alternative Titel
 
-Ein Projekt muss einen bevorzugten Titel und kann – bei Bedarf – einen bevorzugten Untertitel haben. Diese bevorzugten Titel werden prominent in Anzeige und Suche angezeigt und sollten den gewünschten Haupt- und/oder Originaltitel des Projekts wiedergeben. Zudem müssen der bevorzugte Titel und der bevorzugte Untertitel eine Sprachauszeichnung erhalten. Für die Sprachauszeichnungen wird die Norm [ISO639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) verwendet.
+Ein Projekt muss einen bevorzugten Titel und kann einen bevorzugten Untertitel haben. Diese bevorzugten Titel werden prominent in Anzeige und Suche angezeigt und sollten den gewünschten Haupt- und/oder Originaltitel des Projekts wiedergeben. Sämtliche Titel müssen eine Sprachauszeichnung erhalten, die beschreibt, welche Sprache verwendet wird. Für die Sprachauszeichnungen wird die Norm [ISO639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) verwendet.
 
 <pre class="mermaid">
 flowchart TB;
@@ -53,13 +54,13 @@ flowchart TB;
 </pre>
 
 
-Häufig werden Kunstwerke nicht nur unter einem Namen geführt, sondern erhalten im Laufe ihrer Historie weitere Titel. Es können beliebig viele alternative Titel angelegt weden. Dies ist beispielsweise auch notwendig, wenn der Originaltitel nicht das lateinische Alphabet verwendet, sondern beispielsweise kyrillische Schrift oder chinesische Zeichen. 
+Häufig werden Kunstwerke nicht nur unter einem Titel geführt, sondern erhalten im Laufe ihrer Historie weitere Titel. Es können beliebig viele alternative Titel angelegt werden. Dies ist auch notwendig, wenn der Originaltitel nicht das lateinische Alphabet verwendet, sondern beispielsweise kyrillische Schrift oder chinesische Zeichen. 
 
 ---
 
 ## Projekt: Beschreibungen & Kommentare
 
-Ein Projekt muss mindestens eine und kann beliebig viele Beschreibungen haben. Die Beschreibung ist meistens ein von dem/der Autor:in des Projekts verfasster Text, kann aber auch von Dritten stammen. Ähnlich wie Titel haben Beschreibungen eine Sprachauszeichnung, die Angabe, in welcher Sprache sie verfasst ist. Beschreibungen können innerhalb eines Projekts nach ihrer Wertigkeit sortiert werden.
+Ein Projekt muss mindestens eine und kann beliebig viele Beschreibungen haben. Die Beschreibung ist meistens ein von dem/der Autor:in des Projekts verfasster Text, kann aber auch von Dritten stammen. Ähnlich wie Titel haben Beschreibungen eine Sprachauszeichnung. Beschreibungen können innerhalb eines Projekts nach ihrer Wertigkeit sortiert werden.
 
 <pre class="mermaid">
 flowchart TB;
@@ -91,7 +92,7 @@ Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ ve
 
 <div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span> / <span style="color: blue">Design</span> / <span style="color: blue">Industrial Design</span></div>
 
-Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.
+Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch unter dem Begriff "Angewandte Kunst" auffinden lässt. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.
 
 Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien arkumu.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/documentation/controlled-vocabularies/project-categories) finden.  
 Jede Projektkategorie enthält mindestens den Link zu einem Objekt aus der [Wikidata](https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&uselang=de) und oft weitere Links zu großen kontrollierten Vokabularen, wie der Deutschen Nationalbibliothek, dem Getty Art & Architecture Thesaurus oder dem Vokabular von Filmportal.de.
@@ -100,7 +101,8 @@ Jede Projektkategorie enthält mindestens den Link zu einem Objekt aus der [Wiki
 
 ## Projekt: Schlagwörter
 
-Die Verzeichnung der Schlagwörter erfolgt über [Wikidata](https://www.wikidata.org/). Dadurch wird die Anbindung an Semantic-Web- und Linked-Open-Data-Anwendungen gewährleistet. Damit ein Schlagwort in unser System geladen werden kann, benötigt es mindestens einen deutschen oder englischen Wikidata-Eintrag mit zugehöriger Beschreibung, die automatisch ausgelesen werden. Synonyme werden, falls vorhanden, ebenfalls abgerufen, um zusätzlich die Erschließung der erfassten Inhalte zu verbessern.  
+Die Verzeichnung der Schlagwörter erfolgt über [Wikidata](https://www.wikidata.org/). Dadurch wird die semantische Eindeutigkeit und die Anbindung an Semantic-Web- und Linked-Open-Data-Anwendungen gewährleistet. Damit ein Schlagwort in unser System geladen werden kann, benötigt es mindestens einen deutschen oder englischen Wikidata-Eintrag mit zugehöriger Beschreibung, die automatisch ausgelesen werden. Synonyme werden, falls vorhanden, ebenfalls abgerufen, um zusätzlich die Erschließung der erfassten Inhalte zu verbessern.  
+
 Dieses System der Verschlagwortung über Wikidata findet überall dort Verwendung, wo Schlagwort-ähnliche Einträge gemacht werden können. So auch bei den Physischen Objekten, den Digitalen Objekten und den Informationsträgern.
 
 <figure>
@@ -144,13 +146,18 @@ flowchart LR;
 
 ## Projekt: Projektart
 
-Ein Projekt muss zu mindestens einer und kann zu mehreren [Projektarten](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektarten) gehören. Die Projektart bezeichnet den Typ des Projekts im akademischen oder administrativen Kontext. 
+Ein Projekt muss zu mindestens einer und kann zu mehreren [Projektarten](/documentation/controlled-vocabularies/project-types) gehören. Die Projektart bezeichnet den Typ des Projekts im akademischen oder administrativen Kontext. 
 
 ---
 
 ## Projekt: Identifikatoren und Normdaten
 
-Ein Projekt bekommt automatisch eine arkumu.nrw-Signatur. Diese setzt sich zusammen aus:
+Ein Projekt bekommt automatisch einen **p**ersistenten **Id**entifikator zugewiesen. PIDs bestehen aus definierten Zahlen- und Buchstabenkombinationen, die es ermöglichen, eindeutig und nachhaltig Objekte, Personen und Organisationen zu referenzieren. arkumu.nrw benutzt [ARK](https://arks.org/) als System zur Vergabe von PIDs.
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (Zum gegenwärtigen Zeitpunkt (Nov 2025) ist die Vergabe von PIDs noch nicht implementiert. Sobald dies geschehen ist, sollte an dieser Stelle die Struktur und Syntax von arkumu-PIDs erläutert werden.)
+
+Zusätzlich bekommt jedes Projekt eine arkumu.nrw-Signatur. Diese setzt sich zusammen aus:
 
 * Der Kennzeichnung „arkumu“
 * Einer automatischen Nummer, die fortlaufend die Projekte im System zählt
@@ -159,14 +166,16 @@ Ein Projekt bekommt automatisch eine arkumu.nrw-Signatur. Diese setzt sich zusam
 
 Eine vollständige Signatur könnte also wie folgt aussehen: **arkumu-9876-KHM-5432**.
 
-Des Weiteren werden auch Einlieferer-interne Signaturen bei uns erfasst, ebenso wie Werkverzeichnisnummern.  
+Des Weiteren werden auch Einlieferer-interne Signaturen erfasst, ebenso wie Werkverzeichnisnummern.  
 Zusätzlich können zu einem Projekt beliebig viele Normdaten angegeben werden, wie z. B. GND-Einträge für bekannte, klassische Werke der Musik.
 
 <pre class="mermaid">
 flowchart TB;
+    Projekt-- <span style="background-color: #f4effc">hat</span>  ---> ARK-PID
     Projekt-- <span style="background-color: #f4effc">hat</span>  ---> arkumu-ID
-    Projekt-- <span style="background-color: #f4effc">kann, wenn vorhanden, ein oder mehrere haben</span> --> Werkverzeichnisnummer
-    Projekt-- <span style="background-color: #f4effc">kann, wenn vorhanden, ein oder mehrere haben</span> ---> Normdaten-Link
+    Projekt-- <span style="background-color: #f4effc">kann ein oder mehrere haben</span> --> Werkverzeichnisnummer
+    Projekt-- <span style="background-color: #f4effc">kann ein oder mehrere haben</span> ---> Normdaten-Link
+    style ARK-PID fill:#FFFFE0, stroke:#000000;
     style Projekt fill:#FFFFE0, stroke:#000000;
     style arkumu-ID fill:#FFFFE0, stroke:#000000;
     style Werkverzeichnisnummer fill:#FFFFE0, stroke:#000000;
@@ -179,7 +188,7 @@ flowchart TB;
 
 In den Projekteigenschaften können beliebig viele fachspezifische Angaben gemacht werden, etwa die Tonart eines Musikstücks oder die Dauer eines Films.  
 
-Zu einem Projekt kann eine projektspezifische, einmalig verwendbare Inhaltswarnung gegeben werden. Andere, bereits im Voraus angelegte Inhaltswarnungen können in anderen Projekten immer wieder Verwendung finden.
+Zu einem Projekt kann eine projektspezifische, einmalig verwendbare Inhaltswarnung gegeben werden, wenn dies von den Urhebern/Urheberinnen gewünscht ist. Zusätzlich kann eine Auswahl von bereits im Voraus angelegte Inhaltswarnungen immer wieder Verwendung finden.
 
 ---
 
@@ -189,28 +198,28 @@ Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die L
 Diese können auf zweierlei Arten eingeholt werden:
 
 * Zum einen kann bereits ein Nutzungsvertrag zwischen den Rechteinhaber:innen und der Hochschule bestehen, der der Hochschule bereits verschiedene Erhaltungsschritte erlaubt, wie z. B. die Archivierung eines Projekts.
-* Zum anderen kann zwischen den Rechteinhaber:innen und der Hochschule ein neuer Lizenzvertrag geschlossen werden, falls noch keiner vorliegt oder der bereits bestehende Lizenzvertrag erweitert werden soll. arkumu.nrw stellt dafür eine speziell für diesen Zweck erstellte Modularlizenz und ein Formular zur Rechteabfrage zur Verfügung. Details hierzu finden sich auf der Seite [Lizenzen](/ressourcen/lizenzen).
+* Zum anderen kann zwischen den Rechteinhaber:innen und der Hochschule ein neuer Lizenzvertrag geschlossen werden, falls noch keiner vorliegt oder der bereits bestehende Lizenzvertrag erweitert werden soll. arkumu.nrw stellt dafür eine speziell für diesen Zweck erstellte Modularlizenz zur Verfügung. Details hierzu finden sich auf der Seite [Lizenzen](/ressourcen/lizenzen).
 
 Je nach Wunsch der Rechteinhaber:innen ist es möglich, alle, keine oder nur einzelne Digitale Objekte eines Projekts zu veröffentlichen. Nicht veröffentlichte Digitale Objekte bleiben für die Öffentlichkeit unzugänglich und werden nur in die Langzeitverfügbarkeits-Sicherung des hbz gegeben. Die Metadaten (Titel, Beschreibung, Akteur:innen, usw.) werden, sofern sie keine gesperrten oder durch die DSGVO geschützten, persönlichen Informationen beinhalten, frei veröffentlicht.
 
 <pre class="mermaid">
 flowchart TB;
     Projekt_Urheberrechtsstatus{Ist das Projekt urheberrechtlich\n und/oder leistungsschutzrechtlich geschützt?}-- <span style="background-color: #f4effc">nein</span>  --> Projekt_eingeliefert[Das Projekt kann ohne Lizenzvereinbarung\n bei arkumu.nrw eingeliefert werden]
-    Projekt_Urheberrechtsstatus-- <span style="background-color: #f4effc">ja</span>  ---> Lizenzvertrag_benötigt[Es wird eine Lizenzvereinbarung benötigt]
-    Lizenzvertrag_benötigt --> Besteht_Lizenzvertrag{Besteht bereits ein Lizenzvertrag zwischen\n der Hochschule und dem/der Lizenzgeber:in?}
-    Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">ja</span>  --> Rechte_werden_geprüft[Es wird geprüft, welche Erhaltungsschritte\n bei arkumu.nrw bereits durchgeführt werden können]
-    Besteht_Lizenzvertrag-- <span style="background-color: #f4effc">nein</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via arkumu.nrw geschlossen werden]
-    Rechte_werden_geprüft-- <span style="background-color: #f4effc">zusätzlich</span>  --> Neuer_Lizenzvertrag[Es kann ein neuer Lizenzvertrag via arkumu.nrw geschlossen werden]
+    Projekt_Urheberrechtsstatus-- <span style="background-color: #f4effc">ja</span>  ---> Lizenzvereinbarung_benötigt[Es wird eine Lizenzvereinbarung benötigt]
+    Lizenzvereinbarung_benötigt --> Besteht_Lizenzvereinbarung{Besteht bereits eine Lizenzvereinbarung zwischen\n der Hochschule und dem/der Lizenzgeber:in?}
+    Besteht_Lizenzvereinbarung-- <span style="background-color: #f4effc">ja</span>  --> Rechte_werden_geprüft[Es wird geprüft, welche Erhaltungsschritte\n bei arkumu.nrw bereits durchgeführt werden können]
+    Besteht_Lizenzvereinbarung-- <span style="background-color: #f4effc">nein</span>  --> Neue_Lizenzvereinbarung[Es kann eine neue Lizenzvereinbarung via arkumu.nrw geschlossen werden]
+    Rechte_werden_geprüft-- <span style="background-color: #f4effc">zusätzlich</span>  --> Neue_Lizenzvereinbarung[Es kann eine neue Lizenzvereinbarung via arkumu.nrw geschlossen werden]
 </pre>
 
-Außerdem gibt es noch einige Sonderfälle, die im Einzelfall geprüft werden müssen. So kann es sein, dass ein Werk verwaist ist, es also auch nach vorheriger Recherche nicht mehr seinen zugehörigen Urheber:innen zugeordnet werden kann. In diesem Fall kann eine europäische Sonderregelung gelten, bei der die zugehörigen Dateien öffentlich zugänglich gemacht werden könnten.
+Im Fall, dass ein Werk verwaist ist, es also auch nach gründlicher Recherche nicht mehr seinen zugehörigen Urheber:innen zugeordnet werden kann, kann eine europäische Sonderregelung gelten, bei der die zugehörigen Dateien öffentlich zugänglich gemacht werden könnten.
 
 
 ---
 
 ## Ereignis: Ereignistypen
 
-Ereignisse können ebenso wie Projekte kategorisiert werden. Ein Ereignis kann z.B. ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht über die verwendeten Ereignistypen findet sich in der Liste unserer [Ereignistypen](/documentation/controlled-vocabularies/event-types). Ein Ereignistyp wird mindestens über einen Wikidata-Link definiert und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
+Ereignisse werden typisiert. Ein Ereignis kann z.B. ein Ankauf sein, eine musikalische Komposition, eine Ursendung oder ein Rundgang. Eine Übersicht findet sich in der Liste unserer [Ereignistypen](/documentation/controlled-vocabularies/event-types). Ein Ereignistyp wird mindestens über einen Wikidata-Link definiert und kann zusätzlich einen GND-Link, einen AAT-Link und einen Link zu einem Ereignis aus der LIDO-Terminologie haben.
 
 <pre class="mermaid">
 flowchart LR;
@@ -232,8 +241,8 @@ Ein Ereignis kann einen Beginn und/oder ein Ende haben. Sowohl der Ereignisbegin
 
 <pre class="mermaid">
 flowchart TB;
-    Ereignis-- <span style="background-color: #f4effc">hat (mindestens)\n kann bei Bedarf geschätzt sein</span> ---> Ereignisbeginn
-    Ereignis-- <span style="background-color: #f4effc">hat (mindestens)\n kann bei Bedarf geschätzt sein</span> --> Ereignisende
+    Ereignis-- <span style="background-color: #f4effc">kann haben\n kann bei Bedarf geschätzt sein</span> ---> Ereignisbeginn
+    Ereignis-- <span style="background-color: #f4effc">kann haben\n kann bei Bedarf geschätzt sein</span> --> Ereignisende
     style Ereignis fill:#90EE90, stroke:#000000;
     style Ereignisbeginn fill:#90EE90, stroke:#000000;
     style Ereignisende fill:#90EE90, stroke:#000000;
@@ -252,7 +261,7 @@ Zeitangaben speichern wir nach der Norm [ISO 8601](https://www.iso.org/iso-8601-
 ---
 
 ## Ereignis: Orte
-Orte werden ähnlich wie Schlagwörter über Wikidata referenziert. Das System stellt im Hintergrund eine komplexe Abfrage, die zusätzlich alle übergeordneten Orte findet. Die Orts-Abfrage ist damit in der Lage, einen eingegebenen Ort direkt in seinen geografischen Kontext zu setzen.Orte werden dabei in 6 Hierarchieebenen erfasst:
+Orte werden ähnlich wie Schlagwörter über Wikidata referenziert. Das System stellt im Hintergrund eine komplexe Abfrage, die zusätzlich alle übergeordneten Orte findet. Die Orts-Abfrage ist damit in der Lage, einen eingegebenen Ort direkt in seinen geografischen Kontext zu setzen. Orte werden dabei in 6 Hierarchieebenen erfasst:
 **Kontinent** > **Land** > **Region** > **Stadt** > **Genauer Ort** > **Interner Ort**.
 
 <figure>
@@ -280,7 +289,7 @@ flowchart LR;
 </pre>
 
 
-Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und eine Wikidata-Referenz. Zusätzlich können Rollen auch einen rollenspezifischen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link haben. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, findet sich in der [Rollen-Taxonomie](/documentation/controlled-vocabularies/roles).
+Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und eine Wikidata-Referenz. Zusätzlich können Rollen auch über einen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link beschrieben werden. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, findet sich in der [Rollen-Taxonomie](/documentation/controlled-vocabularies/roles).
 
 <pre class="mermaid">
 flowchart TB;
@@ -290,7 +299,7 @@ flowchart TB;
     style AkteurIn fill:#F0F8FF, stroke:#000000;
 </pre>
 
-Zusätzlich lässt sich angeben, ob ein:e Akteur:in aufgrund einer Rolle Urheberrechte und/oder Leistungsschutzrechte besitzt. Bestimmte Rollen führen in vielen Fällen automatisch zu Urheber- und Leistungsschutzrechten der Akteur:innen. Ist eine Person beispielsweise „Komponist:in“ oder "Künstler:in" in einem Ereignis, dann besitzt sie mit großer Wahrscheinlichkeit Urheberrechte an dem verknüpften Projekt. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungsschutzrechte. Die Taxonomie der Rollen bietet eine Vorauswahl, die angibt, bei welchen Rollen diese Rechte üblicherweise vorhanden sind. Dies entbindet nicht von der Pflicht, individuell zu prüfen, welche Angaben zutreffen.
+Diese Taxonomie gibt zusätzlich an, ob eine von ein:er Akteur:in eingenommene Rolle üblicherweise in Urheberrechte und/oder Leistungsschutzrechte resultiert. Bestimmte Rollen führen in vielen Fällen automatisch zu Urheber- und Leistungsschutzrechten der Akteur:innen. Ist eine Person beispielsweise „Komponist:in“ oder "Künstler:in" in einem Ereignis, dann besitzt sie mit großer Wahrscheinlichkeit Urheberrechte an dem verknüpften Projekt. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungsschutzrechte. Die Taxonomie der Rollen bietet eine Vorauswahl, die angibt, bei welchen Rollen diese Rechte üblicherweise vorhanden sind. Dies entbindet nicht von der Pflicht, individuell zu prüfen, welche Angaben zutreffen.
 
 Weiterhin kann angegeben werden, ob nur vermutet wird, dass ein:e Akteur:in in einem Ereignis mitgewirkt hat. Für diesen Fall gibt es das Feld „Ungesicherte Zuschreibung“.
 
@@ -303,7 +312,6 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 | Englischer Name | English Name | 1 | Automatisch der deutsche Name, wenn nur dieser angegeben wurde |
 | Alternativer Name | Alternative Name | 0-u | Beliebig viele Varianten des Namens, u. a. auch der Name in der Herkunftssprache |
 | Nicht-öffentlicher Name | Non-public Name | 0-u | Ein Name, der nicht veröffentlicht werden soll, aber für die Langzeitverfügbarkeit oder die interne Verwaltung der Daten von Bedeutung ist |
-| Nicht-öffentlicher Name (Erläuterung)| Non-public Name (Reason) | [1-u] | Eine Begründung, warum der Name nicht veröffentlicht werden soll |
 | Vorangestellter Titel | Preceding Title | 0-1 | Z. B. "Prof.", "Dr.phil.", "Dr. Dr.", etc.. |
 | Nachgestellter Titel | Following Title | 0-1 | Z. B. "PhD" |
 | Geschlecht | Gender | 0-1 | Erfassung im Freitext. Wird nicht veröffentlicht. Bei Gruppen und Körperschaften bleibt dieses Feld leer |
@@ -312,7 +320,7 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 | Frühestes Sterbedatum | Earliest Death Date | 0-1 | Das früheste bekannte Sterbedatum in ISO 8601 |
 | Spätestes Sterbedatum | Latest Death Date | 0-1 | Das späteste bekannte Sterbedatum in ISO 8601 |
 | Wirkungsbeginn | Begin of Activity | 0-1 | Für Gruppen und Körperschaften; deren Wirkungsbeginn in ISO 8601 |
-| Wirkungsende | Enf of Activity | 0-1 | Für Gruppen und Körperschaften; deren Wirkungsende in ISO 8601 |
+| Wirkungsende | End of Activity | 0-1 | Für Gruppen und Körperschaften; deren Wirkungsende in ISO 8601 |
 | Geburtsort | Place of Birth | 0-1 | Ein Geburtsort aus der Entität Orte |
 | Sterbeort | Place of Death | 0-1 | Ein Sterbeort aus der Entität Orte |
 | Wirkungsort | Place of Activity | 0-u | Ein oder mehrere Wirkungsorte |
@@ -322,8 +330,8 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 | Englische Kurzbiografie | English Short Biography | 0-1 | Die englische Kurzbiografie der Person, Gruppe oder Körperschaft |
 | Deutscher Kommentar | German Commentary | 0-1 | Ein deutscher Kommentar. Freitext. |
 | Englischer Kommentar | English Commentary | 0-1  | Ein entsprechender englischer Kommentar. Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen. |
-| Interner Kommentar | Internal Commentary | 0-1 | Ein Team-interner Kommentar |           
-| Beruf und Tätigkeit | Profession and Activity | 0-u | Eine oder mehrere feste Rollen aus der entsprechenden Entität (s. u.)|
+| Interner Kommentar | Internal Commentary | 0-1 | Ein nicht-öffentlicher Kommentar |           
+| Beruf und Tätigkeit | Profession and Activity | 0-u | Biografische Information, die mittels der Rollen-Taxonomie gegeben wird. Dies ist der Grund, warum diese Rollen wie Bankbeamte:r oder Barbetreiber:in beinhaltet. |
 | OrcID | OrcID | 0-1 | Ein Orcid-Identifier der Person |
 | GND-ID | GND ID | 0-1 | Link zu einem GND-Normdatensatz zur Akteur:in |
 | VIAF-ID | VIAF ID | 0-1 | Link zu einem VIAF-Normdatensatz zur Akteur:in |
@@ -340,7 +348,7 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 
 ## Ereignis: Equipment & Software
 
-In einem Ereignis können verschiedene Arten von Equipment und/oder Software zum Einsatz kommen. Mit dieser Entität lässt sich z. B. beschreiben, welche technische Ausrüstung oder welche Software in einem Herstellungs-Ereignis verwendet wurden. Die Liste der [Equipmentarten](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/equipmentarten) erlaubt die Kategorisierung von Einträgen in der Tabelle Equipment und Software.
+In einem Ereignis können verschiedene Arten von Equipment und/oder Software zum Einsatz kommen. Mit dieser Information lässt sich z. B. beschreiben, welche technische Ausrüstung oder welche Software in einem Herstellungs-Ereignis verwendet wurden. Die Liste der [Equipmentarten](/documentation/controlled-vocabularies/equipment-types) erlaubt die Kategorisierung von Einträgen in der Tabelle Equipment und Software.
 
 
 
@@ -349,7 +357,7 @@ In einem Ereignis können verschiedene Arten von Equipment und/oder Software zum
 | Deutsche (Produkt-) Bezeichnung | German (Product) Name |  |  1 | Handelsname, z.B. Hasselblad X, Photoshop CS6, Numark 402, InkJet 7800 |
 | Englische (Produkt-) Bezeichnung | English (Product) Name |  |   1| Es kann vorkommen, dass Produkte in verschiedenen Vertriebs-Regionen unterschiedlich bezeichnet werden. Der Regelfall wird aber sein, dass in beiden Bezeichnungsfeldern dasselbe steht. |
 | Hersteller | Producer |  | 0-1 | Freitext |
-| [Equipmentarten](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/equipmentarten) | Equipment Type | Equimentart | 1 | Auswahlliste , z.b. Mikrofon, Mischpult, Verstärker, Filmkamera, Fotokamera, Videokamera, 3D-Scanner, 3D-Drucker, Software, Audiorecorder, Licht. |
+| [Equipmentarten](/documentation/controlled-vocabularies/equipment-types) | Equipment Type | Equimentart | 1 | Auswahlliste , z.b. Mikrofon, Mischpult, Verstärker, Filmkamera, Fotokamera, Videokamera, 3D-Scanner, 3D-Drucker, Software, Audiorecorder, Licht. |
 | Deutsche Beschreibung	 | German Description |  | 0-1	| Freitext |
 | Englische Beschreibung | English Description |  | 0-1	| Freitext |
 | Normdatei | Authority File |  | 0-u	| z. B. Wikidata-ID |
@@ -387,7 +395,7 @@ In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. D
 
 ## Ereignis: Informationsträger
 
-Informationsträger sind materielle Datenträger oder Trägermedien, die digitalisiert wurden, wie z. B. eine Schallplatte, eine Diskette, ein Tonband oder ein VHS-Band. Informationsträger werden durch [die Informationsträgertypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/informationstraegertypen) kategorisiert. 
+Informationsträger sind materielle Datenträger oder Trägermedien, die digitalisiert wurden, wie z. B. eine Schallplatte, eine Diskette, ein Tonband oder ein VHS-Band. Informationsträger werden durch [die Informationsträgertypen](/documentation/controlled-vocabularies/information-storage-medium-types) kategorisiert. 
 
 Anmerkung für die Erfassung: Diese Entität sollte benutzt werden, wenn:
 1. Ein Projekt Retrodigitalisierung beinhaltet und Informationen über analoge Originale erhaltenswert sind,
@@ -402,7 +410,7 @@ Zu einem Informationsträger können die folgenden Informationen erfasst werden:
 | Deutsche (Produkt-) Bezeichnung | German (Product-) Name | 0-1 | Der deutsche Name oder die Bezeichnung des Informationsträgers, z. B. „BASF C-90“, „SONY KSP-20“, „Hi8 ME 120“, etc. |
 | Englische (Produkt-) Bezeichnung | English (Product-) Name | 0-1 | Der englische Name oder die Bezeichnung des Informationsträgers |			
 | Label (Handelsmarke) | Label | 0-1 | Eine Handelsmarke |			
-| [Informationsträgertyp](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/informationstraegertypen)	| Information Storage Media Type | 1 | Eine Auswahl aus der Informationsträgertyp-Taxonomie |
+| [Informationsträgertyp](/documentation/controlled-vocabularies/information-storage-medium-types)	| Information Storage Media Type | 1 | Eine Auswahl aus der Informationsträgertyp-Taxonomie |
 | Produkt-ID-Typ | Product ID Type | 0-u | Eine Auswahl aus der Entität "Nummernart". Z. B. "Bestellnummer", "ISBN", "Seriennummer" oder "Matritzennummer" |
 | Produkt-ID-Wert | Product ID Value | [1] | Zu jeder Auswahl ein dazugehöriger Wert |
 | Externe Inventar-Signaturnummer | External Inventory Number | 1-u | Eine Pflichtangabe, die den Informationsträger beim Einlieferer identifiziert. Bei Bedarf können es auch mehrere Nummern sein | 
@@ -433,7 +441,7 @@ Zu einem Informationsträger können die folgenden Informationen erfasst werden:
 
 ## Ereignis: Digitale Objekte
 
-arkumu.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibündel sowie die zugehörige inhaltliche Beschreibung und die technischen Metadaten. Ein Ereignis kann beliebig viele Digitale Objekte enthalten, und ein Digitales Objekt kann in beliebig vielen Ereignissen auftauchen. Bereits beim Upload werden zentrale Metadaten zur Datei erfasst:
+arkumu.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibündel sowie die zugehörige inhaltliche Beschreibung und die technischen Metadaten. Ein Ereignis kann beliebig viele Digitale Objekte enthalten, und ein Digitales Objekt kann in beliebig vielen Ereignissen auftauchen. Bereits beim Upload werden zentrale technische Metadaten zur Datei erfasst.
 
 Dies sind die wichtigsten Angaben zu einem Digitalen Objekt:
 
@@ -449,11 +457,13 @@ Neben diesen  gibt es noch eine Reihe von technischen und deskriptiven Feldern:
 
 | Deutscher Feldname | Englischer Feldname | Kardinalität | Kommentar |
 | ---------- | ---------- | ---------- | ---------- |
-| Dateiname | File Name | 1 | Der automatisch ausgelesene Dateiname der Datei |
-| Dateigröße | File Size | 1 | Die automatisch ausgelesene Dateigröße der Datei |
-| MIME Type | MIME Type | 1 | Der automatisch ausgelesene Dateityp der Datei |
+| Dateiname | File Name | 1 | Der automatisch ausgelesene Dateiname |
+| Dateigröße | File Size | 1 | Die automatisch ausgelesene Dateigröße |
+| MIME Type | MIME Type | 1 | Der automatisch ausgelesene Dateityp |
 | Datei-Änderungsdatum | File Modification Date	| 1 | Das automatisch ausgelesene letzte Änderungsdatum der Datei |
-| Dateipfad | File Path | 1 | Der Dateipfad der Datei im arkumu.nrw-Erfassungsportal |
+| Dateipfad | File Path | 1 | Der Dateipfad im Quellsystem |
+| Prüfsumme beim Einlieferer | Checksum at Depositor | 0-1 | Eine vor dem Transfer ins arkumu.nrw System erzeugte [Prüfsumme](https://service-wiki.hbz-nrw.de/spaces/LLZV/pages/565936255/Glossar+wichtiger+Begriffe+f%C3%BCr+die+Langzeitverf%C3%BCgbarkeit#GlossarwichtigerBegriffef%C3%BCrdieLangzeitverf%C3%BCgbarkeit-Pr%C3%BCfsummePr%C3%BCfsumme). Prüfsummen, die in Rosetta genutzt werden können, sind MD5, SHA-1, SHA-256, SHA-512 und CRC32. Wir empfehlen SHA-256. | 
+
 | arkumu.nrw Signatur bzw. ID | arkumu.nrw ID | 1 | Ein eindeutiger Identifikator der Datei |	
 | ID beim Einlieferer | ID at Depositor | 0-1 | Ein oder mehrere eindeutige Identifikatoren dieser Datei oder dieses Datei-Metadatensatzes in Systemen der einliefernden Hochschule oder Organisationseinheit. Mehrere Identifikatoren sind mit einem ";" zu trennen.|
 | Objekttyp | Object Type | 0-1 | Ein oder mehrere Schlagwörter, die den Inhalt des Objekts beschreiben, beispielsweise  "Ausstellungsdokumentation",  "Trailer", "Poster" oder "Screenshot". Schlagwörter werden immer durch Verweise auf Einträge in Wikidata definiert. |
@@ -466,19 +476,19 @@ Neben diesen  gibt es noch eine Reihe von technischen und deskriptiven Feldern:
 | Systemvoraussetzungen	| System Requirements | [1 für "Code"] | Pflicht wenn für eine Datei der Medientyp "Code" ausgewählt wurde |
 | Derivatkopie-Nummer | Derivative Copy Number | [1 wenn "Derivative Copy (Nutzerformat)] | Von der gleichen Datei (oder einer Reihe von Dateien) können mehrere Nutzerkopien erstellt werden, die durchnummeriert werden sollten. |		
 | Wesentliche Eigenschaften (deutsch) | Significant Properties (German) | 0-1 | Eigenschaften, die sich nicht ändern dürfen, wenn – zum Zweck der Langzeitverfügbarkeit – Kopien von dieser Datei gemacht werden, z. B.: "Das Seitenverhältnis darf nicht geändert werden", oder "Es ist zu beachten, dass der Filtereffekt im Video erhalten bleibt". |
-| Wesentliche Eigenschaften (englisch) | Significant Properties (English) | 0-1 | Eigenschaften, die sich nicht ändern dürfen, wenn – zum Zweck der Langzeitverfügbarkeit – Kopien von dieser Datei gemacht werden, z. B.: "The aspect ratio must not be changed", or "It should be noted that the filter effect is preserved in the video".|
+| Wesentliche Eigenschaften (englisch) | Significant Properties (English) | 0-1 | Eigenschaften, die sich nicht ändern dürfen, wenn – zum Zweck der Langzeitverfügbarkeit – Kopien von dieser Datei gemacht werden, z. B.: "The aspect ratio must not be changed", or "The data moshing filter is intentional and needs to be preserved in the video".|
 | Bildbeschreibung (deutsch) | Image Description (German) | 0-1 | Ein deutschsprachiges Feld speziell für die Beschreibung von Bildinhalten, z. B.: "Zeichnung eines Baums auf weißen Hintergrund.". | 
 | Bildbeschreibung (englisch) | Image Description (English) | 0-1 | Ein englischsprachiges Feld speziell für die Beschreibung von Bildinhalten, z. B.: "Drawing of a tree on white background."|
 | Eigenschaften | Properties | 0-u | Zusätzlich können weitere, sammlungsspezifische Eigenschaften angegeben werden, wie z. B. Originalsprache, Sprachfassung, Untertitelsprache, Tonmischfassung, Tonformat, DCP-Art oder die Angabe, ob ein Digitales Objekt in einer Endlosschleife abzuspielen ist. |
 
-Mit folgenden Programmen wird außerdem eine Vielzahl von technischen Metadaten der Datei ausgelesen: [JHOVE](https://jhove.openpreservation.org/), [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/), [MediaInfo](https://mediaarea.net/de/MediaInfo) und [metadata-extractor](https://github.com/drewnoakes/metadata-extractor). Der Output dieser Tools wird in Gänze gespeichert. Einige Informationen aus diesem technischen Metadaten werden zusätzlich herausgezogen und in eigenen Feldern angezeigt:
+Mit folgenden Programmen wird außerdem eine Vielzahl von technischen Metadaten der Datei ausgelesen: [JHOVE](https://jhove.openpreservation.org/), [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/), [MediaInfo](https://mediaarea.net/de/MediaInfo) und [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) bzw. [ExifTool](https://exiftool.org/). Der Output dieser Tools wird in Gänze gespeichert. Einige Informationen aus diesem technischen Metadaten werden zusätzlich herausgezogen und in eigenen Feldern angezeigt:
 
 | Deutscher Feldname | Englischer Feldname | Kardinalität | Kommentar |
 | ---------- | ---------- | ---------- | ---------- |
 | JHOVE-Dateistatus | JHOVE Status | 1 | Die Angabe, ob eine Datei valide und/oder wohlgeformt ist |							
 | DROID-PUID | PUID | 1 | Eine aus DROID automatisch ausgelesene ID, die eine Datei in der [PRONOM-Datenbank](https://www.nationalarchives.gov.uk/PRONOM/) von [The National Archives](https://www.nationalarchives.gov.uk/) identifiziert. |							
 | DROID-PUID-Link | PUID Link | 1 | Ein aus der PUID erstellter Link zur PRONOM-Webseite, z. B.: [https://www.nationalarchives.gov.uk/PRONOM/fmt/134](https://www.nationalarchives.gov.uk/PRONOM/fmt/134)
-| Prüfsumme | Hash/Checksum | 1 | Eine vom System automatisch erstellte Prüfsumme, mit der die Datei eindeutig zu identifizieren ist und sich verifizieren lässt, dass sie seitdem unverändert ist. (SHA256) |									
+| Prüfsumme | Hash/Checksum | 1 | Eine vom Web- und Arbeitsrepositorium nach dem Upload automatisch erstellte Prüfsumme, mit der sich die Integrität der Datei verifizieren lässt. Das Repositorium nutzt SHA256. |									
 | Dateityp (kurz) | File Type (short) | 1 | Der kurze Name des Dateityps |
 | Dateityp (lang) | File Type (long) | 1 | Der ausgeschriebene Name des Dateityps |
 | Dateifamilie | File Family | 1 | Die jeweilige Dateifamilie |
