@@ -11173,8 +11173,8 @@ Roles describe the professions and occupations of Actors within the arkumu.nrw s
 | **Wikidata ID** | [Q113057030](https://www.wikidata.org/entity/Q113057030) |
 | **German Breadcrumb** | [Technische Realisation](#role-379) |
 | **English Breadcrumb** | [technical realisation](#role-379) |
-| **Pre-selects "ist Urheber:in" automatically** | (to be determined) |
-| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | (to be determined) |
+| **Pre-selects "ist Urheber:in" automatically** | x |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | x |
 
 <br/>
 <br/>
