@@ -7,17 +7,18 @@ order: 2.7
 **A:** [Akteur:in](/ressourcen/a-bis-z.html#akteurin), [Attribute](/ressourcen/a-bis-z.html#attribute)  
 **B:** [Backend](/ressourcen/a-bis-z.html#backend), [Brotkrumen/Breadcrumbs](/ressourcen/a-bis-z.html#brotkrumenbreadcrumbs)  
 **D:** [Dateiformate](/ressourcen/a-bis-z.html#dateiformate), [Datensatz](/ressourcen/a-bis-z.html#datensatz), [Daten-Staging](/ressourcen/a-bis-z.html#daten-staging)  
-**E:** [Entität](/ressourcen/a-bis-z.html#entität), [Ereignis](/ressourcen/a-bis-z.html#ereignis), [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske)  
+**E:** [Entität](/ressourcen/a-bis-z.html#entität), [Ereignis](/ressourcen/a-bis-z.html#ereignis), [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske), [Equipment und Software](/ressourcen/a-bis-z.html#equipment-und-software)  
+**I:** [Importer](/ressourcen/a-bis-z.html#importer), [Informationsträger](/ressourcen/a-bis-z.html#informationsträger)  
 **K:** [Kontrolliertes Vokabular](/ressourcen/a-bis-z.html#kontrolliertes-vokabular)  
 **L:** [Langzeitverfügbarkeit](/ressourcen/a-bis-z.html#langzeitverfügbarkeit), [Lizenz](/ressourcen/a-bis-z.html#lizenz)  
 **M:** [Metadaten](/ressourcen/a-bis-z.html#metadaten)  
 **N:** [Normdaten](/ressourcen/a-bis-z.html#normdaten)  
-**O:** [Orte](/ressourcen/a-bis-z.html#orte)  
-**P:** [Projekte](/ressourcen/a-bis-z.html#projekte)  
-**R:** [Rechte](/ressourcen/a-bis-z.html#rechte), [Retrieval](/ressourcen/a-bis-z.html#retrieval), [Rosetta-Backend](/ressourcen/a-bis-z.html#rosetta-backend)  
+**O:** [Organisationseinheit](/ressourcen/a-bis-z.html#organisationseinheit), [Ort](/ressourcen/a-bis-z.html#ort)  
+**P:** [Physisches Objekt](/ressourcen/a-bis-z.html#physisches-objekt), [Projekt](/ressourcen/a-bis-z.html#projekt)  
+**R:** [Rechte](/ressourcen/a-bis-z.html#rechte), [Retrieval](/ressourcen/a-bis-z.html#retrieval), [Rolle](/ressourcen/a-bis-z.html#rolle), [Rosetta-Backend](/ressourcen/a-bis-z.html#rosetta-backend)  
 **S:** [Sammlungen](/ressourcen/a-bis-z.html#sammlungen), [Standards](/ressourcen/a-bis-z.html#standards)  
 **U:** [Urheberrecht](/ressourcen/a-bis-z.html#urheberrecht)  
-**W:** [Web-Portal](/ressourcen/a-bis-z.html#web-portal) [Weitere Glossare](/ressourcen/a-bis-z.html#weitere-glossare), [Werkverzeichnis](/ressourcen/a-bis-z.html#werkverzeichnis)  
+**W:** [Web-Portal](/ressourcen/a-bis-z.html#web-portal), [Weitere Glossare](/ressourcen/a-bis-z.html#weitere-glossare), [Werkverzeichnis](/ressourcen/a-bis-z.html#werkverzeichnis)  
 **Z:** [Zugang](/ressourcen/a-bis-z.html#zugang)  
 
 ----
@@ -33,7 +34,7 @@ Attribute sind spezifische Merkmale oder Eigenschaften, die zur Beschreibung und
 ----
 
 ### Backend
-Backend ist eine allgemeine Bezeichnung für eine Benutzeroberfläche, die nur nach vorheriger Authentifizierung/Anmeldung in einem System zugänglich ist. Im System von arkumu.nrw gibt es die [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske) (auch ”ingest” genannt), das Admin-Backend (auch ”adm” genannt) und das Rosetta-Backend. Siehe: [Infrastruktur](/documentation/infrastructure).
+Backend ist eine allgemeine Bezeichnung für eine Benutzeroberfläche, die nur nach vorheriger Authentifizierung/Anmeldung in einem System zugänglich ist. Im System von arkumu.nrw ist dies das Backend des [Web- und Arbeitsrepositoriums](/documentation/infrastructure/#web--und-arbeitsrepositorium) und das Backend für die vom hbz betriebene Rosetta-Software. Siehe: [Infrastruktur](/documentation/infrastructure).
 
 ----
 
@@ -53,12 +54,12 @@ Manche Dateiformate sind besser als andere für die Langzeitarchivierung geeigne
 ----
 
 ### Daten-Staging
-Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Mediendaten und Metadaten) zusammengeführt werden, um strukturiert, angereichert, geprüft und ggf. freigegeben zu werden, nennt sich Daten-Staging. Nach erfolgter Freigabe werden die Datensätze ingestiert(wohin?). In anderen Systemen wird dieser Ablageort auch „Pre-Ingest“ genannt. Siehe: [Infrastruktur](/documentation/infrastructure).
+Der vorläufige Ablageort, in dem neu erfasste Datensätze (zusammengehörige Mediendaten und Metadaten) zusammengeführt werden, um strukturiert, angereichert, geprüft und ggf. freigegeben zu werden. Teil des [Web- und Arbeitsrepositoriums](/documentation/infrastructure/#web--und-arbeitsrepositorium). Nach erfolgter Freigabe werden die Datensätze für den Ingest nach Rosetta freigegeben. In anderen Systemen wird dieser Ablageort auch „Pre-Ingest“ genannt.
 
 ----
 
 ### Digitales Objekt
-Siehe: [Ereignis: Digitale Objekte] (/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-digitale-objekte)
+Siehe [Ereignis: Digitale Objekte](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-digitale-objekte)
 
 ----
 
@@ -73,12 +74,17 @@ Ereignisse bilden die historische Entwicklung eines Projekts ab. Siehe: [Einfüh
 ----
 
 ### Erfassungs-Maske
-Die Erfassungs-Maske ist eine Web-Applikation, die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Web-Repositorium ermöglicht. Synonym mit Upload-Datenschnittstelle, Upload-Portal, etc. Siehe [Infrastruktur/Importer und Erfassungs-Maske](/documentation/infrastructure#erfassungs-maske-und-erfassungs-maske).
+Eine Web-Applikation als Teil des [Web- und Arbeitsrepositoriums](/documentation/infrastructure/#web--und-arbeitsrepositorium), die das Eingeben und Hochladen von Datensätzen (Metadaten und Mediendaten) in das Web-Repositorium ermöglicht. Wir trennen zwischen der Erfassungs-Maske, die zum manuellen Eingeben einzelner Attribute benutzt wird, und dem Importer, der das Einspielen größerer Datenmengen ermöglicht. In früheren Beschreibungen des Systems von arkumu.nrw wurden für diese Funktionen Begriffe wie Erfassungs-Backend, Upload-Datenschnittstelle, Upload-Portal, etc. benutzt. 
 
 ----
 
 ### Equipment und Software
 Siehe: [Ereignis: Equipment & Software] (/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-equipment--software)
+
+----
+
+### Importer
+Eine Web-Applikation als Teil des [Web- und Arbeitsrepositoriums](/documentation/infrastructure/#web--und-arbeitsrepositorium), die das Hochladen von ganzen Datensätzen von Metadaten und Mediendaten in das Web-Repositorium ermöglicht. Wir trennen zwischen der [Erfassungs-Maske](/ressourcen/a-bis-z.html#erfassungs-maske), die zum manuellen Eingeben einzelner Attribute benutzt wird, und dem Importer, der das Einspielen größerer Datenmengen ermöglicht. In früheren Beschreibungen des Systems von arkumu.nrw wurden für diese Funktionen Begriffe wie Erfassungs-Backend, Upload-Datenschnittstelle, Upload-Portal, etc. benutzt. 
 
 ----
 
@@ -100,6 +106,7 @@ Langzeitverfügbarkeit (auch: Langzeitarchivierung) bezeichnet den Prozess der d
 ### Lizenz
 Über eine Lizenz wird festgelegt, wer Zugang zu den Digitalen Objekten bekommt und für welche Zwecke diese genutzt werden dürfen. Diese Rechte werden von den Rechteinhaber:innen eingeräumt. Damit ein Projekt oder Werk auf arkumu.nrw archiviert werden kann, muss der einliefernden Hochschule mindestens das Recht zur Archivierung eingeräumt werden. Auf Wunsch kann auch eine Lizenz gewählt werden, die das Recht zur Veröffentlichung beinhaltet. Gemeinfreie Werke benötigen keine Rechteeinräumung. Siehe: [Lizenzen](/ressourcen/lizenzen/).
 Urheberrecht verweist hierher – wird aber hier nicht erwähnt
+
 ----
 
 ### Metadaten
@@ -117,7 +124,7 @@ Siehe: (Projekt: Einliefernde Hochschule und Organisationseinheiten] (/ressource
 
 ----
 
-### Orte
+### Ort
 Orte werden an vielen Stellen im System benutzt, z. B. um anzuzeigen, wo ein Ereignis stattgefunden hat oder um biografische Informationen zu geben. Orte können Länder, Städte, genaue Adressen oder auch Räume in einem Gebäude sein. Für die Angabe in arkumu.nrw muss ein Ort einen Wikidata-Eintrag mit darin enthaltenen Koordinaten haben. Siehe: [Entitäten und Attribute des Datenmodells](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-orte).
 
 ----
@@ -127,7 +134,7 @@ Siehe: [Ereignis: Physische Objekte] (/ressourcen/entitaeten-und-attribute-des-d
 
 ----
 
-### Projekte
+### Projekt
 Die Aufgabe von arkumu.nrw ist es, die multimedialen künstlerischen Inhalte der Kunst- und Musikhochschulen des Landes NRW zu erschließen und zu sichern. Hauptsächlich sind das künstlerische Werke, aber auch viele Dinge, die sich nicht wirklich als Werk beschreiben lassen, wie z. B. Aufzeichnungen von Vorträgen. Deshalb benutzt arkumu.nrw als zentrale Verzeichnungseinheit den Begriff Projekt. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Siehe: [Einführung in das Datenmodell](/ressourcen/einfuehrung-in-das-datenmodell).
 
 ----
@@ -143,9 +150,7 @@ Kurz für „Information Retrieval“ (Informationswiedergewinnung) und meint de
 ----
 
 ### Rolle
-Siehe: [Rollen](/documentation/controlled-vocabularies/roles.html)
-ODER
-Siehe: [Ereignis: Akteur:innen, Rollen und Rechteangaben](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben)
+Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Siehe [Ereignis: Akteur:innen, Rollen und Rechteangaben](/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-akteurinnen-rollen-und-rechteangaben). Das von arkumu.nrw erarbeitete Vokabular aller Rollen findet sich in der [Dokumentation](/documentation/controlled-vocabularies/roles.html).
 
 ----
 

@@ -40,8 +40,8 @@ Sorgen Sie bitte dafür, dass mindestens folgende beschreibende **Metada
 | Rechteangaben | Haben die Rechteinhaber:innen Ihrer Hochschule das einfache Nutzungsrecht zur Übernahme in das Archiv eingeräumt? Dürfen Sie darüber hinaus eine Lizenz zur Veröffentlichung im Netz vergeben, und wenn ja, welche? Wenn die Archivalien bereits gemeinfrei sind, benötigen Sie kein Einverständnis der Rechteinhaber:innen|
 |Digitales Objekt|Die zu archivierende Datei oder das Dateibündel.|
 
-Diese Informationen können schon vor Beginn der formellen Erfassung gesammelt und zusammengeführt werden. Seit 2025 ist die [Erfassungs-Maske](/documentation/infrastructure#importer-und-erfassungs-maske) in Betrieb. Auf Anfrage kann ein Testzugang eingerichtet werden.
+Diese von arkumu.nrw 2023 in einer Handreichung für die Partnerhochschulen veröffentlichen Empfehlungen zu den wichtigsten Feldern decken sich mit der von der Deutschen Digitalen Bibliothek entwickelten, 2024 veröffentlichten [Minimaldatensatz-Empfehlung für Museen und Sammlungen](https://www.minimaldatensatz.de/). 
 
-Die von arkumu.nrw entwickelten Informationen zu den wichtigsten Feldern decken sich mit der von der Deutschen Digitalen Bibliothek entwickelten, 2024 veröffentlichten [Minimaldatensatz-Empfehlung für Museen und Sammlungen](https://www.minimaldatensatz.de/). 
+Diese Informationen sollten gesammelt und zusammengeführt werden, wenn das Ziel eine systematische Archivierung von Kulturgut im weitesten Sinne ist. 
 
 Weitere Informationen zu den Feldern im System von arkumu.nrw finden sich unter dem Punkten [Ressourcen]({{ site.baseurl }}/ressourcen) und [Dokumentation]({{ site.baseurl }}/documentation). 
