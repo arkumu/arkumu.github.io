@@ -15,7 +15,7 @@ order: 2.7
 **N:** [Normdaten](/ressourcen/a-bis-z.html#normdaten)  
 **O:** [Organisationseinheit](/ressourcen/a-bis-z.html#organisationseinheit), [Ort](/ressourcen/a-bis-z.html#ort)  
 **P:** [Physisches Objekt](/ressourcen/a-bis-z.html#physisches-objekt), [Projekt](/ressourcen/a-bis-z.html#projekt)  
-**R:** [Rechte](/ressourcen/a-bis-z.html#rechte), [Retrieval](/ressourcen/a-bis-z.html#retrieval), [Rolle](/ressourcen/a-bis-z.html#rolle), [Rosetta-Backend](/ressourcen/a-bis-z.html#rosetta-backend)  
+**R:** [Rechte](/ressourcen/a-bis-z.html#rechte), [Retrieval](/ressourcen/a-bis-z.html#retrieval), [Rolle](/ressourcen/a-bis-z.html#rolle), [Rosetta-Backend](/ressourcen/a-bis-z.html#rosetta-backend), [Rosetta-Onboarding](/ressourcen/a-bis-z.html#rosetta-onboarding)  
 **S:** [Sammlungen](/ressourcen/a-bis-z.html#sammlungen), [Standards](/ressourcen/a-bis-z.html#standards)  
 **U:** [Urheberrecht](/ressourcen/a-bis-z.html#urheberrecht)  
 **W:** [Web-Portal](/ressourcen/a-bis-z.html#web-portal), [Weitere Glossare](/ressourcen/a-bis-z.html#weitere-glossare), [Werkverzeichnis](/ressourcen/a-bis-z.html#werkverzeichnis)  
@@ -159,6 +159,12 @@ Das Rosetta-Backend ist die grafische Benutzeroberfläche für das Rosetta-Syste
 
 ----
 
+### Rosetta-Onboarding
+
+Gegen Ende der dreijährigen Projektlaufzeit wurden ausgewählte Personen aus den Partnerhochschulen und das Projektteam im Rahmen eines ausführlichen Onboardings in die Benutzung von Rosetta eingeführt. Auf internen Seiten des [hbz-Service Wikis](https://service-wiki.hbz-nrw.de/spaces/LLZV/overview) ist der Prozess des Onboardings und der Einlieferung im Detail langfristig dokumentiert. Das hbz schaltet auf Anfrage den Zugang zu diesen Seiten für Benutzende der einzelnen Hochschulen frei.
+
+----
+
 ### Sammlungen
 Über Sammlungen kann die Zusammengehörigkeit einliefernder Institutionen bzw. eine gemeinsame Provenienz erfasst werden.
 Beispiele: Tonträger aus dem Bandarchiv der HfMT Köln, Fotografien aus dem Fotoarchiv der Folkwang Universität der Künste, Equipment aus dem Technikarchiv der Kunsthochschule für Medien Köln, aber auch Veranstaltungen aus einer Reihe oder ein Nachlass.
@@ -176,10 +182,9 @@ Siehe: [Lizenz](/ressourcen/a-bis-z.html#lizenz)
 ----
 
 ### Web-Portal
-Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Siehe: [Infrastruktur/Web-Portal](/documentation/infrastructure#web-portal).
+Bezeichnet in arkumu.nrw die öffentlich zugängliche Webseite, die [Zugang](/ressourcen/a-bis-z.html#zugang) zu Metadaten und ggf. Digitalen Objekten von Projekten gibt. Synonyme: Dissemination-Frontend, Discovery-Portal, Recherche-Oberfläche oder Präsentationsebene. Im internen System des Web- und Arbeitsrepositoriums wird der Begriff catalog verwendet. Siehe: [Infrastruktur/Web-Portal](/documentation/infrastructure#web-portal).
 
 ----
-
 
 ### Weitere Glossare
 Das [LZV-Glossar des hbz](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=565936255) bietet einen Überblick über die Begriffe zum Thema Langzeitverfügbarkeit.
