@@ -36,7 +36,7 @@ arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimiz
 
 * **resolver:** HTML-Seiten mit automatischer Weiterleitung (in einem minimalen arkumu-Docs-Design), die als URI-Resolver eingesetzt werden. | HTML pages with automatic forwarding (in a minimal arkumu-Docs design), which are used as URI resolvers.
 
-* **projektstruktur, ressourcen, technische-dokumentation** Enthalten die meisten Seiten für die Website. Sobald ein neuer Ordner erstellt und eine index.markdown mit der entsprechenden Kopfzeile hinzugefügt wurde, wird dieser Ordner zu einem neuen Dropdown-Element in der Kopfzeile der Webseite, welches dann weitere Seiten enthalten kann. | Contain most of the pages for the website. As soon as a new folder has been created and an index.markdown with the corresponding front matter has been added, this folder becomes a new dropdown element in the header of the website, which then can contain further pages.
+* **projektstruktur, ressourcen, documentation** Enthalten die meisten Seiten für die Website. Sobald ein neuer Ordner erstellt und eine index.markdown mit der entsprechenden Kopfzeile hinzugefügt wurde, wird dieser Ordner zu einem neuen Dropdown-Element in der Kopfzeile der Webseite, welches dann weitere Seiten enthalten kann. | Contain most of the pages for the website. As soon as a new folder has been created and an index.markdown with the corresponding front matter has been added, this folder becomes a new dropdown element in the header of the website, which then can contain further pages.
 
 * **404.html:** Die Fehlerseite der Webpage. | The error site of the webpage.
 

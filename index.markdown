@@ -4,7 +4,7 @@ title: arkumu.nrw Dokumentation und Ressourcen
 order: 0
 ---
 
-Auf dieser Seite bieten wir Ihnen Informationen zur [Projektstruktur](/projektstruktur) von arkumu.nrw, [Ressourcen](/ressourcen) für Einliefernde und die interessierte Öffentlichkeit und eine [technische Dokumentation](/technische-dokumentation) des Projekts.
+Auf dieser Seite bieten wir Ihnen Informationen zur [Projektstruktur](/projektstruktur) von arkumu.nrw, [Ressourcen](/ressourcen) für Einliefernde und die interessierte Öffentlichkeit und eine [technische Dokumentation](/documentation) des Projekts.
 
 Das Ziel des Projekts arkumu.nrw ist die qualitativ hochwertige Erschließung, Verfügbarhaltung und dauerhafte Archivierung der beeindruckenden multimedialen künstlerischen Bestände der Kunst- und Musikhochschulen des Landes NRW. Die Kernaufgaben sind:
 
