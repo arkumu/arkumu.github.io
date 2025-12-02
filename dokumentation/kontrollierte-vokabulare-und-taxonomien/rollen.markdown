@@ -454,6 +454,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td><a href='#role-404'>404</a></td><td><a href='#role-404'>Kirchenmusiker:in</a></td><td><a href='#role-404'>church musician</a></td></tr>
 <tr><td><a href='#role-405'>405</a></td><td><a href='#role-405'>Klangregisseur:in</a></td><td><a href='#role-404'>sound director</a></td></tr>
 <tr><td><a href='#role-406'>406</a></td><td><a href='#role-406'>Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>water instrument player</a></td></tr>
+<tr><td><a href='#role-407'>407</a></td><td><a href='#role-407'>Synthesizerspieler:in</a></td><td><a href='#role-407'>synthesizer player</a></td></tr>
 </table>
 </details>
 
@@ -795,6 +796,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td><a href='#role-232'>Student:in</a></td><td><a href='#role-232'>student</a></td><td><a href='#role-232'>232</a></td></tr>
 <tr><td><a href='#role-234'>Synchronregie</a></td><td><a href='#role-234'>dialog director</a></td><td><a href='#role-234'>234</a></td></tr>
 <tr><td><a href='#role-233'>Synchronsprecher:in</a></td><td><a href='#role-233'>dub actor</a></td><td><a href='#role-233'>233</a></td></tr>
+<tr><td><a href='#role-407'>Synthesizerspieler:in</a></td><td><a href='#role-407'>synthesizer player</a></td><td><a href='#role-407'>407</a></td></tr>
 <tr><td><a href='#role-235'>Szenenbildner:in</a></td><td><a href='#role-235'>set designer/production designer</a></td><td><a href='#role-235'>235</a></td></tr>
 <tr><td><a href='#role-199'>Sänger:in</a></td><td><a href='#role-199'>singer</a></td><td><a href='#role-199'>199</a></td></tr>
 <tr><td><a href='#role-328'>Tanzlehrer:in</a></td><td><a href='#role-328'>dance teacher</a></td><td><a href='#role-328'>328</a></td></tr>
@@ -1108,6 +1110,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td>[Musiker:in](#role-160)</td><td><a href='#role-160'>160</a></td></tr>
 <tr><td>[Musiker:in](#role-160) > [Bandleader:in](#role-333)</td><td><a href='#role-333'>333</a></td></tr>
 <tr><td>[Musiker:in](#role-160) > [Jazzmusiker:in](#role-334)</td><td><a href='#role-334'>334</a></td></tr>
+<tr><td>[Musiker:in](#role-160) > [Synthesizerspieler:in](#role-407)</td><td><a href='#role-407'>407</a></td></tr>
 <tr><td>[Musiker:in](#role-160) > [Wasserinstrumentspieler:in](#role-406)</td><td><a href='#role-406'>406</a></td></tr>
 <tr><td>[Musikinstrumentenbauer:in](#role-161)</td><td><a href='#role-161'>161</a></td></tr>
 <tr><td>[Musikinstrumentenbauer:in](#role-161) > [Geigenbauer:in](#role-162)</td><td><a href='#role-162'>162</a></td></tr>
@@ -1501,6 +1504,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td>[musical theatre actor](#role-332)</td><td><a href='#role-332'>332</a></td></tr>
 <tr><td>[musician](#role-160)</td><td><a href='#role-160'>160</a></td></tr>
 <tr><td>[musician](#role-160) > [bandleader](#role-333)</td><td><a href='#role-333'>333</a></td></tr>
+<tr><td>[musician](#role-160) > [synthesizer player](#role-407)</td><td><a href='#role-407'>407</a></td></tr>
 <tr><td>[musician](#role-160) > [water instrument player](#role-406)</td><td><a href='#role-406'>406</a></td></tr>
 <tr><td>[musician](#role-160) > [jazz musician](#role-334)</td><td><a href='#role-334'>334</a></td></tr>
 <tr><td>[musicologist](#role-169)</td><td><a href='#role-169'>169</a></td></tr>
@@ -11043,6 +11047,32 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 | **English Breadcrumb** | [supervising producer](#role-190) |
 | **Pre-selects "ist Urheber:in" automatically** | ⨉ |
 | **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ⨉ |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<a href="#role-407" id="role-407">role-407</a>
+
+## synthesizer player
+
+|||
+|-----------|-----------|
+| **ID** | 407 |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-407`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-407) |
+| **English Name** | synthesizer player |
+| **German Name** | Synthesizer Spieler:in |
+| **English Synonyms** | - |
+| **Wikidata ID** | - |
+| **Parent Role** | [musician](#role-160) |
+| **German Breadcrumb** | [Musiker:in](#role-160) > [Synthesizer Spieler:inspieler:in](#role-407) |
+| **English Breadcrumb** | [musician](#role-160) > [synthesizer player](#role-407) |
+| **Pre-selects "ist Urheber:in" automatically** | ⨉ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ✓ |
 
 <br/>
 <br/>
