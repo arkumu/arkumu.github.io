@@ -452,6 +452,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td><a href='#role-402'>402</a></td><td><a href='#role-402'>Lehrbeauftragte:r</a></td><td><a href='#role-402'>freelance instructor</a></td></tr>
 <tr><td><a href='#role-403'>403</a></td><td><a href='#role-403'>Moderator:in</a></td><td><a href='#role-403'>presenter</a></td></tr>
 <tr><td><a href='#role-404'>404</a></td><td><a href='#role-404'>Kirchenmusiker:in</a></td><td><a href='#role-404'>church musician</a></td></tr>
+<tr><td><a href='#role-405'>405</a></td><td><a href='#role-405'>Klangregisseur:in</a></td><td><a href='#role-404'>sound director</a></td></tr>
 </table>
 </details>
 
@@ -622,6 +623,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td><a href='#role-146'>Kinderchor</a></td><td><a href='#role-146'>children's choir</a></td><td><a href='#role-146'>146</a></td></tr>
 <tr><td><a href='#role-404'>Kirchenmusiker:in</a></td><td><a href='#role-404'>church musician</a></td><td><a href='#role-404'>404</a></td></tr>
 <tr><td><a href='#role-320'>Klangkünstler:in</a></td><td><a href='#role-320'>sound artist</a></td><td><a href='#role-320'>320</a></td></tr>
+<tr><td><a href='#role-405'>Klangregisseur:in</a></td><td><a href='#role-405'>sound director</a></td><td><a href='#role-405'>405</a></td></tr>
 <tr><td><a href='#role-90'>Klarinettist:in</a></td><td><a href='#role-90'>clarinetist</a></td><td><a href='#role-90'>90</a></td></tr>
 <tr><td><a href='#role-163'>Klavierbauer:in</a></td><td><a href='#role-163'>piano maker</a></td><td><a href='#role-163'>163</a></td></tr>
 <tr><td><a href='#role-237'>Klavierist:in</a></td><td><a href='#role-237'>clavierist</a></td><td><a href='#role-237'>237</a></td></tr>
@@ -1012,6 +1014,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td>[Kameraperson](#role-112)</td><td><a href='#role-112'>112</a></td></tr>
 <tr><td>[Keramiker:in](#role-313)</td><td><a href='#role-313'>313</a></td></tr>
 <tr><td>[Kirchenmusiker:in](#role-404)</td><td><a href='#role-404'>404</a></td></tr>
+<tr><td>[Klangregisseur:in](#role-405)</td><td><a href='#role-405'>405</a></td></tr>
 <tr><td>[Klavierist:in](#role-237)</td><td><a href='#role-237'>237</a></td></tr>
 <tr><td>[Klavierist:in](#role-237) > [Cembalist:in](#role-238)</td><td><a href='#role-238'>238</a></td></tr>
 <tr><td>[Klavierist:in](#role-237) > [Harmoniumspieler:in](#role-239)</td><td><a href='#role-239'>239</a></td></tr>
@@ -1594,6 +1597,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td>[soldier](#role-219)</td><td><a href='#role-219'>219</a></td></tr>
 <tr><td>[song accompaniment](#role-401)</td><td><a href='#role-401'>401</a></td></tr>
 <tr><td>[sound designer](#role-220)</td><td><a href='#role-220'>220</a></td></tr>
+<tr><td>[sound director](#role-405)</td><td><a href='#role-405'>405</a></td></tr>
 <tr><td>[spatial planner](#role-349)</td><td><a href='#role-349'>349</a></td></tr>
 <tr><td>[speaker](#role-223)</td><td><a href='#role-223'>223</a></td></tr>
 <tr><td>[speaker](#role-223) > [announcer](#role-224)</td><td><a href='#role-224'>224</a></td></tr>
@@ -10611,6 +10615,30 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 | **English Breadcrumb** | [sound designer](#role-220) |
 | **Pre-selects "ist Urheber:in" automatically** | ⨉ |
 | **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ⨉ |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<a href="#role-405" id="role-405">role-405</a>
+
+## sound director
+
+|||
+|-----------|-----------|
+| **ID** | 405 |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-405`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-405) |
+| **English Name** | sound director |
+| **German Name** | Klangregisseur:in |
+| **English Synonyms** | - |
+| **Wikidata ID** | Q17322837 |
+| **German Breadcrumb** | [Klangregisseur:in](#role-405) |
+| **Pre-selects "ist Urheber:in" automatically** | ⨉ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ✓ |
 
 <br/>
 <br/>
