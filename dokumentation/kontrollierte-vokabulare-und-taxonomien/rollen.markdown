@@ -15,7 +15,7 @@ permalink: /documentation/controlled-vocabularies/roles
 
 **Deutsch:**
 
-Rollen beschreiben die Berufe und Tätigkeiten von Akteur:innen innerhalb des arkumu.nrw-Systems. Sie können auf zweierlei Weise verwendet werden: als globale Rollen, die eine Akteur:in immer inne hat, unabhängig vom Kontext, und als kontextuelle Rolle – in Bezug auf ein Ereignis. Um das Spektrum aller Berufe und Tätigkeiten abbilden zu können, ist arkumu.nrw nicht auf künstlerische Rollen beschränkt.
+Rollen beschreiben die Berufe und Tätigkeiten von Akteur:innen innerhalb des arkumu.nrw-Systems. Sie können auf zweierlei Weise verwendet werden: als globale Rollen, die eine Akteur:in immer – unabhängig vom Kontext – innehat, und als kontextuelle Rollen in Bezug auf ein bestimmtes Ereignis. Um das Spektrum aller Berufe und Tätigkeiten abbilden zu können, ist arkumu.nrw nicht auf künstlerische Rollen beschränkt.
 
 <br/>
 
@@ -25,7 +25,8 @@ Rollen beschreiben die Berufe und Tätigkeiten von Akteur:innen innerhalb des ar
 
 **English:**
 
-Roles describe the professions and occupations of Actors within the arkumu.nrw system. They can be used twofold: as global Roles, which an Actor always has, regardless of context, and contextual Roles – related to an Event. In order to represent the entire spectrum of professions and occupations, arkumu.nrw is not limited to artistic roles.
+Roles describe the professions and activities of actors within the arkumu.nrw system. They can be used in two ways: as global roles, which an actor holds independently of any specific context, and as contextual roles, which apply only in relation to a particular event.
+To reflect the full range of professions and activities, arkumu.nrw is not limited to artistic roles.
 
 
 <br/>

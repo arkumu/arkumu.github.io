@@ -16,7 +16,7 @@ permalink: /documentation/controlled-vocabularies/equipment-types
 
 **Deutsch:**
 
-Equipmentarten erlauben eine Grobkategorisierung von Equipment und Software, welche/s zur Erstellung künstlerischer Projekte oder in bestimmten Ereignissen, zum Beispiel bei der Digitalisierung einer historischen Schallplatte, verwendet wurde.
+Equipmentarten erlauben eine grobe Kategorisierung von Equipment und Software, die bei der Erstellung künstlerischer Projekte oder bei anderen Ereignissen verwendet wurden – zum Beispiel bei der Digitalisierung einer historischen Schallplatte.
 
 <br/>
 
@@ -26,7 +26,7 @@ Equipmentarten erlauben eine Grobkategorisierung von Equipment und Software, wel
 
 **English:**
 
-Equipment types allow for a rough categorisation of equipment and software that was used to create artistic projects or was used in specific events, such as the digitisation of a historic record.
+Equipment types allow for a general categorization of equipment and software used in the creation of artistic projects or in other events—for example, during the digitization of a historical vinyl record.
 
 <br/>
 

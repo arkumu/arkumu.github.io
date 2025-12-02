@@ -25,7 +25,7 @@ Projektkategorien typisieren ein Projekt in einem vornehmlich künstlerischen Si
 
 **English:**
 
-Project Caterories typify a Project in a primarily artistic sense. [Project Types](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types), on the other hand, categorise the project in its academic or more general function.
+Project categories classify a project in a primarily artistic sense. [Project Types](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types), on the other hand, categorize the project according to its academic or more general function.
 
 <br/>
 

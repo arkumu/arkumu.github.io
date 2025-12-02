@@ -15,7 +15,9 @@ permalink: /documentation/controlled-vocabularies/genesis-types
 
 **Deutsch:**
 
-Der Entstehungstyp kategorisiert ein Digitales Objekt danach, ob es digital entstanden ist oder eine digitalisierte Kopie von einem bereits bestehenden Informationsträger ist. Diese Abgrenzung ist wichtig, da ein digitales Foto eines Designobjekts auch als Retrodigitalisat eines bereits vorhandenen Objekts interpretiert werden könnte, welches Informationen enthält. Im Sinne von arkumu.nrw würde dieses digitale Foto jedoch als „Born Digital“ kategorisiert werden, während digitalisierte Aufnahmen von Tonbändern oder Schallplatten oder Scans von Skizzen, Plakaten oder Büchern alle als „Retrodigitalisat“ kategorisiert werden. 
+Der Entstehungstyp beschreibt, ob ein Digitales Objekt ursprünglich digital erzeugt wurde oder ob es sich um eine digitalisierte Kopie eines bereits existierenden Informationsträgers handelt. Diese Unterscheidung ist wichtig, da ein digitales Foto eines Designobjekts als Retrodigitalisat eines bereits vorhandenen Objekts verstanden werden könnte, das Informationen enthält.
+Im Kontext von arkumu.nrw wird ein solches Foto jedoch als „Born Digital“ eingestuft.
+Dagegen zählen digitalisierte Aufnahmen von Tonbändern oder Schallplatten sowie Scans von Skizzen, Plakaten oder Büchern zum „Retrodigitalisat“. 
 
 <br/>
 
@@ -25,7 +27,7 @@ Der Entstehungstyp kategorisiert ein Digitales Objekt danach, ob es digital ents
 
 **English:**
 
-The Genesis Type further categorises a Digital Object as to wether it originated digitally or is a digitized copy from an already existing Information Storage Medium. This definition is important, since a digital photo of a design object could also be interpreted as a retro-digitisation of an already existing object that carries information. But in the sense of arkumu.nrw, this digital photo would be categorised as "Born Digital" instead, while digitized recordings from tapes or records, or scans of sketches, posters or books are all categorsied as "Retro-Digitised".
+The Genesis Type indicates whether a digital object was originally created in digital form or whether it is a digitized copy of an existing Information Storage Medium. This distinction is important, since a digital photo of a design object could also be interpreted as a retro-digitisation of an already existing object that carries information. But in the sense of arkumu.nrw, this digital photo would be classified as "Born Digital" instead, while digitized recordings from tapes or records, or scans of sketches, posters or books are all classified as "Retro-Digitised".
 
 <br/>
 <br/>

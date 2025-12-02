@@ -20,7 +20,9 @@ permalink: /documentation/controlled-vocabularies/
 
 **Deutsch**:
 
-Durch die gemeinsame Verwendung von einheitlichen und unikal identifizierbaren Begrifflichkeiten ist es möglich, entweder in einem einzelnen Bestand oder über mehrere Bestände hinweg, Akteur:innen, Projekte, Ereignisse, etc., genormt zu klassifizieren und sie dadurch wiederauffindbar, vergleichbar und nachnutzbar zu machen. Sie bilden somit einen integralen Teil für die Qualität der bereitgestellten Metadaten. Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in Wertelisten und Taxonomien, die darüber hinaus auch noch eine hierarchische Einordnung der Begriffe erlauben. Durch die angegebenen URIs ist jeder Begriff genau identifizier und referenzierbar.
+Durch die gemeinsame Verwendung einheitlicher und eindeutig identifizierbarer Begrifflichkeiten ist es möglich, Akteur:innen, Projekte und Ereignisse – sowohl innerhalb eines einzelnen Bestands als auch über mehrere Bestände hinweg – standardisiert zu klassifizieren und sie dadurch wiederauffindbar, vergleichbar und nachnutzbar zu machen. Sie bilden somit einen integralen Bestandteil der Qualität der bereitgestellten Metadaten.
+
+Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in Wertelisten und in Taxonomien, die darüber hinaus auch eine hierarchische Einordnung der Begriffe ermöglichen. Durch die angegebenen URIs ist jeder Begriff genau identifizierbar und referenzierbar.
 
 <br/>
 
@@ -30,7 +32,8 @@ Durch die gemeinsame Verwendung von einheitlichen und unikal identifizierbaren B
 
 **English:**
 
-Through the joint use of uniform and uniquely identifiable terms, it is possible to classify Actors, Projects, Events, etc. in a standardized manner, either in a single repository or across multiple repositories, thereby making them searchable, comparable, and reusable. They thus form an integral part of the quality of the metadata provided. Controlled vocabularies appear in arkumu.nrw primarily in two forms: in value lists and taxonomies, which also allow for a hierarchical classification of terms. The specified URIs make each term precisely identifiable and referenceable.
+By using consistent and uniquely identifiable terminology, it becomes possible to classify actors, projects, and events in a standardized way—either within a single collection or across multiple collections—making them easier to find, compare, and reuse. They therefore form an integral part of the quality of the provided metadata.
+In arkumu.nrw, controlled vocabularies appear primarily in two forms: value lists and taxonomies, the latter additionally allowing for the hierarchical structuring of terms. Thanks to the assigned URIs, each term is uniquely identifiable and citable.
 
 <br/>
 <br/>
@@ -49,7 +52,7 @@ Through the joint use of uniform and uniquely identifiable terms, it is possible
 
 **Deutsch:**
 
-Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokabulars dar. Wie der Name schon andeutet, handelt es sich dabei um eine Liste von Einträgen, die nicht auf einer hierarchischen oder ontologischen Struktur basiert. Sie werden in allen zentralen Entitäten von arkumu.nrw verwendet, namentlicht in [**Akteur:in**](), [**Digitales Objekt**](), [**Ereignis**](), und [**Projekt**]().
+Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokabulars dar. Wie der Name schon andeutet, handelt es sich dabei um eine Liste von Einträgen, die nicht auf einer hierarchischen oder ontologischen Struktur basiert. Sie werden in allen zentralen Entitäten von arkumu.nrw verwendet, namentlich in [**Akteur:in**](), [**Digitales Objekt**](), [**Ereignis**](), und [**Projekt**]().
 
 <br/>
 
@@ -59,7 +62,7 @@ Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokab
 
 **English:**
 
-Value lists represent the most simple structured kind of controlled vocabulary. They are simply, as the name suggests, a list of entries that is not reliant on any hierarchical or ontological structure. They are used in all central in the arkumu.nrw entities, namely in [**Actor**](), [**Digital Object**](), [**Event**](), and [**Project**]().
+Value lists represent the simplest structured form of a controlled vocabulary. As the name suggests, they consist of a list of entries that are not based on a hierarchical or ontological structure. They are used in all central entities of arkumu.nrw, namely in [**Actor**](), [**Digital Object**](), [**Event**](), and [**Project**]().
 
 <br/>
 <br/>
@@ -89,7 +92,7 @@ Value lists represent the most simple structured kind of controlled vocabulary. 
 
 **Deutsch:**
 
-Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestellt werden, in der sich die Konzepte von weniger spezifischen zu spezifischeren Konzepten verzweigen. arkumu.nrw verwendet, um das System auch leicht mit relationalen Datenbanken kompatibel zu halten, keine ontologischen Strukturen. Dies bedingt allerdings, dass bei den [Projektkategorien](/documentation/controlled-vocabularies/project-categories) ein Begriff gleich in mehreren Hierarchien auftauchen kann.
+Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestellt werden, in der sich die Konzepte von weniger spezifischen zu spezifischeren Konzepten verzweigen. Um das System zudem leicht mit relationalen Datenbanken kompatibel zu halten, verwendet arkumu.nrw keine ontologischen Strukturen. Dies hat jedoch zur Folge, dass bei den [Projektkategorien](/documentation/controlled-vocabularies/project-categories) ein Begriff in mehreren Hierarchien gleichzeitig auftauchen kann.
 
 <br/>
 
@@ -99,7 +102,7 @@ Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestell
 
 **English:**
 
-Taxonomies order concepts in a hirarchical mannor. They can be displayed as a trees, where the concepts branch their way from less specific to more specific. arkumu.nrw does not use ontological structures in order to keep the system easily compatible with relational databases. However, this means that a term can appear in several hierarchies in the [project categories](/documentation/controlled-vocabularies/project-categories).
+axonomies organize concepts hierarchically. They can be represented as a tree structure, where concepts branch from less specific to more specific ones. To keep the system easily compatible with relational databases, arkumu.nrw does not use ontological structures. However, this means that in the [project categories](/documentation/controlled-vocabularies/project-categories), a term can appear in multiple hierarchies simultaneously.
 
 <br/>
 <br/>
@@ -127,7 +130,7 @@ Taxonomies order concepts in a hirarchical mannor. They can be displayed as a tr
 
 **Deutsch:**
 
-Die ID-Referenz für die Digitale-Objekt-Lizenz ist kein kontrolliertes Vokabular im engeren Sinne, sondern vielmehr Teil des selbsterstellten und selbst zusammengestelten Lizenz-Modells. Da die anderen kontrollierten Vokabulare allerdings alle mit IDs versehen sind, sollte auch hier den einzelnen Lizenzen eine arkumu.nrw-interne zugewiesen werden.
+Die ID-Referenz für die Digitale-Objekt-Lizenz ist kein kontrolliertes Vokabular im engeren Sinne, sondern vielmehr Teil des selbst erstellten und selbst zusammengestellten Lizenzmodells. Da die anderen kontrollierten Vokabulare jedoch alle mit IDs versehen sind, sollte auch hier den einzelnen Lizenzen eine arkumu.nrw-interne ID zugewiesen werden.
 
 <br/>
 
@@ -137,8 +140,7 @@ Die ID-Referenz für die Digitale-Objekt-Lizenz ist kein kontrolliertes Vokabula
 
 **English:**
 
-The ID reference for the Digital Object Licence is not a controlled vocabulary in the narrow sense, but rather part of the self-created and self-compiled license model. However, since the other controlled vocabularies are all assigned to IDs, the individual licenses should also be assigned to an arkumu.nrw internal ID.
-
+The ID reference for the Digital Object License is not a controlled vocabulary in the strict sense, but rather part of the custom license model developed within arkumu.nrw. Since all other controlled vocabularies are assigned unique IDs, each license here is also assigned an internal arkumu.nrw ID for consistency and traceability.
 <br/>
 <br/>
 

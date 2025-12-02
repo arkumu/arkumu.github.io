@@ -15,7 +15,7 @@ permalink: /documentation/controlled-vocabularies/project-types
 
 **Deutsch:**
 
-Projektarten kategorisieren ein Projekt in einem vornehmlich akademischen oder allgemeineneren Sinn. [Projektkategorien](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories) hingegen kategorisieren das Projekt in einer künstlerischen Weise.
+Projektarten ordnen ein Projekt in einem überwiegend akademischen oder allgemeineren Kontext ein. Die [Projektkategorien](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories) hingegen beschreiben die künstlerische Ausrichtung des Projekts.
 
 <br/>
 
@@ -25,7 +25,8 @@ Projektarten kategorisieren ein Projekt in einem vornehmlich akademischen oder a
 
 **English:**
 
-Project Types categorise a project in a primarily academic or more general sense. [Project Categories](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories), on the other hand, categorise the project in an artistic manner.
+Project types classify a project within a primarily academic or more general context.
+In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories) describe the artistic orientation of the project. 
 
 <br/>
 
