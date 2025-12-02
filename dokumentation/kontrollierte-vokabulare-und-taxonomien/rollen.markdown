@@ -10637,6 +10637,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 | **English Synonyms** | - |
 | **Wikidata ID** | Q17322837 |
 | **German Breadcrumb** | [Klangregisseur:in](#role-405) |
+| **English Breadcrumb** | [sound director](#role-405) |
 | **Pre-selects "ist Urheber:in" automatically** | ⨉ |
 | **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ✓ |
 
