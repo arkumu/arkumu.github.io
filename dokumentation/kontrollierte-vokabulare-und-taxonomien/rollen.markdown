@@ -453,6 +453,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td><a href='#role-403'>403</a></td><td><a href='#role-403'>Moderator:in</a></td><td><a href='#role-403'>presenter</a></td></tr>
 <tr><td><a href='#role-404'>404</a></td><td><a href='#role-404'>Kirchenmusiker:in</a></td><td><a href='#role-404'>church musician</a></td></tr>
 <tr><td><a href='#role-405'>405</a></td><td><a href='#role-405'>Klangregisseur:in</a></td><td><a href='#role-404'>sound director</a></td></tr>
+<tr><td><a href='#role-406'>406</a></td><td><a href='#role-406'>Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>water instrument player</a></td></tr>
 </table>
 </details>
 
@@ -845,6 +846,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td><a href='#role-159'>Volksmusikgruppe</a></td><td><a href='#role-159'>folk music group</a></td><td><a href='#role-159'>159</a></td></tr>
 <tr><td><a href='#role-373'>Vorsitzende:r</a></td><td><a href='#role-373'>chairperson</a></td><td><a href='#role-373'>373</a></td></tr>
 <tr><td><a href='#role-266'>Vortragsredner:in</a></td><td><a href='#role-266'>lecturer</a></td><td><a href='#role-266'>266</a></td></tr>
+<tr><td><a href='#role-406'>Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>water instrument player</a></td><td><a href='#role-406'>406</a></td></tr>
 <tr><td><a href='#role-299'>Web-Designer:in</a></td><td><a href='#role-299'>website designer</a></td><td><a href='#role-299'>299</a></td></tr>
 <tr><td><a href='#role-267'>Webvideoproduzent:in</a></td><td><a href='#role-267'>web video producer</a></td><td><a href='#role-267'>267</a></td></tr>
 <tr><td><a href='#role-374'>Werkstattleiter:in</a></td><td><a href='#role-374'>workshop manager</a></td><td><a href='#role-374'>374</a></td></tr>
@@ -1106,6 +1108,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td>[Musiker:in](#role-160)</td><td><a href='#role-160'>160</a></td></tr>
 <tr><td>[Musiker:in](#role-160) > [Bandleader:in](#role-333)</td><td><a href='#role-333'>333</a></td></tr>
 <tr><td>[Musiker:in](#role-160) > [Jazzmusiker:in](#role-334)</td><td><a href='#role-334'>334</a></td></tr>
+<tr><td>[Musiker:in](#role-160) > [Wasserinstrumentspieler:in](#role-406)</td><td><a href='#role-406'>406</a></td></tr>
 <tr><td>[Musikinstrumentenbauer:in](#role-161)</td><td><a href='#role-161'>161</a></td></tr>
 <tr><td>[Musikinstrumentenbauer:in](#role-161) > [Geigenbauer:in](#role-162)</td><td><a href='#role-162'>162</a></td></tr>
 <tr><td>[Musikinstrumentenbauer:in](#role-161) > [Klavierbauer:in](#role-163)</td><td><a href='#role-163'>163</a></td></tr>
@@ -1498,6 +1501,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <tr><td>[musical theatre actor](#role-332)</td><td><a href='#role-332'>332</a></td></tr>
 <tr><td>[musician](#role-160)</td><td><a href='#role-160'>160</a></td></tr>
 <tr><td>[musician](#role-160) > [bandleader](#role-333)</td><td><a href='#role-333'>333</a></td></tr>
+<tr><td>[musician](#role-160) > [water instrument player](#role-406)</td><td><a href='#role-406'>406</a></td></tr>
 <tr><td>[musician](#role-160) > [jazz musician](#role-334)</td><td><a href='#role-334'>334</a></td></tr>
 <tr><td>[musicologist](#role-169)</td><td><a href='#role-169'>169</a></td></tr>
 <tr><td>[musicologist](#role-169) > [ethnomusicologist](#role-335)</td><td><a href='#role-335'>335</a></td></tr>
@@ -12185,7 +12189,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 | **ID** | 262 |
 | **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-262`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-262) |
 | **German Name** | Vokalist:in |
-| **German Synonyms** | Vokalistin,Vokalist |
+| **German Synonyms** | Vokalistin,Vokalist,Stimme |
 | **English Name** | vocalist |
 | **Wikidata ID** | [Q2643890](https://www.wikidata.org/entity/Q2643890) |
 | **German Breadcrumb** | [Vokalist:in](#role-262) |
@@ -12276,6 +12280,32 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 | **English Breadcrumb** | [voice-over](#role-261) |
 | **Pre-selects "ist Urheber:in" automatically** | ⨉ |
 | **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ⨉ |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<a href="#role-406" id="role-406">role-406</a>
+
+## water instrument player
+
+|||
+|-----------|-----------|
+| **ID** | 406 |
+| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-406`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-406) |
+| **English Name** | water instrument player |
+| **German Name** | Wasserinstrumentspieler:in |
+| **English Synonyms** | - |
+| **Wikidata ID** | - |
+| **Parent Role** | [musician](#role-160) |
+| **German Breadcrumb** | [Musiker:in](#role-160) > [Wasserinstrumentspieler:inspieler:in](#role-406) |
+| **English Breadcrumb** | [musician](#role-160) > [water instrument player](#role-406) |
+| **Pre-selects "ist Urheber:in" automatically** | ⨉ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ✓ |
 
 <br/>
 <br/>
