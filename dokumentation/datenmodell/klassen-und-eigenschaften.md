@@ -1,11 +1,11 @@
 ---
 layout: arkumu-docs
-title: Klassen und Eigenschaften
+title: Graphenmodell
 order: 3.1.1
-permalink: /documentation/data-model/classes-and-properties
+permalink: /documentation/data-model/graph-model
 ---
 
-```Classes and Properties```
+```Graphmodel```
 
 <br/>
 
