@@ -1,8 +1,8 @@
 ---
 layout: arkumu-docs
 title: arkumu-nach-CIDOC-mapping
-order: 3.4.1
-permalink: /documentation/mappings/arkumu-to-cidoc-mapping
+order: 3.1.3
+permalink: /documentation/data-model/arkumu-to-cidoc-mapping
 ---
 
 ```arkumu to CIDOC mapping```
