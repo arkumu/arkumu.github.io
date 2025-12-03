@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
 title: ❗ Benutzbarkeit
-order: 3.3.0
+order: 3.0
 permalink: /documentation/usability
 ---
