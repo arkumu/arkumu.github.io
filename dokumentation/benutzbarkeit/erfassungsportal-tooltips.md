@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Erfassungsportal-Tooltips
-order: 3.0.1
+order: 3.0.2
 permalink: /documentation/usability/ingest-portal-tooltips
 ---
 
