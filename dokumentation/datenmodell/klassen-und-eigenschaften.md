@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Klassen und Eigenschaften
+title: Klassen und Eigenschaften
 order: 3.1.1
 permalink: /documentation/data-model/classes-and-properties
 ---
-
-```❗ **arkumu to CIDOC mapping** noch dead link```
 
 ```Classes and Properties```
 
@@ -17,7 +15,7 @@ permalink: /documentation/data-model/classes-and-properties
 
 **Deutsch:**
 
-Auch wenn das [**Datenmodell von arkumu.nrw**](/documentation/data-model) zwar nicht in einer formal-ontologischen Struktur aufgebaut ist, so ist es doch voll kompatibel mit Metadaten-Standards wie [Rosetta-METS](https://knowledge.exlibrisgroup.com/Rosetta/Product_Documentation/Rosetta_AIP_Data_Model), [MARC21](https://www.dnb.de/DE/Professionell/Metadatendienste/Exportformate/MARC21/marc21_node.html) und [LIDO](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/) sowie mit ontologischen Meta-Metadaten-Standards wie dem [CIDOC-CRM-Modell](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html), wie aus dem [**arkumu-nach-CIDOC-Mapping**](/mappings/arkumu-to-cidoc-mapping) hervorgeht. In Anlehnung an CIDOC können die Entitäten und Felder von arkumu.nrw auch in Klassen und Eigenschaften dargestellt werden, sodass sie auch in einem Wissengrpfen dargestellt werden können und dem "Linked Open Data"-Prinzipien folgen. Entitäten und Felder werden daher als "Classes" dargestellt. Zur besseren Übersicht werden sie in "Entity Classes" und "Field Classes" gruppiert. Entsprechend dazu wird ein Satz von "Properties" eingeführt, die diese Klassen verbinden, gemäß dem oben erwähnten arkumu.nrw-Datenmodell.
+Auch wenn das [**Datenmodell von arkumu.nrw**](/documentation/data-model) zwar nicht in einer formal-ontologischen Struktur aufgebaut ist, so ist es doch voll kompatibel mit Metadaten-Standards wie [Rosetta-METS](https://knowledge.exlibrisgroup.com/Rosetta/Product_Documentation/Rosetta_AIP_Data_Model), [MARC21](https://www.dnb.de/DE/Professionell/Metadatendienste/Exportformate/MARC21/marc21_node.html) und [LIDO](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/) sowie mit ontologischen Meta-Metadaten-Standards wie dem [CIDOC-CRM-Modell](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html), wie aus dem [**arkumu-nach-CIDOC-Mapping**](/documentation/mappings/arkumu-to-cidoc-mapping) hervorgeht. In Anlehnung an CIDOC können die Entitäten und Felder von arkumu.nrw auch in Klassen und Eigenschaften dargestellt werden, sodass sie auch in einem Wissengrpfen dargestellt werden können und dem "Linked Open Data"-Prinzipien folgen. Entitäten und Felder werden daher als "Classes" dargestellt. Zur besseren Übersicht werden sie in "Entity Classes" und "Field Classes" gruppiert. Entsprechend dazu wird ein Satz von "Properties" eingeführt, die diese Klassen verbinden, gemäß dem oben erwähnten arkumu.nrw-Datenmodell.
 
 <br/>
 
@@ -27,7 +25,7 @@ Auch wenn das [**Datenmodell von arkumu.nrw**](/documentation/data-model) zwar n
 
 **English:**
 
-While the [**arkumu.nrw Data Model**](/documentation/data-model) does not present itself in a formal ontological structure,  it is designed to be fully compatible with certain metadata standards, like [Rosetta-METS](https://knowledge.exlibrisgroup.com/Rosetta/Product_Documentation/Rosetta_AIP_Data_Model), [MARC21](https://www.dnb.de/DE/Professionell/Metadatendienste/Exportformate/MARC21/marc21_node.html), and [LIDO](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/), as well as ontological meta-metadata standards like the [CIDOC CRM Model](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html), as can be seen in the [**arkumu to CIDOC mapping**](/mappings/arkumu-to-cidoc-mapping). Also, following CIDOC in that matter, the arkumu.nrw entities and fields can be represented in Classes and Properties, so that they can also be displayed in a knowledge graph and follow [Linked Open Data principles](https://data.europa.eu/sites/default/files/d2.1.2_training_module_1.2_introduction_to_linked_data_de_edp.pdf). Entities and fields are therefore represented as Classes. For a better overview, they are grouped in Entity Classes and Field Classes. Corresponding to these, a set of Properties is introduced, which connects these Classes according to the arkumu.nrw Data Model mentioned above.
+While the [**arkumu.nrw Data Model**](/documentation/data-model) does not present itself in a formal ontological structure,  it is designed to be fully compatible with certain metadata standards, like [Rosetta-METS](https://knowledge.exlibrisgroup.com/Rosetta/Product_Documentation/Rosetta_AIP_Data_Model), [MARC21](https://www.dnb.de/DE/Professionell/Metadatendienste/Exportformate/MARC21/marc21_node.html), and [LIDO](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/), as well as ontological meta-metadata standards like the [CIDOC CRM Model](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html), as can be seen in the [**arkumu to CIDOC mapping**](/documentation/mappings/arkumu-to-cidoc-mapping). Also, following CIDOC in that matter, the arkumu.nrw entities and fields can be represented in Classes and Properties, so that they can also be displayed in a knowledge graph and follow [Linked Open Data principles](https://data.europa.eu/sites/default/files/d2.1.2_training_module_1.2_introduction_to_linked_data_de_edp.pdf). Entities and fields are therefore represented as Classes. For a better overview, they are grouped in Entity Classes and Field Classes. Corresponding to these, a set of Properties is introduced, which connects these Classes according to the arkumu.nrw Data Model mentioned above.
 
 <br/>
 <br/>
