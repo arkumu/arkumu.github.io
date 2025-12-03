@@ -5,6 +5,12 @@ order: 4
 permalink: /documentation/metadata-export/Rosetta-METS
 ---
 
+```❗ To-Do: fix formatting, dead links```
+
+<br/>
+
+---
+
 <br/>
 
 **Deutsch:**
@@ -106,7 +112,7 @@ arkumu-1-RSH-1/
 ```
 <br/>
 
-![rosetta_mets_folder_structure](uploads/58eb4f395509ca469c413659e00d96bb/rosetta_mets_folder_structure.png)
+![rosetta_mets_folder_structure](/assets/images/rosetta_mets_folder_structure.png)
 
 <br/>
 <br/>
