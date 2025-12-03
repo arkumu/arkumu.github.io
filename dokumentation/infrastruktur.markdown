@@ -15,10 +15,11 @@ Dieses im Vorprojekt entwickelte Strukturdiagramm veranschaulicht den logischen 
 
 ## Web- und Arbeitsrepositorium
 
-Das Web- und Arbeitsrepositorium ist der zentrale Knotenpunkt, an dem alle Daten und Dateien, die bei arkumu.nrw erfasst werden, zusammenlaufen, bearbeitet und angereichert werden können, und von dem aus sie weiterverarbeitet werden können. Das Web- und Arbeitsrepositorium liefert die Daten für das öffentliche Web-Portal und bietet eine OAI-PMH Schnittstelle für Rosetta, die Langzeitverfügbarkeits-Lösung des [hbz](https://www.hbz-nrw.de/). 
-
+Das Web- und Arbeitsrepositorium ist der zentrale Knotenpunkt, an dem alle Daten und Dateien, die bei arkumu.nrw erfasst werden, zusammenlaufen, bearbeitet und angereichert werden können, und von dem aus sie weiterverarbeitet werden können. Das Web- und Arbeitsrepositorium stellt einen Daten- und Metadaten-Importer ebenso wie eine manuelle Erfassungsmaske zur Verfügung, liefert die Daten für das öffentliche Web-Portal und bietet eine OAI-PMH Schnittstelle für Rosetta, die Langzeitverfügbarkeits-Lösung des [hbz](https://www.hbz-nrw.de/). 
 
 Das Projekt arkumu.nrw sollte ursprünglich dafür das speziell für die Archivierung von audio-visuellen Kulturarchivalien entwickelte Repositoriumssystem [KA³](https://ka3.uni-koeln.de/) nutzen. Das ITCC der Uni Köln hat aber aufgrund gestiegener Anforderungen erst eine eigene Softwarelösung auf Basis von Grails entwickelt, und diese 2025 noch einmal verworfen und neu und auf Basis von Django programmiert.
+
+Diese Django-App wird vom ITCC weiter entwickelt werden. Der Code und die technische Dokumentation werden auf git.nrw gehostet, zu dem bei Bedarf das ITTC Zugang geben kann. Eine Kopie des Codes ist ohne Beschränkungen zusätzlich auf [GitHub](https://github.com/arkumu/arkumu-app) zugänglich. Fragen und Anregungen nimmt das ITCC über das [Kontaktformular](https://itcc.uni-koeln.de/das-itcc/kontakt/itcc-helpdesk) oder die auf dieser Seite hinterlegte Email-Adresse entgegen.
 
 ----
 
