@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: ❗ Rosetta-METS
-order: 4
+order: 4.1
 permalink: /documentation/metadata-export/Rosetta-METS
 ---
 
