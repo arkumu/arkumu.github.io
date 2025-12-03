@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: ❗ arkumu zu CIDOC mapping
+title: arkumu zu CIDOC mapping
 order: 3.4.1
 permalink: /documentation/mappings/arkumu-to-cidoc-mapping
 ---
@@ -58,6 +58,12 @@ Values in square brackets are subproperties according to the [Table of Propertie
 * [**P139** has alternative form (is alternative form of)](http://cidoc-crm.org/cidoc-crm/7.1.3/P139_has_alternative_form) ⇒ [**E41** Appellation](http://cidoc-crm.org/cidoc-crm/7.1.3/E41_Appellation)
 * [**P168** place is defined by (defines place)](http://cidoc-crm.org/cidoc-crm/7.1.3/P168_place_is_defined_by) ⇒ [**E94** Space Primitive](http://cidoc-crm.org/cidoc-crm/7.1.3/E94_Space_Primitive)
 
+<br/>
+<br/>
+
+---
+
+<br/>
 <br/>
 
 ## Actor
@@ -131,6 +137,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Digital Object
 
 <br/>
@@ -190,6 +201,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Digital Object License
 
 <br/>
@@ -209,6 +225,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | Englischer Anzeigetext | English Display Text | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | URI | URI | 1 | **P1** is identified by (identifies) | **E42** Identifier |
 | Zugehöriges Rechtestatement | Connected Rights Statement | 1 | **P2** has type (is type of) | **E55** Type |
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -241,6 +262,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Equipment Type
 
 <br/>
@@ -257,6 +283,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | Wikidata-ID | Wikidata ID | 1 | **P1** is identified by (identifies) | **E42** Identifier |
 | GND-Nummer | GND ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | AAT-ID | AAT ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -321,6 +352,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Event Type
 
 <br/>
@@ -370,6 +406,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Existing License Agreement
 
 <br/>
@@ -388,6 +429,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | Englischer Vertragstext | English Contract Wording | 0-1 | **P3** has note | **E62** String |
 | PDF | PDF | 1 |  |  |
 | URI | URI | 1 | **P1** is identified by (identifies) | **E42** Identifier |
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -455,6 +501,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Information Storage Medium Type
 
 <br/>
@@ -475,6 +526,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | AAT-ID | AAT ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | PBCore-ID | PBCore ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | Übergeordnete Projektträgertyp(en) | Parent Information Storage Medium Types | 0-n | **P127** has broader term (has narrower term) | **E55** Type |
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -530,6 +586,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Language
 
 <br/>
@@ -546,6 +607,12 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | ISO 639-2(B)-Code | ISO 639-2(B) Code | 1 | **P1** is identified by (identifies) | **E42** Identifier |
 | ISO 639-2(T)-Code | ISO 639-2(T) Code | 1 | **P1** is identified by (identifies) | **E42** Identifier |
 | ISO 639-1-Code | ISO 639-1 Code | 1 | **P1** is identified by (identifies) | **E42** Identifier |
+
+<br/>
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -572,6 +639,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 **Note(s):**
 * **Organizational Units are not considered **[**Actors**](#actor)** within arkumu.nrw.** Since the mandatory rights for long-term preservation and for making projects accessible to the public and cultural heritage partners must be granted at the university level, there is no need to treat organizational units as separate actors in CIDOC CRM. Instead they are simply a controlled vocabulary of institutions, organizations, and study programs at the consortial universities.
 * **The field University** (Hochschule) **is not needed anymore**, since relationships can be expressed in the ontological model. Since multiple universities can be parents now, the category "Cooperation" is also not needed anymore.
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -619,6 +691,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Place
 
 <br/>
@@ -653,6 +730,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Product ID Type
 
 <br/>
@@ -673,6 +755,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 
 **Note(s)**:
 * **GND ID was renamed to (GND-Nummer) in German**, to fit with the common use of that term in the source institution istelsef. The English naming remains unchanged.
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
@@ -739,6 +826,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
 ## Project Category
 
 <br/>
@@ -767,6 +859,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 * **The Source Field Synonyms** (Synonyme) **was split up in the two distinct fields German Synonym(s)** (Deutsche Synonym(e)) **and English Synonym(s)** (Englische Synonym(e)), to accomodate how CIDOC treats alternative forms of controlled vocabulary terms.
 * **GND ID was renamed to (GND-Nummer) in German**, to fit with the common use of that term in the source institution istelsef. The English naming remains unchanged.
 * **The Project Category cand be displayed in breadcrumbs and a graph for the user.**
+
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
