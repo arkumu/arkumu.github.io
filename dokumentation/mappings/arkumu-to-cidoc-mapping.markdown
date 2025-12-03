@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: arkumu zu CIDOC mapping
+title: arkumu-nach-CIDOC-mapping
 order: 3.4.1
 permalink: /documentation/mappings/arkumu-to-cidoc-mapping
 ---
