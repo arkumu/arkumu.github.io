@@ -1,14 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Kontrollierte Vokabulare
+title: Kontrollierte Vokabulare
 order: 3.2
-permalink: /documentation/controlled-vocabularies/
+permalink: /documentation/controlled-vocabularies
 ---
-
-``` ❗To-Do: Enthält noch dead links ```
-
-
-## To-Dos: Links fixen
 
 ```Controlled Vocabularies```
 
@@ -52,7 +47,7 @@ In arkumu.nrw, controlled vocabularies appear primarily in two forms: value list
 
 **Deutsch:**
 
-Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokabulars dar. Wie der Name schon andeutet, handelt es sich dabei um eine Liste von Einträgen, die nicht auf einer hierarchischen oder ontologischen Struktur basiert. Sie werden in allen zentralen Entitäten von arkumu.nrw verwendet, namentlich in [**Akteur:in**](), [**Digitales Objekt**](), [**Ereignis**](), und [**Projekt**]().
+Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokabulars dar. Wie der Name schon andeutet, handelt es sich dabei um eine Liste von Einträgen, die nicht auf einer hierarchischen oder ontologischen Struktur basiert. Sie werden in allen zentralen Entitäten von arkumu.nrw verwendet, namentlich in **Akteur:in**, **Digitales Objekt**, **Ereignis**, und **Projekt**.
 
 <br/>
 
@@ -62,7 +57,7 @@ Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokab
 
 **English:**
 
-Value lists represent the simplest structured form of a controlled vocabulary. As the name suggests, they consist of a list of entries that are not based on a hierarchical or ontological structure. They are used in all central entities of arkumu.nrw, namely in [**Actor**](), [**Digital Object**](), [**Event**](), and [**Project**]().
+Value lists represent the simplest structured form of a controlled vocabulary. As the name suggests, they consist of a list of entries that are not based on a hierarchical or ontological structure. They are used in all central entities of arkumu.nrw, namely in **Actor**, **Digital Object**, **Event**, and **Project**.
 
 <br/>
 <br/>

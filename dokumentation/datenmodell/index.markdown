@@ -2,7 +2,7 @@
 layout: arkumu-docs
 title: ❗ Datenmodell
 order: 3.1.0
-permalink: /documentation/data-model/
+permalink: /documentation/data-model
 ---
 
 ----
