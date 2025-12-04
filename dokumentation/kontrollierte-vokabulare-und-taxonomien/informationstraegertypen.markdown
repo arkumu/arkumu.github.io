@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Informationsträgertypen
-order: 3.2.4
+order: 3.3.4
 permalink: /documentation/controlled-vocabularies/information-storage-medium-types
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Entstehungstypen
-order: 3.2.01
+order: 3.3.1
 permalink: /documentation/controlled-vocabularies/genesis-types
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Organisationeinheiten
-order: 3.2.6
+order: 3.3.6
 permalink: /documentation/controlled-vocabularies/organisational-units
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Medientypen
-order: 3.2.5
+order: 3.3.5
 permalink: /documentation/controlled-vocabularies/media-types
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Digitales-Objekt-Lizenz-ID-Referenzen
-order: 3.2.0
+order: 3.3.0
 permalink: /documentation/controlled-vocabularies/digital-object-license-id-references
 ---
 

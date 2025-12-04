@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: ❗ Benutzerrechteverwaltung
-order: 5
+order: 3.05
 permalink: /documentation/user-rights-management
 ---
 

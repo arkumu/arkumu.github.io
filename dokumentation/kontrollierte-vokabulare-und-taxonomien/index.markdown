@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Kontrollierte Vokabulare
-order: 3.2
+order: 3.3
 permalink: /documentation/controlled-vocabularies
 ---
 

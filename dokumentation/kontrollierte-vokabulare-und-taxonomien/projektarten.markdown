@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Projektarten
-order: 3.2.7
+order: 3.3.7
 permalink: /documentation/controlled-vocabularies/project-types
 ---
 

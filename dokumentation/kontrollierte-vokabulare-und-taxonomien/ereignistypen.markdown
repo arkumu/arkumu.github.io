@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Ereignistypen
-order: 3.2.1
+order: 3.3.2
 permalink: /documentation/controlled-vocabularies/event-types
 ---
 

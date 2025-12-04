@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Equipmentarten
-order: 3.2.2
+order: 3.3.2
 permalink: /documentation/controlled-vocabularies/equipment-types
 ---
 
