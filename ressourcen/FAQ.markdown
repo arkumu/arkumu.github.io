@@ -64,12 +64,23 @@ Eine Bewertung der Archivwürdigkeit einzelner künstlerischen Arbeiten findet d
 
 ----
 
+### Wir müssen Prüfungsunterlagen eine bestimmte Zeit lang sichern – können wir die bei arkumu.nrw einliefern? 
+
+arkumu.nrw versteht sich als Service zur Langzeitarchivierung von multimedialen, künstlerischen Beständen, die als Teil des kulturellen Erbes erhalten werden sollen. Und: Was über arkumu.nrw eingeliefert wird, wird auch in Rosetta bleiben. Eine Nutzung zur zeitlich begrenzten Speicherung anderer Bestände wäre missbräuchlich und würde (neben rechtlichen Problemen) auch den Arbeitsaufwand und damit die Kosten für allen Beteiligten unangemessen erhöhen. Insofern müssen für diese Bestände leider andere Lösungen gefunden werden.
+
+----
+
 ### Verliere ich Rechte an meinen Projekten, wenn ich sie in arkumu.nrw einliefere?
 
 Nein. Als Rechteinhaber:in bestimmen sie, welche Nutzungsrechte sie ihrer Hochschule an ihrem Projekt gewähren. Mindestens muss das Recht eingeräumt werden, die Dateien zu speichern und zu kopieren, so dass diese bei arkumu.nrw eingeliefert werden können. Wenn das gewünscht ist, können Dateien auch veröffentlicht werden. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, sie zu veröffentlichen. Dies sind die drei Stufen des [Lizenzmodells von arkumu.nrw](/ressourcen/lizenzen). Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder als vertraulich gekennzeichnet sind.
 
 ----
 
+### Sind unsere Daten denn in so einem Archiv überhaupt sicher? Kann die dann jeder sehen und darauf zugreifen? Haben wir als Hochschule dann nichts mehr zu sagen? 
+
+Jede einliefernde Hochschule behält die volle Kontrolle und Verantwortung bezüglich der Nutzung ihrer Daten: arkumu.nrw ist kein Archiv, sondern eine Plattform, die den Hochschulen die Langzeitarchivierung ermöglicht. Jede:r Einliefernde muss selbst definieren, was genau von den Daten und Metadaten sichtbar und nutzbar sein soll, oder was nur in einem “Dark Archive” als Sicherung für die jeweilige Institution liegt. 
+
+----
 
 ### Wie erhalte ich Zugang zum Portal? 
 
@@ -80,6 +91,49 @@ Im Sommer 2025 wird das Onboarding für diejenigen beginnen, die als Ansprechpar
 ### Sollte meine Hochschule die eingelieferten Dateien weiterhin vorhalten? 
 
 Ja, wenn dies möglich ist und der Bedarf besteht, dass Angehörige der Hochschule die Dateien nutzen können, empfehlen wir zum Zweck der einfachen Zugänglichkeit alle Dateien weiterhin auch lokal zu speichern. Der Vorteil der Speicherung in einer Langzeitverfügbarkeits-Lösung bleibt dabei unverändert bestehen.
+
+----
+
+### Ist das juristisch nicht alles viel zu kompliziert?
+
+Die vielen Facetten urheber- und leistungsschutzrechtlicher Fragen sind für alle Kunst- und Musikhochschulen eine Herausforderung. Da die Bestände sehr unterschiedlich sind, müssen entsprechende Fragen für alle Fachbereiche und Sammlungen gesondert geprüft werden. Diese Probleme entstehen aber nicht erst durch arkumu.nrw. Sie sind von jeher relevant für die Hochschulen und vielleicht nicht genügend beachtet worden, bestehen aber unabhängig davon, ob ein Service wie arkumu.nrw genutzt wird.  
+
+----
+
+### Warum sollen wir denn jetzt einen solchen Aufwand für Dateien treiben, die hinterher sowieso niemand ansehen darf? 
+
+Die Kunst- und Musikhochschulen als Ausbildungs- und Handlungsorte im Kulturbereich sind Spiegel kultureller Entwicklungen und Phänomene der Gegenwart. Diese werden als Teil eines kulturellen Erbes irgendwann auch der Forschung und Fortbildung dienen können – aber nur, wenn sie dann noch vorhanden sind. Es besteht die reale Gefahr, dass Daten, die jetzt nicht gesichert werden, schon sehr bald oder auch in 100 oder 150 Jahren nicht mehr existieren und damit ein wesentlicher Teil unserer Kulturgeschichte verloren geht. Urheber- und Leistungsschutz ist zeitlich begrenzt und daher keine Entschuldigung, nicht jetzt in Hinblick auf zukünftige Generationen zu handeln. 
+
+----
+
+
+### Wenn man „Langzeitverfügbarkeit“ sagt, dann ist da aber doch nicht etwa für die nächsten 100 Jahre oder so gemeint? Wie lange ist denn „lange“? 
+
+Langzeitverfügbarkeit heißt im Zweifelsfall: möglichst für immer. 100 Jahre sind im archivarischen Denken kein langer Zeitraum; insofern sollen Daten, die mithilfe von arkumu.nrw gesichert werden, in einer Weise gesichert sein, die unbegrenzten Erhalt erlaubt, solange entsprechende Technik oder deren Weiterentwicklungen nutzbar sind und eingesetzt werden. 
+
+----
+
+### Müssen da denn die ganzen großen Dateien rein – geht das nicht mit komprimierten Formaten auch billiger? 
+
+Komprimieren von Daten heißt oft: Verlieren von Daten; 90 % der Originalgröße bedeutet 10 % Verlust. Gerade im Kulturbereich sollten hier keine Kompromisse eingegangen werden und digitale Archivalien in der Qualität erhalten werden, wie sie Künstler:innen oder Archivar:innen angelegt haben. Es käme ja auch niemand auf die Idee, die Mona Lisa zu entsorgen, nur weil ein guter Scan davon vorliegt. 
+
+----
+
+### Müssen wir alle Formate, die „nicht langzeitstabil“ sind, jetzt noch umrechnen, bevor wir sie einliefern dürfen?
+
+Eine entsprechende Konvertierung oder Transkodierung ist sinnvoll und spart Arbeit in der Zukunft. Sofern solche Maßnahmen mit den vorhandenen Ressourcen nicht umsetzbar sind oder eine Prognose schwer fällt, gilt jedoch im Zweifelsfall: Lieber im vorliegenden Format sichern als gar nicht. Auch obsolete Formate können in Zukunft im Rahmen von Emulationsforschung und Datenarchäologie wertvolle Belege sein, sofern sie ausreichend dokumentiert wurden. 
+
+----
+
+### Kann arkumu.nrw unsere analogen Bestände digitalisieren?
+
+arkumu.nrw hilft den Partnerhochschulen bei der Archivierung vorhandener digitaler Bestände. Dass sich Fachpersonen an den Hochschulen finden, die bezüglich Technik und Workflows beim Digitalisieren analoger Bestände beraten können, ist wahrscheinlich. Die Arbeit selbst ist jedoch von den einzelnen Hochschulen zu leisten und liegt außerhalb unseres Service-Angebots. Das Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) bietet eine Hostinglösung für Digitalisierungsprojekte sowie ein komplettes Dienstleistungsangebot in Zusammenarbeit mit externen Firmen an. 
+
+----
+
+### Das sieht alles so kompliziert aus – es gibt doch fertige Softwarelösungen, die man kaufen kann und die viel einfacher sind. Warum soll das denn nicht reichen?
+
+arkumu.nrw will Daten und Metadaten in einer Weise speichern, die die Arbeit und Ansprüche einzelner Fachbereiche und Forschungsdisziplinen angemessen widerspiegelt. Daneben muss die Verzeichnung auch anschlussfähig an Bibliotheken und Archivsysteme sein, um in allen Bereichen der Hochschularbeit (und öffentlichen Nutzung) sichtbar sein zu können. Im Rahmen einer Marktanalyse hat sich eindeutig gezeigt, dass fertige Softwarelösungen stark in der Abbildung einzelner Teilbereiche sind, aber bislang keine Lösung existiert, die die vielfältigen Bedarfe der Konsortialhochschulen vollständig abdecken kann. 
 
 ----
 
