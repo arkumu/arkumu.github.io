@@ -1,7 +1,8 @@
 ---
 layout: arkumu-docs
 title: arkumu-A+B+C 1.0 (Entwurf)
-order: 2.9.3
+order: 4.1.1
+permalink: /rights/licences/arkumu-a+b+c-1-0-entwurf
 ---
 
 URI: [https://docs.arkumu.nrw/resolver/arkumu-a+b+c-1.0-entwurf](https://docs.arkumu.nrw/resolver/arkumu-a+b+c-1.0-entwurf)  
