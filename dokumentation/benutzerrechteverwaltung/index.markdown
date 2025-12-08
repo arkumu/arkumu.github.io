@@ -164,10 +164,6 @@ Registered users are all members of the participating art and music universities
 
 <br/>
 
----
-
-<br/>
-
 * Everything that Registered Users are also allowed to do and also:
 * View and edit Projects from their own university, as well as delete them if they are not used by any other user than the one who created it.
 * View and edit Events from their own university, as well as delete them if they are not used by any other user than the one who created it.
