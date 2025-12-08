@@ -521,11 +521,9 @@ Min-Max Occurence: 0-n<br/>
 </pre>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## 5. Dateien: Beschreibende und rechtliche Metadaten
@@ -594,11 +592,9 @@ For each file that is submitted, a descriptive metadata section is also added fo
 </pre>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## 6. Intellektuelle Einheit: Administrative und rechtliche Metadaten
@@ -954,11 +950,9 @@ Min-Max Occurence: 0-n<br/>
 </pre>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## 7. Representation: Administrative Metadaten
@@ -1054,11 +1048,9 @@ The administrative Representation Section has a special mediating position withi
 </pre>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## 8. Dateien: Administrative und rechtliche Metadaten
@@ -1193,11 +1185,9 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 </pre>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## 9. Datei-Sektion
