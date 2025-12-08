@@ -123,11 +123,9 @@ arkumu-1-RSH-1/
 ![rosetta_mets_folder_structure](/assets/images/rosetta_mets_folder_structure.png)
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## 2. Abschnitts-Übersicht
