@@ -872,6 +872,7 @@ img {
    background-color: #eef;
    border: 0;
    padding: 1px 5px;
+   text-align: left;
  }
  
  /*---- Pre & Mermaid ----*/
@@ -882,6 +883,7 @@ img {
    text-align: center;
    border: 0;
    background-color: white;
+   text-align: left;
  }
  
  .mermaid {
