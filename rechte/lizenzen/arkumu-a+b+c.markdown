@@ -1,14 +1,13 @@
 ---
 layout: arkumu-docs
-title: ❗ arkumu-A+B+C 1.0 (Entwurf)
+title: ❗ arkumu-A+B+C 1.0
 order: 4.1.3
 permalink: /rights/licences/arkumu-a+b+c
 ---
 
-URI: [https://docs.arkumu.nrw/resolver/arkumu-a+b+c-1.0-entwurf](https://docs.arkumu.nrw/resolver/arkumu-a+b+c-1.0-entwurf)  
-<sub>(Anmerkung: Diese Lizenz sollte nicht referenziert werden und dient lediglich Anschauungszwecken.)</sub>
+URI: [https://docs.arkumu.nrw/resolver/arkumu-a+b+c](https://docs.arkumu.nrw/resolver/arkumu-a+b+c)
 
-----
+---
 
 ### Die Hochschule erwirbt
 
