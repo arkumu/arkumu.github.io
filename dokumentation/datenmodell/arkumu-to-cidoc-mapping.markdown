@@ -390,7 +390,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
-[![Graphical Schema Representation Event Type](uploads/d7d3a944ba963680c569bcdab750abc5/Event_Type_CIDOC.drawio.png)](uploads/d7d3a944ba963680c569bcdab750abc5/Event_Type_CIDOC.drawio.png)
+[![Graphical Schema Representation Event Type](/assets/images/Event_Type_CIDOC.drawio.png)](/assets/images/Event_Type_CIDOC.drawio.png)
 
 <br/>
 <br/>
@@ -570,7 +570,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
-[![Graphical Schema Representation Keyword](uploads/d7b0ae0fbf8d2eee9029e6267baef364/Keyword_CIDOC.drawio.png)](uploads/d7b0ae0fbf8d2eee9029e6267baef364/Keyword_CIDOC.drawio.png)
+[![Graphical Schema Representation Keyword](/assets/images/Keyword_CIDOC.drawio.png)](/assets/images/Keyword_CIDOC.drawio.png)
 
 <br/>
 <br/>
