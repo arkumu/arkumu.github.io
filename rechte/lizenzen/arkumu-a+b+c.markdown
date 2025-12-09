@@ -27,5 +27,4 @@ Die Hochschule ist berechtigt, dieses Nutzungsrecht auch im Rahmen des Projekts 
 
 ----
 
-Ebenso ist die Hochschule berechtigt, dieses Nutzungsrecht auch anderen Portalen für Kultur und Wissen, deren Ziel es ist, das kulturelle Erbe in Deutschland, Europa und der Welt digital, kostenlos und jederzeit zugänglich zu machen (z.B. [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/), [Europeana](https://www.europeana.eu/) etc.) entsprechend als einfaches (nicht-exklusives) Nutzungsrecht einzuräumen.\
-<sub>(Anmerkung: der Text entspricht bis hier der Lizenz A+B+C: Langzeitverfügbarkeit, Veröffentlichung und Weitergabe an Portale für Kultur und Wissen)</sub>
+Ebenso ist die Hochschule berechtigt, dieses Nutzungsrecht auch anderen Portalen für Kultur und Wissen, deren Ziel es ist, das kulturelle Erbe in Deutschland, Europa und der Welt digital, kostenlos und jederzeit zugänglich zu machen (z.B. [Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/), [Europeana](https://www.europeana.eu/) etc.) entsprechend als einfaches (nicht-exklusives) Nutzungsrecht einzuräumen.
