@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Folkwang Universität der Künste
+title: Folkwang Universität der Künste
 order: 3.01
 permalink: /documentation/archived-holdings/folkwang
 ---
-
-```❗ Deutsche und englische Abschnitte stimmen nicht überein```
 
 ```Folkwang University of the Arts```
 
