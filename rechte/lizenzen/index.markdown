@@ -1,9 +1,11 @@
 ---
 layout: arkumu-docs
-title: Lizenzen
+title: ❗ Lizenzen
 order: 4.1
 permalink: /rights/licences
 ---
+
+```❗ To-Do: Seite enthält noch Lizenz-Entwurf mit broken link. Rausnehmen?```
 
 arkumu.nrw hat für den Umgang mit urheberrechtlich und leistungsschutzrechtlich geschütztem Material eine Modularlizenz entwickelt, mit der sich die einliefernde Hochschule bestimmte Rechte von den Rechteinhaber:innen einräumen lassen kann. Es gibt drei Stufen, die aufeinander aufbauen:
 

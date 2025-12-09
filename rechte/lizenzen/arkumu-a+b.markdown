@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: ❗ arkumu-A+B 1.0
+title: arkumu-A+B 1.0
 order: 4.1.2
 permalink: /rights/licences/arkumu-a+b
 ---
