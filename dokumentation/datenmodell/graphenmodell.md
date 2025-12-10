@@ -5,7 +5,7 @@ order: 3.1.1
 permalink: /documentation/data-model/graph-model
 ---
 
-```Graphmodel```
+```Graph Model```
 
 <br/>
 
@@ -824,8 +824,8 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 | **English Name of Class** | Digital Object License |
 | **German Name of Class** | Digitales Objekt-Lizenz
 | **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#digital-object-license> |
-| **English Description** |  |
-| **German Description** |  |
+| **English Description** | When exporting source data to arkumu, the license status must be specified with one of three possible values: The value `1` corresponds to Lizenz arkumu-A. The value `2` corresponds to Lizenz arkumu-A+B. The value `3` corresponds to Lizenz arkumu-A+B+C |
+| **German Description** | Wenn Quelldaten nach arkumu exportiert werden, muss der Lizenzstatus mit einer von drei möglichen Werten angegeben werden: Der Wert `1` entspricht der Lizenz arkumu-A. Der Wert `2` entspricht der Lizenz arkumu-A+B. Der Wert `3` entspricht der Lizenz arkumu-A+B+C  |
 
 <br/>
 <br/>
