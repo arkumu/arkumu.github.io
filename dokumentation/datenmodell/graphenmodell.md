@@ -61,7 +61,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Actor |
 | **German Name of Class** | Akteur:in |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#actor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#actor> |
 | **English Description** | An Actor is either a single living or dead real person, a group of such persons, or a legal body. Fictional Actors or role names, for example, should be recorded as a description or comment in an Event. |
 | **German Description** | Ein:e Akteur:in ist entweder eine einzelne lebende oder verstorbene reale Person, eine Gruppe solcher Personen oder eine Körperschaft. Fiktive Akteur:innen oder Rollennamen, zum Beispiel, sollten als Beschreibung oder Kommentar in einem Ereignis verzeichnet werden. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has alternative name](#has-alternative-name) ⇒ [Alternative Name](#alternative-name)<br/>[has non-public name](#has-non-public-name) ⇒ [Non-public Name](#non-public-name)<br/>[has preceding title](#has-preceding-title) ⇒ [Preceding Title](#preceding-title)<br/>[has trailing title](#has-trailing-title) ⇒ [Trailing Title](#trailing-title)<br/>[has gender](#has-gender) ⇒ [Gender](#gender)<br/>[has date of birth](#has-date-of-birth) ⇒ [Date of Birth](#date-of-birth)<br/>[has date of death](#has-date-of-death) ⇒ [Date of Death](#date-of-death)<br/>[has beginning of activity](#has-beginning-of-activity) ⇒ [Beginning of Activity](#beginning-of-activity)<br/>[has end of activity](#has-end-of-activity) ⇒ [End of Activity](#end-of-activity)<br/>[has place of birth](#has-place-of-birth) ⇒ [Place](#place)<br/>[has place of death](#has-place-of-death) ⇒ [Place](#place)<br/>[has place of activity](#has-place-of-activity) ⇒ [Place](#place)<br/>[has place of foundation](#has-place-of-foundation) ⇒ [Place](#place)<br/>[has place of dissolution](#has-place-of-dissolution) ⇒ [Place](#place)<br/>[has german short biography](#has-german-short-biography) ⇒ [German Short Biography](#german-short-biography)<br/>[has english short biography](#has-english-short-biography) ⇒ [English Short Biography](#english-short-biography)<br/>[has german commentary](#has-german-commentary) ⇒ [German Commentary](#german-commentary)<br/>[has english commentary](#has-english-commentary) ⇒ [English Commentary](#english-commentary)<br/>[has internal commentary](#has-internal-commentary) ⇒ [Internal Commentary](#internal-commentary)<br/>[has profession or activity](#has-profession-or-activity) ⇒ [Role](#role)<br/>[has ORCID](#has-orcid) ⇒ [ORCID](#orcid)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has VIAF ID](#has-viaf-id) ⇒ [VIAF ID](#viaf-id)<br/>[has LCCN ID](#has-lccn-id) ⇒ [LCCN ID](#lccn-id)<br/>[has other authority file](#has-other-authority-id) ⇒ [Other Authority File](#other-authority-id)<br/>[has website](#has-website) ⇒ [Website](#website)<br/>[has contact e-mail](#has-contact-e-mail) ⇒ [Contact (E-Mail)](#contact-e-mail)<br/>[has contact phone number](#has-contact-phone-number) ⇒ [Contact (Phone)](#contact-phone)<br/>[has contact postal address](#has-contact-postal-address) ⇒ [Contact (Postal Address)](#contact-postal-address)<br/>[has dataset ID at depositor](#has-dataset-id-at-depositor) ⇒ [Dataset ID at Depositor](#dataset-id-at-depositor)<br/>[has depositor](#has-depositor) ⇒ [Organisational Unit](#organisational-unit)<br/>[has dataset creation date at depositor](#has-dataset-creation-date-at-depositor) ⇒ [Dataset Creation Date at Depositor](#dataset-creation-date-at-depositor)<br/>[has dataset last modification date at depositor](#has-dataset-last-modification-date-at-depositor) ⇒ [Dataset Last Modification Date at Depositor](#dataset-last-modification-date-at-depositor)<br/>[has related actor](#has-related-actor) ⇒ [Actor](#actor) |
@@ -77,7 +77,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Alternative Title Set |
 | **German Name of Class** | Alternativer Titel-Set |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#alternative-title-set> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#alternative-title-set> |
 | **German Description** | A set of a possible alternative title and a possible alternative subtitle. |
 | **English Description** | Ein Set aus einem möglichen alternativen Titel und einem möglichen alternativen Untertitel. |
 | **Properties (English Naming)** | [has alternative title](#has-alternative-title) ⇒ [Alternative Title](#alternative-title)<br/>[has alternative subtitle](#has-alternative-subtitle) ⇒ [Alternative Subtitle](#alternative-subtitle) |
@@ -93,7 +93,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Depositing University |
 | **German Name of Class** | Einliefernde Hochschule |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#depositing-university> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#depositing-university> |
 | **English Description** | The university responsible for the data submitted. |
 | **German Description** | Die für die eingelieferten Daten verantwortliche Hochschule. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)  |
@@ -109,7 +109,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Digital Object |
 | **German Name of Class** | Digitales Objekt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#digital-object> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#digital-object> |
 | **English Description** | A Digital Object is a single file with its corresponding metadata set. Descriptive metadata is data entered by users, technical metadata is automatically read out by software.|
 | **German Description** | Ein Digitales Objekt ist eine einzelne Datei mit dazugehörigen Metadaten. Beschreibene Metadaten werden von Nutzer:innen eingegeben, technische Metadaten werden von Software automatisch ausgelesen.|
 | **Properties (English Naming)** | [has file path](#has-file-path) ⇒ [File Path](#file-path)<br/>[has file name](#has-file-name) ⇒ [File Name](#file-name)<br/>[has file size](#has-file-size) ⇒ [File Size](#file-size)<br/>[has MIME type](#has-mime-type) ⇒ [MIME Type](#mime-type)<br/>[has media type](#media-type) ⇒ [Media Type](#media-type)<br/>[has genesis type](#has-genesis-type) ⇒ [Genesis Type](#genesis-type)<br/>[is file package](#is-file-package) ⇒ [File Package](#file-package)<br/>[has preservation type](#has-preservation-type) ⇒ [Preservation Type](#preservation-type)<br/>[has derivate copy number](#has-derivate-copy-number) ⇒ [Derivate Copy Number](#derivate-copy-number)<br/>[has digital object keyword](#has-digital-object-keyword) ⇒ [Digital Object Keyword](#digital-object-keyword)<br/>[has digital object license](#has-digital-object-license) ⇒ [Digital Object License](#digital-object-license)<br/>[has german content description](#has-german-content-description) ⇒ [German Content Description](#german-content-description)<br/>[has english content description](#has-english-content-description) ⇒ [English Content Description](#english-content-description)<br/>[has german image description](#has-german-image-description) ⇒ [German Image Description](#german-image-description)<br/>[has english image description](#has-english-image-description) ⇒ [English Image Description](#english-image-description)<br/>[has german commentary](#has-german-commentary) ⇒ [German Commentary](#german-commentary)<br/>[has english commentary](#has-english-commentary) ⇒ [English Commentary](#english-commentary)<br/>[has internal commentary](#has-internal-commentary) ⇒ [Internal Commentary](#internal-commentary)<br/>[has significant properties (german)](#has-significant-properties-german) ⇒ [Significant Properties (German)](#significant-properties-german)<br/>[has significant properties (english)](#has-significant-properties-english) ⇒ [Significant Properties (English)](#significant-properties-english)<br/>[has system requirements](#has-system-requirements) ⇒ [System Requirements](#system-requirements)<br/>[has checksum](#has-checksum) ⇒ [Checksum](#checksum)<br/>[has checksum at depositor](#has-checksum-at-depositor) ⇒ [Checksum at Depositor](#checksum-at-depositor)<br/>[has JHOVE status](#has-jhove-status) ⇒  [JHOVE Status](#jhove-status)<br/>[has DROID puid](#has-droid-puid) ⇒ [DROID PUID](#droid-puid)<br/>[has JHOVE metadata](#has-jhove-metadata) ⇒ [JHOVE Metadata](#jhove-metadata)<br/>[has DROID metadata](#has-droid-metadata) ⇒ [DROID Metadata](#droid-metadata)<br/>[has ExifTool metadata](#has-exiftool-metadata) ⇒ [ExifTool Metadata](#exiftool-metadata)<br/>[has MediaInfo metadata](#has-mediainfo-metadata) ⇒ [MediaInfo Metadata](#mediainfo-metadata)<br/>[has dataset ID at depositor](#has-dataset-id-at-depositor) ⇒ [Dataset ID at Depositor](#dataset-id-at-depositor)<br/>[has depositor](#has-depositor) ⇒ [Organisational Unit](#organisational-unit)<br/>[has dataset creation date at depositor](#has-dataset-creation-date-at-depositor) ⇒ [Dataset Creation Date at Depositor](#dataset-creation-date-at-depositor)<br/>[has dataset last modification date at depositor](#has-dataset-last-modification-date-at-depositor) ⇒ [Dataset Last Modification Date at Depositor](#dataset-last-modification-date-at-depositor)<br/>[has is arkumu preview](#has-is-arkumu-preview) ⇒ [is arkumu Preview](#is-arkumu-preview)<br/>[has is poster image](#has-is-poster-image) ⇒ [is Poster Image](#is-poster-image)<br/>[has television standard](#has-television-standard) ⇒ [Television Standard](#television-standard)<br/>[has frame rate](#has-frame-rate) ⇒ [Frame Rate](#frame-rate)<br/>[has aspect ratio](#has-aspect-ratio) ⇒ [Aspect Ratio](#aspect-ratio) <br/>[has language version](#has-language-version) ⇒ [Language Version](#language-version) <br/>[is part of a series](#is-part-of-a-series) ⇒ [Part of a Series](#part-of-a-series)<br/>[has is played in a loop](#has-is-played-in-a-loop) ⇒ [Plays in a Loop](#plays-in-a-loop)|
@@ -128,7 +128,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Equipment and Software |
 | **German Name of Class** | Equipment und Software |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#equipment-and-software> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#equipment-and-software> |
 | **English Description** | Tools and Software that were used during an Event to achieve the result of an activity in question. |
 | **German Description** | Werkzeuge und Software, die während eines Ereignisses verwendet wurden, um das Ergebnis einer bestimmten Aktivität zu erreichen. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has producer](#has-producer) ⇒ [Producer](#producer)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has german description](#has-german-description) ⇒ [German Description](#german-description)<br/>[has english description](#has-english-description) ⇒ [English Description](#english-description)<br/> |
@@ -144,7 +144,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Equipment Type |
 | **German Name of Class** | Equipmentart |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#equipment-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#equipment-type> |
 | **English Description** | An Equipment Type categorises a piece of equipment or a piece of software using a [controlled vocabulary](/controlled-vocabularies/equipment-types). |
 | **German Description** | Eine Ereignisart kategorisiert eine Stück Equipment oder ein Stück Software mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/equipment-types). |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id) |
@@ -160,7 +160,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Event |
 | **German Name of Class** | Ereignis |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#event> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event> |
 | **English Description** | Events represent occurrences in the real world that have happened in connection with a Project and its Actors. Events have a temporal beginning and a temporal end and take place in real Places. Abstract places ('on the internet') or fictional places ('Duckburg') need to be recorded as comments. Events are performed or executed by various actors, which can lead to legal ownership. Events manifest themselves or are documented in Digital Objects (files and their metadata). |
 | **German Description** | Ereignisse bilden Geschehnisse in der realen Welt ab, die im Zusammenhang mit einem Projekt und dessen Akteur:innen passiert sind. Ereignisse haben einen zeitlichen Beginn und ein zeitliches Ende und finden an realen Orten statt. Abstrakte Orte ("im Internet") oder fiktive Orte ("Entenhausen") sind als Kommentar zu verzeichnen. Ereignisse werden von verschiedenen Akteur:innen durch- oder aufgeführt, wodurch sich rechtliche Ansprüche ableiten können. Ereignisse manifestieren sich oder werden dokumentiert in Digitalen Objekten (Dateien und ihren Metadaten). |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has event type](#has-event-type) ⇒ [Event Type](#event-type)<br/>[has event beginning](#has-event-beginning) ⇒ [Event Beginning](#event-beginning)<br/>[has event end](#has-event-end) ⇒ [Event End](#event-end)<br/>[has event place](#has-event-place) ⇒ [Place](#place)<br/>[has event description](#has-event-description) ⇒ [Event Description](#event-description)<br/>[has german commentary](#has-german-commentary) ⇒ [German Commentary](#german-commentary)<br/>[has english commentary](#has-english-commentary) ⇒ [English Commentary](#english-commentary)<br/>[has internal commentary](#has-internal-commentary) ⇒ [Internal Commentary](#internal-commentary)<br/>[has event property](#has-event-property) ⇒ [Event Property](#event-property)<br/>[has related event](#has-related-event) ⇒ [Event](#event)<br/>[has actor](#has-actor) ⇒ [Actor](#actor)<br/>[has equipment and software](#has-equipment-and-software) ⇒ [Equipment and Software](#equipment-and-software)<br/>[has physical object](#has-physical-object) ⇒ [Physical Object](#physical-object)<br/>[has information storage medium](#has-information-storage-medium) ⇒ [Information Storage Medium](#information-storage-medium)<br/>[has digital object](#has-digital-object) ⇒ [Digital Object](#digital-object)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has VIAF ID](#has-viaf-id) ⇒ [VIAF ID](#viaf-id)<br/>[has dataset ID at depositor](#has-dataset-id-at-depositor) ⇒ [Dataset ID at Depositor](#dataset-id-at-depositor)<br/>[has depositor](#has-depositor) ⇒ [Organisational Unit](#organisational-unit)<br/>[has dataset creation date at depositor](#has-dataset-creation-date-at-depositor) ⇒ [Dataset Creation Date at Depositor](#dataset-creation-date-at-depositor)<br/>[has dataset last modification date at depositor](#has-dataset-last-modification-date-at-depositor) ⇒ [Dataset Last Modification Date at Depositor](#dataset-last-modification-date-at-depositor) |
@@ -176,7 +176,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Event Description |
 | **German Name of Class** | Ereignisbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#event-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event-description> |
 | **English Description** | A text describing what happened during an Event, or contains additional information to the Event in question. These can be texts written by the artists themselves or by a third person. |
 | **German Description** | Ein Text, der beschreibt, was während eines Ereignisses passiert ist oder der zusätzliche Informationen zu dem betreffenden Ereignis enthält. Dabei kann es sich um Texte handeln, die von den Künstlern selbst oder von einer dritten Person verfasst wurden. |
 | **Properties (English Naming)** | [has description text](#has-description-text) ⇒ [Description Text](#description-text)<br/>[has sorting number](#has-sorting-number) ⇒ [Sorting Number](#sorting-number) |
@@ -192,7 +192,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Event Type |
 | **German Name of Class** | Ereignistyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#event-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event-type> |
 | **English Description** | An Event Type categorises an Event with a [controlled vocabulary](/controlled-vocabularies/event-types). |
 | **German Description** | Ein Ereignistyp kategorisiert ein Ereignis mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/event-types). |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonyms](#has-german-synonyms) ⇒ [German Synonyms](#german-synonyms)<br/>[has english synonyms](#has-english-synonyms) ⇒ [English Synonyms](#english-synonyms)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has LIDO Terminology ID](#has-lido-terminology-id) ⇒ [LIDO Terminology ID](#lido-terminology-id) |
@@ -208,7 +208,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Existing License Agreement |
 | **German Name of Class** | Bestehender Lizenzvertrag |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#existing-license-agreement> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#existing-license-agreement> |
 | **English Description** | An already existing standard license form for a project in use at one of the depositing universities. |
 | **German Description** | Ein bereits bestehender, standardisierter Lizenzvertrag für ein Projekt, der an einer der einreichenden Universitäten verwendet wird. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has accountable university](#has-accountable-university) ⇒ [Depositing University](#depositing-university)<br/>[has german wording](#has-german-wording) ⇒ [German Wording](#german-wording)<br/>[has english wording](#has-english-wording) ⇒ [English Wording](#english-wording)<br/>[has pdf](#has-pdf) ⇒ [PDF](#pdf)<br/>[has uri](#has-uri) ⇒ [URI](#uri) |
@@ -224,7 +224,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Information Storage Medium |
 | **German Name of Class** | Informationsträger |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#information-storage-medium> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#information-storage-medium> |
 | **English Description** | Special type of Physical Object on which data can be saved or extracted from. Synonyms: Storage Medium, Recording Medium, Data Carrier.  |
 | **German Description** | Besondere Art eines Physischen Objekts, auf dem Daten gespeichert können. Synonyme: Speichermedium, Aufzeichnungsmedium, Datenträger, Trägermedium. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has label](#has-label) ⇒ [Label](#label)<br/>[has information storage medium type](#has-information-storage-medium-type) ⇒ [Information Storage Medium Type](#information-storage-medium-type)<br/>[has product ID](#has-product-id) ⇒ [Product ID Value](#product-id-value)<br/>[has external inventory number](#has-external-inventory-number) ⇒ [External Inventory Number](#external-inventory-number)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has depository](#has-depository) ⇒ [Place](#place)<br/>[has owner](#has-owner) ⇒ [Actor](#actor)<br/>[has legal rights holder](#has-legal-rights-holder) ⇒ [Actor](#actor)<br/>[has provenance](#has-provenance)  ⇒ [Provenance](#provenance)<br/>[has german description](#has-german-description) ⇒ [German Description](#german-description)<br/>[has english description](#has-english-description) ⇒ [English Description](#english-description)<br/>[has german commentary](#has-german-commentary) ⇒ [German Commentary](#german-commentary)<br/>[has english commentary](#has-english-commentary) ⇒ [English Commentary](#english-commentary)<br/>[has internal commentary](#has-internal-commentary) ⇒ [Internal Commentary](#internal-commentary)<br/>[has material keyword](#has-material-keyword) ⇒ [Material Keyword](#material-keyword)<br/>[has dimensions](#has-dimensions) ⇒ [Dimensions](#dimensions)<br/>[has condition state (german)](#has-condition-state-german) ⇒ [Condition State (German)](#condition-state-german)<br/>[has condition state (english)](#has-condition-state-english) ⇒ [Condition State (English)](#condition-state-english)<br/>[is compilation](#is-compilation) ⇒ [Compilation](#compilation)<br/>[has compilation title](#has-compilation-title) ⇒ [Compilation Title](#compilation-title)<br/>[has compilation series number](#has-compilation-series-number) ⇒ [Compilation Series Number](#compilation-series-number)<br/>[has original language](#has-original-language) ⇒ [Original Language](#original-language)<br/>[has subtitle language](#has-subtitle-language) ⇒ [Subtitle Language](#subtitle-language)<br/>[has language version](#has-language-version) ⇒ [Language Version](#language-version) |
@@ -239,7 +239,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Information Storage Medium Type |
 | **German Name of Class** | Informationsträgertyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#information-storage-medium-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#information-storage-medium-type> |
 | **English Description** | An Information Storage Medium Type categorises an Information Storage medium with a [controlled vocabulary](/controlled-vocabularies/information-storage-medium-types). |
 | **German Description** | Ein Informationsträgertyp kategorisiert einen Informationsträger mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/information-storage-medium-types). |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonyms](#has-german-synonyms) ⇒ [German Synonyms](#german-synonyms)<br/>[has english synonyms](#has-english-synonyms) ⇒ [English Synonyms](#english-synonyms)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has PBCore link](#has-pbcore-link) ⇒ [PBCore Link](#pbcore-link)<br/>[has broader information storage medium type](#has-broader-information-storage-medium-type) ⇒ [Information Storage Medium Type](#information-storage-medium-type) |
@@ -255,7 +255,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Keyword |
 | **German Name of Class** | Schlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#keyword> |
 | **English Description** | A metadata entry from the controlled vocabulary of [Wikidata](https://www.wikidata.org/). |
 | **German Description** | Ein Metadaten-Eintrag aus dem kontrollierten Vokabular von [Wikidata](https://www.wikidata.org/). |
 | **Properties (English Naming)** | [has german wikidata label](#has-german-wikidata-label) ⇒ [German Wikidata Label](#german-wikidata-label)<br/>[has english wikidata label](#has-english-wikidata-label) ⇒ [English Wikidata Label](#english-wikidata-label)<br/>[has german wikidata synonym](#has-german-wikidata-synonym) ⇒ [German Wikidata Synonym](#german-wikidata-synonym)<br/>[has english wikidata synonym](#has-english-wikidata-synonym) ⇒ [English Wikidata Synonym](#english-wikidata-synonym)<br/>[has german wikidata description](#has-german-wikidata-description) ⇒ [German Wikidata Description](#german-wikidata-description)<br/>[has german wikidata description](#has-german-wikidata-description) ⇒ [German Wikidata Description](#german-wikidata-description)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id) |
@@ -271,7 +271,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Language |
 | **German Name of Class** | Sprache |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#language> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#language> |
 | **English Description** | A language defined by the [ISO 639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) standard. This standard was chosen to be compatible with all libraries. |
 | **German Description** | Eine Sprache, die durch die Norm [ISO 639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) definiert ist. Dieser Standard wurde gewählt, um mit allen Bibliotheken kompatibel zu sein. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has ISO 639-2(B) code](#has-iso-639-2b-code) ⇒ [ISO 639-2(B) Code](#iso-639-2b-code)<br/>[has ISO 639-2(T) code](#has-iso-639-2t-code) ⇒ [ISO 639-2(T) Code](#iso-639-2t-code)<br/>[has ISO 639-1 code](#has-iso-639-1-code) ⇒ [ISO 639-1 Code](#iso-639-1-code) |
@@ -287,7 +287,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Organisational Unit |
 | **German Name of Class** | Organisationseinheit |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#organisational-unit> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#organisational-unit> |
 | **English Description** | A department, an institute, a study programme, or an artistic/scientific facility. |
 | **German Description** | Ein Fachbereich, Institut, ein Studiengang oder eine künstlerisch/wissenschaftliche Einrichtung. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german description](#has-german-description) ⇒ [German Description](#german-description)<br/>[has english description](#has-english-description) ⇒ [English Description](#english-description) |
@@ -303,7 +303,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Place |
 | **German Name of Class** | Ort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#place> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#place> |
 | **English Description** | A place metadata entry from the controlled vocabulary of [Wikidata](https://www.wikidata.org/). Only "real" places are acceptable, i.e. they must be identifiable with geolocation coordinates. |
 | **German Description** | Ein Ort-Metadaten-Eintrag aus dem kontrollierten Vokabular von [Wikidata](https://www.wikidata.org/). Nur "reale" Orte sind erlaubt, d.h. sie müssen mit Geokoordinaten identifierbar sein. |
 | **Properties (English Naming)** | [has german wikidata label](#has-german-wikidata-label) ⇒ [German Wikidata Label](#german-wikidata-label)<br/>[has english wikidata label](#has-english-wikidata-label) ⇒ [English Wikidata Label](#english-wikidata-label)<br/>[has place type](#has-place-type) ⇒ [Place Type](#place-type)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has VIAF ID](#has-viaf-id) ⇒ [VIAF ID](#viaf-id)<br/>[has longitude](#has-longitude) ⇒ [Longitude](#longitude)<br/>[has latitude](#has-latitude) ⇒ [Latitude](#latitude)<br/>[has broader place](#has-broader-place) ⇒ [Place](#place) |
@@ -319,7 +319,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Phyiscal Object |
 | **German Name of Class** | Physisches Objekt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#physical-object> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#physical-object> |
 | **English Description** | Ein physisch abgrenzbares Objekt, ein Teil eines solchen oder ein Material, das in einem Ereignis entstanden oder verwendet wurde. |
 | **German Description** | A physically delineated object, a part of such, or a material that was created or used in an Event. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has external inventory number](#has-external-inventory-number) ⇒ [External Inventory Number](#external-inventory-number)<br/>[has depository](#has-depository) ⇒ [Place](#place)<br/>[has owner](#has-owner) ⇒ [Actor](#actor)<br/>[has legal rights holder](#has-legal-rights-holder) ⇒ [Actor](#actor)<br/>[has provenance](#has-provenance)  ⇒ [Provenance](#provenance)<br/>[has german description](#has-german-description) ⇒ [German Description](#german-description)<br/>[has english description](#has-english-description) ⇒ [English Description](#english-description)<br/>[has german commentary](#has-german-commentary) ⇒ [German Commentary](#german-commentary)<br/>[has english commentary](#has-english-commentary) ⇒ [English Commentary](#english-commentary)<br/>[has internal commentary](#has-internal-commentary) ⇒ [Internal Commentary](#internal-commentary)<br/>[has classifying keyword](#has-classifying-keyword) ⇒ [Classifying Keyword](#classifying-keyword)<br/>[has material keyword](#has-material-keyword) ⇒ [Material Keyword](#material-keyword)<br/>[has technique keyword](#has-technique-keyword) ⇒ [Technique Keyword](#technique-keyword)<br/>[has german technique commentary](#has-german-technique-commentary) ⇒ [German Technique Commentary](#german-technique-commentary)<br/>[has english technique commentary](#has-english-technique-commentary) ⇒ [English Technique Commentary](#german-technique-commentary)<br/>[has dimensions](#has-dimensions) ⇒ [Dimensions](#dimensions)<br/>[has condition state (german)](#has-condition-state-german) ⇒ [Condition State (German)](#condition-state-german)<br/>[has condition state (english)](#has-condition-state-english) ⇒ [Condition State (English)](#condition-state-english) |
@@ -335,7 +335,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Project |
 | **German Name of Class** | Projekt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#project> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#project> |
 | **English Description** | A Project is dataset record that is describing art and things related to art, as well as holding its current legal and usage rights status of the intellectual property. A Project is the central cataloguing unit of arkumu.nrw. |
 | **German Description** | Ein Projekt ist ein Datensatz, der Kunst und kunstbezogene Dinge beschreibt sowie den aktuellen Rechts- und Nutzungsrechtsstatus dieses geistigen Eigentums enthält. Ein Projekt ist die zentrale Verzeichnungseinheit von arkumu.nrw. |
 | **Properties (English Naming)** | [has preferred title](#has-preferred-title) ⇒ [Preferred Title](#preferred-title)<br/>[has preferred subtitle](#has-preferred-subtitle) ⇒ [Preferred Subtitle](#preferred-subtitle)<br/>[has alternative title set](#has-alternative-title-set) ⇒ [Alternative Title Set](#alternative-title-set)<br/>[has depositing university](#has-depositing-university) ⇒ [Depositing University](#depositing-university)<br/>[has organisational unit](#has-organisational-unit) ⇒ [Organisational Unit](#organisational-unit)<br/>[has project type](#has-project-type) ⇒ [Project Type](#project-type)<br/>[has project category](#has-project-category) ⇒ [Project Category](#project-category)<br/>[has keyword](#has-keyword) ⇒ [Keyword](#keyword)<br/>[has project description](#has-project-description) ⇒ [Project Description](#project-description)<br/>[has german commentary](#has-german-commentary) ⇒ [German Commentary](#german-commentary)<br/>[has english commentary](#has-english-commentary) ⇒ [English Commentary](#english-commentary)<br/>[has internal commentary](#has-internal-commentary) ⇒ [Internal Commentary](#internal-commentary)<br/>[has event](#has-event) ⇒ [Event](#event)<br/>[has project property](#has-project-property) ⇒ [Project Property](#project-property)<br/>[has related project](#has-related-project) ⇒ [Project](#project)<br/>[has arkumu ID](#has-arkumu-id) ⇒ [arkumu ID](#arkumu-id)<br/>[has ARK ID](#has-ark-id) ⇒ [ARK ID](#ark-id)<br/>[has ID at depositor](#has-id-at-depositor) ⇒ [ID at Depositor](#id-at-depositor)<br/>[has catalogue raisonné reference number](#has-catalogue-raisonne-reference-number) ⇒ [Catalogue Raisonné Reference Number](#catalogue-raisonne-reference-number)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has website](#has-website) ⇒ [Website](#website)<br/>[has dataset ID at depositor](#has-dataset-id-at-depositor) ⇒ [Dataset ID at Depositor](#dataset-id-at-depositor)<br/>[has depositor](#has-depositor) ⇒ [Organisational Unit](#organisational-unit)<br/>[has dataset creation date at depositor](#has-dataset-creation-date-at-depositor) ⇒ [Dataset Creation Date at Depositor](#dataset-creation-date-at-depositor)<br/>[has dataset last modification date at depositor](#has-dataset-last-modification-date-at-depositor) ⇒ [Dataset Last Modification Date at Depositor](#dataset-last-modification-date-at-depositor)<br/>[has rights status](#has-rights-status) ⇒ [Rights Status](#rights-status)<br/>[has existing license agreement](#has-existing-license-agreement) ⇒ [Existing License Agreement](#existing-license-agreement)<br/>[has new arkumu license agreement](#new-arkumu-license-agreement) ⇒ [New arkumu License Agreement](#new-arkumu-license-agreement)<br/>[has additional rights document](#has-additional-rights-document) ⇒ [Additional Rights Document](#additional-rights-document)<br/>[has file license document](#has-file-license-document) ⇒ [File License Document](#file-license-document) |
@@ -351,7 +351,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Project Category |
 | **German Name of Class** | Projektkategorie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#project-category> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#project-category> |
 | **English Description** | A Project Category typifies a Project, in an artistic sense, with the help of a [controlled vocabulary](/controlled-vocabularies/project-categories). |
 | **German Description** | Eine Projektkategorie typisiert ein Projekt, in einem künstlerischen Sinne, mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/project-categories). |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonyms](#has-german-synonyms) ⇒ [German Synonyms](#german-synonyms)<br/>[has english synonyms](#has-english-synonyms) ⇒ [English Synonyms](#english-synonyms)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has filmportal.de category ID](#has-filmportalde-category-id) ⇒ [filmportal.de Category ID](#filmportalde-category-id)<br/>[has broader project category](#has-broader-project-category) ⇒ [Project Category](#project-category) |
@@ -367,7 +367,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Project Description |
 | **German Name of Class** | Projektbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#project-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#project-description> |
 | **English Description** | A text describing the content of the Project, or what the Project in question is. These can be texts written by the artists themselves or written by a third person. |
 | **German Description** | Ein Text, der den Inhalt des Projekts beschreibt oder was das Projekt ist. Dabei kann es sich um Texte handeln, die von den Künstler:innen selbst oder von einer dritten Person verfasst wurden. |
 | **Properties (English Naming)** | [has description text](#has-description-text) ⇒ [Description Text](#description-text)<br/>[has sorting number](#has-sorting-number) ⇒ [Sorting Number](#sorting-number) |
@@ -383,7 +383,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Project Type |
 | **German Name of Class** | Projektart |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#project-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#project-type> |
 | **English Description** | A Project Type categorises a the academic context of a Project with the help of a [controlled vocabulary](/controlled-vocabularies/project-types). |
 | **German Description** | Eine Projektart kategorisiert den akademischen Kontext eines Projekts mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/project-types). |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id) |
@@ -399,7 +399,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 |-----------|-----------|
 | **English Name of Class** | Role |
 | **German Name of Class** | Rolle |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#role> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#role> |
 | **English Description** | An artistic or non-artistic role of a person, a group, or legal entity, either as a global role as profession or activity directly bound to the actor, or situational executed in an Event. |
 | **German Description** | Eine künstlerische oder nicht-künstlerische Rolle einer Person, einer Gruppe oder einer Körperschaft, entweder als globale Rolle, als Beruf oder Tätigkeit, direkt an eine:n Akteur:in gebunden oder situativ ausgeführt in einem Event. |
 | **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID (male)](#has-gnd-id-male) ⇒ [GND ID (male)](#gnd-id-male)<br/>[has GND ID (female)](#has-gnd-id-female) ⇒ [GND ID (female)](#gnd-id-female)<br/>[has GND ID (group)](#has-gnd-id-group) ⇒ [GND ID (group)](#gnd-id-group)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has broader role](#has-broader-role)  ⇒  [Role](#role)|
@@ -442,7 +442,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | AAT ID |
 | **German Name of Class** | AAT-ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#aat-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#aat-id> |
 | **English Description** | An identification number for an entry in the ["Art & Architecture Thesaurus"](https://www.getty.edu/research/tools/vocabularies/aat/) of the Getty research Institute; e.g. [300054138](http://vocab.getty.edu/page/aat/300054138). |
 | **German Description** | Eine Identifikatsnummer eines Eintrags im [„Art & Architecture Thesaurus“](https://www.getty.edu/research/tools/vocabularies/aat/) des Getty Reasearch Institute; z.B. [300054138](http://vocab.getty.edu/page/aat/300054138). |
 
@@ -455,7 +455,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Additional Rights Document |
 | **German Name of Class** | Weiteres Rechtsdokument |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#additional-rights-document> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#additional-rights-document> |
 | **English Description** | Links to additionally uploaded documents that are relevant to German *Urheberrecht* or German *Leistungsschutzrecht* issues relating to a [Project](#project) or [Events](#event) associated with the [Project](#project). |
 | **German Description** | Links zu weiteren hochgeladenen Dokumenten, die für urheberrechtliche oder leistungsschutzrechtliche Fragen bezüglich eines [Projekts](#project) oder den damit, über das [Projekt](#project) verbundenen, [Ereignissen](#event) relevant ist. |
 
@@ -468,7 +468,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Alternative Name |
 | **German Name of Class** | Alternativer Name |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#alternative-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#alternative-name> |
 | **English Description** | An alternative appellation for an [Actor](#actor). |
 | **German Description** | Eine alternative Bezeichnung für einen/eine [Akteur:in](#actor). |
 
@@ -481,7 +481,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Alternative Subtitle |
 | **German Name of Class** | Alternativer Untertitel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#alternative-subtitle> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#alternative-subtitle> |
 | **English Description** | An alternative short, supplementary line of text for a [Project](#project), which is linked to it via an [Alternative Title Set](#alternative-title-set). |
 | **German Description** | Ein alternative kurze, ergänzende Textzeile für eine [Projekt](#project), die über ein [Alternatives Titel-Set](#alternative-title-set) verbunden wird. |
 | **Properties (English Naming)** | [has language](#has-language) ⇒ [Language](#language) |
@@ -496,7 +496,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Alternative Title |
 | **German Name of Class** | Alternativer Titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#alternative-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#alternative-title> |
 | **English Description** | An alternative appellation for a [Project](#project), which is linked to it via an [Alternative Title Set](#alternative-title-set). |
 | **German Description** | Ein alternative Benennung für ein [Projekt](#project), die über ein [Alternatives Titel-Set](#alternative-title-set) verbunden wird. |
 | **Properties (English Naming)** | [has language](#has-language) ⇒ [Language](#language) |
@@ -511,7 +511,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ARK |
 | **German Name of Class** | ARK |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#ark-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#ark-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -524,7 +524,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | arkumu ID |
 | **German Name of Class** | arkumu ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#arkumu-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#arkumu-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -537,7 +537,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Aspect Ratio |
 | **German Name of Class** | Aspect Ratio/Bildseitenverhältnis |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#aspect-ratio> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#aspect-ratio> |
 | **English Description** | |
 | **German Description** | |
 
@@ -550,7 +550,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Beginning of Activity |
 | **German Name of Class** | Wirkungsbeginn |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#beginning-of-activity> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#beginning-of-activity> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -563,7 +563,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Catalogue Raisonné Reference Number |
 | **German Name of Class** | Werkverzeichnisnummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#catalogue-raisonne-reference-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#catalogue-raisonne-reference-number> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -576,7 +576,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Checksum |
 | **German Name of Class** | Prüfsumme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#checksum> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#checksum> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -589,7 +589,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Checksum at Depositor |
 | **German Name of Class** | Prüfsumme beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#checksum-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#checksum-at-depositor> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -602,7 +602,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Classifying Keyword |
 | **German Name of Class** | Klassifizierendes Schlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#classifying-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#classifying-keyword> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -615,7 +615,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Compilation |
 | **German Name of Class** | Kompilation |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#compilation> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#compilation> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -628,7 +628,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Compilation Series Number |
 | **German Name of Class** | Kompilations-Reihennummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#compilation-series-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#compilation-series-number> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -641,7 +641,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Compilation Title |
 | **German Name of Class** | Kompilationstitel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#compilation-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#compilation-title> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -654,7 +654,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Condition State (English) |
 | **German Name of Class** | Erhaltungszustand (Englisch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#condition-state(english)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#condition-state(english)> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -667,7 +667,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Condition State (German) |
 | **German Name of Class** | Erhaltungszustand (Deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#condition-state(german)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#condition-state(german)> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -680,7 +680,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Contact (E-Mail) |
 | **German Name of Class** | Kontakt (E-Mail) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#contact(e-mail)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact(e-mail)> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -693,7 +693,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Contact (Phone) |
 | **German Name of Class** | Kontakt (Telefon) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#contact(phone)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact(phone)> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -706,7 +706,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Contact (Postal Address) |
 | **German Name of Class** | Kontakt (Postanschrift) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#contact(postal-address)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact(postal-address)> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -719,7 +719,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Dataset Creation Date at Depositor |
 | **German Name of Class** | Datensatz-Erstellungsdatum beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#dataset-creation-date-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#dataset-creation-date-at-depositor> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -732,7 +732,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Dataset ID at Depositor |
 | **German Name of Class** | Datensatz-ID beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#dataset-id-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#dataset-id-at-depositor> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -745,7 +745,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Dataset Last Modification Date at Depositor |
 | **German Name of Class** | Datensatz-Letztes-Änderungsdatum beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#dataset-last-modification-date-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#dataset-last-modification-date-at-depositor> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -758,7 +758,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Date of Birth |
 | **German Name of Class** | Geburtsdatum |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#date-of-birth> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#date-of-birth> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -771,7 +771,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Date of Death |
 | **German Name of Class** | Sterbedatum |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#date-of-death> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#date-of-death> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -784,7 +784,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Derivate Copy Number |
 | **German Name of Class** | Derivatkopie-Nummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#derivate-copy-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#derivate-copy-number> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -797,7 +797,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Description Text |
 | **German Name of Class** | Beschreibungstext |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#description-text> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#description-text> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -810,7 +810,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Digital Object Keyword |
 | **German Name of Class** | Digitales-Objekt-Schlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#digital-object-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#digital-object-keyword> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -823,7 +823,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Digital Object License |
 | **German Name of Class** | Digitales Objekt-Lizenz
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#digital-object-license> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#digital-object-license> |
 | **English Description** | When exporting source data to arkumu, the license status must be specified with one of three possible values: The value `1` corresponds to Lizenz arkumu-A. The value `2` corresponds to Lizenz arkumu-A+B. The value `3` corresponds to Lizenz arkumu-A+B+C |
 | **German Description** | Wenn Quelldaten nach arkumu exportiert werden, muss der Lizenzstatus mit einer von drei möglichen Werten angegeben werden: Der Wert `1` entspricht der Lizenz arkumu-A. Der Wert `2` entspricht der Lizenz arkumu-A+B. Der Wert `3` entspricht der Lizenz arkumu-A+B+C  |
 
@@ -836,7 +836,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Dimensions |
 | **German Name of Class** | Maße |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#dimensions> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#dimensions> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -849,7 +849,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | DROID Metadata |
 | **German Name of Class** | DROID-Metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#droid-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#droid-metadata> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -862,7 +862,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | DROID PUID |
 | **German Name of Class** | DROID PUID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#droid-puid> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#droid-puid> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -875,7 +875,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | End of Activity |
 | **German Name of Class** | Wirkungsende |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#end-of-activity> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#end-of-activity> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -888,7 +888,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Commentary |
 | **German Name of Class** | Englischer Kommentar |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-commentary> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -901,7 +901,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Content Description |
 | **German Name of Class** | Englische Inhaltliche Beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-content-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-content-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -914,7 +914,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Description |
 | **German Name of Class** | Englische Beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -927,7 +927,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Image Description |
 | **German Name of Class** | Englische Bildbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-image-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-image-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -940,7 +940,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Name |
 | **German Name of Class** | Englischer Name |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-name> |
 | **English Description** | An English appellation of an Event, Actor, or further entity. |
 | **German Description** | Eine englische Benennung eines Ereignis, einer Akteur:in oder eine anderen Entität. |
 
@@ -953,7 +953,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Short Biography |
 | **German Name of Class** | Englische Kurzbiografie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-short-biography> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-short-biography> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -966,7 +966,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Synonyms |
 | **German Name of Class** | Englische Synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-synonyms> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-synonyms> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -979,7 +979,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Technique Commentary |
 | **German Name of Class** | Kommentar zur Technik (Englisch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-technique-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-technique-commentary> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -992,7 +992,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Wikidata Label |
 | **German Name of Class** | Englishes Wikidata-Label |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-wikidata-label> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-wikidata-label> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1005,7 +1005,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Wikidata Synonym |
 | **German Name of Class** | Englishes Wikidata-Synonym |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-wikidata-synonym> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-wikidata-synonym> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1018,7 +1018,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | English Wording |
 | **German Name of Class** | Englischer Vertragstext |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#english-wording> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-wording> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1031,7 +1031,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Event Beginning |
 | **German Name of Class** | Ereignisbeginn |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#event-beginning> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event-beginning> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1044,7 +1044,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Event End |
 | **German Name of Class** | Ereignisende |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#event-end> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event-end> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1057,7 +1057,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Event Property |
 | **German Name of Class** | Ereigniseigenschaft |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#event-property> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event-property> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1070,7 +1070,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ExifTool Metadata |
 | **German Name of Class** | ExifTool-Metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#exiftool-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#exiftool-metadata> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1083,7 +1083,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | External Inventory Number |
 | **German Name of Class** | Externe Inventar-Signaturnummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#external-inventory-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#external-inventory-number> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1096,7 +1096,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | File License Document |
 | **German Name of Class** | Dateiabfrage-Dokument |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#file-license-document> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#file-license-document> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1109,7 +1109,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | File Name |
 | **German Name of Class** | Dateiname |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#file-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#file-name> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1122,7 +1122,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | File Package |
 | **German Name of Class** | Dateipaket |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#file-package> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#file-package> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1135,7 +1135,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | File Path |
 | **German Name of Class** | Dateipfad |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#file-path> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#file-path> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1148,7 +1148,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | File Size |
 | **German Name of Class** | Dateigröße |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#file-size> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#file-size> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1161,7 +1161,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | filmportal.de Category ID |
 | **German Name of Class** | filmportal.de-Kategorie-ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#filmportalde-category-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#filmportalde-category-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1174,7 +1174,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Frame Rate |
 | **German Name of Class** | Bildfrequenz |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#frame-rate> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#frame-rate> |
 | **English Description** | Anzahl der Bilder, die pro Sekunde gerendert werden, z. B. 25 fps. |
 | **German Description** | Number of frames rendered per second, e.g. 25 fps. |
 
@@ -1187,7 +1187,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Gender |
 | **German Name of Class** | Geschlecht |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#gender> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#gender> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1200,7 +1200,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Genesis Type |
 | **German Name of Class** | Entstehungstyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#genesis-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#genesis-type> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1213,7 +1213,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Commentary |
 | **German Name of Class** | Deutscher Kommentar |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-commentary> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1226,7 +1226,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Content Description |
 | **German Name of Class** | Deutsche Inhaltliche Beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-content-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-content-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1239,7 +1239,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Description |
 | **German Name of Class** | Deutsche Beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1252,7 +1252,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Image Description |
 | **German Name of Class** | Deutsche Bildbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-image-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-image-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1265,7 +1265,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Name |
 | **German Name of Class** | Deutscher Name |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-name> |
 | **English Description** | An German appellation of an Event, Actor, or further entity. |
 | **German Description** | Eine deutsche Benennung eines Ereignis, einer Akteur:in oder eine anderen Entität. |
 
@@ -1278,7 +1278,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Short Biography |
 | **German Name of Class** | Deutsche Kurzbiografie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-short-biography> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-short-biography> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1291,7 +1291,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Synonyms |
 | **German Name of Class** | Deutsche Synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-synonyms> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-synonyms> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1304,7 +1304,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Technique Commentary |
 | **German Name of Class** | Kommentar zur Technik (Deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-technique-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-technique-commentary> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1317,7 +1317,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Wikidata Description |
 | **German Name of Class** | Englische Wikidata-Beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-wikidata-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-wikidata-description> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1330,7 +1330,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Wikidata Label |
 | **German Name of Class** | Deutsches Wikidata-Label |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-wikidata-label> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-wikidata-label> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1343,7 +1343,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Wikidata Synonym |
 | **German Name of Class** | Deutsches Wikidata-Synonym |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-wikidata-synonym> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-wikidata-synonym> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1356,7 +1356,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | German Wording |
 | **German Name of Class** | Deutscher Vertragstext |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#german-wording> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-wording> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1369,7 +1369,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | GND ID |
 | **German Name of Class** | GND-Nummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#gnd-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#gnd-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1382,7 +1382,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | GND ID (female) |
 | **German Name of Class** | GND-Nummer (weiblich) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#gnd-id-female> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#gnd-id-female> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1395,7 +1395,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | GND ID (group) |
 | **German Name of Class** | GND-Nummer (Gruppe) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#gnd-id-group> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#gnd-id-group> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1408,7 +1408,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | GND ID (male) |
 | **German Name of Class** | GND-Nummer (männlich) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#gnd-id-male> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#gnd-id-male> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1421,7 +1421,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ID at Depositor |
 | **German Name of Class** | ID beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#id-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#id-at-depositor> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1434,7 +1434,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Internal Commentary |
 | **German Name of Class** | Interner Kommentar |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#internal-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#internal-commentary> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1447,7 +1447,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | is arkumu Preview |
 | **German Name of Class** | ist arkumu Preview |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-arkumu-preview> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-arkumu-preview> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1460,7 +1460,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | is part of a series |
 | **German Name of Class** | ist Teil einer Serie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-part-of-a-series> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-part-of-a-series> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1473,7 +1473,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | is Poster Image |
 | **German Name of Class** | ist Vorschaubild |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-poster-image> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-poster-image> |
 | **English Description** |  |
 | **German Description** | Eine Bilddatei, die repräsentativ für das ganze Projekt auf der Suchergebnisseite angezeigt wird. Wenn mehrere digitale Objekte eines Projekts Bilder sind, wird eines zum Vorschaubild deklariert. |
 
@@ -1486,7 +1486,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ISO 639-1 Code |
 | **German Name of Class** | ISO 639-1-Code |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#iso639-1-code> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#iso639-1-code> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1499,7 +1499,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ISO 639-2(B) Code |
 | **German Name of Class** | ISO 639-2(B)-Code |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#iso639-2b-code> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#iso639-2b-code> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1512,7 +1512,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ISO 639-2(T) Code |
 | **German Name of Class** | ISO 639-2(T)-Code |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#iso639-2t-code> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#iso639-2t-code> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1525,7 +1525,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | JHOVE Metadata |
 | **German Name of Class** | JHOVE-Metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#jhove-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#jhove-metadata> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1538,7 +1538,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | JHOVE Status |
 | **German Name of Class** | JHOVE-Dateistatus |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#jhove-status> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#jhove-status> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1551,7 +1551,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Label |
 | **German Name of Class** | Label |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#label> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#label> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1564,7 +1564,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Language Version |
 | **German Name of Class** | Sprachversion |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#language-version> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#language-version> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1577,7 +1577,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Latitude |
 | **German Name of Class** | Breitengrad |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#latitude> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#latitude> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1590,7 +1590,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | LCCN ID |
 | **German Name of Class** | LCCN-ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#lccn-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#lccn-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1603,7 +1603,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | LIDO Terminology ID |
 | **German Name of Class** | LIDO-Terminologie-ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#lido-terminology-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#lido-terminology-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1616,7 +1616,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Longitude |
 | **German Name of Class** | Längengrad |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#longitude> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#longitude> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1629,7 +1629,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Material Keyword |
 | **German Name of Class** | Materialschlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#material-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#material-keyword> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1642,7 +1642,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Media Type |
 | **German Name of Class** | Medientyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#media-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#media-type> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1655,7 +1655,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | MediaInfo Metadata |
 | **German Name of Class** | MediaInfo-Metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#mediainfo-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#mediainfo-metadata> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1668,7 +1668,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | MIME Type |
 | **German Name of Class** | MIME Type |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#mime-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#mime-type> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1681,7 +1681,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | New arkumu License Agreement |
 | **German Name of Class** | Neuer arkumu Lizenzvertrag |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#new-arkumu-license-agreement> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#new-arkumu-license-agreement> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1694,7 +1694,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Non-public Name |
 | **German Name of Class** | Nicht-öffentlicher Name |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#non-public-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#non-public-name> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1707,7 +1707,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | ORCID |
 | **German Name of Class** | ORCID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#orcid> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#orcid> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1720,7 +1720,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Original Language |
 | **German Name of Class** | Originalsprache |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#original-language> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#original-language> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1733,7 +1733,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Other Authority File |
 | **German Name of Class** | Andere Normdatei |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#other-authority-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#other-authority-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1746,7 +1746,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | PBCore Link |
 | **German Name of Class** | PBCore-Link |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#pbcore-link> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#pbcore-link> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1759,7 +1759,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | PDF |
 | **German Name of Class** | PDF |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#pdf> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#pdf> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1772,7 +1772,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Place Type |
 | **German Name of Class** | Ortart |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#place-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#place-type> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1785,7 +1785,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Preceding Title |
 | **German Name of Class** | Vorangestellter Titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#preceding-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#preceding-title> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1798,7 +1798,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Preferred Subtitle |
 | **German Name of Class** | Bevorzugter Untertitel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#preferred-subtitle> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#preferred-subtitle> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1811,7 +1811,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Preferred Title |
 | **German Name of Class** | Bevorzugter Titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#preferred-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#preferred-title> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1824,7 +1824,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Preservation Type |
 | **German Name of Class** | Erhaltungstyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#preservation-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#preservation-type> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1837,7 +1837,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Producer |
 | **German Name of Class** | Hersteller |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#producer> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#producer> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1850,7 +1850,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Product ID Value |
 | **German Name of Class** | Produkt-ID-Wert |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#product-id-value> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#product-id-value> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1863,7 +1863,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Project Property |
 | **German Name of Class** | Projekteigenschaft |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#project-property> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#project-property> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1876,7 +1876,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Provenance |
 | **German Name of Class** | Provenienz |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#provenance> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#provenance> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1889,7 +1889,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Rights Status |
 | **German Name of Class** | Rechtsstatus |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#rights-status> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#rights-status> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1902,7 +1902,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Significant Properties (English) |
 | **German Name of Class** | Wesentliche Eigenschaften (Englisch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#significant-properties-english> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#significant-properties-english> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1915,7 +1915,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Significant Properties (German) |
 | **German Name of Class** | Wesentliche Eigenschaften (Deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#significant-properties-german> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#significant-properties-german> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1928,7 +1928,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Sorting Number |
 | **German Name of Class** | Sortiernummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#sorting-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#sorting-number> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1941,7 +1941,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Subtitle Language |
 | **German Name of Class** | Untertitelsprache |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#subtitle-language> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#subtitle-language> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1954,7 +1954,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | System Requirements |
 | **German Name of Class** | Systemvoraussetzungen |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#system-requirements> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#system-requirements> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1967,7 +1967,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Technique Keyword |
 | **German Name of Class** | Technikschlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#technique-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#technique-keyword> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1980,7 +1980,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Part of a Series |
 | **German Name of Class** | Teil einer Serie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#part-of-a-series> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#part-of-a-series> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1993,7 +1993,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Plays in a Loop |
 | **German Name of Class** | wird im Loop abgespielt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#plays-in-a-loop> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#plays-in-a-loop> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2006,7 +2006,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Television Standard |
 | **German Name of Class** | Fernsehnorm |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#television-standard> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#television-standard> |
 | **English Description** | Standard for terrestrial television signals, e.g. PAL or NTSC. |
 | **German Description** | Der Standard, nach dem Informationen beim Fernsehen vom Sender zum Empfänger übertragen werden, z. B. PAL oder NTSC. |
 
@@ -2019,7 +2019,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Trailing Title |
 | **German Name of Class** | Nachgestellter Titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#trailing-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#trailing-title> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2032,7 +2032,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | URI |
 | **German Name of Class** | URI |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#uri> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#uri> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2045,7 +2045,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | VIAF ID |
 | **German Name of Class** | VIAF-ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#viaf-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#viaf-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2058,7 +2058,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Website |
 | **German Name of Class** | Webseite |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#website> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#website> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2071,7 +2071,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Wikidata ID |
 | **German Name of Class** | Wikidata-ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#wikidata-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#wikidata-id> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2113,7 +2113,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has AAT ID |
 | **German Name of Property** | hat AAT-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-aat-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-aat-id> |
 | **Graph Representation** | arkumu:hasAatId |
 
 <br/>
@@ -2125,7 +2125,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has accountable university |
 | **German Name of Property** | hat verantwortliche Hochschule |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-accountable-university> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-accountable-university> |
 | **Graph Representation** | arkumu:hasAccountableUniversity |
 
 <br/>
@@ -2137,7 +2137,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has actor |
 | **German Name of Property** | hat akteurin |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-actor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-actor> |
 | **Graph Representation** | arkumu:hasActor |
 
 <br/>
@@ -2149,7 +2149,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has additional rights document |
 | **German Name of Property** | hat weiteres rechtsdokument |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-additional-rights-document> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-additional-rights-document> |
 | **Graph Representation** | arkumu:hasAdditionalRightsDocument |
 
 <br/>
@@ -2161,7 +2161,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has alternative name |
 | **German Name of Property** | hat alternativen namen |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-alternative-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-alternative-name> |
 | **Graph Representation** | arkumu:hasAlternativeName |
 
 <br/>
@@ -2173,7 +2173,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has alternative subtitle |
 | **German Name of Property** | hat alternativen Untertitel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-alternative-subtitle> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-alternative-subtitle> |
 | **Graph Representation** | arkumu:hasAlternativeSubtitle |
 
 <br/>
@@ -2185,7 +2185,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has alternative title |
 | **German Name of Property** | hat alternativen Titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-alternative-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-alternative-title> |
 | **Graph Representation** | arkumu:hasAlternativeTitle |
 
 <br/>
@@ -2197,7 +2197,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has alternative title set |
 | **German Name of Property** | hat alternativer-titel-set |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-alternative-title-set> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-alternative-title-set> |
 | **Graph Representation** | arkumu:hasAlternativeTitleSet |
 
 <br/>
@@ -2209,7 +2209,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ARK ID|
 | **German Name of Property** | hat ARK ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-ark-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-ark-id> |
 | **Graph Representation** | arkumu:hasArkId |
 
 <br/>
@@ -2221,7 +2221,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has arkumu ID |
 | **German Name of Property** | hat arkumu ID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-arkumu-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-arkumu-id> |
 | **Graph Representation** | arkumu:hasArkumuId |
 
 <br/>
@@ -2233,7 +2233,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has aspect ratio |
 | **German Name of Property** | hat Aspect Ratio/Bildseitenverhältnis |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-aspect-ratio> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-aspect-ratio> |
 | **Graph Representation** | arkumu:hasAspectRatio |
 
 <br/>
@@ -2245,7 +2245,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has beginning of activity |
 | **German Name of Property** | hat wirkungsbeginn |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-beginning-of-activity> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-beginning-of-activity> |
 | **Graph Representation** | arkumu:hasBeginningOfActivity |
 
 <br/>
@@ -2257,7 +2257,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has broader information storage medium type |
 | **German Name of Property** | hat übergeordneten informationsträgertyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-broader-information-storage-medium-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-broader-information-storage-medium-type> |
 | **Graph Representation** | arkumu:hasBroaderInformationStorageMediumType |
 
 <br/>
@@ -2269,7 +2269,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has broader place |
 | **German Name of Property** | hat übergeordneten Ort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-broader-place> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-broader-place> |
 | **Graph Representation** | arkumu:hasBroaderPlace |
 
 <br/>
@@ -2281,7 +2281,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has broader project category |
 | **German Name of Property** | hat übergordnete Projektkategorie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-broader-project-category> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-broader-project-category> |
 | **Graph Representation** | arkumu:hasBroaderProjectCategory |
 
 <br/>
@@ -2293,7 +2293,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has broader role |
 | **German Name of Property** | hat übergeordnete rolle |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-broader-role> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-broader-role> |
 | **Graph Representation** | arkumu:hasBroaderRole |
 
 <br/>
@@ -2305,7 +2305,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has catalogue raisonné reference number |
 | **German Name of Property** | hat Werkverzeichnisnummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-catalogue-raisonne-reference-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-catalogue-raisonne-reference-number> |
 | **Graph Representation** | arkumu:hasCatalogueRaisonneReferenceNumber |
 
 <br/>
@@ -2317,7 +2317,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has checksum |
 | **German Name of Property** | hat prüfsumme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-checksum> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-checksum> |
 | **Graph Representation** | arkumu:hasChecksum |
 
 <br/>
@@ -2329,7 +2329,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has checksum at depositor |
 | **German Name of Property** | hat prüfsumme beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-checksum-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-checksum-at-depositor> |
 | **Graph Representation** | arkumu:hasChecksumAtDepositor |
 
 <br/>
@@ -2341,7 +2341,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has classifying keyword |
 | **German Name of Property** | hat klassifizierendes schlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-classifying-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-classifying-keyword> |
 | **Graph Representation** | arkumu:hasClassifyingKeyword |
 
 <br/>
@@ -2353,7 +2353,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has compilation series number |
 | **German Name of Property** | hat kompilatios-reihennummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-compilation-series-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-compilation-series-number> |
 | **Graph Representation** | arkumu:hasCompilationSeriesNumber |
 
 <br/>
@@ -2365,7 +2365,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has compilation title |
 | **German Name of Property** | hat kompilationstitel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-compilation-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-compilation-title> |
 | **Graph Representation** | arkumu:hasCompilationTitle |
 
 <br/>
@@ -2377,7 +2377,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has condition state (english) |
 | **German Name of Property** | hat erhaltungszustand (english) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-condition-state-english> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-condition-state-english> |
 | **Graph Representation** | arkumu:hasConditionStateEnglish |
 
 <br/>
@@ -2389,7 +2389,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has condition state (german) |
 | **German Name of Property** | hat erhaltungszustand (deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-condition-state-german> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-condition-state-german> |
 | **Graph Representation** | arkumu:hasConditionStateGerman |
 
 <br/>
@@ -2401,7 +2401,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has contact e-mail |
 | **German Name of Property** | hat kontakt-e-mail |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-contact-e-mail> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-contact-e-mail> |
 | **Graph Representation** | arkumu:hasContactE-mail |
 
 <br/>
@@ -2413,7 +2413,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has contact phone number |
 | **German Name of Property** | hat kontakt telefonnummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-contact-phone-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-contact-phone-number> |
 | **Graph Representation** | arkumu:hasContactPhoneNumber |
 
 <br/>
@@ -2425,7 +2425,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has contact postal address |
 | **German Name of Property** | hat kontakt postanschrift |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-contact-postal-address> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-contact-postal-address> |
 | **Graph Representation** | arkumu:hasContactPostalAddress |
 
 <br/>
@@ -2437,7 +2437,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has dataset creation date at depositor |
 | **German Name of Property** | hat datensatz-erstellungsdatum beim einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-dataset-creation-date-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-dataset-creation-date-at-depositor> |
 | **Graph Representation** | arkumu:hasDatasetCreationDateAtDepositor |
 
 <br/>
@@ -2449,7 +2449,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has dataset ID at depositor |
 | **German Name of Property** | hat datensatz-id beim einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-dataset-id-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-dataset-id-at-depositor> |
 | **Graph Representation** | arkumu:hasDatasetIdAtDepositor |
 
 <br/>
@@ -2461,7 +2461,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has dataset last modification date at depositor |
 | **German Name of Property** | hat Datensatz-letztes-Änderungsdatum beim Einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-dataset-last-modification-date-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-dataset-last-modification-date-at-depositor> |
 | **Graph Representation** | arkumu:hasDatasetLastModificationDateAtDepositor |
 
 <br/>
@@ -2473,7 +2473,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has date of birth |
 | **German Name of Property** | hat geburtsdatum |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-date-of-birth> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-date-of-birth> |
 | **Graph Representation** | arkumu:hasDateOfBirth |
 
 <br/>
@@ -2485,7 +2485,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has date of death |
 | **German Name of Property** | hat sterbedatum |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-date-of-death> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-date-of-death> |
 | **Graph Representation** | arkumu:hasDateOfDeath |
 
 <br/>
@@ -2497,7 +2497,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has depositing university |
 | **German Name of Property** | hat einliefernde hochschule |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-depositing-university> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-depositing-university> |
 | **Graph Representation** | arkumu:hasDepositingUniversity |
 
 <br/>
@@ -2509,7 +2509,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has depositor |
 | **German Name of Property** | hat einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-depositor> |
 | **Graph Representation** | arkumu:hasDepositor |
 
 <br/>
@@ -2521,7 +2521,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has depository |
 | **German Name of Property** | hat aufbewahrungsort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-depository> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-depository> |
 | **Graph Representation** | arkumu:hasDepository |
 
 <br/>
@@ -2533,7 +2533,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has derivate copy number |
 | **German Name of Property** | hat derivatkopie-nummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-derivate-copy-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-derivate-copy-number> |
 | **Graph Representation** | arkumu:hasDerivateCopyNumber |
 
 <br/>
@@ -2545,7 +2545,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has description text |
 | **German Name of Property** | hat beschreibungstext |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-description-text> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-description-text> |
 | **Graph Representation** | arkumu:hasDescriptionText |
 
 <br/>
@@ -2557,7 +2557,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has digital object |
 | **German Name of Property** | hat digitales objekt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-digital-object> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-digital-object> |
 | **Graph Representation** | arkumu:hasDigitalObject |
 
 <br/>
@@ -2569,7 +2569,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has digital object keyword |
 | **German Name of Property** | hat digitales-objekt-schlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-digital-object-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-digital-object-keyword> |
 | **Graph Representation** | arkumu:hasDigitalObjectKeyword |
 
 <br/>
@@ -2581,7 +2581,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has digital object license |
 | **German Name of Property** | hat digitales objekt-lizenz |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-digital-object-license> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-digital-object-license> |
 | **Graph Representation** | arkumu:hasDigitalObjectLicense |
 
 <br/>
@@ -2593,7 +2593,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has dimensions |
 | **German Name of Property** | hat maße |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-dimensions> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-dimensions> |
 | **Graph Representation** | arkumu:hasDimensions |
 
 <br/>
@@ -2605,7 +2605,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has DROID metadata |
 | **German Name of Property** | hat DROID-metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-droid-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-droid-metadata> |
 | **Graph Representation** | arkumu:hasDroidMetadata |
 
 <br/>
@@ -2617,7 +2617,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has DROID puid |
 | **German Name of Property** | hat DROID puid |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-droid-puid> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-droid-puid> |
 | **Graph Representation** | arkumu:hasDroidPuid |
 
 <br/>
@@ -2629,7 +2629,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has end of activity |
 | **German Name of Property** | hat wirkungsende |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-end-of-activity> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-end-of-activity> |
 | **Graph Representation** | arkumu:hasEndOfActivity |
 
 <br/>
@@ -2641,7 +2641,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english commentary |
 | **German Name of Property** | hat englischen kommentar |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-commentary> |
 | **Graph Representation** | arkumu:hasEnglishCommentary |
 
 <br/>
@@ -2653,7 +2653,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english content description |
 | **German Name of Property** | hat englische inhaltliche beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-content-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-content-description> |
 | **Graph Representation** | arkumu:hasEnglishContentDescription |
 
 <br/>
@@ -2665,7 +2665,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english description |
 | **German Name of Property** | hat englische beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-description> |
 | **Graph Representation** | arkumu:hasEnglishDescription |
 
 <br/>
@@ -2677,7 +2677,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english image description |
 | **German Name of Property** | hat englische bildbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-image-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-image-description> |
 | **Graph Representation** | arkumu:hasEnglishImageDescription |
 
 <br/>
@@ -2689,7 +2689,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english name |
 | **German Name of Property** | hat englischen namen |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-name> |
 | **Graph Representation** | arkumu:hasEnglishName |
 
 <br/>
@@ -2701,7 +2701,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english short biography |
 | **German Name of Property** | hat englische kurzbiografie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-short-biography> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-short-biography> |
 | **Graph Representation** | arkumu:hasEnglishShortBiography |
 
 <br/>
@@ -2713,7 +2713,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english synonyms |
 | **German Name of Property** | hat englische synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-synonyms> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-synonyms> |
 | **Graph Representation** | arkumu:hasEnglishSynonyms |
 
 <br/>
@@ -2725,7 +2725,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english technique commentary |
 | **German Name of Property** | hat kommentar zur technik (englisch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-technique-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-technique-commentary> |
 | **Graph Representation** | arkumu:hasEnglishTechniqueCommentary |
 
 <br/>
@@ -2737,7 +2737,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english wikidata label |
 | **German Name of Property** | hat englisches wikidata-label |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-wikidata-label> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-wikidata-label> |
 | **Graph Representation** | arkumu:hasEnglishWikidataLabel |
 
 <br/>
@@ -2749,7 +2749,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english wikidata synonym |
 | **German Name of Property** | hat englisches wikidata-synonym |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-wikidata-synonym> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-wikidata-synonym> |
 | **Graph Representation** | arkumu:hasEnglishWikidataSynonym |
 
 <br/>
@@ -2761,7 +2761,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has english wording |
 | **German Name of Property** | hat englischen vertragstext |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-english-wording> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-wording> |
 | **Graph Representation** | arkumu:hasEnglishWording |
 
 <br/>
@@ -2773,7 +2773,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has equipment and software |
 | **German Name of Property** | hat equipment und software |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-equipment-and-software> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-equipment-and-software> |
 | **Graph Representation** | arkumu:hasEquipmentAndSoftware |
 
 <br/>
@@ -2785,7 +2785,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event |
 | **German Name of Property** | hat ereignis |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event> |
 | **Graph Representation** | arkumu:hasEvent |
 
 <br/>
@@ -2797,7 +2797,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event beginning |
 | **German Name of Property** | hat ereignisbeginn |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-beginning> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-beginning> |
 | **Graph Representation** | arkumu:hasEventBeginning |
 
 <br/>
@@ -2809,7 +2809,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event description |
 | **German Name of Property** | hat ereignisbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-description> |
 | **Graph Representation** | arkumu:hasEventDescription |
 
 <br/>
@@ -2821,7 +2821,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event end |
 | **German Name of Property** | hat ereignisende |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-end> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-end> |
 | **Graph Representation** | arkumu:hasEventEnd |
 
 <br/>
@@ -2833,7 +2833,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event place |
 | **German Name of Property** | hat ereignisort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-place> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-place> |
 | **Graph Representation** | arkumu:hasEventPlace |
 
 <br/>
@@ -2845,7 +2845,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event property |
 | **German Name of Property** | hat ereigniseigenschaft |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-property> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-property> |
 | **Graph Representation** | arkumu:hasEventProperty |
 
 <br/>
@@ -2857,7 +2857,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has event type |
 | **German Name of Property** | hat ereignistyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-type> |
 | **Graph Representation** | arkumu:hasEventType |
 
 <br/>
@@ -2869,7 +2869,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ExifTool metadata |
 | **German Name of Property** | hat ExifTool-metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-exiftool-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-exiftool-metadata> |
 | **Graph Representation** | arkumu:hasExiftoolMetadata |
 
 <br/>
@@ -2881,7 +2881,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has existing license agreement |
 | **German Name of Property** | hat bestehenden lizenzvertrag |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-existing-license-agreement> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-existing-license-agreement> |
 | **Graph Representation** | arkumu:hasExistingLicenseAgreement |
 
 <br/>
@@ -2893,7 +2893,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has external inventory number |
 | **German Name of Property** | has externe inventarnummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-external-inventory-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-external-inventory-number> |
 | **Graph Representation** | arkumu:hasExternalInventoryNumber |
 
 <br/>
@@ -2905,7 +2905,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has file license document |
 | **German Name of Property** | hat dateiabfrage-dokument |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-file-license-document> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-file-license-document> |
 | **Graph Representation** | arkumu:hasFileLicenseDocument |
 
 <br/>
@@ -2917,7 +2917,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has file name |
 | **German Name of Property** | hat Dateiname |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-file-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-file-name> |
 | **Graph Representation** | arkumu:hasFileName |
 
 <br/>
@@ -2929,7 +2929,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has file path |
 | **German Name of Property** | hat Dateipfad |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-file-path> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-file-path> |
 | **Graph Representation** | arkumu:hasFilePath |
 
 <br/>
@@ -2941,7 +2941,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has file size |
 | **German Name of Property** | hat Dateigröße |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-file-size> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-file-size> |
 | **Graph Representation** | arkumu:hasFileSize |
 
 <br/>
@@ -2953,7 +2953,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has filmportal.de category ID |
 | **German Name of Property** | hat filmportal.de-kategorie-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-filmportalde-category-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-filmportalde-category-id> |
 | **Graph Representation** | arkumu:hasFilmportalDeCategoryId |
 
 <br/>
@@ -2965,7 +2965,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has frame rate |
 | **German Name of Property** | hat Bildfrequenz |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-frame-rate> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-frame-rate> |
 | **Graph Representation** | arkumu:hasFrameRate |
 
 <br/>
@@ -2977,7 +2977,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has gender |
 | **German Name of Property** | hat geschlecht |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-gender> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-gender> |
 | **Graph Representation** | arkumu:hasGender |
 
 <br/>
@@ -2989,7 +2989,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has genesis type |
 | **German Name of Property** | hat Entstehungstyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-genesis-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-genesis-type> |
 | **Graph Representation** | arkumu:hasGenesisType |
 
 <br/>
@@ -3001,7 +3001,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german commentary |
 | **German Name of Property** | hat deutschen kommentar |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-commentary> |
 | **Graph Representation** | arkumu:hasGermanCommentary |
 
 <br/>
@@ -3013,7 +3013,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german content description |
 | **German Name of Property** | hat deutsche inhaltliche beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-content-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-content-description> |
 | **Graph Representation** | arkumu:hasGermanContentDescription |
 
 <br/>
@@ -3025,7 +3025,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german description |
 | **German Name of Property** | hat deutsche beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-description> |
 | **Graph Representation** | arkumu:hasGermanDescription |
 
 <br/>
@@ -3037,7 +3037,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german image description |
 | **German Name of Property** | hat deutsche Bildbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-image-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-image-description> |
 | **Graph Representation** | arkumu:hasGermanImageDescription |
 
 <br/>
@@ -3049,7 +3049,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german name |
 | **German Name of Property** | hat deutschen namen |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-name> |
 | **Graph Representation** | arkumu:hasGermanName |
 
 <br/>
@@ -3061,7 +3061,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german short biography |
 | **German Name of Property** | hat deutsche kurzbiografie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-short-biography> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-short-biography> |
 | **Graph Representation** | arkumu:hasGermanShortBiography |
 
 <br/>
@@ -3073,7 +3073,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german synonyms |
 | **German Name of Property** | hat deutsche synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-synonyms> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-synonyms> |
 | **Graph Representation** | arkumu:hasGermanSynonyms |
 
 <br/>
@@ -3085,7 +3085,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german technique commentary |
 | **German Name of Property** | hat kommentar zur technik (deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-technique-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-technique-commentary> |
 | **Graph Representation** | arkumu:hasGermanTechniqueCommentary |
 
 <br/>
@@ -3097,7 +3097,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german wikidata description |
 | **German Name of Property** | hat englische wikidata-beschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-wikidata-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-wikidata-description> |
 | **Graph Representation** | arkumu:hasGermanWikidataDescription |
 
 <br/>
@@ -3109,7 +3109,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german wikidata label |
 | **German Name of Property** | hat deutsches wikidata-label |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-wikidata-label> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-wikidata-label> |
 | **Graph Representation** | arkumu:hasGermanWikidataLabel |
 
 <br/>
@@ -3121,7 +3121,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german wikidata synonym |
 | **German Name of Property** | hat deutsches wikidata-synonym |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-wikidata-synonym> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-wikidata-synonym> |
 | **Graph Representation** | arkumu:hasGermanWikidataSynonym |
 
 <br/>
@@ -3133,7 +3133,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has german wording |
 | **German Name of Property** | hat deutschen Vertragstext |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-german-wording> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-wording> |
 | **Graph Representation** | arkumu:hasGermanWording |
 
 <br/>
@@ -3145,7 +3145,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has GND ID |
 | **German Name of Property** | hat GND-nummer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-gnd-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-gnd-id> |
 | **Graph Representation** | arkumu:hasGndId |
 
 <br/>
@@ -3157,7 +3157,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has GND ID (female) |
 | **German Name of Property** | hat GND-nummer (weiblich) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-gnd-id-female> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-gnd-id-female> |
 | **Graph Representation** | arkumu:hasGndIdFemale |
 
 <br/>
@@ -3169,7 +3169,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has GND ID (group) |
 | **German Name of Property** | hat GND-nummer (gruppe) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-gnd-id-group> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-gnd-id-group> |
 | **Graph Representation** | arkumu:hasGndIdGroup |
 
 <br/>
@@ -3181,7 +3181,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has GND ID (male) |
 | **German Name of Property** | hat GND-nummer (männlich) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-gnd-id-male> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-gnd-id-male> |
 | **Graph Representation** | arkumu:hasGndIdMale |
 
 <br/>
@@ -3193,7 +3193,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ID at depositor |
 | **German Name of Property** | hat ID beim einlieferer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-id-at-depositor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-id-at-depositor> |
 | **Graph Representation** | arkumu:hasIdAtDepositor |
 
 <br/>
@@ -3205,7 +3205,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has information storage medium |
 | **German Name of Property** | hat informationsträger |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-information-storage-medium> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-information-storage-medium> |
 | **Graph Representation** | arkumu:hasInformationStorageMedium |
 
 <br/>
@@ -3217,7 +3217,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has information storage medium type |
 | **German Name of Property** | hat informationsträgertyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-information-storage-medium-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-information-storage-medium-type> |
 | **Graph Representation** | arkumu:hasInformationStorageMediumType |
 
 <br/>
@@ -3229,7 +3229,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has internal commentary |
 | **German Name of Property** | hat internen kommentar |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-internal-commentary> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-internal-commentary> |
 | **Graph Representation** | arkumu:hasInternalCommentary |
 
 <br/>
@@ -3241,7 +3241,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has is arkumu preview |
 | **German Name of Property** | hat ist Vorschaubild |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-is-arkumu-preview> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-is-arkumu-preview> |
 | **Graph Representation** | arkumu:hasIsArkumuPreview |
 
 <br/>
@@ -3253,7 +3253,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has is poster image |
 | **German Name of Property** | hat ist Vorschaubild |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-is-poster-image> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-is-poster-image> |
 | **Graph Representation** | arkumu:hasIsPosterImage |
 
 <br/>
@@ -3265,7 +3265,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ISO 639-1 code |
 | **German Name of Property** | hat ISO 639-1-code |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-iso-639-1-code> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-iso-639-1-code> |
 | **Graph Representation** | arkumu:hasIso639-1-Code |
 
 <br/>
@@ -3277,7 +3277,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ISO 639-2(B) code |
 | **German Name of Property** | hat ISO 639-2(B)-code |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-iso-639-2b-code> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-iso-639-2b-code> |
 | **Graph Representation** | arkumu:hasIso639-2-B-Code |
 
 <br/>
@@ -3289,7 +3289,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ISO 639-2(T) code |
 | **German Name of Property** | hat ISO 639-2(T)-code |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-iso-639-2t-code> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-iso-639-2t-code> |
 | **Graph Representation** | hasIso639-2-T-Code |
 
 <br/>
@@ -3301,7 +3301,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has JHOVE metadata |
 | **German Name of Property** | hat JHOVE-metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-jhove-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-jhove-metadata> |
 | **Graph Representation** | arkumu:hasJhoveMetadata |
 
 <br/>
@@ -3313,7 +3313,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has JHOVE status |
 | **German Name of Property** | hat JHOVE-dateistatus |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-jhove-status> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-jhove-status> |
 | **Graph Representation** | arkumu:hasJhoveStatus |
 
 <br/>
@@ -3325,7 +3325,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has keyword |
 | **German Name of Property** | hat schlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-keyword> |
 | **Graph Representation** | arkumu:hasKeyword |
 
 <br/>
@@ -3337,7 +3337,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has label |
 | **German Name of Property** | hat label |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-label> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-label> |
 | **Graph Representation** | arkumu:hasLabel |
 
 <br/>
@@ -3349,7 +3349,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has language |
 | **German Name of Property** | hat sprache |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-language> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-language> |
 | **Graph Representation** | arkumu:hasLanguage |
 
 <br/>
@@ -3361,7 +3361,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has language version |
 | **German Name of Property** | hat sprachversion |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-language-version> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-language-version> |
 | **Graph Representation** | arkumu:hasLanguageVersion |
 
 <br/>
@@ -3373,7 +3373,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has latitude |
 | **German Name of Property** | hat breitengrad |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-latitude> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-latitude> |
 | **Graph Representation** | arkumu:hasLatitude |
 
 <br/>
@@ -3385,7 +3385,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has LCCN ID |
 | **German Name of Property** | hat LCCN-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-lccn-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-lccn-id> |
 | **Graph Representation** | arkumu:hasLccnId |
 
 <br/>
@@ -3397,7 +3397,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has legal rights holder |
 | **German Name of Property** | hat eigentümer:in |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-legal-rights-holder> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-legal-rights-holder> |
 | **Graph Representation** | arkumu:hasLegalRightsHolder |
 
 <br/>
@@ -3409,7 +3409,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has LIDO Terminology ID |
 | **German Name of Property** | hat LIDO-Terminologie-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-lido-terminology-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-lido-terminology-id> |
 | **Graph Representation** | arkumu:hasLidoTerminologyId |
 
 <br/>
@@ -3421,7 +3421,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has longitude |
 | **German Name of Property** | hat längengrad |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-longitude> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-longitude> |
 | **Graph Representation** | arkumu:hasLongitude |
 
 <br/>
@@ -3433,7 +3433,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has material keyword |
 | **German Name of Property** | hat materialschlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-material-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-material-keyword> |
 | **Graph Representation** | arkumu:hasMaterialKeyword |
 
 <br/>
@@ -3445,7 +3445,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has media type |
 | **German Name of Property** | hat Medientyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-media-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-media-type> |
 | **Graph Representation** | arkumu:hasMediaType |
 
 <br/>
@@ -3457,7 +3457,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has MediaInfo metadata |
 | **German Name of Property** | hat MediaInfo-metadaten |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-mediainfo-metadata> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-mediainfo-metadata> |
 | **Graph Representation** | arkumu:hasMediainfoMetadata |
 
 <br/>
@@ -3469,7 +3469,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has MIME type |
 | **German Name of Property** | hat MIME type |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-mime-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-mime-type> |
 | **Graph Representation** | arkumu:hasMimeType |
 
 <br/>
@@ -3481,7 +3481,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has new arkumu license agreement |
 | **German Name of Property** | hat neuen arkumu lizenzvertrag |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-new-arkumu-license-agreement> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-new-arkumu-license-agreement> |
 | **Graph Representation** | arkumu:hasNewArkumuLicenseAgreement |
 
 <br/>
@@ -3493,7 +3493,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has non-public name |
 | **German Name of Property** | hat nicht-öffentlichen Namen |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-non-public-name> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-non-public-name> |
 | **Graph Representation** | arkumu:hasNon-publicName |
 
 <br/>
@@ -3505,7 +3505,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has ORCID |
 | **German Name of Property** | hat ORCID |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-orcid> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-orcid> |
 | **Graph Representation** | arkumu:hasOrcid |
 
 <br/>
@@ -3517,7 +3517,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has organisational unit |
 | **German Name of Property** | hat organisationseinheit |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-organisational-unit> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-organisational-unit> |
 | **Graph Representation** | arkumu:hasOrganisationalUnit |
 
 <br/>
@@ -3529,7 +3529,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has original language |
 | **German Name of Property** | hat originalsprache |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-original-language> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-original-language> |
 | **Graph Representation** | arkumu:hasOriginalLanguage |
 
 <br/>
@@ -3541,7 +3541,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has other authority file |
 | **German Name of Property** | hat andere normdatei |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-other-authority-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-other-authority-id> |
 | **Graph Representation** | arkumu:hasOtherAuthorityId |
 
 <br/>
@@ -3553,7 +3553,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has owner |
 | **German Name of Property** | hat besitzer:in |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-owner> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-owner> |
 | **Graph Representation** | arkumu:hasOwner |
 
 <br/>
@@ -3565,7 +3565,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has PBCore link |
 | **German Name of Property** | hat PBCore-link |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-pbcore-link> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-pbcore-link> |
 | **Graph Representation** | arkumu:hasPbcoreLink |
 
 <br/>
@@ -3577,7 +3577,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has pdf |
 | **German Name of Property** | has pdf |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-pdf> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-pdf> |
 | **Graph Representation** | arkumu:hasPdf |
 
 <br/>
@@ -3589,7 +3589,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has physical object |
 | **German Name of Property** | hat physisches objekt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-physical-object> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-physical-object> |
 | **Graph Representation** | arkumu:hasPhysicalObject |
 
 <br/>
@@ -3601,7 +3601,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has place of activity |
 | **German Name of Property** | hat wirkungsort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-place-of-activity> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-place-of-activity> |
 | **Graph Representation** | arkumu:hasPlaceOfActivity |
 
 <br/>
@@ -3613,7 +3613,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has place of birth |
 | **German Name of Property** | hat geburtsort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-place-of-birth> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-place-of-birth> |
 | **Graph Representation** | arkumu:hasPlaceOfBirth |
 
 <br/>
@@ -3625,7 +3625,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has place of death |
 | **German Name of Property** | hat sterbeort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-place-of-death> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-place-of-death> |
 | **Graph Representation** | arkumu:hasPlaceOfDeath |
 
 <br/>
@@ -3637,7 +3637,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has place of dissolution |
 | **German Name of Property** | hat auflösungsort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-place-of-dissolution> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-place-of-dissolution> |
 | **Graph Representation** | arkumu:hasPlaceOfDissolution |
 
 <br/>
@@ -3649,7 +3649,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has place of foundation |
 | **German Name of Property** | hat gründungsort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-place-of-foundation> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-place-of-foundation> |
 | **Graph Representation** | arkumu:hasPlaceOfFoundation |
 
 <br/>
@@ -3661,7 +3661,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has place type |
 | **German Name of Property** | hat ortart |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-place-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-place-type> |
 | **Graph Representation** | arkumu:hasPlaceType |
 
 <br/>
@@ -3673,7 +3673,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has preceding title |
 | **German Name of Property** | hat vorangestellten titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-preceding-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-preceding-title> |
 | **Graph Representation** | arkumu:hasPrecedingTitle |
 
 <br/>
@@ -3685,7 +3685,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has preferred subtitle |
 | **German Name of Property** | hat bevorzugten untertitel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-preferred-subtitle> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-preferred-subtitle> |
 | **Graph Representation** | arkumu:hasPreferredSubtitle |
 
 <br/>
@@ -3697,7 +3697,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has preferred title |
 | **German Name of Property** | hat bevorzugten titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-preferred-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-preferred-title> |
 | **Graph Representation** | arkumu:hasPreferredTitle |
 
 <br/>
@@ -3709,7 +3709,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has preservation type |
 | **German Name of Property** | hat Erhaltungstyp |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-preservation-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-preservation-type> |
 | **Graph Representation** | arkumu:hasPreservationType |
 
 <br/>
@@ -3721,7 +3721,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has producer |
 | **German Name of Property** | hat Hersteller |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-producer> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-producer> |
 | **Graph Representation** | arkumu:hasProducer |
 
 <br/>
@@ -3733,7 +3733,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has product ID |
 | **German Name of Property** | hat produkt-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-product-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-product-id> |
 | **Graph Representation** | arkumu:hasProductId |
 
 <br/>
@@ -3745,7 +3745,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has profession or activity |
 | **German Name of Property** | hat beruf oder tätigkeit |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-profession-or-activity> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-profession-or-activity> |
 | **Graph Representation** | arkumu:hasProfessionOrActivity |
 
 <br/>
@@ -3757,7 +3757,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has project category |
 | **German Name of Property** | hat projektkategorie |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-project-category> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-project-category> |
 | **Graph Representation** | arkumu:hasProjectCategory |
 
 <br/>
@@ -3769,7 +3769,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has project description |
 | **German Name of Property** | hat projektbeschreibung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-project-description> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-project-description> |
 | **Graph Representation** | arkumu:hasProjectDescription |
 
 <br/>
@@ -3781,7 +3781,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has project property |
 | **German Name of Property** | hat projekteigenschaft |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-project-property> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-project-property> |
 | **Graph Representation** | arkumu:hasProjectProperty |
 
 <br/>
@@ -3793,7 +3793,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has project type |
 | **German Name of Property** | hat projektart |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-project-type> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-project-type> |
 | **Graph Representation** | arkumu:hasProjectType |
 
 <br/>
@@ -3805,7 +3805,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has provenance |
 | **German Name of Property** | hat provenienz |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-provenance> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-provenance> |
 | **Graph Representation** | arkumu:hasProvenance |
 
 <br/>
@@ -3817,7 +3817,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has related actor |
 | **German Name of Property** | hat verknüpfte:n Akteur:in |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-related-actor> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-related-actor> |
 | **Graph Representation** | arkumu:hasRelatedActor |
 
 <br/>
@@ -3829,7 +3829,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has related event |
 | **German Name of Property** | hat verknüpftes ereignis |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-related-event> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-related-event> |
 | **Graph Representation** | arkumu:hasRelatedEvent |
 
 <br/>
@@ -3841,7 +3841,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has related project |
 | **German Name of Property** | hat verknüpftes projekt |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-related-project> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-related-project> |
 | **Graph Representation** | arkumu:hasRelatedProject |
 
 <br/>
@@ -3853,7 +3853,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has rights status |
 | **German Name of Property** | hat rechtsstatus |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-rights-status> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-rights-status> |
 | **Graph Representation** | arkumu:hasRightsStatus |
 
 <br/>
@@ -3865,7 +3865,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has significant properties (english) |
 | **German Name of Property** | hat wesentliche eigenschaften (englisch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-significant-properties-english> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-significant-properties-english> |
 | **Graph Representation** | arkumu:hasSignificantPropertiesEnglish |
 
 <br/>
@@ -3877,7 +3877,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has significant properties (german) |
 | **German Name of Property** | hat wesentliche eigenschaften (deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-significant-properties-german> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-significant-properties-german> |
 | **Graph Representation** | arkumu:hasSignificantPropertiesGerman |
 
 <br/>
@@ -3889,7 +3889,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has sorting number |
 | **German Name of Property** | hat sortiernummre |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-sorting-number> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-sorting-number> |
 | **Graph Representation** | arkumu:hasSortingNumber |
 
 <br/>
@@ -3901,7 +3901,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has subtitle language |
 | **German Name of Property** | hat untertitelsprache |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-subtitle-language> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-subtitle-language> |
 | **Graph Representation** | arkumu:hasSubtitleLanguage |
 
 <br/>
@@ -3913,7 +3913,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has system requirements |
 | **German Name of Property** | hat systemvoraussetzungen |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-system-requirements> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-system-requirements> |
 | **Graph Representation** | arkumu:hasSystemRequirements |
 
 <br/>
@@ -3925,7 +3925,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has technique keyword |
 | **German Name of Property** | hat technikschlagwort |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-technique-keyword> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-technique-keyword> |
 | **Graph Representation** | arkumu:hasTechniqueKeyword |
 
 <br/>
@@ -3937,7 +3937,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has television standard |
 | **German Name of Property** | hat Fernsehnorm |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-television-standard> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-television-standard> |
 | **Graph Representation** | arkumu:hasTelevisionStandard |
 
 <br/>
@@ -3949,7 +3949,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has trailing title |
 | **German Name of Property** | hat nachgestellten titel |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-trailing-title> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-trailing-title> |
 | **Graph Representation** | arkumu:hasTrailingTitle |
 
 <br/>
@@ -3961,7 +3961,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has uri |
 | **German Name of Property** | has uri |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-uri> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-uri> |
 | **Graph Representation** | arkumu:hasUri |
 
 <br/>
@@ -3973,7 +3973,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has VIAF ID |
 | **German Name of Property** | hat VIAF-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-viaf-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-viaf-id> |
 | **Graph Representation** | arkumu:hasViafId |
 
 <br/>
@@ -3985,7 +3985,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has website |
 | **German Name of Property** | hat webseite |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-website> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-website> |
 | **Graph Representation** | arkumu:hasWebsite |
 
 <br/>
@@ -3997,7 +3997,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has Wikidata ID |
 | **German Name of Property** | hat Wikidata-id |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-wikidata-id> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-wikidata-id> |
 | **Graph Representation** | arkumu:hasWikidataId |
 
 <br/>
@@ -4010,7 +4010,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | is compilation |
 | **German Name of Property** | ist kompilation |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-compilation> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-compilation> |
 | **Graph Representation** | arkumu:isCompilation |
 
 <br/>
@@ -4022,7 +4022,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | is file package |
 | **German Name of Property** | ist Dateipaket |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-file-package> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-file-package> |
 | **Graph Representation** | arkumu:isFilePackage |
 
 <br/>
@@ -4042,7 +4042,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 | **Placed in Context to (German)** | [Akteur:in](#actor) ⇒ [Ereignis](#event) |
 | **English Name of Property** | has event role |
 | **German Name of Property** | hat ereignisrolle |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-event-role> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-event-role> |
 | **Graph Representation** | arkumu:hasEventRole |
 
 <br/>
@@ -4056,7 +4056,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 | **Placed in Context to (German)** | [Akteur:in](#actor) ⇒ [Ereignis](#event) |
 | **English Name of Property** | is leistungsschutzrechinhaber:in |
 | **German Name of Property** | ist leistungsschutzrechinhaber:in |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-leistungsschutzrechinhaberin> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-leistungsschutzrechinhaberin> |
 | **Graph Representation** | arkumu:isLeistungsschutzrechinhaberIn |
 
 <br/>
@@ -4071,7 +4071,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 | **Placed in Context to (German)** | [Akteur:in](#actor) ⇒ [Ereignis](#event) |
 | **English Name of Property** | is uncertainly attributed |
 | **German Name of Property** | ist unsicher zugeschrieben |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-uncertainly-attributed> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-uncertainly-attributed> |
 | **Graph Representation** | arkumu:isUncertainlyAttributed |
 
 <br/>
@@ -4085,7 +4085,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 | **Placed in Context to (German)** | [Akteur:in](#actor) ⇒ [Ereignis](#event) |
 | **English Name of Property** | is urheber:in |
 | **German Name of Property** | ist urheber:in |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#is-urheberin> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#is-urheberin> |
 | **Graph Representation** | arkumu:isUrheberIn |
 
 <br/>
@@ -4103,7 +4103,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has aspect ratio |
 | **German Name of Property** | hat bildseitenverhältnis |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-aspect-ratio> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-aspect-ratio> |
 | **Graph Representation** | arkumu:hasAspectRatio |
 
 <br/>
@@ -4115,7 +4115,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has audio channels |
 | **German Name of Property** | hat Tonkanäle |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-audio-channels> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-audio-channels> |
 | **Graph Representation** | arkumu:hasAudioChannels|
 
 <br/>
@@ -4127,7 +4127,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has audio recording technique |
 | **German Name of Property** | hat Audio-Aufnahmetechnik |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-audio-recording-technique> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-audio-recording-technique> |
 | **Graph Representation** | arkumu:hasAudioRecordingTechnique|
 
 <br/>
@@ -4139,7 +4139,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has duration |
 | **German Name of Property** | hat dauer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-duration> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-duration> |
 | **Graph Representation** | arkumu:hasDuration |
 
 <br/>
@@ -4151,7 +4151,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has equalizer |
 | **German Name of Property** | hat equalizer |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-equalizer> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-equalizer> |
 | **Graph Representation** | arkumu:hasEqualizer |
 
 <br/>
@@ -4163,7 +4163,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has frequency |
 | **German Name of Property** | hat frequenz |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-frequency> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-frequency> |
 | **Graph Representation** | arkumu:hasFrequency |
 
 <br/>
@@ -4175,7 +4175,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has instrumentation |
 | **German Name of Property** | hat Instrumentierung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-instrumentation> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-instrumentation> |
 | **Graph Representation** | arkumu:hasInstrumentation |
 
 <br/>
@@ -4187,7 +4187,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has musical key |
 | **German Name of Property** | hat tonart |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-key> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-key> |
 | **Graph Representation** | arkumu:hasKey|
 
 <br/>
@@ -4199,7 +4199,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has playback speed |
 | **German Name of Property** | hat abspielgeschwindigkeit |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-playback-speed> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-playback-speed> |
 | **Graph Representation** | arkumu:hasPlaybackSpeed |
 
 <br/>
@@ -4211,7 +4211,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has photographic process |
 | **German Name of Property** | hat Filmentwicklung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-photographic-process > |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-photographic-process > |
 | **Graph Representation** | arkumu:hasPhotographicProcess  |
 
 <br/>
@@ -4223,7 +4223,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has production format |
 | **German Name of Property** | hat produktionsformat |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-production-format> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-production-format> |
 | **Graph Representation** | arkumu:hasProductionFormat |
 
 <br/>
@@ -4235,7 +4235,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has sound format |
 | **German Name of Property** | hat Tonformat |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-sound-format> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-sound-format> |
 | **Graph Representation** | arkumu:hasSoundFormat |
 
 <br/>
@@ -4247,7 +4247,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has sound mix version |
 | **German Name of Property** | hat Tonmischfassung |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-sound-mix-version> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-sound-mix-version> |
 | **Graph Representation** | arkumu:hasSoundMixVersion |
 
 <br/>
@@ -4259,7 +4259,7 @@ Properties define the connection between Entity Classes and Field Classes, as we
 |-----------|-----------|
 | **English Name of Property** | has spatial sound |
 | **German Name of Property** | hat Raumklang |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/classes-and-properties#has-spatial-sound> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-spatial-sound> |
 | **Graph Representation** | arkumu:hasSpatialSound |
 
 <br/>
