@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Häufig gestellte Fragen
 order: 2.6
+permalink: /resources/faq
 ---
 
 * TOC
@@ -72,7 +73,7 @@ arkumu.nrw versteht sich als Service zur Langzeitarchivierung von multimedialen,
 
 ### Verliere ich Rechte an meinen Projekten, wenn ich sie in arkumu.nrw einliefere?
 
-Nein. Als Rechteinhaber:in bestimmen sie, welche Nutzungsrechte sie ihrer Hochschule an ihrem Projekt gewähren. Mindestens muss das Recht eingeräumt werden, die Dateien zu speichern und zu kopieren, so dass diese bei arkumu.nrw eingeliefert werden können. Wenn das gewünscht ist, können Dateien auch veröffentlicht werden. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, sie zu veröffentlichen. Dies sind die drei Stufen des [Lizenzmodells von arkumu.nrw](/ressourcen/lizenzen). Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder als vertraulich gekennzeichnet sind.
+Nein. Als Rechteinhaber:in bestimmen sie, welche Nutzungsrechte sie ihrer Hochschule an ihrem Projekt gewähren. Mindestens muss das Recht eingeräumt werden, die Dateien zu speichern und zu kopieren, so dass diese bei arkumu.nrw eingeliefert werden können. Wenn das gewünscht ist, können Dateien auch veröffentlicht werden. Zusätzlich gibt es die Möglichkeit, anderen Portalen für Kultur und Wissen (etwa der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)) das Recht zu geben, sie zu veröffentlichen. Dies sind die drei Stufen des [Lizenzmodells von arkumu.nrw](/rights/licences). Alle angegebenen Metadaten zum Projekt werden veröffentlicht, sofern sie nicht durch die DSGVO geschützt oder als vertraulich gekennzeichnet sind.
 
 ----
 
@@ -84,7 +85,7 @@ Jede einliefernde Hochschule behält die volle Kontrolle und Verantwortung bezü
 
 ### Wie erhalte ich Zugang zum Portal? 
 
-Im Sommer 2025 wird das Onboarding für diejenigen beginnen, die als Ansprechpartner:innen für das hbz Zugänge für Rosetta bekommen. Mittelfristig ist geplant, dass alle Nutzer:innen und Einliefernde individuelle Zugänge zum Erfassungssystem bekommen. Bitte wenden sie sich für weitere Informationen dazu an die [Projektleitung](/projektstruktur/team), oder eine:n arkumu.nrw-Mediendokumentar:in.
+Im Sommer 2025 wird das Onboarding für diejenigen beginnen, die als Ansprechpartner:innen für das hbz Zugänge für Rosetta bekommen. Mittelfristig ist geplant, dass alle Nutzer:innen und Einliefernde individuelle Zugänge zum Erfassungssystem bekommen. Bitte wenden sie sich für weitere Informationen dazu an die [Projektleitung](/project-structure/team), oder eine:n arkumu.nrw-Mediendokumentar:in.
 
 ----
 

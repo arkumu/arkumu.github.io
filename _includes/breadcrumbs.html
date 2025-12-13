@@ -8,16 +8,37 @@
     {%- assign path = path | append:'/' | append:crumb -%}
     {%- assign path_slash = path | append:'/' -%}
     {%- assign path_html = path | append:'.html' -%}
- 
+    {%- assign matched = nil -%}
     {%- assign matched = site.pages | where: "url", path_slash | first -%}
     {%- if matched == nil -%}
       {%- assign matched = site.pages | where: "url", path_html | first -%}
     {%- endif -%}
+    {%- if matched == nil -%}
+      {%- assign matched = site.pages | where: "url", path | first -%}
+    {%- endif -%}
+    {%- if matched == nil -%}
+      {%- assign matched = site.pages | where: "permalink", path_slash | first -%}
+    {%- endif -%}
+    {%- if matched == nil -%}
+      {%- assign matched = site.pages | where: "permalink", path | first -%}
+    {%- endif -%}
+    
+    {%- if matched == nil -%}
+      {%- for p in site.pages -%}
+        {%- if p.permalink -%}
+          {%- assign perm_slash = p.permalink | append: '/' -%}
+          {%- if perm_slash == path_slash or p.permalink == path -%}
+            {%- assign matched = p -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
  
     {%- if forloop.last -%}
-      / {{ page.title }}
+      &nbsp;→ {{ page.title }}
     {%- else -%}
-      / <a href="{{ path_slash }}">
+      &nbsp;→ <a href="{{ path_slash }}">
         {%- if matched and matched.title -%}
           {{ matched.title }}
         {%- else -%}

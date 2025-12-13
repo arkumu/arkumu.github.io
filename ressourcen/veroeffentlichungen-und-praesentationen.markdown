@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Veröffentlichungen und Präsentationen
 order: 2.5
+permalink: /resources/publications-and-presentations
 ---
 
 * **Präsentation, Workshop on New Media Art Archiving, ZKM Karlsruhe**  

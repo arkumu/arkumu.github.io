@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Einführung in das Datenmodell
 order: 2.3
+permalink: /resources/introduction-to-the-data-model
 ---
 
 Das Datenmodell definiert, wie die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die Metadaten erfasst und verfügbar gemacht werden. Zusätzlich umfasst es Wertelisten und Taxonomien, die den Kern des kontrollierten Vokabulars bilden.

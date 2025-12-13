@@ -2,31 +2,40 @@
 layout: arkumu-docs
 title: Ressourcen
 order: 2
+permalink: /resources/
 ---
 
-[**Aktivitäten an den Konsortialhochschulen**](/ressourcen/aktivitaeten-an-den-konsortialhochschulen)\
-Ein Überblick der prioritär einzuliefernden Datenquellen an den Hochschulen.
-
-[**How-To-Guides für Einliefernde an den Hochschulen**](/ressourcen/how-to-guides-fuer-einliefernde)\
-Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicherung und zur Vorstrukturieren der Daten.
-
-[**Einführung in das Datenmodell**](/ressourcen/einfuehrung-in-das-datenmodell)\
-Ein erster Überblick über die zentralen Bestandteile unseres Systems samt einer grafischen Übersicht und einigen kurzen Einführungsvideos zu Datenmodell und Erfassung.
-
-[**Entitäten und Attribute des Datenmodells**](/ressourcen/entitaeten-und-attribute-des-datenmodells)\
-Eine ausführliche Erklärung zu zentralen Teilen unseres Systems.
-
-[**Veröffentlichungen und Präsentationen**](/ressourcen/veroeffentlichungen-und-praesentationen)\
-Im Rahmen des Projekts veröffentlichte Materialien und Dokumente.
-
-[**Häufig gestellte Fragen**](/ressourcen/FAQ)\
-Häufig gestellte Fragen zum Projekt.
-
-[**A bis Z**](/ressourcen/a-bis-z)\
-Zentrale Begriffe; in kurzen Texten erklärt.
-
-[**Weiterführende Informationen**](/ressourcen/weiterfuehrende-informationen)\
-Links zu externen Ressourcen zum Thema Langzeitverfügbarkeit.
-
-[**Lizenzen**](/ressourcen/lizenzen)\
-Informationen zur von arkumu.nrw entwickelten Modularlizenz für Dateien.
+<div class="link-card-container">
+    <a href="/resources/activities-at-the-consortium-universities" class="link-card">
+        <strong>Aktivitäten an den Konsortialhochschulen</strong>
+        <span>Ein Überblick der prioritär einzuliefernden Datenquellen an den Hochschulen.</span>
+    </a>
+    <a href="/resources/how-to-guides-for-depositors" class="link-card">
+        <strong>How-To-Guides für Einliefernde an den Hochschulen</strong>
+        <span>Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicherung und zur Vorstrukturieren der Daten.</span>
+    </a>
+    <a href="/resources/introduction-to-the-data-model" class="link-card">
+        <strong>Einführung in das Datenmodell</strong>
+        <span>Ein erster Überblick über die zentralen Bestandteile unseres Systems samt einer grafischen Übersicht und einigen kurzen Einführungsvideos zu Datenmodell und Erfassung.</span>
+    </a>
+    <a href="/resources/entities-and-attributes-of-the-data-model" class="link-card">
+        <strong>Entitäten und Attribute des Datenmodells</strong>
+        <span>Eine ausführliche Erklärung zu zentralen Teilen unseres Systems.</span>
+    </a>
+    <a href="/resources/publications-and-presentations" class="link-card">
+        <strong>Veröffentlichungen und Präsentationen</strong>
+        <span>Im Rahmen des Projekts veröffentlichte Materialien und Dokumente.</span>
+    </a>
+    <a href="/resources/faq" class="link-card">
+        <strong>Häufig gestellte Fragen</strong>
+        <span>Häufig gestellte Fragen zum Projekt.</span>
+    </a>
+    <a href="/resources/a-to-z" class="link-card">
+        <strong>A bis Z</strong>
+        <span>Zentrale Begriffe; in kurzen Texten erklärt.</span>
+    </a>
+    <a href="/resources/further-readings" class="link-card">
+        <strong>Weiterführende Informationen</strong>
+        <span>Links zu externen Ressourcen zum Thema Langzeitverfügbarkeit.</span>
+    </a>
+</div>

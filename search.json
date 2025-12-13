@@ -1,9 +1,0 @@
----
----
-[{% assign last_entry_with_title = nil %}{% for page in site.pages %}{% if page.title %}{% assign last_entry_with_title = page %}{% endif %}{% endfor %}{% for page in site.pages %}{% if page.title %}
-{
-  "title": "{{ page.title | strip_html | escape }}",
-  "url": "{{ page.url | relative_url }}",
-  "content": "{{ page.content | markdownify | strip_html | strip_newlines | escape }}"
-}{% if page != last_entry_with_title %},{% endif %}
-{% endif %}{% endfor %}]

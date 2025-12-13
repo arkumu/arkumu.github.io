@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Entitäten und Attribute des Datenmodells
 order: 2.4
+permalink: /resources/entities-and-attributes-of-the-data-model
 ---
 
 Diese Seite bietet einen Überblick über das Datenmodell. Eine detaillierte Aufstellung findet sich in der vollständigen [Dokumentation](/documentation/data-model#tabelle).
@@ -198,7 +199,7 @@ Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die L
 Diese können auf zweierlei Arten eingeholt werden:
 
 * Zum einen kann bereits ein Nutzungsvertrag zwischen den Rechteinhaber:innen und der Hochschule bestehen, der der Hochschule bereits verschiedene Erhaltungsschritte erlaubt, wie z. B. die Archivierung eines Projekts.
-* Zum anderen kann zwischen den Rechteinhaber:innen und der Hochschule ein neuer Lizenzvertrag geschlossen werden, falls noch keiner vorliegt oder der bereits bestehende Lizenzvertrag erweitert werden soll. arkumu.nrw stellt dafür eine speziell für diesen Zweck erstellte Modularlizenz zur Verfügung. Details hierzu finden sich auf der Seite [Lizenzen](/ressourcen/lizenzen).
+* Zum anderen kann zwischen den Rechteinhaber:innen und der Hochschule ein neuer Lizenzvertrag geschlossen werden, falls noch keiner vorliegt oder der bereits bestehende Lizenzvertrag erweitert werden soll. arkumu.nrw stellt dafür eine speziell für diesen Zweck erstellte Modularlizenz zur Verfügung. Details hierzu finden sich auf der Seite [Lizenzen](/rights/licences).
 
 Je nach Wunsch der Rechteinhaber:innen ist es möglich, alle, keine oder nur einzelne Digitale Objekte eines Projekts zu veröffentlichen. Nicht veröffentlichte Digitale Objekte bleiben für die Öffentlichkeit unzugänglich und werden nur in die Langzeitverfügbarkeits-Sicherung des hbz gegeben. Die Metadaten (Titel, Beschreibung, Akteur:innen, usw.) werden, sofern sie keine gesperrten oder durch die DSGVO geschützten, persönlichen Informationen beinhalten, frei veröffentlicht.
 

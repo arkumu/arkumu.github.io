@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Entstehungsgeschichte
 order: 1.4
+permalink: /project-structure/history-of-origin
 ---
 
 Im Herbst 2018 initiierte der damalige Archivbeauftragte der Kunsthochschule für Medien Köln, Kristof Efferenn, ein Treffen mit Mitarbeitenden aus Bibliotheks- und Archivbereichen, um ein „Konzept für künstlerische Digitale Archive“ zu entwickeln. Dieses Konzept sollte einheitliche Erschließungsstandards sowie Überlegungen zu Archivsoftware, Speicherlösungen und Langzeitarchivierung beinhalten. Das Ziel war die Beantragung von Mitteln zur Schaffung dieser Strukturen bei der Digitalen Hochschule (DH) NRW. Basierend auf diesen Überlegungen formte sich ein Arbeitskreis aus Vertreter:innen dreier Hochschulen: der Kunsthochschule für Medien Köln (Kristof Efferenn und Birgit Trogemann), der Folkwang Universität der Künste (Viola Springer) und der Robert Schumann Hochschule Düsseldorf (Jonas Lamik und Karsten Lehl). Ergänzt wurde dieser Kreis durch Vertreter:innen der Universität zu Köln (Michael Lönhardt vom Regionalen Rechenzentrum, Abteilung Diensteentwicklung) und der Hochschule für Musik und Tanz Köln (zunächst Markus Ecker, später Eva Schubert als assoziiertes Mitglied).

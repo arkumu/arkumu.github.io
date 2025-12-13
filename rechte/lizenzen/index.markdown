@@ -5,8 +5,6 @@ order: 4.1
 permalink: /rights/licences
 ---
 
-```❗ To-Do: Seite enthält noch Lizenz-Entwurf mit broken link. Rausnehmen?```
-
 arkumu.nrw hat für den Umgang mit urheberrechtlich und leistungsschutzrechtlich geschütztem Material eine Modularlizenz entwickelt, mit der sich die einliefernde Hochschule bestimmte Rechte von den Rechteinhaber:innen einräumen lassen kann. Es gibt drei Stufen, die aufeinander aufbauen:
 
 | **A – Langzeitverfügbarkeit** | Das Werk kann von der [eigenen] Hochschule zu Archivzwecken vervielfältigt werden. Dies beinhaltet auch eine Digitalisierung des Werks. Eine Bearbeitung des Werks ist nur zulässig, wenn für Zwecke der Langzeitverfügbarkeit eine Umwandlung bestehender Dateiformate in andere Dateiformate erforderlich ist und diese Umwandlung eine Bearbeitung darstellen sollte. |
@@ -21,11 +19,13 @@ Die Rechteinhaber:innen bestätigen außerdem, dass alle Personen genannt worden
 
 ----
 
-## Lizenz-Entwurf
+## Links zu den arkumu-Lizenzen
 
-Beispielhaft stellen wir hier den Entwurf der Lizenz-Erklärung A+B+C zur Verfügung. Dieser beinhaltet alle verfügbaren Stufen der Rechteeinräumung. 
+Auf den folgenden Seiten finden Sie die vollständigen Texte der einzelnen Lizenzen samt Resolver-URI, mit welcher Sie referenziert werden können:
 
-  * [arkumu-A+B+C 1.0 (Entwurf)](/ressourcen/lizenzen/arkumu-a+b+c-1.0-entwurf)
+  * [**arkumu-A 1.0**](/rights/licences/arkumu-a)
+  * [**arkumu-A+B 1.0**](/rights/licences/arkumu-a+b)
+  * [**arkumu-A+B+C 1.0**](/rights/licences/arkumu-a+b+c)
 
 ----
 

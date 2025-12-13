@@ -1,48 +1,48 @@
-// Diese Komponente öffnet das Mobile Navigations-Menu. Diese Funktion wird aus der default.html heraus aufgerufen. //
-// Sie verwendet zum öffnen und schließen des mobilen Menüs die Methode, wie sie auch in der Accordion-Komponente von https://www.w3schools.com/howto/howto_js_accordion.asp zu finden ist. //
-// This component opens the mobile navigation menu. This function is called from the default.html. //
-// For opening and closing the mobile menu, it uses the method that can be found in the accordion component from https://www.w3schools.com/howto/howto_js_accordion.asp. //
-
-function open_mobile_menu() {
-
-    var mobile_menu = document.getElementById("mobile-menu");
-        
-    if (mobile_menu.style.display === "block") {
-        mobile_menu.style.display = "none";
-        } else {
-        mobile_menu.style.display = "block";
-    }
-}
-
 /********************************************************************************************************************************/
-  
-// Diese Komponente steuert die Expansion Panel aus der mobile-navigation.html im _includes-Ordner. //
-// Sie verwendet den Accordion-Code von https://www.w3schools.com/howto/howto_js_accordion.asp, der angepasst wurde, damit er in einer getrennten Komponente laufen kann. //
-// This component controls the expansion panels in the mobile-navigation.html in the _includes folder. //
-// It uses the accordion code from https://www.w3schools.com/howto/howto_js_accordion.asp, which was adjusted to run in a separate component. //
 
-  document.addEventListener("DOMContentLoaded", function() {
-    
-  var accordion = document.getElementsByClassName("accordion");
-    
-  var i;
-  
-  for (i = 0; i < accordion.length; i++) {
-      
-      accordion[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-  
-        var panel = this.nextElementSibling;
-  
-        if (panel.style.display === "block") {
-          panel.style.display = "none";
-        } else {
-          panel.style.display = "block";
-        }
-  
-      });
-  }
+// Diese Komponente steuert die Offcanvas für das Navigationsmenü und die darin enthaltenen Elemente. //
+// This component controls the off-canvas for the navigation menu and the elements it contains. //
+
+document.addEventListener("DOMContentLoaded", function() {
+  const toggle = document.getElementById('offcanvas-toggle');
+  const closeBtn = document.getElementById('offcanvas-close');
+  const offcanvas = document.getElementById('offcanvas-container');
+  const overlay = document.getElementById('offcanvas-overlay');
+
+  toggle.addEventListener('click', () => {
+    offcanvas.style.transform = 'translateX(0)';
   });
+  closeBtn.addEventListener('click', () => {
+    offcanvas.style.transform = 'translateX(100%)';
+  });
+  overlay.addEventListener('click', () => {
+    offcanvas.style.transform = 'translateX(100%)';
+  });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('.accordion').forEach(btn => {
+    if (btn.dataset.accordionAttached === '1') return;
+    const panel = btn.nextElementSibling;
+    if (!panel) return;
+    if (btn.classList.contains('active')) {
+      panel.style.maxHeight = panel.scrollHeight + 'px';
+    } else {
+      panel.style.maxHeight = null;
+    }
+
+    btn.addEventListener('click', function () {
+      this.classList.toggle('active');
+      if (panel.style.maxHeight && panel.style.maxHeight !== '0px') {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + 'px';
+      }
+    });
+    btn.dataset.accordionAttached = '1';
+  });
+});
+
 
 /********************************************************************************************************************************/
 
@@ -287,334 +287,3 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
   });
-
-/********************************************************************************************************************************/
-
-// Lunar.js-Suche (Desktop) //
-// Lunr.js Search (Desktop)//
-
-// Die Suchen auf arkumu-Docs verwenden Lunr.js (https://lunrjs.com/). Lunr.js ist unter der MIT-License veröffentlicht.
-// (https://github.com/olivernn/lunr.js?tab=MIT-1-ov-file). Die Umsetzung der Suche ist inspiriert von der Lunr.js-Suchkomponente //
-// von J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) sowie jener von Just the Docs
-// (https://just-the-docs.com/docs/search/). //
-
-// The searches on arkumu-Docs use Lunr.js (https://lunrjs.com/). Lunr.js ist published under the MIT-License.
-// (https://github.com/olivernn/lunr.js?tab=MIT-1-ov-file). The realization of the search is inspired by the Lurn.js search component //
-// by J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) and the search component by Just the Docs //
-// (https://just-the-docs.com/docs/search/). //
-
-document.addEventListener('DOMContentLoaded', initialize_search);
-
-var idx;
-
-function initialize_search() {
-    fetch('https://docs.arkumu.nrw/search.json')
-        .then(response => response.json())
-        .then(searchData => {
-        
-            idx = lunr(function () {
-            this.ref('id');
-            this.field('title');
-            this.field('content');
-
-            searchData.forEach(function (doc, id) {
-                this.add({
-                    id: id,
-                    title: doc.title,
-                    content: doc.content,
-                    url: doc.url
-                });
-                }, this);
-            });
-
-            var searchInput = document.getElementById('search-input');
-            
-            searchInput.addEventListener('input', function () {
-                var query = this.value.trim();
-                var searchResultsContainer = document.getElementById('search-results');
-
-                // Styling der Suchergebnisse in der Desktop-Version
-                // Styling of the search results in the desktop version
-                if (query !== '') {
-                    performSearch(query, searchData, searchResultsContainer);
-                    searchResultsContainer.style.display = 'block';
-                    searchResultsContainer.style.border = '1px solid #ccc';
-                    searchResultsContainer.style.width = '397px';
-                } else {
-                    searchResultsContainer.innerHTML = '';
-                    searchResultsContainer.style.display = 'none';
-                    searchResultsContainer.style.border = 'none';
-                }
-            });
-        })
-    .catch(error => {
-        console.error('Error fetching search data:', error);
-    });
-}
-
-function performSearch(query, searchData) {
-    var queryTokens = query.toLowerCase().split(" ");
-
-    var results = idx.query(function (q) {
-        queryTokens.forEach(function (token) {
-            q.term(token, {
-                wildcard: lunr.Query.wildcard.LEADING | lunr.Query.wildcard.TRAILING
-            });
-        });
-    });
-
-    var resultsContainer = document.getElementById('search-results');
-    resultsContainer.innerHTML = '';
-
-    if (results.length > 0) {
-    for (var i = 0; i < Math.min(results.length, 3); i++) {// Nummer der Suchergebnisse | Number of search results
-        var result = results[i];
-        var item = searchData[result.ref];
-        var resultDiv = document.createElement('div');
-        resultDiv.classList.add('search-result');
-
-        // Styling des Titels in den Suchergebnissen
-        // Styling of the title in the search results
-        var highlightedTitle = item.title.replace(new RegExp(query, 'gi'), '<b style="font-weight: 900;">$&</b>');
-
-        resultDiv.innerHTML += '<svg class="download-icon" style="right: 4px;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M280-280h280v-80H280v80Zm0-160h400v-80H280v80Zm0-160h400v-80H280v80Zm-80 480q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z"/></svg><h3 style="display: inline-block;"><b>' + highlightedTitle + '</b></h3><br/>';
-
-        var occurrences = [];
-        var regex = new RegExp(query, 'gi');
-        var match;
-        while ((match = regex.exec(item.content)) !== null) {
-            occurrences.push(match.index);
-        }
-
-        if (occurrences.length > 0) {
-            var contentSpan = document.createElement('span');
-            resultDiv.appendChild(contentSpan);
-
-            for (var j = 0; j < Math.min(occurrences.length, 3); j++) {// Nummer der gefundenen Textübereinstimmungs-Ausschnitte | Number of found text matches
-                var index = occurrences[j];
-                var start = Math.max(0, index - 30); // Zeichen vor dem Suchergebnis | Leading characters before result
-                var end = Math.min(item.content.length, index + query.length + 30);  // Zeichen nach dem Suchergebnis | Leading characters before result
-                var context = item.content.substring(start, end);
-
-                // Styling für die Textbausteine
-                // Styling for text results
-                var highlightedContext = context.replace(new RegExp(query, 'gi'), '<b style="font-weight: 900;">$&</b>');
-                contentSpan.innerHTML += highlightedContext + '<br>';
-            }
-
-        // Version, falls keine Textübereinstimmung vorliegt
-        // Version if no text match is present
-        
-        } else {
-            var previewLength = Math.min(100, item.content.length);
-            var previewContent = item.content.substring(0, previewLength);
-            var previewSpan = document.createElement('span');
-            previewSpan.textContent = previewContent;
-            resultDiv.appendChild(previewSpan);
-        }
-
-        var resultLink = document.createElement('a');
-        resultLink.href = item.url;
-        resultLink.appendChild(resultDiv);
-
-        resultsContainer.appendChild(resultLink);
-    }
-    // Text, falls keine Übereinstimmung gefunden wurde
-    // Text if no match was found
-    } else {
-        resultsContainer.innerHTML = '<div class="search-result">Keine Übereinstimmung gefunden.</div>';
-    }
-}
-
-// Steuerelemente um die Suchergebnisse mit dem Input-Feld beim Rezising gleich groß zu halten
-// Control for resizing the search results with the search input
-document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('search-input').addEventListener('input', function() {
-      var searchResults = document.getElementById('search-results');
-      var inputRect = this.getBoundingClientRect();
-      searchResults.style.top = (inputRect.bottom + window.scrollY) + 'px';
-      searchResults.style.left = inputRect.left + 'px';
-      searchResults.style.width = inputRect.width + 'px';
-      searchResults.style.display = 'block';
-    });
-    
-    window.addEventListener('resize', function() {
-      var searchResults = document.getElementById('search-results');
-      var inputRect = document.getElementById('search-input').getBoundingClientRect();
-      searchResults.style.top = (inputRect.bottom + window.scrollY) + 'px';
-      searchResults.style.left = inputRect.left + 'px';
-      searchResults.style.width = inputRect.width + 'px';
-    });
-    
-    // Event-Listener zum Schließen der Suchergebnisse, wenn außerhalb von ihnen geklickt wird
-    // Event listener for closing the search results when clicking outside of them
-    document.addEventListener('click', function(event) {
-      var searchInput = document.getElementById('search-input');
-      var searchResults = document.getElementById('search-results');
-      if (event.target !== searchInput && !searchResults.contains(event.target)) {
-        searchResults.style.display = 'none';
-      }
-    });
-  });
-
-/********************************************************************************************************************************/
-
-// Lunar.js-Suche (Mobile) //
-// Lunr.js Search (Mobile)//
-
-// Die Suchen auf arkumu-Docs verwenden Lunr.js (https://lunrjs.com/). Lunr.js ist unter der MIT-License veröffentlicht.
-// (https://github.com/olivernn/lunr.js?tab=MIT-1-ov-file). Die Umsetzung der Suche ist inspiriert von der Lunr.js-Suchkomponente //
-// von J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) sowie jener von Just the Docs
-// (https://just-the-docs.com/docs/search/). //
-
-// The search function on arkumu-Docs uses Lunr.js (https://lunrjs.com/). Lunr.js ist published under the MIT-License.
-// (https://github.com/olivernn/lunr.js?tab=MIT-1-ov-file). The realization of the search is inspired by the Lurn.js search component //
-// by J.H. van der Schee (https://jekyllcodex.org/without-plugin/search-lunr/) and the search component by Just the Docs //
-// (https://just-the-docs.com/docs/search/). //
-
-document.addEventListener('DOMContentLoaded', initialize_mobile_search);
-
-var idx_mobile;
-
-function initialize_mobile_search() {
-    fetch('https://docs.arkumu.nrw/search.json')
-        .then(response => response.json())
-        .then(searchData => {
-            idx_mobile = lunr(function () {
-                this.ref('id');
-                this.field('title');
-                this.field('content');
-
-                searchData.forEach(function (doc, id) {
-                    this.add({
-                        id: id,
-                        title: doc.title,
-                        content: doc.content,
-                        url: doc.url
-                    });
-                }, this);
-            });
-
-            var mobileSearchInput = document.getElementById('mobile-search-input');
-
-            mobileSearchInput.addEventListener('input', function () {
-                var query = this.value.trim();
-                var mobileSearchResultsContainer = document.getElementById('mobile-search-results');
-                
-                // Styling der Suchergebnisse in der Mobil-Version
-                // Styling of the search results in the mobile version
-                if (query !== '') {
-                    performMobileSearch(query, searchData, mobileSearchResultsContainer);
-                    mobileSearchResultsContainer.style.display = 'block';
-                } else {
-                    mobileSearchResultsContainer.innerHTML = '';
-                    mobileSearchResultsContainer.style.display = 'none';
-                    mobileSearchResultsContainer.style.border = 'none';
-                }
-            });
-        })
-        .catch(error => {
-            console.error('Error fetching search data:', error);
-        });
-}
-
-function performMobileSearch(query, searchData, mobileSearchResultsContainer) {
-    var queryTokens = query.toLowerCase().split(" ");
-
-    var results = idx_mobile.query(function (q) {
-        queryTokens.forEach(function (token) {
-            q.term(token, {
-                wildcard: lunr.Query.wildcard.LEADING | lunr.Query.wildcard.TRAILING
-            });
-        });
-    });
-
-    mobileSearchResultsContainer.innerHTML = '';
-
-    if (results.length > 0) {
-        for (var i = 0; i < Math.min(results.length, 3); i++) {// Nummer der Suchergebnisse | Number of search results
-            var result = results[i];
-            var item = searchData[result.ref];
-            var resultDiv = document.createElement('div');
-            resultDiv.classList.add('mobile-search-result');
-
-            // Styling des Titels in den Suchergebnissen
-            // Styling of the title in the search results
-            var highlightedTitle = item.title.replace(new RegExp(query, 'gi'), '<b style="font-weight: 900;">$&</b>');
-
-            resultDiv.innerHTML += '<svg class="download-icon" style="right: 4px;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M280-280h280v-80H280v80Zm0-160h400v-80H280v80Zm0-160h400v-80H280v80Zm-80 480q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z"/></svg><h3 style="display: inline-block;"><b>' + highlightedTitle + '</b></h3><br/>';
-
-            var occurrences = [];
-            var regex = new RegExp(query, 'gi');
-            var match;
-            while ((match = regex.exec(item.content)) !== null) {
-                occurrences.push(match.index);
-            }
-
-            if (occurrences.length > 0) {
-                var contentSpan = document.createElement('span');
-                resultDiv.appendChild(contentSpan);
-
-                for (var j = 0; j < Math.min(occurrences.length, 3); j++) {// Nummer der gefundenen Textübereinstimmungs-Ausschnitte | Number of found text matches
-                    var index = occurrences[j];
-                    var start = Math.max(0, index - 30); // Zeichen vor dem Suchergebnis | Leading characters before result
-                    var end = Math.min(item.content.length, index + query.length + 30);  // Zeichen nach dem Suchergebnis | Leading characters before result
-                    var context = item.content.substring(start, end);
-
-                    // Styling für die Textbausteine
-                    // Styling for text results
-                    var highlightedContext = context.replace(new RegExp(query, 'gi'), '<b style="font-weight: 900;">$&</b>');
-                    contentSpan.innerHTML += highlightedContext + '<br>';
-                }
-            } else {
-                var previewLength = Math.min(100, item.content.length);
-                var previewContent = item.content.substring(0, previewLength);
-                var previewSpan = document.createElement('span'); 
-                previewSpan.textContent = previewContent;
-                resultDiv.appendChild(previewSpan);
-            }
-
-            var resultLink = document.createElement('a');
-            resultLink.href = item.url;
-            resultLink.appendChild(resultDiv);
-
-            mobileSearchResultsContainer.appendChild(resultLink);
-        }
-    
-    // Text, falls keine Übereinstimmung gefunden wurde
-    // Text if no match was found    
-    } else {
-        mobileSearchResultsContainer.innerHTML = '<div class="mobile-search-result">Keine Übereinstimmung gefunden.</div>';
-    }
-}
-
-// Steuerelemente um die Suchergebnisse mit dem Input-Feld beim Rezising gleich groß zu halten
-// Control for resizing the search results with the search input
-document.addEventListener('DOMContentLoaded', function() {
-    var mobileSearchInput = document.getElementById('mobile-search-input');
-    var mobileSearchResults = document.getElementById('mobile-search-results');
-
-    mobileSearchInput.addEventListener('input', function() {
-        var inputRect = this.getBoundingClientRect();
-        mobileSearchResults.style.top = (inputRect.bottom + window.scrollY) + 'px';
-        mobileSearchResults.style.left = inputRect.left + 'px';
-        mobileSearchResults.style.width = inputRect.width + 'px';
-        mobileSearchResults.style.display = 'block';
-    });
-
-    window.addEventListener('resize', function() {
-        var inputRect = mobileSearchInput.getBoundingClientRect();
-        mobileSearchResults.style.top = (inputRect.bottom + window.scrollY) + 'px';
-        mobileSearchResults.style.left = inputRect.left + 'px';
-        mobileSearchResults.style.width = inputRect.width + 'px';
-    });
-
-    // Event-Listener zum Schließen der Suchergebnisse, wenn außerhalb von ihnen geklickt oder gedrückt wird
-    // Event listener for closing the search results when clicking or pressing outside of them
-    document.addEventListener('click', function(event) {
-        if (event.target !== mobileSearchInput && !mobileSearchResults.contains(event.target)) {
-            mobileSearchResults.style.display = 'none';
-        }
-    });
-});
-

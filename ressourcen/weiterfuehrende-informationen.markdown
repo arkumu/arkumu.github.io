@@ -2,6 +2,7 @@
 layout: arkumu-docs
 title: Weiterführende Informationen
 order: 2.8
+permalink: /resources/further-readings
 ---
 
 Auf dieser Seite stellen wir Links zum Thema Langzeitverfügbarkeit zur Verfügung.
