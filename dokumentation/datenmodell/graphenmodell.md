@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Graphenmodell
-order: 3.1.1
+order: 3.1.2
 permalink: /documentation/data-model/graph-model
 ---
 

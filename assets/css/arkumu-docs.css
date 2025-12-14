@@ -296,16 +296,14 @@ body {
 /*---- Sidebar on the right Side ----*/
  
 .sidebar {
-  position: fixed;
-  top: 250px;           /* Abstand vom Header */
-  bottom: 290px;        /* Abstand vom Footer */
+  position: sticky;
+  top: 250px;
   width: 260px;
-  max-height: 200px;
+  max-height: calc(100vh - 200px - 400px);
   overflow-y: auto;
   padding-top: 24px;
   padding-bottom: 32px;
   font-size: 13.5px;
-  /* Scrollbar ausblenden */
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
