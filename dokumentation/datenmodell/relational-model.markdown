@@ -596,13 +596,6 @@ permalink: /documentation/data-model/relational-model
 | Maße | Measurements | 0-1 | | | Freitext-Feld <br/> Konventionen zum Gebrauch von Maßangaben,siehe:	https://de.wikipedia.org/wiki/Abmessungen <br/>	"Bei quaderförmigen Objekten, welche eine eindeutige Zuordnung einer Abmessung zur Senkrechten (Höhe) haben, wie z. B. Transportbehälter, wird diese stets zuletzt gelistet."; Länge (L) × Breite (B) × Höhe (H). <br/> "Bei (annähernd) zylindrischen Objekten erfolgt die Angabe üblicherweise in Länge und Durchmesser, wenn die Lage unbestimmt oder mit horizontaler Mittelachse ist" <br/> "Bei zweidimensionalen Objekten ...: Papiermaße: Breite × Höhe. 210 mm × 297 mm bedeutet DIN A4 Hochformat und 297 mm × 210 mm bedeutet A4 Querformat. <br/><br/> Bei Publikationen kann hier ein Seitenumfang angegeben werden. | | | |
 | Erhaltungszustand (deutsch) | Conservation State (German) | 0-n | | | z.B. im Original vorhanden, zerstört, verschollen. Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
 | Erhaltungszustand (englisch) | Conservation State (English) | 0-n | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
-| Verknüpfte Sammlung | Linked Collection | 0-n | | | | | | |
-| Erstellt am | Created | 1 | | | Zeitstempel, in ISO 8601 | | | |
-| Erstellt von | Created by | 1 | | | | | | |
-| Zuletzt geändert am | Last Modification | 1 | | | Zeitstempel, in ISO 8601 | | | |
-| Zuletzt geändert von | Last modified by | 1 | | | | | | |
-| Persistenter Identifikator (PI) | Persistenter Identifikator (PI) | 0-1 | | | Eindeutiger, standortunabhängiger Identifikator für ein Objekt in einer digitalen Umgebung. Persistente Identifikatoren gewährleisten über lange Zeiträume und eventuelle Systemwechsel hinaus zuverlässigen Zugriff auf die bezeichneten Objekte. Beispiele sind der Unified Resource Name (URN) oder der Digital Object Identifier (DOI).  - auch GND Einträge z.B. für historische Tonträger. https://pro.deutsche-digitale-bibliothek.de/glossar/persistenter-identifikator-pi | | | |
-
 
 <br/>
 <br/>
@@ -618,18 +611,17 @@ permalink: /documentation/data-model/relational-model
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutsches Wikidata-Label | German Wikidata Label | 1 | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
-| Englisches Wikidata-Label | English Wikidata Label | 1 | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
-| Ortart | Place Type | 1 | ⨉ | | many-to-one | [Place Type](#place-type) | Entweder: Kontinent (Q5107)<br/>Land (Q6256)<br/>Region Q82794<br/>Stadt (Q515)<br/>Genauer Ort<br/> Interner Ort| Either: Continent (Q5107)<br/>Country (Q6256)<br/>Region Q82794<br/>City (Q515)<br/>Exact location<br/>Internal location | | |
-| Wikidata ID | Wikidata ID | 1 | | | Wikidata "Q-Nummer" | | | |
-| GND-Nummer | GND ID | 0-1 | | | GND-ID aus Wikidata auslesen, wenn vorhanden | | | |
-| VIAF ID | VIAF ID | 0-1 | | | VIAF-ID aus Wikidata auslesen, wenn vorhanden | | | |
-| Längengrad | Longitude | 1 | | | aus Wikidata auslesen | | | |
-| Breitengrad | Latitude | 1 | | | aus Wikidata auslesen | | | |
-| Übergeordneter Ort | Superordinate Place | 0-n | | | aus Wikidata auslesen, wenn vorhanden. Verweis auf anderen lokal gespeicherten Ort; heißt momentan "liegt in" | | | |
-| Untergeordneter Ort | Subordinate Place | 0-n | | | aus Wikidata auslesen, wenn vorhanden. Verweis auf anderen lokal gespeicherten Ort; heißt momentan "besteht aus" | | | |
-| Vollständiger Breadcrumb | Full Breadcrumb | 1 | | | Vollständiger Breadcrumb des Ortes | | | |
-
+| Deutsches Wikidata-Label | German Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
+| Englisches Wikidata-Label | English Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
+| Ortart | Place Type | 1<br/>(pre-selected automatically) | ⨉ | many-to-one<br/><sub>(each Place can have at most one Place Type; the same Place Type can be used for multiple Places)</sub> | [Place Type](#place-type) | Entweder: Kontinent (Q5107)<br/>Land (Q6256)<br/>Region Q82794<br/>Stadt (Q515)<br/>Genauer Ort<br/> Interner Ort| Either: Continent (Q5107)<br/>Country (Q6256)<br/>Region Q82794<br/>City (Q515)<br/>Exact location<br/>Internal location | | |
+| [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1<br/>(handled automatically) | ⨉ | | | Wikidata-ID des Ortes, aus Wikidata ausgelesen | Wikidata ID of the Place, retrieved from Wikidata | | |
+| [GND-Nummer](/documentation/data-model/graph-model#gnd-id) | [GND ID](/documentation/data-model/graph-model#gnd-id) | 0-1<br/>(handled automatically) | ⨉ | | | GND-Nummer des Ortes, aus Wikidata ausgelesen | GND ID of the Place, retrieved from Wikidata | | |
+| [VIAF-ID](/documentation/data-model/graph-model#viaf-id) | [VIAF ID](/documentation/data-model/graph-model#viaf-id) | 0-1<br/>(handled automatically) | ⨉ | | | VIAF-ID des Ortes, aus Wikidata ausgelesen | VIAF ID of the Place, retrieved from Wikidata | | |
+| [Längengrad](/documentation/data-model/graph-model#longitude) | [Longitude](/documentation/data-model/graph-model#longitude) | 1<br/>(handled automatically) | ⨉ | | | Längengrad des Ortes, aus Wikidata ausgelesen | Longitude of the Place, retreived from Wikidata | | |
+| [Breitengrad](/documentation/data-model/graph-model#latitude) | [Latitude](/documentation/data-model/graph-model#latitude) | 1<br/>(handled automatically) | ⨉ | | | Breitengrad des Ortes, aus Wikidata ausgelesen | | | |
+| [Übergeordneter Ort](/documentation/data-model/graph-model#place) | [Parent Place](/documentation/data-model/graph-model#place) | 0-1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each Role can have at most one Parent Role; a Role can be the parent of many children)</sub> | [Place](#place) | Ein bereits angelegter oder neuer, direkt übergordneter Ort. Existiert der übergordnete Ort noch nicht, wird dieser und alle weiteren übergeordneten Orte automatisch angelegt | An existing or new, directly superordinate Place. If the superordinate Place does not yet exist, it and all other superordinate places are created automatically | | |
+| Deutscher Breadcrumb | German Breadcrumb | 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Orten | The composite German breadcrumb with all Parent Places  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
+| Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Orten | The composite English Breadcrumb with all Parent Places  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
 
 <br/>
 <br/>
@@ -705,23 +697,8 @@ permalink: /documentation/data-model/relational-model
 | [AAT-ID](/documentation/data-model/graph-model#aat-id) | [AAT ID](/documentation/data-model/graph-model#aat-id) | 0-1 | ⨉ | | | AAT-ID der Projektkategorie | AAT ID of the Project Category | | |
 | [filmportal.de-Kategorie-ID](/documentation/data-model/graph-model#filmportalde-category-id) | [filmportal.de Category ID](/documentation/data-model/graph-model#filmportalde-category-id) | 0-1 | ⨉ | | | filmportal.de-Kategorie-ID zur Projektkategorie | filmportal.de Category ID  of the Project Category | | |
 | [Übergeordnete Projektkategorie](/documentation/data-model/graph-model#project-category) | [Parent Project Category](/documentation/data-model/graph-model#project-category) | 0-1 | ⨉ | many-to-one<br/><sub>(each Project Category can have at most one Parent Project Category; a Project Category can be the parent of many children)</sub> | [Project Category](#project-category) | Eine bereits angelegte, direkt übergordnete Projektkategorie | An already created, directly superordinate Project Category | | |
-
-<br/>
-
-**Additional Technical Fields**<br/>
-```Weitere technische Felder```
-
-**English:**<br/>
-The following fields should be added to reduce the processing load.<br/>
-**Deutsch:**<br/>
-Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
-
-<br/>
-
-| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity| German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutscher Breadcrumb | German Breadcrumb| 1<br/>(handled automatically) | ⨉ |  | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Projektkategorien | The composite German Breadcrumb with all Parent Project Categories  | | |
-| Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ |  | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Projektkategorien | The composite English Breadcrumb with all Parent Project Categories  | | |
+| Deutscher Breadcrumb | German Breadcrumb| 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Projektkategorien | The composite German Breadcrumb with all Parent Project Categories  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
+| Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Projektkategorien | The composite English Breadcrumb with all Parent Project Categories  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
 
 <br/>
 <br/>
@@ -759,7 +736,7 @@ Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
 | [URI](/documentation/data-model/graph-model#uri) | [URI](/documentation/data-model/graph-model#uri) | 1<br/>(handled automatically) | ⨉ | | | Die automatisch erzeugte URI der Projektart, für ihren Eintrag in das kontrollierte Vokabular. | The automatically generated URI of the Project Type for its entry in the controlled vocabulary. | | |
 | [Deutscher Name](/documentation/data-model/graph-model#german-name) | [German Name](/documentation/data-model/graph-model#german-name) | 1 | ⨉ | | | Die deutsche Bezeichnung der Projektart | The German appelation of the Project Type | | |
 | [Englischer Name](/documentation/data-model/graph-model#english-name) | [English Name](/documentation/data-model/graph-model#english-name) | 1 | ⨉ | | | Die englisch Bezeichnung der Projektart | The English appelation of the Project Type | | |
-| [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1 | ⨉ | | | Wikidata-ID zur Projektart | Wikidata ID of the Project Type | | |
+| [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1 | ⨉ | | | Wikidata-ID der Projektart | Wikidata ID of the Project Type | | |
 
 <br/>
 <br/>
@@ -773,6 +750,7 @@ Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
 
 ```Eigenschaft```
 
+Diese Entität wird in [Projekt](#project), [Ereignis](#event) und [Informationsträger](#information-storage-medium) verwendet. Sie kann als zentrale Einheit verwendet oder in drei separate Entitäten aufgeteilt werden, nämlich **Projekteigenschaft**, **Ereigniseigenschaft** und **Informationsträgereigenschaft**. | This entity is used in [Project](#project), [Event](#event) and [Information Storage Medium](#information-storage-medium). It can be used as a central Entity or split up in three separate entites, namely **Project Property**, **Event Property** and **Information Storage Medium Property**.
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -783,16 +761,6 @@ Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
 | Typ | Type | 0-1  | ⨉ | | | wird benötigt, um für manche Werte eine Formatierung bzw. Syntax validieren zu können. Zum Beispiel: Eigenschaft "Dauer" hat Typ "Time (HH:mm:ss)" | is needed to validate formatting or syntax for some values. For example: The "Duration" property has the type "Time (HH:mm:ss)" | | |
 | [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1  | ⨉ | | | Wikidata-ID der Eigenschaft | Wikidata ID of the Property | | |
 | [GND-Nummer](/documentation/data-model/graph-model#gnd-id) | [GND ID](/documentation/data-model/graph-model#gnd-id) | 0-1  | ⨉ | | | GND-Nummer der Eigenschaft | GND ID of the Property | | |
-
-<br/>
-
-**Mentions on this Entity**<br/>
-```Bemerkungen zu dieser Entität```
-
-**English:**<br/>
-This entity is used in [Project](#project), [Event](#event) and [Information Storage Medium](#information-storage-medium). It can be used as a central Entity or split up in three separate entites, namely **Project Property**, **Event Property** and **Information Storage Medium Property**.<br/>
-**Deutsch:**<br/>
-Diese Entität wird in [Projekt](#project), [Ereignis](#event) und [Informationsträger](#information-storage-medium) verwendet. Sie kann als zentrale Einheit verwendet oder in drei separate Entitäten aufgeteilt werden, nämlich **Projekteigenschaft**, **Ereigniseigenschaft** und **Informationsträgereigenschaft**.
 
 <br/>
 <br/>
@@ -821,23 +789,8 @@ Diese Entität wird in [Projekt](#project), [Ereignis](#event) und [Informations
 | wählt "ist Urheber:in" automatisch aus | automatically pre-selects "ist Urheber:in" | 0/1 | ⨉ | | | "ja" ist vorausgewählt bei Rollen, die mit großer Sicherheit immer Urheber:innen (bedingt durch ein Ereignis) nach sich ziehen. Dies ist jedoch manuell an- und abwählbar. | "yes" is pre-selected for roles that are highly likely to always produce "Urheber:innen" (due to an event). However, this can be selected or deselected manually. | | |
 | wählt "besitzt Leistungsschutzrechte" automatisch aus | automatically pre-selects "besitzt Leistungsschutzrechte" | 0/1 | ⨉ | | | "ja" ist vorausgewählt bei Rollen, die mit großer Sicherheit immer Leistungsschutzreche für Akteur:innen (bedingt durch ein Ereignis) nach sich ziehen. Dies ist jedoch manuell an- und abwählbar. | "yes" is pre-selected for roles that are highly likely to always result in "Leistungsschutzrechte" for Actors (due to an event). However, this can be selected or deselected manually. | | |
 | [Übergeordnete Rolle](/documentation/data-model/graph-model#role) | [Parent Role](/documentation/data-model/graph-model#role) | 0-1 | ⨉ | many-to-one<br/><sub>(each Role can have at most one Parent Role; a Role can be the parent of many children)</sub> | [Role](#role) | Eine bereits angelegte, direkt übergordnete Rolle | An already created, directly superordinate role | | |
-
-<br/>
-
-**Additional Technical Fields**<br/>
-```Weitere technische Felder```
-
-**English:**<br/>
-The following fields should be added to reduce the processing load.<br/>
-**Deutsch:**<br/>
-Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
-
-<br/>
-
-| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity| German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Deutscher Breadcrumb] | German Breadcrumb| 1<br/>(handled automatically) | ⨉ |  | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Rollen | The composite German breadcrumb with all Parent Roles  | | |
-| Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ |  | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Rollen | The composite English Breadcrumb with all Parent Roles  | | |
+| Deutscher Breadcrumb | German Breadcrumb | 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Rollen | The composite German breadcrumb with all Parent Roles  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
+| Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Rollen | The composite English Breadcrumb with all Parent Roles  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
 
 <br/>
 <br/>

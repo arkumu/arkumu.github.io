@@ -156,9 +156,6 @@ body {
   overflow: hidden;
   transition: max-height 0.3s ease;
   background-color: #FFFFFF;
-  border: 1px solid #1E1E1E;
-  border-top: none;
-  border-bottom: none;
 }
 
 .mobile-submenu a {
