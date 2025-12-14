@@ -101,17 +101,37 @@ permalink: /documentation/data-model/relational-model
 | Sammlungsart | Collection Type | 1 |  |  | Auswahl zwischen "Sammlung" und "Reihe" | | | |
 | Deutsche Beschreibung | German Description | 1 |  |  | Beschreibung des Entstehungszusammenhangs und des Inhalts der Sammlung | | | |
 | Englische Beschreibung | English Description | 1 |  |  | englische Übersetzung, Feld-Label: Description | | | |
-| Verknüpfte Projekte | Linked Projects | 0-u |  |  | Die Projekte in dieser Sammlung oder Reihe | | | |
-| Verknüpfte Ereignisse | Linked Events | 0-u |  |  |  |  | | |
-| Verknüpftes Equipment und Software | Linked Equipment and Software | 0-u |  |  |  |  |  |  |
-| Verknüpfte Physische Objekte | Linked Physical Objects | 0-u |  |  |  |  |  |  |
-| Verknüpfte Informationsträger | Linked Information Storage Medium | 0-u |  |  |  |  |  |  |
-| Verknüpfte Digitale Objekte | Linked Digital Objects | 0-u |  |  |  |  |  |  |
+| Verknüpfte Projekte | Linked Projects | 0-n |  |  | Die Projekte in dieser Sammlung oder Reihe | | | |
+| Verknüpfte Ereignisse | Linked Events | 0-n |  |  |  |  | | |
+| Verknüpftes Equipment und Software | Linked Equipment and Software | 0-n |  |  |  |  |  |  |
+| Verknüpfte Physische Objekte | Linked Physical Objects | 0-n |  |  |  |  |  |  |
+| Verknüpfte Informationsträger | Linked Information Storage Medium | 0-n |  |  |  |  |  |  |
+| Verknüpfte Digitale Objekte | Linked Digital Objects | 0-n |  |  |  |  |  |  |
 | Erstellt am | Created | 1 |  |  | Zeitstempel |  |  |  |
 | Erstellt von | Created by | 1 |  |  |  |  |  |  |
 | Zuletzt geändert am | Last Modification | 1 |  |  | Zeitstempel |  |  |  |
 | Zuletzt geändert von | Last modified by | 1 |  |  |  |  |  |  |
 
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## Dataset at the Depositor
+
+```Datensatz beim Einlieferer```
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Einlieferer |	Depositor | 1 | ⨉ | many-to-one<br/><sub>(each Dataset at the Depositor has exactly one Depositor; the same Depositor can be used for multiple Datasets at the Depositor)</sub> | [Organisational Unit](#organisational-unit) | Die einliefernde Institution | The depositing institution | | |
+| Datensatz-ID beim Einlieferer | Dataset ID at Depositor | 0-1 | ⨉ | | | Freitext-Feld, dass einen Identifikator beim Einlieferer enthält | Free text field containing a identifiers at the depositor | | |
+| Datensatz-Erstellungsdatum beim Einlieferer | Dataset Creation Date at Depositor | 0-1 | ⨉ | | | Datum/Uhrzeit der Erstellung des Datensatzes beim Einlieferer | Date/time of creation of the data record by at depositor | | |
+| Datensatz-Letztes-Änderungsdatum beim Einlieferer	| Dataset Last Modification Date at Depositor | 0-1 | ⨉ | | | Datum/Uhrzeit der letzten Änderung des Datensatzes beim Einlieferer | Date/time of the last modification of the data record at the depositor | | |
+| *Entitäts-Instanz* | *Entity Instance* | 1 | ⨉ | many-to-one<br/><sub>(each Dataset at the Depositor has exactly one Instance of an Entity it belongs to, the same Instance can have many Datasets at the Depositor entries)</sub> | | Die zugehörige Instanz einer Entität, z.B. ein Projekt, ein Ereignis oder eine:n Akteur:in | The associated instance of an entity, e.g. a Project, an Event or an Actor | | |
 
 <br/>
 <br/>
@@ -253,9 +273,9 @@ permalink: /documentation/data-model/relational-model
 | Hersteller | Producer | 0-1 |  | | Freitext | | | |
 | Deutsche Beschreibung | German Description | 0-1 |  | | Freitext | | | |
 | Englische Beschreibung | Englisch Description | 0-1 |  | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
-| Wikidata ID | Wikidata ID | 0-u |  | | Wikidata-ID | | | |
+| Wikidata ID | Wikidata ID | 0-n |  | | Wikidata-ID | | | |
 | GND-Nummer | GND ID | 0-1 |  | |  | | | |
-| Verknüpfte Sammlung | Linked Collection | 0-u | | | | | | |
+| Verknüpfte Sammlung | Linked Collection | 0-n | | | | | | |
 | Equipmentart | Equipment Type | 1 | | | Auswahlliste , z.b. Mikrofon, Mischpult, Verstärker, Filmkamera, Fotokamera, Videokamera, 3D-Scanner, 3D-Drucker, SBC, Software, Zubehör (allgemein), Audiorecorder, Licht, Aufnahmegerät (allgemein). | | | |
 
 
@@ -286,13 +306,13 @@ permalink: /documentation/data-model/relational-model
 | Spezifische Eigenschaft | Specific Property | 0-n | [Specific Property](#specific-property) | | | | |
 | Wikidata-ID | Wikidata ID | 0-1 | | | | | |
 | GND-ID | GND ID | 0-1 | | | | | |
-| Akteur:in | Actor | 0-u | [Event Actor](#event-actor) | | | | |
-| Equipment und Software | Equipment and Software | 0-u | [Equipment and Software](#equipment-and-software) | | | | |
-| Physisches Objekt | Physical Object | 0-u | [Physical Object](#physical-object) | | | | |
-| Informationsträger | Information Carrier | 0-u | [Information Storage Medium](#information-storage-medium) | | | | |
-| Digitales Objekt | Digital Object | 0-u | [Digital Object](#digital-object) | | | | |
-| Zugehöriges Ereignis | Related Event | 0-u | | | | | |
-| Datensatz-ID beim Einlieferer | ID at Depositor | 0-u | | | | | |
+| Akteur:in | Actor | 0-n | [Event Actor](#event-actor) | | | | |
+| Equipment und Software | Equipment and Software | 0-n | [Equipment and Software](#equipment-and-software) | | | | |
+| Physisches Objekt | Physical Object | 0-n | [Physical Object](#physical-object) | | | | |
+| Informationsträger | Information Carrier | 0-n | [Information Storage Medium](#information-storage-medium) | | | | |
+| Digitales Objekt | Digital Object | 0-n | [Digital Object](#digital-object) | | | | |
+| Zugehöriges Ereignis | Related Event | 0-n | | | | | |
+| Datensatz-ID beim Einlieferer | ID at Depositor | 0-n | | | | | |
 | Einlieferer | Depositor | [1] | [Organisationseinheit](#organisational-unit) | | | | |
 | Datum Datensatz-Erstellung beim Einlieferer | Data Set Created at Depositor | 0-1 | | | | | |
 | Datum Datensatz-Modifikation beim Einlieferer | Data Set Last Modified at Depositor | 0-1 | | | | | |
@@ -382,34 +402,34 @@ permalink: /documentation/data-model/relational-model
 | Englischer Name | English Name | 0-1 |  |  |  |  |  |  |
 | Label | Label | 0-1 |  |  | z.B Plattenlabel (Auch Hersteller Datenträger?)  |  |  |  |
 | Informationsträgertyp | Information Storage Media Type | 1 |  |  | Auswahl aus "Informationsträger-Tax" |  |  |  |
-| Produkt-ID-Typ (Nummernart) | Product ID Type | 0-u |  |  | Auswahlliste z.B. Katalog-Nr Seite 1, Katalog-Nr Seite 2, Matrizen-Nr Seite 1, Matrizen-Nr Seite 2,Bestellnummer. Barcode-Nr, ISBN, Masternummer, Seriennummer. Englisch: Barcode, Master Number, Catalogue Number/Order Code |  |  |  |
+| Produkt-ID-Typ (Nummernart) | Product ID Type | 0-n |  |  | Auswahlliste z.B. Katalog-Nr Seite 1, Katalog-Nr Seite 2, Matrizen-Nr Seite 1, Matrizen-Nr Seite 2,Bestellnummer. Barcode-Nr, ISBN, Masternummer, Seriennummer. Englisch: Barcode, Master Number, Catalogue Number/Order Code |  |  |  |
 | Produkt-ID-Wert (Nummernart) | Product ID Value | [1] |  |  | Zu jeder Auswahl ein dazugehöriger Wert |  |  |  |
 | GND-Nummer | GND ID | 0-1 |  |  | wenn vorhanden, z.B.für historische Tonträger, GND, DNB-Tonträger-Nr, VIAF, LOC, ISNI, DBpedia |  |  |  |
 | Wikidata ID | Wikidata ID | 0-1 |  |  |  |  |  |  |
 | Externe Inventar-Signaturnummer | External Inventory Number | 1-u |  |  | Signatur bei Einlieferer-Hochschule |  |  |  |
 | Aufbewahrungsort | Depository | 0-1 |  |  |  |  |  |  |
-| (hat Besitzer:in) | (has owner) | 0-u |  |  |  |  |  |  |
-| (hat Eigentümer:in) | (has legal rights holder) | 0-u |  |  |  |  |  |  |
+| (hat Besitzer:in) | (has owner) | 0-n |  |  |  |  |  |  |
+| (hat Eigentümer:in) | (has legal rights holder) | 0-n |  |  |  |  |  |  |
 | Provenienz | Provenance | 0-1 |  |  | Freitext-Feld z.b. "von 1950-1990 Frau Meyer, ab 1990 Herr Schulze" |  |  |  |
 | Deutsche Beschreibung | German Description | 0-1 |  |  | Freitext |  |  |  |
 | Englische Beschreibung | English Description | 0-1 |  |  | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. |  |  |  |
 | Deutscher Kommentar | German Commentary | 0-1 |  |  | Freitext |  |  |  |
 | Englischer Kommentar | English Commentary | 0-1 |  |  | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. |  |  |  |
 | Interner Kommentar | Internal Commentary | 0-1 |  |  |  |  |  |  |
-| Materialschlagwort | Material Keyword | 0-u |  |  |  |  |  |  |
+| Materialschlagwort | Material Keyword | 0-n |  |  |  |  |  |  |
 | Maße | Dimensions | 0-1 |  |  | Freitext |  |  |  |
 | Erhaltungszustand (deutsch) | Condition State (German) | 0-1 |  |  | z.B. im Original vorhanden, zerstört, verschollen |  |  |  |
 | Erhaltungszustand (englisch) | Condition State (English) | 0-1 |  |  |  |  |  |
 | Kompilation | Compilation | 0/1 |  |  | ja/nein/keine Aussage (null); z.B. Filmkompilations-Bänder KHM |  |  |
 | Kompilationstitel | Compilation Title | [0-1] |  |  |  |  |  |
 | Kompilations-Reihennummer | Compilation Series Number | [0-1] |  |  | KHM-interne ID für Kompilationen |  |  |
-| Originalsprache | Original Language | 0-u |  |  | trifft auf Video- und Audiodateien zu; alle Sprachangaben kodiert in ISO 639 (in KHM-DB: Sprache der Originalfassung) |  |  |
-| Untertitelsprache | Subtitle Language | 0-u |  |  |  |  |  |
-| Sprachversion | Language Version | 0-u |  |  | analog zu DCP-Sprachfassungen, in KHM DB "Synchronisationsfassung". 0-u weil auch Informationsträger wie DVDs mehrere Sprachfassungen beinhalten können |  |  |
+| Originalsprache | Original Language | 0-n |  |  | trifft auf Video- und Audiodateien zu; alle Sprachangaben kodiert in ISO 639 (in KHM-DB: Sprache der Originalfassung) |  |  |
+| Untertitelsprache | Subtitle Language | 0-n |  |  |  |  |  |
+| Sprachversion | Language Version | 0-n |  |  | analog zu DCP-Sprachfassungen, in KHM DB "Synchronisationsfassung". 0-n weil auch Informationsträger wie DVDs mehrere Sprachfassungen beinhalten können |  |  |
 | Persistenter Identifikator (PI) | Persistenter Identifikator (PI) | 1 |  |  | Eindeutiger, standortunabhängiger Identifikator für ein Objekt in einer digitalen Umgebung. Persistente Identifikatoren gewährleisten über lange Zeiträume und eventuelle Systemwechsel hinaus zuverlässigen Zugriff auf die bezeichneten Objekte. Beispiele sind der Unified Resource Name (URN) oder der Digital Object Identifier (DOI). - auch GND Einträge z.B. für historische Tonträger. https://pro.deutsche-digitale-bibliothek.de/glossar/persistenter-identifikator-pi |  |  |
-| Informationsträgereigenschaft | Information Storage Medium Property | 0-u |  |  | Auswahl aus Informationsträgereigenschaft, z.B. Bildfrequenz |  |  |
+| Informationsträgereigenschaft | Information Storage Medium Property | 0-n |  |  | Auswahl aus Informationsträgereigenschaft, z.B. Bildfrequenz |  |  |
 | Informationsträgereigenschaft-Wert | Information Storage Medium Property Value | [1] |  |  | im o.g. Beispiel dann z.b. "25 fps" |  |  |
-| Verknüpfte Sammlung | Linked Collection | 0-u |  |  |  |  |  |
+| Verknüpfte Sammlung | Linked Collection | 0-n |  |  |  |  |  |
 | Erstellt am | Created | 1 |  |  | Zeitstempel, in ISO 8601 |  |  |
 | Erstellt von | Created by | 1 |  |  |  |  |  |
 | Zuletzt geändert am | Last Modification | 1 |  |  | Zeitstempel, in ISO 8601 |  |  |
@@ -432,8 +452,8 @@ permalink: /documentation/data-model/relational-model
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Deutscher Name | German Name | 1 |  |  |  |  |  |  |  |
 | Englischer Name | English Name | 1 |  |  |  |  |  |  | |
-| Deutsche Synonyme | German Synonyms | 0-u |  |  |  |  |  |  |  |
-| Englische Synonyme | English Synonyms | 0-u |  |  |  |  |  |  | |
+| Deutsche Synonyme | German Synonyms | 0-n |  |  |  |  |  |  |  |
+| Englische Synonyme | English Synonyms | 0-n |  |  |  |  |  |  | |
 | Wikidata ID | Wikidata ID | 1 |  |  |  |  |  |  | |
 | GND-Nummer | GND ID | 0-1 |  |  |  |  |  |  | |
 | AAT ID | AAT ID | 0-1 |  |  |  |  |  |  | |
@@ -456,8 +476,8 @@ permalink: /documentation/data-model/relational-model
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Deutsches Wikidata-Label | German Wikidata Label | 0-1 |  |  | Das deutsche Schlagwort | | | |
 | Englisches Wikidata-Label | English Wikidata Label | 0-1 |  |  | Das englische Schlagwort | | | |
-| Deutsche Synonyme | German Synonyms | 0-u |  |  | Die deutschen Synonyme des Schlagworts | | | |
-| Englische Synonyme | English Synonyms | 0-u |  |  | Die englischen Synonyme des Schlagworts | | | |
+| Deutsche Synonyme | German Synonyms | 0-n |  |  | Die deutschen Synonyme des Schlagworts | | | |
+| Englische Synonyme | English Synonyms | 0-n |  |  | Die englischen Synonyme des Schlagworts | | | |
 | Deutsche Beschreibung | German Description | 1 |  |  | Die deutsche Beschreibung des Schlagworts | | | |
 | Englische Beschreibung | English Description | 1 |  |  | Die englische Beschreibung des Schlagworts | | | |
 | Wikidata ID | Wikidata ID | 1 |  |  | Die englische Beschreibung des Schlagworts | | | |
@@ -524,7 +544,7 @@ permalink: /documentation/data-model/relational-model
 | Deutsche Beschreibung der Organisationseinheit | German Description of Organisational Unit | 0-1 | | |Freitext; wenn's das eine gibt muss es auch das andere geben | | |
 | Englische Beschreibung der Organisationseinheit | English Description of Organisational Unit | 0-1 | | | Freitext; wenn's das eine gibt muss es auch das andere geben | | |
 | Hochschule | University | 1 | | | | | |
-| Verknüpfte Projekte | Linked Projects | 0-u | | | Eine Liste der mit der Organisationseinheit verknüpften Projekte | | |
+| Verknüpfte Projekte | Linked Projects | 0-n | | | Eine Liste der mit der Organisationseinheit verknüpften Projekte | | |
 
 <br/>
 <br/>
@@ -538,30 +558,29 @@ permalink: /documentation/data-model/relational-model
 
 ```Physisches Objekt```
 
-<br/>
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Deutsche Bezeichnung | German Name | 1 | | | Bezeichner für den Datensatz, z.B. "Hauptteil der Skulptur", "rechte Hälfte", "linke Hälfte", etc. | | | |
 | Englische Bezeichnung | English Name | 1 | | | Bezeichner für den Datensatz, z.B. "Hauptteil der Skulptur", "rechte Hälfte", "linke Hälfte", etc. | | | |
-| Externe Inventar-Signaturnummer | External Inventory Number | 0-u | | | Signatur bei Einlieferer-Hochschule | | | |
+| Externe Inventar-Signaturnummer | External Inventory Number | 0-n | | | Signatur bei Einlieferer-Hochschule | | | |
 | Aufbewahrungsort | Depository | 0-1 | | | (könnte auch sensible Info sein, teilw. verstecken nötig? Im Zweifel besser nicht erfassen/Dieses  Feld sollte nur ausgefüllt werden, wenn der Aufbewahrungsort öffentlich sein soll.) | | | |
-| Besitzer:in | Owner | 0-u | | | | | | |
-| Eigentümer:in | Legal Rights Holder | 0-u | | | | | | |
+| Besitzer:in | Owner | 0-n | | | | | | |
+| Eigentümer:in | Legal Rights Holder | 0-n | | | | | | |
 | Provenienz | Provenance | 0-1 | | | Freitext-Feld z.b. "von 1950-1990 Frau Meyer, ab 1990 Herr Schulze" (Niemals veröffentlichen. Müssten sonst abfragen, ob  Name genannt werden darf, auch Grad der Vertraulichkeit: öffentlich?, für wiss. Forschung OK?, nie nennen?) | | | |
 | Deutsche Beschreibung | German Description | 0-1 | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
 | Englische Beschreibung | English Description | 0-1 | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
 | Deutscher Kommentar | German Commentary | 0-1 | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
 | Englischer Kommentar | English Commentary | 0-1 | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
-| Klassifizierendes Schlagwort | Classification Keyword to Physical Object | 0-u | | | Teil der Sacherschließung/Beschreibung, z.B. "Barco Monitor". Antwort auf die Frage: Was ist das? | | | |
-| Materialschlagwort | Material Keyword | 0-u | | | Material aus dem Objekt gefertigt ist. z.B. "C-Print", "Polypropylen", ganz offen über Verweis auf Wikidata-Seite, genau wie bei Genre-Schlagwörtern | | | |
+| Klassifizierendes Schlagwort | Classification Keyword to Physical Object | 0-n | | | Teil der Sacherschließung/Beschreibung, z.B. "Barco Monitor". Antwort auf die Frage: Was ist das? | | | |
+| Materialschlagwort | Material Keyword | 0-n | | | Material aus dem Objekt gefertigt ist. z.B. "C-Print", "Polypropylen", ganz offen über Verweis auf Wikidata-Seite, genau wie bei Genre-Schlagwörtern | | | |
 | Technischer Kommentar deutsch | Technique Commentary German | 0-1 | | | Freitext. Verwendete künstlerische Technik, z.B. C-Print auf Alu Dibond, Aquarell auf Hahnemühle 300g, Monotypie und Bleistift, etc. | | | |
 | Technischer Kommentar englisch | Technique Commentary English | 0-1 | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
 | Technikschlagwort | Technique Keyword | 0-1 | | | verwendete künstlerische Technik (Wikidata-Schlagwort), z.B. C-Print, Alu Dibond, Aquarell, Hahnemühle-Papier, Monotypie, Bleistift, etc. | | | |
 | Maße | Measurements | 0-1 | | | Freitext-Feld <br/> Konventionen zum Gebrauch von Maßangaben,siehe:	https://de.wikipedia.org/wiki/Abmessungen <br/>	"Bei quaderförmigen Objekten, welche eine eindeutige Zuordnung einer Abmessung zur Senkrechten (Höhe) haben, wie z. B. Transportbehälter, wird diese stets zuletzt gelistet."; Länge (L) × Breite (B) × Höhe (H). <br/> "Bei (annähernd) zylindrischen Objekten erfolgt die Angabe üblicherweise in Länge und Durchmesser, wenn die Lage unbestimmt oder mit horizontaler Mittelachse ist" <br/> "Bei zweidimensionalen Objekten ...: Papiermaße: Breite × Höhe. 210 mm × 297 mm bedeutet DIN A4 Hochformat und 297 mm × 210 mm bedeutet A4 Querformat. <br/><br/> Bei Publikationen kann hier ein Seitenumfang angegeben werden. | | | |
-| Erhaltungszustand (deutsch) | Conservation State (German) | 0-u | | | z.B. im Original vorhanden, zerstört, verschollen. Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
-| Erhaltungszustand (englisch) | Conservation State (English) | 0-u | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
-| Verknüpfte Sammlung | Linked Collection | 0-u | | | | | | |
+| Erhaltungszustand (deutsch) | Conservation State (German) | 0-n | | | z.B. im Original vorhanden, zerstört, verschollen. Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
+| Erhaltungszustand (englisch) | Conservation State (English) | 0-n | | | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. | | | |
+| Verknüpfte Sammlung | Linked Collection | 0-n | | | | | | |
 | Erstellt am | Created | 1 | | | Zeitstempel, in ISO 8601 | | | |
 | Erstellt von | Created by | 1 | | | | | | |
 | Zuletzt geändert am | Last Modification | 1 | | | Zeitstempel, in ISO 8601 | | | |
@@ -591,8 +610,8 @@ permalink: /documentation/data-model/relational-model
 | VIAF ID | VIAF ID | 0-1 | | | VIAF-ID aus Wikidata auslesen, wenn vorhanden | | | |
 | Längengrad | Longitude | 1 | | | aus Wikidata auslesen | | | |
 | Breitengrad | Latitude | 1 | | | aus Wikidata auslesen | | | |
-| Übergeordneter Ort | Superordinate Place | 0-u | | | aus Wikidata auslesen, wenn vorhanden. Verweis auf anderen lokal gespeicherten Ort; heißt momentan "liegt in" | | | |
-| Untergeordneter Ort | Subordinate Place | 0-u | | | aus Wikidata auslesen, wenn vorhanden. Verweis auf anderen lokal gespeicherten Ort; heißt momentan "besteht aus" | | | |
+| Übergeordneter Ort | Superordinate Place | 0-n | | | aus Wikidata auslesen, wenn vorhanden. Verweis auf anderen lokal gespeicherten Ort; heißt momentan "liegt in" | | | |
+| Untergeordneter Ort | Subordinate Place | 0-n | | | aus Wikidata auslesen, wenn vorhanden. Verweis auf anderen lokal gespeicherten Ort; heißt momentan "besteht aus" | | | |
 | Vollständiger Breadcrumb | Full Breadcrumb | 1 | | | Vollständiger Breadcrumb des Ortes | | | |
 
 
@@ -607,8 +626,6 @@ permalink: /documentation/data-model/relational-model
 ## Project
 
 ```Projekt```
-
-<br/>
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -636,14 +653,14 @@ permalink: /documentation/data-model/relational-model
 | [Externe Projekt-Webseite(n)](/documentation/data-model/graph-model#website) | [External Project Website(s)](/documentation/data-model/graph-model#website) | 0-1 | ✓<br/>(linebreak separated; comma separated on import) | | | Ein großes mehrzeiliges Textfeld, in dem man eine oder mehrere URLs zu externen Projektseiten eingeben kann | A large multi-line text field where you can enter one or more URLs to external project pages | | |
 | [Ereignis(se)](/documentation/data-model/graph-model#event) | [Event(s)](/documentation/data-model/graph-model#event) | 0-n | ✓<br/>(multiselect) | many-to-many<br/><sub>(each Project may be linked to multiple Events; each Event may be linked to multiple Projects)</sub> | [Event](#event) | Eine Entität, die Informationen zu ihrem Typ, ihrem Zeitraum, beteiligten Akteur:innen und deren Rollen, die Digitalen Objekte, etc., enthält | An entity that contains information about its type, time period, Actors involved and their Roles, Digital Objects, etc. | | |
 | Speizifische Eigenschaft(en) | Specific Property | 0-n | ✓<br/>(multicreate) | many-to-many<br/><sub>(each Project may be linked to multiple Properties, including a certain value solely for this Project; each Property may be used in multiple Projects)</sub> | See [Project-Property Junction Table](#project-property-junction-table) | Eine Eigenschaft des Projekts, z.B. Dauer, Tonart oder ähnliches | A property of the project, e.g. duration, key or similar | | |
-| Verknüpfte Projekt(e) | Related Project(s) | 0-n | ✓<br/>(multicreate) | many-to-many<br/><sub>(each Project may be linked to multiple other Projects, including a unique relation to aech of these Projects)</sub> | See [Project-Project Junction Table](#project-project-junction-table) | Eine Verknüpfung zu anderen Projekten, die in einer bestimmten reziproken Relation stehen | A connection to other projects that have a specific reciprocal relationship | | |
-| Rechtsstatus | Rights Status | 1 | ⨉ | | | Feld, das den Rechtsstatus des Projektes angibt. Die Auswahlmöglichkeiten sind vorerst: „Urheberrechts- und leistungsschutzrechts-frei“ und „Urheberrechtlich und/oder leistungsschutzrechtlich geschützt“ | Field indicating the legal status of the project. The options currently available are: "Free of German Urheberrecht and Leistungsschutzrecht protection" and "Protected by German Urhebrrecht and/or Leistungsschutzrecht" | | |
-| Art des Lizenzvertrages | Type of License Agreement | [1]<br/>(If Rights Status is "Protected by German Urhebrrecht and/or Leistungsschutzrecht"; deactivated for import) | ⨉ | | | Feld, das regelt, in welcher Form diese Rechte vorliegen. Die Auswahlmöglichkeiten sind vorerst: „Bestehender Lizenzvertrag“, „Neuer Lizenzvertrag (arkumu-Formular)“ | Field that regulates the form in which these rights are presented. The options are currently: "Existing Licence Agreement", "New Licence Agreement (arkumu form)" | | |
-| Bestehender Lizenzvertrag | Existing Licence Agreement | [1]<br/>(If Type of Licence Agreement is "Existing Licence Agreement"; deactivated for import) | ⨉ | many-to-one<br/><sub>(each Project may be subject to just one Existing Licence Agreement; the same Existing Licence Agreement can be the legal base for multiple Projects)</sub> | [Existing Licence Agreement](#existing-licence-agreement) | Feld, das die Grundlage der Lizenzvereinbarung zwischen Hochschule und dem/der rechtehabenden Person angibt, z.B. Standard KHM Projektvertrag Version 1990 | Field specifying the basis of the licence agreement between the university and the rights holder, e.g. Standard KHM Project Agreement Version 1990 | | |
-| Dokumentation des bestehenden Lizenzvertrages | Documentation of Existing Licence Agreement | [0-n]<br/>(If Type of Licence Agreement is "Existing Licence Agreement"; deactivated for Import) | ✓<br/>(multi file upload) | | | Unterzeichnetes Lizenz-Dokument, welches der Hochschule vorliegt, die das Lizenzrecht mir dem/der rechteinhabenden Person regelt | Signed licence document, which is available to the university, regulating the licence rights with the rights holder | | |
-| Neuer Lizenzvertrag (arkumu-Formular) | New Licence Agreement (arkumu form) | [1]<br/>(If Type of Licence Agreement is "New Licence Agreement (arkumu form)"; deactivated for Import)<br/><br/>[0-n]<br/>(If Type of Licence Agreement is "Existing Licence Agreement"; also deactivated for Import) | ⨉ | | | Feld, das angibt, wie - vermittelnd über arkumu.nrw - die Hochschule und der/die rechteinhabende Person verblieben sind | Field indicating how the university and the rights holder have agreed through arkumu.nrw | | |
-| Dokumentation des Neuen Lizenzvertrages (arkumu-Formular) | Documentation of Existing Licence Agreement | [1]<br/>(If Type of Licence Agreement is "New Licence Agreement (arkumu form)"; deactivated for Import)<br/><br/>[0-n] (If Type of Licence Agreement is "Existing Licence Agreement"; also deactivated for Import) | ✓<br/>(multi file upload) | | | Dokumentation des neuen Lizenzabschlusses zwischen des/der rechteinhabenden Person und der Hochschule in Verwendung des arkumu-Formulars | Documentation of the new licence agreement between the rights holder and the university using the arkumu form | | |
-| Weitere Rechtsdokument(e) | Additional Rights Document(s) | [0-n]  | ✓<br/>(multi file upload) | | | Sonstige Rechtsdokumente, die für urheberrechtliche oder leistungsschutzrechtliche Fragen relevant sind | Other legal documents relevant to Urheberrecht orLeistungsschutzrecht issues | | |
+| [Verknüpfte Projekt(e)](/documentation/data-model/graph-model#project) | [Related Project(s)](/documentation/data-model/graph-model#project) | 0-n | ✓<br/>(multicreate) | many-to-many<br/><sub>(each Project may be linked to multiple other Projects, including a unique relation to aech of these Projects)</sub> | See [Project-Project Junction Table](#project-project-junction-table) | Eine Verknüpfung zu anderen Projekten, die in einer bestimmten reziproken Relation stehen | A connection to other projects that have a specific reciprocal relationship | | |
+| [Rechtsstatus](/documentation/data-model/graph-model#rights-status) | [Rights Status](/documentation/data-model/graph-model#rights-status) | 1 | ⨉ | | | Feld, das den Rechtsstatus des Projektes angibt. Die Auswahlmöglichkeiten sind vorerst: „Urheberrechts- und leistungsschutzrechts-frei“ und „Urheberrechtlich und/oder leistungsschutzrechtlich geschützt“ | Field indicating the legal status of the project. The options currently available are: "Free of German Urheberrecht and Leistungsschutzrecht protection" and "Protected by German Urhebrrecht and/or Leistungsschutzrecht" | | |
+| Art des Lizenzvertrages | Type of Licence Agreement | [1]<br/>(If Rights Status is "Protected by German Urhebrrecht and/or Leistungsschutzrecht"; deactivated for import) | ⨉ | | | Feld, das regelt, in welcher Form diese Rechte vorliegen. Die Auswahlmöglichkeiten sind vorerst: „Bestehender Lizenzvertrag“, „Neuer Lizenzvertrag (arkumu-Formular)“ | Field that regulates the form in which these rights are presented. The options are currently: "Existing Licence Agreement", "New Licence Agreement (arkumu form)" | | |
+| [Bestehender Lizenzvertrag](/documentation/data-model/graph-model#existing-licence-agreement) | [Existing Licence Agreement](/documentation/data-model/graph-model#existing-licence-agreement) | [1]<br/>(If Type of Licence Agreement is "Existing Licence Agreement"; deactivated for import) | ⨉ | many-to-one<br/><sub>(each Project may be subject to just one Existing Licence Agreement; the same Existing Licence Agreement can be the legal base for multiple Projects)</sub> | [Existing Licence Agreement](#existing-licence-agreement) | Feld, das die Grundlage der Lizenzvereinbarung zwischen Hochschule und dem/der rechtehabenden Person angibt, z.B. Standard KHM Projektvertrag Version 1990 | Field specifying the basis of the licence agreement between the university and the rights holder, e.g. Standard KHM Project Agreement Version 1990 | | |
+| [Dokumentation des bestehenden Lizenzvertrages](/documentation/data-model/graph-model#existing-licence-agreement) | [Documentation of Existing Licence Agreement](/documentation/data-model/graph-model#existing-licence-agreement) | [0-n]<br/>(If Type of Licence Agreement is "Existing Licence Agreement"; deactivated for Import) | ✓<br/>(multi file upload) | | | Unterzeichnetes Lizenz-Dokument, welches der Hochschule vorliegt, die das Lizenzrecht mir dem/der rechteinhabenden Person regelt | Signed licence document, which is available to the university, regulating the licence rights with the rights holder | | |
+| [Neuer Lizenzvertrag (arkumu-Formular)](/documentation/data-model/graph-model#new-arkumu-licence-agreement) | [New Licence Agreement (arkumu form)](/documentation/data-model/graph-model#new-arkumu-licence-agreement) | [1]<br/>(If Type of Licence Agreement is "New Licence Agreement (arkumu form)"; deactivated for Import)<br/><br/>[0-n]<br/>(If Type of Licence Agreement is "Existing Licence Agreement"; also deactivated for Import) | ⨉ | | | Feld, das angibt, wie - vermittelnd über arkumu.nrw - die Hochschule und der/die rechteinhabende Person verblieben sind | Field indicating how the university and the rights holder have agreed through arkumu.nrw | | |
+| [Dokumentation des Neuen Lizenzvertrages (arkumu-Formular)](/documentation/data-model/graph-model#new-arkumu-licence-agreement) | [Documentation of Existing Licence Agreement](/documentation/data-model/graph-model#new-arkumu-licence-agreement) | [1]<br/>(If Type of Licence Agreement is "New Licence Agreement (arkumu form)"; deactivated for Import)<br/><br/>[0-n] (If Type of Licence Agreement is "Existing Licence Agreement"; also deactivated for Import) | ✓<br/>(multi file upload) | | | Dokumentation des neuen Lizenzabschlusses zwischen des/der rechteinhabenden Person und der Hochschule in Verwendung des arkumu-Formulars | Documentation of the new licence agreement between the rights holder and the university using the arkumu form | | |
+| [Weitere Rechtsdokument(e)](documentation/data-model/graph-model#additional-rights-document) | [Additional Rights Document(s)]((documentation/data-model/graph-model#additional-rights-document)) | [0-n]  | ✓<br/>(multi file upload) | | | Sonstige Rechtsdokumente, die für urheberrechtliche oder leistungsschutzrechtliche Fragen relevant sind | Other legal documents relevant to Urheberrecht orLeistungsschutzrecht issues | | |
 | Dateiabfrage-Dokument(e) | File Licences Document(s) | [0-n]  | ✓<br/>(multi file upload) | | | Ein oder mehrere Dokumente, die festhalten, welche Lizenz auf zusätzlich einzelne Dateien angewendet werden sollen | One or more documents specifying which licence should be applied additionally to individual files | | |
 | Signatur(en) beim Einlieferer | Signature(s) at Depositor | 0-1 | ✓<br/>(comma separated) | | | Eine Reihe von Signaturen, die das Projekt beim Einlieferer identifizieren | A series of signatures identifying the project at the depositor | | |
 | Datensatz-Erstellungsdatum beim Einlieferer | Dataset Creation Date at Depositor | 0-1 | ⨉ | | | Datumsfeld, das den Zeitpunkt der Datensatzerstellung bei der einliefernden Hochschule erfasst | Date field that records the date on which the data record was created at the depositing university | | |
@@ -692,8 +709,6 @@ Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
 | Deutscher Breadcrumb | German Breadcrumb| 1<br/>(handled automatically) | ⨉ |  | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Projektkategorien | The composite German Breadcrumb with all Parent Project Categories  | | |
 | Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ |  | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Projektkategorien | The composite English Breadcrumb with all Parent Project Categories  | | |
 
-
-
 <br/>
 <br/>
 
@@ -725,8 +740,6 @@ Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
 
 ```Projektart```
 
-<br/>
-
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [URI](/documentation/data-model/graph-model#uri) | [URI](/documentation/data-model/graph-model#uri) | 1<br/>(handled automatically) | ⨉ | | | Die automatisch erzeugte URI der Projektart, für ihren Eintrag in das kontrollierte Vokabular. | The automatically generated URI of the Project Type for its entry in the controlled vocabulary. | | |
@@ -746,7 +759,6 @@ Die folgenden Felder sollten hinzugefügt werden um die Rechenlast zu mindern.
 
 ```Eigenschaft```
 
-<br/>
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
