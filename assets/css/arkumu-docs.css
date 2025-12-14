@@ -592,9 +592,7 @@ figure {
   content: "→";
   position: absolute;
   left: 0.9rem;
-  top: 0.78rem;
   font-weight: 600;
-  font-size: 0.95rem;
   color: #1E1E1E;
   transition: transform 0.25s ease, color 0.25s ease;
 }
@@ -723,7 +721,7 @@ table tr:nth-child(even):hover {
  
 table th, table td {
   min-width: 133px;
-  padding: 5px;
+  padding: 15px;
   font-size: 80%;
 }
  
