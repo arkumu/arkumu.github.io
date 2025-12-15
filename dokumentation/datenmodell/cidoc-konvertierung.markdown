@@ -1,8 +1,8 @@
 ---
 layout: arkumu-docs
-title: arkumu-nach-CIDOC-mapping
+title: CIDOC-Konvertierung
 order: 3.1.3
-permalink: /documentation/data-model/arkumu-to-cidoc-mapping
+permalink: /documentation/data-model/cidoc-conversion
 ---
 
 ```arkumu to CIDOC mapping```
