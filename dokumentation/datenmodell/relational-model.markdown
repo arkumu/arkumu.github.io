@@ -11,6 +11,18 @@ permalink: /documentation/data-model/relational-model
 
 **Deutsch:**
 
+Die nachfolgenden Tabellen dokumentieren die Struktur des arkumu.nrw-Datenmodells in seiner relationalen Form. Jede Entität (z.B. Projekt, Ereignis, Akteur:in) wird dabei in einer eigenen Tabelle dargestellt, die sämtliche dazugehörigen Felder und deren Spezifikationen beschreibt. Die Tabellen folgen einem einheitlichen Aufbau mit den folgenden Spalten:
+
+| **German Name of Field/English Name of Field**<br/>(Deutscher Name des Feldes / Englischer Name des Feldes) | Diese Spalten enthalten die deutschsprachige und englischsprachige Bezeichnung des jeweiligen Datenfeldes. Die Namen sind als Links formatiert, die zum entsprechenden [Graphenmodell-Eintrag](/documentation/data-model/graph-model) führen. |
+| **Min-Max Occurence**<br/>(Minimales-Maximales Vorkommen) | Diese Spalte gibt an, wie oft ein Feld innerhalb eines einzelnen Datensatzes mindestens und höchstens vorkommen und ausgefüllt werden kann bzw. muss, damit dieser gespeichert werden kann:<br/><br/>```1``` bedeutet, dass dieses Feld genau einmal im Formular vorkommt und ausgefüllt werden muss (Pflichtfeld).<br/>```0-1``` bedeutet, dass das Feld einamal im Formular vorkommt und optinal ausgefüllt werden kann.<br/>```1-n``` bedeutet, dass das Feld mindestens einmal ausgefüllt werden muss und beliebig oft wiederholt werden kann (Pflichtfeld mit zusätlichen Wiederholungen).<br/>```0-n``` bedeutet, dass das Feld optional ist und beliebig oft ausgefüllt werden kann.<br/>```[1]``` (in eckigen Klammern) bedeutet, dass das Feld bedingt Pflicht ist, wenn das darüber stehenden Feld verwendet wird (Bedingtes Pflichtfeld).<br/><br/>Zusätzliche Hinweise wie ```(created automatically)``` oder ```(planned; created automatically)``` kennzeichnen Felder, die nicht manuell erfasst, sondern systemseitig generiert werden. |
+| **Multi Value**<br/>(Mehrfachwerte) | Diese Spalte zeigt an, ob in einem einzelnen Feld mehrere (einzelne) Werte gespeichert werden können. Die Kennzeichnung erfolgt durch:<br/><br/>```⨉``` (Kreuz): Das Feld nimmt nur einen einzelnen Wert auf<br/>```✓``` (Häkchen): Das Feld kann mehrere Werte aufnehmen<br/><br/> Wichtig ist dabei die Unterscheidung zwischen echten Multi-Value-Feldern und Freitextfeldern: Ein Freitextfeld wie "Provenienz" kann zwar inhaltlich Informationen über mehrere Besitzverhältnisse enthalten, technisch handelt es sich aber um ein einzelnes Feld, in dem keine Werte getrennt werden. Bei Multi-Value-Feldern wird zusätzlich die Art der Mehrfachwerteingabe spezifiziert:<br/><br/><br/>```(multi select)```: Mehrere Werte können aus einer vordefinierten oder erweiterbaren Liste ausgewählt werden.<img src="/assets/images/multi_select_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"><br/>```(multi create)```: Einträge in einer Entität können via Eingabemasken direkt aus einer anderen Entität erstellt werden, z.B. Projektbeschreibungen in einem Projekt.<img src="/assets/images/multi_create_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"><br/>```(multi file upload)```: Erlaubt das Hochladen mehrerer Dateien.<br/>```(comma separated)```: Mehrere Werte werden durch Komma getrennt in einem Feld eingegeben.<br/>```(semicolon separated)```: Mehrere Werte werden durch Semikolon getrennt in einem Feld eingegeben.<br/> ```(linebreak separated; comma separated on import)```: Mehrere Werte werden durch Zeilenumbrüche getrennt erfasst, beim Import aber kommagetrennt verarbeitet. |
+| **Connection**<br/>(Verbindungstyp)| Diese Spalte beschreibt die Art der relationalen Beziehung zwischen der aktuellen Entität und anderen Entitäten im Datenmodell. Es werden drei grundlegende Verbindungstypen unterschieden:<br/><br/> ```many-to-one``` (viele-zu-eins): Mehrere Datensätze der aktuellen Entität können auf denselben Datensatz einer anderen Entität verweisen. Beispiel: Viele Projekte können derselben Einliefernden Hochschule zugeordnet sein, aber jedes Projekt hat genau eine Einliefernde Hochschule.<br/> ```one-to-many``` (eins-zu-viele): Ein Datensatz der aktuellen Entität kann mit mehreren Datensätzen einer anderen Entität verbunden sein, wobei diese ausschließlich zur aktuellen Entität gehören. Beispiel: Ein Projekt kann mehrere Projektbeschreibungen haben, aber jede Projektbeschreibung gehört zu genau zu einem Projekt.<br/>```many-to-many``` (viele-zu-viele): Mehrere Datensätze der aktuellen Entität können mit mehreren Datensätzen einer anderen Entität verbunden sein, wobei die Zuordnungen in beide Richtungen mehrfach möglich sind. Beispiel: Ein Projekt kann mehrere Schlagworte haben, und dasselbe Schlagwort kann in mehreren Projekten auftauchen.<br/><br/>Jede Verbindungsangabe wird durch einen zusätzlichen erläuternden Text ausformuliert, der die Beziehung aus beiden Perspektiven beschreibt und die praktische Bedeutung verdeutlicht. |
+| **Points to Entity**<br/>(Verweist auf Entität)| Diese Spalte gibt an, auf welche andere Entität innerhalb des arkumu.nrw-Datenmodells das jeweilige Feld verweist. Die Angaben sind als interne Links formatiert, die zum entsprechenden Eintrag in diesem Datenmodell führen. Bei abgeleiteten Entitäten wird die Herkunft gekennzeichnet, z.B. ```Depositing University - Derived from User```, was bedeutet, dass die Einliefernde Hochschule aus dem/der Benutzer:in abgeleitet wird. |
+| **German Definition/English Definition**<br/>(Deutsche Definition/Englische Definition) | Diese Spalten enthalten kurze prägnante Beschreibungen, welche Informationen in einem Feld gespeichert werden. |
+| **German Note/English Note**<br/>(Deutscher Kommentar / Englischer Kommentar) | Diese Spalten bieten Raum für zusätzliche Hinweise, Erläuterungen oder Kontextinformationen, die für das Verständnis oder die korrekte Nutzung des Feldes wichtig sind. Die Kommentare können beispielsweise auf Formatvorgaben, Nutzungsrichtlinien oder Besonderheiten bei der Datenerfassung hinweisen. |
+
+Diese Dokumentation konzentriert sich bewusst auf die fachliche Komponente des Datenmodells und verzichtet auf technische Implementierungsdetails. Es werden weder technische ID-Felder (Primärschlüssel, Fremdschlüssel) noch Dateitypen (VARCHAR, INTEGER, BOOLEAN etc.) aufgeführt, wie man sie aus klassischen Datenbankschemas kennt. Stattdessen liegt der Fokus auf der inhaltlichen Bedeutung der Felder, ihrer Beziehungen untereinander und ihrer Rolle im Erfassungs- und Dokumentationsprozess.
+
 ---
 
 **English:**
@@ -515,33 +527,13 @@ Diese Entität kann entweder zentral oder getrennt verwendet werden, letzteres a
 
 ```Sprache```
 
-| German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutscher Name | German Name | 1 | | ⨉ | Die deutsche, genormte Bezeichnung der Sprache nach ISO 693-2 | The German appelation of the language, in accordance to ISO 639-2 | | |
-| Englischer Name | English Name | 1 | | ⨉ | Die englisch, genormte Bezeichnung der Sprache nach ISO 693-2 | The English appelation of the language, in accordance to ISO 639-2 | | |
-| ISO 639-2(B)-Code | ISO 639-2(B) Code | 1 | | ⨉ | Der entsprechende bibliografische Identifikator | The according bibliographic identifier | | |
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [Deutscher Name](/documentation/data-model/graph-model#german-name) | [German Name](/documentation/data-model/graph-model#german-name) | 1 | | ⨉ | Die deutsche, genormte Bezeichnung der Sprache nach ISO 693-2 | The German appelation of the language, in accordance to ISO 639-2 | | |
+| [Englischer Name](/documentation/data-model/graph-model#english-name) | [English Name](/documentation/data-model/graph-model#english-name) | 1 | | ⨉ | Die englisch, genormte Bezeichnung der Sprache nach ISO 693-2 | The English appelation of the language, in accordance to ISO 639-2 | | |
+| [ISO 639-2(B)-Code](/documentation/data-model/graph-model#english-name) | ISO 639-2(B) Code | 1 | | ⨉ | Der entsprechende bibliografische Identifikator | The according bibliographic identifier | | |
 | ISO 639-2(T)-Code | ISO 639-2(T) Code | 1 | | ⨉ | Der entsprechende terminologische Identifikator | The according terminologic identifier | | |
 | ISO 639-1-Code | ISO 639-1 Code | 0-1 | | ⨉ | Der ältere Idenfikator aus Kompatibilitätsgründen | The older identifier for compatibility reasons | | |
-
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
-
-## Number Type
-
-```Nummernart```
-
-| German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutscher Name der Nummernart | German Name of Number Type | 1 |  |  |  |  |  |
-| Englischer Name der Nummernart | English Name of Number Type | 1 |  |  |  |  |  |
-| Wikidata ID | Wikidata ID | 1 |  |  |  |  |  |
-| GND-Nummer | GND ID | 0-1 |  |  |  |  |  |
-
 
 <br/>
 <br/>
@@ -555,14 +547,17 @@ Diese Entität kann entweder zentral oder getrennt verwendet werden, letzteres a
 
 ```Organisationseinheit```
 
-| German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutscher Name der Organisationseinheit | German Name of Organisational Unit | 0-1 | |  | Der deutsche Name der Organisationseinheit | | | |
-| Englischer Name der Organisationseinheit | English Name of Organisational Unit | 0-1 | |  | Der englische Name der Organisationseinheitt | | | |
-| Deutsche Beschreibung der Organisationseinheit | German Description of Organisational Unit | 0-1 | | |Freitext; wenn's das eine gibt muss es auch das andere geben | | |
-| Englische Beschreibung der Organisationseinheit | English Description of Organisational Unit | 0-1 | | | Freitext; wenn's das eine gibt muss es auch das andere geben | | |
-| Hochschule | University | 1 | | | | | |
-| Verknüpfte Projekte | Linked Projects | 0-n | | | Eine Liste der mit der Organisationseinheit verknüpften Projekte | | |
+Das Feld "Hochscuhle" wurde entfernt, da diese nun auch eigenständig als eigene Organisationseinheiten auswählbar sind. | The field "University" has been removed, as these can now be selected as organisational units as well.
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [Deutscher Name](/documentation/data-model/graph-model#german-name) | [German Name](/documentation/data-model/graph-model#german-name) | 1 | ⨉ | | | Die deutsche Bezeichnung der Organisationseinheit | The German appelation of the Organisational Unit | | |
+| [Englischer Name](/documentation/data-model/graph-model#english-name) | [English Name](/documentation/data-model/graph-model#english-name) | 1 | ⨉ | | | Die englische Bezeichnung der Organisationseinheit | English appelation for the object, e.g. "Main part of the sculpture", "right half", "left half", etc. | | |
+| [Deutsche Beschreibung](/documentation/data-model/graph-model#german-description) | [German Description](/documentation/data-model/graph-model#german-description) | 0-1 | ⨉ | | | Eine deutsche Beschreibung der Organisationseinheit | A German description of the Organisational Unit | | |
+| [Englische Beschreibung](/documentation/data-model/graph-model#english-description) | [English Description](/documentation/data-model/graph-model#english-description) | 0-1 | ⨉ | | | Eine englische Beschreibung der Organisationseinheit | An English description of the object | | |
+| [Übergeordnete Organisationseinheit](/documentation/data-model/graph-model#organisational-unit) | [Parent Organisational Unit](/documentation/data-model/graph-model#role) | 0-1 | ⨉ | many-to-one<br/><sub>(each Organisational Unit can have at most one Parent Organisational Unit; an Organisational Unit can be the parent of many children)</sub> | [Organisational Unit](#organisational-unit) | Eine bereits angelegte, direkt übergordnete Rolle | An already created, directly superordinate role | | |
+| Deutscher Breadcrumb | German Breadcrumb | 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Organisationseinheiten | The composite German breadcrumb with all Parent Organisational Units | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
+| Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Rollen | The composite English Breadcrumb with all Parent Roles  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
 
 <br/>
 <br/>
@@ -586,8 +581,8 @@ Diese Entität kann entweder zentral oder getrennt verwendet werden, letzteres a
 | [Besitzer:in](/documentation/data-model/graph-model#actor) | [Owner](/documentation/data-model/graph-model#actor) | 0-n | ✓<br/>(multi select) | many-to-many<br/><sub>(each Physical Object may have multiple Owners; each Actor may be linked to multiple Physical Objects)</sub> | [Place](#place) | Die derzeitigen oder letztbekannten Besitzer:innen des Objekts | The current or last known owners of the object | | |
 | [Eigentürmer:in](/documentation/data-model/graph-model#actor) | [Legal Rights Holders](/documentation/data-model/graph-model#actor) | 0-n | ✓<br/>(multi select) | many-to-many<br/><sub>(each Physical Object may have multiple Legal Rights Holders; each Actor may be linked to multiple Physical Objects)</sub> | [Place](#place) | Die derzeitigen oder letztbekannten Besitzer:innen des Objekts | The current or last known legal rights holders of the object | | |
 | [Provenienz](/documentation/data-model/graph-model#provenance) | [Provenance](/documentation/data-model/graph-model#provenance) | 0-1 | ⨉ | | | Freitext-Feld z.b. "von 1950-1990 Frau Meyer, ab 1990 Herr Schulze", wird nicht veröffentlicht | Free text field, e.g. "from 1950 to 1990 Mrs. Meyer, from 1990 Mr. Schulze", will not be published  | | |
-| Deutsche Beschreibung | German Description | 0-1 | ⨉ | | | Eine deutsche Beschreibung des Objekt | A German Description of the object| | |
-| Englische Beschreibung | English Description | 0-1 | ⨉ | | | Eine deutsche Beschreibung des Objekt | A German Description of the object | | |
+| [Deutsche Beschreibung](/documentation/data-model/graph-model#german-description) | [German Description](/documentation/data-model/graph-model#german-description) | 0-1 | ⨉ | | | Eine deutsche Beschreibung des Objekt | A German description of the object | | |
+| [Englische Beschreibung](/documentation/data-model/graph-model#english-description) | [English Description](/documentation/data-model/graph-model#english-description) | 0-1 | ⨉ | | | Eine englische Beschreibung des Objekt | An English description of the object | | |
 | [Deutscher Kommentar](/documentation/data-model/graph-model#german-commentary) | [German Commentary](/documentation/data-model/graph-model#german-commentary) | 0-1 | ⨉ | | | Ein Feld, in dem bestimmte inhaltlich relevante Bemerkungen/Kommentare zum Projekt gegeben werden können | A field in which specific comments/remarks relevant to the project's content can be provided | | |
 | [Englischer Kommentar](/documentation/data-model/graph-model#english-commentary) | [English Commentary](/documentation/data-model/graph-model#english-commentary) | 0-1 | ⨉ | | | Ein Feld, in dem bestimmte inhaltlich relevante Bemerkungen/Kommentare zum Projekt gegeben werden können | A field in which an English comment on the project can be provided | | |
 | [Interner Kommentar](/documentation/data-model/graph-model#internal-commentary) | [Internal Commentary](/documentation/data-model/graph-model#internal-commentary) | 0-1 | ⨉ | | | Ein Kommentar, der nur innerhalb des arkumu.nrw-Erfassungssystems für höhere Nutzer:innen angezeigt wird, aber nie öffentlich | A comment that is only displayed within the arkumu.nrw ingest system for higher-level users, but never publicly | Nicht-öffentliche, z. B. Team-interne Bearbeitungsnotizen oder interne Bearbeitungsnotizen aus der Quelldatenbank des Einlieferers | Non-public, e.g. internal team processing notes or internal processing notes from the depositor's source database |
@@ -625,6 +620,27 @@ Diese Entität kann entweder zentral oder getrennt verwendet werden, letzteres a
 | [Übergeordneter Ort](/documentation/data-model/graph-model#place) | [Parent Place](/documentation/data-model/graph-model#place) | 0-1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each Role can have at most one Parent Role; a Role can be the parent of many children)</sub> | [Place](#place) | Ein bereits angelegter oder neuer, direkt übergordneter Ort. Existiert der übergordnete Ort noch nicht, wird dieser und alle weiteren übergeordneten Orte automatisch angelegt | An existing or new, directly superordinate Place. If the superordinate Place does not yet exist, it and all other superordinate places are created automatically | | |
 | Deutscher Breadcrumb | German Breadcrumb | 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze deutsche Breadcrumb mit allen übergeordneten Orten | The composite German breadcrumb with all Parent Places  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
 | Englischer Breadcrumb | English Breadcrumb| 1<br/>(handled automatically) | ⨉ | | | Der zusammengesetze englische Breadcrumb mit allen übergeordneten Orten | The composite English Breadcrumb with all Parent Places  | Das folgende Feld sollte hinzugefügt werden um die Rechenlast zu mindern | The following field should be added to reduce the processing load |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## Product ID Type
+
+```Produkt-ID-Typ```
+
+Die Entität "Nummernart" wurde in "Produkt-ID-Typ" umbenannt, und somit an die Benennung des entsprechenden Feldes in der Entität "Informationsträger" angepasst zu werden. | The entity "Number Type" has been renamed "Product ID Type" to match the name of the corresponding field in the entity "Information Storage Medium".
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity| German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [Deutscher Name](/documentation/data-model/graph-model#german-name) | [German Name](/documentation/data-model/graph-model#german-name) | 1 | ⨉ | | | Die deutsche Bezeichnung des Produkt-ID-Typs, z.B. "ISBN", "Matritzennummer", "Katalognummer", etc. | The German appelation of the Product ID Type, e.g. "ISBN", "Matritzennummer", "Katalognummer", etc. | | |
+| [Englischer Name](/documentation/data-model/graph-model#english-name) | [English Name](/documentation/data-model/graph-model#english-name) | 1 | ⨉ | | | Die englische Bezeichnung der Produkt-ID-Typs, z.B. "ISBN", "Matrix Number", "Catalogue Number", etc. | English appelation for the Product ID Type, e.g. "ISBN", "Matrix Number", "Catalogue Number", etc. | | |
+| [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1  | ⨉ | | | Wikidata-ID Produkt-ID-Typs | Wikidata ID of the Product ID Type | | |
+| [GND-Nummer](/documentation/data-model/graph-model#gnd-id) | [GND ID](/documentation/data-model/graph-model#gnd-id) | 0-1  | ⨉ | | | GND-Nummer des Produkt-ID-Typs | GND ID of the Product ID Type | | |
 
 <br/>
 <br/>
