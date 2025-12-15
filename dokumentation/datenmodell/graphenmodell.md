@@ -654,7 +654,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Condition State (English) |
 | **German Name of Class** | Erhaltungszustand (Englisch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#condition-state(english)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#condition-state-english> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -667,7 +667,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Condition State (German) |
 | **German Name of Class** | Erhaltungszustand (Deutsch) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#condition-state(german)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#condition-state-german> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -680,7 +680,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Contact (E-Mail) |
 | **German Name of Class** | Kontakt (E-Mail) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact(e-mail)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact-e-mail> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -693,7 +693,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Contact (Phone) |
 | **German Name of Class** | Kontakt (Telefon) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact(phone)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact-phone> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -706,7 +706,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |-----------|-----------|
 | **English Name of Class** | Contact (Postal Address) |
 | **German Name of Class** | Kontakt (Postanschrift) |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact(postal-address)> |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#contact-postal-address> |
 | **English Description** |  |
 | **German Description** |  |
 
