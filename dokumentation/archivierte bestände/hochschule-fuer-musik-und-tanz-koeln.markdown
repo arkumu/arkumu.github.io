@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Hochschule für Musik und Tanz Köln
-order: 3.05
+order: 3.03
 permalink: /documentation/archived-holdings/hfmt-cologne
 ---
 
@@ -16,7 +16,7 @@ permalink: /documentation/archived-holdings/hfmt-cologne
 
 **English:**
 
-The audio tape archive of the Cologne University of Music and Dance library comprises a total of 233 audio tapes, which were digitized by the Hambrecht company in Neuenbürg (Pforzheim/Karlsruhe). This digitization process resulted in 568 audio files in .wav and .mp3 formats with a total volume of 1275 GB. The digital files can be accessed via Sciebo and are also backed up on an external hard drive at the library.   
+The audio tape archive of the Hochschule für Musik und Tanz Köln library comprises a total of 233 audio tapes, which were digitized by a professional service provider, Tonstudio Hambrecht in Neuenbürg/Karlsruhe. This digitization process resulted in 568 audio files in .wav and .mp3 formats with a total volume of 1275 GB. The digital files can be accessed via Sciebo and are also backed up on an external hard drive at the library.   
 
 The recordings date from 1944 to 1984 and contain around 710 identified musical titles. The collection includes concert recordings from the university, class evenings, contributions to university week, some world premieres, and various radio recordings. 
 
@@ -34,7 +34,7 @@ Technically it was not possible to import the recorded data directly into the ar
 
 **Deutsch:**
 
-Das Tonbandarchiv der Bibliothek der Hochschule für Musik und Tanz Köln umfasst insgesamt 233 Tonbänder, die durch die Firma Hambrecht in Neuenbürg (Pforzheim/Karlsruhe) digitalisiert wurden. Im Rahmen dieses Digitalisierungsprozesses entstanden 568 Audiodateien in den Formaten .wav und .mp3 mit einem Volumen von 1.275 GB. Die digitalen Dateien sind über einen Sciebo-Speicher abrufbar und zusätzlich auf einer externen Festplatte der Bibliothek gesichert.
+Das Tonbandarchiv der Bibliothek der Hochschule für Musik und Tanz Köln umfasst insgesamt 233 Tonbänder, die durch die Firma Tonstudio Hambrecht in Neuenbürg/Karlsruhe digitalisiert wurden. Im Rahmen dieses Digitalisierungsprozesses entstanden 568 Audiodateien in den Formaten .wav und .mp3 mit einem Volumen von 1.275 GB. Die digitalen Dateien sind über einen Sciebo-Speicher abrufbar und zusätzlich auf einer externen Festplatte der Bibliothek gesichert.
 
 Die Aufnahmen stammen aus den Jahren 1944 bis 1984 und enthalten rund 710 identifizierte musikalische Titel. Der Bestand umfasst Konzertmitschnitte der Hochschule, Klassenabende, Beiträge zur Hochschulwoche, teilweise Uraufführungen sowie verschiedene Rundfunkaufnahmen.
 

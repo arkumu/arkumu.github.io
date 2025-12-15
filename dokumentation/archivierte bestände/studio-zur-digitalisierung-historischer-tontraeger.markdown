@@ -1,13 +1,13 @@
 ---
 layout: arkumu-docs
 title: ❗ Studio zur Digitalisierung historischer Tonträger
-order: 3.03
+order: 3.06
 permalink: /documentation/archived-holdings/robert-schumann-hochschule/studio-zur-digitalisierung-historischer-tontraeger
 ---
 
 <br/>
 
-```❗ sollte dieser Inhalt nicht mit auf die RSH-Seite?```
+```❗ dieser Inhalt sollte mit auf die RSH-Seite - keine gute Idee, ihn separat stehen zu lassen```
 
 ---
 

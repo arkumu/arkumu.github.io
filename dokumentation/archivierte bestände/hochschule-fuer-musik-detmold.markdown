@@ -1,13 +1,13 @@
 ---
 layout: arkumu-docs
-title: ❗ Kunsthochschule für Medien Köln
-order: 3.02
-permalink: /documentation/archived-holdings/khm-cologne
+title: ❗ Hochschule für Musik Detmold
+order: 3.04
+permalink: /documentation/archived-holdings/hfm-detmold
 ---
 
 ``` Inhalte fehlen noch ```
 
-```Academy of Media Arts Cologne```
+```Hochschule für Musik Detmold```
 
 <br/>
 
