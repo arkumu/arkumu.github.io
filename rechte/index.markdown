@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: Rechte
+title: ❗ Rechte
 order: 4
 permalink: /rights/
 ---
@@ -9,6 +9,11 @@ permalink: /rights/
   <a href="/rights/licences" class="link-card">
     <strong>Lizenzen</strong>
     <span>Von arkumu bereitgestellte und externe Lizenzen, die auf Projekte und Digitale Objekte vergeben werden können.</span>
+  </a>
+  
+    <a href="/rights/legal-basis" class="link-card">
+    <strong>Rechtliche Grundlagen</strong>
+    <span>❗Inhalt fehlt</span>
   </a>
 
   <a href="/rights/rights-faq" class="link-card">

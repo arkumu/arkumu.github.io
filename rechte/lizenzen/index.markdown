@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: ❗ Lizenzen
+title: Lizenzen
 order: 4.1
 permalink: /rights/licences
 ---
@@ -21,7 +21,7 @@ Die Rechteinhaber:innen bestätigen außerdem, dass alle Personen genannt worden
 
 ## Links zu den arkumu-Lizenzen
 
-Auf den folgenden Seiten finden Sie die vollständigen Texte der einzelnen Lizenzen samt Resolver-URI, mit welcher Sie referenziert werden können:
+Auf den folgenden Seiten finden Sie die vollständigen Texte der einzelnen Lizenzen samt Resolver-URI, mit welcher sie referenziert werden können:
 
   * [**arkumu-A 1.0**](/rights/licences/arkumu-a)
   * [**arkumu-A+B 1.0**](/rights/licences/arkumu-a+b)
