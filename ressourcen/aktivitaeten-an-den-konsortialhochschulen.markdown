@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: Aktivitäten an den Konsortialhochschulen
+title: ‼️ kann gelöscht werden ‼️ Aktivitäten an den Konsortialhochschulen
 order: 2.1
 permalink: /resources/activities-at-the-consortium-universities
 ---
