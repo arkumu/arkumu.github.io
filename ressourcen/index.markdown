@@ -6,10 +6,6 @@ permalink: /resources/
 ---
 
 <div class="link-card-container">
-    <a href="/resources/activities-at-the-consortium-universities" class="link-card">
-        <strong>Aktivitäten an den Konsortialhochschulen</strong>
-        <span>Ein Überblick der prioritär einzuliefernden Datenquellen an den Hochschulen.</span>
-    </a>
     <a href="/resources/how-to-guides-for-depositors" class="link-card">
         <strong>How-To-Guides für Einliefernde an den Hochschulen</strong>
         <span>Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicherung und zur Vorstrukturieren der Daten.</span>
@@ -25,6 +21,10 @@ permalink: /resources/
     <a href="/resources/publications-and-presentations" class="link-card">
         <strong>Veröffentlichungen und Präsentationen</strong>
         <span>Im Rahmen des Projekts veröffentlichte Materialien und Dokumente.</span>
+    </a>
+    <a href="/resources/resources/materials" class="link-card">
+        <strong>Materialien zum Download</strong>
+        <span>Druckvorlagen für Flyer und Plakate.</span>
     </a>
     <a href="/resources/faq" class="link-card">
         <strong>Häufig gestellte Fragen</strong>

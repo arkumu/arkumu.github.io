@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Veröffentlichungen und Präsentationen
-order: 2.5
+order: 2.4
 permalink: /resources/publications-and-presentations
 ---
 

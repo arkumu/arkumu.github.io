@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Entitäten und Attribute des Datenmodells
-order: 2.4
+order: 2.3
 permalink: /resources/entities-and-attributes-of-the-data-model
 ---
 

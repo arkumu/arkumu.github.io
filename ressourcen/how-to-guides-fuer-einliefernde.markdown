@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: How-To-Guides für Einliefernde an den Hochschulen
-order: 2.2
+order: 2.1
 permalink: /resources/how-to-guides-for-depositors
 ---
 

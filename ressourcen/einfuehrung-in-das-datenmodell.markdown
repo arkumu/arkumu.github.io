@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Einführung in das Datenmodell
-order: 2.3
+order: 2.2
 permalink: /resources/introduction-to-the-data-model
 ---
 
