@@ -1,10 +1,10 @@
 ---
 layout: arkumu-docs
 title: ❗ Rechtliche Grundlagen
-order: 4.2
+order: 4.1
 permalink: /rights/legal-basis
 ---
 
 `Legal Basis`
 
-❗ Inhalt folgt / SY
+Zwischen den teilnehmenden Hochschulen besteht eine Kooperationsvereinbarung, die unbefristet abgeschlossen wurde und nur durch Kündigung beendet werden kann.

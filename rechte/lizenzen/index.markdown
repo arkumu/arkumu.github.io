@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: Lizenzen
-order: 4.1
+order: 4.3
 permalink: /rights/licences
 ---
 

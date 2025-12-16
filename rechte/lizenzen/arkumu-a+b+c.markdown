@@ -1,7 +1,7 @@
 ---
 layout: arkumu-docs
 title: arkumu-A+B+C 1.0
-order: 4.1.3
+order: 4.3.3
 permalink: /rights/licences/arkumu-a+b+c
 ---
 
