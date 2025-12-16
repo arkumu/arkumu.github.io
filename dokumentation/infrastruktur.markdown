@@ -5,7 +5,7 @@ order: 3.3
 permalink: /documentation/infrastructure/
 ---
 
-Dieses im Vorprojekt entwickelte Strukturdiagramm veranschaulicht den logischen Aufbau der Projektinfrastruktur und zeigt die Zusammenhänge von Systemkomponenten, Nutzer:innen, angebundenen Diensten und externen Institutionen. In den folgenden Abschnitten werden die zentralen Einheiten dieses Modells kurz erklärt und ihre zentralen Funktionsweisen beschrieben.
+Dieses im Vorprojekt entwickelte Strukturdiagramm veranschaulicht den logischen Aufbau der Projektinfrastruktur und zeigt die Zusammenhänge von Systemkomponenten, Nutzer:innen, angebundenen Diensten und externen Institutionen. In den folgenden Abschnitten werden die zentralen Einheiten dieses Modells kurz erklärt und ihre Funktionsweisen beschrieben.
 
 [![arkumu.nrw-Strukturdiagramm Stand Juni 2025](/assets/images/2025-06-18_Strukturdiagramm.png 'Das Strukturdiagramm veranschaulicht den logischen Aufbau der intendierten Projektinfrastruktur')](/assets/images/2025-06-18_Strukturdiagramm.png)
 
@@ -19,7 +19,7 @@ Das Web- und Arbeitsrepositorium, kurz Repositorium, ist der zentrale Knotenpunk
 
 Das Projekt arkumu.nrw sollte ursprünglich dafür das speziell für die Archivierung von audio-visuellen Kulturarchivalien entwickelte Repositoriumssystem [KA³](https://ka3.uni-koeln.de/) nutzen. Das ITCC der Uni Köln hat aber aufgrund gestiegener Anforderungen erst eine eigene Softwarelösung auf Basis von Grails entwickelt, und diese 2025 noch einmal verworfen und neu und auf Basis von Django programmiert.
 
-Diese Django-App wird vom ITCC weiter entwickelt werden. Der Code und die technische Dokumentation werden auf git.nrw gehostet, zu dem bei Bedarf das ITTC Zugang geben kann. Eine Kopie des Codes ist ohne Beschränkungen zusätzlich auf [GitHub](https://github.com/arkumu/arkumu-app) zugänglich. Fragen und Anregungen nimmt das ITCC über das [Kontaktformular](https://itcc.uni-koeln.de/das-itcc/kontakt/itcc-helpdesk) oder die auf dieser Seite hinterlegte Email-Adresse entgegen.
+Diese Django-App wird vom ITCC weiter entwickelt werden. Der Code und die technische Dokumentation werden auf git.nrw gehostet, zu dem bei Bedarf das ITTC Zugang geben kann. Eine Kopie des Codes ist ohne Beschränkungen zusätzlich auf [GitHub](https://github.com/arkumu/arkumu-app) zugänglich. Fragen und Anregungen nimmt das ITCC über das [Kontaktformular](https://itcc.uni-koeln.de/das-itcc/kontakt/itcc-helpdesk) oder die dort hinterlegte Email-Adresse entgegen.
 
 ----
 
@@ -61,7 +61,7 @@ Es ist möglich, alternativ Dateien ohne den Umweg über den S3-Speicher direkt 
 
 ## Rosetta-System
 
-Über das Backend zum vom hbz betriebenen [Rosetta-System](https://www.lzv.nrw/ueber-lzv/wie-funktioniert-lzv) kann die Hochschule auf ihr „Dark Archive“ zugreifen und Erhaltungsmaßnahmen zu ihren digitalen Daten planen und durchführen. Bei Bedarf können alle eingelieferten Daten auch wieder exportiert werden. Weitere Informationen zu diesen Prozessen finden sich im [Wiki der LZV.nrw](https://service-wiki.hbz-nrw.de/display/LLZV/Landesweite+LZV+-+Willkommen). Gegen Ende der dreijährigen Projektlaufzeit wurden ausgewählte Personen aus den Partnerhochschulen im Rahmen eines Onboardings in die Benutzung von Rosetta eingeführt. Auf internen Seiten des hbz-Service Wikis, die für Benutzende der einzelnen Hochschulen freigeschaltet werden können, ist der Prozess des Onboardings und der Einlieferung im Detail langfristig dokumentiert.
+Über das Backend zum vom hbz betriebenen [Rosetta-System](https://www.lzv.nrw/ueber-lzv/wie-funktioniert-lzv) kann die Hochschule auf ihr „Dark Archive“ zugreifen und Erhaltungsmaßnahmen zu ihren digitalen Daten planen und durchführen. Bei Bedarf können alle eingelieferten Daten auch wieder exportiert werden. Weitere Informationen zu diesen Prozessen finden sich im [Wiki der LZV.nrw](https://service-wiki.hbz-nrw.de/spaces/LLZV/pages/556499219/Landesweite+LZV+-+Das+Service-Wiki+zur+digitalen+Langzeitverf%C3%BCgbarkeit). Gegen Ende der dreijährigen Projektlaufzeit wurden ausgewählte Personen aus den Partnerhochschulen im Rahmen eines Onboardings in die Benutzung von Rosetta eingeführt. Auf internen Seiten des hbz-Service Wikis, die auch für zukünftige Benutzende der einzelnen Hochschulen freigeschaltet werden können, ist der Prozess des Onboardings und der Einlieferung im Detail langfristig dokumentiert.
  
 ----
 
