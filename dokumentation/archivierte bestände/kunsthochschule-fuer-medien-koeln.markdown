@@ -7,8 +7,6 @@ permalink: /documentation/archived-holdings/khm-cologne
 
 ```Academy of Media Arts Cologne```
 
-<br/>
-
 ---
 
 <br/>
@@ -22,7 +20,7 @@ permalink: /documentation/archived-holdings/khm-cologne
 **English:**
 
 
-The [Academy of Media Arts Cologne Archive](https://en.khm.de/archiv/) at the Academy of Media Arts Cologne houses a collection of student projects spanning 35 years since the academy was founded. These take the form of audio and video recordings, films, photographs, film stills, publications, e-publications, websites, posters, multiples, and flyers, as well as recordings of lectures, symposia, concerts, and interviews.
+The [Academy of Media Arts Cologne Archive](https://en.khm.de/archiv/) houses a collection of student projects spanning 35 years since the academy was founded. These take the form of audio and video recordings, films, photographs, film stills, publications, e-publications, websites, posters, multiples, and flyers, as well as recordings of lectures, symposia, concerts, and interviews.
 
 As part of the three-year project arkumu.nrw, 3,265 student projects were transferred to long-term storage. This corresponds to around 50 TB of data or 13,800 files.
 - As preparation for this, in a time-consuming process, the FileMaker databases, which have been in continuous use and development since 1995 and are used to record and archive student works, were optimized, their functionality described, and their user-friendliness improved.

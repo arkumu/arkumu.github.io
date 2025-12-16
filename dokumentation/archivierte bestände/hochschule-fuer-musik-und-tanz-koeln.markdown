@@ -6,6 +6,8 @@ permalink: /documentation/archived-holdings/hfmt-cologne
 ---
 
 
+---
+
 <br/>
 
 ## Tonbandarchiv
@@ -72,8 +74,6 @@ The SFEM data scheduled for delivery at the end of the project comprises a total
 <br/>
 
 **Deutsch:**
-
-SFEM-FileMaker-Datenbank von Simon Spillner
 
 Die ursprüngliche SFEM-Datenbank umfasst 549 Werke mit 65 dazugehörigen Produktionen und 277 Akteur*innen (Stand 02.12.2025). Sie verfügt über eine umfangreiche Sammlung historisch bedeutender Tonaufnahmen sowie über eine Vielzahl studentischer Projekte und Kompositionen von 1959 bis in die Gegenwart.
 
