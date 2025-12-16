@@ -565,67 +565,28 @@ figure {
  
 .post-container-text ul,
 .post-container-text ol {
-  padding-left: 0;
+  padding-left: 1.2rem;   /* Platz für Punkte */
   margin-left: 0;
-  list-style: none;
+  list-style: initial;   /* Punkte & Nummern zurück */
   margin-top: 4%;
   margin-bottom: 6%;
-  font-size: small;
+  font-size: 0.9rem;
 }
 
 .post-container-text ul li,
 .post-container-text ol li {
-  position: relative;
-  padding: 0.75rem 1rem 0.75rem 2.2rem;
-  margin: 0.4rem 0;
-  background-color: #FAFAFA;
-  border: 1px solid #E2E2E2;
-  transition: background-color 0.25s ease, border-color 0.25s ease;
+  position: static;      /* wichtig */
+  padding: 0.25rem 0;    /* normales Spacing */
+  margin: 0.25rem 0;
+  background: none;
+  border: none;
   cursor: default;
 }
 
-.post-container-text ul li:hover,
-.post-container-text ol li:hover {
-  background-color: rgb(217,217,217);
-  border-color: #c7c7c7;
-}
-
-.post-container-text ul li::before {
-  content: "→";
-  position: absolute;
-  left: 0.9rem;
-  font-weight: 600;
-  color: #1E1E1E;
-  transition: transform 0.25s ease, color 0.25s ease;
-}
-
-.post-container-text ul li:hover::before {
-  transform: translateX(3px);
-  color: #666;
-}
-
-.post-container-text ol {
-  counter-reset: list-counter;
-}
-
-.post-container-text ol li {
-  counter-increment: list-counter;
-}
-
+/* Pseudo-Elemente komplett deaktivieren */
+.post-container-text ul li::before,
 .post-container-text ol li::before {
-  content: counter(list-counter) ".";
-  position: absolute;
-  left: 0.9rem;
-  top: 0.78rem;
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: #000;
-  transition: transform 0.25s ease, color 0.25s ease;
-}
-
-.post-container-text ol li:hover::before {
-  transform: translateX(3px);
-  color: #666;
+  content: none;
 }
  
 /*---- Blockquotes ----*/

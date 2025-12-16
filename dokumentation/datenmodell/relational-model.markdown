@@ -540,10 +540,10 @@ This documentation deliberately focuses on the functional components of the data
 
 | Diese Entität kann entweder zentral oder getrennt verwendet werden, letzteres als **Schlagwort**, **Klassifizierendes Schlagwort**, **Materialschlagwort** und **Technikschlagwort**. | This entity can be used either centrally or separated, the latter as a **Keyword**, **Classifying keyword**, **Material keyword** and **Technique Keyword**. |
 
-| German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutsches Wikidata-Label | German Wikidata Label | 0-1 |  |  | Das deutsche Schlagwort | | | |
-| Englisches Wikidata-Label | English Wikidata Label | 0-1 |  |  | Das englische Schlagwort | | | |
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Deutsches Wikidata-Label | German Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
+| Englisches Wikidata-Label | English Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
 | Deutsche Synonyme | German Synonyms | 0-n |  |  | Die deutschen Synonyme des Schlagworts | | | |
 | Englische Synonyme | English Synonyms | 0-n |  |  | Die englischen Synonyme des Schlagworts | | | |
 | Deutsche Beschreibung | German Description | 1 |  |  | Die deutsche Beschreibung des Schlagworts | | | |
