@@ -583,7 +583,6 @@ figure {
   cursor: default;
 }
 
-/* Pseudo-Elemente komplett deaktivieren */
 .post-container-text ul li::before,
 .post-container-text ol li::before {
   content: none;
