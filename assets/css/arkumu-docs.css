@@ -565,9 +565,9 @@ figure {
  
 .post-container-text ul,
 .post-container-text ol {
-  padding-left: 1.2rem;   /* Platz für Punkte */
+  padding-left: 1.2rem;
   margin-left: 0;
-  list-style: initial;   /* Punkte & Nummern zurück */
+  list-style: initial;
   margin-top: 4%;
   margin-bottom: 6%;
   font-size: 0.9rem;
@@ -575,8 +575,8 @@ figure {
 
 .post-container-text ul li,
 .post-container-text ol li {
-  position: static;      /* wichtig */
-  padding: 0.25rem 0;    /* normales Spacing */
+  position: static; 
+  padding: 0.25rem 0;
   margin: 0.25rem 0;
   background: none;
   border: none;
