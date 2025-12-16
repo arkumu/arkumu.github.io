@@ -328,7 +328,7 @@ body {
  
 .sidebar a:visited {
   display: block;
-  color: #1E1E1E;
+  color: rgb(90, 90, 90);
   text-decoration: none;
 }
  
