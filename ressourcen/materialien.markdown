@@ -1,13 +1,13 @@
 ---
 layout: arkumu-docs
-title: ‼️ Materialien zum Download
+title: Materialien zum Download
 order: 2.5
 permalink: /resources/materials
 ---
 
-Hier stellen wir Druckvorlagen für Flyer und Plakate zur Verfügung. Sie dürfen frei verwendet werden. Gestaltung: Büro für Brauchbarkeit, Köln.
+Hier stellen wir Druckvorlagen für Flyer und Plakate zur Verfügung. Sie dürfen frei verwendet werden. [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)  
 
-`‼️ welche Lizenz soll vergeben werden? warte auf Antwort von MH`
+Gestaltung: Büro für Brauchbarkeit, Köln.
 
 ----
 
