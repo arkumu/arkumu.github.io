@@ -25,7 +25,7 @@ Damit bietet arkumu.nrw ein modernes, erweiterbares und benutzerorientiertes Por
            alt="Gestaltung der Webseite, Startseite ohne Footer" 
            style="width: 100%; height: auto;">
     </a>
-    <p style="margin-top: 5px;">Gestaltung der Webseite, Startseite ohne Footer</p>
+    <p style="margin-top: 5px;">Startseite der Webseite</p>
   </div>
   <div style="flex: 1 1 300px; margin: 10px; max-width: 300px; text-align: center;">
     <a href="/assets/images/Design-Entwurf_Projekt-Ansicht-ohne-Footer.png">
@@ -33,6 +33,6 @@ Damit bietet arkumu.nrw ein modernes, erweiterbares und benutzerorientiertes Por
            alt="Gestaltung der Webseite, Projekt-Ansicht" 
            style="width: 100%; height: auto;">
     </a>
-    <p style="margin-top: 5px;">Gestaltung der Webseite, Projekt-Ansicht</p>
+    <p style="margin-top: 5px;">Projekt-Ansicht auf der Webseite</p>
   </div>
 </div>
