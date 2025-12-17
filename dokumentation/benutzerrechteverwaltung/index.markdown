@@ -74,6 +74,19 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 
 # Benutzer:innenverwaltung
 
+**Deutsch:**
+
+Die Benutzer:innenverwaltung regelt den Zugriff auf das System sowie die verfügbaren Funktionen innerhalb der verschiedenen Bereiche. Um unterschiedlichen Anforderungen, Verantwortlichkeiten und organisatorischen Rollen gerecht zu werden, sind Benutzer:innen in klar definierte Benutzer:innengruppen eingeteilt. Jede Benutzer:innengruppe verfügt über spezifische Rechte im Erfassungsbackend und im Administrationsbereich (Admin-Backend). Die nachfolgenden Abschnitte beschreiben die einzelnen Benutzer:innengruppen sowie deren jeweilige Berechtigungen.
+
+<br/>
+
+---
+
+<br/>
+
+**English:**
+
+The User Management defines who can access the system and which functions are available in different parts of it. To accommodate varying responsibilities, roles and organisational requirements, users are assigned to clearly defined user groups. Each user group has specific permissions within the Ingest Backend and the Admin Backend. The following sections describe the individual user groups and their respective permissions.
 
 ## Nutzerinnengruppen
 
@@ -88,11 +101,21 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 <br/>
 
 ### Einfache registrierte Benutzer:in  
-`Simple registered user`
+`Simple Registered User`
 
-*Vorerst sind hiermit angemeldete Hochschulbenutzer:innen der Konsortialhochschulen gemeint!*
+**Deutsch:**
 
-<mark>Hier muss eine Einleitung zur Benutzer:innengruppe auf deutsch und englisch hin</mark>
+Diese Gruppe umfasst alle angemeldeten einfachen registrierten Hochschulbenutzer:innen der Konsortialhochschulen, die sonst keine zusätlichen Funktionen haben. Sie können eigenständig Inhalte erfassen, verwalten und mit bestehenden Datensätzen verknüpfen, sind jedoch in ihren administrativen Möglichkeiten bewusst eingeschränkt. Ziel dieser Rolle ist es, die dezentrale Erfassung und Zusammenarbeit zu ermöglichen, ohne strukturelle oder systemweite Änderungen vornehmen zu können.
+
+<br/>
+
+---
+
+<br/>
+
+**English:**
+
+This group includes all authenticated simple registered users of the consortial universities who do not have any additional functions. They are able to create and manage their own content and link it with existing records, while their administrative capabilities are intentionally limited. This role is designed to support decentralised data entry and collaboration without allowing structural or system-wide changes.
 
 <br/>
 
@@ -140,10 +163,6 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 
 **English**:
 
-**Simple Registered Users**  
-*For the time being, this refers to university users from consortium universities!*
-
-
 **Simple Registered Users in the Ingest Backend are permitted to:**
 
 * Create Projects for the university.
@@ -184,6 +203,19 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 
 ## Mediendokumentar:in
 `Media Documentarian`
+
+**Deutsch:**
+
+Mediendokumentar:innen verfügen über erweiterte Rechte zur inhaltlichen Pflege und Qualitätssicherung der Daten ihrer eigenen Hochschule. Sie übernehmen eine koordinierende und kuratierende Rolle, indem sie hochschulinterne Datensätze bearbeiten, strukturierende Metadaten pflegen und Inhalte konsistent halten. Dabei sind sie auf den eigenen institutionellen Kontext beschränkt und können keine hochschulexternen Daten verändern.
+
+<br/>
+
+---
+
+<br/>
+
+**English:**
+Media Documentarians have extended permissions for maintaining and ensuring the quality of data belonging to their own university. They take on a coordinating and curatorial role by editing institutional records, maintaining structured metadata and ensuring consistency of content. Their permissions are limited to their own institutional context, and they cannot modify data belonging to external universities.
 
 <br/>
 
@@ -285,6 +317,19 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 ## Manager:in
 `Manager`
 
+**Deutsch:**
+
+Manager:innen übernehmen eine übergeordnete organisatorische und administrative Verantwortung innerhalb ihrer Hochschulen. Neben den inhaltlichen Aufgaben der Mediendokumentar:innen verfügen sie über zusätzliche Steuerungs- und Freigaberechte, insbesondere im Hinblick auf Systemkonfigurationen, dem Veröffentlichen und der Lizenzverwaltung. Diese Rolle dient der instituionellen Kontrolle und strategischen Verwaltung der der hochschuleigenen Inhalte.
+
+<br/>
+
+---
+
+<br/>
+
+**English:**
+Managers have higher-level organisational and administrative responsibility within their university. In addition to the content-related tasks of Media Documentarians, they have extended control and approval rights, particularly regarding system configuration, the publication process and licence management. This role is responsible for institutional control and strategic management of the university's own content.
+
 <br/>
 
 ---
@@ -377,6 +422,20 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 ## Supermanager:in (Hochschul-IT)
 `Super Manager (University IT)`
 
+**Deutsch:**
+
+Supermanager:innen sind in der Regel in der Hochschul-IT angesiedelt und für die technische Benutzer:inennverwaltung auf Hochschulebene zuständig. Ihr Aufgabenbereich liegt primär in der Anlage, Verwaltung und Rollenvergabe von Benutzer:innen, nicht jedoch in der inhaltlichen und strukturellen Pflege der Daten. Diese Rolle stellt sicher, dass der Systemzugang und die Rollenverteilung innerhalb der Hochschule korrekt organisiert wird.
+
+<br/>
+
+---
+
+<br/>
+
+**English:**
+
+Super Managers are typically part of the university’s IT department and are responsible for technical user management at the institutional level. Their primary tasks include creating, managing and assigning roles to users, rather than maintaining content or structuring data. This role ensures that system access and role allocation within the university are properly organised.
+
 <br/>
 
 ---
@@ -439,6 +498,20 @@ Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling
 
 ## Technische Administrator:innen (Zentrale IT)
 `Technical Administrators (Central IT)`
+
+**Deutsch:**
+
+Technische Administrator:innen aus der zentralen IT übernehmen systemweite Aufgaben zur Wartung, Konfiguration und Absicherung der Plattform. Aus technischen und betrieblichen Gründen verfügen sie über uneingeschränkte Rechte über alle Hochschulen hinweg. Diese Rolle ist ausschließlich für den technischen Betrieb vorgesehen und nicht Teil der regulären inhaltlichen Nutzung.
+
+<br/>
+
+---
+
+<br/>
+
+**English:**
+
+Technical Administrators from a Central IT are responsible for system-wide maintenance, configuration and security of the platform. For technical and operational reasons, they have unrestricted access across all universities. This role is exclusively intended for technical operation and is not part of the regular content- and data-related system usage.
 
 <br/>
 
