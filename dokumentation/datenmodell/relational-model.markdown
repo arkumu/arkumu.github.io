@@ -495,11 +495,6 @@ This documentation deliberately focuses on the functional components of the data
 | Persistenter Identifikator (PI) | Persistenter Identifikator (PI) | 1 |  |  | Eindeutiger, standortunabhängiger Identifikator für ein Objekt in einer digitalen Umgebung. Persistente Identifikatoren gewährleisten über lange Zeiträume und eventuelle Systemwechsel hinaus zuverlässigen Zugriff auf die bezeichneten Objekte. Beispiele sind der Unified Resource Name (URN) oder der Digital Object Identifier (DOI). - auch GND Einträge z.B. für historische Tonträger. https://pro.deutsche-digitale-bibliothek.de/glossar/persistenter-identifikator-pi |  |  |
 | Informationsträgereigenschaft | Information Storage Medium Property | 0-n |  |  | Auswahl aus Informationsträgereigenschaft, z.B. Bildfrequenz |  |  |
 | Informationsträgereigenschaft-Wert | Information Storage Medium Property Value | [1] |  |  | im o.g. Beispiel dann z.b. "25 fps" |  |  |
-| Verknüpfte Sammlung | Linked Collection | 0-n |  |  |  |  |  |
-| Erstellt am | Created | 1 |  |  | Zeitstempel, in ISO 8601 |  |  |
-| Erstellt von | Created by | 1 |  |  |  |  |  |
-| Zuletzt geändert am | Last Modification | 1 |  |  | Zeitstempel, in ISO 8601 |  |  |
-| Zuletzt geändert von | Last modified by | 1 |  |  |  |  |  |
 
 
 <br/>
@@ -514,8 +509,8 @@ This documentation deliberately focuses on the functional components of the data
 
 ```Informationsträgertyp```
 
-| German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Deutscher Name | German Name | 1 |  |  |  |  |  |  |  |
 | Englischer Name | English Name | 1 |  |  |  |  |  |  | |
 | Deutsche Synonyme | German Synonyms | 0-n |  |  |  |  |  |  |  |
@@ -542,14 +537,14 @@ This documentation deliberately focuses on the functional components of the data
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutsches Wikidata-Label | German Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
-| Englisches Wikidata-Label | English Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
-| Deutsche Synonyme | German Synonyms | 0-n |  |  | Die deutschen Synonyme des Schlagworts | | | |
-| Englische Synonyme | English Synonyms | 0-n |  |  | Die englischen Synonyme des Schlagworts | | | |
-| Deutsche Beschreibung | German Description | 1 |  |  | Die deutsche Beschreibung des Schlagworts | | | |
-| Englische Beschreibung | English Description | 1 |  |  | Die englische Beschreibung des Schlagworts | | | |
-| Wikidata ID | Wikidata ID | 1 |  |  | Die englische Beschreibung des Schlagworts | | | |
-| GND-Nummer | GND ID | 0-1 |  |  |  |  |  |  |
+| [Deutsches Wikidata-Label](/documentation/data-model/graph-model#german-wikidata-label) | [German Wikidata Label](/documentation/data-model/graph-model#german-wikidata-label) | 1<br/>(handled automatically) | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
+| [Englisches Wikidata-Label](/documentation/data-model/graph-model#english-wikidata-label) | [English Wikidata Label](/documentation/data-model/graph-model#english-wikidata-label) | 1<br/>(handled automatically) | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
+| [Deutsche Wikidata-Synonyme](/documentation/data-model/graph-model#german-wikidata-synonym) | [German Wikidata Synonyms](/documentation/data-model/graph-model#german-wikidata-synonym) | 0-1<br/>(handled automatically) | ✓<br/>(comma separated) | | | Eine Reihe von kommagetrennten deutschen Synonymen des Schlagworts, aus Wikidata ausgelesen | A series of comma-separated German synonyms of the Keyword, retreived from Wikidata | | |
+| [Englische Wikidata-Synonyme](/documentation/data-model/graph-model#english-wikidata-synonym) | [English Wikidata Synonyms](/documentation/data-model/graph-model#english-wikidata-synonym) | 0-1<br/>(handled automatically) | ✓<br/>(comma separated) | | | Eine Reihe von kommagetrennten englischen Synonymen des Schlagworts, aus Wikidata ausgelesen | A series of comma-separated English synonyms of the Keyword, retreived from Wikidata | | |
+| [Deutsche Wikidata-Beschreibung](/documentation/data-model/graph-model#german-wikidata-description) | [German Wikidata Description](/documentation/data-model/graph-model#german-wikidata-description) | 0-1<br/>(handled automatically) | ⨉ | | | Eine deutsche Beschreibung des Schlagworts, aus Wikidata ausgelesen | A German description of the Keyword, retreived from Wikidata | | |
+| [Englische Wikidata-Beschreibung](/documentation/data-model/graph-model#english-wikidata-description) | [English Wikidata Description](/documentation/data-model/graph-model#english-wikidata-description) | 0-1<br/>(handled automatically) | ⨉ | | | Eine englische Beschreibung des Schlagworts, aus Wikidata ausgelesen | An English description of the Keyword, retreived from Wikidata | | |
+| [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1<br/>(handled automatically) | ⨉ | | | Wikidata-ID des Schlagworts, aus Wikidata ausgelesen | Wikidata ID of the Keyword, retrieved from Wikidata | | |
+| [GND-Nummer](/documentation/data-model/graph-model#gnd-id) | [GND ID](/documentation/data-model/graph-model#gnd-id) | 0-1<br/>(handled automatically) | ⨉ | | | GND-Nummer des Schlagworts, aus Wikidata ausgelesen | GND ID of the Keyword, retrieved from Wikidata | | |
 
 <br/>
 <br/>
@@ -646,8 +641,8 @@ This documentation deliberately focuses on the functional components of the data
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutsches Wikidata-Label | German Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
-| Englisches Wikidata-Label | English Wikidata Label | 1<br/>(handled automatically) | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
+| [Deutsches Wikidata-Label](/documentation/data-model/graph-model#german-wikidata-label) | [German Wikidata Label](/documentation/data-model/graph-model#german-wikidata-label) | 1<br/>(handled automatically) | ⨉ | | | Der deutsche Bezeichnung des Ortes, aus Wikidata ausgelesen | The German appelation of the place, retrieved from Wikidata | | |
+| [Englisches Wikidata-Label](/documentation/data-model/graph-model#english-wikidata-label) | [English Wikidata Label](/documentation/data-model/graph-model#english-wikidata-label) | 1<br/>(handled automatically) | ⨉ | | | Die englische Bezeichnung des Ortes, aus Wikidata ausgelesen | The English appelation of the place, retrieved from Wikidata | | |
 | Ortart | Place Type | 1<br/>(pre-selected automatically) | ⨉ | many-to-one<br/><sub>(each Place can have at most one Place Type; the same Place Type can be used for multiple Places)</sub> | [Place Type](#place-type) | Entweder: Kontinent (Q5107)<br/>Land (Q6256)<br/>Region Q82794<br/>Stadt (Q515)<br/>Genauer Ort<br/> Interner Ort| Either: Continent (Q5107)<br/>Country (Q6256)<br/>Region Q82794<br/>City (Q515)<br/>Exact location<br/>Internal location | | |
 | [Wikidata-ID](/documentation/data-model/graph-model#wikidata-id) | [Wikidata ID](/documentation/data-model/graph-model#wikidata-id) | 1<br/>(handled automatically) | ⨉ | | | Wikidata-ID des Ortes, aus Wikidata ausgelesen | Wikidata ID of the Place, retrieved from Wikidata | | |
 | [GND-Nummer](/documentation/data-model/graph-model#gnd-id) | [GND ID](/documentation/data-model/graph-model#gnd-id) | 0-1<br/>(handled automatically) | ⨉ | | | GND-Nummer des Ortes, aus Wikidata ausgelesen | GND ID of the Place, retrieved from Wikidata | | |
