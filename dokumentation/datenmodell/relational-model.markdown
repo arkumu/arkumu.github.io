@@ -410,6 +410,24 @@ This documentation deliberately focuses on the functional components of the data
 <br/>
 <br/>
 
+## Event Property
+
+`Ereignis-Eigenschaft`
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| Ereignis-Eigenschaft | Event Property | 1 | ⨉ | many-to-one<br/><sub>(each Event Property has exactly one Property; the same Property can be used for many Event Properties)</sub> | [Property](#property) | Die Art der Ereignis-Eigenschaft | The type of the Event Property | | |
+| Ereignis-Eigenschaft-Wert | Event Property Value | 1 | ⨉ | | | Der eigentliche Wert der Ereignis-Eigenschaft | The actual value of the Event Property | | |
+| [Ereignis](/documentation/data-model/graph-model#event) | [Event](/documentation/data-model/graph-model#event) | 1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each Event Property is assigned to exactly one Event; each Event may have multiple Event Properties)</sub> | [Event](#event) | Das Ereignis, welches die Eigenschaft trägt | The Event that has the Property | | |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
 ## Event Type
 
 `Ereignistyp`
@@ -494,6 +512,24 @@ This documentation deliberately focuses on the functional components of the data
 | Persistenter Identifikator (PI) | Persistenter Identifikator (PI) | 1 |  |  | Eindeutiger, standortunabhängiger Identifikator für ein Objekt in einer digitalen Umgebung. Persistente Identifikatoren gewährleisten über lange Zeiträume und eventuelle Systemwechsel hinaus zuverlässigen Zugriff auf die bezeichneten Objekte. Beispiele sind der Unified Resource Name (URN) oder der Digital Object Identifier (DOI). - auch GND Einträge z.B. für historische Tonträger. https://pro.deutsche-digitale-bibliothek.de/glossar/persistenter-identifikator-pi |  |  |
 | Informationsträgereigenschaft | Information Storage Medium Property | 0-n |  |  | Auswahl aus Informationsträgereigenschaft, z.B. Bildfrequenz |  |  |
 | Informationsträgereigenschaft-Wert | Information Storage Medium Property Value | [1] |  |  | im o.g. Beispiel dann z.b. "25 fps" |  |  |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## Information Storage Medium Property
+
+`Informationsträger-Eigenschaft`
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| Informationsträger-Eigenschaft | Information Storage Medium Property | 1 | ⨉ | many-to-one<br/><sub>(each Information Storage Medium Property has exactly one Property; the same Property can be used for many Information Storage Medium Properties)</sub> | [Property](#property) | Die Art der Informationsträger-Eigenschaft | The type of the Information Storage Medium Property | | |
+| Informationsträger-Eigenschaft-Wert | Information Storage Medium Property Value | 1 | ⨉ | | | Der eigentliche Wert der Informationsträger-Eigenschaft | The actual value of the Information Storage Medium Property | | |
+| [Informationsträger](/documentation/data-model/graph-model#information-storage-medium) | [Information Storage Medium](/documentation/data-model/graph-model#information-storage-medium) | 1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each Information Storage Medium Property is assigned to exactly one Information Storage Medium; each Information Storage Medium may have multiple Information Storage Medium Properties)</sub> | [Information Storage Medium](#information-storage-medium) | Der Informationsträger, welcher die Eigenschaft trägt | The Information Storage Medium that has the Property | | |
 
 <br/>
 <br/>
@@ -662,6 +698,24 @@ This documentation deliberately focuses on the functional components of the data
 <br/>
 <br/>
 
+## Product ID 
+
+`Produkt-ID`
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| Produkt-ID-Typ | Product ID Type | 1 | ⨉ | many-to-one<br/><sub>(each Product ID has exactly one Product ID Type; the same Product ID Type can be used for many Product IDs)</sub> | [Product ID Type](#product-id-type) | Die Art der Produkt-ID, z.B. "ISBN", "Matritzennummer", "Katalognummer", etc. | The type of the Product ID, e.g. "ISBN", "Matrix Number", "Catalogue Number", etc. | | |
+| [Produkt-ID-Wert](/documentation/data-model/graph-model#product-id-value) | [Product ID Value](/documentation/data-model/graph-model#product-id-value) | 1 | ⨉ | | | Die eigentliche Produkt-ID selber | The actual Product ID itself | | |
+| [Informationsträger](/documentation/data-model/graph-model#description-text#information-storage-medium) | [Information Storage Medium](/documentation/data-model/graph-model#description-text#information-storage-medium) | 1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each Product ID refers to exactly one Information Storage Medium; an Information Storage Medium may have multiple Product IDs)</sub> | [Information Storage Medium](#project) | Der Informationsträger, welcher die Produkt ID trägt und/oder durch welche er identifiziert wird | The Information Storage Medium that displays the Product ID and/or is identified by it | | |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
 ## Product ID Type
 
 `Produkt-ID-Typ`
@@ -779,6 +833,24 @@ This documentation deliberately focuses on the functional components of the data
 <br/>
 <br/>
 
+## Project Property
+
+`Projekt-Eigenschaft`
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| Projekt-Eigenschaft | Project Property | 1 | ⨉ | many-to-one<br/><sub>(each Project Property has exactly one Property; the same Property can be used for many Project Properties)</sub> | [Property](#property) | Die Art der Projekt-Eigenschaft | The type of the Project Property | | |
+| Projekt-Eigenschaft-Wert | Project Property Value | 1 | ⨉ | | | Der eigentliche Wert der Projekt-Eigenschaft | The actual value of the Project Property | | |
+| [Projekt](/documentation/data-model/graph-model#project) | [Project](/documentation/data-model/graph-model#project) | 1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each Project Property is assigned to exactly one Project; each Project may have multiple Project Properties)</sub> | [Project](#project) | Das Projekt, welches die Eigenschaft trägt | The Project that has the Property | | |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
 ## Project Type
 
 `Projektart`
@@ -830,7 +902,7 @@ This documentation deliberately focuses on the functional components of the data
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
-| [Ausgangsakteur:in](/documentation/data-model/graph-model#actor) | [Source Actor](/documentation/data-model/graph-model#actor) | 1<br/>(handled automatically by the Actor form) | ⨉ | many-to-one<br/>(each Actor–Actor record refers to exactly one Source Actor; an Actor may be the source of many relationships)</sub> | [Actor](#actor) | Die Akteur:in von der die Beziehung ausgeht | The Actor from whom the relationship goes out | | |
+| [Ausgangsakteur:in](/documentation/data-model/graph-model#actor) | [Source Actor](/documentation/data-model/graph-model#actor) | 1<br/>(handled automatically by the Actor form) | ⨉ | many-to-one<br/><sub>(each Actor–Actor record refers to exactly one Source Actor; an Actor may be the source of many relationships)</sub> | [Actor](#actor) | Die Akteur:in von der die Beziehung ausgeht | The Actor from whom the relationship goes out | | |
 | Beziehung | Relationship | 1 | ⨉ | | | Die Art der Beziehung zwischen der Ausgangsakteur:in und der verknüpften Akteur:in. Die Arten der Beziehungen sind der Datenmodell-Excel-Tabelle zu entnehmen | The type of relationship between the Source Actor and the Related Actor. The types of relationships can be found in the data model Excel table. | | |
 | [Verknüpfte:r Akteur:in](/documentation/data-model/graph-model#actor) | [Related Actor](/documentation/data-model/graph-model#actor) | 1 | ⨉ | many-to-one<br/><sub>(each Actor–Actor record refers to exactly one Related Actor; an Actor may be related to many other Actors)</sub> | [Actor](#actor) | Die verknüpfte Akteur:in der Verbindung | The Related Actor of the connection | | |
 
@@ -850,7 +922,7 @@ This documentation deliberately focuses on the functional components of the data
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
-| [Ausgangsereignis](/documentation/data-model/graph-model#event) | [Source Event](/documentation/data-model/graph-model#event) | 1<br/>(handled automatically by the Event form) | ⨉ | many-to-one<br/>(each Event–Event record refers to exactly one Source Event; an Event may be the source of many relationships)</sub> | [Event](#event) | Das Ereignis von dem die Beziehung ausgeht | The Event from which the relationship goes out | | |
+| [Ausgangsereignis](/documentation/data-model/graph-model#event) | [Source Event](/documentation/data-model/graph-model#event) | 1<br/>(handled automatically by the Event form) | ⨉ | many-to-one<br/><sub>(each Event–Event record refers to exactly one Source Event; an Event may be the source of many relationships)</sub> | [Event](#event) | Das Ereignis von dem die Beziehung ausgeht | The Event from which the relationship goes out | | |
 | Beziehung | Relationship | 1 | ⨉ | | | Die Art der Beziehung zwischen dem Ausgangsereignis und dem verknüpften Ereignis. Die Arten der Beziehungen sind der Datenmodell-Excel-Tabelle zu entnehmen | The type of relationship between the Source Event and the Related Event. The types of relationships can be found in the data model Excel table. | | |
 | [Verknüpftes Ereignis](/documentation/data-model/graph-model#event) | [Related Event](/documentation/data-model/graph-model#event) | 1 | ⨉ | many-to-one<br/><sub>(each Event–Event record refers to exactly one Related Event; an Event may be related to many other Events)</sub> | [Event](#event) | Das verknüpfte Ereignis der Verbindung | The Related Event of the connection | | |
 
@@ -870,7 +942,7 @@ This documentation deliberately focuses on the functional components of the data
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
-| [Ausgangsprojekt](/documentation/data-model/graph-model#project) | [Source Project](/documentation/data-model/graph-model#project) | 1<br/>(handled automatically by the Project form) | ⨉ | many-to-one<br/>(each Project–Project record refers to exactly one Source Project; a Project may be the source of many relationships)</sub> | [Project](#project) | Das Projekt von dem die Beziehung ausgeht | The Project from which the relationship goes out | | |
+| [Ausgangsprojekt](/documentation/data-model/graph-model#project) | [Source Project](/documentation/data-model/graph-model#project) | 1<br/>(handled automatically by the Project form) | ⨉ | many-to-one<br/><sub>(each Project–Project record refers to exactly one Source Project; a Project may be the source of many relationships)</sub> | [Project](#project) | Das Projekt von dem die Beziehung ausgeht | The Project from which the relationship goes out | | |
 | Beziehung | Relationship | 1 | ⨉ | | | Die Art der Beziehung zwischen dem Ausgangsprojekt und dem verknüpften Projekt. Die Arten der Beziehungen sind der Datenmodell-Excel-Tabelle zu entnehmen | The type of relationship between the Source Project and the Related Project. The types of relationships can be found in the data model Excel table. | | |
 | [Verknüpftes Projekt](/documentation/data-model/graph-model#project) | [Related Project](/documentation/data-model/graph-model#project) | 1 | ⨉ | many-to-one<br/><sub>(each Project–Project record refers to exactly one Related Project; a Project may be related to many other Projects)</sub> | [Project](#project) | Das verknüpfte Projekt der Verbindung | The Related Project of the connection | | |
 
@@ -912,16 +984,37 @@ This documentation deliberately focuses on the functional components of the data
 <br/>
 <br/>
 
+## User
+
+`Benutzer:in`
+
+| Diese Entität verwaltet die Benutzerkonten des Systems. Die Dokumentation dieser Entität beschränkt sich auf jene Felder, die besonders zentral für die rechtliche Zuordnung von Datensätzen zu den Hochschulen und bezüglich von Benutzer:innen-Rechten innerhalb des Systems relevant sind. | This entity manages the user accounts of the system. The documentation of this entity is limited to those fields that are particularly central for the legal assignment of records to the universities and regarding user rights within the system. |
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Hochschule der Benutzer:in | User University | 1<br/>(handled automatically or manually) | ⨉ | many-to-one<br/><sub>(each User belongs to excatly one ; a User may create multiple records)</sub> | [Depositing University](#depositing-university) | Die aktuelle oder letzte Hochschule der Benutzer:in | The User's current or most recent university | Kann sich über die Zeit ändern. Eine Anbindung an Shibboleth könnte für die Automatisierung dieses Feldes verwendet werden | May change over time. A connection to Shibboleth could be used for automating this field | 
+| Rolle der Benutzer:in | User Role | 1<br/>(handled automatically or manually) | ⨉ | | | Die Benutzer:innenrechte-Gruppe der jeweiligen Benutzer:in, z.B. "Mediendokumentar:in", "Manager:in" oder "Supermanager:in" | The user rights group of the respective User, e.g. "Media Documentarian", "Manager" or "Super Manager" | Siehe [Benutzerrechteverwaltung](/documentation/user-rights-management). Eine Anbindung an Shibboleth könnte für die Automatisierung dieses Feldes verwendet werden | See [User Rights Management](/documentation/user-rights-management). A connection to Shibboleth could be used for automating this field |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
 ## Fields required for Archiving, Technical and User Rights Purposes
 
 `Archivarisch, technsich und Nutzer:innen-rechtlich bedingte Felder`
 
-| German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Einliefernde Hochschule | Depositing University | 1 | [Depositing University](#depositing-university)<br/>(Derived from [User](#user)) | ⨉ | Die Hochschule, von der das eingelieferte Projekt kommt oder die für das eingelieferte Projekt (entfernt) verantwortlich ist. Die Einliefernde Hochschule ergibt sich aus der Hochschule der einliefernden User:in | The university from which the submitted project originates or which university is (remotely) responsible for the submitted project. The Depoting University is determined by the university of the depositing User | | |
-| Created at |  Erstellt am | 1 | | ⨉ | Ein Zeitstempel, der das erste speichern eines Datensatzes erfasst |  A timestamp that records the first time a data record is saved | | |
-| Created by |  Erstellt von | 1 | [User](#user) | ⨉ | Die Anzeige der Benutzerkennung der erstspeichernden Person | Display of the user ID of the person who first saved the data record | | |
-| Created in User Role |  Erstellt in Nutzer:innen-Rolle | 1 | Derived from [User](#user) | ⨉ | Die Benutzer:innen-Rolle der erstspeichernden Person  | The user role of the person who first saved the data record | | |
-| Last modified at | Zuletzt geändert am | 1 | | ⨉ | Ein Zeitstempel, der das aktuelle speichern eines Projekts erfasst | A timestamp that records the current saving of a project | | |
-| Last modified by | Zuletzt geändert von | 1 | [User](#user) | ⨉ | Die Anzeige der Benutzerkennung der letztspeichernden Person | Display of the user ID of the person who last saved the data record | | |
-| Last modified in User Role | Zuletzt geändert in Nutzer:innen-Rolle | 1 |  | ⨉ | Die Benutzer:innen-Rolle der aktuell speicehernden Person | The user role of the person who last saved the data record | | |
+| Die folgenden Felder sind Teil jeder Entität und treten daher hier gesammelt auf. | The following fields are part of every entity and are therefore listed here collectively. |
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Einliefernde Hochschule | Depositing University | 1<br/>(handled automatically) | ⨉ | Derived from User | [Depositing University](#depositing-university)<br/>(Derived from [User](#user)) | Die Hochschule, von der das eingelieferte Projekt kommt oder die für das eingelieferte Projekt (entfernt) verantwortlich ist. Die Einliefernde Hochschule ergibt sich aus der Hochschule der einliefernden Benutzer:in | The university from which the submitted Project originates or which university is (remotely) responsible for the submitted Project. The Depoting University is determined by the university of the depositing User | | |
+| Erstellt am | Created at | 1<br/>(handled automatically) | ⨉ | | | Ein Zeitstempel, der das erste speichern eines Datensatzes erfasst | A timestamp that records the first time a data record is saved | | |
+| Erstellt von | Created by | 1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each data record is created by exactly one User; a User may create multiple records)</sub> | [User](#user) | Die Anzeige der Benutzerkennung der erstspeichernden Person | Display of the User ID of the person who first saved the data record | | | 
+| Erstellt in Nutzer:innen-Rolle | Created in User Role | 1<br/>(handled automatically) | ⨉ | Derived from User at time of creation | Derived from [User](#user) | Die Benutzer:innen-Rolle der erstspeichernden Person | The User Role of the person who first saved the data record | | | 
+| Zuletzt geändert am | Last modified at | 1<br/>(handled automatically) | ⨉ | | | Ein Zeitstempel, der das aktuelle speichern eines Projekts erfasst | A timestamp that records the current saving of a Project | | |
+| Zuletzt geändert von | Last modified by | 1<br/>(handled automatically) | ⨉ | many-to-one<br/><sub>(each data record is last modified by exactly one User; a User may modify multiple records over time)</sub> | [User](#user) | Die Anzeige der Benutzerkennung der letztspeichernden Person | Display of the User ID of the person who last saved the data record | | |
+| Zuletzt geändert in Nutzer:innen-Rolle | Last modified in User Role | 1<br/>(handled automatically) | ⨉ | Derived from User at time of last modification | Derived from [User](#user) | Die Benutzer:innen-Rolle der aktuell speicehernden Person | The User Role of the person who last saved the data record | | |
