@@ -1,9 +1,11 @@
 ---
 layout: arkumu-docs
-title: ‼️ Team
+title: Team
 order: 1.1
 permalink: /project-structure/team
 ---
+
+Ab Anfang 2026 befindet sich arkumu.nrw in der Übergabe. Wir bedanken uns bei allen Mitarbeiter:innen, die an der Entwicklung des Projekts und an der Erfassung beteiligt waren.
 
 Während der dreijährigen Projektlaufzeit bestand das Team aus einer Gesamtprojektleiterin, zwei fachlichen Projektleitern und Mediendokumentar:innen an den jeweiligen Konsortialhochschulen. Zusätzlich gab es mehrere Stellen für Programmierung und IT, angesiedelt in der Diensteentwicklung des IT Center University of Cologne (ITCC).
 
