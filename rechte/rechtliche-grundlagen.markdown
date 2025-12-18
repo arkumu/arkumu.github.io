@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: ❗ Rechtliche Grundlagen
+title: Rechtliche Grundlagen
 order: 4.1
 permalink: /rights/legal-basis
 ---

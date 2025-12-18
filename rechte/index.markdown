@@ -1,6 +1,6 @@
 ---
 layout: arkumu-docs
-title: ❗ Rechte
+title: Rechte
 order: 4
 permalink: /rights/
 ---

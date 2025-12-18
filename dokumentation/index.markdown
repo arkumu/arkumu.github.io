@@ -21,7 +21,7 @@ permalink: /documentation/
     <span>Informationen über verwendete Soft- und Hardware und die Zusammenhänge von Systemkomponenten, Nutzer:innen, angebundenen Diensten und externen Institutionen.</span>
   </a>
 
-  <a href="/documentation/archived-holdings/" class="link-card">
+  <a href="/documentation/archived-holdings" class="link-card">
     <strong>Archivierte Bestände</strong>
     <span>Eine Übersicht über die erfassten Bestände an den Hochschulen.</span>
   </a>
@@ -32,8 +32,8 @@ permalink: /documentation/
   </a>
 
 
-  <a href="/documentation/design" class="link-card">
-    <strong>Design</strong>
+  <a href="/documentation/gestaltung" class="link-card">
+    <strong>Gestaltung</strong>
     <span>Informationen zum Webseiten-Designs und seinen Elementen.</span>
   </a>
 

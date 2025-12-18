@@ -141,3 +141,7 @@ arkumu.nrw will Daten und Metadaten in einer Weise speichern, die die Arbeit und
 ### Wo kann man die Werke und Projekte sehen? 
 
 Das [Web-Portal](/documentation/infrastructure#web-portal) wird derzeit mit dem [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) und unseren Teammitgliedern vom ITCC der Universität zu Köln entwickelt und geht 2025 online.
+
+---- An wen wende ich mich nach Ende der Projektlaufzeit mit Fragen zum Projekt arkumu.nrw?
+
+### Wenden sie sich bitte an Prof. Andreas Grimm von der konsortialführenden Hochschule, der [RSH Düsseldorf](https://www.rsh-duesseldorf.de/).
