@@ -23,9 +23,9 @@ Die Rechteinhaber:innen bestätigen außerdem, dass alle Personen genannt worden
 
 Auf den folgenden Seiten finden Sie die vollständigen Texte der einzelnen Lizenzen samt Resolver-URI, mit welcher sie referenziert werden können:
 
-  * [**arkumu-A 1.0**](https://docs.arkumu.nrw/rights/licences/arkumu-a-1.0)
-  * [**arkumu-A+B 1.0**](https://docs.arkumu.nrw/rights/licences/arkumu-a+b-1.0)
-  * [**arkumu-A+B+C 1.0**](https://docs.arkumu.nrw/rights/licences/arkumu-a+b+c-1.0)
+  * [**arkumu-A 1.0**](/rights/licences/arkumu-a-1.0/)
+  * [**arkumu-A+B 1.0**](/rights/licences/arkumu-a+b-1.0/)
+  * [**arkumu-A+B+C 1.0**](/rights/licences/arkumu-a+b+c-1.0/)
 
 ----
 
