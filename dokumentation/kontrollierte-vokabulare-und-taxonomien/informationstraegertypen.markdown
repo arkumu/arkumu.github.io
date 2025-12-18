@@ -632,7 +632,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1 Zoll A Videoband](#information-storage-medium-type-32) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1 Inch Type A Videotape](#information-storage-medium-type-32) |
-| **Wikidata ID** | [Q3597951](https://www.wikidata.org/entityQ3597951) |
+| **Wikidata ID** | [Q3597951](https://www.wikidata.org/entity/Q3597951) |
 
 <br/>
 <br/>
@@ -656,7 +656,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1 Zoll B Videoband](#information-storage-medium-type-33) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1 Inch Type B Videotape](#information-storage-medium-type-33) |
-| **Wikidata ID** | [Q3597955](https://www.wikidata.org/entityQ3597955) |
+| **Wikidata ID** | [Q3597955](https://www.wikidata.org/entity/Q3597955) |
 
 <br/>
 <br/>
@@ -680,7 +680,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1 Zoll A Videoband](#information-storage-medium-type-32) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1 Inch Type A Videotape](#information-storage-medium-type-32) |
-| **Wikidata ID** | [Q3597951](https://www.wikidata.org/entityQ3597951) |
+| **Wikidata ID** | [Q3597951](https://www.wikidata.org/entity/Q3597951) |
 
 <br/>
 <br/>
@@ -704,7 +704,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1 Zoll B Videoband](#information-storage-medium-type-33) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1 Inch Type B Videotape](#information-storage-medium-type-33) |
-| **Wikidata ID** | [Q3597955](https://www.wikidata.org/entityQ3597955) |
+| **Wikidata ID** | [Q3597955](https://www.wikidata.org/entity/Q3597955) |
 
 <br/>
 <br/>
@@ -728,7 +728,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1 Zoll C Videoband](#information-storage-medium-type-34) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1 Inch Type C Videotape](#information-storage-medium-type-34) |
-| **Wikidata ID** | [Q209020](https://www.wikidata.org/entityQ209020) |
+| **Wikidata ID** | [Q209020](https://www.wikidata.org/entity/Q209020) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#1InchVideotape> |
 
 <br/>
@@ -753,7 +753,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1/2 Zoll Videoband](#information-storage-medium-type-35) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1/2 Inch Videotape](#information-storage-medium-type-35) |
-| **Wikidata ID** | [Q3748136](https://www.wikidata.org/entityQ3748136) |
+| **Wikidata ID** | [Q3748136](https://www.wikidata.org/entity/Q3748136) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#HalfInchVideotape> |
 
 <br/>
@@ -778,7 +778,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [1/4 Zoll Videoband](#information-storage-medium-type-36) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [1/4 Inch Videotape](#information-storage-medium-type-36) |
-| **Wikidata ID** | [Q4700172](https://www.wikidata.org/entityQ4700172) |
+| **Wikidata ID** | [Q4700172](https://www.wikidata.org/entity/Q4700172) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#QuarterInchVideotape> |
 
 <br/>
@@ -802,7 +802,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [16 mm Negativfilm](#information-storage-medium-type-97) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [16 mm Negative Film](#information-storage-medium-type-97) |
-| **Wikidata ID** | [Q194383](https://www.wikidata.org/entityQ194383) |
+| **Wikidata ID** | [Q194383](https://www.wikidata.org/entity/Q194383) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#16mmFilm> |
 
 <br/>
@@ -827,7 +827,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [16 mm Positivfilm](#information-storage-medium-type-96) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [16 mm Positive Film](#information-storage-medium-type-96) |
-| **Wikidata ID** | [Q194383](https://www.wikidata.org/entityQ194383) |
+| **Wikidata ID** | [Q194383](https://www.wikidata.org/entity/Q194383) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#16mmFilm> |
 
 <br/>
@@ -852,7 +852,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Open Reel Videotape](#information-storage-medium-type-31) |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) > [2 Zoll Videoband](#information-storage-medium-type-37) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) > [2 Inch Videotape](#information-storage-medium-type-37) |
-| **Wikidata ID** | [Q122763358](https://www.wikidata.org/entityQ122763358) |
+| **Wikidata ID** | [Q122763358](https://www.wikidata.org/entity/Q122763358) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#2InchVideotape> |
 
 <br/>
@@ -877,7 +877,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [22 mm Positivfilm](#information-storage-medium-type-100) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [22 mm Positive Film](#information-storage-medium-type-100) |
-| **Wikidata ID** | [Q122811318](https://www.wikidata.org/entityQ122811318) |
+| **Wikidata ID** | [Q122811318](https://www.wikidata.org/entity/Q122811318) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#22mmFilm> |
 
 <br/>
@@ -902,7 +902,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [28 mm Positivfilm](#information-storage-medium-type-101) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [28 mm Positive Film](#information-storage-medium-type-101) |
-| **Wikidata ID** | [Q122811337](https://www.wikidata.org/entityQ122811337) |
+| **Wikidata ID** | [Q122811337](https://www.wikidata.org/entity/Q122811337) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#28mmFilm> |
 
 <br/>
@@ -928,7 +928,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Storage Medium](#information-storage-medium-type-125) |
 | **German Breadcrumb** | [Magnetischer Datenträger](#information-storage-medium-type-125) > [3,5" Diskette](#information-storage-medium-type-126) |
 | **English Breadcrumb** | [Magnetic Storage Medium](#information-storage-medium-type-125) > [3,5" Floppy Disk](#information-storage-medium-type-126) |
-| **Wikidata ID** | [Q37753524](https://www.wikidata.org/entityQ37753524) |
+| **Wikidata ID** | [Q37753524](https://www.wikidata.org/entity/Q37753524) |
 
 <br/>
 <br/>
@@ -951,7 +951,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [35 mm Photo Film](#information-storage-medium-type-108) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Kleinbildfilm](#information-storage-medium-type-108) > [Schwarzweiß-Kleinbildfilm](#information-storage-medium-type-111) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [35 mm Photo Film](#information-storage-medium-type-108) > [35 mm Black-and-White Photographic Film](#information-storage-medium-type-111) |
-| **Wikidata ID** | [Q2254548](https://www.wikidata.org/entityQ2254548) |
+| **Wikidata ID** | [Q2254548](https://www.wikidata.org/entity/Q2254548) |
 
 <br/>
 <br/>
@@ -974,7 +974,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [35 mm Negativfilm](#information-storage-medium-type-103) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [35 mm Negative Film](#information-storage-medium-type-103) |
-| **Wikidata ID** | [Q226528](https://www.wikidata.org/entityQ226528) |
+| **Wikidata ID** | [Q226528](https://www.wikidata.org/entity/Q226528) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#35mmFilm> |
 
 <br/>
@@ -998,7 +998,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [35 mm Photo Film](#information-storage-medium-type-108) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Kleinbildfilm](#information-storage-medium-type-108) > [Negativ-Kleinbildfilm](#information-storage-medium-type-110) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [35 mm Photo Film](#information-storage-medium-type-108) > [35 mm Negative Photographic Film](#information-storage-medium-type-110) |
-| **Wikidata ID** | [Q595597](https://www.wikidata.org/entityQ595597) |
+| **Wikidata ID** | [Q595597](https://www.wikidata.org/entity/Q595597) |
 
 <br/>
 <br/>
@@ -1022,7 +1022,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Photographic Film](#information-storage-medium-type-106) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Kleinbildfilm](#information-storage-medium-type-108) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [35 mm Photo Film](#information-storage-medium-type-108) |
-| **Wikidata ID** | [Q1051557](https://www.wikidata.org/entityQ1051557) |
+| **Wikidata ID** | [Q1051557](https://www.wikidata.org/entity/Q1051557) |
 | **AAT ID** | [300263816](https://vocab.getty.edu/aat/300263816) |
 
 <br/>
@@ -1047,7 +1047,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [35 mm Positivfilm](#information-storage-medium-type-102) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [35 mm Positive Film](#information-storage-medium-type-102) |
-| **Wikidata ID** | [Q226528](https://www.wikidata.org/entityQ226528) |
+| **Wikidata ID** | [Q226528](https://www.wikidata.org/entity/Q226528) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#35mmFilm> |
 
 <br/>
@@ -1073,7 +1073,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [35 mm Photo Film](#information-storage-medium-type-108) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Kleinbildfilm](#information-storage-medium-type-108) > [Diapositiv-Kleinbildfilm](#information-storage-medium-type-109) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [35 mm Photo Film](#information-storage-medium-type-108) > [35 mm Reversal Photographic Film](#information-storage-medium-type-109) |
-| **Wikidata ID** | [Q166816](https://www.wikidata.org/entityQ166816) |
+| **Wikidata ID** | [Q166816](https://www.wikidata.org/entity/Q166816) |
 
 <br/>
 <br/>
@@ -1098,7 +1098,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Storage Medium](#information-storage-medium-type-125) |
 | **German Breadcrumb** | [Magnetischer Datenträger](#information-storage-medium-type-125) > [5,25" Diskette](#information-storage-medium-type-127) |
 | **English Breadcrumb** | [Magnetic Storage Medium](#information-storage-medium-type-125) > [5,25" Floppy Disk](#information-storage-medium-type-127) |
-| **Wikidata ID** | [Q55194959](https://www.wikidata.org/entityQ55194959) |
+| **Wikidata ID** | [Q55194959](https://www.wikidata.org/entity/Q55194959) |
 
 <br/>
 <br/>
@@ -1121,7 +1121,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [70 mm Negativfilm](#information-storage-medium-type-105) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [70 mm Negative Film](#information-storage-medium-type-105) |
-| **Wikidata ID** | [Q261242](https://www.wikidata.org/entityQ261242) |
+| **Wikidata ID** | [Q261242](https://www.wikidata.org/entity/Q261242) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#70mmFilm> |
 
 <br/>
@@ -1146,7 +1146,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [70 mm Positivfilm](#information-storage-medium-type-104) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [70 mm Positive Film](#information-storage-medium-type-104) |
-| **Wikidata ID** | [Q261242](https://www.wikidata.org/entityQ261242) |
+| **Wikidata ID** | [Q261242](https://www.wikidata.org/entity/Q261242) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#70mmFilm> |
 
 <br/>
@@ -1170,7 +1170,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [8 mm Negativfilm](#information-storage-medium-type-93) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [8 mm Negative Film](#information-storage-medium-type-93) |
-| **Wikidata ID** | [Q270183](https://www.wikidata.org/entityQ270183) |
+| **Wikidata ID** | [Q270183](https://www.wikidata.org/entity/Q270183) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#8mmFilm> |
 
 <br/>
@@ -1195,7 +1195,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [8 mm Positivfilm](#information-storage-medium-type-92) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [8 mm Positive Film](#information-storage-medium-type-92) |
-| **Wikidata ID** | [Q270183](https://www.wikidata.org/entityQ270183) |
+| **Wikidata ID** | [Q270183](https://www.wikidata.org/entity/Q270183) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#8mmFilm> |
 
 <br/>
@@ -1221,7 +1221,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [8-Spur-Kassette](#information-storage-medium-type-67) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [8-track Tape](#information-storage-medium-type-67) |
-| **Wikidata ID** | [Q270171](https://www.wikidata.org/entityQ270171) |
+| **Wikidata ID** | [Q270171](https://www.wikidata.org/entity/Q270171) |
 | **GND ID** | [7690297-3](https://d-nb.info/gnd/7690297-3) |
 | **AAT ID** | [300423982](https://vocab.getty.edu/aat/300423982) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#8Track> |
@@ -1248,7 +1248,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [9.5 mm Film](#information-storage-medium-type-95) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [9.5 mm Film](#information-storage-medium-type-95) |
-| **Wikidata ID** | [Q275007](https://www.wikidata.org/entityQ275007) |
+| **Wikidata ID** | [Q275007](https://www.wikidata.org/entity/Q275007) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#9andaHalfmmFilm> |
 
 <br/>
@@ -1273,7 +1273,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [ADAT](#information-storage-medium-type-80) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [ADAT](#information-storage-medium-type-80) |
-| **Wikidata ID** | [Q959675](https://www.wikidata.org/entityQ959675) |
+| **Wikidata ID** | [Q959675](https://www.wikidata.org/entity/Q959675) |
 
 <br/>
 <br/>
@@ -1296,7 +1296,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Photographic Film](#information-storage-medium-type-106) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [APS-Film](#information-storage-medium-type-107) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [APS Film](#information-storage-medium-type-107) |
-| **Wikidata ID** | [Q15781213](https://www.wikidata.org/entityQ15781213) |
+| **Wikidata ID** | [Q15781213](https://www.wikidata.org/entity/Q15781213) |
 
 <br/>
 <br/>
@@ -1320,7 +1320,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Kompaktkassette](#information-storage-medium-type-60) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Audio Cassette](#information-storage-medium-type-60) |
-| **Wikidata ID** | [Q149757](https://www.wikidata.org/entityQ149757) |
+| **Wikidata ID** | [Q149757](https://www.wikidata.org/entity/Q149757) |
 | **GND ID** | [4036993-6](https://d-nb.info/gnd/4036993-6) |
 
 <br/>
@@ -1345,7 +1345,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Opto-digitaler Tonträger](#information-storage-medium-type-84) > [Audio-CD](#information-storage-medium-type-85) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) > [Audio CD](#information-storage-medium-type-85) |
-| **Wikidata ID** | [Q1121020](https://www.wikidata.org/entityQ1121020) |
+| **Wikidata ID** | [Q1121020](https://www.wikidata.org/entity/Q1121020) |
 | **GND ID** | [4346365-4](https://d-nb.info/gnd/4346365-4) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#AudioCD> |
 
@@ -1370,7 +1370,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Betacam](#information-storage-medium-type-2) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Betacam](#information-storage-medium-type-2) |
-| **Wikidata ID** | [Q830910](https://www.wikidata.org/entityQ830910) |
+| **Wikidata ID** | [Q830910](https://www.wikidata.org/entity/Q830910) |
 | **AAT ID** | [300264686](https://vocab.getty.edu/aat/300264686) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Betacam> |
 
@@ -1395,7 +1395,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Betacam](#information-storage-medium-type-2) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Betacam](#information-storage-medium-type-2) > [Betacam SP](#information-storage-medium-type-3) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Betacam](#information-storage-medium-type-2) > [Betacam SP](#information-storage-medium-type-3) |
-| **Wikidata ID** | [Q830904](https://www.wikidata.org/entityQ830904) |
+| **Wikidata ID** | [Q830904](https://www.wikidata.org/entity/Q830904) |
 | **AAT ID** | [300264687](https://vocab.getty.edu/aat/300264687) |
 
 <br/>
@@ -1419,7 +1419,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Betacam](#information-storage-medium-type-2) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Betacam](#information-storage-medium-type-2) > [Betacam SX](#information-storage-medium-type-4) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Betacam](#information-storage-medium-type-2) > [Betacam SX](#information-storage-medium-type-4) |
-| **Wikidata ID** | [Q361797](https://www.wikidata.org/entityQ361797) |
+| **Wikidata ID** | [Q361797](https://www.wikidata.org/entity/Q361797) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#BetacamSX> |
 
 <br/>
@@ -1443,7 +1443,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Betamax](#information-storage-medium-type-5) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Betamax](#information-storage-medium-type-5) |
-| **Wikidata ID** | [Q690148](https://www.wikidata.org/entityQ690148) |
+| **Wikidata ID** | [Q690148](https://www.wikidata.org/entity/Q690148) |
 | **AAT ID** | [300404417](https://vocab.getty.edu/aat/300404417) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Betamax> |
 
@@ -1469,7 +1469,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Opto-digitaler Tonträger](#information-storage-medium-type-84) > [Blu-ray Audio Disc](#information-storage-medium-type-89) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) > [Blu-ray Audio Disc](#information-storage-medium-type-89) |
-| **Wikidata ID** | [Q17029503](https://www.wikidata.org/entityQ17029503) |
+| **Wikidata ID** | [Q17029503](https://www.wikidata.org/entity/Q17029503) |
 | **GND ID** | [1070506834](https://d-nb.info/gnd/1070506834) |
 
 <br/>
@@ -1494,7 +1494,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [Blu-ray Video Disc](#information-storage-medium-type-39) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [Blu-ray Video Disc](#information-storage-medium-type-39) |
-| **Wikidata ID** | [Q47770](https://www.wikidata.org/entityQ47770) |
+| **Wikidata ID** | [Q47770](https://www.wikidata.org/entity/Q47770) |
 | **GND ID** | [7597887-8](https://d-nb.info/gnd/7597887-8) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#BluRayDisc> |
 
@@ -1519,7 +1519,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Catrivision](#information-storage-medium-type-6) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Catrivision](#information-storage-medium-type-6) |
-| **Wikidata ID** | [Q5047444](https://www.wikidata.org/entityQ5047444) |
+| **Wikidata ID** | [Q5047444](https://www.wikidata.org/entity/Q5047444) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Catrivision> |
 
 <br/>
@@ -1543,7 +1543,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Grooved Analog Disc](#information-storage-medium-type-53) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Schallplatte](#information-storage-medium-type-53) > [Normalrillen-Schallplatte](#information-storage-medium-type-54) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Grooved Analog Disc](#information-storage-medium-type-53) > [Coarse Groove Record](#information-storage-medium-type-54) |
-| **Wikidata ID** | [Q123118095](https://www.wikidata.org/entityQ123118095) |
+| **Wikidata ID** | [Q123118095](https://www.wikidata.org/entity/Q123118095) |
 | **GND ID** | [4135113-7](https://d-nb.info/gnd/4135113-7) |
 
 <br/>
@@ -1567,7 +1567,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Opto-digitaler Tonträger](#information-storage-medium-type-84) > [Compact LaserDisc](#information-storage-medium-type-86) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) > [Compact LaserDisc](#information-storage-medium-type-86) |
-| **Wikidata ID** | [Q123120280](https://www.wikidata.org/entityQ123120280) |
+| **Wikidata ID** | [Q123120280](https://www.wikidata.org/entity/Q123120280) |
 
 <br/>
 <br/>
@@ -1590,7 +1590,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [D1](#information-storage-medium-type-7) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [D1](#information-storage-medium-type-7) |
-| **Wikidata ID** | [Q1151486](https://www.wikidata.org/entityQ1151486) |
+| **Wikidata ID** | [Q1151486](https://www.wikidata.org/entity/Q1151486) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#D1> |
 
 <br/>
@@ -1614,7 +1614,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [D2](#information-storage-medium-type-8) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [D2](#information-storage-medium-type-8) |
-| **Wikidata ID** | [Q1158883](https://www.wikidata.org/entityQ1158883) |
+| **Wikidata ID** | [Q1158883](https://www.wikidata.org/entity/Q1158883) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#D2> |
 
 <br/>
@@ -1638,7 +1638,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [D3](#information-storage-medium-type-9) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [D3](#information-storage-medium-type-9) |
-| **Wikidata ID** | [Q736474](https://www.wikidata.org/entityQ736474) |
+| **Wikidata ID** | [Q736474](https://www.wikidata.org/entity/Q736474) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#D3> |
 
 <br/>
@@ -1662,7 +1662,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [D5](#information-storage-medium-type-10) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [D5](#information-storage-medium-type-10) |
-| **Wikidata ID** | [Q2738019](https://www.wikidata.org/entityQ2738019) |
+| **Wikidata ID** | [Q2738019](https://www.wikidata.org/entity/Q2738019) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#D5> |
 
 <br/>
@@ -1687,7 +1687,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [D6](#information-storage-medium-type-11) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [D6](#information-storage-medium-type-11) |
-| **Wikidata ID** | [Q3700253](https://www.wikidata.org/entityQ3700253) |
+| **Wikidata ID** | [Q3700253](https://www.wikidata.org/entity/Q3700253) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#D6> |
 
 <br/>
@@ -1712,7 +1712,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [D9](#information-storage-medium-type-12) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [D9](#information-storage-medium-type-12) |
-| **Wikidata ID** | [Q1151555](https://www.wikidata.org/entityQ1151555) |
+| **Wikidata ID** | [Q1151555](https://www.wikidata.org/entity/Q1151555) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#D9> |
 
 <br/>
@@ -1736,7 +1736,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [DASH-Tonband](#information-storage-medium-type-74) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [DASH Open Reel Tape](#information-storage-medium-type-74) |
-| **Wikidata ID** | [Q497444](https://www.wikidata.org/entityQ497444) |
+| **Wikidata ID** | [Q497444](https://www.wikidata.org/entity/Q497444) |
 
 <br/>
 <br/>
@@ -1759,7 +1759,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [DAT](#information-storage-medium-type-79) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [DAT](#information-storage-medium-type-79) |
-| **Wikidata ID** | [Q597615](https://www.wikidata.org/entityQ597615) |
+| **Wikidata ID** | [Q597615](https://www.wikidata.org/entity/Q597615) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#DAT> |
 
 <br/>
@@ -1785,7 +1785,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
 | **German Breadcrumb** | [Optischer Datenträger](#information-storage-medium-type-120) > [Daten-Blu-ray](#information-storage-medium-type-122) |
 | **English Breadcrumb** | [Optical Storage Medium](#information-storage-medium-type-120) > [Data Blu-ray](#information-storage-medium-type-122) |
-| **Wikidata ID** | [Q47770](https://www.wikidata.org/entityQ47770) |
+| **Wikidata ID** | [Q47770](https://www.wikidata.org/entity/Q47770) |
 
 <br/>
 <br/>
@@ -1809,7 +1809,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
 | **German Breadcrumb** | [Optischer Datenträger](#information-storage-medium-type-120) > [Daten-CD](#information-storage-medium-type-124) |
 | **English Breadcrumb** | [Optical Storage Medium](#information-storage-medium-type-120) > [Data CD](#information-storage-medium-type-124) |
-| **Wikidata ID** | [Q7982](https://www.wikidata.org/entityQ7982) |
+| **Wikidata ID** | [Q7982](https://www.wikidata.org/entity/Q7982) |
 
 <br/>
 <br/>
@@ -1833,7 +1833,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
 | **German Breadcrumb** | [Optischer Datenträger](#information-storage-medium-type-120) > [Daten-DVD](#information-storage-medium-type-121) |
 | **English Breadcrumb** | [Optical Storage Medium](#information-storage-medium-type-120) > [Data DVD](#information-storage-medium-type-121) |
-| **Wikidata ID** | [Q5294](https://www.wikidata.org/entityQ5294) |
+| **Wikidata ID** | [Q5294](https://www.wikidata.org/entity/Q5294) |
 
 <br/>
 <br/>
@@ -1856,7 +1856,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [DCT](#information-storage-medium-type-13) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [DCT](#information-storage-medium-type-13) |
-| **Wikidata ID** | [Q3700309](https://www.wikidata.org/entityQ3700309) |
+| **Wikidata ID** | [Q3700309](https://www.wikidata.org/entity/Q3700309) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#DCT> |
 
 <br/>
@@ -1880,7 +1880,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Dictabelt](#information-storage-medium-type-48) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Dictabelt](#information-storage-medium-type-48) |
-| **Wikidata ID** | [Q5273930](https://www.wikidata.org/entityQ5273930) |
+| **Wikidata ID** | [Q5273930](https://www.wikidata.org/entity/Q5273930) |
 | **AAT ID** | [300424575](https://vocab.getty.edu/aat/300424575) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#GroovedDictabelt> |
 
@@ -1905,7 +1905,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Phonograph Cylinder](#information-storage-medium-type-49) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Phonographenwalze](#information-storage-medium-type-49) > [Diktat-Zylinder](#information-storage-medium-type-52) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Phonograph Cylinder](#information-storage-medium-type-49) > [Dictation Cylinder](#information-storage-medium-type-52) |
-| **Wikidata ID** | [Q123118001](https://www.wikidata.org/entityQ123118001) |
+| **Wikidata ID** | [Q123118001](https://www.wikidata.org/entity/Q123118001) |
 | **AAT ID** | [300424576](https://vocab.getty.edu/aat/300424576) |
 
 <br/>
@@ -1928,7 +1928,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Digitaler Tonträger |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) |
-| **Wikidata ID** | [Q123118716](https://www.wikidata.org/entityQ123118716) |
+| **Wikidata ID** | [Q123118716](https://www.wikidata.org/entity/Q123118716) |
 
 <br/>
 <br/>
@@ -1952,7 +1952,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Digital Betacam](#information-storage-medium-type-14) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Digital Betacam](#information-storage-medium-type-14) |
-| **Wikidata ID** | [Q1751553](https://www.wikidata.org/entityQ1751553) |
+| **Wikidata ID** | [Q1751553](https://www.wikidata.org/entity/Q1751553) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#DigitalBetacam> |
 
 <br/>
@@ -1977,7 +1977,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [Digital Compact Cassette](#information-storage-medium-type-82) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [Digital Compact Cassette](#information-storage-medium-type-82) |
-| **Wikidata ID** | [Q598944](https://www.wikidata.org/entityQ598944) |
+| **Wikidata ID** | [Q598944](https://www.wikidata.org/entity/Q598944) |
 
 <br/>
 <br/>
@@ -2001,7 +2001,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Digital8](#information-storage-medium-type-15) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Digital8](#information-storage-medium-type-15) |
-| **Wikidata ID** | [Q930337](https://www.wikidata.org/entityQ930337) |
+| **Wikidata ID** | [Q930337](https://www.wikidata.org/entity/Q930337) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Digital8> |
 
 <br/>
@@ -2026,7 +2026,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [DTRS](#information-storage-medium-type-81) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [DTRS](#information-storage-medium-type-81) |
-| **Wikidata ID** | [Q938907](https://www.wikidata.org/entityQ938907) |
+| **Wikidata ID** | [Q938907](https://www.wikidata.org/entity/Q938907) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#DTRS> |
 
 <br/>
@@ -2050,7 +2050,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [DV](#information-storage-medium-type-16) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [DV](#information-storage-medium-type-16) |
-| **Wikidata ID** | [Q3796889](https://www.wikidata.org/entityQ3796889) |
+| **Wikidata ID** | [Q3796889](https://www.wikidata.org/entity/Q3796889) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#DV> |
 
 <br/>
@@ -2074,7 +2074,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [DVCAM](#information-storage-medium-type-17) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [DVCAM](#information-storage-medium-type-17) |
-| **Wikidata ID** | [Q1361160](https://www.wikidata.org/entityQ1361160) |
+| **Wikidata ID** | [Q1361160](https://www.wikidata.org/entity/Q1361160) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#DVCAM> |
 
 <br/>
@@ -2099,7 +2099,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [DVCPRO](#information-storage-medium-type-18) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [DVCPRO](#information-storage-medium-type-18) |
-| **Wikidata ID** | [Q20183259](https://www.wikidata.org/entityQ20183259) |
+| **Wikidata ID** | [Q20183259](https://www.wikidata.org/entity/Q20183259) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#DVCPRO> |
 
 <br/>
@@ -2124,7 +2124,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Opto-digitaler Tonträger](#information-storage-medium-type-84) > [DVD-Audio](#information-storage-medium-type-88) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) > [DVD-Audio](#information-storage-medium-type-88) |
-| **Wikidata ID** | [Q117678](https://www.wikidata.org/entityQ117678) |
+| **Wikidata ID** | [Q117678](https://www.wikidata.org/entity/Q117678) |
 | **GND ID** | [4585129-3](https://d-nb.info/gnd/4585129-3) |
 
 <br/>
@@ -2149,7 +2149,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [EVD](#information-storage-medium-type-41) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [EVD](#information-storage-medium-type-41) |
-| **Wikidata ID** | [Q1152899](https://www.wikidata.org/entityQ1152899) |
+| **Wikidata ID** | [Q1152899](https://www.wikidata.org/entity/Q1152899) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#EVD> |
 
 <br/>
@@ -2173,7 +2173,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Executive Cassette](#information-storage-medium-type-61) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Executive Cassette](#information-storage-medium-type-61) |
-| **Wikidata ID** | [Q122763527](https://www.wikidata.org/entityQ122763527) |
+| **Wikidata ID** | [Q122763527](https://www.wikidata.org/entity/Q122763527) |
 
 <br/>
 <br/>
@@ -2197,7 +2197,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Fidelipac](#information-storage-medium-type-65) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Fidelipac](#information-storage-medium-type-65) |
-| **Wikidata ID** | [Q2340980](https://www.wikidata.org/entityQ2340980) |
+| **Wikidata ID** | [Q2340980](https://www.wikidata.org/entity/Q2340980) |
 
 <br/>
 <br/>
@@ -2220,7 +2220,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Schallplatte](#information-storage-medium-type-53) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Grooved Analog Disc](#information-storage-medium-type-53) |
-| **Wikidata ID** | [Q16629185](https://www.wikidata.org/entityQ16629185) |
+| **Wikidata ID** | [Q16629185](https://www.wikidata.org/entity/Q16629185) |
 | **GND ID** | [4052032-8](https://d-nb.info/gnd/4052032-8) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#GroovedAnalogDisc> |
 
@@ -2247,7 +2247,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Storage Medium](#information-storage-medium-type-125) |
 | **German Breadcrumb** | [Magnetischer Datenträger](#information-storage-medium-type-125) > [HD](#information-storage-medium-type-128) |
 | **English Breadcrumb** | [Magnetic Storage Medium](#information-storage-medium-type-125) > [HD](#information-storage-medium-type-128) |
-| **Wikidata ID** | [Q4439](https://www.wikidata.org/entityQ4439) |
+| **Wikidata ID** | [Q4439](https://www.wikidata.org/entity/Q4439) |
 | **GND ID** | [4192018-1](https://d-nb.info/gnd/4192018-1) |
 | **AAT ID** | [300266294](https://vocab.getty.edu/aat/300266294) |
 
@@ -2273,7 +2273,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [HDCAM](#information-storage-medium-type-19) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [HDCAM](#information-storage-medium-type-19) |
-| **Wikidata ID** | [Q1194529](https://www.wikidata.org/entityQ1194529) |
+| **Wikidata ID** | [Q1194529](https://www.wikidata.org/entity/Q1194529) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#HDCAM> |
 
 <br/>
@@ -2297,7 +2297,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [HDV](#information-storage-medium-type-20) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [HDV](#information-storage-medium-type-20) |
-| **Wikidata ID** | [Q1563058](https://www.wikidata.org/entityQ1563058) |
+| **Wikidata ID** | [Q1563058](https://www.wikidata.org/entity/Q1563058) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#HDV> |
 
 <br/>
@@ -2321,7 +2321,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Hi8](#information-storage-medium-type-21) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Hi8](#information-storage-medium-type-21) |
-| **Wikidata ID** | [Q2302273](https://www.wikidata.org/entityQ2302273) |
+| **Wikidata ID** | [Q2302273](https://www.wikidata.org/entity/Q2302273) |
 | **AAT ID** | [300264682](https://vocab.getty.edu/aat/300264682) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Hi8> |
 
@@ -2347,7 +2347,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Photographic Film](#information-storage-medium-type-106) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Großformatfilm](#information-storage-medium-type-116) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [Large Format](#information-storage-medium-type-116) |
-| **Wikidata ID** | [Q1189460](https://www.wikidata.org/entityQ1189460) |
+| **Wikidata ID** | [Q1189460](https://www.wikidata.org/entity/Q1189460) |
 
 <br/>
 <br/>
@@ -2371,7 +2371,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [LaserDisc](#information-storage-medium-type-42) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [LaserDisc](#information-storage-medium-type-42) |
-| **Wikidata ID** | [Q273309](https://www.wikidata.org/entityQ273309) |
+| **Wikidata ID** | [Q273309](https://www.wikidata.org/entity/Q273309) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#LaserDisc> |
 
 <br/>
@@ -2395,7 +2395,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
 | **German Breadcrumb** | [Optischer Datenträger](#information-storage-medium-type-120) > [M-Disc](#information-storage-medium-type-123) |
 | **English Breadcrumb** | [Optical Storage Medium](#information-storage-medium-type-120) > [M-Disc](#information-storage-medium-type-123) |
-| **Wikidata ID** | [Q15727650](https://www.wikidata.org/entityQ15727650) |
+| **Wikidata ID** | [Q15727650](https://www.wikidata.org/entity/Q15727650) |
 
 <br/>
 <br/>
@@ -2417,7 +2417,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Magnetischer Tonträger |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) |
-| **Wikidata ID** | [Q123118470](https://www.wikidata.org/entityQ123118470) |
+| **Wikidata ID** | [Q123118470](https://www.wikidata.org/entity/Q123118470) |
 
 <br/>
 <br/>
@@ -2440,7 +2440,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) |
-| **Wikidata ID** | [Q123118513](https://www.wikidata.org/entityQ123118513) |
+| **Wikidata ID** | [Q123118513](https://www.wikidata.org/entity/Q123118513) |
 | **GND ID** | [4135867-3](https://d-nb.info/gnd/4135867-3) |
 
 <br/>
@@ -2465,7 +2465,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonplatte](#information-storage-medium-type-68) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Sound Disc](#information-storage-medium-type-68) |
-| **Wikidata ID** | [Q1416388](https://www.wikidata.org/entityQ1416388) |
+| **Wikidata ID** | [Q1416388](https://www.wikidata.org/entity/Q1416388) |
 
 <br/>
 <br/>
@@ -2487,7 +2487,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Magnetischer Datenträger |
 | **German Breadcrumb** | [Magnetischer Datenträger](#information-storage-medium-type-125) |
 | **English Breadcrumb** | [Magnetic Storage Medium](#information-storage-medium-type-125) |
-| **Wikidata ID** | [Q1364527](https://www.wikidata.org/entityQ1364527) |
+| **Wikidata ID** | [Q1364527](https://www.wikidata.org/entity/Q1364527) |
 
 <br/>
 <br/>
@@ -2510,7 +2510,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Digital Audio Storage Medium](#information-storage-medium-type-72) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
-| **Wikidata ID** | [Q123118830](https://www.wikidata.org/entityQ123118830) |
+| **Wikidata ID** | [Q123118830](https://www.wikidata.org/entity/Q123118830) |
 
 <br/>
 <br/>
@@ -2532,7 +2532,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Mechanischer Tonträger |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
-| **Wikidata ID** | [Q123117748](https://www.wikidata.org/entityQ123117748) |
+| **Wikidata ID** | [Q123117748](https://www.wikidata.org/entity/Q123117748) |
 
 <br/>
 <br/>
@@ -2555,7 +2555,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Photographic Film](#information-storage-medium-type-106) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Mittelformatfilm](#information-storage-medium-type-112) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [Medium Format](#information-storage-medium-type-112) |
-| **Wikidata ID** | [Q1146074](https://www.wikidata.org/entityQ1146074) |
+| **Wikidata ID** | [Q1146074](https://www.wikidata.org/entity/Q1146074) |
 
 <br/>
 <br/>
@@ -2578,7 +2578,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Medium Format](#information-storage-medium-type-112) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Mittelformatfilm](#information-storage-medium-type-112) > [Schwarzweiß-Mittelformatfilm](#information-storage-medium-type-115) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [Medium Format](#information-storage-medium-type-112) > [Medium Format Black-and-White Film](#information-storage-medium-type-115) |
-| **Wikidata ID** | [Q2254548](https://www.wikidata.org/entityQ2254548) |
+| **Wikidata ID** | [Q2254548](https://www.wikidata.org/entity/Q2254548) |
 
 <br/>
 <br/>
@@ -2601,7 +2601,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Medium Format](#information-storage-medium-type-112) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Mittelformatfilm](#information-storage-medium-type-112) > [Negativ-Mittelformatfilm](#information-storage-medium-type-114) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [Medium Format](#information-storage-medium-type-112) > [Medium Format Negative Film](#information-storage-medium-type-114) |
-| **Wikidata ID** | [Q595597](https://www.wikidata.org/entityQ595597) |
+| **Wikidata ID** | [Q595597](https://www.wikidata.org/entity/Q595597) |
 
 <br/>
 <br/>
@@ -2624,7 +2624,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Medium Format](#information-storage-medium-type-112) |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) > [Mittelformatfilm](#information-storage-medium-type-112) > [Diapositiv-Mittelformatfilm](#information-storage-medium-type-113) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) > [Medium Format](#information-storage-medium-type-112) > [Medium Format Reversal Film](#information-storage-medium-type-113) |
-| **Wikidata ID** | [Q166816](https://www.wikidata.org/entityQ166816) |
+| **Wikidata ID** | [Q166816](https://www.wikidata.org/entity/Q166816) |
 
 <br/>
 <br/>
@@ -2648,7 +2648,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Mikrokassette](#information-storage-medium-type-63) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Microcassette](#information-storage-medium-type-63) |
-| **Wikidata ID** | [Q1509636](https://www.wikidata.org/entityQ1509636) |
+| **Wikidata ID** | [Q1509636](https://www.wikidata.org/entity/Q1509636) |
 
 <br/>
 <br/>
@@ -2671,7 +2671,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Microform](#information-storage-medium-type-117) |
 | **German Breadcrumb** | [Mikroform](#information-storage-medium-type-117) > [Mikrofilm](#information-storage-medium-type-119) |
 | **English Breadcrumb** | [Microform](#information-storage-medium-type-117) > [Microfilm](#information-storage-medium-type-119) |
-| **Wikidata ID** | [Q12498524](https://www.wikidata.org/entityQ12498524) |
+| **Wikidata ID** | [Q12498524](https://www.wikidata.org/entity/Q12498524) |
 
 <br/>
 <br/>
@@ -2693,7 +2693,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Mikroform |
 | **German Breadcrumb** | [Mikroform](#information-storage-medium-type-117) |
 | **English Breadcrumb** | [Microform](#information-storage-medium-type-117) |
-| **Wikidata ID** | [Q830450](https://www.wikidata.org/entityQ830450) |
+| **Wikidata ID** | [Q830450](https://www.wikidata.org/entity/Q830450) |
 
 <br/>
 <br/>
@@ -2716,7 +2716,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Grooved Analog Disc](#information-storage-medium-type-53) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Schallplatte](#information-storage-medium-type-53) > [Mikrorillen-Schallplatte](#information-storage-medium-type-55) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Grooved Analog Disc](#information-storage-medium-type-53) > [Microgroove Record](#information-storage-medium-type-55) |
-| **Wikidata ID** | [Q86816874](https://www.wikidata.org/entityQ86816874) |
+| **Wikidata ID** | [Q86816874](https://www.wikidata.org/entity/Q86816874) |
 
 <br/>
 <br/>
@@ -2739,7 +2739,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [MII](#information-storage-medium-type-22) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [MII](#information-storage-medium-type-22) |
-| **Wikidata ID** | [Q3841334](https://www.wikidata.org/entityQ3841334) |
+| **Wikidata ID** | [Q3841334](https://www.wikidata.org/entity/Q3841334) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#MII> |
 
 <br/>
@@ -2765,7 +2765,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Microform](#information-storage-medium-type-117) |
 | **German Breadcrumb** | [Mikroform](#information-storage-medium-type-117) > [Mikroplanfilm](#information-storage-medium-type-118) |
 | **English Breadcrumb** | [Microform](#information-storage-medium-type-117) > [Mikrofiche](#information-storage-medium-type-118) |
-| **Wikidata ID** | [Q2368076](https://www.wikidata.org/entityQ2368076) |
+| **Wikidata ID** | [Q2368076](https://www.wikidata.org/entity/Q2368076) |
 
 <br/>
 <br/>
@@ -2789,7 +2789,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Minikassette](#information-storage-medium-type-62) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Mini-Cassette](#information-storage-medium-type-62) |
-| **Wikidata ID** | [Q1936845](https://www.wikidata.org/entityQ1936845) |
+| **Wikidata ID** | [Q1936845](https://www.wikidata.org/entity/Q1936845) |
 | **AAT ID** | [300310081](https://vocab.getty.edu/aat/300310081) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#MiniCassette> |
 
@@ -2815,7 +2815,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Digital Audio Storage Medium](#information-storage-medium-type-72) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [MiniDisc](#information-storage-medium-type-90) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [MiniDisc](#information-storage-medium-type-90) |
-| **Wikidata ID** | [Q275079](https://www.wikidata.org/entityQ275079) |
+| **Wikidata ID** | [Q275079](https://www.wikidata.org/entity/Q275079) |
 | **GND ID** | [4644982-6](https://d-nb.info/gnd/4644982-6) |
 
 <br/>
@@ -2840,7 +2840,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [MiniDV](#information-storage-medium-type-23) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [MiniDV](#information-storage-medium-type-23) |
-| **Wikidata ID** | [Q6957908](https://www.wikidata.org/entityQ6957908) |
+| **Wikidata ID** | [Q6957908](https://www.wikidata.org/entity/Q6957908) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#MiniDV> |
 
 <br/>
@@ -2864,7 +2864,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Text Medium](#information-storage-medium-type-132) |
 | **German Breadcrumb** | [Schriftstück](#information-storage-medium-type-132) > [Monografie](#information-storage-medium-type-134) |
 | **English Breadcrumb** | [Text Medium](#information-storage-medium-type-132) > [Monograph](#information-storage-medium-type-134) |
-| **Wikidata ID** | [Q193495](https://www.wikidata.org/entityQ193495) |
+| **Wikidata ID** | [Q193495](https://www.wikidata.org/entity/Q193495) |
 | **GND ID** | [4454906-4](https://d-nb.info/gnd/4454906-4) |
 | **AAT ID** | [300060417](https://vocab.getty.edu/aat/300060417) |
 
@@ -2890,7 +2890,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Synonyms** | Kino-Filmmaterial |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) |
-| **Wikidata ID** | [Q110968856](https://www.wikidata.org/entityQ110968856) |
+| **Wikidata ID** | [Q110968856](https://www.wikidata.org/entity/Q110968856) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#Film> |
 
 <br/>
@@ -2914,7 +2914,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Text Medium](#information-storage-medium-type-132) |
 | **German Breadcrumb** | [Schriftstück](#information-storage-medium-type-132) > [Musiknotation](#information-storage-medium-type-135) |
 | **English Breadcrumb** | [Text Medium](#information-storage-medium-type-132) > [Musical Notation](#information-storage-medium-type-135) |
-| **Wikidata ID** | [Q233861](https://www.wikidata.org/entityQ233861) |
+| **Wikidata ID** | [Q233861](https://www.wikidata.org/entity/Q233861) |
 | **AAT ID** | [300417622](https://vocab.getty.edu/aat/300417622) |
 
 <br/>
@@ -2940,7 +2940,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Phonograph Cylinder](#information-storage-medium-type-49) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Phonographenwalze](#information-storage-medium-type-49) > [Langspiel-Walze](#information-storage-medium-type-51) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Phonograph Cylinder](#information-storage-medium-type-49) > [Narrow Groove Cylinder](#information-storage-medium-type-51) |
-| **Wikidata ID** | [Q123117963](https://www.wikidata.org/entityQ123117963) |
+| **Wikidata ID** | [Q123117963](https://www.wikidata.org/entity/Q123117963) |
 
 <br/>
 <br/>
@@ -2965,7 +2965,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Phonograph Cylinder](#information-storage-medium-type-49) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Phonographenwalze](#information-storage-medium-type-49) > [Normalspiel-Walze](#information-storage-medium-type-50) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Phonograph Cylinder](#information-storage-medium-type-49) > [Normal Groove Cylinder](#information-storage-medium-type-50) |
-| **Wikidata ID** | [Q123117896](https://www.wikidata.org/entityQ123117896) |
+| **Wikidata ID** | [Q123117896](https://www.wikidata.org/entity/Q123117896) |
 
 <br/>
 <br/>
@@ -2989,7 +2989,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [NT Cassette](#information-storage-medium-type-83) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [NT Cassette](#information-storage-medium-type-83) |
-| **Wikidata ID** | [Q1961581](https://www.wikidata.org/entityQ1961581) |
+| **Wikidata ID** | [Q1961581](https://www.wikidata.org/entity/Q1961581) |
 
 <br/>
 <br/>
@@ -3012,7 +3012,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Spulentonband](#information-storage-medium-type-59) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Open Reel Audiotape](#information-storage-medium-type-59) |
-| **Wikidata ID** | [Q544858](https://www.wikidata.org/entityQ544858) |
+| **Wikidata ID** | [Q544858](https://www.wikidata.org/entity/Q544858) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#OpenReelAudiotape> |
 
 <br/>
@@ -3036,7 +3036,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Synonyms** | Offenspule Video,Offene Videobandspule |
 | **German Breadcrumb** | [Videoband](#information-storage-medium-type-31) |
 | **English Breadcrumb** | [Open Reel Videotape](#information-storage-medium-type-31) |
-| **Wikidata ID** | [Q29167500](https://www.wikidata.org/entityQ29167500) |
+| **Wikidata ID** | [Q29167500](https://www.wikidata.org/entity/Q29167500) |
 | **AAT ID** | [300450676](https://vocab.getty.edu/aat/300450676) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#OpenReelVideoTape> |
 
@@ -3060,7 +3060,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Optischer Tonträger |
 | **German Breadcrumb** | [Optischer Tonträger](#information-storage-medium-type-70) |
 | **English Breadcrumb** | [Optical Audio Storage Medium](#information-storage-medium-type-70) |
-| **Wikidata ID** | [Q123118558](https://www.wikidata.org/entityQ123118558) |
+| **Wikidata ID** | [Q123118558](https://www.wikidata.org/entity/Q123118558) |
 
 <br/>
 <br/>
@@ -3085,7 +3085,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Audio Storage Medium](#information-storage-medium-type-70) |
 | **German Breadcrumb** | [Optischer Tonträger](#information-storage-medium-type-70) > [Lichttonfilm](#information-storage-medium-type-71) |
 | **English Breadcrumb** | [Optical Audio Storage Medium](#information-storage-medium-type-70) > [Optical Sound Film](#information-storage-medium-type-71) |
-| **Wikidata ID** | [Q1004803](https://www.wikidata.org/entityQ1004803) |
+| **Wikidata ID** | [Q1004803](https://www.wikidata.org/entity/Q1004803) |
 
 <br/>
 <br/>
@@ -3108,7 +3108,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
 | **German Breadcrumb** | [Optischer Datenträger](#information-storage-medium-type-120) |
 | **English Breadcrumb** | [Optical Storage Medium](#information-storage-medium-type-120) |
-| **Wikidata ID** | [Q2248059](https://www.wikidata.org/entityQ2248059) |
+| **Wikidata ID** | [Q2248059](https://www.wikidata.org/entity/Q2248059) |
 
 <br/>
 <br/>
@@ -3130,7 +3130,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Optischer Videodatenträger |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) |
-| **Wikidata ID** | [Q234870](https://www.wikidata.org/entityQ234870) |
+| **Wikidata ID** | [Q234870](https://www.wikidata.org/entity/Q234870) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#OpticalVideoDisc> |
 
 <br/>
@@ -3154,7 +3154,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Digital Audio Storage Medium](#information-storage-medium-type-72) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Opto-digitaler Tonträger](#information-storage-medium-type-84) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
-| **Wikidata ID** | [Q123120227](https://www.wikidata.org/entityQ123120227) |
+| **Wikidata ID** | [Q123120227](https://www.wikidata.org/entity/Q123120227) |
 
 <br/>
 <br/>
@@ -3177,7 +3177,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [PCM Betamax](#information-storage-medium-type-76) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [PCM Betamax](#information-storage-medium-type-76) |
-| **Wikidata ID** | [Q123119962](https://www.wikidata.org/entityQ123119962) |
+| **Wikidata ID** | [Q123119962](https://www.wikidata.org/entity/Q123119962) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#PCMBetamax> |
 
 <br/>
@@ -3201,7 +3201,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [PCM U-Matic](#information-storage-medium-type-77) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [PCM U-Matic](#information-storage-medium-type-77) |
-| **Wikidata ID** | [Q123120037](https://www.wikidata.org/entityQ123120037) |
+| **Wikidata ID** | [Q123120037](https://www.wikidata.org/entity/Q123120037) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#PCMUmatic> |
 
 <br/>
@@ -3225,7 +3225,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [PCM VHS](#information-storage-medium-type-78) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [PCM VHS](#information-storage-medium-type-78) |
-| **Wikidata ID** | [Q123120103](https://www.wikidata.org/entityQ123120103) |
+| **Wikidata ID** | [Q123120103](https://www.wikidata.org/entity/Q123120103) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#PCMVHS> |
 
 <br/>
@@ -3249,7 +3249,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Text Medium](#information-storage-medium-type-132) |
 | **German Breadcrumb** | [Schriftstück](#information-storage-medium-type-132) > [Periodikum](#information-storage-medium-type-133) |
 | **English Breadcrumb** | [Text Medium](#information-storage-medium-type-132) > [Periodical](#information-storage-medium-type-133) |
-| **Wikidata ID** | [Q1002697](https://www.wikidata.org/entityQ1002697) |
+| **Wikidata ID** | [Q1002697](https://www.wikidata.org/entity/Q1002697) |
 | **AAT ID** | [300026657](https://vocab.getty.edu/aat/300026657) |
 
 <br/>
@@ -3275,7 +3275,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Phonographenwalze](#information-storage-medium-type-49) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Phonograph Cylinder](#information-storage-medium-type-49) |
-| **Wikidata ID** | [Q691783](https://www.wikidata.org/entityQ691783) |
+| **Wikidata ID** | [Q691783](https://www.wikidata.org/entity/Q691783) |
 | **GND ID** | [4536294-4](https://d-nb.info/gnd/4536294-4) |
 | **AAT ID** | [300420461](https://vocab.getty.edu/aat/300420461) |
 
@@ -3299,7 +3299,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Fotografischer Film |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) |
 | **English Breadcrumb** | [Photographic Film](#information-storage-medium-type-106) |
-| **Wikidata ID** | [Q6293](https://www.wikidata.org/entityQ6293) |
+| **Wikidata ID** | [Q6293](https://www.wikidata.org/entity/Q6293) |
 
 <br/>
 <br/>
@@ -3322,7 +3322,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Picocassette](#information-storage-medium-type-64) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Picocassette](#information-storage-medium-type-64) |
-| **Wikidata ID** | [Q7191037](https://www.wikidata.org/entityQ7191037) |
+| **Wikidata ID** | [Q7191037](https://www.wikidata.org/entity/Q7191037) |
 
 <br/>
 <br/>
@@ -3345,7 +3345,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Magneto-digitaler Tonträger](#information-storage-medium-type-73) > [Pro-Digi-Tonband](#information-storage-medium-type-75) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) > [Pro Digi Open Reel Tape](#information-storage-medium-type-75) |
-| **Wikidata ID** | [Q7246653](https://www.wikidata.org/entityQ7246653) |
+| **Wikidata ID** | [Q7246653](https://www.wikidata.org/entity/Q7246653) |
 
 <br/>
 <br/>
@@ -3368,7 +3368,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [VHS](#information-storage-medium-type-26) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [VHS](#information-storage-medium-type-26) > [S-VHS](#information-storage-medium-type-27) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [VHS](#information-storage-medium-type-26) > [S-VHS](#information-storage-medium-type-27) |
-| **Wikidata ID** | [Q1050875](https://www.wikidata.org/entityQ1050875) |
+| **Wikidata ID** | [Q1050875](https://www.wikidata.org/entity/Q1050875) |
 
 <br/>
 <br/>
@@ -3390,7 +3390,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Festkörper-Datenträger |
 | **German Breadcrumb** | [Festkörper-Datenträger](#information-storage-medium-type-129) |
 | **English Breadcrumb** | [Solid State Storage Medium](#information-storage-medium-type-129) |
-| **Wikidata ID** | [Q19280237](https://www.wikidata.org/entityQ19280237) |
+| **Wikidata ID** | [Q19280237](https://www.wikidata.org/entity/Q19280237) |
 
 <br/>
 <br/>
@@ -3415,7 +3415,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Solid State Storage Medium](#information-storage-medium-type-129) |
 | **German Breadcrumb** | [Festkörper-Datenträger](#information-storage-medium-type-129) > [SSD](#information-storage-medium-type-130) |
 | **English Breadcrumb** | [Solid State Storage Medium](#information-storage-medium-type-129) > [SSD](#information-storage-medium-type-130) |
-| **Wikidata ID** | [Q487343](https://www.wikidata.org/entityQ487343) |
+| **Wikidata ID** | [Q487343](https://www.wikidata.org/entity/Q487343) |
 
 <br/>
 <br/>
@@ -3440,7 +3440,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Magnettonband](#information-storage-medium-type-58) > [Stereo-Pak](#information-storage-medium-type-66) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Magnetic Audio Tape](#information-storage-medium-type-58) > [Stereo-Pak](#information-storage-medium-type-66) |
-| **Wikidata ID** | [Q7611194](https://www.wikidata.org/entityQ7611194) |
+| **Wikidata ID** | [Q7611194](https://www.wikidata.org/entity/Q7611194) |
 
 <br/>
 <br/>
@@ -3463,7 +3463,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [Super 16 mm Negativfilm](#information-storage-medium-type-99) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [Super 16 mm Negative Film](#information-storage-medium-type-99) |
-| **Wikidata ID** | [Q2713357](https://www.wikidata.org/entityQ2713357) |
+| **Wikidata ID** | [Q2713357](https://www.wikidata.org/entity/Q2713357) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#Super16mmFilm> |
 
 <br/>
@@ -3488,7 +3488,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [Super 16 mm Positivfilm](#information-storage-medium-type-98) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [Super 16 mm Positive Film](#information-storage-medium-type-98) |
-| **Wikidata ID** | [Q2713357](https://www.wikidata.org/entityQ2713357) |
+| **Wikidata ID** | [Q2713357](https://www.wikidata.org/entity/Q2713357) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#Super16mmFilm> |
 
 <br/>
@@ -3513,7 +3513,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
 | **German Breadcrumb** | [Bewegtbild-Film](#information-storage-medium-type-91) > [Super 8 mm Positivfilm](#information-storage-medium-type-94) |
 | **English Breadcrumb** | [Moving Image Film](#information-storage-medium-type-91) > [Super 8 mm Positive Film](#information-storage-medium-type-94) |
-| **Wikidata ID** | [Q1412320](https://www.wikidata.org/entityQ1412320) |
+| **Wikidata ID** | [Q1412320](https://www.wikidata.org/entity/Q1412320) |
 | **AAT ID** | [300263860](https://vocab.getty.edu/aat/300263860) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary/#Super8mmFilm> |
 
@@ -3539,7 +3539,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) > [Opto-digitaler Tonträger](#information-storage-medium-type-84) > [Super Audio CD](#information-storage-medium-type-87) |
 | **English Breadcrumb** | [Digital Audio Storage Medium](#information-storage-medium-type-72) > [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) > [Super Audio CD](#information-storage-medium-type-87) |
-| **Wikidata ID** | [Q212960](https://www.wikidata.org/entityQ212960) |
+| **Wikidata ID** | [Q212960](https://www.wikidata.org/entity/Q212960) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#SuperAudioCD> |
 
 <br/>
@@ -3563,7 +3563,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [Super Video CD](#information-storage-medium-type-44) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [Super Video CD](#information-storage-medium-type-44) |
-| **Wikidata ID** | [Q428159](https://www.wikidata.org/entityQ428159) |
+| **Wikidata ID** | [Q428159](https://www.wikidata.org/entity/Q428159) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#SuperVideoCD> |
 
 <br/>
@@ -3587,7 +3587,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) > [Tefifon-Band](#information-storage-medium-type-56) |
 | **English Breadcrumb** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) > [Tefifon Tape](#information-storage-medium-type-56) |
-| **Wikidata ID** | [Q1676393](https://www.wikidata.org/entityQ1676393) |
+| **Wikidata ID** | [Q1676393](https://www.wikidata.org/entity/Q1676393) |
 
 <br/>
 <br/>
@@ -3611,7 +3611,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Synonyms** | Buch,Publikation,Akte,Brief,Notiz,Beleg,Formular,Urkunde,technische Zeichnung,Dokument |
 | **German Breadcrumb** | [Schriftstück](#information-storage-medium-type-132) |
 | **English Breadcrumb** | [Text Medium](#information-storage-medium-type-132) |
-| **Wikidata ID** | [Q49848](https://www.wikidata.org/entityQ49848) |
+| **Wikidata ID** | [Q49848](https://www.wikidata.org/entity/Q49848) |
 | **GND ID** | [4180009-6](https://d-nb.info/gnd/4180009-6) |
 
 <br/>
@@ -3636,7 +3636,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [U-matic](#information-storage-medium-type-24) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [U-matic](#information-storage-medium-type-24) |
-| **Wikidata ID** | [Q278080](https://www.wikidata.org/entityQ278080) |
+| **Wikidata ID** | [Q278080](https://www.wikidata.org/entity/Q278080) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Umatic> |
 
 <br/>
@@ -3660,7 +3660,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [Universal Media Disc](#information-storage-medium-type-45) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [Universal Media Disc](#information-storage-medium-type-45) |
-| **Wikidata ID** | [Q270309](https://www.wikidata.org/entityQ270309) |
+| **Wikidata ID** | [Q270309](https://www.wikidata.org/entity/Q270309) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#UniversalMediaDisc> |
 
 <br/>
@@ -3686,7 +3686,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Solid State Storage Medium](#information-storage-medium-type-129) |
 | **German Breadcrumb** | [Festkörper-Datenträger](#information-storage-medium-type-129) > [USB-Stick](#information-storage-medium-type-131) |
 | **English Breadcrumb** | [Solid State Storage Medium](#information-storage-medium-type-129) > [USB Flash Drive](#information-storage-medium-type-131) |
-| **Wikidata ID** | [Q1647694](https://www.wikidata.org/entityQ1647694) |
+| **Wikidata ID** | [Q1647694](https://www.wikidata.org/entity/Q1647694) |
 | **GND ID** | [4770596-6](https://d-nb.info/gnd/4770596-6) |
 | **AAT ID** | [300404359](https://vocab.getty.edu/aat/300404359) |
 
@@ -3711,7 +3711,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [V-Cord](#information-storage-medium-type-25) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [V-Cord](#information-storage-medium-type-25) |
-| **Wikidata ID** | [Q5929966](https://www.wikidata.org/entityQ5929966) |
+| **Wikidata ID** | [Q5929966](https://www.wikidata.org/entity/Q5929966) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Vcord> |
 
 <br/>
@@ -3735,7 +3735,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [VHS](#information-storage-medium-type-26) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [VHS](#information-storage-medium-type-26) |
-| **Wikidata ID** | [Q183976](https://www.wikidata.org/entityQ183976) |
+| **Wikidata ID** | [Q183976](https://www.wikidata.org/entity/Q183976) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#VHS> |
 
 <br/>
@@ -3759,7 +3759,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [VHS](#information-storage-medium-type-26) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [VHS](#information-storage-medium-type-26) > [S-VHS](#information-storage-medium-type-28) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [VHS](#information-storage-medium-type-26) > [S-VHS](#information-storage-medium-type-28) |
-| **Wikidata ID** | [Q549855](https://www.wikidata.org/entityQ549855) |
+| **Wikidata ID** | [Q549855](https://www.wikidata.org/entity/Q549855) |
 
 <br/>
 <br/>
@@ -3783,7 +3783,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [Video CD](#information-storage-medium-type-43) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [Video CD](#information-storage-medium-type-43) |
-| **Wikidata ID** | [Q321259](https://www.wikidata.org/entityQ321259) |
+| **Wikidata ID** | [Q321259](https://www.wikidata.org/entity/Q321259) |
 | **GND ID** | [4654578-5](https://d-nb.info/gnd/4654578-5) |
 
 <br/>
@@ -3808,7 +3808,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [Video-DVD](#information-storage-medium-type-40) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [Video-DVD](#information-storage-medium-type-40) |
-| **Wikidata ID** | [Q5294](https://www.wikidata.org/entityQ5294) |
+| **Wikidata ID** | [Q5294](https://www.wikidata.org/entity/Q5294) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#DVD> |
 
 <br/>
@@ -3832,7 +3832,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [Video8](#information-storage-medium-type-29) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [Video8](#information-storage-medium-type-29) |
-| **Wikidata ID** | [Q1155472](https://www.wikidata.org/entityQ1155472) |
+| **Wikidata ID** | [Q1155472](https://www.wikidata.org/entity/Q1155472) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Video8> |
 
 <br/>
@@ -3855,7 +3855,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **German Name** | Videokassette |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) |
 | **English Breadcrumb** | [Videocassette](#information-storage-medium-type-1) |
-| **Wikidata ID** | [Q121141504](https://www.wikidata.org/entityQ121141504) |
+| **Wikidata ID** | [Q121141504](https://www.wikidata.org/entity/Q121141504) |
 | **GND ID** | [4188225-8](https://d-nb.info/gnd/4188225-8) |
 | **AAT ID** | [300028692](https://vocab.getty.edu/aat/300028692) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#Videocassette> |
@@ -3881,7 +3881,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) > [VX](#information-storage-medium-type-30) |
 | **English Breadcrumb** | [Videocasette](#information-storage-medium-type-1) > [VX](#information-storage-medium-type-30) |
-| **Wikidata ID** | [Q7907690](https://www.wikidata.org/entityQ7907690) |
+| **Wikidata ID** | [Q7907690](https://www.wikidata.org/entity/Q7907690) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary/#VX> |
 
 <br/>
@@ -3906,7 +3906,7 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) > [Tondraht](#information-storage-medium-type-69) |
 | **English Breadcrumb** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) > [Wire Recording](#information-storage-medium-type-69) |
-| **Wikidata ID** | [Q116822101](https://www.wikidata.org/entityQ116822101) |
+| **Wikidata ID** | [Q116822101](https://www.wikidata.org/entity/Q116822101) |
 | **PBCore Link** | <http://pbcore.org/pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary/#WireRecording> |
 
 <br/>
@@ -3930,4 +3930,4 @@ Information Storage Medium Types are used to classify Information Storage Medium
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) > [XDCAM Disc](#information-storage-medium-type-46) |
 | **English Breadcrumb** | [Optical Video Disc](#information-storage-medium-type-38) > [XDCAM Disc](#information-storage-medium-type-46) |
-| **Wikidata ID** | [Q1153113](https://www.wikidata.org/entityQ1153113) |
+| **Wikidata ID** | [Q1153113](https://www.wikidata.org/entity/Q1153113) |
