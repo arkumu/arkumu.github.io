@@ -44,7 +44,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build site (Jekyll + Pagefind)
-        run: npm run serve
+        run: npm run build
         env:
           JEKYLL_ENV: production
 
