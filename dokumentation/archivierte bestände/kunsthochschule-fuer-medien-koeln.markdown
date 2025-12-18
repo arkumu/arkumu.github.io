@@ -5,12 +5,6 @@ order: 3.02
 permalink: /documentation/archived-holdings/khm-cologne
 ---
 
-```Academy of Media Arts Cologne```
-
----
-
-<br/>
-
 ## Archiv für Mediale Künste der KHM Köln
 
 ```The Academy of Media Arts Cologne Archive ```
