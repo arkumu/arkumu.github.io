@@ -5,7 +5,7 @@ order: 3.1.1
 permalink: /documentation/data-model/relational-model
 ---
 
-```Relational Model```
+`Relational Model`
 
 <br/>
 
@@ -14,10 +14,10 @@ permalink: /documentation/data-model/relational-model
 Die nachfolgenden Tabellen dokumentieren die Struktur des arkumu.nrw-Datenmodells in seiner relationalen Form. Jede Entität (z.B. Projekt, Ereignis, Akteur:in) wird dabei in einer eigenen Tabelle dargestellt, die sämtliche dazugehörigen Felder und deren Spezifikationen beschreibt. Die Tabellen folgen einem einheitlichen Aufbau mit den folgenden Spalten:
 
 | **German Name of Field/English Name of Field**<br/>(Deutscher Name des Feldes / Englischer Name des Feldes) | Diese Spalten enthalten die deutschsprachige und englischsprachige Bezeichnung des jeweiligen Datenfeldes. Die Namen sind als Links formatiert, die zum entsprechenden [Graphenmodell-Eintrag](/documentation/data-model/graph-model) führen. |
-| **Min-Max Occurence**<br/>(Minimales-Maximales Vorkommen) | Diese Spalte gibt an, wie oft ein Feld innerhalb eines einzelnen Datensatzes mindestens und höchstens vorkommen und ausgefüllt werden kann bzw. muss, damit dieser gespeichert werden kann:<br/><br/>```1``` bedeutet, dass dieses Feld genau einmal im Formular vorkommt und ausgefüllt werden muss (Pflichtfeld).<br/>```0-1``` bedeutet, dass das Feld einamal im Formular vorkommt und optinal ausgefüllt werden kann.<br/>```1-n``` bedeutet, dass das Feld mindestens einmal ausgefüllt werden muss und beliebig oft wiederholt werden kann (Pflichtfeld mit zusätlichen Wiederholungen).<br/>```0-n``` bedeutet, dass das Feld optional ist und beliebig oft ausgefüllt werden kann.<br/>```[1]``` (in eckigen Klammern) bedeutet, dass das Feld bedingt Pflicht ist, wenn das darüber stehenden Feld verwendet wird (Bedingtes Pflichtfeld).<br/>```0/1``` bedeutet, dass der Kontext entweder zutrifft oder nicht.<br/><br/>Zusätzliche Hinweise wie ```(created automatically)``` oder ```(planned; created automatically)``` kennzeichnen Felder, die nicht manuell erfasst, sondern systemseitig generiert werden. |
-| **Multi Value**<br/>(Mehrfachwerte) | Diese Spalte zeigt an, ob in einem einzelnen Feld mehrere (einzelne) Werte gespeichert werden können. Die Kennzeichnung erfolgt durch:<br/><br/>```⨉``` (Kreuz): Das Feld nimmt nur einen einzelnen Wert auf<br/>```✓``` (Häkchen): Das Feld kann mehrere Werte aufnehmen<br/><br/> Wichtig ist dabei die Unterscheidung zwischen echten Multi-Value-Feldern und Freitextfeldern: Ein Freitextfeld wie "Provenienz" kann zwar inhaltlich Informationen über mehrere Besitzverhältnisse enthalten, technisch handelt es sich aber um ein einzelnes Feld, in dem keine Werte getrennt werden. Bei Multi-Value-Feldern wird zusätzlich die Art der Mehrfachwerteingabe spezifiziert:<br/><br/><br/>```(multi select)```: Mehrere Werte können aus einer vordefinierten oder erweiterbaren Liste ausgewählt werden.<a href="/assets/images/multi_select_example.PNG"><img src="/assets/images/multi_select_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>```(multi create)```: Einträge in einer Entität können via Eingabemasken direkt aus einer anderen Entität erstellt werden, z.B. Projektbeschreibungen in einem Projekt.<a href="/assets/images/multi_create_example.PNG"><img src="/assets/images/multi_create_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>```(multi file upload)```: Erlaubt das Hochladen mehrerer Dateien.<br/>```(comma separated)```: Mehrere Werte werden durch Komma getrennt in einem Feld eingegeben.<br/>```(semicolon separated)```: Mehrere Werte werden durch Semikolon getrennt in einem Feld eingegeben.<br/>```(linebreak separated)```: Mehrere Werte werden durch Zeilenumbruch getrennt in einem Feld eingegeben.<br/>```(linebreak separated; comma separated on import)```: Mehrere Werte werden durch Zeilenumbrüche getrennt erfasst, beim Import aber kommagetrennt verarbeitet. |
-| **Connection**<br/>(Verbindungstyp)| Diese Spalte beschreibt die Art der relationalen Beziehung zwischen der aktuellen Entität und anderen Entitäten im Datenmodell. Es werden drei grundlegende Verbindungstypen unterschieden:<br/><br/> ```many-to-one``` (viele-zu-eins): Mehrere Datensätze der aktuellen Entität können auf denselben Datensatz einer anderen Entität verweisen. Beispiel: Viele Projekte können derselben Einliefernden Hochschule zugeordnet sein, aber jedes Projekt hat genau eine Einliefernde Hochschule.<br/> ```one-to-many``` (eins-zu-viele): Ein Datensatz der aktuellen Entität kann mit mehreren Datensätzen einer anderen Entität verbunden sein, wobei diese ausschließlich zur aktuellen Entität gehören. Beispiel: Ein Projekt kann mehrere Projektbeschreibungen haben, aber jede Projektbeschreibung gehört zu genau zu einem Projekt.<br/>```many-to-many``` (viele-zu-viele): Mehrere Datensätze der aktuellen Entität können mit mehreren Datensätzen einer anderen Entität verbunden sein, wobei die Zuordnungen in beide Richtungen mehrfach möglich sind. Beispiel: Ein Projekt kann mehrere Schlagworte haben, und dasselbe Schlagwort kann in mehreren Projekten auftauchen.<br/><br/>Jede Verbindungsangabe wird durch einen zusätzlichen erläuternden Text ausformuliert, der die Beziehung aus beiden Perspektiven beschreibt und die praktische Bedeutung verdeutlicht. |
-| **Points to Entity**<br/>(Verweist auf Entität)| Diese Spalte gibt an, auf welche andere Entität innerhalb des arkumu.nrw-Datenmodells das jeweilige Feld verweist. Die Angaben sind als interne Links formatiert, die zum entsprechenden Eintrag in diesem Datenmodell führen. Bei abgeleiteten Entitäten wird die Herkunft gekennzeichnet, z.B. ```Depositing University - Derived from User```, was bedeutet, dass die Einliefernde Hochschule aus dem/der Benutzer:in abgeleitet wird. |
+| **Min-Max Occurence**<br/>(Minimales-Maximales Vorkommen) | Diese Spalte gibt an, wie oft ein Feld innerhalb eines einzelnen Datensatzes mindestens und höchstens vorkommen und ausgefüllt werden kann bzw. muss, damit dieser gespeichert werden kann:<br/><br/>`1` bedeutet, dass dieses Feld genau einmal im Formular vorkommt und ausgefüllt werden muss (Pflichtfeld).<br/>`0-1` bedeutet, dass das Feld einamal im Formular vorkommt und optinal ausgefüllt werden kann.<br/>`1-n` bedeutet, dass das Feld mindestens einmal ausgefüllt werden muss und beliebig oft wiederholt werden kann (Pflichtfeld mit zusätlichen Wiederholungen).<br/>`0-n` bedeutet, dass das Feld optional ist und beliebig oft ausgefüllt werden kann.<br/>`[1]` (in eckigen Klammern) bedeutet, dass das Feld bedingt Pflicht ist, wenn das darüber stehenden Feld verwendet wird (Bedingtes Pflichtfeld).<br/>`0/1` bedeutet, dass der Kontext entweder zutrifft oder nicht.<br/><br/>Zusätzliche Hinweise wie `(created automatically)` oder `(planned; created automatically)` kennzeichnen Felder, die nicht manuell erfasst, sondern systemseitig generiert werden. |
+| **Multi Value**<br/>(Mehrfachwerte) | Diese Spalte zeigt an, ob in einem einzelnen Feld mehrere (einzelne) Werte gespeichert werden können. Die Kennzeichnung erfolgt durch:<br/><br/>`⨉` (Kreuz): Das Feld nimmt nur einen einzelnen Wert auf<br/>`✓` (Häkchen): Das Feld kann mehrere Werte aufnehmen<br/><br/> Wichtig ist dabei die Unterscheidung zwischen echten Multi-Value-Feldern und Freitextfeldern: Ein Freitextfeld wie "Provenienz" kann zwar inhaltlich Informationen über mehrere Besitzverhältnisse enthalten, technisch handelt es sich aber um ein einzelnes Feld, in dem keine Werte getrennt werden. Bei Multi-Value-Feldern wird zusätzlich die Art der Mehrfachwerteingabe spezifiziert:<br/><br/><br/>`(multi select)`: Mehrere Werte können aus einer vordefinierten oder erweiterbaren Liste ausgewählt werden.<a href="/assets/images/multi_select_example.PNG"><img src="/assets/images/multi_select_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>`(multi create)`: Einträge in einer Entität können via Eingabemasken direkt aus einer anderen Entität erstellt werden, z.B. Projektbeschreibungen in einem Projekt.<a href="/assets/images/multi_create_example.PNG"><img src="/assets/images/multi_create_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>`(multi file upload)`: Erlaubt das Hochladen mehrerer Dateien.<br/>`(comma separated)`: Mehrere Werte werden durch Komma getrennt in einem Feld eingegeben.<br/>`(semicolon separated)`: Mehrere Werte werden durch Semikolon getrennt in einem Feld eingegeben.<br/>`(linebreak separated)`: Mehrere Werte werden durch Zeilenumbruch getrennt in einem Feld eingegeben.<br/>`(linebreak separated; comma separated on import)`: Mehrere Werte werden durch Zeilenumbrüche getrennt erfasst, beim Import aber kommagetrennt verarbeitet. |
+| **Connection**<br/>(Verbindungstyp)| Diese Spalte beschreibt die Art der relationalen Beziehung zwischen der aktuellen Entität und anderen Entitäten im Datenmodell. Es werden drei grundlegende Verbindungstypen unterschieden:<br/><br/> `many-to-one` (viele-zu-eins): Mehrere Datensätze der aktuellen Entität können auf denselben Datensatz einer anderen Entität verweisen. Beispiel: Viele Projekte können derselben Einliefernden Hochschule zugeordnet sein, aber jedes Projekt hat genau eine Einliefernde Hochschule.<br/> `one-to-many` (eins-zu-viele): Ein Datensatz der aktuellen Entität kann mit mehreren Datensätzen einer anderen Entität verbunden sein, wobei diese ausschließlich zur aktuellen Entität gehören. Beispiel: Ein Projekt kann mehrere Projektbeschreibungen haben, aber jede Projektbeschreibung gehört zu genau zu einem Projekt.<br/>`many-to-many` (viele-zu-viele): Mehrere Datensätze der aktuellen Entität können mit mehreren Datensätzen einer anderen Entität verbunden sein, wobei die Zuordnungen in beide Richtungen mehrfach möglich sind. Beispiel: Ein Projekt kann mehrere Schlagworte haben, und dasselbe Schlagwort kann in mehreren Projekten auftauchen.<br/><br/>Jede Verbindungsangabe wird durch einen zusätzlichen erläuternden Text ausformuliert, der die Beziehung aus beiden Perspektiven beschreibt und die praktische Bedeutung verdeutlicht. |
+| **Points to Entity**<br/>(Verweist auf Entität)| Diese Spalte gibt an, auf welche andere Entität innerhalb des arkumu.nrw-Datenmodells das jeweilige Feld verweist. Die Angaben sind als interne Links formatiert, die zum entsprechenden Eintrag in diesem Datenmodell führen. Bei abgeleiteten Entitäten wird die Herkunft gekennzeichnet, z.B. `Depositing University - Derived from User`, was bedeutet, dass die Einliefernde Hochschule aus dem/der Benutzer:in abgeleitet wird. |
 | **German Definition/English Definition**<br/>(Deutsche Definition/Englische Definition) | Diese Spalten enthalten kurze prägnante Beschreibungen, welche Informationen in einem Feld gespeichert werden. |
 | **German Note/English Note**<br/>(Deutscher Kommentar / Englischer Kommentar) | Diese Spalten bieten Raum für zusätzliche Hinweise, Erläuterungen oder Kontextinformationen, die für das Verständnis oder die korrekte Nutzung des Feldes wichtig sind. Die Kommentare können beispielsweise auf Formatvorgaben, Nutzungsrichtlinien oder Besonderheiten bei der Datenerfassung hinweisen. |
 
@@ -30,10 +30,10 @@ Diese Dokumentation konzentriert sich bewusst auf die fachliche Komponente des D
 The following tables document the structure of the arkumu.nrw data model in its relational form. Each entity (e.g. Project, Event, Actor) is represented in a separate table that describes all associated fields and their specifications. The tables follow a uniform structure with the following columns:
 
 | **German Name of Field/English Name of Field** | These columns contain the German and English names of the respective data fields. The names are formatted as links that lead to the corresponding [Graph Model entry](/documentation/data-model/graph-model). |
-| **Min-Max Occurence** | This column indicates how often a field can and must appear and be filled in within a single data record, in order for it to be saved:<br/><br/>```1``` means that this field appears exactly once in the form and must be filled in (mandatory field). <br/>```0-1``` means that the field appears once in the form and can be filled in optionally.<br/>```1-n``` means that the field must be filled in at least once and can be repeated any number of times (mandatory field with additional repetitions).<br/>```0-n``` means that the field is optional and can be filled in any number of times.<br/>```[1]``` (in square brackets) means that the field is conditionally mandatory if the field above it is used (conditional mandatory field). ```0/1``` means that the context either applies or does not apply.<br/><br/>Additional notes such as ```(created automatically)``` or ```(planned; created automatically)``` indicate fields that are not entered manually but are generated by the system. |
-| **Multi Value** | This column indicates whether multiple (individual) values can be stored in a single field. This is indicated by:<br/><br/>```⨉``` (cross): The field can only contain a single value<br/>``` ✓``` (tick): The field can contain multiple values<br/><br/> It is important to distinguish between true multi-value fields and free text fields: A free text field such as "Provenance" may contain information about multiple previous ownerships, but technically it is a single field in which no values are separated. For multi-value fields, the type of the multiple value entry is also specified:<br/><br/><br/>```(multi select)```: Multiple values can be selected from a predefined or expandable list.<a href="/assets/images/multi_select_example.PNG"><img src="/assets/images/multi_select_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>```(multi create)```: Entries in an entity can be created directly from another entity via input masks, e.g. Project Descriptions in a Project.<a href="/assets/images/multi_create_example.PNG"><img src="/assets/images/multi_create_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>```(multi file upload)```: Allows multiple files to be uploaded.<br/>```(comma separated):``` Multiple values are entered in a field separated by commas.<br/>```(semicolon separated)```: Multiple values are entered in a field separated by semicolons. ```(line break separated)```: Multiple values are entered in a field separated by line breaks.<br/>```(line break separated; comma separated on import)```: Multiple values are entered separated by line breaks, but are processed as comma-separated values during import. |
-| **Connection** | This column describes the type of relational relationship between the current entity and other entities in the data model. There are three basic connection types:<br/><br/>```many-to-one```: Multiple records of the current entity can refer to the same record of another entity. Example: Many Projects can be assigned to the same Depositing University, but each Project has exactly one Depositing University.<br/>```one-to-many```: One record of the current entity can be connected to multiple records of another entity, whereby these belong exclusively to the current entity. Example: A Project can have multiple Project Descriptions, but each Project Description belongs to exactly one Project.<br/>```many-to-many```: Multiple records of the current entity can be linked to multiple records of another entity, with multiple associations possible in both directions. Example: A Project can have multiple Keywords, and the same Keyword can appear in multiple Projects. Each connection specification is formulated with additional explanatory text that describes the relationship from both perspectives and clarifies its practical significance. |
-| **Points to Entity** | This column indicates which other entity within the arkumu.nrw data model the respective field refers to. The information is formatted as internal links that lead to the corresponding entry in this relational model. For derived entities, the origin is indicated, e.g. ```Depositing University - Derived from User```, which means that the depositing university is derived from the active user. |
+| **Min-Max Occurence** | This column indicates how often a field can and must appear and be filled in within a single data record, in order for it to be saved:<br/><br/>`1` means that this field appears exactly once in the form and must be filled in (mandatory field). <br/>`0-1` means that the field appears once in the form and can be filled in optionally.<br/>`1-n` means that the field must be filled in at least once and can be repeated any number of times (mandatory field with additional repetitions).<br/>`0-n` means that the field is optional and can be filled in any number of times.<br/>`[1]` (in square brackets) means that the field is conditionally mandatory if the field above it is used (conditional mandatory field). `0/1` means that the context either applies or does not apply.<br/><br/>Additional notes such as `(created automatically)` or `(planned; created automatically)` indicate fields that are not entered manually but are generated by the system. |
+| **Multi Value** | This column indicates whether multiple (individual) values can be stored in a single field. This is indicated by:<br/><br/>`⨉` (cross): The field can only contain a single value<br/>` ✓` (tick): The field can contain multiple values<br/><br/> It is important to distinguish between true multi-value fields and free text fields: A free text field such as "Provenance" may contain information about multiple previous ownerships, but technically it is a single field in which no values are separated. For multi-value fields, the type of the multiple value entry is also specified:<br/><br/><br/>`(multi select)`: Multiple values can be selected from a predefined or expandable list.<a href="/assets/images/multi_select_example.PNG"><img src="/assets/images/multi_select_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>`(multi create)`: Entries in an entity can be created directly from another entity via input masks, e.g. Project Descriptions in a Project.<a href="/assets/images/multi_create_example.PNG"><img src="/assets/images/multi_create_example.PNG" style="width: 70%; height: auto; margin-left: 0px;"></a><br/>`(multi file upload)`: Allows multiple files to be uploaded.<br/>`(comma separated):` Multiple values are entered in a field separated by commas.<br/>`(semicolon separated)`: Multiple values are entered in a field separated by semicolons. `(line break separated)`: Multiple values are entered in a field separated by line breaks.<br/>`(line break separated; comma separated on import)`: Multiple values are entered separated by line breaks, but are processed as comma-separated values during import. |
+| **Connection** | This column describes the type of relational relationship between the current entity and other entities in the data model. There are three basic connection types:<br/><br/>`many-to-one`: Multiple records of the current entity can refer to the same record of another entity. Example: Many Projects can be assigned to the same Depositing University, but each Project has exactly one Depositing University.<br/>`one-to-many`: One record of the current entity can be connected to multiple records of another entity, whereby these belong exclusively to the current entity. Example: A Project can have multiple Project Descriptions, but each Project Description belongs to exactly one Project.<br/>`many-to-many`: Multiple records of the current entity can be linked to multiple records of another entity, with multiple associations possible in both directions. Example: A Project can have multiple Keywords, and the same Keyword can appear in multiple Projects. Each connection specification is formulated with additional explanatory text that describes the relationship from both perspectives and clarifies its practical significance. |
+| **Points to Entity** | This column indicates which other entity within the arkumu.nrw data model the respective field refers to. The information is formatted as internal links that lead to the corresponding entry in this relational model. For derived entities, the origin is indicated, e.g. `Depositing University - Derived from User`, which means that the depositing university is derived from the active user. |
 | **German Definition/English Definition** | These columns provide space for additional notes, explanations or contextual information that is important for understanding or correctly using the field. The comments can, for example, refer to format specifications, usage guidelines or specifics regarding data collection. |
 
 This documentation deliberately focuses on the functional components of the data model and does not go into technical implementation details. It does not list technical ID fields (primary keys, foreign keys) or file types (VARCHAR, INT, BOOLEAN, etc.) as found in typical database schemas. Nor does this documentation lists simple junction tables that consist only of (an ID and) two foreign keys. Instead, the focus is on the content-related meaning of the fields, their relationships to each other and their role in the ingest and documentation process.
@@ -48,7 +48,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Actor
 
-```Akteur:in```
+`Akteur:in`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
@@ -101,7 +101,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Alternative Title Set
 
-```Alternativer Titel-Set```
+`Alternativer Titel-Set`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -121,7 +121,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Collection
 
-```Sammlung```
+`Sammlung`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -151,7 +151,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Content Warning
 
-```Inhaltswarnung```
+`Inhaltswarnung`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -168,7 +168,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Dataset at the Depositor
 
-```Datensatz beim Einlieferer```
+`Datensatz beim Einlieferer`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -188,7 +188,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Depositing University
 
-```Einliefernde Hochschule```
+`Einliefernde Hochschule`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -207,7 +207,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Digital Object
 
-```Digitales Objekt```
+`Digitales Objekt`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -261,7 +261,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Digital Object Licence
 
-```Digitales-Objekt-Lizenz```
+`Digitales-Objekt-Lizenz`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -285,7 +285,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Equipment Type
 
-```Equipmentart```
+`Equipmentart`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -309,7 +309,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Equipment and Software
 
-```Equipment and Software```
+`Equipment and Software`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -334,7 +334,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Event
 
-```Ereignis```
+`Ereignis`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -372,7 +372,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Event Actor (Event-Actor Junction Table)
 
-```Ereignisakteur:in (Ereignis-Akteur:in-Kreuztabelle)```
+`Ereignisakteur:in (Ereignis-Akteur:in-Kreuztabelle)`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -393,7 +393,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Event Description
 
-```Ereignisbeschreibung```
+`Ereignisbeschreibung`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -412,7 +412,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Event Type
 
-```Ereignistyp```
+`Ereignistyp`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -436,7 +436,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Existing Licence Agreement
 
-```Bestehender Lizenzvertrag```
+`Bestehender Lizenzvertrag`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -460,7 +460,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Information Storage Medium 
 
-```Informationsträger```
+`Informationsträger`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -505,7 +505,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Information Storage Medium Type
 
-```Informationsträgertyp```
+`Informationsträgertyp`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -532,7 +532,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Keyword
 
-```Schlagwort```
+`Schlagwort`
 
 | Diese Entität kann entweder zentral oder getrennt verwendet werden, letzteres als **Schlagwort**, **Klassifizierendes Schlagwort**, **Materialschlagwort** und **Technikschlagwort**. | This entity can be used either centrally or separated, the latter as a **Keyword**, **Classifying keyword**, **Material keyword** and **Technique Keyword**. |
 
@@ -557,7 +557,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Language
 
-```Sprache```
+`Sprache`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -577,7 +577,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Organisational Unit
 
-```Organisationseinheit```
+`Organisationseinheit`
 
 | Das Feld "Hochschule" wurde entfernt, da diese nun auch eigenständig als eigene Organisationseinheiten auswählbar sind. | The field "University" has been removed, as these can now be selected as organisational units as well. |
 
@@ -602,7 +602,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Physical Object
 
-```Physisches Objekt```
+`Physisches Objekt`
 
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
@@ -638,7 +638,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Place
 
-```Ort```
+`Ort`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -664,7 +664,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Product ID Type
 
-```Produkt-ID-Typ```
+`Produkt-ID-Typ`
 
 | Die Entität "Nummernart" wurde in "Produkt-ID-Typ" umbenannt, und somit an die Benennung des entsprechenden Feldes in der Entität "Informationsträger" angepasst zu werden. | The entity "Number Type" has been renamed "Product ID Type" to match the name of the corresponding field in the entity "Information Storage Medium". |
 
@@ -685,7 +685,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Project
 
-```Projekt```
+`Projekt`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -735,7 +735,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Project Category
 
-```Projektkategorie```
+`Projektkategorie`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -762,7 +762,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Project Description
 
-```Projektbeschreibung```
+`Projektbeschreibung`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -781,7 +781,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Project Type
 
-```Projektart```
+`Projektart`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -800,7 +800,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Property
 
-```Eigenschaft```
+`Eigenschaft`
 
 | Diese Entität wird in [Projekt](#project), [Ereignis](#event) und [Informationsträger](#information-storage-medium) verwendet. Sie kann als zentrale Einheit verwendet oder in drei separate Entitäten aufgeteilt werden, nämlich **Projekteigenschaft**, **Ereigniseigenschaft** und **Informationsträgereigenschaft**. | This entity is used in [Project](#project), [Event](#event) and [Information Storage Medium](#information-storage-medium). It can be used as a central Entity or split up in three separate entites, namely **Project Property**, **Event Property** and **Information Storage Medium Property**. |
 
@@ -822,9 +822,69 @@ This documentation deliberately focuses on the functional components of the data
 <br/>
 <br/>
 
+## Related Actor (Actor-Actor Junction Table)
+
+`Verknüpfte:r Akteur:in (Akteur:in-Akteur:in-Kreuztabelle)`
+
+| In dieser Entität werden automatisch reziproke Verbindungen anlegt: Wenn eine Verknüpfung gemacht wurde, wird die gegenseitige automatisch angelegt. | Reciprocal connections are automatically created in this entity: when a relation is made, the reciprocal connection is automatically created. |
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| [Ausgangsakteur:in](/documentation/data-model/graph-model#actor) | [Source Actor](/documentation/data-model/graph-model#actor) | 1<br/>(handled automatically by the Actor form) | ⨉ | many-to-one<br/>(each Actor–Actor record refers to exactly one Source Actor; an Actor may be the source of many relationships)</sub> | [Actor](#actor) | Die Akteur:in von der die Beziehung ausgeht | The Actor from whom the relationship goes out | | |
+| Beziehung | Relationship | 1 | ⨉ | | | Die Art der Beziehung zwischen der Ausgangsakteur:in und der verknüpften Akteur:in. Die Arten der Beziehungen sind der Datenmodell-Excel-Tabelle zu entnehmen | The type of relationship between the Source Actor and the Related Actor. The types of relationships can be found in the data model Excel table. | | |
+| [Verknüpfte:r Akteur:in](/documentation/data-model/graph-model#actor) | [Related Actor](/documentation/data-model/graph-model#actor) | 1 | ⨉ | many-to-one<br/><sub>(each Actor–Actor record refers to exactly one Related Actor; an Actor may be related to many other Actors)</sub> | [Actor](#actor) | Die verknüpfte Akteur:in der Verbindung | The Related Actor of the connection | | |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## Related Event (Event-Event Junction Table)
+
+`Verknüpftes Ereignis (Ereignis-Ereignis-Kreuztabelle)`
+
+| In dieser Entität werden automatisch reziproke Verbindungen anlegt: Wenn eine Verknüpfung gemacht wurde, wird die gegenseitige automatisch angelegt. | Reciprocal connections are automatically created in this entity: when a relation is made, the reciprocal connection is automatically created. |
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| [Ausgangsereignis](/documentation/data-model/graph-model#event) | [Source Event](/documentation/data-model/graph-model#event) | 1<br/>(handled automatically by the Event form) | ⨉ | many-to-one<br/>(each Event–Event record refers to exactly one Source Event; an Event may be the source of many relationships)</sub> | [Event](#event) | Das Ereignis von dem die Beziehung ausgeht | The Event from which the relationship goes out | | |
+| Beziehung | Relationship | 1 | ⨉ | | | Die Art der Beziehung zwischen dem Ausgangsereignis und dem verknüpften Ereignis. Die Arten der Beziehungen sind der Datenmodell-Excel-Tabelle zu entnehmen | The type of relationship between the Source Event and the Related Event. The types of relationships can be found in the data model Excel table. | | |
+| [Verknüpftes Ereignis](/documentation/data-model/graph-model#event) | [Related Event](/documentation/data-model/graph-model#event) | 1 | ⨉ | many-to-one<br/><sub>(each Event–Event record refers to exactly one Related Event; an Event may be related to many other Events)</sub> | [Event](#event) | Das verknüpfte Ereignis der Verbindung | The Related Event of the connection | | |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## Related Project (Project-Project Junction Table)
+
+`Verknüpftes Projekt (Projekt-Projekt-Kreuztabelle)`
+
+| In dieser Entität werden automatisch reziproke Verbindungen anlegt: Wenn eine Verknüpfung gemacht wurde, wird die gegenseitige automatisch angelegt. | Reciprocal connections are automatically created in this entity: when a relation is made, the reciprocal connection is automatically created. |
+
+| German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
+| ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------ | ----------- | ----------- |
+| [Ausgangsprojekt](/documentation/data-model/graph-model#project) | [Source Project](/documentation/data-model/graph-model#project) | 1<br/>(handled automatically by the Project form) | ⨉ | many-to-one<br/>(each Project–Project record refers to exactly one Source Project; a Project may be the source of many relationships)</sub> | [Project](#project) | Das Projekt von dem die Beziehung ausgeht | The Project from which the relationship goes out | | |
+| Beziehung | Relationship | 1 | ⨉ | | | Die Art der Beziehung zwischen dem Ausgangsprojekt und dem verknüpften Projekt. Die Arten der Beziehungen sind der Datenmodell-Excel-Tabelle zu entnehmen | The type of relationship between the Source Project and the Related Project. The types of relationships can be found in the data model Excel table. | | |
+| [Verknüpftes Projekt](/documentation/data-model/graph-model#project) | [Related Project](/documentation/data-model/graph-model#project) | 1 | ⨉ | many-to-one<br/><sub>(each Project–Project record refers to exactly one Related Project; a Project may be related to many other Projects)</sub> | [Project](#project) | Das verknüpfte Projekt der Verbindung | The Related Project of the connection | | |
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
 ## Role
 
-```Rolle```
+`Rolle`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Multi Value | Connection | Points to Entity | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -854,7 +914,7 @@ This documentation deliberately focuses on the functional components of the data
 
 ## Fields required for Archiving, Technical and User Rights Purposes
 
-```Archivarisch, technsich und Nutzer:innen-rechtlich bedingte Felder```
+`Archivarisch, technsich und Nutzer:innen-rechtlich bedingte Felder`
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
