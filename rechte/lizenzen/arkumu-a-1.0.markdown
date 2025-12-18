@@ -2,7 +2,7 @@
 layout: arkumu-docs
 title: arkumu-A 1.0
 order: 4.3.1
-permalink: /rights/licences/arkumu-a
+permalink: /rights/licences/arkumu-a-1.0
 ---
 
 URI: [https://docs.arkumu.nrw/resolver/arkumu-a-1.0](https://docs.arkumu.nrw/resolver/arkumu-a-1.0)
