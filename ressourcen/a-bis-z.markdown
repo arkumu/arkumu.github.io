@@ -95,7 +95,7 @@ Siehe: [Ereignis: Informationsträger] (ressourcen/entitaeten-und-attribute-des-
 ----
 
 ### Kontrolliertes Vokabular
-Ein Kontrolliertes Vokabular meint eine standardisierte Liste von Begriffen und Definitionen, die zur Beschreibung und Klassifikation von Inhalten verwendet wird. Durch die Nutzung externer Quellen wie Wikidata werden automatisch Synonyme und Definitionen ausgelesen und gespeichert. Dies hilft, die Konsistenz und Genauigkeit bei Verschlagwortung und inhaltlicher Erschließung der Projekte zu gewährleisten. Auch das Auffinden und die Verknüpfung von Informationen innerhalb des Portals wird dadurch erleichtert. Wir benutzen international gebräuchliche kontrollierte Vokabulare wie Dublin Core, ISO 639-2 für Sprachen, ISO 8601 für Zeitangaben, PRONOM für Dateitypen, die LIDO-Terminologie, AAT und andere; ebenso wie eine Reihe von selbst entwickelten [Vokabulare](/documentation/controlled-vocabularies/).
+Ein Kontrolliertes Vokabular meint eine standardisierte Liste von Begriffen und Definitionen, die zur Beschreibung und Klassifikation von Inhalten verwendet wird. Durch die Nutzung externer Quellen wie Wikidata werden automatisch Synonyme und Definitionen ausgelesen und gespeichert. Dies hilft, die Konsistenz und Genauigkeit bei Verschlagwortung und inhaltlicher Erschließung der Projekte zu gewährleisten. Auch das Auffinden und die Verknüpfung von Informationen innerhalb des Portals wird dadurch erleichtert. Wir benutzen international gebräuchliche kontrollierte Vokabulare wie Dublin Core, ISO 639-2 für Sprachen, ISO 8601 für Zeitangaben, PRONOM für Dateitypen, die LIDO-Terminologie, AAT und andere; ebenso wie eine Reihe von selbst entwickelten [Vokabulare](/documentation/controlled-vocabularies).
 
 ----
 
@@ -151,7 +151,7 @@ Kurz für „Information Retrieval“ (Informationswiedergewinnung) und meint de
 ----
 
 ### Rolle
-Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Siehe [Ereignis: Akteur:innen, Rollen und Rechteangaben](/resources/entities-and-attributes-of-the-data-model#ereignis-akteurinnen-rollen-und-rechteangaben). Das von arkumu.nrw erarbeitete Vokabular aller Rollen findet sich in der [Dokumentation](/documentation/controlled-vocabularies/roles.html).
+Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Siehe [Ereignis: Akteur:innen, Rollen und Rechteangaben](/resources/entities-and-attributes-of-the-data-model#ereignis-akteurinnen-rollen-und-rechteangaben). Das von arkumu.nrw erarbeitete Vokabular aller Rollen findet sich in der [Dokumentation](/documentation/controlled-vocabularies/roles).
 
 ----
 

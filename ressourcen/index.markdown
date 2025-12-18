@@ -22,7 +22,7 @@ permalink: /resources/
         <strong>Veröffentlichungen und Präsentationen</strong>
         <span>Im Rahmen des Projekts veröffentlichte Materialien und Dokumente.</span>
     </a>
-    <a href="/resources/resources/materials" class="link-card">
+    <a href="/resources/materials" class="link-card">
         <strong>Materialien zum Download</strong>
         <span>Druckvorlagen für Flyer und Plakate.</span>
     </a>
