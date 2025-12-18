@@ -13,7 +13,7 @@ Ein Kooperationsvorhaben empfohlen durch die [Digitale Hochschule NRW](https://w
 Die Ziele der Digitalisierungsoffensive sind vielfältig und erstrecken sich von der Entwicklung eines gemeinsamen IT-Sicherheitskonzepts über den Aufbau einer zentralen Forschungsdateninfrastruktur bis hin zur Digitalisierung von Verwaltung, Forschung, Lehre und Studium. Für die Umsetzung dieser Ziele stellte das Ministerium allein bis zum Jahr 2021 jährlich 50 Millionen Euro zur Verfügung. Nach diesem Zeitpunkt sind es weiterhin 35 Millionen Euro pro Jahr.\
 Zu den Kooperationspartnern innerhalb der Digitalen Hochschule NRW gehören unter anderem:
 
-* [FDM.nrw](https://fdm-nrw.coscine.de/#/) (Landesinitiative für Forschungsdatenmanagement NRW)
+* [FDM.nrw](https://www.fdm.nrw/) (Landesinitiative für Forschungsdatenmanagement NRW)
 * [DataStorage.nrw](https://www.land.nrw/pressemitteilung/riesen-wolke-macht-forschungsdaten-sicher) (ehemals RDS.nrw)
 * [LZV.nrw](https://lzv.nrw/) (Landesinitiative Langzeitverfügbarkeit)
 * weitere Universitäten und Fachhochschulen in Nordrhein-Westfalen, die an digitalen Initiativen und Projekten beteiligt sind
