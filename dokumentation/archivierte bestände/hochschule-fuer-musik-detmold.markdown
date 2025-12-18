@@ -5,9 +5,9 @@ order: 3.04
 permalink: /documentation/archived-holdings/hfm-detmold
 ---
 
-## Überblick
+``Hochschule für Musik Detmold`
 
-```Overview```
+<br/>
 
 **Deutsch:**
 

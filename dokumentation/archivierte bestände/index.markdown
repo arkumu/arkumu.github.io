@@ -8,7 +8,7 @@ permalink: /documentation/archived-holdings
 <div class="link-card-container">
   <a href="/documentation/archived-holdings/folkwang" class="link-card">
     <strong>Folkwang Universität der Künste</strong>
-    <span>Webseitensicherung Industrial Design, Kommunikationsdesign, Hauptwebseite</span>
+    <span>Webseitensicherung Industrial Design, Kommunikationsdesign & Hauptwebseite</span>
   </a>
 
   <a href="/documentation/archived-holdings/khm-cologne" class="link-card">

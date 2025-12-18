@@ -7,6 +7,8 @@ permalink: /documentation/archived-holdings/folkwang
 
 ```Folkwang University of the Arts```
 
+<br/>
+
 **Deutsch:**
 
 Da an der Folkwang Universität der Künste kein (einheitliches) Archivsystem existiert, wurde eine Access-Datenbank erstellt, die der Struktur des arkumu.nrw-Erfassungssystems zu dieser Zeit entsprach. So können alle an der Folkwang erfassten Projekte direkt nach arkumu.nrw übertragen werden. In den letzten zwei Jahren (2024/2025) wurden 640 Projekte unterschiedlichster Fachbereiche erfasst und standardisiert. Die Erfassung von digitalisierten Design-Objekte, Modellen, Entwürfen und Aufführungen basiert auf den Folkwang-Webseiten der einzelnen Studiengänge. Die vorhandenen Quelldaten werden archivarisch so behandelt, dass diese nicht im Erfassungsprozess verändert werden oder gar verloren gehen. 
@@ -29,30 +31,13 @@ During the recording process, which was based on the programme-specific websites
 
 The existing source data was enriched with standardised data, for which the standardised data from VIAF, GND, Library of Congress Authorities [Database] and Getty Art & Architecture Thesaurus was integrated into the system. In addition, all projects created were fully indexed using artistic and technical keywords based on the controlled vocabulary of Wikidata created by users.
 
-
 <br/>
 
 ---
 
 <br/>
 
-**Projekte aus den folgenden Bereichen wurden erfasst:**
-
-<br/>
-
-| Studiengänge des Fachbereichs Gestaltung | Studiengänge der Darstellenden Künste | Institut für Computermusik und Elektronische Medien (ICEM) |
-| --- | --- | --- |
-| Studiengang Product Design (B.A.) | Diplomstudiengang Regie (Artist Diploma) | Studiengang Integrative Komposition (M.Mus.) |
-| Studiengang Design Futures (M.A.) | Diplomstudiengang Schauspiel (Artist Diploma) | Studiengang Integrative Musiktheorie (M.Mus.) |
-| Studiengang Kommunikationsdesign (B.A.) und (M.A.) | Studiengang Gesang | Musiktheater (B.Mus.) |
-| | Studiengang Musical (B.A.) | |
-
-| Studiengänge für zeitgenössischen Tanz | Studiengänge der künstlerisch-musikalischen Praxis |
-| --- | --- |
-| Studiengang Tanzkomposition | Bewegungsnotation/Bewegungsanalyse (M.A.) | Studiengang Orchesterspiel (M.Mus.) |
-| Studiengang Tanzkomposition | Choreographie (M.A.) | Studiengang Instrumentalausbildung (B.Mus.) |
-| Studiengang Tanzkomposition | Interpretation (M.A.) | Studiengang Jazz | Performing Artist (B.Mus.) |
-| Folkwang Tanzstudio  | |
+**Projekte aus den folgenden Bereichen wurden erfasst: / Projects from the following fields were prepared:**
 
 | Studiengänge des Fachbereichs Gestaltung | Studiengänge der Darstellenden Künste | Institut für Computermusik und Elektronische Medien (ICEM) |
 | --- | --- | --- |
@@ -65,5 +50,5 @@ The existing source data was enriched with standardised data, for which the stan
 | --- | --- |
 | Studiengang Tanzkomposition \| Bewegungsnotation/Bewegungsanalyse (M.A.) | Studiengang Orchesterspiel (M.Mus.) |
 | Studiengang Tanzkomposition \| Choreographie (M.A.) | Studiengang Instrumentalausbildung (B.Mus.) |
-| Studiengang Tanzkomposition \| Interpretation (M.A.) | Studiengang Jazz | Performing Artist (B.Mus.) |
-| Folkwang Tanzstudio  
+| Studiengang Tanzkomposition \| Interpretation (M.A.) | Studiengang Jazz \| Performing Artist (B.Mus.) |
+| Folkwang Tanzstudio  | |

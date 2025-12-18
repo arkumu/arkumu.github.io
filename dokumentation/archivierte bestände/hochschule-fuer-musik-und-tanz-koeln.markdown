@@ -5,6 +5,10 @@ order: 3.03
 permalink: /documentation/archived-holdings/hfmt-cologne
 ---
 
+`Hochschule für Musik und Tanz Köln`
+
+<br/>
+
 ## Tonbandarchiv
 
 ```Audio Tape Archive```
