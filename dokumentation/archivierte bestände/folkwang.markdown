@@ -56,12 +56,12 @@ Die bereits vorhandenen Quelldaten wurden mit Normdaten angereichert, wozu die g
 | --- | --- | --- |
 | Studiengang Product Design (B.A.) | Diplomstudiengang Regie (Artist Diploma) | Studiengang Integrative Komposition (M.Mus.) |
 | Studiengang Design Futures (M.A.) | Diplomstudiengang Schauspiel (Artist Diploma) | Studiengang Integrative Musiktheorie (M.Mus.) |
-| Studiengang Kommunikationsdesign (B.A.) und (M.A.) | Studiengang Gesang \| Musiktheater (B.Mus.) |
+| Studiengang Kommunikationsdesign (B.A.) und (M.A.) | Studiengang Gesang | Musiktheater (B.Mus.) |
 | | Studiengang Musical (B.A.) | |
 
 | Studiengänge für zeitgenössischen Tanz | Studiengänge der künstlerisch-musikalischen Praxis |
 | --- | --- |
-| Studiengang Tanzkomposition \| Bewegungsnotation/Bewegungsanalyse (M.A.) | Studiengang Orchesterspiel (M.Mus.) |
-| Studiengang Tanzkomposition \| Choreographie (M.A.) | Studiengang Instrumentalausbildung (B.Mus.) |
-| Studiengang Tanzkomposition \| Interpretation (M.A.) | Studiengang Jazz | Performing Artist (B.Mus.) |
-| Folkwang Tanzstudio  
+| Studiengang Tanzkomposition | Bewegungsnotation/Bewegungsanalyse (M.A.) | Studiengang Orchesterspiel (M.Mus.) |
+| Studiengang Tanzkomposition | Choreographie (M.A.) | Studiengang Instrumentalausbildung (B.Mus.) |
+| Studiengang Tanzkomposition | Interpretation (M.A.) | Studiengang Jazz | Performing Artist (B.Mus.) |
+| Folkwang Tanzstudio  | |

@@ -5,11 +5,6 @@ order: 3.03
 permalink: /documentation/archived-holdings/hfmt-cologne
 ---
 
-
----
-
-<br/>
-
 ## Tonbandarchiv
 
 ```Audio Tape Archive```
