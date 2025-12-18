@@ -4,8 +4,8 @@
   "description": "arkumu-Docs ist die öffentliche Dokumentation des [Digitale Hochschule](https://www.dh.nrw/)-Konsortialprojekts \"arkumu.nrw\".\r Die veröffentlichte Webseite ist unter <https://docs.arkumu.nrw/> erreichbar.",
   "main": "index.js",
   "scripts": {
-    "build:": "jekyll build && npx pagefind --site _site && npx serve _site",
-    "serve": "jekyll build && npx pagefind --site _site && npx serve _site"
+    "build:": "bundle exec jekyll build && npx pagefind --site _site && npx serve _site",
+    "serve": "bundle exec jekyll build && npx pagefind --site _site && npx serve _site"
   },
   "keywords": [],
   "author": "",
