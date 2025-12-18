@@ -16,7 +16,7 @@ permalink: /documentation/controlled-vocabularies/digital-object-license-id-refe
 **Deutsch:**
 
 Die folgende Liste enthält ID-Referenzen dazu, wie die [**Digitalen-Objekt-Lizenzen**](/documentation/mappings/arkumu-to-cidoc-mapping#digital-object-licence) innerhalb des arkumu.nrw-Systems angeordnet werden sollten. Darüber hinaus finden Sie hier alle Lizenzen, die auch in der Grails-Version von arkumu.nrw enthalten waren. Sie sind nun so sortiert, wie sie in den Access-Datenbanken erscheinen.
-Die arkumu-Lizenzen sind von den restriktivsten zu den weniger restriktiven sortiert, während die [Creative Commons-Lizenzen](https://de.creativecommons.net/start/)-Lizenzen, wie sie auf der [Creative Commons-Lizenzseite](https://creativecommons.org/licenses/) sowie im [CC-Bereich der Lizenzseite unserer Docs-Website](/ressourcen/lizenzen/) erscheinen, entsprechend angeordnet sind.
+Die arkumu-Lizenzen sind von den restriktivsten zu den weniger restriktiven sortiert, während die [Creative Commons-Lizenzen](https://de.creativecommons.net/start/)-Lizenzen, wie sie auf der [Creative Commons-Lizenzseite](https://creativecommons.org/licenses/) sowie im [CC-Bereich der Lizenzseite unserer Docs-Website](/resources/lizenzen/) erscheinen, entsprechend angeordnet sind.
 Die Public-Domain-Marke und die EU-Lizenzen für verwaiste Werke bilden den Schluss, da sie sowohl im Grails-System als auch in Access in dieser Reihenfolge dargestellt wurden. Die hinzugefügte Spalte ```Scope``` dient als Referenz und ist kein Datenbankfeld.
 
 <br/>
@@ -27,7 +27,7 @@ Die Public-Domain-Marke und die EU-Lizenzen für verwaiste Werke bilden den Schl
 
 **English:**
 
-The following list contains ID references indicating how the [**Digital Object Licences**](/documentation/data-model/arkumu-to-cidoc-mapping#digital-object-licence) should be arranged within the arkumu.nrw system. It also includes all licenses that were part of the Grails version of arkumu.nrw. They are now sorted in the order in which they appear in the Access databases. The arkumu licenses are arranged from the most restrictive to the least restrictive, while the [Creative Commomns](https://de.creativecommons.net/start/) licenses follow the order shown on the [Creative Commons license page](https://creativecommons.org/licenses/) as well as in the [CC-section of the licence page of our Docs site](/ressourcen/lizenzen/). The Public Domain Mark and the EU orphan works licenses appear at the end, as they did in both the Grails system and Access. The added `Scope` column serves as a reference and is not a database field.
+The following list contains ID references indicating how the [**Digital Object Licences**](/documentation/data-model/arkumu-to-cidoc-mapping#digital-object-licence) should be arranged within the arkumu.nrw system. It also includes all licenses that were part of the Grails version of arkumu.nrw. They are now sorted in the order in which they appear in the Access databases. The arkumu licenses are arranged from the most restrictive to the least restrictive, while the [Creative Commomns](https://de.creativecommons.net/start/) licenses follow the order shown on the [Creative Commons license page](https://creativecommons.org/licenses/) as well as in the [CC-section of the licence page of our Docs site](/resources/lizenzen/). The Public Domain Mark and the EU orphan works licenses appear at the end, as they did in both the Grails system and Access. The added `Scope` column serves as a reference and is not a database field.
 
 <br/>
 <br/>

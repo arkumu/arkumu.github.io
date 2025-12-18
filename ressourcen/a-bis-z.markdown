@@ -50,7 +50,7 @@ Ein Datensatz umfasst die Inhalte aller Felder einer Entität oder Tabelle, z. B
 ----
 
 ### Dateiformate
-Manche Dateiformate sind besser als andere für die Langzeitarchivierung geeignet. Ideal sind verlustfreie, quelloffene und frei nutzbare Formate wie TIFF für Bilder und WAV für Klänge. Dateiformate, die wahrscheinlich in absehbarer Zeit unbenutzbar werden, sind für die Langzeitarchivierung ungeeignet. Siehe [Weiterführende Informationen](/ressourcen/weiterfuehrende-informationen).
+Manche Dateiformate sind besser als andere für die Langzeitarchivierung geeignet. Ideal sind verlustfreie, quelloffene und frei nutzbare Formate wie TIFF für Bilder und WAV für Klänge. Dateiformate, die wahrscheinlich in absehbarer Zeit unbenutzbar werden, sind für die Langzeitarchivierung ungeeignet. Siehe [Weiterführende Informationen](/resources/weiterfuehrende-informationen).
 
 ----
 
@@ -80,7 +80,7 @@ Eine Web-Applikation als Teil des [Web- und Arbeitsrepositoriums](/documentation
 ----
 
 ### Equipment und Software
-Siehe: [Ereignis: Equipment & Software] (/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-equipment--software)
+Siehe: [Ereignis: Equipment & Software] (/resources/entitaeten-und-attribute-des-datenmodells.html#ereignis-equipment--software)
 
 ----
 
@@ -131,7 +131,7 @@ Orte werden an vielen Stellen im System benutzt, z. B. um anzuzeigen, wo ein Ere
 ----
 
 ### Physisches Objekt
-Siehe: [Ereignis: Physische Objekte] (/ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-physische-objekte)
+Siehe: [Ereignis: Physische Objekte] (/resources/entitaeten-und-attribute-des-datenmodells.html#ereignis-physische-objekte)
 
 ----
 
