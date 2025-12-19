@@ -72,7 +72,7 @@ Fon: +49 221 4708 9685
 Fon: +49 221 47089549  
 [mondaca@uni-koeln.de](mailto:mondaca@uni-koeln.de)
 
-**Daniel Hernández Gómez**
+**Daniel Hernández Gómez**  
 [ITCC](https://itcc.uni-koeln.de/), Universität zu Köln 
 
 **Maximilian Lars Stempel**  
