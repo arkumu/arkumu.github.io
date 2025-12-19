@@ -821,7 +821,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 * **Archival Resource Key (ARK) is a new field!**
 * In Order to use [**P105** right held by (has right on)](http://cidoc-crm.org/cidoc-crm/7.1.3/P105_right_held_by), **Depositing University** (Einliefernde Hochschule) **MUST be an instance of** [**E39** Actor](http://cidoc-crm.org/cidoc-crm/7.1.3/E39_Actor)/[**E74** Group](http://cidoc-crm.org/cidoc-crm/7.1.3/E74_Group). 
 * Since **Project Categorie(s)**("Projektkategorie(n)") are commonly used, and since they were planned as a mandatory field, they **are a mandatory field** now.
-* **Content Warning German** (Inhaltswarnung deutsch) **and Content Warning English** (Inhaltswarnung [e]nglisch) **were renamed to German Content Warning** (Deutsche Inhaltswarnung) **and English Content Warning** (Englische Inhaltswarnung), to be compatible to the new naming conventions. Both come from their according entity [Content Warning](/data-model#content-warning), as it can be seen in the [arkumu.nrw data model](/data-model).
+* **Content Warning German** (Inhaltswarnung deutsch) **and Content Warning English** (Inhaltswarnung [e]nglisch) **were renamed to German Content Warning** (Deutsche Inhaltswarnung) **and English Content Warning** (Englische Inhaltswarnung), to be compatible to the new naming conventions. Both come from their according entity [Content Warning](/documentation/data-model/relational-model#content-warning), as it can be seen in the [arkumu.nrw data model](/documentation/data-model).
 
 <br/>
 <br/>
