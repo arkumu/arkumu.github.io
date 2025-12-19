@@ -265,7 +265,7 @@ This documentation deliberately focuses on the functional components of the data
 
 | German Name of Field | English Name of Field | Min-Max Occurence | Points to Entity | Multi Value | German Definition | English Definition | German Note | English Note |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Deutscher Name der Lizenz | German Name of Individual Licence | 1 |  |  | z.B. "Digi-Kunst A", "Digi-Kunst A+B" | | | |
+| Deutscher Name der Lizenz | German Name of Individual Licence | 1 |  |  | z.B. "arkumu-A 1.0", "arkumu-A+B 1.0" | | | |
 | Englischer Name der Lizenz | English Name of Individual Licence | 1 |  |  |  | | | |
 | Deutscher Lizenztext | German Wording | 0-1 |  |  |  | | | |
 | Englischer Lizenztext | English Wording | 0-1 |  |  |  | | | |
