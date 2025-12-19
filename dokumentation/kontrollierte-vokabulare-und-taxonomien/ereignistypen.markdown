@@ -1174,7 +1174,7 @@ Event Types are used to further categorise [**Events**](#event) in arkumu.nrw. I
 | **English Name** | Planning |
 | **German Name** | Planung |
 | **Wikidata ID** | [Q309100](https://www.wikidata.org/entity/Q309100) |
-| **GND ID** | [4046235-3 ](https://d-nb.info/gnd/4046235-3 ) |
+| **GND ID** | [4046235-3 ](https://d-nb.info/gnd/4046235-3) |
 | **AAT ID** | [300054425](https://vocab.getty.edu/aat/300054425) |
 | **LIDO Terminology ID** | [lido00032](http://terminology.lido-schema.org/lido00032) |
 

@@ -105,7 +105,7 @@ Langzeitverfügbarkeit (auch: Langzeitarchivierung) bezeichnet den Prozess der d
 ----
 
 ### Lizenz
-Über eine Lizenz wird festgelegt, wer Zugang zu den Digitalen Objekten bekommt und für welche Zwecke diese genutzt werden dürfen. Diese Rechte werden von den Rechteinhaber:innen eingeräumt. Damit ein Projekt oder Werk auf arkumu.nrw archiviert werden kann, muss der einliefernden Hochschule mindestens das Recht zur Archivierung eingeräumt werden. Auf Wunsch kann auch eine Lizenz gewählt werden, die das Recht zur Veröffentlichung beinhaltet. Gemeinfreie Werke benötigen keine Rechteeinräumung. Siehe: [Lizenzen](/rights/licences/).
+Über eine Lizenz wird festgelegt, wer Zugang zu den Digitalen Objekten bekommt und für welche Zwecke diese genutzt werden dürfen. Diese Rechte werden von den Rechteinhaber:innen eingeräumt. Damit ein Projekt oder Werk auf arkumu.nrw archiviert werden kann, muss der einliefernden Hochschule mindestens das Recht zur Archivierung eingeräumt werden. Auf Wunsch kann auch eine Lizenz gewählt werden, die das Recht zur Veröffentlichung beinhaltet. Gemeinfreie Werke benötigen keine Rechteeinräumung. Siehe: [Lizenzen](/rights/licences).
 Urheberrecht verweist hierher – wird aber hier nicht erwähnt
 
 ----
@@ -116,7 +116,7 @@ Metadaten sind beschreibende Informationen, die zur Klassifikation, Erschließun
 ----
 
 ### Normdaten
-Normdaten sind normierte Datensätze, die für die eindeutige Identifizierung von Personen, Körperschaften, Geografika, Schlagwörtern und Werken benutzt werden. Sie helfen bei der Vernetzung unterschiedlicher Informationsressourcen und bei der Suche. arkumu.nrw benutzt Normdaten von GND, Wikidata, AAT, VIAF, LCCN, OrcID und weiteren Providern. Eine gute Einführung findet sich auf dem [Wiki der DNB](https://wiki.dnb.de/plugins/servlet/mobile?contentId=322905215#content/view/322905215).
+Normdaten sind normierte Datensätze, die für die eindeutige Identifizierung von Personen, Körperschaften, Geografika, Schlagwörtern und Werken benutzt werden. Sie helfen bei der Vernetzung unterschiedlicher Informationsressourcen und bei der Suche. arkumu.nrw benutzt Normdaten von GND, Wikidata, AAT, VIAF, LCCN, OrcID und weiteren Providern. 
 
 ----
 
