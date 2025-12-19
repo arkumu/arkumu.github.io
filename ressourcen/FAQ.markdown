@@ -48,7 +48,7 @@ Das hbz gibt auf seinem Service-Wiki einen Überblick zum [Unterschied zu den Ar
 
 ### Welche Dateiformate akzeptiert arkumu.nrw? 
 
-Es können Dateien jedes Typs bei arkumu.nrw eingeliefert werden. Wie jede andere Institution, die sich mit dem Überführen von Daten in die Langzeitverfügbarkeit beschäftigt, werden verlustfreie und nicht-proprietäre Dateiformate bevorzugt. Gegebenenfalls könnte es notwendig werden, eine sogenannte „Modifizierte Masterdatei“ (Modified Master) anzufertigen, die die Ursprungsdatei in ein langzeitstabileres Format bringt. Eine Übersicht von gängigen Dateiformaten und deren Langzeitstabilität finden Sie bei [LZV.nrw](https://www.lzv.nrw/dateiformate). Eine detaillierte, englischsprachige Übersicht, wie Dateiformate eingeschätzt werden, findet sich in der [International Comparison of Recommended File Formats](https://docs.google.com/spreadsheets/d/1XjEjFBCGF3N1spNZc1y0DG8_Uyw18uG2j8V2bsQdYjk/edit?gid=893099148#gid=893099148).
+Es können Dateien jedes Typs bei arkumu.nrw eingeliefert werden. Wie jede andere Institution, die sich mit dem Überführen von Daten in die Langzeitverfügbarkeit beschäftigt, werden verlustfreie und nicht-proprietäre Dateiformate bevorzugt. Gegebenenfalls könnte es notwendig werden, eine sogenannte „Modifizierte Masterdatei“ (Modified Master) anzufertigen, die die Ursprungsdatei in ein langzeitstabileres Format bringt. Eine Übersicht von gängigen Dateiformaten und deren Langzeitstabilität finden Sie bei [LZV.nrw](https://www.lzv.nrw/dateiformate). Eine detaillierte, englischsprachige Übersicht, wie Dateiformate eingeschätzt werden, findet sich in der [International Comparison of Recommended File Formats](https://docs.google.com/spreadsheets/d/1XjEjFBCGF3N1spNZc1y0DG8_Uyw18uG2j8V2bsQdYjk).
 
 ----
 
