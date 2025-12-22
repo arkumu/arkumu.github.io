@@ -5,7 +5,7 @@ order: 3.0
 permalink: /documentation/usability
 ---
 
-## Erfassungss-Portal-Tooltips
+## Erfassungs-Portal-Tooltips
 
 ```Ingest Portal Tooltips```
 

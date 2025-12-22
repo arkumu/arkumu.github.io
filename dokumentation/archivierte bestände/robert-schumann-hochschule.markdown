@@ -11,9 +11,11 @@ permalink: /documentation/archived-holdings/robert-schumann-hochschule
 
 ## Institut für Musik und Medien
 
-**Deutsch**
+`Institute for Music and Media`
 
- 
+<br/>
+
+**Deutsch** 
  
 Ab Ende 2024/Beginn 2025 erfolgete die Erfassung von [Projekte von Studierenden des Instituts für Musik und Medien](https://www.rsh-duesseldorf.de/institute/institut-fuer-musik-und-medien/projekte). Die Projektmetadaten aus den Studiengängen und Studienschwerpunkten des Instituts für Musik und Medien wurden verzeichnet und die Dateispeicherung/Ablage aus den unterschiedlichen Quell-Ressourcen (Website der Robert Schumann Hochschule, Vimeo-Account und SoundCloud-Account des Instituts für Musik und Medien) erfolgte. Die Dokumentation umfasste die auf der Homepage des Instituts des Instituts für Musik- und Medien veröffentlichten Projekte aus den Bereichen Klang und Realität, Medienkomposition, Musikproduktion, Musik und Text, Visual Musik, Musikinformatik, Musik und AV-Produktion, Klassische Musikaufnahme, künstlerische Musikproduktion und Musik und Medienmanagement, so dass bis zum Ende der Projektlaufzeit fast alle der 221 dort repräsentierten Projekte im System erfasserisch bereitgestellt wurden. Alle Projekte und Digitalen Objekte sind mit der Lizenz "arkumu-A 1.0" versehen. Zudem wurden die Projekte, simulatan zu ihrer Darstellung auf der Webseite, intern mit Vorschaubildern versehen.
 
@@ -36,6 +38,10 @@ From the end of 2024/the beginning of 2025, [Projects by students of the Institu
 <br/>
  
 ## Studio zur Digitalisierung historischer Tonträger
+
+`Studio for Digitisation of Historical Sound Recordings`
+
+<br/>
 
 Das Studio zur Digitalisierung historischer Tonträger ist ein im Rahmen des Förderprogramms „Geistes- und Gesellschaftswissenschaften NRW“ vom Ministerium für Innovation, Wissenschaft und Forschung des Landes Nordrhein-Westfalen eingerichteter Erfassungs- und Archivierungsplatz für historische Audiomedien, mit dessen Hilfe Tonträger von den frühesten Schellackplatten bis hin zu Langspielplatten modernerer Zeit nach internationalen wissenschaftlichen Standards in digitaler Form gespeichert werden können, um anschließend entweder als Quellenmaterial für musikologische oder audiotechnische Forschungsarbeiten oder als Klangbeispiele für Vorlesungen, Vorträge und Seminare zu dienen. Derzeit umfasst das Archiv einen Bestand von über 4.000 Digitalisaten von Klangdokumenten der letzten 120 Jahre, der kontinuierlich anwächst. Obwohl der Schwerpunkt derzeit (noch) auf der europäisch geprägten Kunstmusik liegt, finden sich hier ebenfalls wertvolle Klangdokumente aller Sparten vom Liedgesang über Militärorchester bis hin zur Tanzmusik. Als zunächst ministeriell gefördertes Musterprojekt wird die weltweit größte Sammlung von Schubert-Liedern auf nichtmagnetischen historischen Klangmedienformaten in digitales Format konvertiert. Karsten Lehl hat die Erfassung und Digitalisierung der erwähnte Tonträger durchgeführt.
 
