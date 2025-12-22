@@ -195,8 +195,8 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 | **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#event-type> |
 | **English Description** | An Event Type categorises an Event with a [controlled vocabulary](/controlled-vocabularies/event-types). |
 | **German Description** | Ein Ereignistyp kategorisiert ein Ereignis mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/event-types). |
-| **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonyms](#has-german-synonyms) ⇒ [German Synonyms](#german-synonyms)<br/>[has english synonyms](#has-english-synonyms) ⇒ [English Synonyms](#english-synonyms)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has LIDO Terminology ID](#has-lido-terminology-id) ⇒ [LIDO Terminology ID](#lido-terminology-id) |
-| **Properties (German Naming)** | [hat deutschen namen](#has-german-name) ⇒ [Deutscher Name](#german-name)<br/>[hat englischen namen](#has-english-name) ⇒ [Englischer Name](#english-name)<br/>[hat deutsche synonyme](#has-german-synonyms) ⇒ [Deutsche Synonyme](#german-synonyms)<br/>[hat englische synonyme](#has-english-synonyms) ⇒ [Englische Synonyme](#english-synonyms)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat AAT-id](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[hat LIDO-Terminologie-id](#has-lido-terminology-id) ⇒ [LIDO-Terminologie-ID](#lido-terminology-id) |
+| **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonym](#has-german-synonym) ⇒ [German Synonym](#german-synonym)<br/>[has english synonym](#has-english-synonym) ⇒ [English Synonym](#english-synonym)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has LIDO Terminology ID](#has-lido-terminology-id) ⇒ [LIDO Terminology ID](#lido-terminology-id) |
+| **Properties (German Naming)** | [hat deutschen namen](#has-german-name) ⇒ [Deutscher Name](#german-name)<br/>[hat englischen namen](#has-english-name) ⇒ [Englischer Name](#english-name)<br/>[hat deutsches synonym](#has-german-synonym) ⇒ [Deutsches Synonym](#german-synonym)<br/>[hat englisches synonym](#has-english-synonym) ⇒ [Englisches Synonym](#english-synonym)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat AAT-id](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[hat LIDO-Terminologie-id](#has-lido-terminology-id) ⇒ [LIDO-Terminologie-ID](#lido-terminology-id) |
 
 <br/>
 <br/>
@@ -242,8 +242,8 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 | **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#information-storage-medium-type> |
 | **English Description** | An Information Storage Medium Type categorises an Information Storage medium with a [controlled vocabulary](/controlled-vocabularies/information-storage-medium-types). |
 | **German Description** | Ein Informationsträgertyp kategorisiert einen Informationsträger mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/information-storage-medium-types). |
-| **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonyms](#has-german-synonyms) ⇒ [German Synonyms](#german-synonyms)<br/>[has english synonyms](#has-english-synonyms) ⇒ [English Synonyms](#english-synonyms)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has PBCore link](#has-pbcore-link) ⇒ [PBCore Link](#pbcore-link)<br/>[has broader information storage medium type](#has-broader-information-storage-medium-type) ⇒ [Information Storage Medium Type](#information-storage-medium-type) |
-| **Properties (German Naming)** | [hat deutschen namen](#has-german-name) ⇒ [Deutscher Name](#german-name)<br/>[hat englischen namen](#has-english-name) ⇒ [Englischer Name](#english-name)<br/>[hat deutsche synonyme](#has-german-synonyms) ⇒ [Deutsche Synonyme](#german-synonyms)<br/>[hat englische synonyme](#has-english-synonyms) ⇒ [Englische Synonyme](#english-synonyms)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat AAT-id](#has-aat-id) ⇒ [AAT-ID](#aat-id)<br/>[hat PBCore-link](#has-pbcore-link) ⇒ [PBCore-Link](#pbcore-link)<br/>[hat übergeordneten informationsträgertyp](#has-broader-information-storage-medium-type) ⇒ [Informationsträgertyp](#information-storage-medium-type) |
+| **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonym](#has-german-synonym) ⇒ [German Synonym](#german-synonym)<br/>[has english synonym](#has-english-synonym) ⇒ [English Synonym](#english-synonym)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has PBCore link](#has-pbcore-link) ⇒ [PBCore Link](#pbcore-link)<br/>[has broader information storage medium type](#has-broader-information-storage-medium-type) ⇒ [Information Storage Medium Type](#information-storage-medium-type) |
+| **Properties (German Naming)** | [hat deutschen namen](#has-german-name) ⇒ [Deutscher Name](#german-name)<br/>[hat englischen namen](#has-english-name) ⇒ [Englischer Name](#english-name)<br/>[hat deutsches synonym](#has-german-synonym) ⇒ [Deutsches Synonym](#german-synonym)<br/>[hat englisches synonym](#has-english-synonym) ⇒ [Englisches Synonym](#english-synonym)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat AAT-id](#has-aat-id) ⇒ [AAT-ID](#aat-id)<br/>[hat PBCore-link](#has-pbcore-link) ⇒ [PBCore-Link](#pbcore-link)<br/>[hat übergeordneten informationsträgertyp](#has-broader-information-storage-medium-type) ⇒ [Informationsträgertyp](#information-storage-medium-type) |
 
 <br/>
 <br/>
@@ -354,8 +354,8 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 | **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#project-category> |
 | **English Description** | A Project Category typifies a Project, in an artistic sense, with the help of a [controlled vocabulary](/controlled-vocabularies/project-categories). |
 | **German Description** | Eine Projektkategorie typisiert ein Projekt, in einem künstlerischen Sinne, mit Hilfe eines [kontrollierten Vokabulars](/controlled-vocabularies/project-categories). |
-| **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonyms](#has-german-synonyms) ⇒ [German Synonyms](#german-synonyms)<br/>[has english synonyms](#has-english-synonyms) ⇒ [English Synonyms](#english-synonyms)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has filmportal.de category ID](#has-filmportalde-category-id) ⇒ [filmportal.de Category ID](#filmportalde-category-id)<br/>[has broader project category](#has-broader-project-category) ⇒ [Project Category](#project-category) |
-| **Properties (German Naming)** | [hat deutschen namen](#has-german-name) ⇒ [Deutscher Name](#german-name)<br/>[hat englischen namen](#has-english-name) ⇒ [Englischer Name](#english-name)<br/>[hat deutsche synonyme](#has-german-synonyms) ⇒ [Deutsche Synonyme](#german-synonyms)<br/>[hat englische synonyme](#has-english-synonyms) ⇒ [Englische Synonyme](#english-synonyms)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat AAT-id](#has-aat-id) ⇒ [AAT-ID](#aat-id)<br/>[hat filmportal.de-kategorie-id](#has-filmportalde-category-id) ⇒ [filmportal.de-Kategorie-ID](#filmportalde-category-id)<br/>[hat übergordnete Projektkategorie](#has-broader-project-category) ⇒ [Projektkategorie](#project-category) |
+| **Properties (English Naming)** | [has german name](#has-german-name) ⇒ [German Name](#german-name)<br/>[has english name](#has-english-name) ⇒ [English Name](#english-name)<br/>[has german synonym](#has-german-synonym) ⇒ [German Synonym](#german-synonym)<br/>[has english synonym](#has-english-synonym) ⇒ [English Synonym](#english-synonym)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has AAT ID](#has-aat-id) ⇒ [AAT ID](#aat-id)<br/>[has filmportal.de category ID](#has-filmportalde-category-id) ⇒ [filmportal.de Category ID](#filmportalde-category-id)<br/>[has broader project category](#has-broader-project-category) ⇒ [Project Category](#project-category) |
+| **Properties (German Naming)** | [hat deutschen namen](#has-german-name) ⇒ [Deutscher Name](#german-name)<br/>[hat englischen namen](#has-english-name) ⇒ [Englischer Name](#english-name)<br/>[hat deutsches synonym](#has-german-synonym) ⇒ [Deutsches Synonym](#german-synonym)<br/>[hat englisches synonym](#has-english-synonym) ⇒ [Englisches Synonym](#english-synonym)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat AAT-id](#has-aat-id) ⇒ [AAT-ID](#aat-id)<br/>[hat filmportal.de-kategorie-id](#has-filmportalde-category-id) ⇒ [filmportal.de-Kategorie-ID](#filmportalde-category-id)<br/>[hat übergordnete Projektkategorie](#has-broader-project-category) ⇒ [Projektkategorie](#project-category) |
 
 <br/>
 <br/>
@@ -960,13 +960,13 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 <br/>
 <br/>
 
-### English Synonyms
+### English Synonym
 
 |||
 |-----------|-----------|
-| **English Name of Class** | English Synonyms |
-| **German Name of Class** | Englische Synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-synonyms> |
+| **English Name of Class** | English Synonym |
+| **German Name of Class** | Englisches Synonym |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-synonym> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -1289,9 +1289,9 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 
 |||
 |-----------|-----------|
-| **English Name of Class** | German Synonyms |
-| **German Name of Class** | Deutsche Synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-synonyms> |
+| **English Name of Class** | German Synonym |
+| **German Name of Class** | Deutsches Synonym |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#german-synonym> |
 | **English Description** |  |
 | **German Description** |  |
 
@@ -2707,14 +2707,14 @@ Properties define the connection between Entity Classes and Field Classes, as we
 <br/>
 <br/>
 
-### has english synonyms
+### has english synonym
 
 |||
 |-----------|-----------|
-| **English Name of Property** | has english synonyms |
-| **German Name of Property** | hat englische synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-synonyms> |
-| **Graph Representation** | arkumu:hasEnglishSynonyms |
+| **English Name of Property** | has english synonym |
+| **German Name of Property** | hat englisches synonym |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-english-synonym> |
+| **Graph Representation** | arkumu:hasEnglishSynonym |
 
 <br/>
 <br/>
@@ -3067,14 +3067,14 @@ Properties define the connection between Entity Classes and Field Classes, as we
 <br/>
 <br/>
 
-### has german synonyms
+### has german synonym
 
 |||
 |-----------|-----------|
-| **English Name of Property** | has german synonyms |
-| **German Name of Property** | hat deutsche synonyme |
-| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-synonyms> |
-| **Graph Representation** | arkumu:hasGermanSynonyms |
+| **English Name of Property** | has german synonym |
+| **German Name of Property** | hat deutsches synonym |
+| **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#has-german-synonym> |
+| **Graph Representation** | arkumu:hasGermanSynonym |
 
 <br/>
 <br/>

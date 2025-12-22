@@ -621,7 +621,6 @@ pre {
   overflow-x: auto;
   text-align: center;
   border: 0;
-  background-color: white;
 }
  
 .mermaid {
@@ -957,4 +956,51 @@ table td {
   font-weight: 400 !important;
   font-size: 0.8rem;
   line-height: 1.45;
+}
+
+/**************************************************************************************************************************************************/
+
+/**************
+* XML Styling *
+***************/
+
+.language-xml {
+  background-color: #FAF9F6;
+  text-align: left;
+}
+
+.language-xml .highlight pre {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  background-color: #FAF9F6;
+  text-align: left;
+}
+
+.language-xml .highlight code {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  background-color: #FAF9F6;
+  text-align: left;
+}
+
+.language-xml .nt {
+  background-attachment: #FAF9F6;
+  color: #0066cc;
+  font-weight: bold;
+}
+
+.language-xml .na { 
+  background-attachment: #FAF9F6;
+  color: #d73a49;
+}
+
+.language-xml .s {
+  background-attachment: #FAF9F6;
+  color: #22863a;
+}
+
+.language-xml .c {
+  background-attachment: #FAF9F6;
+  color: #6a737d;
+  font-style: italic;
 }

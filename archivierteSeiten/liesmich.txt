@@ -1,0 +1,1 @@
+Die Dateien in diesem Ordner sind Markdown-Dateien, die nicht mehr auf Docs geladen weden sollen. Zu Archiv-Zwecken sind diese hier abgelegt; allerdings ohne ihre Dateiendung und mit entfernten permalink. Zur korrekten Darstellung der Datei muss die Endung ".markdown" wieder ergänzt werden.
