@@ -1,78 +1,13 @@
 ---
 layout: arkumu-docs
-title: ❗ Benutzerrechteverwaltung
+title: Benutzerrechteverwaltung
 order: 3.05
 permalink: /documentation/user-rights-management
 ---
 
-```❗ To-Do: fix broken links to files, correct formatting```
-
-```User rights management```
+```User Rights Management```
 
 <br/>
-
----
-
-<br/>
-
-**Deutsch:**
-
-Die Benutzerrechteverwaltung steuert, welche Art von Benutzer:innen bestimmte Aktionen innerhalb des arkumu.nrw Erfassungsportals durchführen darf. In einem System dieser Größenordnung ist es von größter Wichtigkeit, dass sowohl die Metadaten als auch die Dateien selber selbständig angelegt/abgelegt und bearbeitet werden können sowie, dass sie vor unerlaubten Zugriffen geschützt und gesichert sind, sodass nur autorisierte Benutzer:innen und Benutzer:innengruppen mit den entsprechenden Daten arbeiten und auf sie zugreifen können. Aus diesem Grund mussten sowohl auf Dateiebene als auch auf Benutzer:innenebene Regeln aufgestellt werden, um diesen Arbeitsprozess entsprechend zu verwalten.
-
-<br/>
-
----
-
-<br/>
-
-**English:**
-
-The user rights management controls, what type of user can perform certain actions within the arkumu.nrw ingest portal. In a system of this size, it is extremely important that both the metadata and the files themselves can be created/stored and edited autonomously, and that they are protected and secured against unauthorised access, so that only authorised users and user groups can work with, and access, the corresponding data. For this reason, rules had to be established both at file level and at user level, in order to manage this work process accordingly.
-
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
-
-## Frühe Überlegungen mit KA3
-```Early Considerations with KA3```
-
-<br/>
-
-**Deutsch:**
-
-Ursprünglich sollte [**KA3**](https://ka3.uni-koeln.de/) für den Umgang mit Benutzer:innen und der Dateiverwaltungsrechten verwendet werden, das ebenfalls von unserem technischen Konsortialpartner, dem Rechenzentrum der Universität zu Köln (jetzt [IT Center University of Cologne](https://itcc.uni-koeln.de/)), entwickelt wurde.
-
-<br/>
-
----
-
-<br/>
-
-**English:**
-
-Initially, [**KA3**](https://ka3.uni-koeln.de/) should've been used for handling users and file managements rights, which was also developed by our technical consortial partner, the Rechenzentrum der Universität zu Köln (now [IT Center University of Cologne](https://itcc.uni-koeln.de/)).
-
-<br/>
-<br/>
-
-![User and Authorisation Overview KA3](/assets/images/Benutzer___Autorisierungsuebersicht.drawio.png)<br/>
-<sub>Erste grobe Skizze, welche Benutzer:innengruppen existieren und welche Rechte sie haben, als erster Beispiel für weitere Entscheidungen, wie Benutzer:innen- und Dateizugriffsrechte verwaltet werden sollten.</sub>
-<sub>First rough sketch on what user groups exist and what their rights are, used as a basic example for further determining how user and file access rights should be managed.</sub><br/>
-
-
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
-
-# Benutzer:innenverwaltung
 
 **Deutsch:**
 
@@ -88,9 +23,6 @@ Die Benutzer:innenverwaltung regelt den Zugriff auf das System sowie die verfüg
 
 The User Management defines who can access the system and which functions are available in different parts of it. To accommodate varying responsibilities, roles and organisational requirements, users are assigned to clearly defined user groups. Each user group has specific permissions within the Ingest Backend and the Admin Backend. The following sections describe the individual user groups and their respective permissions.
 
-## Nutzerinnengruppen
-
-`User Groups`
 
 <br/>
 <br/>
@@ -100,7 +32,7 @@ The User Management defines who can access the system and which functions are av
 <br/>
 <br/>
 
-### Einfache registrierte Benutzer:in  
+## Einfache registrierte Benutzer:in  
 `Simple Registered User`
 
 **Deutsch:**
