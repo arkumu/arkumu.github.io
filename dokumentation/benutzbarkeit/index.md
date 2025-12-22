@@ -21,6 +21,6 @@ Für die Grails-Version des arkumu.nrw-Erfassungsportals wurden in gemeinsamer A
 
 <br/>
 
-**Englisch:**
+**English:**
 
 For the Grails version of the arkumu.nrw Ingest Portal, tooltips were developed in a joint effort to help both new and experienced users get a better understanding of the fields in the data model. You can find them [here](/documentation/usability/ingest-portal-tooltips).

@@ -5,6 +5,12 @@ order: 3.2
 permalink: /documentation/gestaltung
 ---
 
+```Design```
+
+<br/>
+
+**Deutsch:**
+
 Vom [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) wurde eine zeitgenössische und gestalterisch anspruchsvolle visuelle Identität entwickelt. Diese umfasst die Gestaltung der Wortmarke und des zentralen Portals, das die künstlerischen Arbeiten der Studierenden der Hochschulen sichtbar macht und an einem Ort bündelt. Es bietet als dynamisch, funktional und inspirierend gestaltetes System eine Oberfläche für einen schnellen und intuitiven Zugang zu den Archiven. 
 
 Das Designkonzept berücksichtigt die Unterschiede der Hochschulen und schafft zugleich ein einheitliches Gesamtbild. Die Gestaltung ist benutzerfreundlich, ästhetisch und visuell ansprechend. Die Navigation/Benutzerführung entspricht gängigen UX- und UI-Methoden. Benutzende haben die Möglichkeit, verschiedene Wege zu den Suchergebnissen zu nutzen. 
@@ -17,6 +23,31 @@ Die *erweiterte Suche* ergänzt die Möglichkeiten durch zusätzliche Filtervari
 
 Damit bietet arkumu.nrw ein modernes, erweiterbares und benutzerorientiertes Portal, das die künstlerischen Arbeiten der unterschiedlichen Hochschulen nachhaltig sichert und zugänglich macht. 
 
+<br/>
+
+---
+
+<br/>
+
+**English:**
+
+The [Büro für Brauchbarkeit](https://www.brauchbarkeit.de/) developed a contemporary and design-oriented visual identity. This includes the design of the word mark and the central portal, which showcases the artistic work of university students and consolidates them in one place. As a dynamic, functional and inspiring system, it provides an interface for quick and intuitive access to the archives.
+
+The design concept takes into account the diversity of the universities while creating a uniform overall image. The design is user-friendly, aesthetic and visually appealing. The navigation/user guidance complies with common UX and UI methods. Users have the option of utilising various paths to the search results.
+
+The design of the pages is flexible to support long-term development. The design is accessible, fully responsive and developed according to the mobile-first principle, so that it is optimally displayed on all types of end devices.
+
+The *front page* offers various access options: a simple search field, a direct link to the projects of individual universities, as well as curated and associative, playful options that allow users to browse and discover content.
+
+The *advanced search* complements these with additional filter variants such as sorting and filtering by period, date, university, project category or participating actors. It allows users to switch between different result views so that projects can be displayed in various list formats according to preference. 
+
+arkumu.nrw thus offers a modern, expandable and user-oriented portal that permanently preserves and makes accessible the artistic work of the respective universities.
+
+<br/>
+
+---
+
+<br/>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="flex: 1 1 300px; margin: 10px; max-width: 300px; text-align: center;">
@@ -25,7 +56,7 @@ Damit bietet arkumu.nrw ein modernes, erweiterbares und benutzerorientiertes Por
            alt="Gestaltung der Webseite, Startseite ohne Footer" 
            style="width: 100%; height: auto;">
     </a>
-    <p style="margin-top: 5px;">Startseite der Webseite</p>
+    <p style="margin-top: 5px;">Startseite der Webseite<br/>Front Page of the Website</p>
   </div>
   <div style="flex: 1 1 300px; margin: 10px; max-width: 300px; text-align: center;">
     <a href="/assets/images/Design-Entwurf_Projekt-Ansicht-ohne-Footer.png">
@@ -33,6 +64,6 @@ Damit bietet arkumu.nrw ein modernes, erweiterbares und benutzerorientiertes Por
            alt="Gestaltung der Webseite, Projekt-Ansicht" 
            style="width: 100%; height: auto;">
     </a>
-    <p style="margin-top: 5px;">Projekt-Ansicht auf der Webseite</p>
+    <p style="margin-top: 5px;">Projekt-Ansicht auf der Webseite<br/>Project View on the Website</p>
   </div>
 </div>
