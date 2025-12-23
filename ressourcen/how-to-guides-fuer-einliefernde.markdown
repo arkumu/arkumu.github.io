@@ -32,7 +32,7 @@ Bevor mit der Erfassung der Daten begonnen werden kann, empfehlen wir, einige gr
 
 ## Vorstrukturieren der Daten: Pflichtfelder für Metadaten
 
-Sorgen Sie bitte dafür, dass mindestens folgende beschreibende **Metadaten** vorhanden sind:
+Sorgen Sie bitte dafür, dass mindestens folgende<br/>beschreibende **Metadaten** vorhanden sind:
 
 |:--|:--|
 | Titel | Jedes Werk oder Projekt muss mindestens einen Titel haben.| 
