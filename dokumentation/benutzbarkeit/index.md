@@ -5,6 +5,14 @@ order: 3.0
 permalink: /documentation/usability
 ---
 
+```Usability```
+
+<br/>
+
+---
+
+<br/>
+
 ## Erfassungs-Portal-Tooltips
 
 ```Ingest Portal Tooltips```

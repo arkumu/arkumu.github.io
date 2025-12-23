@@ -642,594 +642,594 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 <details><summary>Project Categories ordered by German Breadcrumb | Projektkategorien nach Deutschem Breadcrumb geordnet</summary>
 <table>
 <tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td>[Akademische Publikation](#project-category-1)</td><td><a href='#project-category-1'>1</a></td></tr>
-<tr><td>[Akademische Publikation](#project-category-1) > [Dissertation](#project-category-2)</td><td><a href='#project-category-2'>2</a></td></tr>
-<tr><td>[Akademische Publikation](#project-category-1) > [Podcast](#project-category-3)</td><td><a href='#project-category-3'>3</a></td></tr>
-<tr><td>[Akademische Publikation](#project-category-1) > [Webseite](#project-category-4)</td><td><a href='#project-category-4'>4</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5)</td><td><a href='#project-category-5'>5</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Architektur](#project-category-6)</td><td><a href='#project-category-6'>6</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7)</td><td><a href='#project-category-7'>7</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Game Design](#project-category-8)</td><td><a href='#project-category-8'>8</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Industrial Design](#project-category-9)</td><td><a href='#project-category-9'>9</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Innenarchitektur](#project-category-10)</td><td><a href='#project-category-10'>10</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Kommunikationsdesign](#project-category-11)</td><td><a href='#project-category-11'>11</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Mediengestaltung](#project-category-12)</td><td><a href='#project-category-12'>12</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Modedesign](#project-category-13)</td><td><a href='#project-category-13'>13</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Sound-Design](#project-category-14)</td><td><a href='#project-category-14'>14</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Textildesign](#project-category-15)</td><td><a href='#project-category-15'>15</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [Transformation Design](#project-category-16)</td><td><a href='#project-category-16'>16</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Design](#project-category-7) > [User Interface Design](#project-category-17)</td><td><a href='#project-category-17'>17</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18)</td><td><a href='#project-category-18'>18</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Architekturfotografie](#project-category-19)</td><td><a href='#project-category-19'>19</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Dokumentarfotografie](#project-category-20)</td><td><a href='#project-category-20'>20</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Fotogrammetrie](#project-category-21)</td><td><a href='#project-category-21'>21</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Fotojournalismus](#project-category-22)</td><td><a href='#project-category-22'>22</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Inszenierte Fotografie](#project-category-23)</td><td><a href='#project-category-23'>23</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Landschaftsfotografie](#project-category-24)</td><td><a href='#project-category-24'>24</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Modefotografie](#project-category-25)</td><td><a href='#project-category-25'>25</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Porträtfotografie](#project-category-26)</td><td><a href='#project-category-26'>26</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Produktfotografie](#project-category-27)</td><td><a href='#project-category-27'>27</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Theaterfotografie](#project-category-28)</td><td><a href='#project-category-28'>28</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Fotografie](#project-category-18) > [Werbefotografie](#project-category-29)</td><td><a href='#project-category-29'>29</a></td></tr>
-<tr><td>[Angewandte Kunst](#project-category-5) > [Keramik](#project-category-30)</td><td><a href='#project-category-30'>30</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31)</td><td><a href='#project-category-31'>31</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32)</td><td><a href='#project-category-32'>32</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Absurdes Theater](#project-category-33)</td><td><a href='#project-category-33'>33</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Alternatives Theater](#project-category-34)</td><td><a href='#project-category-34'>34</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Angewandtes Theater](#project-category-35)</td><td><a href='#project-category-35'>35</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Digital Theatre](#project-category-38)</td><td><a href='#project-category-38'>38</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Dokumentarisches Theater](#project-category-39)</td><td><a href='#project-category-39'>39</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Episches Theater](#project-category-36)</td><td><a href='#project-category-36'>36</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Experimentelles Theater](#project-category-37)</td><td><a href='#project-category-37'>37</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Figurentheater](#project-category-40)</td><td><a href='#project-category-40'>40</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Freilichttheater](#project-category-41)</td><td><a href='#project-category-41'>41</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Improvisationstheater](#project-category-42)</td><td><a href='#project-category-42'>42</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Interaktives Theater](#project-category-43)</td><td><a href='#project-category-43'>43</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Jugendtheater](#project-category-44)</td><td><a href='#project-category-44'>44</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Kindertheater](#project-category-45)</td><td><a href='#project-category-45'>45</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Metatheater](#project-category-46)</td><td><a href='#project-category-46'>46</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Musiktheater](#project-category-47)</td><td><a href='#project-category-47'>47</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Physical Theatre](#project-category-48)</td><td><a href='#project-category-48'>48</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Politisches Theater](#project-category-49)</td><td><a href='#project-category-49'>49</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Postdramatisches Theater](#project-category-50)</td><td><a href='#project-category-50'>50</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Postmodernes Theater](#project-category-51)</td><td><a href='#project-category-51'>51</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Regie](#project-category-280)</td><td><a href='#project-category-280'>280</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Sprechtheater](#project-category-53)</td><td><a href='#project-category-53'>53</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Straßentheater](#project-category-52)</td><td><a href='#project-category-52'>52</a></td></tr>
-<tr><td>[Darstellende Kunst](#project-category-31) > [Theater](#project-category-32) > [Tanztheater](#project-category-54)</td><td><a href='#project-category-54'>54</a></td></tr>
-<tr><td>[Film/TV](#project-category-55)</td><td><a href='#project-category-55'>55</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Animationsfilm](#project-category-56)</td><td><a href='#project-category-56'>56</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Dokudrama](#project-category-57)</td><td><a href='#project-category-57'>57</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Dokumentarfilm](#project-category-58)</td><td><a href='#project-category-58'>58</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Dokumentarfilm](#project-category-58) > [Kurz-Dokumentarfilm](#project-category-59)</td><td><a href='#project-category-59'>59</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Drehbuch](#project-category-60)</td><td><a href='#project-category-60'>60</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Episode](#project-category-61)</td><td><a href='#project-category-61'>61</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Episodenfilm](#project-category-62)</td><td><a href='#project-category-62'>62</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Essay-Film](#project-category-63)</td><td><a href='#project-category-63'>63</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Expanded Cinema](#project-category-64)</td><td><a href='#project-category-64'>64</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Experimentalfilm](#project-category-65)</td><td><a href='#project-category-65'>65</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Kompilationsfilm](#project-category-66)</td><td><a href='#project-category-66'>66</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Mockumentary](#project-category-67)</td><td><a href='#project-category-67'>67</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Musikfilm](#project-category-68)</td><td><a href='#project-category-68'>68</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Musikvideo](#project-category-69)</td><td><a href='#project-category-69'>69</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Reportage](#project-category-70)</td><td><a href='#project-category-70'>70</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Soundtrack](#project-category-71)</td><td><a href='#project-category-71'>71</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Spielfilm](#project-category-72)</td><td><a href='#project-category-72'>72</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Spielfilm](#project-category-72) > [Kurzspielfilm](#project-category-73)</td><td><a href='#project-category-73'>73</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Trailer für Film](#project-category-74)</td><td><a href='#project-category-74'>74</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [TV-Format](#project-category-75)</td><td><a href='#project-category-75'>75</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Webserie](#project-category-76)</td><td><a href='#project-category-76'>76</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Werbespot](#project-category-77)</td><td><a href='#project-category-77'>77</a></td></tr>
-<tr><td>[Kunst](#project-category-78)</td><td><a href='#project-category-78'>78</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Bio Art](#project-category-79)</td><td><a href='#project-category-79'>79</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80)</td><td><a href='#project-category-80'>80</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Augmented Reality](#project-category-81)</td><td><a href='#project-category-81'>81</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [CD-ROM](#project-category-82)</td><td><a href='#project-category-82'>82</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computer Generated Imagery](#project-category-83)</td><td><a href='#project-category-83'>83</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computeranimation](#project-category-84)</td><td><a href='#project-category-84'>84</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Computerspiel](#project-category-85)</td><td><a href='#project-category-85'>85</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Generative Kunst](#project-category-86)</td><td><a href='#project-category-86'>86</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Interaktive Kunst](#project-category-87)</td><td><a href='#project-category-87'>87</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Netzkunst](#project-category-88)</td><td><a href='#project-category-88'>88</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Software](#project-category-89)</td><td><a href='#project-category-89'>89</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [User Interface](#project-category-90)</td><td><a href='#project-category-90'>90</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Virtual Reality](#project-category-91)</td><td><a href='#project-category-91'>91</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Digitale Kunst](#project-category-80) > [Webserie](#project-category-92)</td><td><a href='#project-category-92'>92</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93)</td><td><a href='#project-category-93'>93</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Fotoinstallation](#project-category-94)</td><td><a href='#project-category-94'>94</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Interaktive Kunst](#project-category-95)</td><td><a href='#project-category-95'>95</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Intervention](#project-category-96)</td><td><a href='#project-category-96'>96</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Klanginstallation](#project-category-97)</td><td><a href='#project-category-97'>97</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Kunst am Bau](#project-category-98)</td><td><a href='#project-category-98'>98</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Kunst im öffentlichen Raum](#project-category-99)</td><td><a href='#project-category-99'>99</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Lichtinstallation](#project-category-100)</td><td><a href='#project-category-100'>100</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Installation](#project-category-93) > [Videoinstallation](#project-category-101)</td><td><a href='#project-category-101'>101</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102)</td><td><a href='#project-category-102'>102</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Album](#project-category-103)</td><td><a href='#project-category-103'>103</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Field Recording](#project-category-104)</td><td><a href='#project-category-104'>104</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Hörstück](#project-category-105)</td><td><a href='#project-category-105'>105</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Klanginstallation](#project-category-106)</td><td><a href='#project-category-106'>106</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Klangobjekt](#project-category-107)</td><td><a href='#project-category-107'>107</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Komposition](#project-category-108)</td><td><a href='#project-category-108'>108</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Konzert](#project-category-109)</td><td><a href='#project-category-109'>109</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Klangkunst](#project-category-102) > [Soundtrack](#project-category-110)</td><td><a href='#project-category-110'>110</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111)</td><td><a href='#project-category-111'>111</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Künstler:innen-Buch](#project-category-112)</td><td><a href='#project-category-112'>112</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Künstler:innen-Text](#project-category-113)</td><td><a href='#project-category-113'>113</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Podcast](#project-category-114)</td><td><a href='#project-category-114'>114</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Webseite](#project-category-115)</td><td><a href='#project-category-115'>115</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116)</td><td><a href='#project-category-116'>116</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Computer Generated Imagery](#project-category-117)</td><td><a href='#project-category-117'>117</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Dokumentarfotografie](#project-category-118)</td><td><a href='#project-category-118'>118</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotobuch](#project-category-119)</td><td><a href='#project-category-119'>119</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotogrammetrie](#project-category-120)</td><td><a href='#project-category-120'>120</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Fotoinstallation](#project-category-121)</td><td><a href='#project-category-121'>121</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Inszenierte Fotografie](#project-category-122)</td><td><a href='#project-category-122'>122</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Künstlerische Fotografie](#project-category-116) > [Konzeptuelle Fotografie](#project-category-123)</td><td><a href='#project-category-123'>123</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124)</td><td><a href='#project-category-124'>124</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124) > [Holografie](#project-category-125)</td><td><a href='#project-category-125'>125</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Lichtkunst](#project-category-124) > [Lichtinstallation](#project-category-126)</td><td><a href='#project-category-126'>126</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127)</td><td><a href='#project-category-127'>127</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Abstrakte Malerei](#project-category-288)</td><td><a href='#project-category-288'>288</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Aktmalerei](#project-category-291)</td><td><a href='#project-category-291'>291</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Architekturmalerei](#project-category-289)</td><td><a href='#project-category-289'>289</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Genremalerei](#project-category-286)</td><td><a href='#project-category-286'>286</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Historienmalerei](#project-category-287)</td><td><a href='#project-category-287'>287</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Interieurmalerei](#project-category-290)</td><td><a href='#project-category-290'>290</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Landschaftsmalerei](#project-category-284)</td><td><a href='#project-category-284'>284</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Portrait](#project-category-283)</td><td><a href='#project-category-283'>283</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Malerei](#project-category-127) > [Stilleben](#project-category-285)</td><td><a href='#project-category-285'>285</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128)</td><td><a href='#project-category-128'>128</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Aktion](#project-category-129)</td><td><a href='#project-category-129'>129</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Durational Performance](#project-category-130)</td><td><a href='#project-category-130'>130</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Happening](#project-category-131)</td><td><a href='#project-category-131'>131</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Intervention](#project-category-132)</td><td><a href='#project-category-132'>132</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Performance-Vortrag](#project-category-133)</td><td><a href='#project-category-133'>133</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Performance](#project-category-128) > [Tanz](#project-category-134)</td><td><a href='#project-category-134'>134</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135)</td><td><a href='#project-category-135'>135</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135) > [Modell](#project-category-136)</td><td><a href='#project-category-136'>136</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Skulptur](#project-category-135) > [Ready-made](#project-category-137)</td><td><a href='#project-category-137'>137</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138)</td><td><a href='#project-category-138'>138</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Expanded Cinema](#project-category-139)</td><td><a href='#project-category-139'>139</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Projektionsmapping](#project-category-140)</td><td><a href='#project-category-140'>140</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Video-Essay](#project-category-141)</td><td><a href='#project-category-141'>141</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoinstallation](#project-category-142)</td><td><a href='#project-category-142'>142</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoperformance](#project-category-143)</td><td><a href='#project-category-143'>143</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Videoskulptur](#project-category-144)</td><td><a href='#project-category-144'>144</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Videokunst](#project-category-138) > [Virtual Reality](#project-category-145)</td><td><a href='#project-category-145'>145</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146)</td><td><a href='#project-category-146'>146</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Collage](#project-category-147)</td><td><a href='#project-category-147'>147</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Comic](#project-category-148)</td><td><a href='#project-category-148'>148</a></td></tr>
-<tr><td>[Kunst](#project-category-78) > [Zeichnung](#project-category-146) > [Druckgrafik](#project-category-149)</td><td><a href='#project-category-149'>149</a></td></tr>
-<tr><td>[Literatur](#project-category-150)</td><td><a href='#project-category-150'>150</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151)</td><td><a href='#project-category-151'>151</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Einakter](#project-category-152)</td><td><a href='#project-category-152'>152</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Historiendrama](#project-category-153)</td><td><a href='#project-category-153'>153</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Komödie](#project-category-154)</td><td><a href='#project-category-154'>154</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Libretto](#project-category-155)</td><td><a href='#project-category-155'>155</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Monodrama](#project-category-156)</td><td><a href='#project-category-156'>156</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Moralität](#project-category-157)</td><td><a href='#project-category-157'>157</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Sittenstück](#project-category-158)</td><td><a href='#project-category-158'>158</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Tragikomödie](#project-category-159)</td><td><a href='#project-category-159'>159</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Tragödie](#project-category-160)</td><td><a href='#project-category-160'>160</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drama](#project-category-151) > [Versdrama](#project-category-161)</td><td><a href='#project-category-161'>161</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Drehbuch](#project-category-162)</td><td><a href='#project-category-162'>162</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163)</td><td><a href='#project-category-163'>163</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Erzählung](#project-category-164)</td><td><a href='#project-category-164'>164</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Kurzgeschichte](#project-category-165)</td><td><a href='#project-category-165'>165</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Märchen](#project-category-166)</td><td><a href='#project-category-166'>166</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Novelle](#project-category-167)</td><td><a href='#project-category-167'>167</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Parabel](#project-category-168)</td><td><a href='#project-category-168'>168</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Reportage](#project-category-169)</td><td><a href='#project-category-169'>169</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Roman](#project-category-170)</td><td><a href='#project-category-170'>170</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Epik](#project-category-163) > [Satire](#project-category-171)</td><td><a href='#project-category-171'>171</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Literaturlesung](#project-category-172)</td><td><a href='#project-category-172'>172</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173)</td><td><a href='#project-category-173'>173</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Akrostichon](#project-category-174)</td><td><a href='#project-category-174'>174</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Ballade](#project-category-175)</td><td><a href='#project-category-175'>175</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Elegie](#project-category-176)</td><td><a href='#project-category-176'>176</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Epigramm](#project-category-177)</td><td><a href='#project-category-177'>177</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Gedicht](#project-category-178)</td><td><a href='#project-category-178'>178</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Gedichtsammlung](#project-category-179)</td><td><a href='#project-category-179'>179</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Haiku](#project-category-180)</td><td><a href='#project-category-180'>180</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Hymne](#project-category-181)</td><td><a href='#project-category-181'>181</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Konkrete Poesie](#project-category-182)</td><td><a href='#project-category-182'>182</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Lautgedicht](#project-category-183)</td><td><a href='#project-category-183'>183</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Limerick](#project-category-184)</td><td><a href='#project-category-184'>184</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Lyrik](#project-category-173) > [Songtext](#project-category-185)</td><td><a href='#project-category-185'>185</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nachschlagewerk](#project-category-186)</td><td><a href='#project-category-186'>186</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187)</td><td><a href='#project-category-187'>187</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Autobiografie](#project-category-188)</td><td><a href='#project-category-188'>188</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Biografie](#project-category-189)</td><td><a href='#project-category-189'>189</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Blog](#project-category-190)</td><td><a href='#project-category-190'>190</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Essay](#project-category-191)</td><td><a href='#project-category-191'>191</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Manifest](#project-category-192)</td><td><a href='#project-category-192'>192</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Memoir](#project-category-193)</td><td><a href='#project-category-193'>193</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Ratgeber](#project-category-194)</td><td><a href='#project-category-194'>194</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Sachbuch](#project-category-195)</td><td><a href='#project-category-195'>195</a></td></tr>
-<tr><td>[Literatur](#project-category-150) > [Nichtfiktionale Literatur](#project-category-187) > [Tatsachenroman](#project-category-196)</td><td><a href='#project-category-196'>196</a></td></tr>
-<tr><td>[Musik](#project-category-197)</td><td><a href='#project-category-197'>197</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Außereuropäische Kunstmusik](#project-category-198)</td><td><a href='#project-category-198'>198</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Bühnenmusik](#project-category-199)</td><td><a href='#project-category-199'>199</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Bühnenmusik](#project-category-199) > [Oper](#project-category-279)</td><td><a href='#project-category-279'>279</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Elektroakustische Musik](#project-category-200)</td><td><a href='#project-category-200'>200</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Elektroakustische Musik](#project-category-200) > [Fixed Media](#project-category-281)</td><td><a href='#project-category-281'>281</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Elektronische Musik](#project-category-201)</td><td><a href='#project-category-201'>201</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Ensemblemusik](#project-category-202)</td><td><a href='#project-category-202'>202</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Folklore](#project-category-203)</td><td><a href='#project-category-203'>203</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Geistliche Musik](#project-category-204)</td><td><a href='#project-category-204'>204</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Instrumentalmusik](#project-category-205)</td><td><a href='#project-category-205'>205</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206)</td><td><a href='#project-category-206'>206</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Acid Jazz](#project-category-207)</td><td><a href='#project-category-207'>207</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Afro-Cuban Jazz](#project-category-208)</td><td><a href='#project-category-208'>208</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Avantgarde-Jazz](#project-category-209)</td><td><a href='#project-category-209'>209</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Bebop](#project-category-210)</td><td><a href='#project-category-210'>210</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Big Band](#project-category-211)</td><td><a href='#project-category-211'>211</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Boogie-Woogie](#project-category-212)</td><td><a href='#project-category-212'>212</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Chicago Style](#project-category-213)</td><td><a href='#project-category-213'>213</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Contemporary Jazz](#project-category-214)</td><td><a href='#project-category-214'>214</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Cool Jazz](#project-category-215)</td><td><a href='#project-category-215'>215</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Crossover Jazz](#project-category-216)</td><td><a href='#project-category-216'>216</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Dixieland](#project-category-217)</td><td><a href='#project-category-217'>217</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [East Coast Jazz](#project-category-218)</td><td><a href='#project-category-218'>218</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Ethnojazz](#project-category-219)</td><td><a href='#project-category-219'>219</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Free Jazz](#project-category-220)</td><td><a href='#project-category-220'>220</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Hard Bop](#project-category-221)</td><td><a href='#project-category-221'>221</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Jazz Fusion](#project-category-222)</td><td><a href='#project-category-222'>222</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [New Orleans Jazz](#project-category-223)</td><td><a href='#project-category-223'>223</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Progressive Jazz](#project-category-224)</td><td><a href='#project-category-224'>224</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Ragtime](#project-category-225)</td><td><a href='#project-category-225'>225</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Smooth Jazz](#project-category-226)</td><td><a href='#project-category-226'>226</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [Swing](#project-category-227)</td><td><a href='#project-category-227'>227</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Jazz](#project-category-206) > [West Coast Jazz](#project-category-228)</td><td><a href='#project-category-228'>228</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Klassische Musik](#project-category-229)</td><td><a href='#project-category-229'>229</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Militärmusik](#project-category-230)</td><td><a href='#project-category-230'>230</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Neue Musik](#project-category-231)</td><td><a href='#project-category-231'>231</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Orchestermusik](#project-category-232)</td><td><a href='#project-category-232'>232</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233)</td><td><a href='#project-category-233'>233</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [American Folk](#project-category-234)</td><td><a href='#project-category-234'>234</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Beat](#project-category-235)</td><td><a href='#project-category-235'>235</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Blues](#project-category-236)</td><td><a href='#project-category-236'>236</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Chanson](#project-category-237)</td><td><a href='#project-category-237'>237</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Country](#project-category-238)</td><td><a href='#project-category-238'>238</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Electronic Dance Music](#project-category-239)</td><td><a href='#project-category-239'>239</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Hip-Hop](#project-category-240)</td><td><a href='#project-category-240'>240</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Metal](#project-category-241)</td><td><a href='#project-category-241'>241</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [New Wave](#project-category-242)</td><td><a href='#project-category-242'>242</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Pop](#project-category-243)</td><td><a href='#project-category-243'>243</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Punk](#project-category-244)</td><td><a href='#project-category-244'>244</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Reggae](#project-category-246)</td><td><a href='#project-category-246'>246</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rock and Roll](#project-category-248)</td><td><a href='#project-category-248'>248</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rock](#project-category-247)</td><td><a href='#project-category-247'>247</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Rythm and Blues](#project-category-245)</td><td><a href='#project-category-245'>245</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Schlager](#project-category-249)</td><td><a href='#project-category-249'>249</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Singer/Songwriter/Liedermacher](#project-category-250)</td><td><a href='#project-category-250'>250</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Popularmusik](#project-category-233) > [Ska](#project-category-251)</td><td><a href='#project-category-251'>251</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Solomusik](#project-category-252)</td><td><a href='#project-category-252'>252</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253)</td><td><a href='#project-category-253'>253</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253) > [Filmmusik](#project-category-254)</td><td><a href='#project-category-254'>254</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Soundtrack](#project-category-253) > [Videospielmusik](#project-category-255)</td><td><a href='#project-category-255'>255</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Tanzmusik](#project-category-256)</td><td><a href='#project-category-256'>256</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Vokalmusik](#project-category-257)</td><td><a href='#project-category-257'>257</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Weltliche Musik](#project-category-258)</td><td><a href='#project-category-258'>258</a></td></tr>
-<tr><td>[Musik](#project-category-197) > [Werbemusik](#project-category-259)</td><td><a href='#project-category-259'>259</a></td></tr>
-<tr><td>[Tanz](#project-category-260)</td><td><a href='#project-category-260'>260</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Bühnentanz](#project-category-261)</td><td><a href='#project-category-261'>261</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Gruppentanz](#project-category-262)</td><td><a href='#project-category-262'>262</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Jazztanz](#project-category-263)</td><td><a href='#project-category-263'>263</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Lateinamerikanischer Tanz](#project-category-264)</td><td><a href='#project-category-264'>264</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Modetanz](#project-category-265)</td><td><a href='#project-category-265'>265</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Paartanz](#project-category-266)</td><td><a href='#project-category-266'>266</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Reihentanz](#project-category-267)</td><td><a href='#project-category-267'>267</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Solotanz](#project-category-268)</td><td><a href='#project-category-268'>268</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Standardtanz](#project-category-269)</td><td><a href='#project-category-269'>269</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Streetdance](#project-category-270)</td><td><a href='#project-category-270'>270</a></td></tr>
-<tr><td>[Tanz](#project-category-260) > [Tanztheater](#project-category-271)</td><td><a href='#project-category-271'>271</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272)</td><td><a href='#project-category-272'>272</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Interview](#project-category-273)</td><td><a href='#project-category-273'>273</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Podiumsdiskussion](#project-category-274)</td><td><a href='#project-category-274'>274</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Radiosendung](#project-category-282)</td><td><a href='#project-category-282'>282</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Rede](#project-category-275)</td><td><a href='#project-category-275'>275</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Symposium](#project-category-276)</td><td><a href='#project-category-276'>276</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Vorlesung](#project-category-277)</td><td><a href='#project-category-277'>277</a></td></tr>
-<tr><td>[Veranstaltung](#project-category-272) > [Vortrag](#project-category-278)</td><td><a href='#project-category-278'>278</a></td></tr>
+<tr><td><a href="#project-category-1">Akademische Publikation</a></td><td><a href='#project-category-1'>1</a></td></tr>
+<tr><td><a href="#project-category-1">Akademische Publikation</a> > <a href="#project-category-2">Dissertation</a></td><td><a href='#project-category-2'>2</a></td></tr>
+<tr><td><a href="#project-category-1">Akademische Publikation</a> > <a href="#project-category-3">Podcast</a></td><td><a href='#project-category-3'>3</a></td></tr>
+<tr><td><a href="#project-category-1">Akademische Publikation</a> > <a href="#project-category-4">Webseite</a></td><td><a href='#project-category-4'>4</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a></td><td><a href='#project-category-5'>5</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-6">Architektur</a></td><td><a href='#project-category-6'>6</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a></td><td><a href='#project-category-7'>7</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-8">Game Design</a></td><td><a href='#project-category-8'>8</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-9">Industrial Design</a></td><td><a href='#project-category-9'>9</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-10">Innenarchitektur</a></td><td><a href='#project-category-10'>10</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-11">Kommunikationsdesign</a></td><td><a href='#project-category-11'>11</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-12">Mediengestaltung</a></td><td><a href='#project-category-12'>12</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-13">Modedesign</a></td><td><a href='#project-category-13'>13</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-14">Sound-Design</a></td><td><a href='#project-category-14'>14</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-15">Textildesign</a></td><td><a href='#project-category-15'>15</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-16">Transformation Design</a></td><td><a href='#project-category-16'>16</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-17">User Interface Design</a></td><td><a href='#project-category-17'>17</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a></td><td><a href='#project-category-18'>18</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-19">Architekturfotografie</a></td><td><a href='#project-category-19'>19</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-20">Dokumentarfotografie</a></td><td><a href='#project-category-20'>20</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-21">Fotogrammetrie</a></td><td><a href='#project-category-21'>21</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-22">Fotojournalismus</a></td><td><a href='#project-category-22'>22</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-23">Inszenierte Fotografie</a></td><td><a href='#project-category-23'>23</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-24">Landschaftsfotografie</a></td><td><a href='#project-category-24'>24</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-25">Modefotografie</a></td><td><a href='#project-category-25'>25</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-26">Porträtfotografie</a></td><td><a href='#project-category-26'>26</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-27">Produktfotografie</a></td><td><a href='#project-category-27'>27</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-28">Theaterfotografie</a></td><td><a href='#project-category-28'>28</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-29">Werbefotografie</a></td><td><a href='#project-category-29'>29</a></td></tr>
+<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-30">Keramik</a></td><td><a href='#project-category-30'>30</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a></td><td><a href='#project-category-31'>31</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a></td><td><a href='#project-category-32'>32</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-33">Absurdes Theater</a></td><td><a href='#project-category-33'>33</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-34">Alternatives Theater</a></td><td><a href='#project-category-34'>34</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-35">Angewandtes Theater</a></td><td><a href='#project-category-35'>35</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-38">Digital Theatre</a></td><td><a href='#project-category-38'>38</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-39">Dokumentarisches Theater</a></td><td><a href='#project-category-39'>39</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-36">Episches Theater</a></td><td><a href='#project-category-36'>36</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-37">Experimentelles Theater</a></td><td><a href='#project-category-37'>37</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-40">Figurentheater</a></td><td><a href='#project-category-40'>40</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-41">Freilichttheater</a></td><td><a href='#project-category-41'>41</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-42">Improvisationstheater</a></td><td><a href='#project-category-42'>42</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-43">Interaktives Theater</a></td><td><a href='#project-category-43'>43</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-44">Jugendtheater</a></td><td><a href='#project-category-44'>44</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-45">Kindertheater</a></td><td><a href='#project-category-45'>45</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-46">Metatheater</a></td><td><a href='#project-category-46'>46</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-47">Musiktheater</a></td><td><a href='#project-category-47'>47</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-48">Physical Theatre</a></td><td><a href='#project-category-48'>48</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-49">Politisches Theater</a></td><td><a href='#project-category-49'>49</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-50">Postdramatisches Theater</a></td><td><a href='#project-category-50'>50</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-51">Postmodernes Theater</a></td><td><a href='#project-category-51'>51</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-280">Regie</a></td><td><a href='#project-category-280'>280</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-53">Sprechtheater</a></td><td><a href='#project-category-53'>53</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-52">Straßentheater</a></td><td><a href='#project-category-52'>52</a></td></tr>
+<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-54">Tanztheater</a></td><td><a href='#project-category-54'>54</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a></td><td><a href='#project-category-55'>55</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-56">Animationsfilm</a></td><td><a href='#project-category-56'>56</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-57">Dokudrama</a></td><td><a href='#project-category-57'>57</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Dokumentarfilm</a></td><td><a href='#project-category-58'>58</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Dokumentarfilm</a> > <a href="#project-category-59">Kurz-Dokumentarfilm</a></td><td><a href='#project-category-59'>59</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-60">Drehbuch</a></td><td><a href='#project-category-60'>60</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-61">Episode</a></td><td><a href='#project-category-61'>61</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-62">Episodenfilm</a></td><td><a href='#project-category-62'>62</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-63">Essay-Film</a></td><td><a href='#project-category-63'>63</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-64">Expanded Cinema</a></td><td><a href='#project-category-64'>64</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-65">Experimentalfilm</a></td><td><a href='#project-category-65'>65</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-66">Kompilationsfilm</a></td><td><a href='#project-category-66'>66</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-67">Mockumentary</a></td><td><a href='#project-category-67'>67</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-68">Musikfilm</a></td><td><a href='#project-category-68'>68</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-69">Musikvideo</a></td><td><a href='#project-category-69'>69</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-70">Reportage</a></td><td><a href='#project-category-70'>70</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-71">Soundtrack</a></td><td><a href='#project-category-71'>71</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Spielfilm</a></td><td><a href='#project-category-72'>72</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Spielfilm</a> > <a href="#project-category-73">Kurzspielfilm</a></td><td><a href='#project-category-73'>73</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-74">Trailer für Film</a></td><td><a href='#project-category-74'>74</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-75">TV-Format</a></td><td><a href='#project-category-75'>75</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-76">Webserie</a></td><td><a href='#project-category-76'>76</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-77">Werbespot</a></td><td><a href='#project-category-77'>77</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a></td><td><a href='#project-category-78'>78</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-79">Bio Art</a></td><td><a href='#project-category-79'>79</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a></td><td><a href='#project-category-80'>80</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-81">Augmented Reality</a></td><td><a href='#project-category-81'>81</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-82">CD-ROM</a></td><td><a href='#project-category-82'>82</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-83">Computer Generated Imagery</a></td><td><a href='#project-category-83'>83</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-84">Computeranimation</a></td><td><a href='#project-category-84'>84</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-85">Computerspiel</a></td><td><a href='#project-category-85'>85</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-86">Generative Kunst</a></td><td><a href='#project-category-86'>86</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-87">Interaktive Kunst</a></td><td><a href='#project-category-87'>87</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-88">Netzkunst</a></td><td><a href='#project-category-88'>88</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-89">Software</a></td><td><a href='#project-category-89'>89</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-90">User Interface</a></td><td><a href='#project-category-90'>90</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-91">Virtual Reality</a></td><td><a href='#project-category-91'>91</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-92">Webserie</a></td><td><a href='#project-category-92'>92</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a></td><td><a href='#project-category-93'>93</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-94">Fotoinstallation</a></td><td><a href='#project-category-94'>94</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-95">Interaktive Kunst</a></td><td><a href='#project-category-95'>95</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-96">Intervention</a></td><td><a href='#project-category-96'>96</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-97">Klanginstallation</a></td><td><a href='#project-category-97'>97</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-98">Kunst am Bau</a></td><td><a href='#project-category-98'>98</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-99">Kunst im öffentlichen Raum</a></td><td><a href='#project-category-99'>99</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-100">Lichtinstallation</a></td><td><a href='#project-category-100'>100</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-101">Videoinstallation</a></td><td><a href='#project-category-101'>101</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a></td><td><a href='#project-category-102'>102</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-103">Album</a></td><td><a href='#project-category-103'>103</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-104">Field Recording</a></td><td><a href='#project-category-104'>104</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-105">Hörstück</a></td><td><a href='#project-category-105'>105</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-106">Klanginstallation</a></td><td><a href='#project-category-106'>106</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-107">Klangobjekt</a></td><td><a href='#project-category-107'>107</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-108">Komposition</a></td><td><a href='#project-category-108'>108</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-109">Konzert</a></td><td><a href='#project-category-109'>109</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-110">Soundtrack</a></td><td><a href='#project-category-110'>110</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a></td><td><a href='#project-category-111'>111</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-112">Künstler:innen-Buch</a></td><td><a href='#project-category-112'>112</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-113">Künstler:innen-Text</a></td><td><a href='#project-category-113'>113</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-114">Podcast</a></td><td><a href='#project-category-114'>114</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-115">Webseite</a></td><td><a href='#project-category-115'>115</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a></td><td><a href='#project-category-116'>116</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-117">Computer Generated Imagery</a></td><td><a href='#project-category-117'>117</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-118">Dokumentarfotografie</a></td><td><a href='#project-category-118'>118</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-119">Fotobuch</a></td><td><a href='#project-category-119'>119</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-120">Fotogrammetrie</a></td><td><a href='#project-category-120'>120</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-121">Fotoinstallation</a></td><td><a href='#project-category-121'>121</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-122">Inszenierte Fotografie</a></td><td><a href='#project-category-122'>122</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-123">Konzeptuelle Fotografie</a></td><td><a href='#project-category-123'>123</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-124">Lichtkunst</a></td><td><a href='#project-category-124'>124</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-124">Lichtkunst</a> > <a href="#project-category-125">Holografie</a></td><td><a href='#project-category-125'>125</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-124">Lichtkunst</a> > <a href="#project-category-126">Lichtinstallation</a></td><td><a href='#project-category-126'>126</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a></td><td><a href='#project-category-127'>127</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-288">Abstrakte Malerei</a></td><td><a href='#project-category-288'>288</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-291">Aktmalerei</a></td><td><a href='#project-category-291'>291</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-289">Architekturmalerei</a></td><td><a href='#project-category-289'>289</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-286">Genremalerei</a></td><td><a href='#project-category-286'>286</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-287">Historienmalerei</a></td><td><a href='#project-category-287'>287</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-290">Interieurmalerei</a></td><td><a href='#project-category-290'>290</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-284">Landschaftsmalerei</a></td><td><a href='#project-category-284'>284</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-283">Portrait</a></td><td><a href='#project-category-283'>283</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-285">Stilleben</a></td><td><a href='#project-category-285'>285</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a></td><td><a href='#project-category-128'>128</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-129">Aktion</a></td><td><a href='#project-category-129'>129</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-130">Durational Performance</a></td><td><a href='#project-category-130'>130</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-131">Happening</a></td><td><a href='#project-category-131'>131</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-132">Intervention</a></td><td><a href='#project-category-132'>132</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-133">Performance-Vortrag</a></td><td><a href='#project-category-133'>133</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-134">Tanz</a></td><td><a href='#project-category-134'>134</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-135">Skulptur</a></td><td><a href='#project-category-135'>135</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-135">Skulptur</a> > <a href="#project-category-136">Modell</a></td><td><a href='#project-category-136'>136</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-135">Skulptur</a> > <a href="#project-category-137">Ready-made</a></td><td><a href='#project-category-137'>137</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a></td><td><a href='#project-category-138'>138</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-139">Expanded Cinema</a></td><td><a href='#project-category-139'>139</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-140">Projektionsmapping</a></td><td><a href='#project-category-140'>140</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-141">Video-Essay</a></td><td><a href='#project-category-141'>141</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-142">Videoinstallation</a></td><td><a href='#project-category-142'>142</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-143">Videoperformance</a></td><td><a href='#project-category-143'>143</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-144">Videoskulptur</a></td><td><a href='#project-category-144'>144</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-145">Virtual Reality</a></td><td><a href='#project-category-145'>145</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a></td><td><a href='#project-category-146'>146</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a> > <a href="#project-category-147">Collage</a></td><td><a href='#project-category-147'>147</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a> > <a href="#project-category-148">Comic</a></td><td><a href='#project-category-148'>148</a></td></tr>
+<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a> > <a href="#project-category-149">Druckgrafik</a></td><td><a href='#project-category-149'>149</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a></td><td><a href='#project-category-150'>150</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a></td><td><a href='#project-category-151'>151</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-152">Einakter</a></td><td><a href='#project-category-152'>152</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-153">Historiendrama</a></td><td><a href='#project-category-153'>153</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-154">Komödie</a></td><td><a href='#project-category-154'>154</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-155">Libretto</a></td><td><a href='#project-category-155'>155</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-156">Monodrama</a></td><td><a href='#project-category-156'>156</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-157">Moralität</a></td><td><a href='#project-category-157'>157</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-158">Sittenstück</a></td><td><a href='#project-category-158'>158</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-159">Tragikomödie</a></td><td><a href='#project-category-159'>159</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-160">Tragödie</a></td><td><a href='#project-category-160'>160</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-161">Versdrama</a></td><td><a href='#project-category-161'>161</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-162">Drehbuch</a></td><td><a href='#project-category-162'>162</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a></td><td><a href='#project-category-163'>163</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-164">Erzählung</a></td><td><a href='#project-category-164'>164</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-165">Kurzgeschichte</a></td><td><a href='#project-category-165'>165</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-166">Märchen</a></td><td><a href='#project-category-166'>166</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-167">Novelle</a></td><td><a href='#project-category-167'>167</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-168">Parabel</a></td><td><a href='#project-category-168'>168</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-169">Reportage</a></td><td><a href='#project-category-169'>169</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-170">Roman</a></td><td><a href='#project-category-170'>170</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-171">Satire</a></td><td><a href='#project-category-171'>171</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-172">Literaturlesung</a></td><td><a href='#project-category-172'>172</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a></td><td><a href='#project-category-173'>173</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-174">Akrostichon</a></td><td><a href='#project-category-174'>174</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-175">Ballade</a></td><td><a href='#project-category-175'>175</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-176">Elegie</a></td><td><a href='#project-category-176'>176</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-177">Epigramm</a></td><td><a href='#project-category-177'>177</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-178">Gedicht</a></td><td><a href='#project-category-178'>178</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-179">Gedichtsammlung</a></td><td><a href='#project-category-179'>179</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-180">Haiku</a></td><td><a href='#project-category-180'>180</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-181">Hymne</a></td><td><a href='#project-category-181'>181</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-182">Konkrete Poesie</a></td><td><a href='#project-category-182'>182</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-183">Lautgedicht</a></td><td><a href='#project-category-183'>183</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-184">Limerick</a></td><td><a href='#project-category-184'>184</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-185">Songtext</a></td><td><a href='#project-category-185'>185</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-186">Nachschlagewerk</a></td><td><a href='#project-category-186'>186</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a></td><td><a href='#project-category-187'>187</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-188">Autobiografie</a></td><td><a href='#project-category-188'>188</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-189">Biografie</a></td><td><a href='#project-category-189'>189</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-190">Blog</a></td><td><a href='#project-category-190'>190</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-191">Essay</a></td><td><a href='#project-category-191'>191</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-192">Manifest</a></td><td><a href='#project-category-192'>192</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-193">Memoir</a></td><td><a href='#project-category-193'>193</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-194">Ratgeber</a></td><td><a href='#project-category-194'>194</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-195">Sachbuch</a></td><td><a href='#project-category-195'>195</a></td></tr>
+<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-196">Tatsachenroman</a></td><td><a href='#project-category-196'>196</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a></td><td><a href='#project-category-197'>197</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-198">Außereuropäische Kunstmusik</a></td><td><a href='#project-category-198'>198</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-199">Bühnenmusik</a></td><td><a href='#project-category-199'>199</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-199">Bühnenmusik</a> > <a href="#project-category-279">Oper</a></td><td><a href='#project-category-279'>279</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-200">Elektroakustische Musik</a></td><td><a href='#project-category-200'>200</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-200">Elektroakustische Musik</a> > <a href="#project-category-281">Fixed Media</a></td><td><a href='#project-category-281'>281</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-201">Elektronische Musik</a></td><td><a href='#project-category-201'>201</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-202">Ensemblemusik</a></td><td><a href='#project-category-202'>202</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-203">Folklore</a></td><td><a href='#project-category-203'>203</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-204">Geistliche Musik</a></td><td><a href='#project-category-204'>204</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-205">Instrumentalmusik</a></td><td><a href='#project-category-205'>205</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a></td><td><a href='#project-category-206'>206</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-207">Acid Jazz</a></td><td><a href='#project-category-207'>207</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-208">Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>208</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-209">Avantgarde-Jazz</a></td><td><a href='#project-category-209'>209</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-210">Bebop</a></td><td><a href='#project-category-210'>210</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-211">Big Band</a></td><td><a href='#project-category-211'>211</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-212">Boogie-Woogie</a></td><td><a href='#project-category-212'>212</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-213">Chicago Style</a></td><td><a href='#project-category-213'>213</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-214">Contemporary Jazz</a></td><td><a href='#project-category-214'>214</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-215">Cool Jazz</a></td><td><a href='#project-category-215'>215</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-216">Crossover Jazz</a></td><td><a href='#project-category-216'>216</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-217">Dixieland</a></td><td><a href='#project-category-217'>217</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-218">East Coast Jazz</a></td><td><a href='#project-category-218'>218</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-219">Ethnojazz</a></td><td><a href='#project-category-219'>219</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-220">Free Jazz</a></td><td><a href='#project-category-220'>220</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-221">Hard Bop</a></td><td><a href='#project-category-221'>221</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-222">Jazz Fusion</a></td><td><a href='#project-category-222'>222</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-223">New Orleans Jazz</a></td><td><a href='#project-category-223'>223</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-224">Progressive Jazz</a></td><td><a href='#project-category-224'>224</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-225">Ragtime</a></td><td><a href='#project-category-225'>225</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-226">Smooth Jazz</a></td><td><a href='#project-category-226'>226</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-227">Swing</a></td><td><a href='#project-category-227'>227</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-228">West Coast Jazz</a></td><td><a href='#project-category-228'>228</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-229">Klassische Musik</a></td><td><a href='#project-category-229'>229</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-230">Militärmusik</a></td><td><a href='#project-category-230'>230</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-231">Neue Musik</a></td><td><a href='#project-category-231'>231</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-232">Orchestermusik</a></td><td><a href='#project-category-232'>232</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a></td><td><a href='#project-category-233'>233</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-234">American Folk</a></td><td><a href='#project-category-234'>234</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-235">Beat</a></td><td><a href='#project-category-235'>235</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-236">Blues</a></td><td><a href='#project-category-236'>236</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-237">Chanson</a></td><td><a href='#project-category-237'>237</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-238">Country</a></td><td><a href='#project-category-238'>238</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-239">Electronic Dance Music</a></td><td><a href='#project-category-239'>239</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-240">Hip-Hop</a></td><td><a href='#project-category-240'>240</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-241">Metal</a></td><td><a href='#project-category-241'>241</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-242">New Wave</a></td><td><a href='#project-category-242'>242</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-243">Pop</a></td><td><a href='#project-category-243'>243</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-244">Punk</a></td><td><a href='#project-category-244'>244</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-246">Reggae</a></td><td><a href='#project-category-246'>246</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-248">Rock and Roll</a></td><td><a href='#project-category-248'>248</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-247">Rock</a></td><td><a href='#project-category-247'>247</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-245">Rythm and Blues</a></td><td><a href='#project-category-245'>245</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-249">Schlager</a></td><td><a href='#project-category-249'>249</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-250">Singer/Songwriter/Liedermacher</a></td><td><a href='#project-category-250'>250</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-251">Ska</a></td><td><a href='#project-category-251'>251</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-252">Solomusik</a></td><td><a href='#project-category-252'>252</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-253">Soundtrack</a></td><td><a href='#project-category-253'>253</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-254">Filmmusik</a></td><td><a href='#project-category-254'>254</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-255">Videospielmusik</a></td><td><a href='#project-category-255'>255</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-256">Tanzmusik</a></td><td><a href='#project-category-256'>256</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-257">Vokalmusik</a></td><td><a href='#project-category-257'>257</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-258">Weltliche Musik</a></td><td><a href='#project-category-258'>258</a></td></tr>
+<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-259">Werbemusik</a></td><td><a href='#project-category-259'>259</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a></td><td><a href='#project-category-260'>260</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-261">Bühnentanz</a></td><td><a href='#project-category-261'>261</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-262">Gruppentanz</a></td><td><a href='#project-category-262'>262</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-263">Jazztanz</a></td><td><a href='#project-category-263'>263</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-264">Lateinamerikanischer Tanz</a></td><td><a href='#project-category-264'>264</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-265">Modetanz</a></td><td><a href='#project-category-265'>265</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-266">Paartanz</a></td><td><a href='#project-category-266'>266</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-267">Reihentanz</a></td><td><a href='#project-category-267'>267</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-268">Solotanz</a></td><td><a href='#project-category-268'>268</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-269">Standardtanz</a></td><td><a href='#project-category-269'>269</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-270">Streetdance</a></td><td><a href='#project-category-270'>270</a></td></tr>
+<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-271">Tanztheater</a></td><td><a href='#project-category-271'>271</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a></td><td><a href='#project-category-272'>272</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-273">Interview</a></td><td><a href='#project-category-273'>273</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-274">Podiumsdiskussion</a></td><td><a href='#project-category-274'>274</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-282">Radiosendung</a></td><td><a href='#project-category-282'>282</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-275">Rede</a></td><td><a href='#project-category-275'>275</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-276">Symposium</a></td><td><a href='#project-category-276'>276</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-277">Vorlesung</a></td><td><a href='#project-category-277'>277</a></td></tr>
+<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-278">Vortrag</a></td><td><a href='#project-category-278'>278</a></td></tr>
 </table>
 </details>
 
 <details><summary>Project Categories ordered by English Breadcrumb | Projektkategorien nach Englischem Breadcrumb geordnet</summary>
 <table>
 <tr><th>English Breadcrumb</th><th>ID</th></tr>
-<tr><td>[Academic Publication](#project-category-1)</td><td><a href='#project-category-1'>1</a></td></tr>
-<tr><td>[Academic Publication](#project-category-1) > [Doctoral Thesis](#project-category-2)</td><td><a href='#project-category-2'>2</a></td></tr>
-<tr><td>[Academic Publication](#project-category-1) > [Podcast](#project-category-3)</td><td><a href='#project-category-3'>3</a></td></tr>
-<tr><td>[Academic Publication](#project-category-1) > [Website](#project-category-4)</td><td><a href='#project-category-4'>4</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5)</td><td><a href='#project-category-5'>5</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Architecture](#project-category-6)</td><td><a href='#project-category-6'>6</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Ceramic](#project-category-30)</td><td><a href='#project-category-30'>30</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7)</td><td><a href='#project-category-7'>7</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Fashion Design](#project-category-13)</td><td><a href='#project-category-13'>13</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Game Design](#project-category-8)</td><td><a href='#project-category-8'>8</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Graphic Design](#project-category-11)</td><td><a href='#project-category-11'>11</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Industrial Design](#project-category-9)</td><td><a href='#project-category-9'>9</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Interior Design](#project-category-10)</td><td><a href='#project-category-10'>10</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Media Design](#project-category-12)</td><td><a href='#project-category-12'>12</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Sound Design](#project-category-14)</td><td><a href='#project-category-14'>14</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Textile Design](#project-category-15)</td><td><a href='#project-category-15'>15</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [Transformation Design](#project-category-16)</td><td><a href='#project-category-16'>16</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Design](#project-category-7) > [User Interface Design](#project-category-17)</td><td><a href='#project-category-17'>17</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18)</td><td><a href='#project-category-18'>18</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Advertising Photography](#project-category-29)</td><td><a href='#project-category-29'>29</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Architectural Photography](#project-category-19)</td><td><a href='#project-category-19'>19</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Documentary Photography](#project-category-20)</td><td><a href='#project-category-20'>20</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Fashion Photography](#project-category-25)</td><td><a href='#project-category-25'>25</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Landscape Photography](#project-category-24)</td><td><a href='#project-category-24'>24</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Photogrammetry](#project-category-21)</td><td><a href='#project-category-21'>21</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Photojournalism](#project-category-22)</td><td><a href='#project-category-22'>22</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Portrait Photography](#project-category-26)</td><td><a href='#project-category-26'>26</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Product Photography](#project-category-27)</td><td><a href='#project-category-27'>27</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Staged Photography](#project-category-23)</td><td><a href='#project-category-23'>23</a></td></tr>
-<tr><td>[Applied Arts](#project-category-5) > [Photography](#project-category-18) > [Theatrical Photography](#project-category-28)</td><td><a href='#project-category-28'>28</a></td></tr>
-<tr><td>[Art](#project-category-78)</td><td><a href='#project-category-78'>78</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111)</td><td><a href='#project-category-111'>111</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111) > [Artist's Book](#project-category-112)</td><td><a href='#project-category-112'>112</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Artist's Publication](#project-category-111) > [Artist's Statement](#project-category-113)</td><td><a href='#project-category-113'>113</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Bio Art](#project-category-79)</td><td><a href='#project-category-79'>79</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80)</td><td><a href='#project-category-80'>80</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Augmented Reality](#project-category-81)</td><td><a href='#project-category-81'>81</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [CD-ROM](#project-category-82)</td><td><a href='#project-category-82'>82</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Animation](#project-category-84)</td><td><a href='#project-category-84'>84</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Game](#project-category-85)</td><td><a href='#project-category-85'>85</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Computer Generated Imagery](#project-category-83)</td><td><a href='#project-category-83'>83</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Generative Art](#project-category-86)</td><td><a href='#project-category-86'>86</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Interactive Art](#project-category-87)</td><td><a href='#project-category-87'>87</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Net Art](#project-category-88)</td><td><a href='#project-category-88'>88</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Software](#project-category-89)</td><td><a href='#project-category-89'>89</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [User Interface](#project-category-90)</td><td><a href='#project-category-90'>90</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Virtual Reality](#project-category-91)</td><td><a href='#project-category-91'>91</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Digital Art](#project-category-80) > [Web Series](#project-category-92)</td><td><a href='#project-category-92'>92</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146)</td><td><a href='#project-category-146'>146</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Collage](#project-category-147)</td><td><a href='#project-category-147'>147</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Comic](#project-category-148)</td><td><a href='#project-category-148'>148</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Drawing](#project-category-146) > [Printmaking](#project-category-149)</td><td><a href='#project-category-149'>149</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116)</td><td><a href='#project-category-116'>116</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Computer-Generated Imagery](#project-category-117)</td><td><a href='#project-category-117'>117</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Conceptual Photography](#project-category-123)</td><td><a href='#project-category-123'>123</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Documentary Photography](#project-category-118)</td><td><a href='#project-category-118'>118</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photo Installation](#project-category-121)</td><td><a href='#project-category-121'>121</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photobook](#project-category-119)</td><td><a href='#project-category-119'>119</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Photogrammetry](#project-category-120)</td><td><a href='#project-category-120'>120</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Fine Art Photography](#project-category-116) > [Staged Photography](#project-category-122)</td><td><a href='#project-category-122'>122</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93)</td><td><a href='#project-category-93'>93</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Interactive Art](#project-category-95)</td><td><a href='#project-category-95'>95</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Intervention](#project-category-96)</td><td><a href='#project-category-96'>96</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Light Installation](#project-category-100)</td><td><a href='#project-category-100'>100</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Percent for Art](#project-category-98)</td><td><a href='#project-category-98'>98</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Photo Installation](#project-category-94)</td><td><a href='#project-category-94'>94</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Public Art](#project-category-99)</td><td><a href='#project-category-99'>99</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Sound Installation](#project-category-97)</td><td><a href='#project-category-97'>97</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Installation](#project-category-93) > [Video Installation](#project-category-101)</td><td><a href='#project-category-101'>101</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Podcast](#project-category-114)</td><td><a href='#project-category-114'>114</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Künstler:innen-Publikation](#project-category-111) > [Website](#project-category-115)</td><td><a href='#project-category-115'>115</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124)</td><td><a href='#project-category-124'>124</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124) > [Holography](#project-category-125)</td><td><a href='#project-category-125'>125</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Light Art](#project-category-124) > [Light Installation](#project-category-126)</td><td><a href='#project-category-126'>126</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127)</td><td><a href='#project-category-127'>127</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Abstract Painting](#project-category-288)</td><td><a href='#project-category-288'>288</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Architectural Painting](#project-category-289)</td><td><a href='#project-category-289'>289</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Genre Painting](#project-category-286)</td><td><a href='#project-category-286'>286</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [History Painting](#project-category-287)</td><td><a href='#project-category-287'>287</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Interior Painting](#project-category-290)</td><td><a href='#project-category-290'>290</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Landscape Painting](#project-category-284)</td><td><a href='#project-category-284'>284</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Nude Painting](#project-category-291)</td><td><a href='#project-category-291'>291</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Portrait](#project-category-283)</td><td><a href='#project-category-283'>283</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Painting](#project-category-127) > [Still Life](#project-category-285)</td><td><a href='#project-category-285'>285</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128)</td><td><a href='#project-category-128'>128</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Action](#project-category-129)</td><td><a href='#project-category-129'>129</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Dance](#project-category-134)</td><td><a href='#project-category-134'>134</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Durational Performance](#project-category-130)</td><td><a href='#project-category-130'>130</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Happening](#project-category-131)</td><td><a href='#project-category-131'>131</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Intervention](#project-category-132)</td><td><a href='#project-category-132'>132</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Performance](#project-category-128) > [Lecture Performance](#project-category-133)</td><td><a href='#project-category-133'>133</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135)</td><td><a href='#project-category-135'>135</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135) > [Found Object](#project-category-137)</td><td><a href='#project-category-137'>137</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sculpture](#project-category-135) > [Model](#project-category-136)</td><td><a href='#project-category-136'>136</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102)</td><td><a href='#project-category-102'>102</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Album](#project-category-103)</td><td><a href='#project-category-103'>103</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Composition](#project-category-108)</td><td><a href='#project-category-108'>108</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Concert](#project-category-109)</td><td><a href='#project-category-109'>109</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Field Recording](#project-category-104)</td><td><a href='#project-category-104'>104</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Listening Piece](#project-category-105)</td><td><a href='#project-category-105'>105</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Sound Installation](#project-category-106)</td><td><a href='#project-category-106'>106</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Sound Sculpture](#project-category-107)</td><td><a href='#project-category-107'>107</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Sound Art](#project-category-102) > [Soundtrack](#project-category-110)</td><td><a href='#project-category-110'>110</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138)</td><td><a href='#project-category-138'>138</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Expanded Cinema](#project-category-139)</td><td><a href='#project-category-139'>139</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Projection Mapping](#project-category-140)</td><td><a href='#project-category-140'>140</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Essay](#project-category-141)</td><td><a href='#project-category-141'>141</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Installation](#project-category-142)</td><td><a href='#project-category-142'>142</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Performance](#project-category-143)</td><td><a href='#project-category-143'>143</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Video Sculpture](#project-category-144)</td><td><a href='#project-category-144'>144</a></td></tr>
-<tr><td>[Art](#project-category-78) > [Video Art](#project-category-138) > [Virtual Reality](#project-category-145)</td><td><a href='#project-category-145'>145</a></td></tr>
-<tr><td>[Dance](#project-category-260)</td><td><a href='#project-category-260'>260</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Ballroom Dance](#project-category-269)</td><td><a href='#project-category-269'>269</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Concert Dance](#project-category-261)</td><td><a href='#project-category-261'>261</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Dance Theatre](#project-category-271)</td><td><a href='#project-category-271'>271</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Group Dance](#project-category-262)</td><td><a href='#project-category-262'>262</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Jazz Dance](#project-category-263)</td><td><a href='#project-category-263'>263</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Latin American Dance](#project-category-264)</td><td><a href='#project-category-264'>264</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Line Dance](#project-category-267)</td><td><a href='#project-category-267'>267</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Partner Dance](#project-category-266)</td><td><a href='#project-category-266'>266</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Poplular Dance](#project-category-265)</td><td><a href='#project-category-265'>265</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Solo Dance](#project-category-268)</td><td><a href='#project-category-268'>268</a></td></tr>
-<tr><td>[Dance](#project-category-260) > [Street Dance](#project-category-270)</td><td><a href='#project-category-270'>270</a></td></tr>
-<tr><td>[Event](#project-category-272)</td><td><a href='#project-category-272'>272</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-273)</td><td><a href='#project-category-273'>273</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-274)</td><td><a href='#project-category-274'>274</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-275)</td><td><a href='#project-category-275'>275</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-276)</td><td><a href='#project-category-276'>276</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-277)</td><td><a href='#project-category-277'>277</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Interview](#project-category-278)</td><td><a href='#project-category-278'>278</a></td></tr>
-<tr><td>[Event](#project-category-272) > [Radio Program](#project-category-282)</td><td><a href='#project-category-282'>282</a></td></tr>
-<tr><td>[Film/TV](#project-category-55)</td><td><a href='#project-category-55'>55</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Animated Film](#project-category-56)</td><td><a href='#project-category-56'>56</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Anthology Film](#project-category-62)</td><td><a href='#project-category-62'>62</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Commercial](#project-category-77)</td><td><a href='#project-category-77'>77</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Compilation Film](#project-category-66)</td><td><a href='#project-category-66'>66</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Docudrama](#project-category-57)</td><td><a href='#project-category-57'>57</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Documentary Film](#project-category-58)</td><td><a href='#project-category-58'>58</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Documentary Film](#project-category-58) > [Short Documentary Film](#project-category-59)</td><td><a href='#project-category-59'>59</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Episode](#project-category-61)</td><td><a href='#project-category-61'>61</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Essay Film](#project-category-63)</td><td><a href='#project-category-63'>63</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Expanded Cinema](#project-category-64)</td><td><a href='#project-category-64'>64</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Experimental Film](#project-category-65)</td><td><a href='#project-category-65'>65</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Feature Film](#project-category-72)</td><td><a href='#project-category-72'>72</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Feature Film](#project-category-72) > [Short Film](#project-category-73)</td><td><a href='#project-category-73'>73</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Film Trailer](#project-category-74)</td><td><a href='#project-category-74'>74</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Mockumentary](#project-category-67)</td><td><a href='#project-category-67'>67</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Music Video](#project-category-69)</td><td><a href='#project-category-69'>69</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Musical Film](#project-category-68)</td><td><a href='#project-category-68'>68</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Reportage](#project-category-70)</td><td><a href='#project-category-70'>70</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Screenplay](#project-category-60)</td><td><a href='#project-category-60'>60</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Soundtrack](#project-category-71)</td><td><a href='#project-category-71'>71</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Television Program](#project-category-75)</td><td><a href='#project-category-75'>75</a></td></tr>
-<tr><td>[Film/TV](#project-category-55) > [Web Series](#project-category-76)</td><td><a href='#project-category-76'>76</a></td></tr>
-<tr><td>[Literature](#project-category-150)</td><td><a href='#project-category-150'>150</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151)</td><td><a href='#project-category-151'>151</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy Drama](#project-category-159)</td><td><a href='#project-category-159'>159</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy of Manors](#project-category-158)</td><td><a href='#project-category-158'>158</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Comedy](#project-category-154)</td><td><a href='#project-category-154'>154</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Historical Play](#project-category-153)</td><td><a href='#project-category-153'>153</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Libretto](#project-category-155)</td><td><a href='#project-category-155'>155</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Monodrama](#project-category-156)</td><td><a href='#project-category-156'>156</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Morality Play](#project-category-157)</td><td><a href='#project-category-157'>157</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [One-act Play](#project-category-152)</td><td><a href='#project-category-152'>152</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Tragedy](#project-category-160)</td><td><a href='#project-category-160'>160</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Drama](#project-category-151) > [Verse Drama](#project-category-161)</td><td><a href='#project-category-161'>161</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163)</td><td><a href='#project-category-163'>163</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Fairy Tale](#project-category-166)</td><td><a href='#project-category-166'>166</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Narrative Story](#project-category-164)</td><td><a href='#project-category-164'>164</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Novel](#project-category-170)</td><td><a href='#project-category-170'>170</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Novella](#project-category-167)</td><td><a href='#project-category-167'>167</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Parable](#project-category-168)</td><td><a href='#project-category-168'>168</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Reportage](#project-category-169)</td><td><a href='#project-category-169'>169</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Satire](#project-category-171)</td><td><a href='#project-category-171'>171</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Epic Literature](#project-category-163) > [Short Story](#project-category-165)</td><td><a href='#project-category-165'>165</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Literary Reading](#project-category-172)</td><td><a href='#project-category-172'>172</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187)</td><td><a href='#project-category-187'>187</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Autobiography](#project-category-188)</td><td><a href='#project-category-188'>188</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Biography](#project-category-189)</td><td><a href='#project-category-189'>189</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Blog](#project-category-190)</td><td><a href='#project-category-190'>190</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Essay](#project-category-191)</td><td><a href='#project-category-191'>191</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Manifesto](#project-category-192)</td><td><a href='#project-category-192'>192</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Memoir](#project-category-193)</td><td><a href='#project-category-193'>193</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Non-fiction Book](#project-category-195)</td><td><a href='#project-category-195'>195</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Non-fiction Novel](#project-category-196)</td><td><a href='#project-category-196'>196</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Non-fictional Literature](#project-category-187) > [Self-help Book](#project-category-194)</td><td><a href='#project-category-194'>194</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173)</td><td><a href='#project-category-173'>173</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Acrostic](#project-category-174)</td><td><a href='#project-category-174'>174</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Ballad](#project-category-175)</td><td><a href='#project-category-175'>175</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Concrete Poetry](#project-category-182)</td><td><a href='#project-category-182'>182</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Elegy](#project-category-176)</td><td><a href='#project-category-176'>176</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Epigram](#project-category-177)</td><td><a href='#project-category-177'>177</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Haiku](#project-category-180)</td><td><a href='#project-category-180'>180</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Hymn](#project-category-181)</td><td><a href='#project-category-181'>181</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Limerick](#project-category-184)</td><td><a href='#project-category-184'>184</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Poem](#project-category-178)</td><td><a href='#project-category-178'>178</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Poetry Collection](#project-category-179)</td><td><a href='#project-category-179'>179</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Song Lyrics](#project-category-185)</td><td><a href='#project-category-185'>185</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Poetry](#project-category-173) > [Sound Poetry](#project-category-183)</td><td><a href='#project-category-183'>183</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Reference Work](#project-category-186)</td><td><a href='#project-category-186'>186</a></td></tr>
-<tr><td>[Literature](#project-category-150) > [Screenplay](#project-category-162)</td><td><a href='#project-category-162'>162</a></td></tr>
-<tr><td>[Music](#project-category-197)</td><td><a href='#project-category-197'>197</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Advertising Music](#project-category-259)</td><td><a href='#project-category-259'>259</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Classical Music](#project-category-229)</td><td><a href='#project-category-229'>229</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Dance Music](#project-category-256)</td><td><a href='#project-category-256'>256</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Electroacoustic Music](#project-category-200)</td><td><a href='#project-category-200'>200</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Electroacoustic Music](#project-category-200) > [Fixed Media](#project-category-281)</td><td><a href='#project-category-281'>281</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Electronic Music](#project-category-201)</td><td><a href='#project-category-201'>201</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Ensemble Music](#project-category-202)</td><td><a href='#project-category-202'>202</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Folklore](#project-category-203)</td><td><a href='#project-category-203'>203</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Instrumental Music](#project-category-205)</td><td><a href='#project-category-205'>205</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206)</td><td><a href='#project-category-206'>206</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Acid Jazz](#project-category-207)</td><td><a href='#project-category-207'>207</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Afro-Cuban Jazz](#project-category-208)</td><td><a href='#project-category-208'>208</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Avantgarde Jazz](#project-category-209)</td><td><a href='#project-category-209'>209</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Bebop](#project-category-210)</td><td><a href='#project-category-210'>210</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Big Band Music](#project-category-211)</td><td><a href='#project-category-211'>211</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Boogie-Woogie](#project-category-212)</td><td><a href='#project-category-212'>212</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Chicago Style](#project-category-213)</td><td><a href='#project-category-213'>213</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Contemporary Jazz](#project-category-214)</td><td><a href='#project-category-214'>214</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Cool Jazz](#project-category-215)</td><td><a href='#project-category-215'>215</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Crossover Jazz](#project-category-216)</td><td><a href='#project-category-216'>216</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Dixieland](#project-category-217)</td><td><a href='#project-category-217'>217</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [East Coast Jazz](#project-category-218)</td><td><a href='#project-category-218'>218</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Ethno Jazz](#project-category-219)</td><td><a href='#project-category-219'>219</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Free Jazz](#project-category-220)</td><td><a href='#project-category-220'>220</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Hard Bop](#project-category-221)</td><td><a href='#project-category-221'>221</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Jazz Fusion](#project-category-222)</td><td><a href='#project-category-222'>222</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [New Orleans Jazz](#project-category-223)</td><td><a href='#project-category-223'>223</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Progressive Jazz](#project-category-224)</td><td><a href='#project-category-224'>224</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Ragtime](#project-category-225)</td><td><a href='#project-category-225'>225</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Smooth Jazz](#project-category-226)</td><td><a href='#project-category-226'>226</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [Swing](#project-category-227)</td><td><a href='#project-category-227'>227</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Jazz](#project-category-206) > [West Coast Jazz](#project-category-228)</td><td><a href='#project-category-228'>228</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Military Music](#project-category-230)</td><td><a href='#project-category-230'>230</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Neue Musik](#project-category-231)</td><td><a href='#project-category-231'>231</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Non-european Art Music](#project-category-198)</td><td><a href='#project-category-198'>198</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Orchestral Music](#project-category-232)</td><td><a href='#project-category-232'>232</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233)</td><td><a href='#project-category-233'>233</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [American Folk](#project-category-234)</td><td><a href='#project-category-234'>234</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Beat](#project-category-235)</td><td><a href='#project-category-235'>235</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Blues](#project-category-236)</td><td><a href='#project-category-236'>236</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Chanson](#project-category-237)</td><td><a href='#project-category-237'>237</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Country](#project-category-238)</td><td><a href='#project-category-238'>238</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Electronic Dance Music](#project-category-239)</td><td><a href='#project-category-239'>239</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Hip-Hop](#project-category-240)</td><td><a href='#project-category-240'>240</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Metal](#project-category-241)</td><td><a href='#project-category-241'>241</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [New Wave](#project-category-242)</td><td><a href='#project-category-242'>242</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Pop](#project-category-243)</td><td><a href='#project-category-243'>243</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Punk](#project-category-244)</td><td><a href='#project-category-244'>244</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Reggae](#project-category-246)</td><td><a href='#project-category-246'>246</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rock and Roll](#project-category-248)</td><td><a href='#project-category-248'>248</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rock](#project-category-247)</td><td><a href='#project-category-247'>247</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Rythm and Blues](#project-category-245)</td><td><a href='#project-category-245'>245</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Schlager](#project-category-249)</td><td><a href='#project-category-249'>249</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Singer-Songwriter](#project-category-250)</td><td><a href='#project-category-250'>250</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Popular Music](#project-category-233) > [Ska](#project-category-251)</td><td><a href='#project-category-251'>251</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Sacred Music](#project-category-204)</td><td><a href='#project-category-204'>204</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Secular Music](#project-category-258)</td><td><a href='#project-category-258'>258</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Solo Music](#project-category-252)</td><td><a href='#project-category-252'>252</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253)</td><td><a href='#project-category-253'>253</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253) > [Film Music](#project-category-254)</td><td><a href='#project-category-254'>254</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Soundtrack](#project-category-253) > [Game Soundtrack](#project-category-255)</td><td><a href='#project-category-255'>255</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Stage Music](#project-category-199)</td><td><a href='#project-category-199'>199</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Stage Music](#project-category-199) > [Oper](#project-category-279)</td><td><a href='#project-category-279'>279</a></td></tr>
-<tr><td>[Music](#project-category-197) > [Vocal Music](#project-category-257)</td><td><a href='#project-category-257'>257</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31)</td><td><a href='#project-category-31'>31</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32)</td><td><a href='#project-category-32'>32</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Alternative Theater](#project-category-34)</td><td><a href='#project-category-34'>34</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Applied Theatre](#project-category-35)</td><td><a href='#project-category-35'>35</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Children's Theatre](#project-category-45)</td><td><a href='#project-category-45'>45</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Dance Theatre](#project-category-54)</td><td><a href='#project-category-54'>54</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Digital Theatre](#project-category-38)</td><td><a href='#project-category-38'>38</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Direction](#project-category-280)</td><td><a href='#project-category-280'>280</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Documentary Theatre](#project-category-39)</td><td><a href='#project-category-39'>39</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Epic Theatre](#project-category-36)</td><td><a href='#project-category-36'>36</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Experimental Theatre](#project-category-37)</td><td><a href='#project-category-37'>37</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Improvisational Theatre](#project-category-42)</td><td><a href='#project-category-42'>42</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Interactive Theatre](#project-category-43)</td><td><a href='#project-category-43'>43</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Meta-Theatre](#project-category-46)</td><td><a href='#project-category-46'>46</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Musical Theatre](#project-category-47)</td><td><a href='#project-category-47'>47</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Open-Air Theatre](#project-category-41)</td><td><a href='#project-category-41'>41</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Physical Theatre](#project-category-48)</td><td><a href='#project-category-48'>48</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Political Theatre](#project-category-49)</td><td><a href='#project-category-49'>49</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Postdramatic Theatre](#project-category-50)</td><td><a href='#project-category-50'>50</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Postmodern Theatre](#project-category-51)</td><td><a href='#project-category-51'>51</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Puppetry Arts](#project-category-40)</td><td><a href='#project-category-40'>40</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Spoken Drama](#project-category-53)</td><td><a href='#project-category-53'>53</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Street Theatre](#project-category-52)</td><td><a href='#project-category-52'>52</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Theatre of the Absurd](#project-category-33)</td><td><a href='#project-category-33'>33</a></td></tr>
-<tr><td>[Performing Arts](#project-category-31) > [Theatre](#project-category-32) > [Youth Theatre](#project-category-44)</td><td><a href='#project-category-44'>44</a></td></tr>
+<tr><td><a href="#project-category-1">Academic Publication</a></td><td><a href='#project-category-1'>1</a></td></tr>
+<tr><td><a href="#project-category-1">Academic Publication</a> > <a href="#project-category-2">Doctoral Thesis</a></td><td><a href='#project-category-2'>2</a></td></tr>
+<tr><td><a href="#project-category-1">Academic Publication</a> > <a href="#project-category-3">Podcast</a></td><td><a href='#project-category-3'>3</a></td></tr>
+<tr><td><a href="#project-category-1">Academic Publication</a> > <a href="#project-category-4">Website</a></td><td><a href='#project-category-4'>4</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a></td><td><a href='#project-category-5'>5</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-6">Architecture</a></td><td><a href='#project-category-6'>6</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-30">Ceramic</a></td><td><a href='#project-category-30'>30</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a></td><td><a href='#project-category-7'>7</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-13">Fashion Design</a></td><td><a href='#project-category-13'>13</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-8">Game Design</a></td><td><a href='#project-category-8'>8</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-11">Graphic Design</a></td><td><a href='#project-category-11'>11</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-9">Industrial Design</a></td><td><a href='#project-category-9'>9</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-10">Interior Design</a></td><td><a href='#project-category-10'>10</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-12">Media Design</a></td><td><a href='#project-category-12'>12</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-14">Sound Design</a></td><td><a href='#project-category-14'>14</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-15">Textile Design</a></td><td><a href='#project-category-15'>15</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-16">Transformation Design</a></td><td><a href='#project-category-16'>16</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-17">User Interface Design</a></td><td><a href='#project-category-17'>17</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a></td><td><a href='#project-category-18'>18</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-29">Advertising Photography</a></td><td><a href='#project-category-29'>29</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-19">Architectural Photography</a></td><td><a href='#project-category-19'>19</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-20">Documentary Photography</a></td><td><a href='#project-category-20'>20</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-25">Fashion Photography</a></td><td><a href='#project-category-25'>25</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-24">Landscape Photography</a></td><td><a href='#project-category-24'>24</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-21">Photogrammetry</a></td><td><a href='#project-category-21'>21</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-22">Photojournalism</a></td><td><a href='#project-category-22'>22</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-26">Portrait Photography</a></td><td><a href='#project-category-26'>26</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-27">Product Photography</a></td><td><a href='#project-category-27'>27</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-23">Staged Photography</a></td><td><a href='#project-category-23'>23</a></td></tr>
+<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-28">Theatrical Photography</a></td><td><a href='#project-category-28'>28</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a></td><td><a href='#project-category-78'>78</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Artist's Publication</a></td><td><a href='#project-category-111'>111</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Artist's Publication</a> > <a href="#project-category-112">Artist's Book</a></td><td><a href='#project-category-112'>112</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Artist's Publication</a> > <a href="#project-category-113">Artist's Statement</a></td><td><a href='#project-category-113'>113</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-79">Bio Art</a></td><td><a href='#project-category-79'>79</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a></td><td><a href='#project-category-80'>80</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-81">Augmented Reality</a></td><td><a href='#project-category-81'>81</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-82">CD-ROM</a></td><td><a href='#project-category-82'>82</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-84">Computer Animation</a></td><td><a href='#project-category-84'>84</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-85">Computer Game</a></td><td><a href='#project-category-85'>85</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-83">Computer Generated Imagery</a></td><td><a href='#project-category-83'>83</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-86">Generative Art</a></td><td><a href='#project-category-86'>86</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-87">Interactive Art</a></td><td><a href='#project-category-87'>87</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-88">Net Art</a></td><td><a href='#project-category-88'>88</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-89">Software</a></td><td><a href='#project-category-89'>89</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-90">User Interface</a></td><td><a href='#project-category-90'>90</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-91">Virtual Reality</a></td><td><a href='#project-category-91'>91</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-92">Web Series</a></td><td><a href='#project-category-92'>92</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a></td><td><a href='#project-category-146'>146</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a> > <a href="#project-category-147">Collage</a></td><td><a href='#project-category-147'>147</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a> > <a href="#project-category-148">Comic</a></td><td><a href='#project-category-148'>148</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a> > <a href="#project-category-149">Printmaking</a></td><td><a href='#project-category-149'>149</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a></td><td><a href='#project-category-116'>116</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-117">Computer-Generated Imagery</a></td><td><a href='#project-category-117'>117</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-123">Conceptual Photography</a></td><td><a href='#project-category-123'>123</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-118">Documentary Photography</a></td><td><a href='#project-category-118'>118</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-121">Photo Installation</a></td><td><a href='#project-category-121'>121</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-119">Photobook</a></td><td><a href='#project-category-119'>119</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-120">Photogrammetry</a></td><td><a href='#project-category-120'>120</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-122">Staged Photography</a></td><td><a href='#project-category-122'>122</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a></td><td><a href='#project-category-93'>93</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-95">Interactive Art</a></td><td><a href='#project-category-95'>95</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-96">Intervention</a></td><td><a href='#project-category-96'>96</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-100">Light Installation</a></td><td><a href='#project-category-100'>100</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-98">Percent for Art</a></td><td><a href='#project-category-98'>98</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-94">Photo Installation</a></td><td><a href='#project-category-94'>94</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-99">Public Art</a></td><td><a href='#project-category-99'>99</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-97">Sound Installation</a></td><td><a href='#project-category-97'>97</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-101">Video Installation</a></td><td><a href='#project-category-101'>101</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-114">Podcast</a></td><td><a href='#project-category-114'>114</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-115">Website</a></td><td><a href='#project-category-115'>115</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-124">Light Art</a></td><td><a href='#project-category-124'>124</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-124">Light Art</a> > <a href="#project-category-125">Holography</a></td><td><a href='#project-category-125'>125</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-124">Light Art</a> > <a href="#project-category-126">Light Installation</a></td><td><a href='#project-category-126'>126</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a></td><td><a href='#project-category-127'>127</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-288">Abstract Painting</a></td><td><a href='#project-category-288'>288</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-289">Architectural Painting</a></td><td><a href='#project-category-289'>289</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-286">Genre Painting</a></td><td><a href='#project-category-286'>286</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-287">History Painting</a></td><td><a href='#project-category-287'>287</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-290">Interior Painting</a></td><td><a href='#project-category-290'>290</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-284">Landscape Painting</a></td><td><a href='#project-category-284'>284</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-291">Nude Painting</a></td><td><a href='#project-category-291'>291</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-283">Portrait</a></td><td><a href='#project-category-283'>283</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-285">Still Life</a></td><td><a href='#project-category-285'>285</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a></td><td><a href='#project-category-128'>128</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-129">Action</a></td><td><a href='#project-category-129'>129</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-134">Dance</a></td><td><a href='#project-category-134'>134</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-130">Durational Performance</a></td><td><a href='#project-category-130'>130</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-131">Happening</a></td><td><a href='#project-category-131'>131</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-132">Intervention</a></td><td><a href='#project-category-132'>132</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-133">Lecture Performance</a></td><td><a href='#project-category-133'>133</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-135">Sculpture</a></td><td><a href='#project-category-135'>135</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-135">Sculpture</a> > <a href="#project-category-137">Found Object</a></td><td><a href='#project-category-137'>137</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-135">Sculpture</a> > <a href="#project-category-136">Model</a></td><td><a href='#project-category-136'>136</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a></td><td><a href='#project-category-102'>102</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-103">Album</a></td><td><a href='#project-category-103'>103</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-108">Composition</a></td><td><a href='#project-category-108'>108</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-109">Concert</a></td><td><a href='#project-category-109'>109</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-104">Field Recording</a></td><td><a href='#project-category-104'>104</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-105">Listening Piece</a></td><td><a href='#project-category-105'>105</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-106">Sound Installation</a></td><td><a href='#project-category-106'>106</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-107">Sound Sculpture</a></td><td><a href='#project-category-107'>107</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-110">Soundtrack</a></td><td><a href='#project-category-110'>110</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a></td><td><a href='#project-category-138'>138</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-139">Expanded Cinema</a></td><td><a href='#project-category-139'>139</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-140">Projection Mapping</a></td><td><a href='#project-category-140'>140</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-141">Video Essay</a></td><td><a href='#project-category-141'>141</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-142">Video Installation</a></td><td><a href='#project-category-142'>142</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-143">Video Performance</a></td><td><a href='#project-category-143'>143</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-144">Video Sculpture</a></td><td><a href='#project-category-144'>144</a></td></tr>
+<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-145">Virtual Reality</a></td><td><a href='#project-category-145'>145</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a></td><td><a href='#project-category-260'>260</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-269">Ballroom Dance</a></td><td><a href='#project-category-269'>269</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-261">Concert Dance</a></td><td><a href='#project-category-261'>261</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-271">Dance Theatre</a></td><td><a href='#project-category-271'>271</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-262">Group Dance</a></td><td><a href='#project-category-262'>262</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-263">Jazz Dance</a></td><td><a href='#project-category-263'>263</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-264">Latin American Dance</a></td><td><a href='#project-category-264'>264</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-267">Line Dance</a></td><td><a href='#project-category-267'>267</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-266">Partner Dance</a></td><td><a href='#project-category-266'>266</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-265">Poplular Dance</a></td><td><a href='#project-category-265'>265</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-268">Solo Dance</a></td><td><a href='#project-category-268'>268</a></td></tr>
+<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-270">Street Dance</a></td><td><a href='#project-category-270'>270</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a></td><td><a href='#project-category-272'>272</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-273">Interview</a></td><td><a href='#project-category-273'>273</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-274">Interview</a></td><td><a href='#project-category-274'>274</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-275">Interview</a></td><td><a href='#project-category-275'>275</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-276">Interview</a></td><td><a href='#project-category-276'>276</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-277">Interview</a></td><td><a href='#project-category-277'>277</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-278">Interview</a></td><td><a href='#project-category-278'>278</a></td></tr>
+<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-282">Radio Program</a></td><td><a href='#project-category-282'>282</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a></td><td><a href='#project-category-55'>55</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-56">Animated Film</a></td><td><a href='#project-category-56'>56</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-62">Anthology Film</a></td><td><a href='#project-category-62'>62</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-77">Commercial</a></td><td><a href='#project-category-77'>77</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-66">Compilation Film</a></td><td><a href='#project-category-66'>66</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-57">Docudrama</a></td><td><a href='#project-category-57'>57</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Documentary Film</a></td><td><a href='#project-category-58'>58</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Documentary Film</a> > <a href="#project-category-59">Short Documentary Film</a></td><td><a href='#project-category-59'>59</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-61">Episode</a></td><td><a href='#project-category-61'>61</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-63">Essay Film</a></td><td><a href='#project-category-63'>63</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-64">Expanded Cinema</a></td><td><a href='#project-category-64'>64</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-65">Experimental Film</a></td><td><a href='#project-category-65'>65</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Feature Film</a></td><td><a href='#project-category-72'>72</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Feature Film</a> > <a href="#project-category-73">Short Film</a></td><td><a href='#project-category-73'>73</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-74">Film Trailer</a></td><td><a href='#project-category-74'>74</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-67">Mockumentary</a></td><td><a href='#project-category-67'>67</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-69">Music Video</a></td><td><a href='#project-category-69'>69</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-68">Musical Film</a></td><td><a href='#project-category-68'>68</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-70">Reportage</a></td><td><a href='#project-category-70'>70</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-60">Screenplay</a></td><td><a href='#project-category-60'>60</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-71">Soundtrack</a></td><td><a href='#project-category-71'>71</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-75">Television Program</a></td><td><a href='#project-category-75'>75</a></td></tr>
+<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-76">Web Series</a></td><td><a href='#project-category-76'>76</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a></td><td><a href='#project-category-150'>150</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a></td><td><a href='#project-category-151'>151</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-159">Comedy Drama</a></td><td><a href='#project-category-159'>159</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-158">Comedy of Manors</a></td><td><a href='#project-category-158'>158</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-154">Comedy</a></td><td><a href='#project-category-154'>154</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-153">Historical Play</a></td><td><a href='#project-category-153'>153</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-155">Libretto</a></td><td><a href='#project-category-155'>155</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-156">Monodrama</a></td><td><a href='#project-category-156'>156</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-157">Morality Play</a></td><td><a href='#project-category-157'>157</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-152">One-act Play</a></td><td><a href='#project-category-152'>152</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-160">Tragedy</a></td><td><a href='#project-category-160'>160</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-161">Verse Drama</a></td><td><a href='#project-category-161'>161</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a></td><td><a href='#project-category-163'>163</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-166">Fairy Tale</a></td><td><a href='#project-category-166'>166</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-164">Narrative Story</a></td><td><a href='#project-category-164'>164</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-170">Novel</a></td><td><a href='#project-category-170'>170</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-167">Novella</a></td><td><a href='#project-category-167'>167</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-168">Parable</a></td><td><a href='#project-category-168'>168</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-169">Reportage</a></td><td><a href='#project-category-169'>169</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-171">Satire</a></td><td><a href='#project-category-171'>171</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-165">Short Story</a></td><td><a href='#project-category-165'>165</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-172">Literary Reading</a></td><td><a href='#project-category-172'>172</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a></td><td><a href='#project-category-187'>187</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-188">Autobiography</a></td><td><a href='#project-category-188'>188</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-189">Biography</a></td><td><a href='#project-category-189'>189</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-190">Blog</a></td><td><a href='#project-category-190'>190</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-191">Essay</a></td><td><a href='#project-category-191'>191</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-192">Manifesto</a></td><td><a href='#project-category-192'>192</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-193">Memoir</a></td><td><a href='#project-category-193'>193</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-195">Non-fiction Book</a></td><td><a href='#project-category-195'>195</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-196">Non-fiction Novel</a></td><td><a href='#project-category-196'>196</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-194">Self-help Book</a></td><td><a href='#project-category-194'>194</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a></td><td><a href='#project-category-173'>173</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-174">Acrostic</a></td><td><a href='#project-category-174'>174</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-175">Ballad</a></td><td><a href='#project-category-175'>175</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-182">Concrete Poetry</a></td><td><a href='#project-category-182'>182</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-176">Elegy</a></td><td><a href='#project-category-176'>176</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-177">Epigram</a></td><td><a href='#project-category-177'>177</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-180">Haiku</a></td><td><a href='#project-category-180'>180</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-181">Hymn</a></td><td><a href='#project-category-181'>181</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-184">Limerick</a></td><td><a href='#project-category-184'>184</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-178">Poem</a></td><td><a href='#project-category-178'>178</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-179">Poetry Collection</a></td><td><a href='#project-category-179'>179</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-185">Song Lyrics</a></td><td><a href='#project-category-185'>185</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-183">Sound Poetry</a></td><td><a href='#project-category-183'>183</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-186">Reference Work</a></td><td><a href='#project-category-186'>186</a></td></tr>
+<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-162">Screenplay</a></td><td><a href='#project-category-162'>162</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a></td><td><a href='#project-category-197'>197</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-259">Advertising Music</a></td><td><a href='#project-category-259'>259</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-229">Classical Music</a></td><td><a href='#project-category-229'>229</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-256">Dance Music</a></td><td><a href='#project-category-256'>256</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-200">Electroacoustic Music</a></td><td><a href='#project-category-200'>200</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-200">Electroacoustic Music</a> > <a href="#project-category-281">Fixed Media</a></td><td><a href='#project-category-281'>281</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-201">Electronic Music</a></td><td><a href='#project-category-201'>201</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-202">Ensemble Music</a></td><td><a href='#project-category-202'>202</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-203">Folklore</a></td><td><a href='#project-category-203'>203</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-205">Instrumental Music</a></td><td><a href='#project-category-205'>205</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a></td><td><a href='#project-category-206'>206</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-207">Acid Jazz</a></td><td><a href='#project-category-207'>207</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-208">Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>208</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-209">Avantgarde Jazz</a></td><td><a href='#project-category-209'>209</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-210">Bebop</a></td><td><a href='#project-category-210'>210</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-211">Big Band Music</a></td><td><a href='#project-category-211'>211</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-212">Boogie-Woogie</a></td><td><a href='#project-category-212'>212</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-213">Chicago Style</a></td><td><a href='#project-category-213'>213</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-214">Contemporary Jazz</a></td><td><a href='#project-category-214'>214</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-215">Cool Jazz</a></td><td><a href='#project-category-215'>215</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-216">Crossover Jazz</a></td><td><a href='#project-category-216'>216</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-217">Dixieland</a></td><td><a href='#project-category-217'>217</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-218">East Coast Jazz</a></td><td><a href='#project-category-218'>218</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-219">Ethno Jazz</a></td><td><a href='#project-category-219'>219</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-220">Free Jazz</a></td><td><a href='#project-category-220'>220</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-221">Hard Bop</a></td><td><a href='#project-category-221'>221</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-222">Jazz Fusion</a></td><td><a href='#project-category-222'>222</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-223">New Orleans Jazz</a></td><td><a href='#project-category-223'>223</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-224">Progressive Jazz</a></td><td><a href='#project-category-224'>224</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-225">Ragtime</a></td><td><a href='#project-category-225'>225</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-226">Smooth Jazz</a></td><td><a href='#project-category-226'>226</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-227">Swing</a></td><td><a href='#project-category-227'>227</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-228">West Coast Jazz</a></td><td><a href='#project-category-228'>228</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-230">Military Music</a></td><td><a href='#project-category-230'>230</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-231">Neue Musik</a></td><td><a href='#project-category-231'>231</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-198">Non-european Art Music</a></td><td><a href='#project-category-198'>198</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-232">Orchestral Music</a></td><td><a href='#project-category-232'>232</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a></td><td><a href='#project-category-233'>233</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-234">American Folk</a></td><td><a href='#project-category-234'>234</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-235">Beat</a></td><td><a href='#project-category-235'>235</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-236">Blues</a></td><td><a href='#project-category-236'>236</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-237">Chanson</a></td><td><a href='#project-category-237'>237</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-238">Country</a></td><td><a href='#project-category-238'>238</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-239">Electronic Dance Music</a></td><td><a href='#project-category-239'>239</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-240">Hip-Hop</a></td><td><a href='#project-category-240'>240</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-241">Metal</a></td><td><a href='#project-category-241'>241</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-242">New Wave</a></td><td><a href='#project-category-242'>242</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-243">Pop</a></td><td><a href='#project-category-243'>243</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-244">Punk</a></td><td><a href='#project-category-244'>244</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-246">Reggae</a></td><td><a href='#project-category-246'>246</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-248">Rock and Roll</a></td><td><a href='#project-category-248'>248</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-247">Rock</a></td><td><a href='#project-category-247'>247</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-245">Rythm and Blues</a></td><td><a href='#project-category-245'>245</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-249">Schlager</a></td><td><a href='#project-category-249'>249</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-250">Singer-Songwriter</a></td><td><a href='#project-category-250'>250</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-251">Ska</a></td><td><a href='#project-category-251'>251</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-204">Sacred Music</a></td><td><a href='#project-category-204'>204</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-258">Secular Music</a></td><td><a href='#project-category-258'>258</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-252">Solo Music</a></td><td><a href='#project-category-252'>252</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-253">Soundtrack</a></td><td><a href='#project-category-253'>253</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-254">Film Music</a></td><td><a href='#project-category-254'>254</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-255">Game Soundtrack</a></td><td><a href='#project-category-255'>255</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-199">Stage Music</a></td><td><a href='#project-category-199'>199</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-199">Stage Music</a> > <a href="#project-category-279">Oper</a></td><td><a href='#project-category-279'>279</a></td></tr>
+<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-257">Vocal Music</a></td><td><a href='#project-category-257'>257</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a></td><td><a href='#project-category-31'>31</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a></td><td><a href='#project-category-32'>32</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-34">Alternative Theater</a></td><td><a href='#project-category-34'>34</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-35">Applied Theatre</a></td><td><a href='#project-category-35'>35</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-45">Children's Theatre</a></td><td><a href='#project-category-45'>45</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-54">Dance Theatre</a></td><td><a href='#project-category-54'>54</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-38">Digital Theatre</a></td><td><a href='#project-category-38'>38</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-280">Direction</a></td><td><a href='#project-category-280'>280</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-39">Documentary Theatre</a></td><td><a href='#project-category-39'>39</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-36">Epic Theatre</a></td><td><a href='#project-category-36'>36</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-37">Experimental Theatre</a></td><td><a href='#project-category-37'>37</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-42">Improvisational Theatre</a></td><td><a href='#project-category-42'>42</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-43">Interactive Theatre</a></td><td><a href='#project-category-43'>43</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-46">Meta-Theatre</a></td><td><a href='#project-category-46'>46</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-47">Musical Theatre</a></td><td><a href='#project-category-47'>47</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-41">Open-Air Theatre</a></td><td><a href='#project-category-41'>41</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-48">Physical Theatre</a></td><td><a href='#project-category-48'>48</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-49">Political Theatre</a></td><td><a href='#project-category-49'>49</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-50">Postdramatic Theatre</a></td><td><a href='#project-category-50'>50</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-51">Postmodern Theatre</a></td><td><a href='#project-category-51'>51</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-40">Puppetry Arts</a></td><td><a href='#project-category-40'>40</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-53">Spoken Drama</a></td><td><a href='#project-category-53'>53</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-52">Street Theatre</a></td><td><a href='#project-category-52'>52</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-33">Theatre of the Absurd</a></td><td><a href='#project-category-33'>33</a></td></tr>
+<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-44">Youth Theatre</a></td><td><a href='#project-category-44'>44</a></td></tr>
 </table>
 </details>
 

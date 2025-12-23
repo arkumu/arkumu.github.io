@@ -1,11 +1,9 @@
 ---
 layout: arkumu-docs
-title: ❗ Rollen
+title: Rollen
 order: 3.3.9
 permalink: /documentation/controlled-vocabularies/roles
 ---
-
-```❗ To-Do: SV, XLSX und PDF müssen neu generiert werden inkl. neuer Rollen```
 
 ```Roles```
 
@@ -36,6 +34,8 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 ---
 
 <br/>
+
+Bitte beachten Sie: das unten stehende Markdown ist aktueller als der Inhalt der folgenden Tabellen. Bitte gleichen Sie daher das Markdown stets mit den hier bereitgestellten Tabellen ab. Neu sind die Rollen "Klangregisseur:in", "Wasserinstrumentspieler:in" und "Synthesizerspieler:in". Als neues deutsches Synonym ist "Stimme" zum Eintrag "Vokalist:in" hinzugekommen. | Please note: the Markdown below is more up-to-date than the content of the following tables. Therefore, please always compare the Markdown with the tables provided here. New roles include "sound director", "water instrument player", and "synthesizer player". A new German synonym, "Stimme" (voice), has been added to the entry "vocalist". |
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
@@ -874,824 +874,824 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 <details><summary>Roles ordered by German Breadcrumb | Rollen nach Deutschem Breadcrumb geordnet</summary>
 <table>
 <tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td>[1. Kameraassistenz](#role-1)</td><td><a href='#role-1'>1</a></td></tr>
-<tr><td>[2. Kameraassistenz](#role-2)</td><td><a href='#role-2'>2</a></td></tr>
-<tr><td>[Absolvent:in](#role-3)</td><td><a href='#role-3'>3</a></td></tr>
-<tr><td>[Agent:in](#role-4)</td><td><a href='#role-4'>4</a></td></tr>
-<tr><td>[Amateur:in](#role-5)</td><td><a href='#role-5'>5</a></td></tr>
-<tr><td>[Animation:in](#role-6)</td><td><a href='#role-6'>6</a></td></tr>
-<tr><td>[Anthropolog:in](#role-7)</td><td><a href='#role-7'>7</a></td></tr>
-<tr><td>[Architekt:in](#role-378)</td><td><a href='#role-378'>378</a></td></tr>
-<tr><td>[Archivar:in](#role-9)</td><td><a href='#role-9'>9</a></td></tr>
-<tr><td>[Archäolog:in](#role-8)</td><td><a href='#role-8'>8</a></td></tr>
-<tr><td>[Arrangeur:in](#role-10)</td><td><a href='#role-10'>10</a></td></tr>
-<tr><td>[Arzt/Ärztin](#role-11)</td><td><a href='#role-11'>11</a></td></tr>
-<tr><td>[Arzt/Ärztin](#role-11) > [Augenarzt/Augenärztin](#role-12)</td><td><a href='#role-12'>12</a></td></tr>
-<tr><td>[Assistent:in](#role-13)</td><td><a href='#role-13'>13</a></td></tr>
-<tr><td>[Aufnahmeexpert:in](#role-14)</td><td><a href='#role-14'>14</a></td></tr>
-<tr><td>[Aufnahmeleiter:in](#role-15)</td><td><a href='#role-15'>15</a></td></tr>
-<tr><td>[Aufnahmeleiter:in](#role-15) > [Tonmeister:in](#role-16)</td><td><a href='#role-16'>16</a></td></tr>
-<tr><td>[Auftraggeber:in](#role-17)</td><td><a href='#role-17'>17</a></td></tr>
-<tr><td>[Autor:in](#role-18) > [Dramatiker:in](#role-#19)</td><td><a href='#role-19'>19</a></td></tr>
-<tr><td>[Autor:in](#role-18) > [Romanautor:in](#role-20)</td><td><a href='#role-20'>20</a></td></tr>
-<tr><td>[Autor:in](#role-18)</td><td><a href='#role-18'>18</a></td></tr>
-<tr><td>[Autor:in](#role-18) > [Schriftsteller:in](#role-289)</td><td><a href='#role-289'>289</a></td></tr>
-<tr><td>[Autor:in](#role-18) > [Schriftsteller:in](#role-289) > [Kriminalschriftsteller:in](#role-290)</td><td><a href='#role-290'>290</a></td></tr>
-<tr><td>[Autor:in](#role-18) > [Schriftsteller:in](#role-289) > [Lyriker:in](#role-291)</td><td><a href='#role-291'>291</a></td></tr>
-<tr><td>[Autor:in](#role-18) > [Schriftsteller:in](#role-289) > [Musikschriftsteller:in](#role-351)</td><td><a href='#role-351'>351</a></td></tr>
-<tr><td>[Ballettmeister:in](#role-21)</td><td><a href='#role-21'>21</a></td></tr>
-<tr><td>[Bankbeamt:in](#role-22)</td><td><a href='#role-22'>22</a></td></tr>
-<tr><td>[Barbetreiber:in](#role-23)</td><td><a href='#role-23'>23</a></td></tr>
-<tr><td>[Beleuchter:in](#role-24)</td><td><a href='#role-24'>24</a></td></tr>
-<tr><td>[Bergbauingenieur:in](#role-25)</td><td><a href='#role-25'>25</a></td></tr>
-<tr><td>[Besitzer:in](#role-26)</td><td><a href='#role-26'>26</a></td></tr>
-<tr><td>[Betreuer:in](#role-27)</td><td><a href='#role-27'>27</a></td></tr>
-<tr><td>[Betriebswirt:in](#role-292)</td><td><a href='#role-292'>292</a></td></tr>
-<tr><td>[Bewegungspädagog:in](#role-293)</td><td><a href='#role-293'>293</a></td></tr>
-<tr><td>[Bibliothekar:in](#role-28)</td><td><a href='#role-28'>28</a></td></tr>
-<tr><td>[Bildgestalter:in](#role-29)</td><td><a href='#role-29'>29</a></td></tr>
-<tr><td>[Bildhauer:in](#role-294)</td><td><a href='#role-294'>294</a></td></tr>
-<tr><td>[Bildingenieur:in](#role-395)</td><td><a href='#role-395'>395</a></td></tr>
-<tr><td>[Bildmischer:in](#role-396)</td><td><a href='#role-396'>396</a></td></tr>
-<tr><td>[Biolog:in](#role-295)</td><td><a href='#role-295'>295</a></td></tr>
-<tr><td>[Biotechniker:in](#role-296)</td><td><a href='#role-296'>296</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30)</td><td><a href='#role-30'>30</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30) > [Hornist:in](#role-31)</td><td><a href='#role-31'>31</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30) > [Kornettist:in](#role-32)</td><td><a href='#role-32'>32</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30) > [Posaunist:in](#role-33)</td><td><a href='#role-33'>33</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30) > [Trompeter:in](#role-34)</td><td><a href='#role-34'>34</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30) > [Tubist:in](#role-35)</td><td><a href='#role-35'>35</a></td></tr>
-<tr><td>[Blechbläser:in](#role-30) > [Zinkenist:in](#role-36)</td><td><a href='#role-36'>36</a></td></tr>
-<tr><td>[Botaniker:in](#role-297)</td><td><a href='#role-297'>297</a></td></tr>
-<tr><td>[Boxer:in](#role-285)</td><td><a href='#role-285'>285</a></td></tr>
-<tr><td>[Buchhalter:in](#role-37)</td><td><a href='#role-37'>37</a></td></tr>
-<tr><td>[Buchhändler:in](#role-384)</td><td><a href='#role-384'>384</a></td></tr>
-<tr><td>[Bühnenbildner:in](#role-38)</td><td><a href='#role-38'>38</a></td></tr>
-<tr><td>[Bühnenregisseur:in](#role-39)</td><td><a href='#role-39'>39</a></td></tr>
-<tr><td>[Bühnentechniker:in](#role-40)</td><td><a href='#role-40'>40</a></td></tr>
-<tr><td>[Choreograf:in](#role-41)</td><td><a href='#role-41'>41</a></td></tr>
-<tr><td>[Co-Autor:in](#role-42)</td><td><a href='#role-42'>42</a></td></tr>
-<tr><td>[Colour Grading](#role-43)</td><td><a href='#role-43'>43</a></td></tr>
-<tr><td>[Designer:in](#role-44)</td><td><a href='#role-44'>44</a></td></tr>
-<tr><td>[Designer:in](#role-44) > [Grafikdesigner:in](#role-319)</td><td><a href='#role-319'>319</a></td></tr>
-<tr><td>[Designer:in](#role-44) > [Modedesigner:in](#role-387)</td><td><a href='#role-387'>387</a></td></tr>
-<tr><td>[Designer:in](#role-44) > [Web-Designer:in](#role-299)</td><td><a href='#role-299'>299</a></td></tr>
-<tr><td>[Dichterkomponist:in](#role-45)</td><td><a href='#role-45'>45</a></td></tr>
-<tr><td>[Digitalisierer:in](#role-46)</td><td><a href='#role-46'>46</a></td></tr>
-<tr><td>[Diplomat:in](#role-47)</td><td><a href='#role-47'>47</a></td></tr>
-<tr><td>[Dirigent:in](#role-48)</td><td><a href='#role-48'>48</a></td></tr>
-<tr><td>[Dirigent:in](#role-48) > [Chorleiter:in](#role-49)</td><td><a href='#role-49'>49</a></td></tr>
-<tr><td>[Dirigent:in](#role-48) > [Ensembleleiter:in](#role-50)</td><td><a href='#role-50'>50</a></td></tr>
-<tr><td>[Dirigent:in](#role-48) > [Generalmusikdirektor:in](#role-51)</td><td><a href='#role-51'>51</a></td></tr>
-<tr><td>[Dirigent:in](#role-48) > [Kantor:in (christlich)](#role-52)</td><td><a href='#role-52'>52</a></td></tr>
-<tr><td>[Dirigent:in](#role-48) > [Kapellmeister:in](#role-300)</td><td><a href='#role-300'>300</a></td></tr>
-<tr><td>[Dirigent:in](#role-48) > [Orchesterleiter:in](#role-53)</td><td><a href='#role-53'>53</a></td></tr>
-<tr><td>[DJ](#role-54)</td><td><a href='#role-54'>54</a></td></tr>
-<tr><td>[Dramaturg:in](#role-55)</td><td><a href='#role-55'>55</a></td></tr>
-<tr><td>[Drehbuchautor:in](#role-56)</td><td><a href='#role-56'>56</a></td></tr>
-<tr><td>[Durchschlagzungeninstrumenten-Spieler:in](#role-57)</td><td><a href='#role-57'>57</a></td></tr>
-<tr><td>[Durchschlagzungeninstrumenten-Spieler:in](#role-57) > [Akkordeonist:in](#role-58)</td><td><a href='#role-58'>58</a></td></tr>
-<tr><td>[Durchschlagzungeninstrumenten-Spieler:in](#role-57) > [Konzertinaspieler:in](#role-59)</td><td><a href='#role-59'>59</a></td></tr>
-<tr><td>[Durchschlagzungeninstrumenten-Spieler:in](#role-57) > [Mundharmonikaspieler:in](#role-60)</td><td><a href='#role-60'>60</a></td></tr>
-<tr><td>[Eigentümer:in](#role-61)</td><td><a href='#role-61'>61</a></td></tr>
-<tr><td>[Erfinder:in](#role-62)</td><td><a href='#role-62'>62</a></td></tr>
-<tr><td>[Ergonom:in](#role-301)</td><td><a href='#role-301'>301</a></td></tr>
-<tr><td>[erwähnte:r Akteur:in](#role-63)</td><td><a href='#role-63'>63</a></td></tr>
-<tr><td>[Ethnolog:in](#role-64)</td><td><a href='#role-64'>64</a></td></tr>
-<tr><td>[Ethnolog:in](#role-64) > [Ethnograph:in](#role-65)</td><td><a href='#role-65'>65</a></td></tr>
-<tr><td>[Fernsehmoderator:in](#role-66)</td><td><a href='#role-66'>66</a></td></tr>
-<tr><td>[Filmförderung](#role-67)</td><td><a href='#role-67'>67</a></td></tr>
-<tr><td>[Filmproduzent:in](#role-68)</td><td><a href='#role-68'>68</a></td></tr>
-<tr><td>[Folkloremusiker:in](#role-69)</td><td><a href='#role-69'>69</a></td></tr>
-<tr><td>[Fotograf:in](#role-70)</td><td><a href='#role-70'>70</a></td></tr>
-<tr><td>[Fotograf:in](#role-70) > [Foto-Künstler:in](#role-72)</td><td><a href='#role-72'>72</a></td></tr>
-<tr><td>[Fotograf:in](#role-70) > [Fotograf:in (Film)](#role-71)</td><td><a href='#role-71'>71</a></td></tr>
-<tr><td>[Garderobier:e](#role-302)</td><td><a href='#role-302'>302</a></td></tr>
-<tr><td>[Gerichtsvollzieher:in](#role-73)</td><td><a href='#role-73'>73</a></td></tr>
-<tr><td>[Gesangslehrer:in](#role-74)</td><td><a href='#role-74'>74</a></td></tr>
-<tr><td>[Geschäftspartner:in](#role-303)</td><td><a href='#role-303'>303</a></td></tr>
-<tr><td>[Gewandmeister:in](#role-75)</td><td><a href='#role-75'>75</a></td></tr>
-<tr><td>[Grip](#role-76)</td><td><a href='#role-76'>76</a></td></tr>
-<tr><td>[Grip](#role-76) > [Dolly Grip](#role-304)</td><td><a href='#role-304'>304</a></td></tr>
-<tr><td>[Handwerker:in](#role-305)</td><td><a href='#role-305'>305</a></td></tr>
-<tr><td>[Handwerker:in](#role-305) > [Buchbinder:in](#role-306)</td><td><a href='#role-306'>306</a></td></tr>
-<tr><td>[Handwerker:in](#role-305) > [Drucker:in](#role-307)</td><td><a href='#role-307'>307</a></td></tr>
-<tr><td>[Handwerker:in](#role-305) > [Schneider:in](#role-308)</td><td><a href='#role-308'>308</a></td></tr>
-<tr><td>[Herausgeber:in](#role-309)</td><td><a href='#role-309'>309</a></td></tr>
-<tr><td>[Hersteller:in](#role-82)</td><td><a href='#role-82'>82</a></td></tr>
-<tr><td>[Historiker:in](#role-83)</td><td><a href='#role-83'>83</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84)</td><td><a href='#role-84'>84</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Blockflötist:in](#role-85)</td><td><a href='#role-85'>85</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Dudelsackspieler:in](#role-86)</td><td><a href='#role-86'>86</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Fagottist:in](#role-87)</td><td><a href='#role-87'>87</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Flötist:in](#role-88)</td><td><a href='#role-88'>88</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Flötist:in](#role-88) > [Piccoloflötist:in](#role-89)</td><td><a href='#role-89'>89</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Klarinettist:in](#role-90)</td><td><a href='#role-90'>90</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Oboist:in](#role-91)</td><td><a href='#role-91'>91</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92)</td><td><a href='#role-92'>92</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92) > [Altsaxofonist:in](#role-93)</td><td><a href='#role-93'>93</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92) > [Baritonsaxofonist:in](#role-94)</td><td><a href='#role-94'>94</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92) > [Basssaxofonist:in](#role-95)</td><td><a href='#role-95'>95</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92) > [Mezzosopran-Saxofonist:in](#role-96)</td><td><a href='#role-96'>96</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92) > [Sopransaxofonist:in](#role-97)</td><td><a href='#role-97'>97</a></td></tr>
-<tr><td>[Holzbläser:in](#role-84) > [Saxofonist:in](#role-92) > [Tenorsaxofonist:in](#role-98)</td><td><a href='#role-98'>98</a></td></tr>
-<tr><td>[Humangeograph:in](#role-310)</td><td><a href='#role-310'>310</a></td></tr>
-<tr><td>[Händler:in](#role-77)</td><td><a href='#role-77'>77</a></td></tr>
-<tr><td>[Händler:in](#role-77) > [Autohändler:in](#role-78)</td><td><a href='#role-78'>78</a></td></tr>
-<tr><td>[Händler:in](#role-77) > [Fahrradhändler:in](#role-79)</td><td><a href='#role-79'>79</a></td></tr>
-<tr><td>[Händler:in](#role-77) > [Musikalienhändler:in](#role-80)</td><td><a href='#role-80'>80</a></td></tr>
-<tr><td>[Händler:in](#role-77) > [Schreibwarenhändler:in](#role-81)</td><td><a href='#role-81'>81</a></td></tr>
-<tr><td>[Hörfunkmoderator:in](#role-397)</td><td><a href='#role-397'>397</a></td></tr>
-<tr><td>[Impressario](#role-99)</td><td><a href='#role-99'>99</a></td></tr>
-<tr><td>[Informatiker:in](#role-311)</td><td><a href='#role-311'>311</a></td></tr>
-<tr><td>[Ingenieur:in](#role-100)</td><td><a href='#role-100'>100</a></td></tr>
-<tr><td>[Ingenieur:in](#role-100) > [Elektroingenieur:in](#role-101)</td><td><a href='#role-101'>101</a></td></tr>
-<tr><td>[Instrumentalist:in](#role-102)</td><td><a href='#role-102'>102</a></td></tr>
-<tr><td>[Intendant:in](#role-103)</td><td><a href='#role-103'>103</a></td></tr>
-<tr><td>[Interpret:in](#role-104)</td><td><a href='#role-104'>104</a></td></tr>
-<tr><td>[Journalist:in](#role-105)</td><td><a href='#role-105'>105</a></td></tr>
-<tr><td>[Journalist:in](#role-105) > [Kritiker:in](#role-107)</td><td><a href='#role-107'>107</a></td></tr>
-<tr><td>[Journalist:in](#role-105) > [Kritiker:in](#role-107) > [Literaturkritiker:in](#role-108)</td><td><a href='#role-108'>108</a></td></tr>
-<tr><td>[Journalist:in](#role-105) > [Kritiker:in](#role-107) > [Musikkritiker:in](#role-109)</td><td><a href='#role-109'>109</a></td></tr>
-<tr><td>[Journalist:in](#role-105) > [Kulturjournalist:in](#role-106)</td><td><a href='#role-106'>106</a></td></tr>
-<tr><td>[Journalist:in](#role-105) > [Musikjournalist:in](#role-110)</td><td><a href='#role-110'>110</a></td></tr>
-<tr><td>[Jurist:in](#role-312)</td><td><a href='#role-312'>312</a></td></tr>
-<tr><td>[Kabarettist:in](#role-111)</td><td><a href='#role-111'>111</a></td></tr>
-<tr><td>[Kameraperson](#role-112)</td><td><a href='#role-112'>112</a></td></tr>
-<tr><td>[Keramiker:in](#role-313)</td><td><a href='#role-313'>313</a></td></tr>
-<tr><td>[Kirchenmusiker:in](#role-404)</td><td><a href='#role-404'>404</a></td></tr>
-<tr><td>[Klangregisseur:in](#role-405)</td><td><a href='#role-405'>405</a></td></tr>
-<tr><td>[Klavierist:in](#role-237)</td><td><a href='#role-237'>237</a></td></tr>
-<tr><td>[Klavierist:in](#role-237) > [Cembalist:in](#role-238)</td><td><a href='#role-238'>238</a></td></tr>
-<tr><td>[Klavierist:in](#role-237) > [Harmoniumspieler:in](#role-239)</td><td><a href='#role-239'>239</a></td></tr>
-<tr><td>[Klavierist:in](#role-237) > [Keyboarder:in](#role-240)</td><td><a href='#role-240'>240</a></td></tr>
-<tr><td>[Klavierist:in](#role-237) > [Organist:in](#role-241)</td><td><a href='#role-241'>241</a></td></tr>
-<tr><td>[Klavierist:in](#role-237) > [Pianist:in](#role-242)</td><td><a href='#role-242'>242</a></td></tr>
-<tr><td>[Klavierist:in](#role-237) > [Pianolist:in](#role-243)</td><td><a href='#role-243'>243</a></td></tr>
-<tr><td>[Klinikverwalter:in](#role-113)</td><td><a href='#role-113'>113</a></td></tr>
-<tr><td>[Kognitionswissenschaftler:in](#role-393)</td><td><a href='#role-393'>393</a></td></tr>
-<tr><td>[Komiker:in](#role-284)</td><td><a href='#role-284'>284</a></td></tr>
-<tr><td>[Komiker:innenduo](#role-114)</td><td><a href='#role-114'>114</a></td></tr>
-<tr><td>[Komponist:in](#role-115)</td><td><a href='#role-115'>115</a></td></tr>
-<tr><td>[Konzertmeister:in](#role-314)</td><td><a href='#role-314'>314</a></td></tr>
-<tr><td>[Kooperation](#role-380)</td><td><a href='#role-380'>380</a></td></tr>
-<tr><td>[Koproduzent:in](#role-116)</td><td><a href='#role-116'>116</a></td></tr>
-<tr><td>[Korrepetitor:in](#role-315)</td><td><a href='#role-315'>315</a></td></tr>
-<tr><td>[Kostümbildner:in](#role-117)</td><td><a href='#role-117'>117</a></td></tr>
-<tr><td>[Kranführer:in](#role-316)</td><td><a href='#role-316'>316</a></td></tr>
-<tr><td>[Kulturaktivist:in](#role-118)</td><td><a href='#role-118'>118</a></td></tr>
-<tr><td>[Kulturwissenschaftler:in](#role-317)</td><td><a href='#role-317'>317</a></td></tr>
-<tr><td>[Kunsthistoriker:in](#role-318)</td><td><a href='#role-318'>318</a></td></tr>
-<tr><td>[Kunstpfeifer:in](#role-122)</td><td><a href='#role-122'>122</a></td></tr>
-<tr><td>[Kunstwissenschaftler:in](#role-235)</td><td><a href='#role-325'>325</a></td></tr>
-<tr><td>[Kurator:in](#role-123)</td><td><a href='#role-123'>123</a></td></tr>
-<tr><td>[Kurator:in](#role-123) > [Ausstellungs-Kurator:in](#role-124)</td><td><a href='#role-124'>124</a></td></tr>
-<tr><td>[Künstler:in](#role-119)</td><td><a href='#role-119'>119</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Grafiker:in](#role-385)</td><td><a href='#role-385'>385</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Grafiker:in](#role-385) > [Zeichner:in](#role-389)</td><td><a href='#role-389'>389</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Grafiker:in](#role-385) > [Zeichner:in](#role-389) > [Comiczeichner:in](#role-390)</td><td><a href='#role-390'>390</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Karikaturist:in](#role-120)</td><td><a href='#role-120'>120</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Klangkünstler:in](#role-320)</td><td><a href='#role-320'>320</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Maler:in](#role-121)</td><td><a href='#role-121'>121</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Maler:in](#role-121) > [Illustrator:in](#role-321)</td><td><a href='#role-321'>321</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Performancekünstler:in](#role-322)</td><td><a href='#role-322'>322</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [VFX-Künstler:in](#role-399)</td><td><a href='#role-399'>399</a></td></tr>
-<tr><td>[Künstler:in](#role-119) > [Videokünstler:in](#role-323)</td><td><a href='#role-323'>323</a></td></tr>
-<tr><td>[Künstlerische Leiter:in](#role-234)</td><td><a href='#role-324'>324</a></td></tr>
-<tr><td>[Lehrbeauftragte:r](#role-402)</td><td><a href='#role-402'>402</a></td></tr>
-<tr><td>[Lehrer:in](#role-125)</td><td><a href='#role-125'>125</a></td></tr>
-<tr><td>[Lehrer:in](#role-125) > [Hochschullehrer:in](#role-326)</td><td><a href='#role-326'>326</a></td></tr>
-<tr><td>[Lehrer:in](#role-125) > [Sportlehrer:in](#role-327)</td><td><a href='#role-327'>327</a></td></tr>
-<tr><td>[Lehrer:in](#role-125) > [Sportlehrer:in](#role-327) > [Tanzlehrer:in](#role-328)</td><td><a href='#role-328'>328</a></td></tr>
-<tr><td>[Lehrer:in](#role-125) > [Sprachlehrer:in](#role-126)</td><td><a href='#role-126'>126</a></td></tr>
-<tr><td>[Lehrer:in](#role-125) > [Sprachlehrer:in](#role-126) > [Englischlehrer:in](#role-127)</td><td><a href='#role-127'>127</a></td></tr>
-<tr><td>[Librettist:in](#role-128)</td><td><a href='#role-128'>128</a></td></tr>
-<tr><td>[Liedbegleitung](#role-401)</td><td><a href='#role-401'>401</a></td></tr>
-<tr><td>[Linguist:in](#role-129)</td><td><a href='#role-129'>129</a></td></tr>
-<tr><td>[Linguist:in](#role-129) > [Romanist:in](#role-130)</td><td><a href='#role-130'>130</a></td></tr>
-<tr><td>[Location Manager:in](#role-392)</td><td><a href='#role-392'>392</a></td></tr>
-<tr><td>[Logopäd:in](#role-329)</td><td><a href='#role-329'>329</a></td></tr>
-<tr><td>[Lokomotivführer:in](#role-131)</td><td><a href='#role-131'>131</a></td></tr>
-<tr><td>[Luftfahrtpionier:in](#role-132)</td><td><a href='#role-132'>132</a></td></tr>
-<tr><td>[Manager:in](#role-133)</td><td><a href='#role-133'>133</a></td></tr>
-<tr><td>[Manager:in](#role-133) > [Eventmanager:in](#role-330)</td><td><a href='#role-330'>330</a></td></tr>
-<tr><td>[Marineoffizier:in](#role-172)</td><td><a href='#role-172'>172</a></td></tr>
-<tr><td>[Maskenbildner:in](#role-134)</td><td><a href='#role-134'>134</a></td></tr>
-<tr><td>[Mastering Studio](#role-383)</td><td><a href='#role-383'>383</a></td></tr>
-<tr><td>[Mathematiker:in](#role-394)</td><td><a href='#role-394'>394</a></td></tr>
-<tr><td>[Maurer:in](#role-135)</td><td><a href='#role-135'>135</a></td></tr>
-<tr><td>[Medienmanager:in](#role-136)</td><td><a href='#role-136'>136</a></td></tr>
-<tr><td>[Medienwissenschaftler:in](#role-331)</td><td><a href='#role-331'>331</a></td></tr>
-<tr><td>[Mischtonmeister](#role-137)</td><td><a href='#role-137'>137</a></td></tr>
-<tr><td>[Mitwirkende:r](#role-138)</td><td><a href='#role-138'>138</a></td></tr>
-<tr><td>[Model](#role-386)</td><td><a href='#role-386'>386</a></td></tr>
-<tr><td>[Moderator:in](#role-403)</td><td><a href='#role-403'>403</a></td></tr>
-<tr><td>[Montage](#role-139)</td><td><a href='#role-139'>139</a></td></tr>
-<tr><td>[Musicaldarsteller:in](#role-332)</td><td><a href='#role-332'>332</a></td></tr>
-<tr><td>[musikalische:r Begleiter:in](#role-140)</td><td><a href='#role-140'>140</a></td></tr>
-<tr><td>[Musikensemble](#role-141)</td><td><a href='#role-141'>141</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Band](#role-142)</td><td><a href='#role-142'>142</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Chor](#role-143)</td><td><a href='#role-143'>143</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Chor](#role-143) > [Choralschola](#role-144)</td><td><a href='#role-144'>144</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Chor](#role-143) > [Frauenchor](#role-145)</td><td><a href='#role-145'>145</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Chor](#role-143) > [Kinderchor](#role-146)</td><td><a href='#role-146'>146</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Chor](#role-143) > [Knabenchor](#role-147)</td><td><a href='#role-147'>147</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Chor](#role-143) > [Männerchor](#role-148)</td><td><a href='#role-148'>148</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Combo](#role-149)</td><td><a href='#role-149'>149</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Elektronik-Ensemble](#role-150)</td><td><a href='#role-150'>150</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Instrumentalgruppe](#role-151)</td><td><a href='#role-151'>151</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Kammermusikensemble](#role-152)</td><td><a href='#role-152'>152</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Kammermusikensemble](#role-152) > [Streichquartett](#role-153)</td><td><a href='#role-153'>153</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Orchester](#role-154)</td><td><a href='#role-154'>154</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Orchester](#role-154) > [Blasorchester](#role-155)</td><td><a href='#role-155'>155</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Orchester](#role-154) > [Militärorchester](#role-156)</td><td><a href='#role-156'>156</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Orchester](#role-154) > [Streichorchester](#role-157)</td><td><a href='#role-157'>157</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Orchester](#role-154) > [Tanzorchester](#role-286)</td><td><a href='#role-286'>286</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Vokalensemble](#role-158)</td><td><a href='#role-158'>158</a></td></tr>
-<tr><td>[Musikensemble](#role-141) > [Volksmusikgruppe](#role-159)</td><td><a href='#role-159'>159</a></td></tr>
-<tr><td>[Musiker:in](#role-160)</td><td><a href='#role-160'>160</a></td></tr>
-<tr><td>[Musiker:in](#role-160) > [Bandleader:in](#role-333)</td><td><a href='#role-333'>333</a></td></tr>
-<tr><td>[Musiker:in](#role-160) > [Jazzmusiker:in](#role-334)</td><td><a href='#role-334'>334</a></td></tr>
-<tr><td>[Musiker:in](#role-160) > [Synthesizerspieler:in](#role-407)</td><td><a href='#role-407'>407</a></td></tr>
-<tr><td>[Musiker:in](#role-160) > [Wasserinstrumentspieler:in](#role-406)</td><td><a href='#role-406'>406</a></td></tr>
-<tr><td>[Musikinstrumentenbauer:in](#role-161)</td><td><a href='#role-161'>161</a></td></tr>
-<tr><td>[Musikinstrumentenbauer:in](#role-161) > [Geigenbauer:in](#role-162)</td><td><a href='#role-162'>162</a></td></tr>
-<tr><td>[Musikinstrumentenbauer:in](#role-161) > [Klavierbauer:in](#role-163)</td><td><a href='#role-163'>163</a></td></tr>
-<tr><td>[Musikinstrumentenbauer:in](#role-161) > [Orgelbauer:in](#role-164)</td><td><a href='#role-164'>164</a></td></tr>
-<tr><td>[Musiklehrer:in](#role-165)</td><td><a href='#role-165'>165</a></td></tr>
-<tr><td>[Musikproduzent:in](#role-166)</td><td><a href='#role-166'>166</a></td></tr>
-<tr><td>[Musikproduzent:in](#role-166) > [Musikalische:r Leiter:in](#role-167)</td><td><a href='#role-167'>167</a></td></tr>
-<tr><td>[Musikproduzent:in](#role-166) > [Sessionleiter:in](#role-168)</td><td><a href='#role-168'>168</a></td></tr>
-<tr><td>[Musikwissenschaftler:in](#role-169)</td><td><a href='#role-169'>169</a></td></tr>
-<tr><td>[Musikwissenschaftler:in](#role-169) > [Musikethnolog:in](#role-335)</td><td><a href='#role-335'>335</a></td></tr>
-<tr><td>[Naturwissenschaftler:in](#role-336)</td><td><a href='#role-336'>336</a></td></tr>
-<tr><td>[Naturwissenschaftler:in](#role-336) > [Chemiker:in](#role-337)</td><td><a href='#role-337'>337</a></td></tr>
-<tr><td>[Neurobiolog:in](#role-338)</td><td><a href='#role-338'>338</a></td></tr>
-<tr><td>[Obstbautechniker:in](#role-170)</td><td><a href='#role-170'>170</a></td></tr>
-<tr><td>[Offizier:in](#role-171)</td><td><a href='#role-171'>171</a></td></tr>
-<tr><td>[Orientalist:in](#role-173)</td><td><a href='#role-173'>173</a></td></tr>
-<tr><td>[Ornitholog:in](#role-174)</td><td><a href='#role-174'>174</a></td></tr>
-<tr><td>[Pantomim:in](#role-175)</td><td><a href='#role-175'>175</a></td></tr>
-<tr><td>[Performer:in](#role-176)</td><td><a href='#role-176'>176</a></td></tr>
-<tr><td>[Perkussionist:in](#role-177)</td><td><a href='#role-177'>177</a></td></tr>
-<tr><td>[Perkussionist:in](#role-177) > [Marimbafonist:in](#role-178)</td><td><a href='#role-178'>178</a></td></tr>
-<tr><td>[Perkussionist:in](#role-177) > [Paukist:in](#role-179)</td><td><a href='#role-179'>179</a></td></tr>
-<tr><td>[Perkussionist:in](#role-177) > [Schlagzeuger:in](#role-180)</td><td><a href='#role-180'>180</a></td></tr>
-<tr><td>[Perkussionist:in](#role-177) > [Vibrafonist:in](#role-181)</td><td><a href='#role-181'>181</a></td></tr>
-<tr><td>[Perkussionist:in](#role-177) > [Xylofonist:in](#role-182)</td><td><a href='#role-182'>182</a></td></tr>
-<tr><td>[Philolog:in](#role-182)</td><td><a href='#role-183'>183</a></td></tr>
-<tr><td>[Philosoph:in](#role-184)</td><td><a href='#role-184'>184</a></td></tr>
-<tr><td>[Physiker:in](#role-185)</td><td><a href='#role-185'>185</a></td></tr>
-<tr><td>[Politiker:in](#role-186)</td><td><a href='#role-186'>186</a></td></tr>
-<tr><td>[Politikwissenschaftler:in](#role-341)</td><td><a href='#role-341'>341</a></td></tr>
-<tr><td>[Praktikant:in](#role-342)</td><td><a href='#role-342'>342</a></td></tr>
-<tr><td>[Priester:in](#role-187)</td><td><a href='#role-187'>187</a></td></tr>
-<tr><td>[Priester:in](#role-187) > [Pfarrer:in](#role-188)</td><td><a href='#role-188'>188</a></td></tr>
-<tr><td>[Priester:in](#role-187) > [Prediger:in](#role-189)</td><td><a href='#role-189'>189</a></td></tr>
-<tr><td>[Produktionsfirma](#role-191)</td><td><a href='#role-191'>191</a></td></tr>
-<tr><td>[Produktionsleiter:in](#role-190)</td><td><a href='#role-190'>190</a></td></tr>
-<tr><td>[Produktionsleiter:in](#role-190) > [Produktionsassistent:in](#role-343)</td><td><a href='#role-343'>343</a></td></tr>
-<tr><td>[Produzent:in](#role-192)</td><td><a href='#role-192'>192</a></td></tr>
-<tr><td>[Programmierer:in](#role-344)</td><td><a href='#role-344'>344</a></td></tr>
-<tr><td>[Projektleiter:in](#role-382)</td><td><a href='#role-382'>382</a></td></tr>
-<tr><td>[Psycholog:in](#role-345)</td><td><a href='#role-345'>345</a></td></tr>
-<tr><td>[Psychotherapeut:in](#role-346)</td><td><a href='#role-346'>346</a></td></tr>
-<tr><td>[Psychotherapeut:in](#role-346) > [Musiktherapeut:in](#role-347)</td><td><a href='#role-347'>347</a></td></tr>
-<tr><td>[Publizist:in](#role-348)</td><td><a href='#role-348'>348</a></td></tr>
-<tr><td>[Pädagog:in](#role-340)</td><td><a href='#role-340'>340</a></td></tr>
-<tr><td>[Raumplaner:in](#role-349)</td><td><a href='#role-349'>349</a></td></tr>
-<tr><td>[Rechtsanwalt/Rechtsanwältin](#role-193)</td><td><a href='#role-193'>193</a></td></tr>
-<tr><td>[Rechtsanwalt/Rechtsanwältin](#role-193) > [Notar:in](#role-194)</td><td><a href='#role-194'>194</a></td></tr>
-<tr><td>[Redakteur:in](#role-195)</td><td><a href='#role-195'>195</a></td></tr>
-<tr><td>[Regieassistent:in](#role-196)</td><td><a href='#role-196'>196</a></td></tr>
-<tr><td>[Regisseur:in](#role-197)</td><td><a href='#role-197'>197</a></td></tr>
-<tr><td>[Requisiteur:in](#role-198)</td><td><a href='#role-198'>198</a></td></tr>
-<tr><td>[Schauspieler:in](#role-213)</td><td><a href='#role-213'>213</a></td></tr>
-<tr><td>[Schlosser:in](#role-214)</td><td><a href='#role-214'>214</a></td></tr>
-<tr><td>[Schnitt](#role-215)</td><td><a href='#role-215'>215</a></td></tr>
-<tr><td>[Schriftsetzer:in](#role-350)</td><td><a href='#role-350'>350</a></td></tr>
-<tr><td>[Script Continuity](#role-216)</td><td><a href='#role-216'>216</a></td></tr>
-<tr><td>[Sekretär:in](#role-217)</td><td><a href='#role-217'>217</a></td></tr>
-<tr><td>[Selbstverleger:in](#role-298)</td><td><a href='#role-298'>298</a></td></tr>
-<tr><td>[Set Designer:in](#role-218)</td><td><a href='#role-218'>218</a></td></tr>
-<tr><td>[Software-Entwickler:in](#role-288)</td><td><a href='#role-288'>288</a></td></tr>
-<tr><td>[Soldat:in](#role-219)</td><td><a href='#role-219'>219</a></td></tr>
-<tr><td>[Soufflage](#role-352)</td><td><a href='#role-352'>352</a></td></tr>
-<tr><td>[Sounddesigner:in](#role-220)</td><td><a href='#role-220'>220</a></td></tr>
-<tr><td>[Soziolog:in](#role-353)</td><td><a href='#role-353'>353</a></td></tr>
-<tr><td>[Soziolog:in](#role-353) > [Kultursoziolog:in](#role-354)</td><td><a href='#role-354'>354</a></td></tr>
-<tr><td>[Special Effects](#role-221)</td><td><a href='#role-221'>221</a></td></tr>
-<tr><td>[Sponsor:in](#role-222)</td><td><a href='#role-222'>222</a></td></tr>
-<tr><td>[Sportler:in](#role-355)</td><td><a href='#role-355'>355</a></td></tr>
-<tr><td>[Sportler:in](#role-355) > [Bergsteiger:in](#role-356)</td><td><a href='#role-356'>356</a></td></tr>
-<tr><td>[Sportler:in](#role-355) > [Kampfsportler:in](#role-357)</td><td><a href='#role-357'>357</a></td></tr>
-<tr><td>[Sprecher:in](#role-223)</td><td><a href='#role-223'>223</a></td></tr>
-<tr><td>[Sprecher:in](#role-223) > [Ansager:in](#role-224)</td><td><a href='#role-224'>224</a></td></tr>
-<tr><td>[Sprecher:in](#role-223) > [Rezitator:in](#role-225)</td><td><a href='#role-225'>225</a></td></tr>
-<tr><td>[Sprecherzieher:in](#role-358)</td><td><a href='#role-358'>358</a></td></tr>
-<tr><td>[Steuerfachangestellte:r](#role-359)</td><td><a href='#role-359'>359</a></td></tr>
-<tr><td>[Streicher:in](#role-226)</td><td><a href='#role-226'>226</a></td></tr>
-<tr><td>[Streicher:in](#role-226) > [Bratschist:in](#role-227)</td><td><a href='#role-227'>227</a></td></tr>
-<tr><td>[Streicher:in](#role-226) > [Cellist:in](#role-228)</td><td><a href='#role-228'>228</a></td></tr>
-<tr><td>[Streicher:in](#role-226) > [Gambist:in](#role-229)</td><td><a href='#role-229'>229</a></td></tr>
-<tr><td>[Streicher:in](#role-226) > [Kontrabassist:in](#role-230)</td><td><a href='#role-230'>230</a></td></tr>
-<tr><td>[Streicher:in](#role-226) > [Violinist:in](#role-231)</td><td><a href='#role-231'>231</a></td></tr>
-<tr><td>[Student:in](#role-232)</td><td><a href='#role-232'>232</a></td></tr>
-<tr><td>[Synchronregie](#role-234)</td><td><a href='#role-234'>234</a></td></tr>
-<tr><td>[Synchronsprecher:in](#role-233)</td><td><a href='#role-233'>233</a></td></tr>
-<tr><td>[Szenenbildner:in](#role-235)</td><td><a href='#role-235'>235</a></td></tr>
-<tr><td>[Sänger:in](#role-199)</td><td><a href='#role-199'>199</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Altist:in](#role-200)</td><td><a href='#role-200'>200</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Bariton](#role-201)</td><td><a href='#role-201'>201</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Bassbariton](#role-202)</td><td><a href='#role-202'>202</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Bassist (Gesang)](#role-203)</td><td><a href='#role-203'>203</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Chorsänger:in](#role-204)</td><td><a href='#role-204'>204</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Countertenor](#role-205)</td><td><a href='#role-205'>205</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Kantor:in (jüdisch)](#role-207)</td><td><a href='#role-207'>207</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Kastrat](#role-206)</td><td><a href='#role-206'>206</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Knabenalt](#role-208)</td><td><a href='#role-208'>208</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Knabensopran](#role-209)</td><td><a href='#role-209'>209</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Mezzosopranist:in](#role-210)</td><td><a href='#role-210'>210</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Sopranist:in](#role-211)</td><td><a href='#role-211'>211</a></td></tr>
-<tr><td>[Sänger:in](#role-199) > [Tenorist:in](#role-212)</td><td><a href='#role-212'>212</a></td></tr>
-<tr><td>[Tanzwissenschaftler:in](#role-388)</td><td><a href='#role-388'>388</a></td></tr>
-<tr><td>[Techniker:in](#role-244)</td><td><a href='#role-244'>244</a></td></tr>
-<tr><td>[Techniker:in](#role-244) > [Elektroniker:in](#role-245)</td><td><a href='#role-245'>245</a></td></tr>
-<tr><td>[Techniker:in](#role-244) > [Elektrotechniker:in](#role-246)</td><td><a href='#role-246'>246</a></td></tr>
-<tr><td>[Techniker:in](#role-244) > [Technische:r Direktor:in](#role-360)</td><td><a href='#role-360'>360</a></td></tr>
-<tr><td>[Techniker:in](#role-244) > [Tontechniker:in](#role-361)</td><td><a href='#role-361'>361</a></td></tr>
-<tr><td>[Techniker:in](#role-244) > [Veranstaltungstechniker:in](#role-362)</td><td><a href='#role-362'>362</a></td></tr>
-<tr><td>[Technische Realisation](#role-379)</td><td><a href='#role-379'>379</a></td></tr>
-<tr><td>[Textdichter:in](#role-247)</td><td><a href='#role-247'>247</a></td></tr>
-<tr><td>[Theatergruppe](#role-248)</td><td><a href='#role-248'>248</a></td></tr>
-<tr><td>[Theaterleiter:in](#role-249)</td><td><a href='#role-249'>249</a></td></tr>
-<tr><td>[Theatermacher:in](#role-363)</td><td><a href='#role-363'>363</a></td></tr>
-<tr><td>[Theatermacher:in](#role-363) > [Inspizient:in](#role-364)</td><td><a href='#role-364'>364</a></td></tr>
-<tr><td>[Theaterproduzent:in](#role-250)</td><td><a href='#role-250'>250</a></td></tr>
-<tr><td>[Theaterwissenschaftler:in](#role-365)</td><td><a href='#role-365'>365</a></td></tr>
-<tr><td>[Theolog:in](#role-366)</td><td><a href='#role-366'>366</a></td></tr>
-<tr><td>[Tischler:in](#role-367)</td><td><a href='#role-367'>367</a></td></tr>
-<tr><td>[Tonassistent:in](#role-368)</td><td><a href='#role-368'>368</a></td></tr>
-<tr><td>[Toningenieur:in](#role-251)</td><td><a href='#role-251'>251</a></td></tr>
-<tr><td>[Toningenieur:in](#role-251) > [Master-Ingenieur:in](#role-252)</td><td><a href='#role-252'>252</a></td></tr>
-<tr><td>[Toningenieur:in](#role-251) > [Tonmischer:in](#role-253)</td><td><a href='#role-253'>253</a></td></tr>
-<tr><td>[Tonträgerunternehmen](#role-287)</td><td><a href='#role-287'>287</a></td></tr>
-<tr><td>[Travestie](#role-369)</td><td><a href='#role-369'>369</a></td></tr>
-<tr><td>[Travestie](#role-369) > [Dragqueen](#role-370)</td><td><a href='#role-370'>370</a></td></tr>
-<tr><td>[Tänzer:in](#role-236)</td><td><a href='#role-236'>236</a></td></tr>
-<tr><td>[Tätowierer:in](#role-391)</td><td><a href='#role-391'>391</a></td></tr>
-<tr><td>[unbekannt](#role-283)</td><td><a href='#role-283'>283</a></td></tr>
-<tr><td>[Unternehmer:in](#role-255)</td><td><a href='#role-255'>255</a></td></tr>
-<tr><td>[Unterstützer:in](#role-371)</td><td><a href='#role-371'>371</a></td></tr>
-<tr><td>[Veranstalter:in](#role-256)</td><td><a href='#role-256'>256</a></td></tr>
-<tr><td>[Verfasser:in](#role-257)</td><td><a href='#role-257'>257</a></td></tr>
-<tr><td>[Verleger:in](#role-258)</td><td><a href='#role-258'>258</a></td></tr>
-<tr><td>[Verleger:in](#role-258) > [Musikverleger:in](#role-259)</td><td><a href='#role-259'>259</a></td></tr>
-<tr><td>[Vertrieb](#role-260)</td><td><a href='#role-260'>260</a></td></tr>
-<tr><td>[VFX Producer:in](#role-398)</td><td><a href='#role-398'>398</a></td></tr>
-<tr><td>[Visagist:in](#role-372)</td><td><a href='#role-372'>372</a></td></tr>
-<tr><td>[Voice-Over](#role-261)</td><td><a href='#role-261'>261</a></td></tr>
-<tr><td>[Vokalist:in](#role-262)</td><td><a href='#role-262'>262</a></td></tr>
-<tr><td>[Vokalist:in](#role-262) > [Chansonnier/Chansonnière](#role-263)</td><td><a href='#role-263'>263</a></td></tr>
-<tr><td>[Vokalist:in](#role-262) > [Jodler:in](#role-264)</td><td><a href='#role-264'>264</a></td></tr>
-<tr><td>[Vokalist:in](#role-262) > [Rapper:in](#role-265)</td><td><a href='#role-265'>265</a></td></tr>
-<tr><td>[Vorsitzende:r](#role-373)</td><td><a href='#role-373'>373</a></td></tr>
-<tr><td>[Vortragsredner:in](#role-266)</td><td><a href='#role-266'>266</a></td></tr>
-<tr><td>[Webvideoproduzent:in](#role-265) > [Video Blogger:in](#role-268)</td><td><a href='#role-268'>268</a></td></tr>
-<tr><td>[Webvideoproduzent:in](#role-267)</td><td><a href='#role-267'>267</a></td></tr>
-<tr><td>[Werkstattleiter:in](#role-374)</td><td><a href='#role-374'>374</a></td></tr>
-<tr><td>[Widmungsträger:in](#role-269)</td><td><a href='#role-269'>269</a></td></tr>
-<tr><td>[Wirtschaftswissenschaftler:in](#role-375)</td><td><a href='#role-375'>375</a></td></tr>
-<tr><td>[wissenschaftliche:r Mitarbeiter:in](#role-381)</td><td><a href='#role-381'>381</a></td></tr>
-<tr><td>[Yogalehrer:in](#role-376)</td><td><a href='#role-376'>376</a></td></tr>
-<tr><td>[Zirkusdirektor:in](#role-270)</td><td><a href='#role-270'>270</a></td></tr>
-<tr><td>[Zoolog:in](#role-377)</td><td><a href='#role-377'>377</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271)</td><td><a href='#role-271'>271</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Balalaikaspieler:in](#role-272)</td><td><a href='#role-272'>272</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Banjospieler:in](#role-273)</td><td><a href='#role-273'>273</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Bassist:in (Instrument)](#role-274)</td><td><a href='#role-274'>274</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Gitarrist:in](#role-275)</td><td><a href='#role-275'>275</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Gitarrist:in](#role-275) > [Lead-Gitarrist:in](#role-276)</td><td><a href='#role-276'>276</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Gitarrist:in](#role-275) > [Rhythmusgitarrist](#role-277)</td><td><a href='#role-277'>277</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Harfenist:in](#role-278)</td><td><a href='#role-278'>278</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Lautenist:in](#role-279)</td><td><a href='#role-279'>279</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Mandolinist:in](#role-280)</td><td><a href='#role-280'>280</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Ukulelist:in](#role-281)</td><td><a href='#role-281'>281</a></td></tr>
-<tr><td>[Zupfinstrumentenspieler:in](#role-271) > [Zitherspieler:in](#role-282)</td><td><a href='#role-282'>282</a></td></tr>
-<tr><td>[Öffentlichkeitsarbeit](#role-400)</td><td><a href='#role-400'>400</a></td></tr>
-<tr><td>[Ökolog:in](#role-339)</td><td><a href='#role-339'>339</a></td></tr>
-<tr><td>[Übersetzer:in](#role-254)</td><td><a href='#role-254'>254</a></td></tr>
+<tr><td><a href="#role-1">1. Kameraassistenz</a></td><td><a href='#role-1'>1</a></td></tr>
+<tr><td><a href="#role-2">2. Kameraassistenz</a></td><td><a href='#role-2'>2</a></td></tr>
+<tr><td><a href="#role-3">Absolvent:in</a></td><td><a href='#role-3'>3</a></td></tr>
+<tr><td><a href="#role-4">Agent:in</a></td><td><a href='#role-4'>4</a></td></tr>
+<tr><td><a href="#role-5">Amateur:in</a></td><td><a href='#role-5'>5</a></td></tr>
+<tr><td><a href="#role-6">Animation:in</a></td><td><a href='#role-6'>6</a></td></tr>
+<tr><td><a href="#role-7">Anthropolog:in</a></td><td><a href='#role-7'>7</a></td></tr>
+<tr><td><a href="#role-378">Architekt:in</a></td><td><a href='#role-378'>378</a></td></tr>
+<tr><td><a href="#role-9">Archivar:in</a></td><td><a href='#role-9'>9</a></td></tr>
+<tr><td><a href="#role-8">Archäolog:in</a></td><td><a href='#role-8'>8</a></td></tr>
+<tr><td><a href="#role-10">Arrangeur:in</a></td><td><a href='#role-10'>10</a></td></tr>
+<tr><td><a href="#role-11">Arzt/Ärztin</a></td><td><a href='#role-11'>11</a></td></tr>
+<tr><td><a href="#role-11">Arzt/Ärztin</a> > <a href="#role-12">Augenarzt/Augenärztin</a></td><td><a href='#role-12'>12</a></td></tr>
+<tr><td><a href="#role-13">Assistent:in</a></td><td><a href='#role-13'>13</a></td></tr>
+<tr><td><a href="#role-14">Aufnahmeexpert:in</a></td><td><a href='#role-14'>14</a></td></tr>
+<tr><td><a href="#role-15">Aufnahmeleiter:in</a></td><td><a href='#role-15'>15</a></td></tr>
+<tr><td><a href="#role-15">Aufnahmeleiter:in</a> > <a href="#role-16">Tonmeister:in</a></td><td><a href='#role-16'>16</a></td></tr>
+<tr><td><a href="#role-17">Auftraggeber:in</a></td><td><a href='#role-17'>17</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-#19">Dramatiker:in</a></td><td><a href='#role-19'>19</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-20">Romanautor:in</a></td><td><a href='#role-20'>20</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a></td><td><a href='#role-18'>18</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a></td><td><a href='#role-289'>289</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a> > <a href="#role-290">Kriminalschriftsteller:in</a></td><td><a href='#role-290'>290</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a> > <a href="#role-291">Lyriker:in</a></td><td><a href='#role-291'>291</a></td></tr>
+<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a> > <a href="#role-351">Musikschriftsteller:in</a></td><td><a href='#role-351'>351</a></td></tr>
+<tr><td><a href="#role-21">Ballettmeister:in</a></td><td><a href='#role-21'>21</a></td></tr>
+<tr><td><a href="#role-22">Bankbeamt:in</a></td><td><a href='#role-22'>22</a></td></tr>
+<tr><td><a href="#role-23">Barbetreiber:in</a></td><td><a href='#role-23'>23</a></td></tr>
+<tr><td><a href="#role-24">Beleuchter:in</a></td><td><a href='#role-24'>24</a></td></tr>
+<tr><td><a href="#role-25">Bergbauingenieur:in</a></td><td><a href='#role-25'>25</a></td></tr>
+<tr><td><a href="#role-26">Besitzer:in</a></td><td><a href='#role-26'>26</a></td></tr>
+<tr><td><a href="#role-27">Betreuer:in</a></td><td><a href='#role-27'>27</a></td></tr>
+<tr><td><a href="#role-292">Betriebswirt:in</a></td><td><a href='#role-292'>292</a></td></tr>
+<tr><td><a href="#role-293">Bewegungspädagog:in</a></td><td><a href='#role-293'>293</a></td></tr>
+<tr><td><a href="#role-28">Bibliothekar:in</a></td><td><a href='#role-28'>28</a></td></tr>
+<tr><td><a href="#role-29">Bildgestalter:in</a></td><td><a href='#role-29'>29</a></td></tr>
+<tr><td><a href="#role-294">Bildhauer:in</a></td><td><a href='#role-294'>294</a></td></tr>
+<tr><td><a href="#role-395">Bildingenieur:in</a></td><td><a href='#role-395'>395</a></td></tr>
+<tr><td><a href="#role-396">Bildmischer:in</a></td><td><a href='#role-396'>396</a></td></tr>
+<tr><td><a href="#role-295">Biolog:in</a></td><td><a href='#role-295'>295</a></td></tr>
+<tr><td><a href="#role-296">Biotechniker:in</a></td><td><a href='#role-296'>296</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a></td><td><a href='#role-30'>30</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-31">Hornist:in</a></td><td><a href='#role-31'>31</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-32">Kornettist:in</a></td><td><a href='#role-32'>32</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-33">Posaunist:in</a></td><td><a href='#role-33'>33</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-34">Trompeter:in</a></td><td><a href='#role-34'>34</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-35">Tubist:in</a></td><td><a href='#role-35'>35</a></td></tr>
+<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-36">Zinkenist:in</a></td><td><a href='#role-36'>36</a></td></tr>
+<tr><td><a href="#role-297">Botaniker:in</a></td><td><a href='#role-297'>297</a></td></tr>
+<tr><td><a href="#role-285">Boxer:in</a></td><td><a href='#role-285'>285</a></td></tr>
+<tr><td><a href="#role-37">Buchhalter:in</a></td><td><a href='#role-37'>37</a></td></tr>
+<tr><td><a href="#role-384">Buchhändler:in</a></td><td><a href='#role-384'>384</a></td></tr>
+<tr><td><a href="#role-38">Bühnenbildner:in</a></td><td><a href='#role-38'>38</a></td></tr>
+<tr><td><a href="#role-39">Bühnenregisseur:in</a></td><td><a href='#role-39'>39</a></td></tr>
+<tr><td><a href="#role-40">Bühnentechniker:in</a></td><td><a href='#role-40'>40</a></td></tr>
+<tr><td><a href="#role-41">Choreograf:in</a></td><td><a href='#role-41'>41</a></td></tr>
+<tr><td><a href="#role-42">Co-Autor:in</a></td><td><a href='#role-42'>42</a></td></tr>
+<tr><td><a href="#role-43">Colour Grading</a></td><td><a href='#role-43'>43</a></td></tr>
+<tr><td><a href="#role-44">Designer:in</a></td><td><a href='#role-44'>44</a></td></tr>
+<tr><td><a href="#role-44">Designer:in</a> > <a href="#role-319">Grafikdesigner:in</a></td><td><a href='#role-319'>319</a></td></tr>
+<tr><td><a href="#role-44">Designer:in</a> > <a href="#role-387">Modedesigner:in</a></td><td><a href='#role-387'>387</a></td></tr>
+<tr><td><a href="#role-44">Designer:in</a> > <a href="#role-299">Web-Designer:in</a></td><td><a href='#role-299'>299</a></td></tr>
+<tr><td><a href="#role-45">Dichterkomponist:in</a></td><td><a href='#role-45'>45</a></td></tr>
+<tr><td><a href="#role-46">Digitalisierer:in</a></td><td><a href='#role-46'>46</a></td></tr>
+<tr><td><a href="#role-47">Diplomat:in</a></td><td><a href='#role-47'>47</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a></td><td><a href='#role-48'>48</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-49">Chorleiter:in</a></td><td><a href='#role-49'>49</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-50">Ensembleleiter:in</a></td><td><a href='#role-50'>50</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-51">Generalmusikdirektor:in</a></td><td><a href='#role-51'>51</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-52">Kantor:in (christlich)</a></td><td><a href='#role-52'>52</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-300">Kapellmeister:in</a></td><td><a href='#role-300'>300</a></td></tr>
+<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-53">Orchesterleiter:in</a></td><td><a href='#role-53'>53</a></td></tr>
+<tr><td><a href="#role-54">DJ</a></td><td><a href='#role-54'>54</a></td></tr>
+<tr><td><a href="#role-55">Dramaturg:in</a></td><td><a href='#role-55'>55</a></td></tr>
+<tr><td><a href="#role-56">Drehbuchautor:in</a></td><td><a href='#role-56'>56</a></td></tr>
+<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a></td><td><a href='#role-57'>57</a></td></tr>
+<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a> > <a href="#role-58">Akkordeonist:in</a></td><td><a href='#role-58'>58</a></td></tr>
+<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a> > <a href="#role-59">Konzertinaspieler:in</a></td><td><a href='#role-59'>59</a></td></tr>
+<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a> > <a href="#role-60">Mundharmonikaspieler:in</a></td><td><a href='#role-60'>60</a></td></tr>
+<tr><td><a href="#role-61">Eigentümer:in</a></td><td><a href='#role-61'>61</a></td></tr>
+<tr><td><a href="#role-62">Erfinder:in</a></td><td><a href='#role-62'>62</a></td></tr>
+<tr><td><a href="#role-301">Ergonom:in</a></td><td><a href='#role-301'>301</a></td></tr>
+<tr><td><a href="#role-63">erwähnte:r Akteur:in</a></td><td><a href='#role-63'>63</a></td></tr>
+<tr><td><a href="#role-64">Ethnolog:in</a></td><td><a href='#role-64'>64</a></td></tr>
+<tr><td><a href="#role-64">Ethnolog:in</a> > <a href="#role-65">Ethnograph:in</a></td><td><a href='#role-65'>65</a></td></tr>
+<tr><td><a href="#role-66">Fernsehmoderator:in</a></td><td><a href='#role-66'>66</a></td></tr>
+<tr><td><a href="#role-67">Filmförderung</a></td><td><a href='#role-67'>67</a></td></tr>
+<tr><td><a href="#role-68">Filmproduzent:in</a></td><td><a href='#role-68'>68</a></td></tr>
+<tr><td><a href="#role-69">Folkloremusiker:in</a></td><td><a href='#role-69'>69</a></td></tr>
+<tr><td><a href="#role-70">Fotograf:in</a></td><td><a href='#role-70'>70</a></td></tr>
+<tr><td><a href="#role-70">Fotograf:in</a> > <a href="#role-72">Foto-Künstler:in</a></td><td><a href='#role-72'>72</a></td></tr>
+<tr><td><a href="#role-70">Fotograf:in</a> > <a href="#role-71">Fotograf:in (Film)</a></td><td><a href='#role-71'>71</a></td></tr>
+<tr><td><a href="#role-302">Garderobier:e</a></td><td><a href='#role-302'>302</a></td></tr>
+<tr><td><a href="#role-73">Gerichtsvollzieher:in</a></td><td><a href='#role-73'>73</a></td></tr>
+<tr><td><a href="#role-74">Gesangslehrer:in</a></td><td><a href='#role-74'>74</a></td></tr>
+<tr><td><a href="#role-303">Geschäftspartner:in</a></td><td><a href='#role-303'>303</a></td></tr>
+<tr><td><a href="#role-75">Gewandmeister:in</a></td><td><a href='#role-75'>75</a></td></tr>
+<tr><td><a href="#role-76">Grip</a></td><td><a href='#role-76'>76</a></td></tr>
+<tr><td><a href="#role-76">Grip</a> > <a href="#role-304">Dolly Grip</a></td><td><a href='#role-304'>304</a></td></tr>
+<tr><td><a href="#role-305">Handwerker:in</a></td><td><a href='#role-305'>305</a></td></tr>
+<tr><td><a href="#role-305">Handwerker:in</a> > <a href="#role-306">Buchbinder:in</a></td><td><a href='#role-306'>306</a></td></tr>
+<tr><td><a href="#role-305">Handwerker:in</a> > <a href="#role-307">Drucker:in</a></td><td><a href='#role-307'>307</a></td></tr>
+<tr><td><a href="#role-305">Handwerker:in</a> > <a href="#role-308">Schneider:in</a></td><td><a href='#role-308'>308</a></td></tr>
+<tr><td><a href="#role-309">Herausgeber:in</a></td><td><a href='#role-309'>309</a></td></tr>
+<tr><td><a href="#role-82">Hersteller:in</a></td><td><a href='#role-82'>82</a></td></tr>
+<tr><td><a href="#role-83">Historiker:in</a></td><td><a href='#role-83'>83</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a></td><td><a href='#role-84'>84</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-85">Blockflötist:in</a></td><td><a href='#role-85'>85</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-86">Dudelsackspieler:in</a></td><td><a href='#role-86'>86</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-87">Fagottist:in</a></td><td><a href='#role-87'>87</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-88">Flötist:in</a></td><td><a href='#role-88'>88</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-88">Flötist:in</a> > <a href="#role-89">Piccoloflötist:in</a></td><td><a href='#role-89'>89</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-90">Klarinettist:in</a></td><td><a href='#role-90'>90</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-91">Oboist:in</a></td><td><a href='#role-91'>91</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a></td><td><a href='#role-92'>92</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-93">Altsaxofonist:in</a></td><td><a href='#role-93'>93</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-94">Baritonsaxofonist:in</a></td><td><a href='#role-94'>94</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-95">Basssaxofonist:in</a></td><td><a href='#role-95'>95</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-96">Mezzosopran-Saxofonist:in</a></td><td><a href='#role-96'>96</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-97">Sopransaxofonist:in</a></td><td><a href='#role-97'>97</a></td></tr>
+<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-98">Tenorsaxofonist:in</a></td><td><a href='#role-98'>98</a></td></tr>
+<tr><td><a href="#role-310">Humangeograph:in</a></td><td><a href='#role-310'>310</a></td></tr>
+<tr><td><a href="#role-77">Händler:in</a></td><td><a href='#role-77'>77</a></td></tr>
+<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-78">Autohändler:in</a></td><td><a href='#role-78'>78</a></td></tr>
+<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-79">Fahrradhändler:in</a></td><td><a href='#role-79'>79</a></td></tr>
+<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-80">Musikalienhändler:in</a></td><td><a href='#role-80'>80</a></td></tr>
+<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-81">Schreibwarenhändler:in</a></td><td><a href='#role-81'>81</a></td></tr>
+<tr><td><a href="#role-397">Hörfunkmoderator:in</a></td><td><a href='#role-397'>397</a></td></tr>
+<tr><td><a href="#role-99">Impressario</a></td><td><a href='#role-99'>99</a></td></tr>
+<tr><td><a href="#role-311">Informatiker:in</a></td><td><a href='#role-311'>311</a></td></tr>
+<tr><td><a href="#role-100">Ingenieur:in</a></td><td><a href='#role-100'>100</a></td></tr>
+<tr><td><a href="#role-100">Ingenieur:in</a> > <a href="#role-101">Elektroingenieur:in</a></td><td><a href='#role-101'>101</a></td></tr>
+<tr><td><a href="#role-102">Instrumentalist:in</a></td><td><a href='#role-102'>102</a></td></tr>
+<tr><td><a href="#role-103">Intendant:in</a></td><td><a href='#role-103'>103</a></td></tr>
+<tr><td><a href="#role-104">Interpret:in</a></td><td><a href='#role-104'>104</a></td></tr>
+<tr><td><a href="#role-105">Journalist:in</a></td><td><a href='#role-105'>105</a></td></tr>
+<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-107">Kritiker:in</a></td><td><a href='#role-107'>107</a></td></tr>
+<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-107">Kritiker:in</a> > <a href="#role-108">Literaturkritiker:in</a></td><td><a href='#role-108'>108</a></td></tr>
+<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-107">Kritiker:in</a> > <a href="#role-109">Musikkritiker:in</a></td><td><a href='#role-109'>109</a></td></tr>
+<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-106">Kulturjournalist:in</a></td><td><a href='#role-106'>106</a></td></tr>
+<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-110">Musikjournalist:in</a></td><td><a href='#role-110'>110</a></td></tr>
+<tr><td><a href="#role-312">Jurist:in</a></td><td><a href='#role-312'>312</a></td></tr>
+<tr><td><a href="#role-111">Kabarettist:in</a></td><td><a href='#role-111'>111</a></td></tr>
+<tr><td><a href="#role-112">Kameraperson</a></td><td><a href='#role-112'>112</a></td></tr>
+<tr><td><a href="#role-313">Keramiker:in</a></td><td><a href='#role-313'>313</a></td></tr>
+<tr><td><a href="#role-404">Kirchenmusiker:in</a></td><td><a href='#role-404'>404</a></td></tr>
+<tr><td><a href="#role-405">Klangregisseur:in</a></td><td><a href='#role-405'>405</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a></td><td><a href='#role-237'>237</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-238">Cembalist:in</a></td><td><a href='#role-238'>238</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-239">Harmoniumspieler:in</a></td><td><a href='#role-239'>239</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-240">Keyboarder:in</a></td><td><a href='#role-240'>240</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-241">Organist:in</a></td><td><a href='#role-241'>241</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-242">Pianist:in</a></td><td><a href='#role-242'>242</a></td></tr>
+<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-243">Pianolist:in</a></td><td><a href='#role-243'>243</a></td></tr>
+<tr><td><a href="#role-113">Klinikverwalter:in</a></td><td><a href='#role-113'>113</a></td></tr>
+<tr><td><a href="#role-393">Kognitionswissenschaftler:in</a></td><td><a href='#role-393'>393</a></td></tr>
+<tr><td><a href="#role-284">Komiker:in</a></td><td><a href='#role-284'>284</a></td></tr>
+<tr><td><a href="#role-114">Komiker:innenduo</a></td><td><a href='#role-114'>114</a></td></tr>
+<tr><td><a href="#role-115">Komponist:in</a></td><td><a href='#role-115'>115</a></td></tr>
+<tr><td><a href="#role-314">Konzertmeister:in</a></td><td><a href='#role-314'>314</a></td></tr>
+<tr><td><a href="#role-380">Kooperation</a></td><td><a href='#role-380'>380</a></td></tr>
+<tr><td><a href="#role-116">Koproduzent:in</a></td><td><a href='#role-116'>116</a></td></tr>
+<tr><td><a href="#role-315">Korrepetitor:in</a></td><td><a href='#role-315'>315</a></td></tr>
+<tr><td><a href="#role-117">Kostümbildner:in</a></td><td><a href='#role-117'>117</a></td></tr>
+<tr><td><a href="#role-316">Kranführer:in</a></td><td><a href='#role-316'>316</a></td></tr>
+<tr><td><a href="#role-118">Kulturaktivist:in</a></td><td><a href='#role-118'>118</a></td></tr>
+<tr><td><a href="#role-317">Kulturwissenschaftler:in</a></td><td><a href='#role-317'>317</a></td></tr>
+<tr><td><a href="#role-318">Kunsthistoriker:in</a></td><td><a href='#role-318'>318</a></td></tr>
+<tr><td><a href="#role-122">Kunstpfeifer:in</a></td><td><a href='#role-122'>122</a></td></tr>
+<tr><td><a href="#role-235">Kunstwissenschaftler:in</a></td><td><a href='#role-325'>325</a></td></tr>
+<tr><td><a href="#role-123">Kurator:in</a></td><td><a href='#role-123'>123</a></td></tr>
+<tr><td><a href="#role-123">Kurator:in</a> > <a href="#role-124">Ausstellungs-Kurator:in</a></td><td><a href='#role-124'>124</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a></td><td><a href='#role-119'>119</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-385">Grafiker:in</a></td><td><a href='#role-385'>385</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-385">Grafiker:in</a> > <a href="#role-389">Zeichner:in</a></td><td><a href='#role-389'>389</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-385">Grafiker:in</a> > <a href="#role-389">Zeichner:in</a> > <a href="#role-390">Comiczeichner:in</a></td><td><a href='#role-390'>390</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-120">Karikaturist:in</a></td><td><a href='#role-120'>120</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-320">Klangkünstler:in</a></td><td><a href='#role-320'>320</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-121">Maler:in</a></td><td><a href='#role-121'>121</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-121">Maler:in</a> > <a href="#role-321">Illustrator:in</a></td><td><a href='#role-321'>321</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-322">Performancekünstler:in</a></td><td><a href='#role-322'>322</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-399">VFX-Künstler:in</a></td><td><a href='#role-399'>399</a></td></tr>
+<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-323">Videokünstler:in</a></td><td><a href='#role-323'>323</a></td></tr>
+<tr><td><a href="#role-234">Künstlerische Leiter:in</a></td><td><a href='#role-324'>324</a></td></tr>
+<tr><td><a href="#role-402">Lehrbeauftragte:r</a></td><td><a href='#role-402'>402</a></td></tr>
+<tr><td><a href="#role-125">Lehrer:in</a></td><td><a href='#role-125'>125</a></td></tr>
+<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-326">Hochschullehrer:in</a></td><td><a href='#role-326'>326</a></td></tr>
+<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-327">Sportlehrer:in</a></td><td><a href='#role-327'>327</a></td></tr>
+<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-327">Sportlehrer:in</a> > <a href="#role-328">Tanzlehrer:in</a></td><td><a href='#role-328'>328</a></td></tr>
+<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-126">Sprachlehrer:in</a></td><td><a href='#role-126'>126</a></td></tr>
+<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-126">Sprachlehrer:in</a> > <a href="#role-127">Englischlehrer:in</a></td><td><a href='#role-127'>127</a></td></tr>
+<tr><td><a href="#role-128">Librettist:in</a></td><td><a href='#role-128'>128</a></td></tr>
+<tr><td><a href="#role-401">Liedbegleitung</a></td><td><a href='#role-401'>401</a></td></tr>
+<tr><td><a href="#role-129">Linguist:in</a></td><td><a href='#role-129'>129</a></td></tr>
+<tr><td><a href="#role-129">Linguist:in</a> > <a href="#role-130">Romanist:in</a></td><td><a href='#role-130'>130</a></td></tr>
+<tr><td><a href="#role-392">Location Manager:in</a></td><td><a href='#role-392'>392</a></td></tr>
+<tr><td><a href="#role-329">Logopäd:in</a></td><td><a href='#role-329'>329</a></td></tr>
+<tr><td><a href="#role-131">Lokomotivführer:in</a></td><td><a href='#role-131'>131</a></td></tr>
+<tr><td><a href="#role-132">Luftfahrtpionier:in</a></td><td><a href='#role-132'>132</a></td></tr>
+<tr><td><a href="#role-133">Manager:in</a></td><td><a href='#role-133'>133</a></td></tr>
+<tr><td><a href="#role-133">Manager:in</a> > <a href="#role-330">Eventmanager:in</a></td><td><a href='#role-330'>330</a></td></tr>
+<tr><td><a href="#role-172">Marineoffizier:in</a></td><td><a href='#role-172'>172</a></td></tr>
+<tr><td><a href="#role-134">Maskenbildner:in</a></td><td><a href='#role-134'>134</a></td></tr>
+<tr><td><a href="#role-383">Mastering Studio</a></td><td><a href='#role-383'>383</a></td></tr>
+<tr><td><a href="#role-394">Mathematiker:in</a></td><td><a href='#role-394'>394</a></td></tr>
+<tr><td><a href="#role-135">Maurer:in</a></td><td><a href='#role-135'>135</a></td></tr>
+<tr><td><a href="#role-136">Medienmanager:in</a></td><td><a href='#role-136'>136</a></td></tr>
+<tr><td><a href="#role-331">Medienwissenschaftler:in</a></td><td><a href='#role-331'>331</a></td></tr>
+<tr><td><a href="#role-137">Mischtonmeister</a></td><td><a href='#role-137'>137</a></td></tr>
+<tr><td><a href="#role-138">Mitwirkende:r</a></td><td><a href='#role-138'>138</a></td></tr>
+<tr><td><a href="#role-386">Model</a></td><td><a href='#role-386'>386</a></td></tr>
+<tr><td><a href="#role-403">Moderator:in</a></td><td><a href='#role-403'>403</a></td></tr>
+<tr><td><a href="#role-139">Montage</a></td><td><a href='#role-139'>139</a></td></tr>
+<tr><td><a href="#role-332">Musicaldarsteller:in</a></td><td><a href='#role-332'>332</a></td></tr>
+<tr><td><a href="#role-140">musikalische:r Begleiter:in</a></td><td><a href='#role-140'>140</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a></td><td><a href='#role-141'>141</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-142">Band</a></td><td><a href='#role-142'>142</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a></td><td><a href='#role-143'>143</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-144">Choralschola</a></td><td><a href='#role-144'>144</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-145">Frauenchor</a></td><td><a href='#role-145'>145</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-146">Kinderchor</a></td><td><a href='#role-146'>146</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-147">Knabenchor</a></td><td><a href='#role-147'>147</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-148">Männerchor</a></td><td><a href='#role-148'>148</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-149">Combo</a></td><td><a href='#role-149'>149</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-150">Elektronik-Ensemble</a></td><td><a href='#role-150'>150</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-151">Instrumentalgruppe</a></td><td><a href='#role-151'>151</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-152">Kammermusikensemble</a></td><td><a href='#role-152'>152</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-152">Kammermusikensemble</a> > <a href="#role-153">Streichquartett</a></td><td><a href='#role-153'>153</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a></td><td><a href='#role-154'>154</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-155">Blasorchester</a></td><td><a href='#role-155'>155</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-156">Militärorchester</a></td><td><a href='#role-156'>156</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-157">Streichorchester</a></td><td><a href='#role-157'>157</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-286">Tanzorchester</a></td><td><a href='#role-286'>286</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-158">Vokalensemble</a></td><td><a href='#role-158'>158</a></td></tr>
+<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-159">Volksmusikgruppe</a></td><td><a href='#role-159'>159</a></td></tr>
+<tr><td><a href="#role-160">Musiker:in</a></td><td><a href='#role-160'>160</a></td></tr>
+<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-333">Bandleader:in</a></td><td><a href='#role-333'>333</a></td></tr>
+<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-334">Jazzmusiker:in</a></td><td><a href='#role-334'>334</a></td></tr>
+<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-407">Synthesizerspieler:in</a></td><td><a href='#role-407'>407</a></td></tr>
+<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-406">Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>406</a></td></tr>
+<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a></td><td><a href='#role-161'>161</a></td></tr>
+<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a> > <a href="#role-162">Geigenbauer:in</a></td><td><a href='#role-162'>162</a></td></tr>
+<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a> > <a href="#role-163">Klavierbauer:in</a></td><td><a href='#role-163'>163</a></td></tr>
+<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a> > <a href="#role-164">Orgelbauer:in</a></td><td><a href='#role-164'>164</a></td></tr>
+<tr><td><a href="#role-165">Musiklehrer:in</a></td><td><a href='#role-165'>165</a></td></tr>
+<tr><td><a href="#role-166">Musikproduzent:in</a></td><td><a href='#role-166'>166</a></td></tr>
+<tr><td><a href="#role-166">Musikproduzent:in</a> > <a href="#role-167">Musikalische:r Leiter:in</a></td><td><a href='#role-167'>167</a></td></tr>
+<tr><td><a href="#role-166">Musikproduzent:in</a> > <a href="#role-168">Sessionleiter:in</a></td><td><a href='#role-168'>168</a></td></tr>
+<tr><td><a href="#role-169">Musikwissenschaftler:in</a></td><td><a href='#role-169'>169</a></td></tr>
+<tr><td><a href="#role-169">Musikwissenschaftler:in</a> > <a href="#role-335">Musikethnolog:in</a></td><td><a href='#role-335'>335</a></td></tr>
+<tr><td><a href="#role-336">Naturwissenschaftler:in</a></td><td><a href='#role-336'>336</a></td></tr>
+<tr><td><a href="#role-336">Naturwissenschaftler:in</a> > <a href="#role-337">Chemiker:in</a></td><td><a href='#role-337'>337</a></td></tr>
+<tr><td><a href="#role-338">Neurobiolog:in</a></td><td><a href='#role-338'>338</a></td></tr>
+<tr><td><a href="#role-170">Obstbautechniker:in</a></td><td><a href='#role-170'>170</a></td></tr>
+<tr><td><a href="#role-171">Offizier:in</a></td><td><a href='#role-171'>171</a></td></tr>
+<tr><td><a href="#role-173">Orientalist:in</a></td><td><a href='#role-173'>173</a></td></tr>
+<tr><td><a href="#role-174">Ornitholog:in</a></td><td><a href='#role-174'>174</a></td></tr>
+<tr><td><a href="#role-175">Pantomim:in</a></td><td><a href='#role-175'>175</a></td></tr>
+<tr><td><a href="#role-176">Performer:in</a></td><td><a href='#role-176'>176</a></td></tr>
+<tr><td><a href="#role-177">Perkussionist:in</a></td><td><a href='#role-177'>177</a></td></tr>
+<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-178">Marimbafonist:in</a></td><td><a href='#role-178'>178</a></td></tr>
+<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-179">Paukist:in</a></td><td><a href='#role-179'>179</a></td></tr>
+<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-180">Schlagzeuger:in</a></td><td><a href='#role-180'>180</a></td></tr>
+<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-181">Vibrafonist:in</a></td><td><a href='#role-181'>181</a></td></tr>
+<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-182">Xylofonist:in</a></td><td><a href='#role-182'>182</a></td></tr>
+<tr><td><a href="#role-182">Philolog:in</a></td><td><a href='#role-183'>183</a></td></tr>
+<tr><td><a href="#role-184">Philosoph:in</a></td><td><a href='#role-184'>184</a></td></tr>
+<tr><td><a href="#role-185">Physiker:in</a></td><td><a href='#role-185'>185</a></td></tr>
+<tr><td><a href="#role-186">Politiker:in</a></td><td><a href='#role-186'>186</a></td></tr>
+<tr><td><a href="#role-341">Politikwissenschaftler:in</a></td><td><a href='#role-341'>341</a></td></tr>
+<tr><td><a href="#role-342">Praktikant:in</a></td><td><a href='#role-342'>342</a></td></tr>
+<tr><td><a href="#role-187">Priester:in</a></td><td><a href='#role-187'>187</a></td></tr>
+<tr><td><a href="#role-187">Priester:in</a> > <a href="#role-188">Pfarrer:in</a></td><td><a href='#role-188'>188</a></td></tr>
+<tr><td><a href="#role-187">Priester:in</a> > <a href="#role-189">Prediger:in</a></td><td><a href='#role-189'>189</a></td></tr>
+<tr><td><a href="#role-191">Produktionsfirma</a></td><td><a href='#role-191'>191</a></td></tr>
+<tr><td><a href="#role-190">Produktionsleiter:in</a></td><td><a href='#role-190'>190</a></td></tr>
+<tr><td><a href="#role-190">Produktionsleiter:in</a> > <a href="#role-343">Produktionsassistent:in</a></td><td><a href='#role-343'>343</a></td></tr>
+<tr><td><a href="#role-192">Produzent:in</a></td><td><a href='#role-192'>192</a></td></tr>
+<tr><td><a href="#role-344">Programmierer:in</a></td><td><a href='#role-344'>344</a></td></tr>
+<tr><td><a href="#role-382">Projektleiter:in</a></td><td><a href='#role-382'>382</a></td></tr>
+<tr><td><a href="#role-345">Psycholog:in</a></td><td><a href='#role-345'>345</a></td></tr>
+<tr><td><a href="#role-346">Psychotherapeut:in</a></td><td><a href='#role-346'>346</a></td></tr>
+<tr><td><a href="#role-346">Psychotherapeut:in</a> > <a href="#role-347">Musiktherapeut:in</a></td><td><a href='#role-347'>347</a></td></tr>
+<tr><td><a href="#role-348">Publizist:in</a></td><td><a href='#role-348'>348</a></td></tr>
+<tr><td><a href="#role-340">Pädagog:in</a></td><td><a href='#role-340'>340</a></td></tr>
+<tr><td><a href="#role-349">Raumplaner:in</a></td><td><a href='#role-349'>349</a></td></tr>
+<tr><td><a href="#role-193">Rechtsanwalt/Rechtsanwältin</a></td><td><a href='#role-193'>193</a></td></tr>
+<tr><td><a href="#role-193">Rechtsanwalt/Rechtsanwältin</a> > <a href="#role-194">Notar:in</a></td><td><a href='#role-194'>194</a></td></tr>
+<tr><td><a href="#role-195">Redakteur:in</a></td><td><a href='#role-195'>195</a></td></tr>
+<tr><td><a href="#role-196">Regieassistent:in</a></td><td><a href='#role-196'>196</a></td></tr>
+<tr><td><a href="#role-197">Regisseur:in</a></td><td><a href='#role-197'>197</a></td></tr>
+<tr><td><a href="#role-198">Requisiteur:in</a></td><td><a href='#role-198'>198</a></td></tr>
+<tr><td><a href="#role-213">Schauspieler:in</a></td><td><a href='#role-213'>213</a></td></tr>
+<tr><td><a href="#role-214">Schlosser:in</a></td><td><a href='#role-214'>214</a></td></tr>
+<tr><td><a href="#role-215">Schnitt</a></td><td><a href='#role-215'>215</a></td></tr>
+<tr><td><a href="#role-350">Schriftsetzer:in</a></td><td><a href='#role-350'>350</a></td></tr>
+<tr><td><a href="#role-216">Script Continuity</a></td><td><a href='#role-216'>216</a></td></tr>
+<tr><td><a href="#role-217">Sekretär:in</a></td><td><a href='#role-217'>217</a></td></tr>
+<tr><td><a href="#role-298">Selbstverleger:in</a></td><td><a href='#role-298'>298</a></td></tr>
+<tr><td><a href="#role-218">Set Designer:in</a></td><td><a href='#role-218'>218</a></td></tr>
+<tr><td><a href="#role-288">Software-Entwickler:in</a></td><td><a href='#role-288'>288</a></td></tr>
+<tr><td><a href="#role-219">Soldat:in</a></td><td><a href='#role-219'>219</a></td></tr>
+<tr><td><a href="#role-352">Soufflage</a></td><td><a href='#role-352'>352</a></td></tr>
+<tr><td><a href="#role-220">Sounddesigner:in</a></td><td><a href='#role-220'>220</a></td></tr>
+<tr><td><a href="#role-353">Soziolog:in</a></td><td><a href='#role-353'>353</a></td></tr>
+<tr><td><a href="#role-353">Soziolog:in</a> > <a href="#role-354">Kultursoziolog:in</a></td><td><a href='#role-354'>354</a></td></tr>
+<tr><td><a href="#role-221">Special Effects</a></td><td><a href='#role-221'>221</a></td></tr>
+<tr><td><a href="#role-222">Sponsor:in</a></td><td><a href='#role-222'>222</a></td></tr>
+<tr><td><a href="#role-355">Sportler:in</a></td><td><a href='#role-355'>355</a></td></tr>
+<tr><td><a href="#role-355">Sportler:in</a> > <a href="#role-356">Bergsteiger:in</a></td><td><a href='#role-356'>356</a></td></tr>
+<tr><td><a href="#role-355">Sportler:in</a> > <a href="#role-357">Kampfsportler:in</a></td><td><a href='#role-357'>357</a></td></tr>
+<tr><td><a href="#role-223">Sprecher:in</a></td><td><a href='#role-223'>223</a></td></tr>
+<tr><td><a href="#role-223">Sprecher:in</a> > <a href="#role-224">Ansager:in</a></td><td><a href='#role-224'>224</a></td></tr>
+<tr><td><a href="#role-223">Sprecher:in</a> > <a href="#role-225">Rezitator:in</a></td><td><a href='#role-225'>225</a></td></tr>
+<tr><td><a href="#role-358">Sprecherzieher:in</a></td><td><a href='#role-358'>358</a></td></tr>
+<tr><td><a href="#role-359">Steuerfachangestellte:r</a></td><td><a href='#role-359'>359</a></td></tr>
+<tr><td><a href="#role-226">Streicher:in</a></td><td><a href='#role-226'>226</a></td></tr>
+<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-227">Bratschist:in</a></td><td><a href='#role-227'>227</a></td></tr>
+<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-228">Cellist:in</a></td><td><a href='#role-228'>228</a></td></tr>
+<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-229">Gambist:in</a></td><td><a href='#role-229'>229</a></td></tr>
+<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-230">Kontrabassist:in</a></td><td><a href='#role-230'>230</a></td></tr>
+<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-231">Violinist:in</a></td><td><a href='#role-231'>231</a></td></tr>
+<tr><td><a href="#role-232">Student:in</a></td><td><a href='#role-232'>232</a></td></tr>
+<tr><td><a href="#role-234">Synchronregie</a></td><td><a href='#role-234'>234</a></td></tr>
+<tr><td><a href="#role-233">Synchronsprecher:in</a></td><td><a href='#role-233'>233</a></td></tr>
+<tr><td><a href="#role-235">Szenenbildner:in</a></td><td><a href='#role-235'>235</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a></td><td><a href='#role-199'>199</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-200">Altist:in</a></td><td><a href='#role-200'>200</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-201">Bariton</a></td><td><a href='#role-201'>201</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-202">Bassbariton</a></td><td><a href='#role-202'>202</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-203">Bassist (Gesang)</a></td><td><a href='#role-203'>203</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-204">Chorsänger:in</a></td><td><a href='#role-204'>204</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-205">Countertenor</a></td><td><a href='#role-205'>205</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-207">Kantor:in (jüdisch)</a></td><td><a href='#role-207'>207</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-206">Kastrat</a></td><td><a href='#role-206'>206</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-208">Knabenalt</a></td><td><a href='#role-208'>208</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-209">Knabensopran</a></td><td><a href='#role-209'>209</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-210">Mezzosopranist:in</a></td><td><a href='#role-210'>210</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-211">Sopranist:in</a></td><td><a href='#role-211'>211</a></td></tr>
+<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-212">Tenorist:in</a></td><td><a href='#role-212'>212</a></td></tr>
+<tr><td><a href="#role-388">Tanzwissenschaftler:in</a></td><td><a href='#role-388'>388</a></td></tr>
+<tr><td><a href="#role-244">Techniker:in</a></td><td><a href='#role-244'>244</a></td></tr>
+<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-245">Elektroniker:in</a></td><td><a href='#role-245'>245</a></td></tr>
+<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-246">Elektrotechniker:in</a></td><td><a href='#role-246'>246</a></td></tr>
+<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-360">Technische:r Direktor:in</a></td><td><a href='#role-360'>360</a></td></tr>
+<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-361">Tontechniker:in</a></td><td><a href='#role-361'>361</a></td></tr>
+<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-362">Veranstaltungstechniker:in</a></td><td><a href='#role-362'>362</a></td></tr>
+<tr><td><a href="#role-379">Technische Realisation</a></td><td><a href='#role-379'>379</a></td></tr>
+<tr><td><a href="#role-247">Textdichter:in</a></td><td><a href='#role-247'>247</a></td></tr>
+<tr><td><a href="#role-248">Theatergruppe</a></td><td><a href='#role-248'>248</a></td></tr>
+<tr><td><a href="#role-249">Theaterleiter:in</a></td><td><a href='#role-249'>249</a></td></tr>
+<tr><td><a href="#role-363">Theatermacher:in</a></td><td><a href='#role-363'>363</a></td></tr>
+<tr><td><a href="#role-363">Theatermacher:in</a> > <a href="#role-364">Inspizient:in</a></td><td><a href='#role-364'>364</a></td></tr>
+<tr><td><a href="#role-250">Theaterproduzent:in</a></td><td><a href='#role-250'>250</a></td></tr>
+<tr><td><a href="#role-365">Theaterwissenschaftler:in</a></td><td><a href='#role-365'>365</a></td></tr>
+<tr><td><a href="#role-366">Theolog:in</a></td><td><a href='#role-366'>366</a></td></tr>
+<tr><td><a href="#role-367">Tischler:in</a></td><td><a href='#role-367'>367</a></td></tr>
+<tr><td><a href="#role-368">Tonassistent:in</a></td><td><a href='#role-368'>368</a></td></tr>
+<tr><td><a href="#role-251">Toningenieur:in</a></td><td><a href='#role-251'>251</a></td></tr>
+<tr><td><a href="#role-251">Toningenieur:in</a> > <a href="#role-252">Master-Ingenieur:in</a></td><td><a href='#role-252'>252</a></td></tr>
+<tr><td><a href="#role-251">Toningenieur:in</a> > <a href="#role-253">Tonmischer:in</a></td><td><a href='#role-253'>253</a></td></tr>
+<tr><td><a href="#role-287">Tonträgerunternehmen</a></td><td><a href='#role-287'>287</a></td></tr>
+<tr><td><a href="#role-369">Travestie</a></td><td><a href='#role-369'>369</a></td></tr>
+<tr><td><a href="#role-369">Travestie</a> > <a href="#role-370">Dragqueen</a></td><td><a href='#role-370'>370</a></td></tr>
+<tr><td><a href="#role-236">Tänzer:in</a></td><td><a href='#role-236'>236</a></td></tr>
+<tr><td><a href="#role-391">Tätowierer:in</a></td><td><a href='#role-391'>391</a></td></tr>
+<tr><td><a href="#role-283">unbekannt</a></td><td><a href='#role-283'>283</a></td></tr>
+<tr><td><a href="#role-255">Unternehmer:in</a></td><td><a href='#role-255'>255</a></td></tr>
+<tr><td><a href="#role-371">Unterstützer:in</a></td><td><a href='#role-371'>371</a></td></tr>
+<tr><td><a href="#role-256">Veranstalter:in</a></td><td><a href='#role-256'>256</a></td></tr>
+<tr><td><a href="#role-257">Verfasser:in</a></td><td><a href='#role-257'>257</a></td></tr>
+<tr><td><a href="#role-258">Verleger:in</a></td><td><a href='#role-258'>258</a></td></tr>
+<tr><td><a href="#role-258">Verleger:in</a> > <a href="#role-259">Musikverleger:in</a></td><td><a href='#role-259'>259</a></td></tr>
+<tr><td><a href="#role-260">Vertrieb</a></td><td><a href='#role-260'>260</a></td></tr>
+<tr><td><a href="#role-398">VFX Producer:in</a></td><td><a href='#role-398'>398</a></td></tr>
+<tr><td><a href="#role-372">Visagist:in</a></td><td><a href='#role-372'>372</a></td></tr>
+<tr><td><a href="#role-261">Voice-Over</a></td><td><a href='#role-261'>261</a></td></tr>
+<tr><td><a href="#role-262">Vokalist:in</a></td><td><a href='#role-262'>262</a></td></tr>
+<tr><td><a href="#role-262">Vokalist:in</a> > <a href="#role-263">Chansonnier/Chansonnière</a></td><td><a href='#role-263'>263</a></td></tr>
+<tr><td><a href="#role-262">Vokalist:in</a> > <a href="#role-264">Jodler:in</a></td><td><a href='#role-264'>264</a></td></tr>
+<tr><td><a href="#role-262">Vokalist:in</a> > <a href="#role-265">Rapper:in</a></td><td><a href='#role-265'>265</a></td></tr>
+<tr><td><a href="#role-373">Vorsitzende:r</a></td><td><a href='#role-373'>373</a></td></tr>
+<tr><td><a href="#role-266">Vortragsredner:in</a></td><td><a href='#role-266'>266</a></td></tr>
+<tr><td><a href="#role-265">Webvideoproduzent:in</a> > <a href="#role-268">Video Blogger:in</a></td><td><a href='#role-268'>268</a></td></tr>
+<tr><td><a href="#role-267">Webvideoproduzent:in</a></td><td><a href='#role-267'>267</a></td></tr>
+<tr><td><a href="#role-374">Werkstattleiter:in</a></td><td><a href='#role-374'>374</a></td></tr>
+<tr><td><a href="#role-269">Widmungsträger:in</a></td><td><a href='#role-269'>269</a></td></tr>
+<tr><td><a href="#role-375">Wirtschaftswissenschaftler:in</a></td><td><a href='#role-375'>375</a></td></tr>
+<tr><td><a href="#role-381">wissenschaftliche:r Mitarbeiter:in</a></td><td><a href='#role-381'>381</a></td></tr>
+<tr><td><a href="#role-376">Yogalehrer:in</a></td><td><a href='#role-376'>376</a></td></tr>
+<tr><td><a href="#role-270">Zirkusdirektor:in</a></td><td><a href='#role-270'>270</a></td></tr>
+<tr><td><a href="#role-377">Zoolog:in</a></td><td><a href='#role-377'>377</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a></td><td><a href='#role-271'>271</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-272">Balalaikaspieler:in</a></td><td><a href='#role-272'>272</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-273">Banjospieler:in</a></td><td><a href='#role-273'>273</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-274">Bassist:in (Instrument)</a></td><td><a href='#role-274'>274</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-275">Gitarrist:in</a></td><td><a href='#role-275'>275</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-275">Gitarrist:in</a> > <a href="#role-276">Lead-Gitarrist:in</a></td><td><a href='#role-276'>276</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-275">Gitarrist:in</a> > <a href="#role-277">Rhythmusgitarrist</a></td><td><a href='#role-277'>277</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-278">Harfenist:in</a></td><td><a href='#role-278'>278</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-279">Lautenist:in</a></td><td><a href='#role-279'>279</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-280">Mandolinist:in</a></td><td><a href='#role-280'>280</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-281">Ukulelist:in</a></td><td><a href='#role-281'>281</a></td></tr>
+<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-282">Zitherspieler:in</a></td><td><a href='#role-282'>282</a></td></tr>
+<tr><td><a href="#role-400">Öffentlichkeitsarbeit</a></td><td><a href='#role-400'>400</a></td></tr>
+<tr><td><a href="#role-339">Ökolog:in</a></td><td><a href='#role-339'>339</a></td></tr>
+<tr><td><a href="#role-254">Übersetzer:in</a></td><td><a href='#role-254'>254</a></td></tr>
 </table>
 </details>
 
 <details><summary>Roles ordered by English Breadcrumb | Rollen nach Englischem Breadcrumb geordnet</summary>
 <table>
 <tr><th>English Breadcrumb</th><th>ID</th></tr>
-<tr><td>[1st assistant camera](#role-1)</td><td><a href='#role-1'>1</a></td></tr>
-<tr><td>[2nd assistant camera](#role-2)</td><td><a href='#role-2'>2</a></td></tr>
-<tr><td>[academic supervisor](#role-27)</td><td><a href='#role-27'>27</a></td></tr>
-<tr><td>[accompanist](#role-140)</td><td><a href='#role-140'>140</a></td></tr>
-<tr><td>[actor/actress](#role-213)</td><td><a href='#role-213'>213</a></td></tr>
-<tr><td>[agent](#role-4)</td><td><a href='#role-4'>4</a></td></tr>
-<tr><td>[amateur](#role-5)</td><td><a href='#role-5'>5</a></td></tr>
-<tr><td>[animation](#role-6)</td><td><a href='#role-6'>6</a></td></tr>
-<tr><td>[anthropologist](#role-7)</td><td><a href='#role-7'>7</a></td></tr>
-<tr><td>[archaeologist](#role-8)</td><td><a href='#role-8'>8</a></td></tr>
-<tr><td>[architect](#role-378)</td><td><a href='#role-378'>378</a></td></tr>
-<tr><td>[archivist](#role-9)</td><td><a href='#role-9'>9</a></td></tr>
-<tr><td>[art historian](#role-318)</td><td><a href='#role-318'>318</a></td></tr>
-<tr><td>[art scholar](#role-235)</td><td><a href='#role-325'>325</a></td></tr>
-<tr><td>[artisan](#role-305)</td><td><a href='#role-305'>305</a></td></tr>
-<tr><td>[artisan](#role-305) > [bookbinder](#role-306)</td><td><a href='#role-306'>306</a></td></tr>
-<tr><td>[artisan](#role-305) > [printer](#role-307)</td><td><a href='#role-307'>307</a></td></tr>
-<tr><td>[artisan](#role-305) > [tailor](#role-308)</td><td><a href='#role-308'>308</a></td></tr>
-<tr><td>[artist](#role-119)</td><td><a href='#role-119'>119</a></td></tr>
-<tr><td>[artist](#role-119) > [caricaturist](#role-120)</td><td><a href='#role-120'>120</a></td></tr>
-<tr><td>[artist](#role-119) > [graphic artist](#role-385)</td><td><a href='#role-385'>385</a></td></tr>
-<tr><td>[artist](#role-119) > [graphic artist](#role-385) > [draftsperson](#role-389)</td><td><a href='#role-389'>389</a></td></tr>
-<tr><td>[artist](#role-119) > [graphic artist](#role-385) > [draftsperson](#role-389) > [comics artist](#role-390)</td><td><a href='#role-390'>390</a></td></tr>
-<tr><td>[artist](#role-119) > [painter](#role-121)</td><td><a href='#role-121'>121</a></td></tr>
-<tr><td>[artist](#role-119) > [painter](#role-121) > [illustrator](#role-321)</td><td><a href='#role-321'>321</a></td></tr>
-<tr><td>[artist](#role-119) > [performance artist](#role-322)</td><td><a href='#role-322'>322</a></td></tr>
-<tr><td>[artist](#role-119) > [sound artist](#role-320)</td><td><a href='#role-320'>320</a></td></tr>
-<tr><td>[artist](#role-119) > [VFX-artist](#role-399)</td><td><a href='#role-399'>399</a></td></tr>
-<tr><td>[artist](#role-119) > [video artist](#role-323)</td><td><a href='#role-323'>323</a></td></tr>
-<tr><td>[artistic director](#role-234)</td><td><a href='#role-324'>324</a></td></tr>
-<tr><td>[assistant director](#role-196)</td><td><a href='#role-196'>196</a></td></tr>
-<tr><td>[assistant](#role-13)</td><td><a href='#role-13'>13</a></td></tr>
-<tr><td>[athlete](#role-355)</td><td><a href='#role-355'>355</a></td></tr>
-<tr><td>[athlete](#role-355) > [martial artist](#role-357)</td><td><a href='#role-357'>357</a></td></tr>
-<tr><td>[athlete](#role-355) > [mountaineer](#role-356)</td><td><a href='#role-356'>356</a></td></tr>
-<tr><td>[audio engineer](#role-251)</td><td><a href='#role-251'>251</a></td></tr>
-<tr><td>[audio engineer](#role-251) > [mastering engineer](#role-252)</td><td><a href='#role-252'>252</a></td></tr>
-<tr><td>[audio engineer](#role-251) > [sound mixer](#role-253)</td><td><a href='#role-253'>253</a></td></tr>
-<tr><td>[author](#role-18) > [novelist](#role-20)</td><td><a href='#role-20'>20</a></td></tr>
-<tr><td>[author](#role-18) > [playwright](#role-#19)</td><td><a href='#role-19'>19</a></td></tr>
-<tr><td>[author](#role-18)</td><td><a href='#role-18'>18</a></td></tr>
-<tr><td>[author](#role-18) > [writer](#role-289)</td><td><a href='#role-289'>289</a></td></tr>
-<tr><td>[author](#role-18) > [writer](#role-289) > [crime fiction writer](#role-290)</td><td><a href='#role-290'>290</a></td></tr>
-<tr><td>[author](#role-18) > [writer](#role-289) > [musicographer](#role-351)</td><td><a href='#role-351'>351</a></td></tr>
-<tr><td>[author](#role-18) > [writer](#role-289) > [poet](#role-290)</td><td><a href='#role-291'>291</a></td></tr>
-<tr><td>[aviation pioneer](#role-132)</td><td><a href='#role-132'>132</a></td></tr>
-<tr><td>[bailiff](#role-73)</td><td><a href='#role-73'>73</a></td></tr>
-<tr><td>[ballet master](#role-21)</td><td><a href='#role-21'>21</a></td></tr>
-<tr><td>[bank officer](#role-22)</td><td><a href='#role-22'>22</a></td></tr>
-<tr><td>[bar manager](#role-23)</td><td><a href='#role-23'>23</a></td></tr>
-<tr><td>[biological technician](#role-296)</td><td><a href='#role-296'>296</a></td></tr>
-<tr><td>[biologist](#role-295)</td><td><a href='#role-295'>295</a></td></tr>
-<tr><td>[bookkeeper](#role-37)</td><td><a href='#role-37'>37</a></td></tr>
-<tr><td>[bookseller](#role-384)</td><td><a href='#role-384'>384</a></td></tr>
-<tr><td>[boom operator](#role-368)</td><td><a href='#role-368'>368</a></td></tr>
-<tr><td>[botanist](#role-297)</td><td><a href='#role-297'>297</a></td></tr>
-<tr><td>[boxer](#role-285)</td><td><a href='#role-285'>285</a></td></tr>
-<tr><td>[brass player](#role-30)</td><td><a href='#role-30'>30</a></td></tr>
-<tr><td>[brass player](#role-30) > [cornetist](#role-32)</td><td><a href='#role-32'>32</a></td></tr>
-<tr><td>[brass player](#role-30) > [cornettist](#role-36)</td><td><a href='#role-36'>36</a></td></tr>
-<tr><td>[brass player](#role-30) > [hornist](#role-31)</td><td><a href='#role-31'>31</a></td></tr>
-<tr><td>[brass player](#role-30) > [trombonist](#role-33)</td><td><a href='#role-33'>33</a></td></tr>
-<tr><td>[brass player](#role-30) > [trumpeter](#role-34)</td><td><a href='#role-34'>34</a></td></tr>
-<tr><td>[brass player](#role-30) > [tuba player](#role-35)</td><td><a href='#role-35'>35</a></td></tr>
-<tr><td>[bricklayer](#role-135)</td><td><a href='#role-135'>135</a></td></tr>
-<tr><td>[business manager](#role-292)</td><td><a href='#role-292'>292</a></td></tr>
-<tr><td>[business partner](#role-303)</td><td><a href='#role-303'>303</a></td></tr>
-<tr><td>[cabaret performer](#role-111)</td><td><a href='#role-111'>111</a></td></tr>
-<tr><td>[carpenter](#role-367)</td><td><a href='#role-367'>367</a></td></tr>
-<tr><td>[ceramicist](#role-313)</td><td><a href='#role-313'>313</a></td></tr>
-<tr><td>[chairperson](#role-373)</td><td><a href='#role-373'>373</a></td></tr>
-<tr><td>[choreographer](#role-41)</td><td><a href='#role-41'>41</a></td></tr>
-<tr><td>[church musician](#role-404)</td><td><a href='#role-404'>404</a></td></tr>
-<tr><td>[cinematographer](#role-112)</td><td><a href='#role-112'>112</a></td></tr>
-<tr><td>[cinematographer](#role-29)</td><td><a href='#role-29'>29</a></td></tr>
-<tr><td>[circus director](#role-270)</td><td><a href='#role-270'>270</a></td></tr>
-<tr><td>[clavierist](#role-237)</td><td><a href='#role-237'>237</a></td></tr>
-<tr><td>[clavierist](#role-237) > [harmonium player](#role-239)</td><td><a href='#role-239'>239</a></td></tr>
-<tr><td>[clavierist](#role-237) > [harpsichordist](#role-238)</td><td><a href='#role-238'>238</a></td></tr>
-<tr><td>[clavierist](#role-237) > [keyboarder](#role-240)</td><td><a href='#role-240'>240</a></td></tr>
-<tr><td>[clavierist](#role-237) > [organist](#role-241)</td><td><a href='#role-241'>241</a></td></tr>
-<tr><td>[clavierist](#role-237) > [pianist](#role-242)</td><td><a href='#role-242'>242</a></td></tr>
-<tr><td>[clavierist](#role-237) > [pianolist](#role-243)</td><td><a href='#role-243'>243</a></td></tr>
-<tr><td>[co-author](#role-42)</td><td><a href='#role-42'>42</a></td></tr>
-<tr><td>[co-producer](#role-116)</td><td><a href='#role-116'>116</a></td></tr>
-<tr><td>[cognitive scientist](#role-393)</td><td><a href='#role-393'>393</a></td></tr>
-<tr><td>[colour grading](#role-43)</td><td><a href='#role-43'>43</a></td></tr>
-<tr><td>[comedian](#role-284)</td><td><a href='#role-284'>284</a></td></tr>
-<tr><td>[commissioner](#role-17)</td><td><a href='#role-17'>17</a></td></tr>
-<tr><td>[composer](#role-115)</td><td><a href='#role-115'>115</a></td></tr>
-<tr><td>[computer scientist](#role-311)</td><td><a href='#role-311'>311</a></td></tr>
-<tr><td>[concertmaster](#role-314)</td><td><a href='#role-314'>314</a></td></tr>
-<tr><td>[conductor](#role-48)</td><td><a href='#role-48'>48</a></td></tr>
-<tr><td>[conductor](#role-48) > [band leader](#role-53)</td><td><a href='#role-53'>53</a></td></tr>
-<tr><td>[conductor](#role-48) > [cantor](#role-52)</td><td><a href='#role-52'>52</a></td></tr>
-<tr><td>[conductor](#role-48) > [chapelmaster](#role-300)</td><td><a href='#role-300'>300</a></td></tr>
-<tr><td>[conductor](#role-48) > [choir director](#role-49)</td><td><a href='#role-49'>49</a></td></tr>
-<tr><td>[conductor](#role-48) > [ensemble leader](#role-50)</td><td><a href='#role-50'>50</a></td></tr>
-<tr><td>[conductor](#role-48) > [general music director](#role-51)</td><td><a href='#role-51'>51</a></td></tr>
-<tr><td>[contributor](#role-138)</td><td><a href='#role-138'>138</a></td></tr>
-<tr><td>[cooperation](#role-380)</td><td><a href='#role-380'>380</a></td></tr>
-<tr><td>[costume designer](#role-117)</td><td><a href='#role-117'>117</a></td></tr>
-<tr><td>[crane operator](#role-316)</td><td><a href='#role-316'>316</a></td></tr>
-<tr><td>[cultural activist](#role-118)</td><td><a href='#role-118'>118</a></td></tr>
-<tr><td>[cultural studies scholar](#role-317)</td><td><a href='#role-317'>317</a></td></tr>
-<tr><td>[curator](#role-123)</td><td><a href='#role-123'>123</a></td></tr>
-<tr><td>[curator](#role-123) > [exhibition curator](#role-124)</td><td><a href='#role-124'>124</a></td></tr>
-<tr><td>[dance researcher](#role-388)</td><td><a href='#role-388'>388</a></td></tr>
-<tr><td>[dancer](#role-236)</td><td><a href='#role-236'>236</a></td></tr>
-<tr><td>[dedicatee](#role-269)</td><td><a href='#role-269'>269</a></td></tr>
-<tr><td>[designer](#role-44)</td><td><a href='#role-44'>44</a></td></tr>
-<tr><td>[designer](#role-44) > [fashion designer](#role-387)</td><td><a href='#role-387'>387</a></td></tr>
-<tr><td>[designer](#role-44) > [graphic designer](#role-319)</td><td><a href='#role-319'>319</a></td></tr>
-<tr><td>[designer](#role-44) > [website designer](#role-299)</td><td><a href='#role-299'>299</a></td></tr>
-<tr><td>[dialog director](#role-234)</td><td><a href='#role-234'>234</a></td></tr>
-<tr><td>[digitisation officer](#role-46)</td><td><a href='#role-46'>46</a></td></tr>
-<tr><td>[diplomat](#role-47)</td><td><a href='#role-47'>47</a></td></tr>
-<tr><td>[director](#role-197)</td><td><a href='#role-197'>197</a></td></tr>
-<tr><td>[distributor](#role-260)</td><td><a href='#role-260'>260</a></td></tr>
-<tr><td>[dj](#role-54)</td><td><a href='#role-54'>54</a></td></tr>
-<tr><td>[double act](#role-114)</td><td><a href='#role-114'>114</a></td></tr>
-<tr><td>[dramaturge](#role-55)</td><td><a href='#role-55'>55</a></td></tr>
-<tr><td>[dresser](#role-302)</td><td><a href='#role-302'>302</a></td></tr>
-<tr><td>[dub actor](#role-233)</td><td><a href='#role-233'>233</a></td></tr>
-<tr><td>[ecologist](#role-339)</td><td><a href='#role-339'>339</a></td></tr>
-<tr><td>[economist](#role-375)</td><td><a href='#role-375'>375</a></td></tr>
-<tr><td>[editor](#role-195)</td><td><a href='#role-195'>195</a></td></tr>
-<tr><td>[engineer](#role-100)</td><td><a href='#role-100'>100</a></td></tr>
-<tr><td>[engineer](#role-100) > [electrical engineer](#role-101)</td><td><a href='#role-101'>101</a></td></tr>
-<tr><td>[entrepreneur](#role-255)</td><td><a href='#role-255'>255</a></td></tr>
-<tr><td>[ergonomist](#role-301)</td><td><a href='#role-301'>301</a></td></tr>
-<tr><td>[ethnologist](#role-64)</td><td><a href='#role-64'>64</a></td></tr>
-<tr><td>[ethnologist](#role-64) > [ethnographer](#role-65)</td><td><a href='#role-65'>65</a></td></tr>
-<tr><td>[film editor](#role-215)</td><td><a href='#role-215'>215</a></td></tr>
-<tr><td>[film funding](#role-67)</td><td><a href='#role-67'>67</a></td></tr>
-<tr><td>[film producer](#role-68)</td><td><a href='#role-68'>68</a></td></tr>
-<tr><td>[folk musician](#role-69)</td><td><a href='#role-69'>69</a></td></tr>
-<tr><td>[free-reed player](#role-57)</td><td><a href='#role-57'>57</a></td></tr>
-<tr><td>[free-reed player](#role-57) > [accordionist](#role-58)</td><td><a href='#role-58'>58</a></td></tr>
-<tr><td>[free-reed player](#role-57) > [concertina player](#role-59)</td><td><a href='#role-59'>59</a></td></tr>
-<tr><td>[free-reed player](#role-57) > [harmonica player](#role-60)</td><td><a href='#role-60'>60</a></td></tr>
-<tr><td>[freelance instructor](#role-402)</td><td><a href='#role-402'>402</a></td></tr>
-<tr><td>[graduate](#role-3)</td><td><a href='#role-3'>3</a></td></tr>
-<tr><td>[grip](#role-76)</td><td><a href='#role-76'>76</a></td></tr>
-<tr><td>[grip](#role-76) > [dolly grip](#role-304)</td><td><a href='#role-304'>304</a></td></tr>
-<tr><td>[historian](#role-83)</td><td><a href='#role-83'>83</a></td></tr>
-<tr><td>[hospital administrator](#role-113)</td><td><a href='#role-113'>113</a></td></tr>
-<tr><td>[host](#role-256)</td><td><a href='#role-256'>256</a></td></tr>
-<tr><td>[human geographer](#role-310)</td><td><a href='#role-310'>310</a></td></tr>
-<tr><td>[impresario](#role-99)</td><td><a href='#role-99'>99</a></td></tr>
-<tr><td>[independent publisher](#role-298)</td><td><a href='#role-298'>298</a></td></tr>
-<tr><td>[instrument maker](#role-161)</td><td><a href='#role-161'>161</a></td></tr>
-<tr><td>[instrument maker](#role-161) > [luthier](#role-162)</td><td><a href='#role-162'>162</a></td></tr>
-<tr><td>[instrument maker](#role-161) > [organ builder](#role-164)</td><td><a href='#role-164'>164</a></td></tr>
-<tr><td>[instrument maker](#role-161) > [piano maker](#role-163)</td><td><a href='#role-163'>163</a></td></tr>
-<tr><td>[instrumentalist](#role-102)</td><td><a href='#role-102'>102</a></td></tr>
-<tr><td>[intendant](#role-103)</td><td><a href='#role-103'>103</a></td></tr>
-<tr><td>[intern](#role-342)</td><td><a href='#role-342'>342</a></td></tr>
-<tr><td>[inventor](#role-62)</td><td><a href='#role-62'>62</a></td></tr>
-<tr><td>[journalist](#role-105)</td><td><a href='#role-105'>105</a></td></tr>
-<tr><td>[journalist](#role-105) > [arts journalist](#role-106)</td><td><a href='#role-106'>106</a></td></tr>
-<tr><td>[journalist](#role-105) > [critic](#role-107)</td><td><a href='#role-107'>107</a></td></tr>
-<tr><td>[journalist](#role-105) > [critic](#role-107) > [literary critic](#role-108)</td><td><a href='#role-108'>108</a></td></tr>
-<tr><td>[journalist](#role-105) > [critic](#role-107) > [music critic](#role-109)</td><td><a href='#role-109'>109</a></td></tr>
-<tr><td>[journalist](#role-105) > [music journalist](#role-110)</td><td><a href='#role-110'>110</a></td></tr>
-<tr><td>[jurist](#role-312)</td><td><a href='#role-312'>312</a></td></tr>
-<tr><td>[lawyer](#role-193)</td><td><a href='#role-193'>193</a></td></tr>
-<tr><td>[lawyer](#role-193) > [notary](#role-194)</td><td><a href='#role-194'>194</a></td></tr>
-<tr><td>[lecturer](#role-266)</td><td><a href='#role-266'>266</a></td></tr>
-<tr><td>[librarian](#role-28)</td><td><a href='#role-28'>28</a></td></tr>
-<tr><td>[librettist](#role-128)</td><td><a href='#role-128'>128</a></td></tr>
-<tr><td>[lighting technician](#role-24)</td><td><a href='#role-24'>24</a></td></tr>
-<tr><td>[linguist](#role-129)</td><td><a href='#role-129'>129</a></td></tr>
-<tr><td>[linguist](#role-129) > [romanist](#role-130)</td><td><a href='#role-130'>130</a></td></tr>
-<tr><td>[location manager](#role-392)</td><td><a href='#role-392'>392</a></td></tr>
-<tr><td>[locksmith](#role-214)</td><td><a href='#role-214'>214</a></td></tr>
-<tr><td>[lyricist](#role-247)</td><td><a href='#role-247'>247</a></td></tr>
-<tr><td>[make-up artist ](#role-134)</td><td><a href='#role-134'>134</a></td></tr>
-<tr><td>[manager](#role-133)</td><td><a href='#role-133'>133</a></td></tr>
-<tr><td>[manager](#role-133) > [event manager](#role-329)</td><td><a href='#role-330'>330</a></td></tr>
-<tr><td>[manufacturer](#role-82)</td><td><a href='#role-82'>82</a></td></tr>
-<tr><td>[mastering studio](#role-383)</td><td><a href='#role-383'>383</a></td></tr>
-<tr><td>[mathematician](#role-394)</td><td><a href='#role-394'>394</a></td></tr>
-<tr><td>[media executive](#role-136)</td><td><a href='#role-136'>136</a></td></tr>
-<tr><td>[media scholar](#role-331)</td><td><a href='#role-331'>331</a></td></tr>
-<tr><td>[mentioned actor](#role-63)</td><td><a href='#role-63'>63</a></td></tr>
-<tr><td>[mime](#role-175)</td><td><a href='#role-175'>175</a></td></tr>
-<tr><td>[mining engineer](#role-25)</td><td><a href='#role-25'>25</a></td></tr>
-<tr><td>[model](#role-386)</td><td><a href='#role-386'>386</a></td></tr>
-<tr><td>[montage](#role-139)</td><td><a href='#role-139'>139</a></td></tr>
-<tr><td>[movement educator](#role-293)</td><td><a href='#role-293'>293</a></td></tr>
-<tr><td>[music arranger](#role-10)</td><td><a href='#role-10'>10</a></td></tr>
-<tr><td>[music producer](#role-166)</td><td><a href='#role-166'>166</a></td></tr>
-<tr><td>[music producer](#role-166) > [musical supervisor](#role-167)</td><td><a href='#role-167'>167</a></td></tr>
-<tr><td>[music producer](#role-166) > [session supervisor](#role-168)</td><td><a href='#role-168'>168</a></td></tr>
-<tr><td>[music teacher](#role-165)</td><td><a href='#role-165'>165</a></td></tr>
-<tr><td>[musical ensemble](#role-141)</td><td><a href='#role-141'>141</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [band](#role-142)</td><td><a href='#role-142'>142</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [chamber music ensemble](#role-152)</td><td><a href='#role-152'>152</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [chamber music ensemble](#role-152) > [string quartet](#role-153)</td><td><a href='#role-153'>153</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [choir](#role-143)</td><td><a href='#role-143'>143</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [choir](#role-143) > [boys' choir](#role-147)</td><td><a href='#role-147'>147</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [choir](#role-143) > [children's choir](#role-146)</td><td><a href='#role-146'>146</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [choir](#role-143) > [male choir](#role-148)</td><td><a href='#role-148'>148</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [choir](#role-143) > [scholae](#role-144)</td><td><a href='#role-144'>144</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [choir](#role-143) > [women's choir](#role-145)</td><td><a href='#role-145'>145</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [combo](#role-149)</td><td><a href='#role-149'>149</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [electronic band](#role-150)</td><td><a href='#role-150'>150</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [folk music group](#role-159)</td><td><a href='#role-159'>159</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [instrumental group](#role-151)</td><td><a href='#role-151'>151</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [orchestra](#role-154)</td><td><a href='#role-154'>154</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [orchestra](#role-154) > [dance orchestra](#role-286)</td><td><a href='#role-286'>286</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [orchestra](#role-154) > [military band](#role-156)</td><td><a href='#role-156'>156</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [orchestra](#role-154) > [string orchestra](#role-157)</td><td><a href='#role-157'>157</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [orchestra](#role-154) > [wind orchestra](#role-155)</td><td><a href='#role-155'>155</a></td></tr>
-<tr><td>[musical ensemble](#role-141) > [vocal group](#role-158)</td><td><a href='#role-158'>158</a></td></tr>
-<tr><td>[musical theatre actor](#role-332)</td><td><a href='#role-332'>332</a></td></tr>
-<tr><td>[musician](#role-160)</td><td><a href='#role-160'>160</a></td></tr>
-<tr><td>[musician](#role-160) > [bandleader](#role-333)</td><td><a href='#role-333'>333</a></td></tr>
-<tr><td>[musician](#role-160) > [synthesizer player](#role-407)</td><td><a href='#role-407'>407</a></td></tr>
-<tr><td>[musician](#role-160) > [water instrument player](#role-406)</td><td><a href='#role-406'>406</a></td></tr>
-<tr><td>[musician](#role-160) > [jazz musician](#role-334)</td><td><a href='#role-334'>334</a></td></tr>
-<tr><td>[musicologist](#role-169)</td><td><a href='#role-169'>169</a></td></tr>
-<tr><td>[musicologist](#role-169) > [ethnomusicologist](#role-335)</td><td><a href='#role-335'>335</a></td></tr>
-<tr><td>[natural scientist](#role-336)</td><td><a href='#role-336'>336</a></td></tr>
-<tr><td>[natural scientist](#role-336) > [chemist](#role-337)</td><td><a href='#role-337'>337</a></td></tr>
-<tr><td>[navy officer](#role-172)</td><td><a href='#role-172'>172</a></td></tr>
-<tr><td>[neurobiologist](#role-338)</td><td><a href='#role-338'>338</a></td></tr>
-<tr><td>[officer](#role-171)</td><td><a href='#role-171'>171</a></td></tr>
-<tr><td>[opinion journalist](#role-348)</td><td><a href='#role-348'>348</a></td></tr>
-<tr><td>[orchard technician](#role-170)</td><td><a href='#role-170'>170</a></td></tr>
-<tr><td>[orientalist](#role-173)</td><td><a href='#role-173'>173</a></td></tr>
-<tr><td>[ornithologist](#role-174)</td><td><a href='#role-174'>174</a></td></tr>
-<tr><td>[owner](#role-61)</td><td><a href='#role-61'>61</a></td></tr>
-<tr><td>[participant](#role-371)</td><td><a href='#role-371'>371</a></td></tr>
-<tr><td>[pedagogue](#role-340)</td><td><a href='#role-340'>340</a></td></tr>
-<tr><td>[percussionist](#role-177)</td><td><a href='#role-177'>177</a></td></tr>
-<tr><td>[percussionist](#role-177) > [drummer](#role-180)</td><td><a href='#role-180'>180</a></td></tr>
-<tr><td>[percussionist](#role-177) > [marimba player](#role-178)</td><td><a href='#role-178'>178</a></td></tr>
-<tr><td>[percussionist](#role-177) > [timpanist](#role-179)</td><td><a href='#role-179'>179</a></td></tr>
-<tr><td>[percussionist](#role-177) > [vibraphone player](#role-181)</td><td><a href='#role-181'>181</a></td></tr>
-<tr><td>[percussionist](#role-177) > [xylophonist](#role-182)</td><td><a href='#role-182'>182</a></td></tr>
-<tr><td>[performer](#role-176)</td><td><a href='#role-176'>176</a></td></tr>
-<tr><td>[performing artist](#role-104)</td><td><a href='#role-104'>104</a></td></tr>
-<tr><td>[philologist](#role-182)</td><td><a href='#role-183'>183</a></td></tr>
-<tr><td>[philosopher](#role-184)</td><td><a href='#role-184'>184</a></td></tr>
-<tr><td>[photographer](#role-70)</td><td><a href='#role-70'>70</a></td></tr>
-<tr><td>[photographer](#role-70) > [art photographer](#role-72)</td><td><a href='#role-72'>72</a></td></tr>
-<tr><td>[photographer](#role-70) > [still photographer](#role-71)</td><td><a href='#role-71'>71</a></td></tr>
-<tr><td>[physician](#role-11)</td><td><a href='#role-11'>11</a></td></tr>
-<tr><td>[physician](#role-11) > [ophthalmologist](#role-12)</td><td><a href='#role-12'>12</a></td></tr>
-<tr><td>[physicist](#role-185)</td><td><a href='#role-185'>185</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271)</td><td><a href='#role-271'>271</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [balalaikist](#role-272)</td><td><a href='#role-272'>272</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [banjoist](#role-273)</td><td><a href='#role-273'>273</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [bassist (instrument)](#role-274)</td><td><a href='#role-274'>274</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [guitarist](#role-275)</td><td><a href='#role-275'>275</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [guitarist](#role-275) > [lead guitarist](#role-276)</td><td><a href='#role-276'>276</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [guitarist](#role-275) > [rhythm guitarist](#role-277)</td><td><a href='#role-277'>277</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [harpist](#role-278)</td><td><a href='#role-278'>278</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [lutenist](#role-279)</td><td><a href='#role-279'>279</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [mandolinist](#role-280)</td><td><a href='#role-280'>280</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [ukulelist](#role-281)</td><td><a href='#role-281'>281</a></td></tr>
-<tr><td>[plucked string instrument player](#role-271) > [Zitherspieler:in](#role-282)</td><td><a href='#role-282'>282</a></td></tr>
-<tr><td>[poet-composer](#role-45)</td><td><a href='#role-45'>45</a></td></tr>
-<tr><td>[political scientist](#role-341)</td><td><a href='#role-341'>341</a></td></tr>
-<tr><td>[politician](#role-186)</td><td><a href='#role-186'>186</a></td></tr>
-<tr><td>[possessor](#role-26)</td><td><a href='#role-26'>26</a></td></tr>
-<tr><td>[presenter](#role-403)</td><td><a href='#role-403'>403</a></td></tr>
-<tr><td>[priest](#role-187)</td><td><a href='#role-187'>187</a></td></tr>
-<tr><td>[priest](#role-187) > [minister](#role-188)</td><td><a href='#role-188'>188</a></td></tr>
-<tr><td>[priest](#role-187) > [preacher](#role-189)</td><td><a href='#role-189'>189</a></td></tr>
-<tr><td>[producer](#role-192)</td><td><a href='#role-192'>192</a></td></tr>
-<tr><td>[production company](#role-191)</td><td><a href='#role-191'>191</a></td></tr>
-<tr><td>[programmer](#role-344)</td><td><a href='#role-344'>344</a></td></tr>
-<tr><td>[project manager](#role-382)</td><td><a href='#role-382'>382</a></td></tr>
-<tr><td>[prompter](#role-352)</td><td><a href='#role-352'>352</a></td></tr>
-<tr><td>[property master](#role-198)</td><td><a href='#role-198'>198</a></td></tr>
-<tr><td>[psychologist](#role-345)</td><td><a href='#role-345'>345</a></td></tr>
-<tr><td>[psychotherapist](#role-346)</td><td><a href='#role-346'>346</a></td></tr>
-<tr><td>[psychotherapist](#role-346) > [music therapist](#role-347)</td><td><a href='#role-347'>347</a></td></tr>
-<tr><td>[public relations](#role-400)</td><td><a href='#role-400'>400</a></td></tr>
-<tr><td>[publisher](#role-258)</td><td><a href='#role-258'>258</a></td></tr>
-<tr><td>[publisher](#role-258) > [music publisher](#role-259)</td><td><a href='#role-259'>259</a></td></tr>
-<tr><td>[publisher](#role-309)</td><td><a href='#role-309'>309</a></td></tr>
-<tr><td>[radio personality](#role-397)</td><td><a href='#role-397'>397</a></td></tr>
-<tr><td>[re-recording mixer](#role-137)</td><td><a href='#role-137'>137</a></td></tr>
-<tr><td>[record company](#role-287)</td><td><a href='#role-287'>287</a></td></tr>
-<tr><td>[recording expert](#role-14)</td><td><a href='#role-14'>14</a></td></tr>
-<tr><td>[recording supervisor](#role-15)</td><td><a href='#role-15'>15</a></td></tr>
-<tr><td>[recording supervisor](#role-15) > [tonmeister](#role-16)</td><td><a href='#role-16'>16</a></td></tr>
-<tr><td>[research fellow](#role-381)</td><td><a href='#role-381'>381</a></td></tr>
-<tr><td>[répétiteur](#role-315)</td><td><a href='#role-315'>315</a></td></tr>
-<tr><td>[scenographer](#role-38)</td><td><a href='#role-38'>38</a></td></tr>
-<tr><td>[screen writer](#role-56)</td><td><a href='#role-56'>56</a></td></tr>
-<tr><td>[script supervisor](#role-216)</td><td><a href='#role-216'>216</a></td></tr>
-<tr><td>[sculptor](#role-294)</td><td><a href='#role-294'>294</a></td></tr>
-<tr><td>[secretary](#role-217)</td><td><a href='#role-217'>217</a></td></tr>
-<tr><td>[set designer/production designer](#role-235)</td><td><a href='#role-235'>235</a></td></tr>
-<tr><td>[set designer](#role-218)</td><td><a href='#role-218'>218</a></td></tr>
-<tr><td>[singer](#role-199)</td><td><a href='#role-199'>199</a></td></tr>
-<tr><td>[singer](#role-199) > [alto](#role-200)</td><td><a href='#role-200'>200</a></td></tr>
-<tr><td>[singer](#role-199) > [baritone](#role-201)</td><td><a href='#role-201'>201</a></td></tr>
-<tr><td>[singer](#role-199) > [bass-baritone](#role-202)</td><td><a href='#role-202'>202</a></td></tr>
-<tr><td>[singer](#role-199) > [bassist (singer)](#role-203)</td><td><a href='#role-203'>203</a></td></tr>
-<tr><td>[singer](#role-199) > [boy alto](#role-208)</td><td><a href='#role-208'>208</a></td></tr>
-<tr><td>[singer](#role-199) > [boy soprano](#role-209)</td><td><a href='#role-209'>209</a></td></tr>
-<tr><td>[singer](#role-199) > [castrato](#role-206)</td><td><a href='#role-206'>206</a></td></tr>
-<tr><td>[singer](#role-199) > [chorister](#role-204)</td><td><a href='#role-204'>204</a></td></tr>
-<tr><td>[singer](#role-199) > [countertenor](#role-205)</td><td><a href='#role-205'>205</a></td></tr>
-<tr><td>[singer](#role-199) > [hazzan](#role-207)</td><td><a href='#role-207'>207</a></td></tr>
-<tr><td>[singer](#role-199) > [mezzo-soprano](#role-210)</td><td><a href='#role-210'>210</a></td></tr>
-<tr><td>[singer](#role-199) > [soprano](#role-211)</td><td><a href='#role-211'>211</a></td></tr>
-<tr><td>[singer](#role-199) > [tenor](#role-212)</td><td><a href='#role-212'>212</a></td></tr>
-<tr><td>[sociologist](#role-353)</td><td><a href='#role-353'>353</a></td></tr>
-<tr><td>[sociologist](#role-353) > [cultural sociologist](#role-354)</td><td><a href='#role-354'>354</a></td></tr>
-<tr><td>[software developer](#role-288)</td><td><a href='#role-288'>288</a></td></tr>
-<tr><td>[soldier](#role-219)</td><td><a href='#role-219'>219</a></td></tr>
-<tr><td>[song accompaniment](#role-401)</td><td><a href='#role-401'>401</a></td></tr>
-<tr><td>[sound designer](#role-220)</td><td><a href='#role-220'>220</a></td></tr>
-<tr><td>[sound director](#role-405)</td><td><a href='#role-405'>405</a></td></tr>
-<tr><td>[spatial planner](#role-349)</td><td><a href='#role-349'>349</a></td></tr>
-<tr><td>[speaker](#role-223)</td><td><a href='#role-223'>223</a></td></tr>
-<tr><td>[speaker](#role-223) > [announcer](#role-224)</td><td><a href='#role-224'>224</a></td></tr>
-<tr><td>[speaker](#role-223) > [reciter](#role-225)</td><td><a href='#role-225'>225</a></td></tr>
-<tr><td>[special effects](#role-221)</td><td><a href='#role-221'>221</a></td></tr>
-<tr><td>[speech and language therapist](#role-329)</td><td><a href='#role-329'>329</a></td></tr>
-<tr><td>[speech trainer](#role-358)</td><td><a href='#role-358'>358</a></td></tr>
-<tr><td>[sponsor](#role-222)</td><td><a href='#role-222'>222</a></td></tr>
-<tr><td>[string player](#role-226)</td><td><a href='#role-226'>226</a></td></tr>
-<tr><td>[string player](#role-226) > [cellist](#role-228)</td><td><a href='#role-228'>228</a></td></tr>
-<tr><td>[string player](#role-226) > [double bassist](#role-230)</td><td><a href='#role-230'>230</a></td></tr>
-<tr><td>[string player](#role-226) > [viol player](#role-229)</td><td><a href='#role-229'>229</a></td></tr>
-<tr><td>[string player](#role-226) > [violinist](#role-231)</td><td><a href='#role-231'>231</a></td></tr>
-<tr><td>[string player](#role-226) > [violist](#role-227)</td><td><a href='#role-227'>227</a></td></tr>
-<tr><td>[student](#role-232)</td><td><a href='#role-232'>232</a></td></tr>
-<tr><td>[supervising producer](#role-190)</td><td><a href='#role-190'>190</a></td></tr>
-<tr><td>[supervising producer](#role-190) > [assistant producer](#role-343)</td><td><a href='#role-343'>343</a></td></tr>
-<tr><td>[tattoo artist](#role-391)</td><td><a href='#role-391'>391</a></td></tr>
-<tr><td>[tax consultant](#role-359)</td><td><a href='#role-359'>359</a></td></tr>
-<tr><td>[teacher](#role-125)</td><td><a href='#role-125'>125</a></td></tr>
-<tr><td>[teacher](#role-125) > [physical education teacher](#role-327)</td><td><a href='#role-327'>327</a></td></tr>
-<tr><td>[teacher](#role-125) > [physical education teacher](#role-327) > [dance teacher](#role-328)</td><td><a href='#role-328'>328</a></td></tr>
-<tr><td>[teacher](#role-125) > [university teacher](#role-326)</td><td><a href='#role-326'>326</a></td></tr>
-<tr><td>[teacher](#role-125) > [voice teacher](#role-126)</td><td><a href='#role-126'>126</a></td></tr>
-<tr><td>[teacher](#role-125) > [voice teacher](#role-126) > [english teacher](#role-127)</td><td><a href='#role-127'>127</a></td></tr>
-<tr><td>[technical realisation](#role-379)</td><td><a href='#role-379'>379</a></td></tr>
-<tr><td>[technician](#role-244)</td><td><a href='#role-244'>244</a></td></tr>
-<tr><td>[technician](#role-244) > [audio technician](#role-361)</td><td><a href='#role-361'>361</a></td></tr>
-<tr><td>[technician](#role-244) > [electronic technician](#role-245)</td><td><a href='#role-245'>245</a></td></tr>
-<tr><td>[technician](#role-244) > [electrotechnician](#role-246)</td><td><a href='#role-246'>246</a></td></tr>
-<tr><td>[technician](#role-244) > [event technician](#role-362)</td><td><a href='#role-362'>362</a></td></tr>
-<tr><td>[technician](#role-244) > [technical director](#role-360)</td><td><a href='#role-360'>360</a></td></tr>
-<tr><td>[television presenter](#role-66)</td><td><a href='#role-66'>66</a></td></tr>
-<tr><td>[theatre group](#role-248)</td><td><a href='#role-248'>248</a></td></tr>
-<tr><td>[theatre maker](#role-363)</td><td><a href='#role-363'>363</a></td></tr>
-<tr><td>[theatre maker](#role-363) > [stage manager](#role-364)</td><td><a href='#role-364'>364</a></td></tr>
-<tr><td>[theatre manager](#role-249)</td><td><a href='#role-249'>249</a></td></tr>
-<tr><td>[theatrical director](#role-39)</td><td><a href='#role-39'>39</a></td></tr>
-<tr><td>[theatrical producer](#role-250)</td><td><a href='#role-250'>250</a></td></tr>
-<tr><td>[theatrical technician](#role-40)</td><td><a href='#role-40'>40</a></td></tr>
-<tr><td>[theatrologist](#role-365)</td><td><a href='#role-365'>365</a></td></tr>
-<tr><td>[theologian](#role-366)</td><td><a href='#role-366'>366</a></td></tr>
-<tr><td>[trader](#role-77)</td><td><a href='#role-77'>77</a></td></tr>
-<tr><td>[trader](#role-77) > [bicycle dealer](#role-79)</td><td><a href='#role-79'>79</a></td></tr>
-<tr><td>[trader](#role-77) > [car dealer](#role-78)</td><td><a href='#role-78'>78</a></td></tr>
-<tr><td>[trader](#role-77) > [music dealer](#role-80)</td><td><a href='#role-80'>80</a></td></tr>
-<tr><td>[trader](#role-77) > [stationer](#role-81)</td><td><a href='#role-81'>81</a></td></tr>
-<tr><td>[train driver](#role-131)</td><td><a href='#role-131'>131</a></td></tr>
-<tr><td>[translator](#role-254)</td><td><a href='#role-254'>254</a></td></tr>
-<tr><td>[travesti](#role-369)</td><td><a href='#role-369'>369</a></td></tr>
-<tr><td>[travesti](#role-369) > [drag queen](#role-370)</td><td><a href='#role-370'>370</a></td></tr>
-<tr><td>[typesetter](#role-350)</td><td><a href='#role-350'>350</a></td></tr>
-<tr><td>[unknown](#role-283)</td><td><a href='#role-283'>283</a></td></tr>
-<tr><td>[VFX producer](#role-398)</td><td><a href='#role-398'>398</a></td></tr>
-<tr><td>[visagiste](#role-372)</td><td><a href='#role-372'>372</a></td></tr>
-<tr><td>[vocalist](#role-262)</td><td><a href='#role-262'>262</a></td></tr>
-<tr><td>[vocalist](#role-262) > [chansonnier/chanteuse](#role-263)</td><td><a href='#role-263'>263</a></td></tr>
-<tr><td>[vocalist](#role-262) > [rapper](#role-265)</td><td><a href='#role-265'>265</a></td></tr>
-<tr><td>[vocalist](#role-262) > [yodeler](#role-264)</td><td><a href='#role-264'>264</a></td></tr>
-<tr><td>[voice teacher](#role-74)</td><td><a href='#role-74'>74</a></td></tr>
-<tr><td>[voice-over](#role-261)</td><td><a href='#role-261'>261</a></td></tr>
-<tr><td>[wardrobe master](#role-75)</td><td><a href='#role-75'>75</a></td></tr>
-<tr><td>[web video producer](#role-265) > [video blogger](#role-268)</td><td><a href='#role-268'>268</a></td></tr>
-<tr><td>[web video producer](#role-267)</td><td><a href='#role-267'>267</a></td></tr>
-<tr><td>[whistle artist](#role-122)</td><td><a href='#role-122'>122</a></td></tr>
-<tr><td>[woodwind player](#role-84)</td><td><a href='#role-84'>84</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [bagpiper](#role-86)</td><td><a href='#role-86'>86</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [bassoonist](#role-87)</td><td><a href='#role-87'>87</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [clarinetist](#role-90)</td><td><a href='#role-90'>90</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [flutist](#role-88)</td><td><a href='#role-88'>88</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [flutist](#role-88) > [piccolo player](#role-89)</td><td><a href='#role-89'>89</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [oboist](#role-91)</td><td><a href='#role-91'>91</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [recorder player](#role-85)</td><td><a href='#role-85'>85</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92)</td><td><a href='#role-92'>92</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92) > [alto saxophonist](#role-93)</td><td><a href='#role-93'>93</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92) > [baritone saxophonist](#role-94)</td><td><a href='#role-94'>94</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92) > [bass saxophonist](#role-95)</td><td><a href='#role-95'>95</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92) > [mezzo-soprano saxophonist](#role-96)</td><td><a href='#role-96'>96</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92) > [soprano saxophonist](#role-97)</td><td><a href='#role-97'>97</a></td></tr>
-<tr><td>[woodwind player](#role-84) > [saxophonist](#role-92) > [tenor saxophonist](#role-98)</td><td><a href='#role-98'>98</a></td></tr>
-<tr><td>[workshop manager](#role-374)</td><td><a href='#role-374'>374</a></td></tr>
-<tr><td>[writer](#role-257)</td><td><a href='#role-257'>257</a></td></tr>
-<tr><td>[yoga instructor](#role-376)</td><td><a href='#role-376'>376</a></td></tr>
-<tr><td>[zoologist](#role-377)</td><td><a href='#role-377'>377</a></td></tr>
+<tr><td><a href="#role-1">1st assistant camera</a></td><td><a href='#role-1'>1</a></td></tr>
+<tr><td><a href="#role-2">2nd assistant camera</a></td><td><a href='#role-2'>2</a></td></tr>
+<tr><td><a href="#role-27">academic supervisor</a></td><td><a href='#role-27'>27</a></td></tr>
+<tr><td><a href="#role-140">accompanist</a></td><td><a href='#role-140'>140</a></td></tr>
+<tr><td><a href="#role-213">actor/actress</a></td><td><a href='#role-213'>213</a></td></tr>
+<tr><td><a href="#role-4">agent</a></td><td><a href='#role-4'>4</a></td></tr>
+<tr><td><a href="#role-5">amateur</a></td><td><a href='#role-5'>5</a></td></tr>
+<tr><td><a href="#role-6">animation</a></td><td><a href='#role-6'>6</a></td></tr>
+<tr><td><a href="#role-7">anthropologist</a></td><td><a href='#role-7'>7</a></td></tr>
+<tr><td><a href="#role-8">archaeologist</a></td><td><a href='#role-8'>8</a></td></tr>
+<tr><td><a href="#role-378">architect</a></td><td><a href='#role-378'>378</a></td></tr>
+<tr><td><a href="#role-9">archivist</a></td><td><a href='#role-9'>9</a></td></tr>
+<tr><td><a href="#role-318">art historian</a></td><td><a href='#role-318'>318</a></td></tr>
+<tr><td><a href="#role-235">art scholar</a></td><td><a href='#role-325'>325</a></td></tr>
+<tr><td><a href="#role-305">artisan</a></td><td><a href='#role-305'>305</a></td></tr>
+<tr><td><a href="#role-305">artisan</a> > <a href="#role-306">bookbinder</a></td><td><a href='#role-306'>306</a></td></tr>
+<tr><td><a href="#role-305">artisan</a> > <a href="#role-307">printer</a></td><td><a href='#role-307'>307</a></td></tr>
+<tr><td><a href="#role-305">artisan</a> > <a href="#role-308">tailor</a></td><td><a href='#role-308'>308</a></td></tr>
+<tr><td><a href="#role-119">artist</a></td><td><a href='#role-119'>119</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-120">caricaturist</a></td><td><a href='#role-120'>120</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-385">graphic artist</a></td><td><a href='#role-385'>385</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-385">graphic artist</a> > <a href="#role-389">draftsperson</a></td><td><a href='#role-389'>389</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-385">graphic artist</a> > <a href="#role-389">draftsperson</a> > <a href="#role-390">comics artist</a></td><td><a href='#role-390'>390</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-121">painter</a></td><td><a href='#role-121'>121</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-121">painter</a> > <a href="#role-321">illustrator</a></td><td><a href='#role-321'>321</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-322">performance artist</a></td><td><a href='#role-322'>322</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-320">sound artist</a></td><td><a href='#role-320'>320</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-399">VFX-artist</a></td><td><a href='#role-399'>399</a></td></tr>
+<tr><td><a href="#role-119">artist</a> > <a href="#role-323">video artist</a></td><td><a href='#role-323'>323</a></td></tr>
+<tr><td><a href="#role-234">artistic director</a></td><td><a href='#role-324'>324</a></td></tr>
+<tr><td><a href="#role-196">assistant director</a></td><td><a href='#role-196'>196</a></td></tr>
+<tr><td><a href="#role-13">assistant</a></td><td><a href='#role-13'>13</a></td></tr>
+<tr><td><a href="#role-355">athlete</a></td><td><a href='#role-355'>355</a></td></tr>
+<tr><td><a href="#role-355">athlete</a> > <a href="#role-357">martial artist</a></td><td><a href='#role-357'>357</a></td></tr>
+<tr><td><a href="#role-355">athlete</a> > <a href="#role-356">mountaineer</a></td><td><a href='#role-356'>356</a></td></tr>
+<tr><td><a href="#role-251">audio engineer</a></td><td><a href='#role-251'>251</a></td></tr>
+<tr><td><a href="#role-251">audio engineer</a> > <a href="#role-252">mastering engineer</a></td><td><a href='#role-252'>252</a></td></tr>
+<tr><td><a href="#role-251">audio engineer</a> > <a href="#role-253">sound mixer</a></td><td><a href='#role-253'>253</a></td></tr>
+<tr><td><a href="#role-18">author</a> > <a href="#role-20">novelist</a></td><td><a href='#role-20'>20</a></td></tr>
+<tr><td><a href="#role-18">author</a> > <a href="#role-#19">playwright</a></td><td><a href='#role-19'>19</a></td></tr>
+<tr><td><a href="#role-18">author</a></td><td><a href='#role-18'>18</a></td></tr>
+<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a></td><td><a href='#role-289'>289</a></td></tr>
+<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a> > <a href="#role-290">crime fiction writer</a></td><td><a href='#role-290'>290</a></td></tr>
+<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a> > <a href="#role-351">musicographer</a></td><td><a href='#role-351'>351</a></td></tr>
+<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a> > <a href="#role-290">poet</a></td><td><a href='#role-291'>291</a></td></tr>
+<tr><td><a href="#role-132">aviation pioneer</a></td><td><a href='#role-132'>132</a></td></tr>
+<tr><td><a href="#role-73">bailiff</a></td><td><a href='#role-73'>73</a></td></tr>
+<tr><td><a href="#role-21">ballet master</a></td><td><a href='#role-21'>21</a></td></tr>
+<tr><td><a href="#role-22">bank officer</a></td><td><a href='#role-22'>22</a></td></tr>
+<tr><td><a href="#role-23">bar manager</a></td><td><a href='#role-23'>23</a></td></tr>
+<tr><td><a href="#role-296">biological technician</a></td><td><a href='#role-296'>296</a></td></tr>
+<tr><td><a href="#role-295">biologist</a></td><td><a href='#role-295'>295</a></td></tr>
+<tr><td><a href="#role-37">bookkeeper</a></td><td><a href='#role-37'>37</a></td></tr>
+<tr><td><a href="#role-384">bookseller</a></td><td><a href='#role-384'>384</a></td></tr>
+<tr><td><a href="#role-368">boom operator</a></td><td><a href='#role-368'>368</a></td></tr>
+<tr><td><a href="#role-297">botanist</a></td><td><a href='#role-297'>297</a></td></tr>
+<tr><td><a href="#role-285">boxer</a></td><td><a href='#role-285'>285</a></td></tr>
+<tr><td><a href="#role-30">brass player</a></td><td><a href='#role-30'>30</a></td></tr>
+<tr><td><a href="#role-30">brass player</a> > <a href="#role-32">cornetist</a></td><td><a href='#role-32'>32</a></td></tr>
+<tr><td><a href="#role-30">brass player</a> > <a href="#role-36">cornettist</a></td><td><a href='#role-36'>36</a></td></tr>
+<tr><td><a href="#role-30">brass player</a> > <a href="#role-31">hornist</a></td><td><a href='#role-31'>31</a></td></tr>
+<tr><td><a href="#role-30">brass player</a> > <a href="#role-33">trombonist</a></td><td><a href='#role-33'>33</a></td></tr>
+<tr><td><a href="#role-30">brass player</a> > <a href="#role-34">trumpeter</a></td><td><a href='#role-34'>34</a></td></tr>
+<tr><td><a href="#role-30">brass player</a> > <a href="#role-35">tuba player</a></td><td><a href='#role-35'>35</a></td></tr>
+<tr><td><a href="#role-135">bricklayer</a></td><td><a href='#role-135'>135</a></td></tr>
+<tr><td><a href="#role-292">business manager</a></td><td><a href='#role-292'>292</a></td></tr>
+<tr><td><a href="#role-303">business partner</a></td><td><a href='#role-303'>303</a></td></tr>
+<tr><td><a href="#role-111">cabaret performer</a></td><td><a href='#role-111'>111</a></td></tr>
+<tr><td><a href="#role-367">carpenter</a></td><td><a href='#role-367'>367</a></td></tr>
+<tr><td><a href="#role-313">ceramicist</a></td><td><a href='#role-313'>313</a></td></tr>
+<tr><td><a href="#role-373">chairperson</a></td><td><a href='#role-373'>373</a></td></tr>
+<tr><td><a href="#role-41">choreographer</a></td><td><a href='#role-41'>41</a></td></tr>
+<tr><td><a href="#role-404">church musician</a></td><td><a href='#role-404'>404</a></td></tr>
+<tr><td><a href="#role-112">cinematographer</a></td><td><a href='#role-112'>112</a></td></tr>
+<tr><td><a href="#role-29">cinematographer</a></td><td><a href='#role-29'>29</a></td></tr>
+<tr><td><a href="#role-270">circus director</a></td><td><a href='#role-270'>270</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a></td><td><a href='#role-237'>237</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a> > <a href="#role-239">harmonium player</a></td><td><a href='#role-239'>239</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a> > <a href="#role-238">harpsichordist</a></td><td><a href='#role-238'>238</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a> > <a href="#role-240">keyboarder</a></td><td><a href='#role-240'>240</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a> > <a href="#role-241">organist</a></td><td><a href='#role-241'>241</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a> > <a href="#role-242">pianist</a></td><td><a href='#role-242'>242</a></td></tr>
+<tr><td><a href="#role-237">clavierist</a> > <a href="#role-243">pianolist</a></td><td><a href='#role-243'>243</a></td></tr>
+<tr><td><a href="#role-42">co-author</a></td><td><a href='#role-42'>42</a></td></tr>
+<tr><td><a href="#role-116">co-producer</a></td><td><a href='#role-116'>116</a></td></tr>
+<tr><td><a href="#role-393">cognitive scientist</a></td><td><a href='#role-393'>393</a></td></tr>
+<tr><td><a href="#role-43">colour grading</a></td><td><a href='#role-43'>43</a></td></tr>
+<tr><td><a href="#role-284">comedian</a></td><td><a href='#role-284'>284</a></td></tr>
+<tr><td><a href="#role-17">commissioner</a></td><td><a href='#role-17'>17</a></td></tr>
+<tr><td><a href="#role-115">composer</a></td><td><a href='#role-115'>115</a></td></tr>
+<tr><td><a href="#role-311">computer scientist</a></td><td><a href='#role-311'>311</a></td></tr>
+<tr><td><a href="#role-314">concertmaster</a></td><td><a href='#role-314'>314</a></td></tr>
+<tr><td><a href="#role-48">conductor</a></td><td><a href='#role-48'>48</a></td></tr>
+<tr><td><a href="#role-48">conductor</a> > <a href="#role-53">band leader</a></td><td><a href='#role-53'>53</a></td></tr>
+<tr><td><a href="#role-48">conductor</a> > <a href="#role-52">cantor</a></td><td><a href='#role-52'>52</a></td></tr>
+<tr><td><a href="#role-48">conductor</a> > <a href="#role-300">chapelmaster</a></td><td><a href='#role-300'>300</a></td></tr>
+<tr><td><a href="#role-48">conductor</a> > <a href="#role-49">choir director</a></td><td><a href='#role-49'>49</a></td></tr>
+<tr><td><a href="#role-48">conductor</a> > <a href="#role-50">ensemble leader</a></td><td><a href='#role-50'>50</a></td></tr>
+<tr><td><a href="#role-48">conductor</a> > <a href="#role-51">general music director</a></td><td><a href='#role-51'>51</a></td></tr>
+<tr><td><a href="#role-138">contributor</a></td><td><a href='#role-138'>138</a></td></tr>
+<tr><td><a href="#role-380">cooperation</a></td><td><a href='#role-380'>380</a></td></tr>
+<tr><td><a href="#role-117">costume designer</a></td><td><a href='#role-117'>117</a></td></tr>
+<tr><td><a href="#role-316">crane operator</a></td><td><a href='#role-316'>316</a></td></tr>
+<tr><td><a href="#role-118">cultural activist</a></td><td><a href='#role-118'>118</a></td></tr>
+<tr><td><a href="#role-317">cultural studies scholar</a></td><td><a href='#role-317'>317</a></td></tr>
+<tr><td><a href="#role-123">curator</a></td><td><a href='#role-123'>123</a></td></tr>
+<tr><td><a href="#role-123">curator</a> > <a href="#role-124">exhibition curator</a></td><td><a href='#role-124'>124</a></td></tr>
+<tr><td><a href="#role-388">dance researcher</a></td><td><a href='#role-388'>388</a></td></tr>
+<tr><td><a href="#role-236">dancer</a></td><td><a href='#role-236'>236</a></td></tr>
+<tr><td><a href="#role-269">dedicatee</a></td><td><a href='#role-269'>269</a></td></tr>
+<tr><td><a href="#role-44">designer</a></td><td><a href='#role-44'>44</a></td></tr>
+<tr><td><a href="#role-44">designer</a> > <a href="#role-387">fashion designer</a></td><td><a href='#role-387'>387</a></td></tr>
+<tr><td><a href="#role-44">designer</a> > <a href="#role-319">graphic designer</a></td><td><a href='#role-319'>319</a></td></tr>
+<tr><td><a href="#role-44">designer</a> > <a href="#role-299">website designer</a></td><td><a href='#role-299'>299</a></td></tr>
+<tr><td><a href="#role-234">dialog director</a></td><td><a href='#role-234'>234</a></td></tr>
+<tr><td><a href="#role-46">digitisation officer</a></td><td><a href='#role-46'>46</a></td></tr>
+<tr><td><a href="#role-47">diplomat</a></td><td><a href='#role-47'>47</a></td></tr>
+<tr><td><a href="#role-197">director</a></td><td><a href='#role-197'>197</a></td></tr>
+<tr><td><a href="#role-260">distributor</a></td><td><a href='#role-260'>260</a></td></tr>
+<tr><td><a href="#role-54">dj</a></td><td><a href='#role-54'>54</a></td></tr>
+<tr><td><a href="#role-114">double act</a></td><td><a href='#role-114'>114</a></td></tr>
+<tr><td><a href="#role-55">dramaturge</a></td><td><a href='#role-55'>55</a></td></tr>
+<tr><td><a href="#role-302">dresser</a></td><td><a href='#role-302'>302</a></td></tr>
+<tr><td><a href="#role-233">dub actor</a></td><td><a href='#role-233'>233</a></td></tr>
+<tr><td><a href="#role-339">ecologist</a></td><td><a href='#role-339'>339</a></td></tr>
+<tr><td><a href="#role-375">economist</a></td><td><a href='#role-375'>375</a></td></tr>
+<tr><td><a href="#role-195">editor</a></td><td><a href='#role-195'>195</a></td></tr>
+<tr><td><a href="#role-100">engineer</a></td><td><a href='#role-100'>100</a></td></tr>
+<tr><td><a href="#role-100">engineer</a> > <a href="#role-101">electrical engineer</a></td><td><a href='#role-101'>101</a></td></tr>
+<tr><td><a href="#role-255">entrepreneur</a></td><td><a href='#role-255'>255</a></td></tr>
+<tr><td><a href="#role-301">ergonomist</a></td><td><a href='#role-301'>301</a></td></tr>
+<tr><td><a href="#role-64">ethnologist</a></td><td><a href='#role-64'>64</a></td></tr>
+<tr><td><a href="#role-64">ethnologist</a> > <a href="#role-65">ethnographer</a></td><td><a href='#role-65'>65</a></td></tr>
+<tr><td><a href="#role-215">film editor</a></td><td><a href='#role-215'>215</a></td></tr>
+<tr><td><a href="#role-67">film funding</a></td><td><a href='#role-67'>67</a></td></tr>
+<tr><td><a href="#role-68">film producer</a></td><td><a href='#role-68'>68</a></td></tr>
+<tr><td><a href="#role-69">folk musician</a></td><td><a href='#role-69'>69</a></td></tr>
+<tr><td><a href="#role-57">free-reed player</a></td><td><a href='#role-57'>57</a></td></tr>
+<tr><td><a href="#role-57">free-reed player</a> > <a href="#role-58">accordionist</a></td><td><a href='#role-58'>58</a></td></tr>
+<tr><td><a href="#role-57">free-reed player</a> > <a href="#role-59">concertina player</a></td><td><a href='#role-59'>59</a></td></tr>
+<tr><td><a href="#role-57">free-reed player</a> > <a href="#role-60">harmonica player</a></td><td><a href='#role-60'>60</a></td></tr>
+<tr><td><a href="#role-402">freelance instructor</a></td><td><a href='#role-402'>402</a></td></tr>
+<tr><td><a href="#role-3">graduate</a></td><td><a href='#role-3'>3</a></td></tr>
+<tr><td><a href="#role-76">grip</a></td><td><a href='#role-76'>76</a></td></tr>
+<tr><td><a href="#role-76">grip</a> > <a href="#role-304">dolly grip</a></td><td><a href='#role-304'>304</a></td></tr>
+<tr><td><a href="#role-83">historian</a></td><td><a href='#role-83'>83</a></td></tr>
+<tr><td><a href="#role-113">hospital administrator</a></td><td><a href='#role-113'>113</a></td></tr>
+<tr><td><a href="#role-256">host</a></td><td><a href='#role-256'>256</a></td></tr>
+<tr><td><a href="#role-310">human geographer</a></td><td><a href='#role-310'>310</a></td></tr>
+<tr><td><a href="#role-99">impresario</a></td><td><a href='#role-99'>99</a></td></tr>
+<tr><td><a href="#role-298">independent publisher</a></td><td><a href='#role-298'>298</a></td></tr>
+<tr><td><a href="#role-161">instrument maker</a></td><td><a href='#role-161'>161</a></td></tr>
+<tr><td><a href="#role-161">instrument maker</a> > <a href="#role-162">luthier</a></td><td><a href='#role-162'>162</a></td></tr>
+<tr><td><a href="#role-161">instrument maker</a> > <a href="#role-164">organ builder</a></td><td><a href='#role-164'>164</a></td></tr>
+<tr><td><a href="#role-161">instrument maker</a> > <a href="#role-163">piano maker</a></td><td><a href='#role-163'>163</a></td></tr>
+<tr><td><a href="#role-102">instrumentalist</a></td><td><a href='#role-102'>102</a></td></tr>
+<tr><td><a href="#role-103">intendant</a></td><td><a href='#role-103'>103</a></td></tr>
+<tr><td><a href="#role-342">intern</a></td><td><a href='#role-342'>342</a></td></tr>
+<tr><td><a href="#role-62">inventor</a></td><td><a href='#role-62'>62</a></td></tr>
+<tr><td><a href="#role-105">journalist</a></td><td><a href='#role-105'>105</a></td></tr>
+<tr><td><a href="#role-105">journalist</a> > <a href="#role-106">arts journalist</a></td><td><a href='#role-106'>106</a></td></tr>
+<tr><td><a href="#role-105">journalist</a> > <a href="#role-107">critic</a></td><td><a href='#role-107'>107</a></td></tr>
+<tr><td><a href="#role-105">journalist</a> > <a href="#role-107">critic</a> > <a href="#role-108">literary critic</a></td><td><a href='#role-108'>108</a></td></tr>
+<tr><td><a href="#role-105">journalist</a> > <a href="#role-107">critic</a> > <a href="#role-109">music critic</a></td><td><a href='#role-109'>109</a></td></tr>
+<tr><td><a href="#role-105">journalist</a> > <a href="#role-110">music journalist</a></td><td><a href='#role-110'>110</a></td></tr>
+<tr><td><a href="#role-312">jurist</a></td><td><a href='#role-312'>312</a></td></tr>
+<tr><td><a href="#role-193">lawyer</a></td><td><a href='#role-193'>193</a></td></tr>
+<tr><td><a href="#role-193">lawyer</a> > <a href="#role-194">notary</a></td><td><a href='#role-194'>194</a></td></tr>
+<tr><td><a href="#role-266">lecturer</a></td><td><a href='#role-266'>266</a></td></tr>
+<tr><td><a href="#role-28">librarian</a></td><td><a href='#role-28'>28</a></td></tr>
+<tr><td><a href="#role-128">librettist</a></td><td><a href='#role-128'>128</a></td></tr>
+<tr><td><a href="#role-24">lighting technician</a></td><td><a href='#role-24'>24</a></td></tr>
+<tr><td><a href="#role-129">linguist</a></td><td><a href='#role-129'>129</a></td></tr>
+<tr><td><a href="#role-129">linguist</a> > <a href="#role-130">romanist</a></td><td><a href='#role-130'>130</a></td></tr>
+<tr><td><a href="#role-392">location manager</a></td><td><a href='#role-392'>392</a></td></tr>
+<tr><td><a href="#role-214">locksmith</a></td><td><a href='#role-214'>214</a></td></tr>
+<tr><td><a href="#role-247">lyricist</a></td><td><a href='#role-247'>247</a></td></tr>
+<tr><td><a href="#role-134">make-up artist </a></td><td><a href='#role-134'>134</a></td></tr>
+<tr><td><a href="#role-133">manager</a></td><td><a href='#role-133'>133</a></td></tr>
+<tr><td><a href="#role-133">manager</a> > <a href="#role-329">event manager</a></td><td><a href='#role-330'>330</a></td></tr>
+<tr><td><a href="#role-82">manufacturer</a></td><td><a href='#role-82'>82</a></td></tr>
+<tr><td><a href="#role-383">mastering studio</a></td><td><a href='#role-383'>383</a></td></tr>
+<tr><td><a href="#role-394">mathematician</a></td><td><a href='#role-394'>394</a></td></tr>
+<tr><td><a href="#role-136">media executive</a></td><td><a href='#role-136'>136</a></td></tr>
+<tr><td><a href="#role-331">media scholar</a></td><td><a href='#role-331'>331</a></td></tr>
+<tr><td><a href="#role-63">mentioned actor</a></td><td><a href='#role-63'>63</a></td></tr>
+<tr><td><a href="#role-175">mime</a></td><td><a href='#role-175'>175</a></td></tr>
+<tr><td><a href="#role-25">mining engineer</a></td><td><a href='#role-25'>25</a></td></tr>
+<tr><td><a href="#role-386">model</a></td><td><a href='#role-386'>386</a></td></tr>
+<tr><td><a href="#role-139">montage</a></td><td><a href='#role-139'>139</a></td></tr>
+<tr><td><a href="#role-293">movement educator</a></td><td><a href='#role-293'>293</a></td></tr>
+<tr><td><a href="#role-10">music arranger</a></td><td><a href='#role-10'>10</a></td></tr>
+<tr><td><a href="#role-166">music producer</a></td><td><a href='#role-166'>166</a></td></tr>
+<tr><td><a href="#role-166">music producer</a> > <a href="#role-167">musical supervisor</a></td><td><a href='#role-167'>167</a></td></tr>
+<tr><td><a href="#role-166">music producer</a> > <a href="#role-168">session supervisor</a></td><td><a href='#role-168'>168</a></td></tr>
+<tr><td><a href="#role-165">music teacher</a></td><td><a href='#role-165'>165</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a></td><td><a href='#role-141'>141</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-142">band</a></td><td><a href='#role-142'>142</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-152">chamber music ensemble</a></td><td><a href='#role-152'>152</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-152">chamber music ensemble</a> > <a href="#role-153">string quartet</a></td><td><a href='#role-153'>153</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a></td><td><a href='#role-143'>143</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-147">boys' choir</a></td><td><a href='#role-147'>147</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-146">children's choir</a></td><td><a href='#role-146'>146</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-148">male choir</a></td><td><a href='#role-148'>148</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-144">scholae</a></td><td><a href='#role-144'>144</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-145">women's choir</a></td><td><a href='#role-145'>145</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-149">combo</a></td><td><a href='#role-149'>149</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-150">electronic band</a></td><td><a href='#role-150'>150</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-159">folk music group</a></td><td><a href='#role-159'>159</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-151">instrumental group</a></td><td><a href='#role-151'>151</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a></td><td><a href='#role-154'>154</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-286">dance orchestra</a></td><td><a href='#role-286'>286</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-156">military band</a></td><td><a href='#role-156'>156</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-157">string orchestra</a></td><td><a href='#role-157'>157</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-155">wind orchestra</a></td><td><a href='#role-155'>155</a></td></tr>
+<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-158">vocal group</a></td><td><a href='#role-158'>158</a></td></tr>
+<tr><td><a href="#role-332">musical theatre actor</a></td><td><a href='#role-332'>332</a></td></tr>
+<tr><td><a href="#role-160">musician</a></td><td><a href='#role-160'>160</a></td></tr>
+<tr><td><a href="#role-160">musician</a> > <a href="#role-333">bandleader</a></td><td><a href='#role-333'>333</a></td></tr>
+<tr><td><a href="#role-160">musician</a> > <a href="#role-407">synthesizer player</a></td><td><a href='#role-407'>407</a></td></tr>
+<tr><td><a href="#role-160">musician</a> > <a href="#role-406">water instrument player</a></td><td><a href='#role-406'>406</a></td></tr>
+<tr><td><a href="#role-160">musician</a> > <a href="#role-334">jazz musician</a></td><td><a href='#role-334'>334</a></td></tr>
+<tr><td><a href="#role-169">musicologist</a></td><td><a href='#role-169'>169</a></td></tr>
+<tr><td><a href="#role-169">musicologist</a> > <a href="#role-335">ethnomusicologist</a></td><td><a href='#role-335'>335</a></td></tr>
+<tr><td><a href="#role-336">natural scientist</a></td><td><a href='#role-336'>336</a></td></tr>
+<tr><td><a href="#role-336">natural scientist</a> > <a href="#role-337">chemist</a></td><td><a href='#role-337'>337</a></td></tr>
+<tr><td><a href="#role-172">navy officer</a></td><td><a href='#role-172'>172</a></td></tr>
+<tr><td><a href="#role-338">neurobiologist</a></td><td><a href='#role-338'>338</a></td></tr>
+<tr><td><a href="#role-171">officer</a></td><td><a href='#role-171'>171</a></td></tr>
+<tr><td><a href="#role-348">opinion journalist</a></td><td><a href='#role-348'>348</a></td></tr>
+<tr><td><a href="#role-170">orchard technician</a></td><td><a href='#role-170'>170</a></td></tr>
+<tr><td><a href="#role-173">orientalist</a></td><td><a href='#role-173'>173</a></td></tr>
+<tr><td><a href="#role-174">ornithologist</a></td><td><a href='#role-174'>174</a></td></tr>
+<tr><td><a href="#role-61">owner</a></td><td><a href='#role-61'>61</a></td></tr>
+<tr><td><a href="#role-371">participant</a></td><td><a href='#role-371'>371</a></td></tr>
+<tr><td><a href="#role-340">pedagogue</a></td><td><a href='#role-340'>340</a></td></tr>
+<tr><td><a href="#role-177">percussionist</a></td><td><a href='#role-177'>177</a></td></tr>
+<tr><td><a href="#role-177">percussionist</a> > <a href="#role-180">drummer</a></td><td><a href='#role-180'>180</a></td></tr>
+<tr><td><a href="#role-177">percussionist</a> > <a href="#role-178">marimba player</a></td><td><a href='#role-178'>178</a></td></tr>
+<tr><td><a href="#role-177">percussionist</a> > <a href="#role-179">timpanist</a></td><td><a href='#role-179'>179</a></td></tr>
+<tr><td><a href="#role-177">percussionist</a> > <a href="#role-181">vibraphone player</a></td><td><a href='#role-181'>181</a></td></tr>
+<tr><td><a href="#role-177">percussionist</a> > <a href="#role-182">xylophonist</a></td><td><a href='#role-182'>182</a></td></tr>
+<tr><td><a href="#role-176">performer</a></td><td><a href='#role-176'>176</a></td></tr>
+<tr><td><a href="#role-104">performing artist</a></td><td><a href='#role-104'>104</a></td></tr>
+<tr><td><a href="#role-182">philologist</a></td><td><a href='#role-183'>183</a></td></tr>
+<tr><td><a href="#role-184">philosopher</a></td><td><a href='#role-184'>184</a></td></tr>
+<tr><td><a href="#role-70">photographer</a></td><td><a href='#role-70'>70</a></td></tr>
+<tr><td><a href="#role-70">photographer</a> > <a href="#role-72">art photographer</a></td><td><a href='#role-72'>72</a></td></tr>
+<tr><td><a href="#role-70">photographer</a> > <a href="#role-71">still photographer</a></td><td><a href='#role-71'>71</a></td></tr>
+<tr><td><a href="#role-11">physician</a></td><td><a href='#role-11'>11</a></td></tr>
+<tr><td><a href="#role-11">physician</a> > <a href="#role-12">ophthalmologist</a></td><td><a href='#role-12'>12</a></td></tr>
+<tr><td><a href="#role-185">physicist</a></td><td><a href='#role-185'>185</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a></td><td><a href='#role-271'>271</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-272">balalaikist</a></td><td><a href='#role-272'>272</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-273">banjoist</a></td><td><a href='#role-273'>273</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-274">bassist (instrument)</a></td><td><a href='#role-274'>274</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-275">guitarist</a></td><td><a href='#role-275'>275</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-275">guitarist</a> > <a href="#role-276">lead guitarist</a></td><td><a href='#role-276'>276</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-275">guitarist</a> > <a href="#role-277">rhythm guitarist</a></td><td><a href='#role-277'>277</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-278">harpist</a></td><td><a href='#role-278'>278</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-279">lutenist</a></td><td><a href='#role-279'>279</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-280">mandolinist</a></td><td><a href='#role-280'>280</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-281">ukulelist</a></td><td><a href='#role-281'>281</a></td></tr>
+<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-282">Zitherspieler:in</a></td><td><a href='#role-282'>282</a></td></tr>
+<tr><td><a href="#role-45">poet-composer</a></td><td><a href='#role-45'>45</a></td></tr>
+<tr><td><a href="#role-341">political scientist</a></td><td><a href='#role-341'>341</a></td></tr>
+<tr><td><a href="#role-186">politician</a></td><td><a href='#role-186'>186</a></td></tr>
+<tr><td><a href="#role-26">possessor</a></td><td><a href='#role-26'>26</a></td></tr>
+<tr><td><a href="#role-403">presenter</a></td><td><a href='#role-403'>403</a></td></tr>
+<tr><td><a href="#role-187">priest</a></td><td><a href='#role-187'>187</a></td></tr>
+<tr><td><a href="#role-187">priest</a> > <a href="#role-188">minister</a></td><td><a href='#role-188'>188</a></td></tr>
+<tr><td><a href="#role-187">priest</a> > <a href="#role-189">preacher</a></td><td><a href='#role-189'>189</a></td></tr>
+<tr><td><a href="#role-192">producer</a></td><td><a href='#role-192'>192</a></td></tr>
+<tr><td><a href="#role-191">production company</a></td><td><a href='#role-191'>191</a></td></tr>
+<tr><td><a href="#role-344">programmer</a></td><td><a href='#role-344'>344</a></td></tr>
+<tr><td><a href="#role-382">project manager</a></td><td><a href='#role-382'>382</a></td></tr>
+<tr><td><a href="#role-352">prompter</a></td><td><a href='#role-352'>352</a></td></tr>
+<tr><td><a href="#role-198">property master</a></td><td><a href='#role-198'>198</a></td></tr>
+<tr><td><a href="#role-345">psychologist</a></td><td><a href='#role-345'>345</a></td></tr>
+<tr><td><a href="#role-346">psychotherapist</a></td><td><a href='#role-346'>346</a></td></tr>
+<tr><td><a href="#role-346">psychotherapist</a> > <a href="#role-347">music therapist</a></td><td><a href='#role-347'>347</a></td></tr>
+<tr><td><a href="#role-400">public relations</a></td><td><a href='#role-400'>400</a></td></tr>
+<tr><td><a href="#role-258">publisher</a></td><td><a href='#role-258'>258</a></td></tr>
+<tr><td><a href="#role-258">publisher</a> > <a href="#role-259">music publisher</a></td><td><a href='#role-259'>259</a></td></tr>
+<tr><td><a href="#role-309">publisher</a></td><td><a href='#role-309'>309</a></td></tr>
+<tr><td><a href="#role-397">radio personality</a></td><td><a href='#role-397'>397</a></td></tr>
+<tr><td><a href="#role-137">re-recording mixer</a></td><td><a href='#role-137'>137</a></td></tr>
+<tr><td><a href="#role-287">record company</a></td><td><a href='#role-287'>287</a></td></tr>
+<tr><td><a href="#role-14">recording expert</a></td><td><a href='#role-14'>14</a></td></tr>
+<tr><td><a href="#role-15">recording supervisor</a></td><td><a href='#role-15'>15</a></td></tr>
+<tr><td><a href="#role-15">recording supervisor</a> > <a href="#role-16">tonmeister</a></td><td><a href='#role-16'>16</a></td></tr>
+<tr><td><a href="#role-381">research fellow</a></td><td><a href='#role-381'>381</a></td></tr>
+<tr><td><a href="#role-315">répétiteur</a></td><td><a href='#role-315'>315</a></td></tr>
+<tr><td><a href="#role-38">scenographer</a></td><td><a href='#role-38'>38</a></td></tr>
+<tr><td><a href="#role-56">screen writer</a></td><td><a href='#role-56'>56</a></td></tr>
+<tr><td><a href="#role-216">script supervisor</a></td><td><a href='#role-216'>216</a></td></tr>
+<tr><td><a href="#role-294">sculptor</a></td><td><a href='#role-294'>294</a></td></tr>
+<tr><td><a href="#role-217">secretary</a></td><td><a href='#role-217'>217</a></td></tr>
+<tr><td><a href="#role-235">set designer/production designer</a></td><td><a href='#role-235'>235</a></td></tr>
+<tr><td><a href="#role-218">set designer</a></td><td><a href='#role-218'>218</a></td></tr>
+<tr><td><a href="#role-199">singer</a></td><td><a href='#role-199'>199</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-200">alto</a></td><td><a href='#role-200'>200</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-201">baritone</a></td><td><a href='#role-201'>201</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-202">bass-baritone</a></td><td><a href='#role-202'>202</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-203">bassist (singer)</a></td><td><a href='#role-203'>203</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-208">boy alto</a></td><td><a href='#role-208'>208</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-209">boy soprano</a></td><td><a href='#role-209'>209</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-206">castrato</a></td><td><a href='#role-206'>206</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-204">chorister</a></td><td><a href='#role-204'>204</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-205">countertenor</a></td><td><a href='#role-205'>205</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-207">hazzan</a></td><td><a href='#role-207'>207</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-210">mezzo-soprano</a></td><td><a href='#role-210'>210</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-211">soprano</a></td><td><a href='#role-211'>211</a></td></tr>
+<tr><td><a href="#role-199">singer</a> > <a href="#role-212">tenor</a></td><td><a href='#role-212'>212</a></td></tr>
+<tr><td><a href="#role-353">sociologist</a></td><td><a href='#role-353'>353</a></td></tr>
+<tr><td><a href="#role-353">sociologist</a> > <a href="#role-354">cultural sociologist</a></td><td><a href='#role-354'>354</a></td></tr>
+<tr><td><a href="#role-288">software developer</a></td><td><a href='#role-288'>288</a></td></tr>
+<tr><td><a href="#role-219">soldier</a></td><td><a href='#role-219'>219</a></td></tr>
+<tr><td><a href="#role-401">song accompaniment</a></td><td><a href='#role-401'>401</a></td></tr>
+<tr><td><a href="#role-220">sound designer</a></td><td><a href='#role-220'>220</a></td></tr>
+<tr><td><a href="#role-405">sound director</a></td><td><a href='#role-405'>405</a></td></tr>
+<tr><td><a href="#role-349">spatial planner</a></td><td><a href='#role-349'>349</a></td></tr>
+<tr><td><a href="#role-223">speaker</a></td><td><a href='#role-223'>223</a></td></tr>
+<tr><td><a href="#role-223">speaker</a> > <a href="#role-224">announcer</a></td><td><a href='#role-224'>224</a></td></tr>
+<tr><td><a href="#role-223">speaker</a> > <a href="#role-225">reciter</a></td><td><a href='#role-225'>225</a></td></tr>
+<tr><td><a href="#role-221">special effects</a></td><td><a href='#role-221'>221</a></td></tr>
+<tr><td><a href="#role-329">speech and language therapist</a></td><td><a href='#role-329'>329</a></td></tr>
+<tr><td><a href="#role-358">speech trainer</a></td><td><a href='#role-358'>358</a></td></tr>
+<tr><td><a href="#role-222">sponsor</a></td><td><a href='#role-222'>222</a></td></tr>
+<tr><td><a href="#role-226">string player</a></td><td><a href='#role-226'>226</a></td></tr>
+<tr><td><a href="#role-226">string player</a> > <a href="#role-228">cellist</a></td><td><a href='#role-228'>228</a></td></tr>
+<tr><td><a href="#role-226">string player</a> > <a href="#role-230">double bassist</a></td><td><a href='#role-230'>230</a></td></tr>
+<tr><td><a href="#role-226">string player</a> > <a href="#role-229">viol player</a></td><td><a href='#role-229'>229</a></td></tr>
+<tr><td><a href="#role-226">string player</a> > <a href="#role-231">violinist</a></td><td><a href='#role-231'>231</a></td></tr>
+<tr><td><a href="#role-226">string player</a> > <a href="#role-227">violist</a></td><td><a href='#role-227'>227</a></td></tr>
+<tr><td><a href="#role-232">student</a></td><td><a href='#role-232'>232</a></td></tr>
+<tr><td><a href="#role-190">supervising producer</a></td><td><a href='#role-190'>190</a></td></tr>
+<tr><td><a href="#role-190">supervising producer</a> > <a href="#role-343">assistant producer</a></td><td><a href='#role-343'>343</a></td></tr>
+<tr><td><a href="#role-391">tattoo artist</a></td><td><a href='#role-391'>391</a></td></tr>
+<tr><td><a href="#role-359">tax consultant</a></td><td><a href='#role-359'>359</a></td></tr>
+<tr><td><a href="#role-125">teacher</a></td><td><a href='#role-125'>125</a></td></tr>
+<tr><td><a href="#role-125">teacher</a> > <a href="#role-327">physical education teacher</a></td><td><a href='#role-327'>327</a></td></tr>
+<tr><td><a href="#role-125">teacher</a> > <a href="#role-327">physical education teacher</a> > <a href="#role-328">dance teacher</a></td><td><a href='#role-328'>328</a></td></tr>
+<tr><td><a href="#role-125">teacher</a> > <a href="#role-326">university teacher</a></td><td><a href='#role-326'>326</a></td></tr>
+<tr><td><a href="#role-125">teacher</a> > <a href="#role-126">voice teacher</a></td><td><a href='#role-126'>126</a></td></tr>
+<tr><td><a href="#role-125">teacher</a> > <a href="#role-126">voice teacher</a> > <a href="#role-127">english teacher</a></td><td><a href='#role-127'>127</a></td></tr>
+<tr><td><a href="#role-379">technical realisation</a></td><td><a href='#role-379'>379</a></td></tr>
+<tr><td><a href="#role-244">technician</a></td><td><a href='#role-244'>244</a></td></tr>
+<tr><td><a href="#role-244">technician</a> > <a href="#role-361">audio technician</a></td><td><a href='#role-361'>361</a></td></tr>
+<tr><td><a href="#role-244">technician</a> > <a href="#role-245">electronic technician</a></td><td><a href='#role-245'>245</a></td></tr>
+<tr><td><a href="#role-244">technician</a> > <a href="#role-246">electrotechnician</a></td><td><a href='#role-246'>246</a></td></tr>
+<tr><td><a href="#role-244">technician</a> > <a href="#role-362">event technician</a></td><td><a href='#role-362'>362</a></td></tr>
+<tr><td><a href="#role-244">technician</a> > <a href="#role-360">technical director</a></td><td><a href='#role-360'>360</a></td></tr>
+<tr><td><a href="#role-66">television presenter</a></td><td><a href='#role-66'>66</a></td></tr>
+<tr><td><a href="#role-248">theatre group</a></td><td><a href='#role-248'>248</a></td></tr>
+<tr><td><a href="#role-363">theatre maker</a></td><td><a href='#role-363'>363</a></td></tr>
+<tr><td><a href="#role-363">theatre maker</a> > <a href="#role-364">stage manager</a></td><td><a href='#role-364'>364</a></td></tr>
+<tr><td><a href="#role-249">theatre manager</a></td><td><a href='#role-249'>249</a></td></tr>
+<tr><td><a href="#role-39">theatrical director</a></td><td><a href='#role-39'>39</a></td></tr>
+<tr><td><a href="#role-250">theatrical producer</a></td><td><a href='#role-250'>250</a></td></tr>
+<tr><td><a href="#role-40">theatrical technician</a></td><td><a href='#role-40'>40</a></td></tr>
+<tr><td><a href="#role-365">theatrologist</a></td><td><a href='#role-365'>365</a></td></tr>
+<tr><td><a href="#role-366">theologian</a></td><td><a href='#role-366'>366</a></td></tr>
+<tr><td><a href="#role-77">trader</a></td><td><a href='#role-77'>77</a></td></tr>
+<tr><td><a href="#role-77">trader</a> > <a href="#role-79">bicycle dealer</a></td><td><a href='#role-79'>79</a></td></tr>
+<tr><td><a href="#role-77">trader</a> > <a href="#role-78">car dealer</a></td><td><a href='#role-78'>78</a></td></tr>
+<tr><td><a href="#role-77">trader</a> > <a href="#role-80">music dealer</a></td><td><a href='#role-80'>80</a></td></tr>
+<tr><td><a href="#role-77">trader</a> > <a href="#role-81">stationer</a></td><td><a href='#role-81'>81</a></td></tr>
+<tr><td><a href="#role-131">train driver</a></td><td><a href='#role-131'>131</a></td></tr>
+<tr><td><a href="#role-254">translator</a></td><td><a href='#role-254'>254</a></td></tr>
+<tr><td><a href="#role-369">travesti</a></td><td><a href='#role-369'>369</a></td></tr>
+<tr><td><a href="#role-369">travesti</a> > <a href="#role-370">drag queen</a></td><td><a href='#role-370'>370</a></td></tr>
+<tr><td><a href="#role-350">typesetter</a></td><td><a href='#role-350'>350</a></td></tr>
+<tr><td><a href="#role-283">unknown</a></td><td><a href='#role-283'>283</a></td></tr>
+<tr><td><a href="#role-398">VFX producer</a></td><td><a href='#role-398'>398</a></td></tr>
+<tr><td><a href="#role-372">visagiste</a></td><td><a href='#role-372'>372</a></td></tr>
+<tr><td><a href="#role-262">vocalist</a></td><td><a href='#role-262'>262</a></td></tr>
+<tr><td><a href="#role-262">vocalist</a> > <a href="#role-263">chansonnier/chanteuse</a></td><td><a href='#role-263'>263</a></td></tr>
+<tr><td><a href="#role-262">vocalist</a> > <a href="#role-265">rapper</a></td><td><a href='#role-265'>265</a></td></tr>
+<tr><td><a href="#role-262">vocalist</a> > <a href="#role-264">yodeler</a></td><td><a href='#role-264'>264</a></td></tr>
+<tr><td><a href="#role-74">voice teacher</a></td><td><a href='#role-74'>74</a></td></tr>
+<tr><td><a href="#role-261">voice-over</a></td><td><a href='#role-261'>261</a></td></tr>
+<tr><td><a href="#role-75">wardrobe master</a></td><td><a href='#role-75'>75</a></td></tr>
+<tr><td><a href="#role-265">web video producer</a> > <a href="#role-268">video blogger</a></td><td><a href='#role-268'>268</a></td></tr>
+<tr><td><a href="#role-267">web video producer</a></td><td><a href='#role-267'>267</a></td></tr>
+<tr><td><a href="#role-122">whistle artist</a></td><td><a href='#role-122'>122</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a></td><td><a href='#role-84'>84</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-86">bagpiper</a></td><td><a href='#role-86'>86</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-87">bassoonist</a></td><td><a href='#role-87'>87</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-90">clarinetist</a></td><td><a href='#role-90'>90</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-88">flutist</a></td><td><a href='#role-88'>88</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-88">flutist</a> > <a href="#role-89">piccolo player</a></td><td><a href='#role-89'>89</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-91">oboist</a></td><td><a href='#role-91'>91</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-85">recorder player</a></td><td><a href='#role-85'>85</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a></td><td><a href='#role-92'>92</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-93">alto saxophonist</a></td><td><a href='#role-93'>93</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-94">baritone saxophonist</a></td><td><a href='#role-94'>94</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-95">bass saxophonist</a></td><td><a href='#role-95'>95</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-96">mezzo-soprano saxophonist</a></td><td><a href='#role-96'>96</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-97">soprano saxophonist</a></td><td><a href='#role-97'>97</a></td></tr>
+<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-98">tenor saxophonist</a></td><td><a href='#role-98'>98</a></td></tr>
+<tr><td><a href="#role-374">workshop manager</a></td><td><a href='#role-374'>374</a></td></tr>
+<tr><td><a href="#role-257">writer</a></td><td><a href='#role-257'>257</a></td></tr>
+<tr><td><a href="#role-376">yoga instructor</a></td><td><a href='#role-376'>376</a></td></tr>
+<tr><td><a href="#role-377">zoologist</a></td><td><a href='#role-377'>377</a></td></tr>
 <tr><td></td>-<td><a href='#role-395'>395</a></td></tr>
 <tr><td>-</td><td><a href='#role-396'>396</a></td></tr>
 </table>

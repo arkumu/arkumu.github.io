@@ -4,10 +4,12 @@ title: Rechte-FAQ
 order: 4.2
 permalink: /rights/rights-faq
 ---
+Allgemeine Fragen zu Rechten innerhalb der Erstellung von künstlerischen Werken.
 
 <br/>
 
-Allgemeine Fragen zu Rechten innerhalb der Erstellung von künstlerischen Werken.
+---
+
 <br/>
 
 ## Was sind Urheber- und was sind Leistungsschutzrechte?
@@ -33,13 +35,6 @@ Bei Bearbeitungen eines Werkes kann auch ein dem Urheberrecht verwandtes Bearbei
 - **Urheberrechte** betreffen sämtliche Genres wie z.B. Musik, Kunst, Bilder, Fotos, Texte, Film, Theaterstücke, Architektur, Tanzchoreografie Stadtpläne etc.
 
 - **Exemplarisch** wären das bei musikalischen Werken die Komposition und der Text. Bei Filmwerken sind dies insbesondere die Arbeit der Regisseurin/des Regisseurs aber bei entsprechender künstlerischer Gestaltung auch die Kamera und der Schnitt.
-
-
-<br/>
-
----
-
-<br/>
 
 ### 2. Leistungsschutzrechte
 

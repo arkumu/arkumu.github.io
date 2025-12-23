@@ -7,7 +7,29 @@ permalink: /documentation/controlled-vocabularies/media-types
 
 ```Media Types```
 
+<br/>
+
+**Deutsch:**
+
+Der Medientyp erlaubt eine Kategorisierung einer Datei. Die Medientypen "3D", "Audio", "Bild", "Text" und "Video" stammen dabei aus der [Kategorisierung der Deutschen Digitalen Bibliothek](https://pro.deutsche-digitale-bibliothek.de/glossar/medientyp) und wurden um die Medientypen "Code" und "Daten" erweitert. Im Gegensatz zur DBB ist allerdings bei arkumu.nrw "das Format der Mediendatei" für diese Einordnung entscheidend, und kann entsprechend automatisiert werden, und nicht "die grundlegende Form, in der der Inhalt ausgedrückt, vermittelt und rezipiert wird".
+
+<br/>
+
 ---
+
+<br/>
+
+**English:**
+
+The Media Type allows for a file to be categorized. The Media Types "3D", "Audio", "Image", "Text", and "Video" originate from the [categorization of the Deutsche Digitale Bibliothek (German Digital Library)](https://pro.deutsche-digitale-bibliothek.de/glossar/medientyp) and have been expanded to include the Media Types "Code" and "Data". In contrast to the DBB, however, at arkumu.nrw "the format of the media file" is decisive for this classification and can be automated accordingly, rather than "the basic form in which the content is expressed, communicated, and received".
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
 
 <a href="#3d" id="3d"></a>
 

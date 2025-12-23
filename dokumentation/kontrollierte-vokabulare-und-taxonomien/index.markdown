@@ -62,14 +62,14 @@ Value lists represent the simplest structured form of a controlled vocabulary. A
 <br/>
 <br/>
 
-| English Name of Controlled Vacabulary | German Name of Controlled Vocabulary | Used in Entity | URI |
-| ------ | ------ | ------ | ------ |
-| [Equipment Types](/documentation/controlled-vocabularies/equipment-types) | [Equipmentarten](/documentation/controlled-vocabularies/equipment-types) | [Equipment and Software]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types) |
-| [Event Types](/documentation/controlled-vocabularies/event-types) | [Ereignistypen](/documentation/controlled-vocabularies/event-types) | [Event]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types) |
-| [Genesis Types](/documentation/controlled-vocabularies/genesis-types) | [Entstehungstypen](/documentation/controlled-vocabularies/genesis-types) | [Digital Object]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genesis-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genesis-types) |
-| [Genders](/documentation/controlled-vocabularies/genders) | [Geschlechter](/documentation/controlled-vocabularies/genders) | [Actor]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders) |
-| [Media Types](/documentation/controlled-vocabularies/media-types) | [Medientypen](/documentation/controlled-vocabularies/media-types) | [Digital Object]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types) |
-| [Project Types](/documentation/controlled-vocabularies/project-types) | [Projektarten](/documentation/controlled-vocabularies/project-types) | [Project]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types)|
+| English Name of Controlled Vacabulary | German Name of Controlled Vocabulary | URI |
+| ------ | ------ | ------ |
+| [Equipment Types](/documentation/controlled-vocabularies/equipment-types) | [Equipmentarten](/documentation/controlled-vocabularies/equipment-types) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types) |
+| [Event Types](/documentation/controlled-vocabularies/event-types) | [Ereignistypen](/documentation/controlled-vocabularies/event-types) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/event-types) |
+| [Genesis Types](/documentation/controlled-vocabularies/genesis-types) | [Entstehungstypen](/documentation/controlled-vocabularies/genesis-types) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genesis-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genesis-types) |
+| [Genders](/documentation/controlled-vocabularies/genders) | [Geschlechter](/documentation/controlled-vocabularies/genders) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders) |
+| [Media Types](/documentation/controlled-vocabularies/media-types) | [Medientypen](/documentation/controlled-vocabularies/media-types) |  `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types) |
+| [Project Types](/documentation/controlled-vocabularies/project-types) | [Projektarten](/documentation/controlled-vocabularies/project-types) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types)|
 
 <br/>
 <br/>
@@ -102,12 +102,12 @@ axonomies organize concepts hierarchically. They can be represented as a tree st
 <br/>
 <br/>
 
-| English Name of Controlled Vacabulary | German Name of Controlled Vocabulary | Used in Entity | URI |
-| ------ | ------ | ------ | ------ |
-| [Information Storage Medium Types](/documentation/controlled-vocabularies/information-storage-medium-types) | [Informationsträgertypen](/documentation/controlled-vocabularies/information-storage-medium-types) | [Information Storage Medium]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types) |
-| [Organisational Units](/documentation/controlled-vocabularies/organisational-units) | [Organisationseinheiten](/documentation/controlled-vocabularies/organisational-units) | [Project]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units) |
-| [Project Categories](/documentation/controlled-vocabularies/project-categories) | [Projektkategorien](/documentation/controlled-vocabularies/project-categories) | [Project]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types) |
-| [Roles](/documentation/controlled-vocabularies/project-categories) | [Rollen](/documentation/controlled-vocabularies/project-categories) | [Actor]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles) |
+| English Name of Controlled Vacabulary | German Name of Controlled Vocabulary | URI |
+| ------ | ------ | ------ |
+| [Information Storage Medium Types](/documentation/controlled-vocabularies/information-storage-medium-types) | [Informationsträgertypen](/documentation/controlled-vocabularies/information-storage-medium-types) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types) |
+| [Organisational Units](/documentation/controlled-vocabularies/organisational-units) | [Organisationseinheiten](/documentation/controlled-vocabularies/organisational-units) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units) |
+| [Project Categories](/documentation/controlled-vocabularies/project-categories) | [Projektkategorien](/documentation/controlled-vocabularies/project-categories) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types) |
+| [Roles](/documentation/controlled-vocabularies/roles) | [Rollen](/documentation/controlled-vocabularies/roles) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles) |
 
 <br/>
 <br/>
@@ -139,6 +139,6 @@ The ID reference for the Digital Object License is not a controlled vocabulary i
 <br/>
 <br/>
 
-| English Name of Reference| German Name of Reference | In Relation to Entity | URI |
+| English Name of Reference| German Name of Reference | URI |
 | ------ | ------ | ------ | ------ |
-| [Digital Object Licence ID References](/documentation/controlled-vocabularies/digital-object-license-id-references) | [Digitales-Objekt-Lizenz-ID-Referenzen](/documentation/controlled-vocabularies/digital-object-license-id-references) | [Digital Object]() | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/digital-object-license-id-references`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/digital-object-license-id-references)
+| [Digital Object Licence ID References](/documentation/controlled-vocabularies/digital-object-license-id-references) | [Digitales-Objekt-Lizenz-ID-Referenzen](/documentation/controlled-vocabularies/digital-object-license-id-references) | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/digital-object-license-id-references`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/digital-object-license-id-references)

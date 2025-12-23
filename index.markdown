@@ -3,6 +3,7 @@ layout: arkumu-docs
 title: arkumu.nrw Dokumentation und Ressourcen
 order: 0
 ---
+
 Das Ziel des Konsortialprojekts ist die qualitativ hochwertige Erschließung, Verfügbarhaltung und dauerhafte Archivierung der multimedialen künstlerischen Bestände der Kunst- und Musikhochschulen des Landes Nordrhein-Westfalen.\
 Die Kernaufgaben des Projekts sind:
 
@@ -30,4 +31,14 @@ Die Kernaufgaben des Projekts sind:
         <strong>Dokumentation</strong>
         <span>Eine fachliche Dokumentation des Projektes.</span>
     </a>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div id="information-card-index" class="link-card" style="margin-bottom: 4%">
+<sub>🛈 Bitte beachten Sie: Diese Dokumentationsseite wurde aktiv gepflegt und bildet den Arbeitsstand zum 23.12.2025 ab. Wir bedanken uns für Ihr Interesse an arkumu.nrw!</sub><br/><sub>🛈 Please note: This documentation page has been actively maintained and reflects the status of work as of December 23, 2025. Thank you for your interest in arkumu.nrw!</sub>
 </div>

@@ -5,6 +5,12 @@ order: 2.1
 permalink: /resources/how-to-guides-for-depositors
 ---
 
+<br/>
+
+---
+
+<br/>
+
 ## Vorbereitende Arbeiten zur Datenaufbereitung
 
 Bevor mit der Erfassung der Daten begonnen werden kann, empfehlen wir, einige grundlegende Schritte durchzuführen.
