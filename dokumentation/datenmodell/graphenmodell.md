@@ -9,6 +9,10 @@ permalink: /documentation/data-model/graph-model
 
 <br/>
 
+<div id="information-card-index" class="link-card" style="margin-bottom: 4%">
+<sub>🛈 Bitte beachten Sie, dass diese Seite einen Arbeitsstand vom 23.12.2025 zeigt.</sub><br/><sub>🛈 Please note that this page shows the status of work as of December 23, 2025.</sub>
+</div>
+
 ---
 
 <br/>
