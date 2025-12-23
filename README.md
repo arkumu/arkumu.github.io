@@ -10,9 +10,9 @@ The published website is available at <https://docs.arkumu.nrw/>.
 
 ## ❗ Update
 
-Um die Seite mit Suche lokal zu starten, muss sie mit <code>npm run build</code> geöffnet werden. Änderungen werden dann allerdings nicht mehr sofort angezeigt. Für Updates muss erst ein neuer Build gemacht werden. Für Bearbeitungen empfiehlt sich weiterhin die Ausführung dorekt über [Jekyll](#installation) oder über [Docker](#dockerization).
+Um die Seite mit Suche lokal zu starten, muss sie mit <code>npm run dev</code> geöffnet werden. Änderungen werden dann allerdings nicht mehr sofort angezeigt. Für Updates muss erst ein neuer Build gemacht werden. Für Bearbeitungen empfiehlt sich weiterhin die Ausführung dorekt über [Jekyll](#installation) oder über [Docker](#dockerization).
 
-To start the page locally with a working search, it must be started with <code>npm run build</code>. However, changes will no longer be displayed immediately. A new build must first be created to see updates. For editing, we still recommend running the site directly via [Jekyll](#installation) or running it via [Docker](#dockerization).
+To start the page locally with a working search, it must be started with <code>npm run dev</code>. However, changes will no longer be displayed immediately. A new build must first be created to see updates. For editing, we still recommend running the site directly via [Jekyll](#installation) or running it via [Docker](#dockerization).
 
 ----
 
