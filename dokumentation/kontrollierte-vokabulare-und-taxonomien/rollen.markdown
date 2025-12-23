@@ -35,7 +35,7 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 
 <br/>
 
-Bitte beachten Sie: das unten stehende Markdown ist aktueller als der Inhalt der folgenden Tabellen. Bitte gleichen Sie daher das Markdown stets mit den hier bereitgestellten Tabellen ab. Neu sind die Rollen "Klangregisseur:in", "Wasserinstrumentspieler:in" und "Synthesizerspieler:in". Als neues deutsches Synonym ist "Stimme" zum Eintrag "Vokalist:in" hinzugekommen. | Please note: the Markdown below is more up-to-date than the content of the following tables. Therefore, please always compare the Markdown with the tables provided here. New roles include "sound director", "water instrument player", and "synthesizer player". A new German synonym, "Stimme" (voice), has been added to the entry "vocalist". |
+Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der folgenden Tabellen. Bitte gleichen Sie daher das Markdown stets mit den hier bereitgestellten Tabellen ab. Neu sind die Rollen "Klangregisseur:in", "Wasserinstrumentspieler:in" und "Synthesizerspieler:in". Als neues deutsches Synonym ist "Stimme" zum Eintrag "Vokalist:in" hinzugekommen. | Please note: The Markdown below is more up-to-date than the content of the following tables. Therefore, please always compare the Markdown with the tables provided here. New roles include "sound director", "water instrument player", and "synthesizer player". A new German synonym, "Stimme" (voice), has been added to the entry "vocalist". |
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|

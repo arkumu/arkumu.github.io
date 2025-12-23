@@ -5,9 +5,7 @@ order: 4.1
 permalink: /documentation/metadata-export/Rosetta-METS
 ---
 
-<br/>
-
----
+```Rosetta METS```
 
 <br/>
 
@@ -623,10 +621,7 @@ For each file that is submitted, a descriptive metadata section is also added fo
 
 ```Intellectual Entity: Administrative and Rights Metadata```
 
-> [!warning] Not used Elements | Nichtmehr verwendete Elemente
-> The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. | Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden.
-
-<br/>
+ Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden. | The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. |
 
 **Deutsch:**
 
@@ -859,7 +854,7 @@ Min-Max Occurence: 1
 Min-Max Occurence: 0-1
 
 ```xml
-<dc:title xml:type="preferred-subtitle" xml:lang="Preferred Subtitle.Language.ISO 639-2(B) Code>Project.Preferred Subtitle</dc:title>
+<dc:title xml:type="preferred-subtitle" xml:lang="Preferred Subtitle.Language.ISO 639-2(B) Code">Project.Preferred Subtitle</dc:title>
 ```
 
 <br/>
@@ -981,10 +976,7 @@ Min-Max Occurence: 0-n<br/>
 
 ```Representation: Administrative Metadata```
 
-> [!caution] Further Testing Required | Weiteres Testen benötigt
-> The element can be completely left out if only a Preservation Master is submitted. Further testing must show how the submission of a Preservation and a Modified Master behaves. | Das Element kann vollständig weggelassen werden, wenn nur ein Preservation Master übermittelt wird. Weitere Tests müssen zeigen, wie sich die gemeinsame Übermittlung eines Preservation Master und eines Modified Master verhält.
-
-<br/>
+| Das Element kann vollständig weggelassen werden, wenn nur ein Preservation Master übermittelt wird. Weitere Tests müssen zeigen, wie sich die gemeinsame Übermittlung eines Preservation Master und eines Modified Master verhält. | The element can be completely left out if only a Preservation Master is submitted. Further testing must show how the submission of a Preservation and a Modified Master behaves |
 
 **Deutsch:**
 
@@ -1079,8 +1071,8 @@ The administrative Representation Section has a special mediating position withi
 
 ```Files: Administrative and Rights Metadata```
 
-> [!warning] Not used Elements | Nichtmehr verwendete Elemente
-> The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. | Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden.
+
+| Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden. | The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. |
 
 <br/>
 
@@ -1216,10 +1208,7 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 
 ```File Section```
 
-> [!caution] Caution | Achtung
-> If no administrative metadata sections are created for the files, they must not be referenced. Otherwise the validation would fail. | Wenn für die Dateien keine administrativen Metadatenabschnitte erstellt werden, dürfen sie nicht referenziert werden. Andernfalls würde die Validierung fehlschlagen.
-
-<br/>
+| Wenn für die Dateien keine administrativen Metadatenabschnitte erstellt werden, dürfen sie nicht referenziert werden. Andernfalls würde die Validierung fehlschlagen. | If no administrative metadata sections are created for the files, they must not be referenced. Otherwise the validation would fail. | 
 
 **Deutsch:**
 

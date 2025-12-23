@@ -23,13 +23,13 @@ Die Kernaufgaben des Projekts sind:
         <strong>Ressourcen</strong>
         <span>Materialien und Hilfen für Einliefernde und Interessierte.</span>
     </a>
-    <a href="/rights" class="link-card">
-        <strong>Rechte</strong>
-        <span>Informationen zu Rechten der Hochschulen, Benutzer:innen und zu Lizenzen.</span>
-    </a>
     <a href="/documentation" class="link-card">
         <strong>Dokumentation</strong>
         <span>Eine fachliche Dokumentation des Projektes.</span>
+    </a>
+    <a href="/rights" class="link-card">
+        <strong>Rechte</strong>
+        <span>Informationen zu Rechten der Hochschulen, Benutzer:innen und zu Lizenzen.</span>
     </a>
 </div>
 
