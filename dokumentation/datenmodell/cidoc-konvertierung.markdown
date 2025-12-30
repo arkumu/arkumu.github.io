@@ -10,7 +10,7 @@ permalink: /documentation/data-model/cidoc-conversion
 <br/>
 
 <div id="information-card-index" class="link-card" style="margin-bottom: 4%">
-<sub>🛈 Bitte beachten Sie, dass diese Seite einen Arbeitsstand vom 23.12.2025 zeigt. Daher ist diese Seite nur auf Englisch verfügbar.</sub><br/><sub>🛈 Please note that this page shows the status of work as of December 23, 2025. Therefore, this page is only available in English.</sub>
+<sub>ⓘ Bitte beachten Sie, dass diese Seite einen Arbeitsstand vom 23.12.2025 zeigt. Daher ist diese Seite nur auf Englisch verfügbar.</sub><br/><sub>ⓘ Please note that this page shows the status of work as of December 23, 2025. Therefore, this page is only available in English.</sub>
 </div>
 
 ---
