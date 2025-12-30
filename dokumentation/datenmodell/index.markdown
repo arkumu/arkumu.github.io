@@ -91,7 +91,7 @@ The table shows entities, attributes, cardinalities, definitions, and taxonomies
 Das [Relationale Modell](/documentation/data-model/relational-model) greift die in der oben stehenden Tabelle definierten Entitäten und Felder auf und nähert sich an eine technische Umsetzung des Datenmodells an.
 
 **English:**\
-The [Relational model](/documentation/data-model/relational-model) adopts the entities and fields defined in the table above and approximates a technical implementation of the data model.
+The [Relational Model](/documentation/data-model/relational-model) adopts the entities and fields defined in the table above and approximates a technical implementation of the data model.
 
 <br/>
 <br/>
