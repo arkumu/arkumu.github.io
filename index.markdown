@@ -40,5 +40,5 @@ Die Kernaufgaben des Projekts sind:
 <br/>
 
 <div id="information-card-index" class="link-card" style="margin-bottom: 4%">
-<sub>ⓘ Bitte beachten Sie: Diese Dokumentationsseite wurde aktiv gepflegt und bildet den Arbeitsstand zum 23.12.2025 ab. Wir bedanken uns für Ihr Interesse an arkumu.nrw!</sub><br/><sub>ⓘ Please note: This documentation page has been actively maintained and reflects the status of work as of December 23, 2025. Thank you for your interest in arkumu.nrw!</sub>
+<sub>ⓘ Bitte beachten Sie: Diese Dokumentationsseite wurde aktiv gepflegt und bildet den Arbeitsstand zum 30.12.2025 ab. Wir bedanken uns für Ihr Interesse an arkumu.nrw!</sub><br/><sub>ⓘ Please note: This documentation page has been actively maintained and reflects the status of work as of December 30, 2025. Thank you for your interest in arkumu.nrw!</sub>
 </div>
