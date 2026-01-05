@@ -5,9 +5,7 @@ order: 4.1
 permalink: /documentation/metadata-export/Rosetta-METS
 ---
 
-<br/>
-
----
+```Rosetta METS```
 
 <br/>
 
@@ -97,11 +95,11 @@ In order for data and metadata of a Project to be transmitted to Rosetta, they m
 
 <br/>
 
-<pre>
-&lt;record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1"&gt;
-    &lt;dc:title&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#preferred-title">Preferred Title</a>&lt;/dc:title&gt;
-&lt;/record&gt;
-</pre>
+```xml
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1">
+    <dc:title>Project.Preferred Title</dc:title>
+</record>
+```
 
 <br/>
 
@@ -109,14 +107,13 @@ In order for data and metadata of a Project to be transmitted to Rosetta, they m
 
 <br/>
 
-```
-arkumu-1-RSH-1/
-├── dc.xml
-└── content/
-    ├── ie1.xml
-    └── streams/
+
+arkumu-1-RSH-1/  
+├── dc.xml  
+└── content/  
+    ├── ie1.xml  
+    └── streams/  
         └── audio.wav
-```
 
 <br/>
 
@@ -159,32 +156,32 @@ The XML version used must be ```1.0```, and ```utf-8``` must be set as the encod
 
 <br/>
 
-<pre>
-&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;mets&gt;
-    &lt;mets:dmdSec ID="ie-dmd"&gt;(1)
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<mets>
+    <mets:dmdSec ID="ie-dmd">(1)
         [...]
-    &lt;/mets:dmdSec&gt;
-    &lt;mets:dmdSec ID="FL[...]-dmd"&gt;(0-n)
+    </mets:dmdSec>
+    <mets:dmdSec ID="FL[...]-dmd">(0-n)
         [...]
-    &lt;/mets:dmdSec&gt;
-    &lt;mets:amdSec ID="ie[...]-amd"&gt;(1)
+    </mets:dmdSec>
+    <mets:amdSec ID="ie[...]-amd">(1)
         [...]
-    &lt;/mets:amdSec&gt;
-    &lt;mets:amdSec ID="REP[...]-amd"&gt;(1 for Preservation Master, 0-1 for Modified Master, 0-n for Derivate Copy)
+    </mets:amdSec>
+    <mets:amdSec ID="REP[...]-amd">(1 for Preservation Master, 0-1 for Modified Master, 0-n for Derivate Copy)
         [...]
-    &lt;/mets:amdSec&gt;
-    &lt;mets:amdSec ID="FL[...]-amd"&gt;(0-n)
+    </mets:amdSec>
+    <mets:amdSec ID="FL[...]-amd">(0-n)
         [...]
-    &lt;/mets:amdSec&gt;
-    &lt;mets:fileSec&gt;(1)
+    </mets:amdSec>
+    <mets:fileSec>(1)
         [...]
-    &lt;/mets:fileSec&gt;
-    &lt;structMap ID="REP1-1" TYPE="LOGICAL"&gt;(1-n)
+    </mets:fileSec>
+    <structMap ID="REP1-1" TYPE="LOGICAL">(1-n)
         [...]
-    &lt;/mets:structMap&gt;
-&lt;/mets&gt;
-</pre>
+    </mets:structMap>
+</mets>
+```
 
 <br/>
 
@@ -240,8 +237,8 @@ Das Element ```<mets:mets>``` steht zu Beginn eines jedes METS-Dokuments und def
 
 <br/>
 
-<pre>
-&lt;mets:mets xmlns:mets="http://www.exlibrisgroup.com/xsd/dps/rosettaMets"
+```xml
+<mets:mets xmlns:mets="http://www.exlibrisgroup.com/xsd/dps/rosettaMets"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.exlibrisgroup.com/xsd/dps/rosettaMets
 https://developers.exlibrisgroup.com/wp-content/uploads/2022/06/mets_rosetta.xsd"
@@ -249,10 +246,10 @@ xmlns:dc="http://purl.org/dc/elements/1.1"
 xmlns:dcterms="http://purl.org/dc/terms/"
 xmlns:sch="http://purl.oclc.org/dsdl/schematron" 
 xmlns:xlin="http://www.w3.org/1999/xlink"
-xmlns:dnx='http://www.exlibrisgroup.com/dps/dnx'&gt;
+xmlns:dnx='http://www.exlibrisgroup.com/dps/dnx'>
     [...]
-&lt;/mets:mets&gt;
-</pre>
+</mets:mets>
+```
 
 <br/>
 
@@ -330,9 +327,9 @@ The following fields from the arkumu.nrw Data Model should appear in the order s
 
 Min-Max Occurence: 1
 
-<pre>
-&lt;dc:identifier&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#arkumu-id">arkumu ID</a>&lt;/dc:identifier&gt;
-</pre>
+```xml
+<dc:identifier>Project.arkumu ID</a></dc:identifier>
+```
 
 <br/>
 
@@ -344,43 +341,66 @@ Min-Max Occurence: 1
 
 Min-Max Occurence: 1
 
-<pre>
-&lt;dc:rights&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#rights-status">Rights Status</a>&lt;/dc:rights&gt;
-&lt;dc:rights&gt;EnglishTranslation&lt;/dc:rights&gt;
-&lt;dc:rights&gt;German Disclaimer&lt;/dc:rights&gt;
-&lt;dc:rights&gt;English Disclaimer&lt;/dc:rights&gt;
-</pre>
+```xml
+<dc:rights>Project.Rights Status</dc:rights>
+<dc:rights>EnglishTranslation</dc:rights>
+<dc:rights>German Disclaimer</dc:rights>
+<dc:rights>English Disclaimer</dc:rights>
+```
+<br/>
+
+**Automatically addded elements \| Automatisch hinzugefügte Elemente**
+
+The English translation of the Rights Status has to be added. As well as the following disclaimers in German and English\
+Die englische Übersetzung des Rechtsstatus muss hinzugefügt werden. Ebenso wie die folgenden Hinweise in deutscher und englischer Sprache.
+
+If the Rights Status is "Free of German Urheberrecht and Leistungsschutzrecht protection"("Urheberrechts- und leistungsschutzrechts-frei"), the following disclaimers have to be set:\
+Wenn der Rechtsstatus „Urheberrechts- und leistungsschutzrechts-frei“ lautet, müssen die folgenden Hinweise gesetzt werden:
 
 <br/>
 
-> [!important]Automatically addded elements | Automatisch hinzugefügte Elemente
-> The English translation of the Rights Status has to be added. As well as the following disclaimers in German and English. | Die englische Übersetzung des Rechtsstatus muss hinzugefügt werden. Ebenso wie die folgenden Hinweise in deutscher und englischer Sprache.<br/><br/>
-> If the Rights Status is "Free of German Urheberrecht and Leistungsschutzrecht protection"("Urheberrechts- und leistungsschutzrechts-frei"), the following disclaimers have to be set | Wenn der Rechtsstatus „Urheberrechts- und leistungsschutzrechts-frei“ lautet, müssen die folgenden Hinweise gesetzt werden:
-> ```
-> Das Projekt/Werk ist frei nach dem deutschen Urheberrecht und Leistungsschutzrecht. 
-> Dennoch können einige Digitale Objekte, referenziert über Ereignisse, immer noch dem 
-> urheberrechtlichen, leistungsschutzrechlitchen oder verwertungsrechtlichen Schutz
-> unterliegen. Überprüfen Sie daher bitte alle verknüpften Ereignisse sorgfältig, bevor 
-> Sie die bereitgestellten Medien weiterverwenden.
-> ```
-> ```
-> The Project/Work is free under German Urheberrecht and Leistungsschutzrecht. However,
-> some digital objects, referenced via events, may still be subject to German Urheberrecht,
-> German Leistungsschutzrecht or exploitation rights protection. Therefore, please 
-> check all linked events thoroughly before further use of the media provided.
-> ```
-> <br/>If the Rights Status is "Protected by German Urhebrrecht and/or Leistungsschutzrecht ("Urheberrechtlich und/oder leistungsschutzrechtlich geschützt"), the following disclaimers have to be set | Wenn der Rechtsstatus „Urheberrechtlich und/oder leistungsschutzrechtlich geschützt“ lautet, müssen die folgenden Hinweise gesetzt werden:
-> ```
-> Das Projekt/Werk ist durch das deutsche Urheberrecht und/oder Leistungsschutzrecht geschützt. 
-> Einige Digitale Objekte können auch noch durch Verwertungsrechte geschützt sein. Überprüfen Sie 
-> daher bitte alle verknüpften Ereignisse sorgfältig, bevor Sie die bereitgestellten Medien 
-> weiterverwenden.
-> ```
-> ```
-> The Project/Work is protected by German Urheberrecht and/or Leistungsschutzrecht.
-> Some digital objects may also be protected by exploitation rights. Therefore, please 
-> check all linked events thoroughly before further use of the media provided.
-> ```
+```
+Das Projekt/Werk ist frei nach dem deutschen Urheberrecht und Leistungsschutzrecht. 
+Dennoch können einige Digitale Objekte, referenziert über Ereignisse, immer noch dem 
+urheberrechtlichen, leistungsschutzrechlitchen oder verwertungsrechtlichen Schutz
+unterliegen. Überprüfen Sie daher bitte alle verknüpften Ereignisse sorgfältig, bevor 
+Sie die bereitgestellten Medien weiterverwenden.
+```
+
+<br/>
+
+```
+The Project/Work is free under German Urheberrecht and Leistungsschutzrecht. However,
+some digital objects, referenced via events, may still be subject to German Urheberrecht,
+German Leistungsschutzrecht or exploitation rights protection. Therefore, please 
+check all linked events thoroughly before further use of the media provided.
+```
+
+<br/>
+
+---
+
+<br/>
+
+If the Rights Status is "Protected by German Urhebrrecht and/or Leistungsschutzrecht ("Urheberrechtlich und/oder leistungsschutzrechtlich geschützt"), the following disclaimers have to be set:\
+Wenn der Rechtsstatus „Urheberrechtlich und/oder leistungsschutzrechtlich geschützt“ lautet, müssen die folgenden Hinweise gesetzt werden:
+
+<br/>
+
+```
+Das Projekt/Werk ist durch das deutsche Urheberrecht und/oder Leistungsschutzrecht geschützt. 
+Einige Digitale Objekte können auch noch durch Verwertungsrechte geschützt sein. Überprüfen Sie 
+daher bitte alle verknüpften Ereignisse sorgfältig, bevor Sie die bereitgestellten Medien 
+weiterverwenden.
+```
+
+<br/>
+
+```
+The Project/Work is protected by German Urheberrecht and/or Leistungsschutzrecht.
+Some digital objects may also be protected by exploitation rights. Therefore, please 
+check all linked events thoroughly before further use of the media provided.
+```
 
 <br/>
 
@@ -393,9 +413,9 @@ Min-Max Occurence: 1
 
 Min-Max Occurence: 1
 
-<pre>
-&lt;dc:title&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#preferred-title">Preferred Title</a>&lt;/dc:title&gt;
-</pre>
+```xml
+<dc:title>Project.Preferred Title</dc:title>
+```
 
 <br/>
 
@@ -407,9 +427,9 @@ Min-Max Occurence: 1
 
 Min-Max Occurence: 0-1
 
-<pre>
-&lt;dc:title&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#preferred-subtitle">Preferred Subtitle</a>&lt;/dc:title&gt;
-</pre>
+```xml
+<dc:title>Project.Preferred Subtitle</dc:title>
+```
 
 <br/>
 
@@ -422,11 +442,11 @@ Min-Max Occurence: 0-1
 Related Entity Class: [Project Type](/documentation/data-model/graph-model#project-type)<br/>
 Min-Max Occurence: 1-n
 
-<pre>
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#project-type">Project Type</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#project-type">Project Type</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#project-type">Project Type</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:type&gt;
-</pre>
+```xml
+<dc:type>Project Type.German Name(1)</dc:type>
+<dc:type>Project Type.English Name(1)</dc:type>
+<dc:type>Project Type.Wikidata ID(1)</dc:type>
+```
 
 <br/>
 
@@ -440,16 +460,16 @@ Related Entity Class: [Project Category](/documentation/data-model/graph-model#p
 Min-Max Occurence: 1-n<br/>
 Note: This is an entry from a taxonomy. If a Project Category has a connection via [has broader project category](/documentation/data-model/graph-model#has-broader-project-category) to another one, the broader category is set under the previous. Further, if there are several Project Categories stemming from the same broader one, only unique values should be set.
 
-<pre>
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#german-synonym">German Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#english-synonym">English Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#gnd-id">GND ID</a>(0-1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#aat-id">AAT ID</a>(0-1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#filmportalde-category-id">filmportal.de Category ID</a>(0-1)&lt;/dc:subject&gt;
-</pre>
+```xml
+<dc:subject>Project Category.German Name(1)</dc:subject>
+<dc:subject>Project Category.English Name(1)</dc:subject>
+<dc:subject>Project Category.German Synonym(0-n)</dc:subject>
+<dc:subject>Project Category.English Synonym(0-n)</dc:subject>
+<dc:subject>Project Category.Wikidata ID(1)</dc:subject>
+<dc:subject>Project Category.GND ID(0-1)</dc:subject>
+<dc:subject>Project Category.AAT ID(0-1)</dc:subject>
+<dc:subject>Project Category.filmportal.de Category ID(0-1)</dc:subject>
+```
 
 <br/>
 
@@ -462,13 +482,13 @@ Note: This is an entry from a taxonomy. If a Project Category has a connection v
 Related Entity Class: [Keyword](/documentation/data-model/graph-model#keyword)<br/>
 Min-Max Occurence: 0-n<br/>
 
-<pre>
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#german-wikidata-label">German Wikidata Label</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#english-wikidata-label">English Wikidata Label</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#german-wikidata-synonym">German Wikidata Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#english-wikidata-synonym">English Wikidata Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:subject&gt;
-</pre>
+```xml
+<dc:subject>Keyword.German Wikidata Label(1)</dc:subject>
+<dc:subject>Keyword.English Wikidata Label(1)</dc:subject>
+<dc:subject>Keyword.German Wikidata Synonym(0-n)</dc:subject>
+<dc:subject>Keyword.English Wikidata Synonym(0-n)</dc:subject>
+<dc:subject>Keyword.Wikidata ID(1)</dc:subject>
+```
 
 <br/>
 
@@ -481,9 +501,9 @@ Min-Max Occurence: 0-n<br/>
 Related Entity Class: [Project Description](/documentation/data-model/graph-model#project-category)<br/>
 Min-Max Occurence: 0-n
 
-<pre>
-&lt;dc:description&gt;<a href="/documentation/data-model/graph-model#project-description">Project Description</a>.<a href="/documentation/data-model/graph-model#description-text">Description Text</a>(1)&lt;/dc:description&gt;
-</pre>
+```xml
+<dc:description>Project Description.Description Text(1)</dc:description>
+```
 
 <br/>
 
@@ -496,29 +516,29 @@ Min-Max Occurence: 0-n
 Related Entity Class: [Event](/documentation/data-model/graph-model#event)<br/>
 Min-Max Occurence: 0-n<br/>
 
-<pre>
-&lt;dc:title&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:title&gt;
-&lt;dc:title&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(0-1)&lt;/dc:title&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#germen-synonym">German Synonym</a>(0-n)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#english-synonym">English Synonym</a>(0-n)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#gnd-id">GND ID</a>(0-1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#aat-id">AAT ID</a>(0-1)&lt;/dc:type&gt;
-&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#lido-terminology-id">LIDO Terminology ID</a>(0-1)&lt;/dc:type&gt;
-&lt;dc:date&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#event-begin">Event Begin</a>(1; if none given, the technical is taken)&lt;/dc:date&gt;
-&lt;dc:date&gt;<a href="/documentation/data-model/graph-model#event-begin">Event Begin</a>.<a href="/documentation/data-model/graph-model#estimation">Estimation</a>(1; true or false)&lt;/dc:date&gt;
-&lt;dc:date&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#event-end">Event End</a>(1; if none given, the technical is taken)&lt;/dc:date&gt;
-&lt;dc:date&gt;<a href="/documentation/data-model/graph-model#event-end">Event End</a>.<a href="/documentation/data-model/graph-model#estimation">Estimation</a>(1; true or false)&lt;/dc:date&gt;
-&lt;dc:contributor&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#event-end">Actor</a>(0-n)&lt;/dc:contributor&gt;
-&lt;dc:type&gt;ist/is Urheber:in(1 if Urheber:in)&lt;/dc:type&gt;
-&lt;dc:rights&gt;<a href="https://www.gesetze-im-internet.de/urhg/">https://www.gesetze-im-internet.de/urhg/</a>(1 if Urheber:in)&lt;/dc:rights&gt;
-&lt;dc:rights&gt;<a href="https://www.gesetze-im-internet.de/englisch_urhg/">https://www.gesetze-im-internet.de/englisch_urhg/</a>(1 if Urheber:in)&lt;/dc:rights&gt;
-&lt;dc:type&gt;ist/is Leistungsschutzinhaber:in(1 if Leistungsschutzinhaber:in)&lt;/dc:type&gt;
-&lt;dc:rights&gt;<a href="https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377)">https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377</a>(1 if Leistungsschutzinhaber:in)&lt;/dc:rights&gt;
-&lt;dc:rights&gt;<a href="https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0646)">https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0646</a>(1 if Leistungsschutzinhaber:in)&lt;/dc:rights&gt;
-</pre>
+```xml
+<dc:title>Event.German Name(1)</dc:title>
+<dc:title>Event.English Name(0-1)</dc:title>
+<dc:type>Event Type.German Name(1)</dc:type>
+<dc:type>Event Type.English Name(1)</dc:type>
+<dc:type>Event Type.German Synonym(0-n)</dc:type>
+<dc:type>Event Type.English Synonym(0-n)</dc:type>
+<dc:type>Event Type.Wikidata ID(1)</dc:type>
+<dc:type>Event Type.GND ID(0-1)</dc:type>
+<dc:type>Event Type.AAT ID(0-1)</dc:type>
+<dc:type>Event Type.LIDO Terminology ID(0-1)</dc:type>
+<dc:date>Event.Event Begin(1; if none given, the technical is taken)</dc:date>
+<dc:date>Event Begin.Estimation(1; true or false)</dc:date>
+<dc:date>Event.Event End(1; if none given, the technical is taken)</dc:date>
+<dc:date>Event End.Estimation(1; true or false)</dc:date>
+<dc:contributor>Event.Actor(0-n)</dc:contributor>
+<dc:type>ist/is Urheber:in(1 if Urheber:in)</dc:type>
+<dc:rights>https://www.gesetze-im-internet.de/urhg/(1 if Urheber:in)</dc:rights>
+<dc:rights>https://www.gesetze-im-internet.de/englisch_urhg/(1 if Urheber:in)</dc:rights>
+<dc:type>ist/is Leistungsschutzinhaber:in(1 if Leistungsschutzinhaber:in)</dc:type>
+<dc:rights>https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377(1 if Leistungsschutzinhaber:in)</dc:rights>
+<dc:rights>https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0646(1 if Leistungsschutzinhaber:in)</dc:rights>
+```
 
 <br/>
 
@@ -552,17 +572,17 @@ For each file that is submitted, a descriptive metadata section is also added fo
 
 <br/>
 
-<pre>
-&lt;mets:dmdSec ID="FL[...]-dmd"&gt;
-    &lt;mets:mdWrap MDTYPE="DC"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+```xml
+<mets:dmdSec ID="FL[...]-dmd">
+    <mets:mdWrap MDTYPE="DC">
+        <mets:xmlData>
+            <dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                [...]
-            &lt;/dc:record&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:dmdSec&gt;
-</pre>
+            </dc:record>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:dmdSec>
+```
 
 <br/>
 
@@ -570,26 +590,26 @@ For each file that is submitted, a descriptive metadata section is also added fo
 
 <br/>
 
-<pre>
-&lt;mets:dmdSec ID="FL[...]-dmd"&gt;
-    &lt;mets:mdWrap MDTYPE="DC"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
-                &lt;dc:identifier&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.UUID&lt;/dc:identifier&gt;(1)
-                &lt;dc:title&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#file-name">File Name</a>&lt;/dc:title&gt;(1)
-		&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#genesis-type">Genesis Type</a>&lt;/dc:type&gt;(1)
-		&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#media-type">Media Type</a>&lt;/dc:type&gt;(1)
-		&lt;dc:type&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#mime-type">MIME Type</a>&lt;/dc:type&gt;(1)
-		&lt;dc:description&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#significant-properties-german">Significant Properties (German)</a>&lt;/dc:description&gt;(0-1)
-		&lt;dc:description&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model##significant-properties-english">Significant Properties (English)</a>&lt;/dc:description&gt;(0-1)
-		&lt;dcterms:license&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>&lt;/dcterms:license&gt;(1)
-		&lt;dcterms:license&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#german-name">English Name</a>&lt;/dcterms:license&gt;(1)
-		&lt;dcterms:license&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#uri">URI</a>&lt;/dcterms:license&gt;(1)
-            &lt;/dc:record&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:dmdSec&gt;
-</pre>
+```xml
+<mets:dmdSec ID="FL[...]-dmd">
+    <mets:mdWrap MDTYPE="DC">
+        <mets:xmlData>
+            <dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <dc:identifier>Digital Object.UUID</dc:identifier>(1)
+                <dc:title>Digital Object.File Name</dc:title>(1)
+		<dc:type>Digital Object.Genesis Type</dc:type>(1)
+		<dc:type>Digital Object.Media Type</dc:type>(1)
+		<dc:type>Digital Object.MIME Type</dc:type>(1)
+		<dc:description>Digital Object.Significant Properties (German)</dc:description>(0-1)
+		<dc:description>Digital Object.Significant Properties (English)</dc:description>(0-1)
+		<dcterms:license>Digital Object.Digital Object Licence.German Name</dcterms:license>(1)
+		<dcterms:license>Digital Object.Digital Object Licence.English Name</dcterms:license>(1)
+		<dcterms:license>Digital Object.Digital Object Licence.URI</dcterms:license>(1)
+            </dc:record>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:dmdSec>
+```
 
 <br/>
 
@@ -601,10 +621,7 @@ For each file that is submitted, a descriptive metadata section is also added fo
 
 ```Intellectual Entity: Administrative and Rights Metadata```
 
-> [!warning] Not used Elements | Nichtmehr verwendete Elemente
-> The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. | Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden.
-
-<br/>
+ Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden. | The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. |
 
 **Deutsch:**
 
@@ -626,34 +643,34 @@ The administrative Section of the Intellectual Entity (```mets:amdSec ID="ie-amd
 
 <br/>
 
-<pre>
-&lt;mets:amdSec ID="ie-amd"&gt;
-    &lt;mets:techMD ID="ie-amd-tech"&gt;(1)
+```xml
+<mets:amdSec ID="ie-amd">
+    <mets:techMD ID="ie-amd-tech">(1)
         [...]
-    &lt;/mets:techMD&gt;
-    &lt;mets:rightsMD ID="ie-amd-rights"&gt;(1)
+    </mets:techMD>
+    <mets:rightsMD ID="ie-amd-rights">(1)
         [...]
-    &lt;/mets:rightsMD&gt;
-    &lt;mets:sourceMD ID="ie-amd-source-dc"&gt;(1)
-        &lt;mets:mdWrap MDTYPE="DC"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+    </mets:rightsMD>
+    <mets:sourceMD ID="ie-amd-source-dc">(1)
+        <mets:mdWrap MDTYPE="DC">
+            <mets:xmlData>
+                <dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                     [...]
-                &lt;/dc:record&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:sourceMD&gt;
-    &lt;mets:sourceMD ID="ie-amd-source-lido"&gt;(example)
-        &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="LIDO"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;lido:lido&gt;
+                </dc:record>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="ie-amd-source-lido">(example)
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="LIDO">
+            <mets:xmlData>
+                <lido:lido>
                     [...]
-                &lt;lido:lido&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:sourceMD&gt;
-&lt;/mets:amdSec&gt;
-</pre>
+                <lido:lido>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:sourceMD>
+</mets:amdSec>
+```
 
 <br/>
 
@@ -681,21 +698,21 @@ The Technical Metadata Wrap uses Rosetta's own DNX metadata format. To express t
 
 <br/>
 
-<pre>
-&lt;mets:techMD ID="ie-amd-tech"&gt;
-    &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-               &lt;section id="objectCharacteristics"&gt;
-                    &lt;record&gt;
-                        &lt;key id="objectType"&gt;INTELLECTUAL_ENTITY&lt;/key&gt;
-                    &lt;/record&gt;
-                &lt;/section&gt;
-            &lt;/dnx&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:techMD&gt;
-</pre>
+```xml
+<mets:techMD ID="ie-amd-tech">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+            <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+               <section id="objectCharacteristics">
+                    <record>
+                        <key id="objectType">INTELLECTUAL_ENTITY</key>
+                    </record>
+                </section>
+            </dnx>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:techMD>
+```
 
 <br/>
 
@@ -723,41 +740,41 @@ The Rights Metadata Section displays the Project's [Right Status](/documentation
 
 <br/>
 
-<pre>
-&lt;mets:rightsMD ID="ie-amd-rights"&gt;(1; for Projects protected by German Urheberrecht or Leistungsschutzrecht)
-    &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                &lt;section id="linkingRightsStatementIdentifier"&gt;
-                    &lt;record&gt;
-                        &lt;key id="linkingRightsStatementIdentifier"&gt;URI&lt;/key&gt;
-                        &lt;key id="linkingRightsStatementIdentifierValue"&gt;<a href="https://www.gesetze-im-internet.de/urhg/">https://www.gesetze-im-internet.de/urhg/</a>&lt;/key&gt;
-                    &lt;/record&gt;
-                    &lt;record&gt;
-                        &lt;key id="linkingRightsStatementIdentifier"&gt;URI&lt;/key&gt;
-                        &lt;key id="linkingRightsStatementIdentifierValue"&gt;<a href="https://www.gesetze-im-internet.de/englisch_urhg/">https://www.gesetze-im-internet.de/englisch_urhg/</a>&lt;/key&gt;
-                    &lt;/record&gt;
-                &lt;/section&gt;
-            &lt;/dnx&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:rightsMD&gt;
+```xml
+<mets:rightsMD ID="ie-amd-rights">(1; for Projects protected by German Urheberrecht or Leistungsschutzrecht)
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+            <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                <section id="linkingRightsStatementIdentifier">
+                    <record>
+                        <key id="linkingRightsStatementIdentifier">URI</key>
+                        <key id="linkingRightsStatementIdentifierValue">https://www.gesetze-im-internet.de/urhg/</key>
+                    </record>
+                    <record>
+                        <key id="linkingRightsStatementIdentifier">URI</key>
+                        <key id="linkingRightsStatementIdentifierValue">https://www.gesetze-im-internet.de/englisch_urhg/</key>
+                    </record>
+                </section>
+            </dnx>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:rightsMD>
 
-&lt;mets:rightsMD ID="ie-amd-rights"&gt;(1; for Projects deemed free by German Urheberrecht or Leistungsschutzrecht; example)
-    &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                &lt;section id="linkingRightsStatementIdentifier"&gt;
-                    &lt;record&gt;
-                        &lt;key id="linkingRightsStatementIdentifier"&gt;URI&lt;/key&gt;
-                        &lt;key id="linkingRightsStatementIdentifierValue"&gt;<a href="[https://www.gesetze-im-internet.de/urhg/](http://rightsstatements.org/vocab/NoC-OKLR/1.0/)">[https://www.gesetze-im-internet.de/urhg/](http://rightsstatements.org/vocab/NoC-OKLR/1.0/)</a>&lt;/key&gt;
-                    &lt;/record&gt;
-                &lt;/section&gt;
-            &lt;/dnx&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:rightsMD&gt;
-</pre>
+<mets:rightsMD ID="ie-amd-rights">(1; for Projects deemed free by German Urheberrecht or Leistungsschutzrecht; example)
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+            <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                <section id="linkingRightsStatementIdentifier">
+                    <record>
+                        <key id="linkingRightsStatementIdentifier">URI</key>
+                        <key id="linkingRightsStatementIdentifierValue">[https://www.gesetze-im-internet.de/urhg/](http://rightsstatements.org/vocab/NoC-OKLR/1.0/)</key>
+                    </record>
+                </section>
+            </dnx>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:rightsMD>
+```
 
 <br/>
 
@@ -790,9 +807,9 @@ In the Source Metadata Section, the URI identifiers of the Entity and Field Clas
 
 Min-Max Occurence: 1
 
-<pre>
-&lt;dc:identifier xml:type="arkumu-ID"&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#arkumu-id">arkumu ID</a>&lt;/dc:identifier&gt;
-</pre>
+```xml
+<dc:identifier xml:type="arkumu-ID">Project.arkumu ID</dc:identifier>
+```
 
 <br/>
 
@@ -804,12 +821,12 @@ Min-Max Occurence: 1
 
 Min-Max Occurence: 1
 
-<pre>
-&lt;dc:rights xml:type="rights-status" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#rights-status">Rights Status</a>&lt;/dc:rights&gt;
-&lt;dc:rights xml:type="rights-status" xml:lang="eng"&gt;EnglishTranslation&lt;/dc:rights&gt;
-&lt;dc:rights xml:type="german-rights-disclaimer" xml:lang="ger"&gt;German Disclaimer&lt;/dc:rights&gt;
-&lt;dc:rights xml:type="english-rights-disclaimer" xml:lang="eng"&gt;English Disclaimer&lt;/dc:rights&gt;
-</pre>
+```xml
+<dc:rights xml:type="rights-status" xml:lang="ger">Project.Rights Status</dc:rights>
+<dc:rights xml:type="rights-status" xml:lang="eng">EnglishTranslation</dc:rights>
+<dc:rights xml:type="german-rights-disclaimer" xml:lang="ger">German Disclaimer</dc:rights>
+<dc:rights xml:type="english-rights-disclaimer" xml:lang="eng">English Disclaimer</dc:rights>
+```
 
 <br/>
 
@@ -822,9 +839,9 @@ Min-Max Occurence: 1
 
 Min-Max Occurence: 1
 
-<pre>
-&lt;dc:title xml:type="preferred-title" xml:lang="<a href="/documentation/data-model/graph-model#preferred-title">Preferred Title</a>.<a href="/documentation/data-model/graph-model#language">Language</a>.<a href="/documentation/data-model/graph-model#iso639-2b-code">ISO 639-2(B) Code</a>"&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#preferred-title">Preferred Title</a>&lt;/dc:title&gt;
-</pre>
+```xml
+<dc:title xml:type="preferred-title" xml:lang="Preferred Title.Language.ISO 639-2(B) Code">Project.Preferred Title</dc:title>
+```
 
 <br/>
 
@@ -836,9 +853,9 @@ Min-Max Occurence: 1
 
 Min-Max Occurence: 0-1
 
-<pre>
-&lt;dc:title xml:type="preferred-subtitle" xml:lang="<a href="/documentation/data-model/graph-model#preferred-subtitle">Preferred Subtitle</a>.<a href="/documentation/data-model/graph-model#language">Language</a>.<a href="/documentation/data-model/graph-model#iso639-2b-code">ISO 639-2(B) Code</a>&gt;<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#preferred-subtitle">Preferred Subtitle</a>&lt;/dc:title&gt;
-</pre>
+```xml
+<dc:title xml:type="preferred-subtitle" xml:lang="Preferred Subtitle.Language.ISO 639-2(B) Code">Project.Preferred Subtitle</dc:title>
+```
 
 <br/>
 
@@ -851,11 +868,11 @@ Min-Max Occurence: 0-1
 Related Entity Class: [Project Type](/documentation/data-model/graph-model#project-type)<br/>
 Min-Max Occurence: 1-n
 
-<pre>
-&lt;dc:type xml:type="project-type" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#project-type">Project Type</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type xml:type="project-type" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#project-type">Project Type</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#project-type">Project Type</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:type&gt;
-</pre>
+```xml
+<dc:type xml:type="project-type" xml:lang="ger">Project Type.German Name(1)</dc:type>
+<dc:type xml:type="project-type" xml:lang="eng">Project Type.English Name(1)</dc:type>
+<dc:type xml:type="dcterms:URI">Project Type.Wikidata ID(1)</dc:type>
+```
 
 <br/>
 
@@ -869,16 +886,16 @@ Related Entity Class: [Project Category](/documentation/data-model/graph-model#p
 Min-Max Occurence: 1-n<br/>
 Note: This is an entry from a taxonomy. If a Project Category has a connection via [has broader project category](/documentation/data-model/graph-model#has-broader-project-category) to another one, the broader category is set under the previous. Further, if there are several Project Categories stemming from the same broader one, only unique values should be set.
 
-<pre>
-&lt;dc:subject xml:type="project-category" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="project-category" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="project-category-german-synonym" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#german-synonym">German Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="project-category-english-synonym" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#english-synonym">English Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#gnd-id">GND ID</a>(0-1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#aat-id">AAT ID</a>(0-1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#project-category">Project Category</a>.<a href="/documentation/data-model/graph-model#filmportalde-category-id">filmportal.de Category ID</a>(0-1)&lt;/dc:subject&gt;
-</pre>
+```xml
+<dc:subject xml:type="project-category" xml:lang="ger">Project Category.German Name(1)</dc:subject>
+<dc:subject xml:type="project-category" xml:lang="ger">Project Category.English Name(1)</dc:subject>
+<dc:subject xml:type="project-category-german-synonym" xml:lang="ger">Project Category.German Synonym(0-n)</dc:subject>
+<dc:subject xml:type="project-category-english-synonym" xml:lang="eng">Project Category.English Synonym(0-n)</dc:subject>
+<dc:subject xml:type="dcterms:URI">Project Category.Wikidata ID(1)</dc:subject>
+<dc:subject xml:type="dcterms:URI">Project Category.GND ID(0-1)</dc:subject>
+<dc:subject xml:type="dcterms:URI">Project Category.AAT ID(0-1)</dc:subject>
+<dc:subject xml:type="dcterms:URI">Project Category.filmportal.de Category ID(0-1)</dc:subject>
+```
 
 <br/>
 
@@ -891,13 +908,13 @@ Note: This is an entry from a taxonomy. If a Project Category has a connection v
 Related Entity Class: [Keyword](/documentation/data-model/graph-model#keyword)<br/>
 Min-Max Occurence: 0-n<br/>
 
-<pre>
-&lt;dc:subject xml:type="keyword-wikidata-label" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#german-wikidata-label">German Wikidata Label</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="keyword-wikidata-label" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#english-wikidata-label">English Wikidata Label</a>(1)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="keyword-wikidata-synonym" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#german-wikidata-synonym">German Wikidata Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="keyword-wikidata-synonym" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#english-wikidata-synonym">English Wikidata Synonym</a>(0-n)&lt;/dc:subject&gt;
-&lt;dc:subject xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#keyword">Keyword</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:subject&gt;
-</pre>
+```xml
+<dc:subject xml:type="keyword-wikidata-label" xml:lang="ger">Keyword.German Wikidata Label(1)</dc:subject>
+<dc:subject xml:type="keyword-wikidata-label" xml:lang="eng">Keyword.English Wikidata Label(1)</dc:subject>
+<dc:subject xml:type="keyword-wikidata-synonym" xml:lang="ger">Keyword.German Wikidata Synonym(0-n)</dc:subject>
+<dc:subject xml:type="keyword-wikidata-synonym" xml:lang="eng">Keyword.English Wikidata Synonym(0-n)</dc:subject>
+<dc:subject xml:type="dcterms:URI">Keyword.Wikidata ID(1)</dc:subject>
+```
 
 <br/>
 
@@ -910,9 +927,9 @@ Min-Max Occurence: 0-n<br/>
 Related Entity Class: [Project Description](/documentation/data-model/graph-model#project-category)<br/>
 Min-Max Occurence: 0-n
 
-<pre>
-&lt;dc:description xml:type="project-description" xml:lang="<a href="/documentation/data-model/graph-model#project-description">Project Description</a>.<a href="/documentation/data-model/graph-model#language">Language</a>.<a href="/documentation/data-model/graph-model#iso639-2b-code">ISO 639-2(B) Code</a>"&gt;<a href="/documentation/data-model/graph-model#project-description">Project Description</a>.<a href="/documentation/data-model/graph-model#description-text">Description Text</a>(1)&lt;/dc:description&gt;
-</pre>
+```xml
+<dc:description xml:type="project-description" xml:lang="Project Description.Language.ISO 639-2(B) Code">Project Description.Description Text(1)</dc:description>
+```
 
 <br/>
 
@@ -925,29 +942,29 @@ Min-Max Occurence: 0-n
 Related Entity Class: [Event](/documentation/data-model/graph-model#event)<br/>
 Min-Max Occurence: 0-n<br/>
 
-<pre>
-&lt;dc:title xml:type="event-name" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:title&gt;
-&lt;dc:title xml:type="event-name" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(0-1)&lt;/dc:title&gt;
-&lt;dc:type xml:type="event-type" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type xml:type"event-type" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#english-name">English Name</a>(1)&lt;/dc:type&gt;
-&lt;dc:type xml:type"event-type-synonym" xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#germen-synonym">German Synonym</a>(0-n)&lt;/dc:type&gt;
-&lt;dc:type xml:type"event-type-synonym" xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#english-synonym">English Synonym</a>(0-n)&lt;/dc:type&gt;
-&lt;dc:type xml:type"dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#wikidata-id">Wikidata ID</a>(1)&lt;/dc:type&gt;
-&lt;dc:type xml:type"dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#gnd-id">GND ID</a>(0-1)&lt;/dc:type&gt;
-&lt;dc:type xml:type"dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#aat-id">AAT ID</a>(0-1)&lt;/dc:type&gt;
-&lt;dc:type xml:type"dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#event-type">Event Type</a>.<a href="/documentation/data-model/graph-model#lido-terminology-id">LIDO Terminology ID</a>(0-1)&lt;/dc:type&gt;
-&lt;dc:date xml:type="event-begin"&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#event-begin">Event Begin</a>(1; if none given, the technical is taken)&lt;/dc:date&gt;
-&lt;dc:date xml:type="event-begin-estimated"&gt;<a href="/documentation/data-model/graph-model#event-begin">Event Begin</a>.<a href="/documentation/data-model/graph-model#estimation">Estimation</a>(1; true or false)&lt;/dc:date&gt;
-&lt;dc:date xml:type="event-end"&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#event-end">Event End</a>(1; if none given, the technical is taken)&lt;/dc:date&gt;
-&lt;dc:date xml:type="event-end-estimated"&gt;<a href="/documentation/data-model/graph-model#event-end">Event End</a>.<a href="/documentation/data-model/graph-model#estimation">Estimation</a>(1; true or false)&lt;/dc:date&gt;
-&lt;dc:contributor xml:type="actor"&gt;<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#event-end">Actor</a>(0-n)&lt;/dc:contributor&gt;
-&lt;dc:type xml:type="actor-rights-type"&gt;ist/is Urheber:in(1 if Urheber:in)&lt;/dc:type&gt;
-&lt;dc:rights xml:type="dcterms:URI"&gt;<a href="https://www.gesetze-im-internet.de/urhg/">https://www.gesetze-im-internet.de/urhg/</a>(1 if Urheber:in)&lt;/dc:rights&gt;
-&lt;dc:rights xml:type="dcterms:URI"&gt;<a href="https://www.gesetze-im-internet.de/englisch_urhg/">https://www.gesetze-im-internet.de/englisch_urhg/</a>(1 if Urheber:in)&lt;/dc:rights&gt;
-&lt;dc:type xml:type="actor-rights-type"&gt;ist/is Leistungsschutzinhaber:in(1 if Leistungsschutzinhaber:in)&lt;/dc:type&gt;
-&lt;dc:rights xml:type="dcterms:URI" &gt;<a href="https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377)">https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377</a>(1 if Leistungsschutzinhaber:in)&lt;/dc:rights&gt;
-&lt;dc:rights xml:type="dcterms:URI"&gt;<a href="https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0646)">https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0646</a>(1 if Leistungsschutzinhaber:in)&lt;/dc:rights&gt;
-</pre>
+```xml
+<dc:title xml:type="event-name" xml:lang="ger">Event.German Name(1)</dc:title>
+<dc:title xml:type="event-name" xml:lang="eng">Event.English Name(0-1)</dc:title>
+<dc:type xml:type="event-type" xml:lang="ger">Event Type.German Name(1)</dc:type>
+<dc:type xml:type"event-type" xml:lang="eng">Event Type.English Name(1)</dc:type>
+<dc:type xml:type"event-type-synonym" xml:lang="ger">Event Type.German Synonym(0-n)</dc:type>
+<dc:type xml:type"event-type-synonym" xml:lang="eng">Event Type.English Synonym(0-n)</dc:type>
+<dc:type xml:type"dcterms:URI">Event Type.Wikidata ID(1)</dc:type>
+<dc:type xml:type"dcterms:URI">Event Type.GND ID(0-1)</dc:type>
+<dc:type xml:type"dcterms:URI">Event Type.AAT ID(0-1)</dc:type>
+<dc:type xml:type"dcterms:URI">Event Type.LIDO Terminology ID(0-1)</dc:type>
+<dc:date xml:type="event-begin">Event.Event Begin(1; if none given, the technical is taken)</dc:date>
+<dc:date xml:type="event-begin-estimated">Event Begin.Estimation(1; true or false)</dc:date>
+<dc:date xml:type="event-end">Event.Event End(1; if none given, the technical is taken)</dc:date>
+<dc:date xml:type="event-end-estimated">Event End.Estimation(1; true or false)</dc:date>
+<dc:contributor xml:type="actor">Event.Actor(0-n)</dc:contributor>
+<dc:type xml:type="actor-rights-type">ist/is Urheber:in(1 if Urheber:in)</dc:type>
+<dc:rights xml:type="dcterms:URI">https://www.gesetze-im-internet.de/urhg/(1 if Urheber:in)</dc:rights>
+<dc:rights xml:type="dcterms:URI">https://www.gesetze-im-internet.de/englisch_urhg/(1 if Urheber:in)</dc:rights>
+<dc:type xml:type="actor-rights-type">ist/is Leistungsschutzinhaber:in(1 if Leistungsschutzinhaber:in)</dc:type>
+<dc:rights xml:type="dcterms:URI" >https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377(1 if Leistungsschutzinhaber:in)</dc:rights>
+<dc:rights xml:type="dcterms:URI">https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0646(1 if Leistungsschutzinhaber:in)</dc:rights>
+```
 
 <br/>
 
@@ -959,10 +976,7 @@ Min-Max Occurence: 0-n<br/>
 
 ```Representation: Administrative Metadata```
 
-> [!caution] Further Testing Required | Weiteres Testen benötigt
-> The element can be completely left out if only a Preservation Master is submitted. Further testing must show how the submission of a Preservation and a Modified Master behaves. | Das Element kann vollständig weggelassen werden, wenn nur ein Preservation Master übermittelt wird. Weitere Tests müssen zeigen, wie sich die gemeinsame Übermittlung eines Preservation Master und eines Modified Master verhält.
-
-<br/>
+| Das Element kann vollständig weggelassen werden, wenn nur ein Preservation Master übermittelt wird. Weitere Tests müssen zeigen, wie sich die gemeinsame Übermittlung eines Preservation Master und eines Modified Master verhält. | The element can be completely left out if only a Preservation Master is submitted. Further testing must show how the submission of a Preservation and a Modified Master behaves |
 
 **Deutsch:**
 
@@ -984,68 +998,68 @@ The administrative Representation Section has a special mediating position withi
 
 <br/>
 
-<pre>
-&lt;mets:amdSec ID="REP1-amd"&gt;(1)
-    &lt;mets:techMD ID="REP1-amd-tech"&gt;
-        &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                    &lt;section id="generalRepCharacteristics"&gt;
-                        &lt;record&gt;
-                            &lt;key id="representationType"&gt;PRESERVATION_MASTER&lt;/key&gt;
-                        &lt;/record&gt;
-                    &lt;/section&gt;
-                &lt;/dnx&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:techMD&gt;
-&lt;/mets:amdSec&gt;
-&lt;mets:amdSec ID="REP2-amd"&gt;(0-1)
-    &lt;mets:techMD ID="REP2-amd-tech"&gt;
-        &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                    &lt;section id="generalRepCharacteristics"&gt;
-                        &lt;record&gt;
-                            &lt;key id="representationType"&gt;MODIFIED_MASTER&lt;/key&gt;
-                        &lt;/record&gt;
-                    &lt;/section&gt;
-                &lt;/dnx&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:techMD&gt;
-&lt;/mets:amdSec&gt;
-&lt;mets:amdSec ID="REP3-amd"&gt;(0-n; example)
-    &lt;mets:techMD ID="REP3-amd-tech"&gt;
-        &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                    &lt;section id="generalRepCharacteristics"&gt;
-                        &lt;record&gt;
-                            &lt;key id="representationType"&gt;DERIVATIVE_COPY&lt;/key&gt;
-                        &lt;/record&gt;
-                    &lt;/section&gt;
-                &lt;/dnx&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:techMD&gt;
-&lt;/mets:amdSec&gt;
-&lt;mets:amdSec ID="REP4-amd"&gt;(example)
-    &lt;mets:techMD ID="REP4-amd-tech"&gt;
-        &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                    &lt;section id="representationType"&gt;
-                        &lt;record&gt;
-                            &lt;key id="objectType"&gt;DERIVATIVE_COPY&lt;/key&gt;
-                        &lt;/record&gt;
-                    &lt;/section&gt;
-                &lt;/dnx&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:techMD&gt;
-&lt;/mets:amdSec&gt;
-</pre>
+```xml
+<mets:amdSec ID="REP1-amd">(1)
+    <mets:techMD ID="REP1-amd-tech">
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+            <mets:xmlData>
+                <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                    <section id="generalRepCharacteristics">
+                        <record>
+                            <key id="representationType">PRESERVATION_MASTER</key>
+                        </record>
+                    </section>
+                </dnx>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:techMD>
+</mets:amdSec>
+<mets:amdSec ID="REP2-amd">(0-1)
+    <mets:techMD ID="REP2-amd-tech">
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+            <mets:xmlData>
+                <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                    <section id="generalRepCharacteristics">
+                        <record>
+                            <key id="representationType">MODIFIED_MASTER</key>
+                        </record>
+                    </section>
+                </dnx>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:techMD>
+</mets:amdSec>
+<mets:amdSec ID="REP3-amd">(0-n; example)
+    <mets:techMD ID="REP3-amd-tech">
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+            <mets:xmlData>
+                <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                    <section id="generalRepCharacteristics">
+                        <record>
+                            <key id="representationType">DERIVATIVE_COPY</key>
+                        </record>
+                    </section>
+                </dnx>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:techMD>
+</mets:amdSec>
+<mets:amdSec ID="REP4-amd">(example)
+    <mets:techMD ID="REP4-amd-tech">
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+            <mets:xmlData>
+                <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                    <section id="representationType">
+                        <record>
+                            <key id="objectType">DERIVATIVE_COPY</key>
+                        </record>
+                    </section>
+                </dnx>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:techMD>
+</mets:amdSec>
+```
 
 <br/>
 
@@ -1057,8 +1071,8 @@ The administrative Representation Section has a special mediating position withi
 
 ```Files: Administrative and Rights Metadata```
 
-> [!warning] Not used Elements | Nichtmehr verwendete Elemente
-> The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. | Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden.
+
+| Der Rechte- und technische Metadaten-Wrap werden nicht mehr verwendet, da sie mit der Rosetta-Spezifikation interferieren und zu Fehlern führen würden. Der Quell-Metadaten-Wrap kann weiterhin verwendet werden. | The rights and technical metatada wrap are not used anymore, since they interfere with the Rosetta specification and would lead to errors. The source metadata wrap can still be used. |
 
 <br/>
 
@@ -1087,25 +1101,25 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 
 <br/>
 
-<pre>
-&lt;mets:amdSec ID='FL[...]-amd'&gt;
-    &lt;mets:techMD ID="FL[...]-amd-tech"&gt;(1)
+```xml
+<mets:amdSec ID='FL[...]-amd'>
+    <mets:techMD ID="FL[...]-amd-tech">(1)
         [...]
-    &lt;/mets:techMD&gt;
-    &lt;mets:rightsMD ID="FL[...]-amd-rights"&gt;(1)
+    </mets:techMD>
+    <mets:rightsMD ID="FL[...]-amd-rights">(1)
         [...]
-    &lt;/mets:rightsMD&gt;
-    &lt;mets:sourceMD ID="FL[...]-amd-source-dc"&gt;(1)
-        &lt;mets:mdWrap MDTYPE="DC"&gt;
-            &lt;mets:xmlData&gt;
-                &lt;dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+    </mets:rightsMD>
+    <mets:sourceMD ID="FL[...]-amd-source-dc">(1)
+        <mets:mdWrap MDTYPE="DC">
+            <mets:xmlData>
+                <dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                     [...]
-                &lt;/dc:record&gt;
-            &lt;/mets:xmlData&gt;
-        &lt;/mets:mdWrap&gt;
-    &lt;/mets:sourceMD&gt;
-&lt;/mets:amdSec&gt;
-</pre>
+                </dc:record>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:sourceMD>
+</mets:amdSec>
+```
 
 <br/>
 
@@ -1113,26 +1127,26 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 
 <br/>
 
-<pre>
-&lt;mets:techMD ID="FL[...]-amd-tech"&gt;
-    &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                &lt;section id="objectCharacteristics"&gt;
-                    &lt;record&gt;
-                        &lt;key id="objectType"&gt;FILE&lt;/key&gt;
-                    &lt;/record&gt;
-                &lt;/section&gt;
-                &lt;section id="generalFileCharacteristics"&gt;
-                    &lt;record&gt;
-                        &lt;key id="label"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#file-name">File Name</a>&lt;/key&gt;
-                    &lt;/record&gt;
-                &lt;/section&gt;
-            &lt;/dnx&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:techMD&gt;
-</pre>
+```xml
+<mets:techMD ID="FL[...]-amd-tech">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+            <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                <section id="objectCharacteristics">
+                    <record>
+                        <key id="objectType">FILE</key>
+                    </record>
+                </section>
+                <section id="generalFileCharacteristics">
+                    <record>
+                        <key id="label">Digital Object.File Name</key>
+                    </record>
+                </section>
+            </dnx>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:techMD>
+```
 
 <br/>
 
@@ -1140,22 +1154,22 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 
 <br/>
 
-<pre>
-&lt;mets:rightsMD ID="FL[...]-amd-rights"&gt;
-    &lt;mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"&gt;
-                &lt;section id="linkingRightsStatementIdentifier"&gt;
-                    &lt;record&gt;
-                        &lt;key id="linkingRightsStatementIdentifier"&gt;URI&lt;/key&gt;
-                        &lt;key id="linkingRightsStatementIdentifierValue"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#uri">URI</a>&lt;/key&gt;
-                    &lt;/record&gt;
-                &lt;/section&gt;
-            &lt;/dnx&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:rightsMD&gt;
-</pre>
+```xml
+<mets:rightsMD ID="FL[...]-amd-rights">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+            <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+                <section id="linkingRightsStatementIdentifier">
+                    <record>
+                        <key id="linkingRightsStatementIdentifier">URI</key>
+                        <key id="linkingRightsStatementIdentifierValue">Digital Object.Digital Object Licence.URI</key>
+                    </record>
+                </section>
+            </dnx>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:rightsMD>
+```
 
 <br/>
 
@@ -1163,26 +1177,26 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 
 <br/>
 
-<pre>
-&lt;mets:sourceMD ID="FL[...]-amd-source-dc"&gt;
-    &lt;mets:mdWrap MDTYPE="DC"&gt;
-        &lt;mets:xmlData&gt;
-            &lt;dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
-                &lt;dc:identifier xml:type="Digital-Object-ID"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.UUID&lt;/dc:identifier&gt;
-                &lt;dc:title xml:type="file-name"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#file-name">File Name</a>&lt;/dc:title&gt;
-		&lt;dc:type xml:type="genesis-type"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#genesis-type">Genesis Type</a>&lt;/dc:type&gt;
-		&lt;dc:type xml:type="media-type"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#media-type">Media Type</a>&lt;/dc:type&gt;
-		&lt;dc:type xml:type="mimetype"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#mime-type">MIME Type</a>&lt;/dc:type&gt;
-		&lt;dc:description xml:type="significant-properties-german"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#significant-properties-german">Significant Properties (German)</a>&lt;/dc:description&gt;(0-1)
-		&lt;dc:description xml:type="significant-properties-english" &gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model##significant-properties-english">Significant Properties (English)</a>&lt;/dc:description&gt;(0-1)
-		&lt;dcterms:license xml:lang="ger"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>&lt;/dcterms:license&gt;
-		&lt;dcterms:license xml:lang="eng"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#german-name">English Name</a>&lt;/dcterms:license&gt;
-		&lt;dcterms:license xml:type="dcterms:URI"&gt;<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#digital-object-licence">Digital Object Licence</a>.<a href="/documentation/data-model/graph-model#uri">URI</a>&lt;/dcterms:license&gt;
-            &lt;/dc:record&gt;
-        &lt;/mets:xmlData&gt;
-    &lt;/mets:mdWrap&gt;
-&lt;/mets:SourceMD&gt;
-</pre>
+```xml
+<mets:sourceMD ID="FL[...]-amd-source-dc">
+    <mets:mdWrap MDTYPE="DC">
+        <mets:xmlData>
+            <dc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <dc:identifier xml:type="Digital-Object-ID">Digital Object.UUID</dc:identifier>
+                <dc:title xml:type="file-name">Digital Object.File Name</dc:title>
+		<dc:type xml:type="genesis-type">Digital Object.Genesis Type</dc:type>
+		<dc:type xml:type="media-type">Digital Object.Media Type</dc:type>
+		<dc:type xml:type="mimetype">Digital Object.MIME Type</dc:type>
+		<dc:description xml:type="significant-properties-german">Digital Object.Significant Properties (German)</dc:description>(0-1)
+		<dc:description xml:type="significant-properties-english" >Digital Object.Significant Properties (English)</dc:description>(0-1)
+		<dcterms:license xml:lang="ger">Digital Object.Digital Object Licence.German Name</dcterms:license>
+		<dcterms:license xml:lang="eng">Digital Object.Digital Object Licence.English Name</dcterms:license>
+		<dcterms:license xml:type="dcterms:URI">Digital Object.Digital Object Licence.URI</dcterms:license>
+            </dc:record>
+        </mets:xmlData>
+    </mets:mdWrap>
+</mets:SourceMD>
+```
 
 <br/>
 
@@ -1194,10 +1208,7 @@ The Administrative Section for the Files is similarly structured as the [Adminis
 
 ```File Section```
 
-> [!caution] Caution | Achtung
-> If no administrative metadata sections are created for the files, they must not be referenced. Otherwise the validation would fail. | Wenn für die Dateien keine administrativen Metadatenabschnitte erstellt werden, dürfen sie nicht referenziert werden. Andernfalls würde die Validierung fehlschlagen.
-
-<br/>
+| Wenn für die Dateien keine administrativen Metadatenabschnitte erstellt werden, dürfen sie nicht referenziert werden. Andernfalls würde die Validierung fehlschlagen. | If no administrative metadata sections are created for the files, they must not be referenced. Otherwise the validation would fail. | 
 
 **Deutsch:**
 
@@ -1219,30 +1230,30 @@ The file section (```mets:fileSec```) contains the path to the actual media file
 
 <br/>
 
-<pre>
-&lt;mets:fileSec&gt;
-    &lt;mets:fileGrp USE="VIEW" ID="REP1" AMDID="REP1-amd"&gt;
-        &lt;mets:file ID="FL1" ADMID="FL1-amd" DMDID="FL1-dmd"&gt;
-            &lt;mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.bmp" /&gt;
-        &lt;/mets:file&gt;
-    &lt;/mets:fileGrp&gt;
-    &lt;mets:fileGrp USE="VIEW" ID="REP2" AMDID="REP2-amd&gt;
-        &lt;mets:file ID="FL2" ADMID="FL2-amd" DMDID="FL2-dmd"&gt;
-            &lt;mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.tiff" /&gt;
-        &lt;/mets:file&gt;
-    &lt;/mets:fileGrp&gt;
-    &lt;mets:fileGrp ID="REP3" AMDID="REP3-amd&gt;
-        &lt;mets:file ID="FL3" ADMID="FL3-amd" DMDID="FL3-dmd"&gt;
-            &lt;mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.jpeg" /&gt;
-        &lt;/mets:file&gt;
-    &lt;/mets:fileGrp&gt;
-    &lt;mets:fileGrp USE="VIEW" ID="REP4" AMDID="REP4-amd&gt;
-        &lt;mets:file ID="FL4" ADMID="FL4-amd" DMDID="FL4-dmd"&gt;
-            &lt;mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.webp" /&gt;
-        &lt;/mets:file&gt;
-    &lt;/mets:fileGrp&gt;
-&lt;/mets:fileSec&gt;
-</pre>
+```xml
+<mets:fileSec>
+    <mets:fileGrp USE="VIEW" ID="REP1" AMDID="REP1-amd">
+        <mets:file ID="FL1" ADMID="FL1-amd" DMDID="FL1-dmd">
+            <mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.bmp" />
+        </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="VIEW" ID="REP2" AMDID="REP2-amd>
+        <mets:file ID="FL2" ADMID="FL2-amd" DMDID="FL2-dmd">
+            <mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.tiff" />
+        </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp ID="REP3" AMDID="REP3-amd>
+        <mets:file ID="FL3" ADMID="FL3-amd" DMDID="FL3-dmd">
+            <mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.jpeg" />
+        </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="VIEW" ID="REP4" AMDID="REP4-amd>
+        <mets:file ID="FL4" ADMID="FL4-amd" DMDID="FL4-dmd">
+            <mets:FLocat xmlns:xlin="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlin:href="picture.webp" />
+        </mets:file>
+    </mets:fileGrp>
+</mets:fileSec>
+```
 
 <br/>
 
@@ -1341,22 +1352,22 @@ The Structural Map (```mets:structMap```) defines how the transferred files are 
 
 <br/>
 
-<pre>
-&lt;mets:structMap ID="REP1-1" TYPE="LOGICAL"&gt;(1 for Preservation Master)
-    &lt;mets:div LABEL="<a href="/documentation/data-model/graph-model#project">Project</a>.<a href="/documentation/data-model/graph-model#preferrd-title">Preferred Title</a>"&gt;(1)
-        &lt;mets:div LABEL="<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#german-name">German Name</a>"&gt;[1-n]
-            &lt;mets:div LABEL="Preservation Master"&gt;(1)
-                &lt;mets:div LABEL="[folder name]"&gt;[0-n; displaying the folder structure if prevalent]
-                    &lt;mets:div LABEL="<a href="/documentation/data-model/graph-model#event">Event</a>.<a href="/documentation/data-model/graph-model#digital-object">Digital Object</a>.<a href="/documentation/data-model/graph-model#file-name">File Name</a>" TYPE="FILE"&gt;[1-n]
-                        &lt;mets:fptr FILEID="FL[...]"&gt;
-                        &lt;/mets:fptr&gt;
-                    &lt;/mets:div&gt;
-                &lt;/mets:div&gt;
-            &lt;/mets:div&gt;
-        &lt;/mets:div&gt;
-    &lt;/mets:div&gt;
-&lt;/mets:structMap&gt;
-</pre>
+```xml
+<mets:structMap ID="REP1-1" TYPE="LOGICAL">(1 for Preservation Master)
+    <mets:div LABEL="Project.Preferred Title">(1)
+        <mets:div LABEL="Event.German Name">[1-n]
+            <mets:div LABEL="Preservation Master">(1)
+                <mets:div LABEL="[folder name]">[0-n; displaying the folder structure if prevalent]
+                    <mets:div LABEL="Event.Digital Object.File Name" TYPE="FILE">[1-n]
+                        <mets:fptr FILEID="FL[...]">
+                        </mets:fptr>
+                    </mets:div>
+                </mets:div>
+            </mets:div>
+        </mets:div>
+    </mets:div>
+</mets:structMap>
+```
 
 <br/>
 

@@ -7,4 +7,6 @@ permalink: /rights/legal-basis
 
 `Legal Basis`
 
+<br/>
+
 Zwischen den teilnehmenden Hochschulen besteht eine Kooperationsvereinbarung, die unbefristet abgeschlossen wurde und nur durch Kündigung beendet werden kann.

@@ -6,9 +6,9 @@ permalink: /rights/
 ---
 
 <div class="link-card-container">
-
-    <a href="/rights/legal-basis" class="link-card">
+  <a href="/rights/legal-basis" class="link-card">
     <strong>Rechtliche Grundlagen</strong>
+    <span>Ein Disclaimer bezüglich der rechtlichen Zusammenarbeit.</span>
   </a>
 
   <a href="/rights/rights-faq" class="link-card">

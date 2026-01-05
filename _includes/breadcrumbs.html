@@ -34,11 +34,21 @@
         {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
+
+    {%- assign crumb_url = path -%}
+
+    {%- if matched -%}
+      {%- if matched.permalink -%}
+        {%- assign crumb_url = matched.permalink -%}
+      {%- else -%}
+        {%- assign crumb_url = matched.url -%}
+      {%- endif -%}
+    {%- endif -%}
  
     {%- if forloop.last -%}
       &nbsp;→ {{ page.title }}
     {%- else -%}
-      &nbsp;→ <a href="{{ path_slash }}">
+      &nbsp;→ <a href="{{ crumb_url }}">
         {%- if matched and matched.title -%}
           {{ matched.title }}
         {%- else -%}

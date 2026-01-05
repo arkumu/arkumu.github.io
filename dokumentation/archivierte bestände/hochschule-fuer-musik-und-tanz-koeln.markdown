@@ -15,24 +15,6 @@ permalink: /documentation/archived-holdings/hfmt-cologne
 
 <br/>
 
-**English:**
-
-The audio tape archive of the Hochschule für Musik und Tanz Köln library comprises a total of 233 audio tapes, which were digitized by a professional service provider, Tonstudio Hambrecht in Neuenbürg/Karlsruhe. This digitization process resulted in 568 audio files in .wav and .mp3 formats with a total volume of 1275 GB. The digital files can be accessed via Sciebo and are also backed up on an external hard drive at the library.   
-
-The recordings date from 1944 to 1984 and contain around 710 identified musical titles. The collection includes concert recordings from the university, class evenings, contributions to university week, some world premieres, and various radio recordings. 
-
-Since there was no archive system for media at the HfMT Cologne, the metadata was first recorded in an Excel spreadsheet. The source data consisted of an Excel spreadsheet created in 2019, listing the university's audio tapes, the library's card catalog of the audio tape collection at the time, and the audio tapes themselves. The data from the sources was first merged and then further enriched. This included the integration of standard data from VIAF, GND, and the Library of Congress Authorities to enable the unambiguous identification of persons, works, and entities. In addition, the entire collection was categorized and enriched with data in many places. In particular, where no work titles or content information were previously available, these were determined with the help of audio samples.  
-
-In order to make relationships between the various data sets visible, IDs were assigned to projects, events, and actors, which made it possible to establish numerous links within the table. Work on this version of the table continued until July 2025. 
-
-Technically it was not possible to import the recorded data directly into the arkumu.nrw repositorium. For this reason, in July 2025, Christian Sievers (KHM) developed a FileMaker database specifically for the HfMT Cologne tape archive. This enabled the complete import of the Excel data and at the same time offered the possibility of adding missing links between projects, events, actors, and other categories and consolidating the overall data structure. Thus, the FileMaker database currently forms the central working and documentation basis for the tape archive. 
-
-<br/>
-
----
-
-<br/>
-
 **Deutsch:**
 
 Das Tonbandarchiv der Bibliothek der Hochschule für Musik und Tanz Köln umfasst insgesamt 233 Tonbänder, die durch die Firma Tonstudio Hambrecht in Neuenbürg/Karlsruhe digitalisiert wurden. Im Rahmen dieses Digitalisierungsprozesses entstanden 568 Audiodateien in den Formaten .wav und .mp3 mit einem Volumen von 1.275 GB. Die digitalen Dateien sind über einen Sciebo-Speicher abrufbar und zusätzlich auf einer externen Festplatte der Bibliothek gesichert.
@@ -51,24 +33,27 @@ Ein direkter Import der erfassten Daten in das arkumu.nrw Repositorium war techn
 
 <br/>
 
-
-## Studio für elektronische Musik
-
-<br/>
-
 **English:**
 
-The original SFEM database comprises 549 works with 65 associated productions and 277 performers (as of December 2, 2025). It has an extensive collection of historically significant sound recordings as well as a large number of student projects and compositions from 1959 to the present.
+The audio tape archive of the Hochschule für Musik und Tanz Köln library comprises a total of 233 audio tapes, which were digitized by a professional service provider, Tonstudio Hambrecht in Neuenbürg/Karlsruhe. This digitization process resulted in 568 audio files in .wav and .mp3 formats with a total volume of 1275 GB. The digital files can be accessed via Sciebo and are also backed up on an external hard drive at the library.   
 
-Unlike the tape archive, the SFEM archive was already available in a FileMaker database and, in consultation with Simon Spillner, the technical director, was adapted to the project's recording system and data model so that it is compatible with the internationally used metadata standard CIDOC-CRM. Exported CSV files can be imported to the arkumu.nrw repositorium run by the ITCC at the University of Cologne. In the process, the structure of the database was cleaned up, normalized, restructured, and enriched with standard data. The vocabularies of the SFEM database were adapted to the vocabularies of arkumu.nrw to ensure a consistent and compatible database. Furthermore, roles were assigned to the actors and the mandatory fields and other data relevant to the field of music were added to the arkumu data model.
+The recordings date from 1944 to 1984 and contain around 710 identified musical titles. The collection includes concert recordings from the university, class evenings, contributions to university week, some world premieres, and various radio recordings. 
 
-At the start of working on the files associated with the metadata, all files were given unique and meaningful file names. To ensure long-term archiving, a total of 910 files were converted from a partially preserved SD2 format to the open WAV format. This conversion ensures the long-term usability of the audio data. In addition, a format validation of all files was carried out. As a result, several hundred additional files were transcoded or renamed, or given the correct file extension.
+Since there was no archive system for media at the HfMT Cologne, the metadata was first recorded in an Excel spreadsheet. The source data consisted of an Excel spreadsheet created in 2019, listing the university's audio tapes, the library's card catalog of the audio tape collection at the time, and the audio tapes themselves. The data from the sources was first merged and then further enriched. This included the integration of standard data from VIAF, GND, and the Library of Congress Authorities to enable the unambiguous identification of persons, works, and entities. In addition, the entire collection was categorized and enriched with data in many places. In particular, where no work titles or content information were previously available, these were determined with the help of audio samples.  
 
-The SFEM data scheduled for delivery at the end of the project comprises a total of 549 works, 277 actors, 1,166 events, 480 audio tapes, and 3,235 files with a volume of 330 GB.
+In order to make relationships between the various data sets visible, IDs were assigned to projects, events, and actors, which made it possible to establish numerous links within the table. Work on this version of the table continued until July 2025. 
 
+Technically it was not possible to import the recorded data directly into the arkumu.nrw repositorium. For this reason, in July 2025, Christian Sievers (KHM) developed a FileMaker database specifically for the HfMT Cologne tape archive. This enabled the complete import of the Excel data and at the same time offered the possibility of adding missing links between projects, events, actors, and other categories and consolidating the overall data structure. Thus, the FileMaker database currently forms the central working and documentation basis for the tape archive. 
+
+<br/>
 <br/>
 
 ---
+
+<br/>
+<br/>
+
+## Studio für elektronische Musik
 
 <br/>
 
@@ -83,3 +68,18 @@ Zu Beginn der Arbeit an den zu den Metadaten dazugehörigen Dateien wurden alle 
 Die zum Projektende für die Einlieferung vorgesehenen Daten des SFEM umfassen insgesamt 549 Werke, 277 Akteur:innen, 1166 Ereignisse, 480 Tonbänder und 3235 Dateien in einem Volumen von 330 GB.
 
 <br/>
+
+---
+
+<br/>
+
+
+**English:**
+
+The original SFEM database comprises 549 works with 65 associated productions and 277 performers (as of December 2, 2025). It has an extensive collection of historically significant sound recordings as well as a large number of student projects and compositions from 1959 to the present.
+
+Unlike the tape archive, the SFEM archive was already available in a FileMaker database and, in consultation with Simon Spillner, the technical director, was adapted to the project's recording system and data model so that it is compatible with the internationally used metadata standard CIDOC-CRM. Exported CSV files can be imported to the arkumu.nrw repositorium run by the ITCC at the University of Cologne. In the process, the structure of the database was cleaned up, normalized, restructured, and enriched with standard data. The vocabularies of the SFEM database were adapted to the vocabularies of arkumu.nrw to ensure a consistent and compatible database. Furthermore, roles were assigned to the actors and the mandatory fields and other data relevant to the field of music were added to the arkumu data model.
+
+At the start of working on the files associated with the metadata, all files were given unique and meaningful file names. To ensure long-term archiving, a total of 910 files were converted from a partially preserved SD2 format to the open WAV format. This conversion ensures the long-term usability of the audio data. In addition, a format validation of all files was carried out. As a result, several hundred additional files were transcoded or renamed, or given the correct file extension.
+
+The SFEM data scheduled for delivery at the end of the project comprises a total of 549 works, 277 actors, 1,166 events, 480 audio tapes, and 3,235 files with a volume of 330 GB.

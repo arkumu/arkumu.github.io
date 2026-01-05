@@ -5,9 +5,13 @@ order: 3.1.3
 permalink: /documentation/data-model/cidoc-conversion
 ---
 
-```arkumu to CIDOC mapping```
+```CIDOC Conversion```
 
 <br/>
+
+<div id="information-card-index" class="link-card" style="margin-bottom: 4%">
+<sub>ⓘ Bitte beachten Sie, dass diese Seite einen Arbeitsstand vom 23.12.2025 zeigt. Daher ist diese Seite nur auf Englisch verfügbar.</sub><br/><sub>ⓘ Please note that this page shows the status of work as of December 23, 2025. Therefore, this page is only available in English.</sub>
+</div>
 
 ---
 
@@ -121,9 +125,11 @@ Values in square brackets are subproperties according to the [Table of Propertie
 
 **Note(s):**
 * Since **E40 Legal Body** was deprecated, the migration instruction of the [official documentation](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf) was followed, that they should be treated as a [**E74** Group](http://cidoc-crm.org/cidoc-crm/7.1.3/E74_Group):
-  | <sub>Deprecated Class</sub> | <sub>Migration Instruction</sub> |
-  |------------------|-----------------------|
-  | <sub>E40 Legal Body</sub> | <sub>use E74 Group</sub> |
+
+| <sub>Deprecated Class</sub> | <sub>Migration Instruction</sub> |
+|------------------|-----------------------|
+| <sub>E40 Legal Body</sub> | <sub>use E74 Group</sub> |
+
 * **Alternative Name** (Alternativer Name) **was renamed to Alternative Name(s)** (Alternative Name(n)), to better express that more than one value can be entered.
 * **Following Title** (Nachgestellter Titel) **was renamed to Trailing Title**. The German naming remains unchanged.
 * **For Preceding Title** (Vorangestelter Titel) **and Trailing Title** (Nachgestellter Titel) **property** [**P1** is identified by (identifies)](http://cidoc-crm.org/cidoc-crm/7.1.3/P1_is_identified_by) **is used**, since they are treated as name prefixes or suffixes, and not pointing at a controlled vocabulary.
@@ -395,17 +401,6 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 <br/>
 
-**RDF Representations:**
-
-| Format | File |
-|--------|------|
-| Turtle | [https://raw.githubusercontent.com/arkumu/RDF-Metadata-Examples/refs/heads/main/EventType.ttl](https://gitlab.git.nrw/arkumu/arkumu-rdf-samples/-/raw/main/EventType.ttl) |
-| RDF/XML | [https://raw.githubusercontent.com/arkumu/RDF-Metadata-Examples/refs/heads/main/EventType.xml](https://gitlab.git.nrw/arkumu/arkumu-rdf-samples/-/raw/main/EventType.xml) |
-| JSON-LD Conversion | [https://raw.githubusercontent.com/arkumu/RDF-Metadata-Examples/refs/heads/main/EventType.json](https://gitlab.git.nrw/arkumu/arkumu-rdf-samples/-/raw/main/EventType.json) |
-
-<br/>
-<br/>
-
 ---
 
 <br/>
@@ -472,6 +467,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 
 **Additional Properties**:
+
 | <sub>German Name of Additional Property</sub> | <sub>English Name of Additional Property</sub> | <sub>Min-Max Occurence</sub> | <sub>CRM Property</sub> | <sub>CRM Entity</sub> |
 ------------|------------|-----------|--------------|------------|
 | <sub>Originalsprache(n)</sub> | <sub>Original Language(s)</sub> | <sub>0-n</sub> | <sub>**P128** carries (is carried by) ⇒<br/>**P72** has language (is language of)</sub> | <sub>**E33** Linguistic Object ⇒<br/>**E56** Language</sub> |
@@ -492,11 +488,12 @@ Values in square brackets are subproperties according to the [Table of Propertie
 
 **Note(s)**:
 * Since **E84** Information Carrier was deprecated, the migration instruction of the official documentation was followed, in that [**E22** Human-Made Object](http://cidoc-crm.org/cidoc-crm/7.1.3/E22_Human-Made_Object) should be used:
-  | <sub>Deprecated Class</sub> | <sub>Migration Instruction</sub> |
-  |------------------|-----------------------|
-  | <sub>E84 Information Carrier</sub> | <sub>use E22 Human-Made Object, P2 has type: “Information Carrier”</sub> |
 
-  If arkumu will also follow the recommendation of using the type is open to discussion, since the entity name already describes what type of physical human-made object is being presented here.
+| <sub>Deprecated Class</sub> | <sub>Migration Instruction</sub> |
+|------------------|-----------------------|
+| <sub>E84 Information Carrier</sub> | <sub>use E22 Human-Made Object, P2 has type: “Information Carrier”</sub> |
+
+If arkumu will also follow the recommendation of using the type is open to discussion, since the entity name already describes what type of physical human-made object is being presented here.
 
 <br/>
 <br/>
@@ -571,17 +568,6 @@ Values in square brackets are subproperties according to the [Table of Propertie
 <br/>
 
 [![Graphical Schema Representation Keyword](/assets/images/Keyword_CIDOC.drawio.png)](/assets/images/Keyword_CIDOC.drawio.png)
-
-<br/>
-<br/>
-
-**RDF Representations:**
-
-| Format | File |
-|--------|------|
-| Turtle | [https://raw.githubusercontent.com/arkumu/RDF-Metadata-Examples/refs/heads/main/Keyword.ttl](https://gitlab.git.nrw/arkumu/arkumu-rdf-samples/-/raw/main/Keyword.ttl) |
-| RDF/XML | [https://raw.githubusercontent.com/arkumu/RDF-Metadata-Examples/refs/heads/main/Keyword.xml](https://gitlab.git.nrw/arkumu/arkumu-rdf-samples/-/raw/main/Keyword.xml) |
-| JSON-LD Conversion | [https://raw.githubusercontent.com/arkumu/RDF-Metadata-Examples/refs/heads/main/Keyword.json](https://gitlab.git.nrw/arkumu/arkumu-rdf-samples/-/raw/main/Keyword.json) |
 
 <br/>
 <br/>
