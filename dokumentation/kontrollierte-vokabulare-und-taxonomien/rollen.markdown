@@ -3946,8 +3946,8 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **GND ID (female)** | [7587363-1](https://d-nb.info/gnd/7587363-1) |
 | **German Breadcrumb** | [Kirchenmusiker:in](#role-404) |
 | **English Breadcrumb** | [church musician](#role-404) |
-| **Pre-selects "ist Urheber:in" automatically** | (to be determined) |
-| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | (to be determined) |
+| **Pre-selects "ist Urheber:in" automatically** | ⨉ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ✓ |
 
 <br/>
 <br/>
@@ -4271,9 +4271,9 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **English Synonyms** | comic book creator,comic illustrator,comic book artist,comic artist,comic strip artist,graphic novel artist,letterer |
 | **Wikidata ID** | [Q715301](https://www.wikidata.org/entity/Q715301) |
 | **AAT ID** | [300438810](https://vocab.getty.edu/aat/300438810) |
-| **Parent Role** | [draftsperson](#role-389) |
-| **German Breadcrumb** | [Künstler:in](#role-119) > [Grafiker:in](#role-385) > [Zeichner:in](#role-389) > [Comiczeichner:in](#role-390) |
-| **English Breadcrumb** | [artist](#role-119) > [graphic artist](#role-385) > [draftsperson](#role-389) > [comics artist](#role-390) |
+| **Parent Role** | [draftsperson](#role-385) |
+| **German Breadcrumb** | [Künstler:in](#role-119) > [Grafiker:in](#role-385) > [Comiczeichner:in](#role-390) |
+| **English Breadcrumb** | [artist](#role-119) > [graphic artist](#role-385) > [comics artist](#role-390) |
 | **Pre-selects "ist Urheber:in" automatically** | ✓ |
 | **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ⨉ |
 
@@ -5897,8 +5897,8 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **Parent Role** | [designer](#role-44) |
 | **German Breadcrumb** | [Designer:in](#role-44) > [Modedesigner:in](#role-387) |
 | **English Breadcrumb** | [designer](#role-44) > [fashion designer](#role-387) |
-| **Pre-selects "ist Urheber:in" automatically** | (to be determined) |
-| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | (to be determined) |
+| **Pre-selects "ist Urheber:in" automatically** | ✓ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | x |
 
 <br/>
 <br/>
@@ -6111,8 +6111,8 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **GND ID (female)** | [1045033634](https://d-nb.info/gnd/1045033634) |
 | **German Breadcrumb** | [Lehrbeauftragte:r](#role-402) |
 | **English Breadcrumb** | [freelance instructor](#role-402) |
-| **Pre-selects "ist Urheber:in" automatically** | (to be determined) |
-| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | (to be determined) |
+| **Pre-selects "ist Urheber:in" automatically** | x |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | x |
 
 <br/>
 <br/>
@@ -9732,8 +9732,8 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **Wikidata ID** | [Q133080](https://www.wikidata.org/entity/Q133080) |
 | **German Breadcrumb** | [Öffentlichkeitsarbeit](#role-400) |
 | **English Breadcrumb** | [public relations](#role-400) |
-| **Pre-selects "ist Urheber:in" automatically** | (to be determined) |
-| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | (to be determined) |
+| **Pre-selects "ist Urheber:in" automatically** | ⨉ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ⨉ |
 
 <br/>
 <br/>
@@ -10513,8 +10513,8 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **GND ID (group)** | [4138438-6](https://d-nb.info/gnd/4138438-6) |
 | **German Breadcrumb** | [Liedbegleitung](#role-401) |
 | **English Breadcrumb** | [song accompaniment](#role-401) |
-| **Pre-selects "ist Urheber:in" automatically** | (to be determined) |
-| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | (to be determined) |
+| **Pre-selects "ist Urheber:in" automatically** | ⨉ |
+| **Pre-selects "besitzt Leistungsschutzrechte" automatically** | ✓ |
 
 <br/>
 <br/>
