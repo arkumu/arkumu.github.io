@@ -135,7 +135,7 @@ arkumu-1-RSH-1/
 **Deutsch:**
 
 Metadaten-Dateien nach dem Rosetta-METS-Standard bestehen aus mehreren Abschnitten. Jene Abschnitte, die in der [offiziellen Dokumentation](https://knowledge.exlibrisgroup.com/Rosetta/Product_Documentation/Rosetta_AIP_Data_Model/03_METS_%E2%80%93_Metadata_Encoding_and_Transmission_Standard) als Pflichtelemente definiert sind, sind hier mit einer „(1)“ oder einer „(1-n)“ markiert. Grob unterschieden wird im Inhalt dieser XML-Datei zwischen deskriptiven Metadaten („Descriptive Metadata“, ```dmd```), die beschreibende Angaben enthalten, sowie, im Fall von arkumu.nrw, auch Rechtsmetadaten; und administrativen Metadaten („Administrative Metadata“, ```amd```), die vor allem für die Verwalter:innen der jeweiligen Repositorien von Bedeutung sind. Die deskriptiven Metadaten können im Rosetta-System gesucht und gefiltert, exportiert und sogar, mit den entsprechenden Rechten, bearbeitet werden. Im letzterem Fall wird eine neue METS-Datei erstellt, dass der originale Inhalt der Übertragung jederzeit nachvollziehbar bleibt. Auf der administrativen Ebene werden Zugangs- und Nutzungsrechte geregelt und noch einmal Rechte des geistigen Eigentums dargelegt sowie Quellmetadaten transferiert und technische Informationen übermittelt. Auch hier lassen sich einige Daten später bearbeiten. Viele administrative Metadaten werden von Rosetta jedoch automatisch angelegt. Für arkumu.nrw aber, wo ein möglichst automatisierter Prozess der Übermittlung stattfinden soll, werden bereits vor dem Ingest nach Rosetta entscheidende Daten vollständig mitangegeben.<br/>
-Zudem wird unterschieden zwischen Metadaten für die „intellektuelle Einheit“ („Intellectual Entity“, ```ie```), die Daten über das Projekt und die verknüpften Ereignisse enthält, und den Metadaten zu den Dateien („Files“, ```FL```). Eine Zwischenpostion zu diesen beiden nimmt die Repräsentationsebene (```REP```) ein. Uaf deren administrativer Ebene wird geregelt, in welchen Erhaltungsformen das zu übertragende Projekt über die Inhalte in den Ereignissen vorliegt. Dabei muss es eine ```REP1-amd``` geben, auch wenn keine Mediendaten übermittelt werden. Optional kann es weitere geben: maximal eine für einen Modified Master und mehrere für Derivatkopien (Nutzer:innenkopien). Diese werden mit den Datein in der „File Section“ (```mets:fileSec```) verknüpft, und über die „Structural Map“ (```mets:stuctMap```) so vorbereitet, dass sie auch in der Anzeige von Rosetta wie in arkumu.nrw, bzw. in ihrer übertragenen Ordnerstruktur angezeigt werden.<br/>
+Zudem wird unterschieden zwischen Metadaten für die „intellektuelle Einheit“ („Intellectual Entity“, ```ie```), die Daten über das Projekt und die verknüpften Ereignisse enthält, und den Metadaten zu den Dateien („Files“, ```FL```). Eine Zwischenpostion zu diesen beiden nimmt die Repräsentationsebene (```REP```) ein. Uaf deren administrativer Ebene wird geregelt, in welchen Erhaltungsformen das zu übertragende Projekt über die Inhalte in den Ereignissen vorliegt. Dabei muss es eine ```REP1-amd``` geben, auch wenn keine Mediendaten übermittelt werden. Optional kann es weitere geben: maximal eine für einen Modified Master und mehrere für Derivatkopien (Nutzer:innenkopien). Diese werden mit den Datein in der „File Section“ (```mets:fileSec```) verknüpft, und über die „Structural Map“ (```mets:structMap```) so vorbereitet, dass sie auch in der Anzeige von Rosetta wie in arkumu.nrw, bzw. in ihrer übertragenen Ordnerstruktur angezeigt werden.<br/>
 Die verwendete XML-Version muss ```1.0``` sein und als Kodierung ```utf-8``` eingetragen sein. 
 
 <br/>
@@ -305,7 +305,7 @@ The descriptive metadata section, on a itellectual entity level, holds the descr
 
 **Deutsch:**
 
-Die folgenden Felder aus dem arkumu.nrw-Datenmodell sollten in der unten angegebenen Reihenfolge erscheinen. Für dieses grundlegende Metadatenformat wurde so weit wie möglich mit den grundlegenden Dublin-Core-Elementen gearbeitet, anstatt großumfänglich das „Dublin Core Terms“-Vokabular zu nutzen. Das Fehlen von Attributen ist ebenfalls völlig beabsichtigt, da diese beim Einlesen der Metadaten in Rosetta Probleme verursacht haben. Zum besseren Verständnis der Daten, wird die ursprüngliche Version mit Attributen über den „Source Metadata Wrap“ (```mets:SourceMS```) im Abschnitt der [administrativen Metadaten der Intellektuellen Einheit”](#6-itellectual-entity-administrative-and-rights-metadata) übertragen.
+Die folgenden Felder aus dem arkumu.nrw-Datenmodell sollten in der unten angegebenen Reihenfolge erscheinen. Für dieses grundlegende Metadatenformat wurde so weit wie möglich mit den grundlegenden Dublin-Core-Elementen gearbeitet, anstatt großumfänglich das „Dublin Core Terms“-Vokabular zu nutzen. Das Fehlen von Attributen ist ebenfalls völlig beabsichtigt, da diese beim Einlesen der Metadaten in Rosetta Probleme verursacht haben. Zum besseren Verständnis der Daten, wird die ursprüngliche Version mit Attributen über den „Source Metadata Wrap“ (```mets:SourceMD```) im Abschnitt der [administrativen Metadaten der Intellektuellen Einheit”](#6-itellectual-entity-administrative-and-rights-metadata) übertragen.
 
 <br/>
 
@@ -315,7 +315,7 @@ Die folgenden Felder aus dem arkumu.nrw-Datenmodell sollten in der unten angegeb
 
 **English:**
 
-The following fields from the arkumu.nrw Data Model should appear in the order specified below. For this basic metadata format, as much as possible was done with elementary Dublin Core elements, rather than using the Dublin Core Terms vocabulary extensively. The lack of attributes is also completely intentional, as they caused problems when ingesting the metadata into Rosetta. For better understanding of the data, the original version with attributes is transferred via the Source Metadata Wrap (```mets:SourceMS``` ) in the [Administrative Metadata Section of the Intellectual Entity](#6-itellectual-entity-administrative-and-rights-metadata).
+The following fields from the arkumu.nrw Data Model should appear in the order specified below. For this basic metadata format, as much as possible was done with elementary Dublin Core elements, rather than using the Dublin Core Terms vocabulary extensively. The lack of attributes is also completely intentional, as they caused problems when ingesting the metadata into Rosetta. For better understanding of the data, the original version with attributes is transferred via the Source Metadata Wrap (```mets:SourceMD``` ) in the [Administrative Metadata Section of the Intellectual Entity](#6-itellectual-entity-administrative-and-rights-metadata).
 
 <br/>
 
@@ -722,7 +722,7 @@ The Technical Metadata Wrap uses Rosetta's own DNX metadata format. To express t
 
 **Deutsch:**
 
-Der Abschnitt zu den Rechte-Metadaten zeigt den [Rechtstatus] des Projekts an (/documentation/data-model/graph-model#rights-status). Die ```section``` ist immer mit ```linkingRightsStatementIdentifier``` gekennzeichnet, um die Verknüpfung zu einem externen Rechtsdokument außerhalb von Rosetta vorzubereiten. Bei Projekten, die durch das deutsche Urheberrecht und Leistungsschutzrecht geschützt sind, verweisen die ```records```s auf den deutschen und englischen Gesetzestext des UrhG, bei freien Projekten können sie auf die [Kein Urheberrechtsschutz - Andere rechtliche Beschränkungen](https://rightsstatements.org/page/NoC-OKLR/1.0/?language=de)-Erklärung von [Rights Statements](https://rightsstatements.org/) zeigen. Der ```linkingRightsStatementIdentifier``` ist immer ```URI```, das ```linkingRightsStatementIdentifierValue``` enthält den tatsächlichen Link.
+Der Abschnitt zu den Rechte-Metadaten zeigt den [Rechtstatus](/documentation/data-model/graph-model#rights-status) des Projekts an. Die ```section``` ist immer mit ```linkingRightsStatementIdentifier``` gekennzeichnet, um die Verknüpfung zu einem externen Rechtsdokument außerhalb von Rosetta vorzubereiten. Bei Projekten, die durch das deutsche Urheberrecht und Leistungsschutzrecht geschützt sind, verweisen die ```records```s auf den deutschen und englischen Gesetzestext des UrhG, bei freien Projekten können sie auf die [Kein Urheberrechtsschutz - Andere rechtliche Beschränkungen](https://rightsstatements.org/page/NoC-OKLR/1.0/?language=de)-Erklärung von [Rights Statements](https://rightsstatements.org/) zeigen. Der ```linkingRightsStatementIdentifier``` ist immer ```URI```, das ```linkingRightsStatementIdentifierValue``` enthält den tatsächlichen Link.
 
 <br/>
 
@@ -946,13 +946,13 @@ Min-Max Occurence: 0-n<br/>
 <dc:title xml:type="event-name" xml:lang="ger">Event.German Name(1)</dc:title>
 <dc:title xml:type="event-name" xml:lang="eng">Event.English Name(0-1)</dc:title>
 <dc:type xml:type="event-type" xml:lang="ger">Event Type.German Name(1)</dc:type>
-<dc:type xml:type"event-type" xml:lang="eng">Event Type.English Name(1)</dc:type>
-<dc:type xml:type"event-type-synonym" xml:lang="ger">Event Type.German Synonym(0-n)</dc:type>
-<dc:type xml:type"event-type-synonym" xml:lang="eng">Event Type.English Synonym(0-n)</dc:type>
-<dc:type xml:type"dcterms:URI">Event Type.Wikidata ID(1)</dc:type>
-<dc:type xml:type"dcterms:URI">Event Type.GND ID(0-1)</dc:type>
-<dc:type xml:type"dcterms:URI">Event Type.AAT ID(0-1)</dc:type>
-<dc:type xml:type"dcterms:URI">Event Type.LIDO Terminology ID(0-1)</dc:type>
+<dc:type xml:type="event-type" xml:lang="eng">Event Type.English Name(1)</dc:type>
+<dc:type xml:type="event-type-synonym" xml:lang="ger">Event Type.German Synonym(0-n)</dc:type>
+<dc:type xml:type="event-type-synonym" xml:lang="eng">Event Type.English Synonym(0-n)</dc:type>
+<dc:type xml:type="dcterms:URI">Event Type.Wikidata ID(1)</dc:type>
+<dc:type xml:type="dcterms:URI">Event Type.GND ID(0-1)</dc:type>
+<dc:type xml:type="dcterms:URI">Event Type.AAT ID(0-1)</dc:type>
+<dc:type xml:type="dcterms:URI">Event Type.LIDO Terminology ID(0-1)</dc:type>
 <dc:date xml:type="event-begin">Event.Event Begin(1; if none given, the technical is taken)</dc:date>
 <dc:date xml:type="event-begin-estimated">Event Begin.Estimation(1; true or false)</dc:date>
 <dc:date xml:type="event-end">Event.Event End(1; if none given, the technical is taken)</dc:date>

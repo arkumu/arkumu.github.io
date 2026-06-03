@@ -263,7 +263,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 | **English Description** | A metadata entry from the controlled vocabulary of [Wikidata](https://www.wikidata.org/). |
 | **German Description** | Ein Metadaten-Eintrag aus dem kontrollierten Vokabular von [Wikidata](https://www.wikidata.org/). |
 | **Properties (English Naming)** | [has german wikidata label](#has-german-wikidata-label) ⇒ [German Wikidata Label](#german-wikidata-label)<br/>[has english wikidata label](#has-english-wikidata-label) ⇒ [English Wikidata Label](#english-wikidata-label)<br/>[has german wikidata synonym](#has-german-wikidata-synonym) ⇒ [German Wikidata Synonym](#german-wikidata-synonym)<br/>[has english wikidata synonym](#has-english-wikidata-synonym) ⇒ [English Wikidata Synonym](#english-wikidata-synonym)<br/>[has german wikidata description](#has-german-wikidata-description) ⇒ [German Wikidata Description](#german-wikidata-description)<br/>[has german wikidata description](#has-german-wikidata-description) ⇒ [German Wikidata Description](#german-wikidata-description)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id) |
-| **Properties (German Naming)** | [hat deutsches wikidata-label](#has-german-wikidata-label) ⇒ [Deutsches Wikidata-Label](#german-wikidata-label)<br/>[hat englisches wikidata-label](#has-english-wikidata-label) ⇒ [Englishes Wikidata-Label](#english-wikidata-label)<br/>[hat deutsches wikidata-synonym](#has-german-wikidata-synonym) ⇒ [Deutsches Wikidata-Synonym](#german-wikidata-synonym)<br/>[hat englisches wikidata-synonym](#has-english-wikidata-synonym) ⇒ [Englishes Wikidata-Synonym](#english-wikidata-synonym)<br/>[hat deutsche wikidata-beschreibung](#has-german-wikidata-description) ⇒ [Deutsche Wikidata-Beschreibung](#german-wikidata-description)<br/>[hat englische wikidata-beschreibung](#has-german-wikidata-description) ⇒ [Englische Wikidata-Beschreibung](#german-wikidata-description)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id) |
+| **Properties (German Naming)** | [hat deutsches wikidata-label](#has-german-wikidata-label) ⇒ [Deutsches Wikidata-Label](#german-wikidata-label)<br/>[hat englisches wikidata-label](#has-english-wikidata-label) ⇒ [Englisches Wikidata-Label](#english-wikidata-label)<br/>[hat deutsches wikidata-synonym](#has-german-wikidata-synonym) ⇒ [Deutsches Wikidata-Synonym](#german-wikidata-synonym)<br/>[hat englisches wikidata-synonym](#has-english-wikidata-synonym) ⇒ [Englisches Wikidata-Synonym](#english-wikidata-synonym)<br/>[hat deutsche wikidata-beschreibung](#has-german-wikidata-description) ⇒ [Deutsche Wikidata-Beschreibung](#german-wikidata-description)<br/>[hat englische wikidata-beschreibung](#has-german-wikidata-description) ⇒ [Englische Wikidata-Beschreibung](#german-wikidata-description)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id) |
 
 <br/>
 <br/>
@@ -311,7 +311,7 @@ Entity Classes represent the core unique building blocks of the arkumu.nrw Data 
 | **English Description** | A place metadata entry from the controlled vocabulary of [Wikidata](https://www.wikidata.org/). Only "real" places are acceptable, i.e. they must be identifiable with geolocation coordinates. |
 | **German Description** | Ein Ort-Metadaten-Eintrag aus dem kontrollierten Vokabular von [Wikidata](https://www.wikidata.org/). Nur "reale" Orte sind erlaubt, d.h. sie müssen mit Geokoordinaten identifierbar sein. |
 | **Properties (English Naming)** | [has german wikidata label](#has-german-wikidata-label) ⇒ [German Wikidata Label](#german-wikidata-label)<br/>[has english wikidata label](#has-english-wikidata-label) ⇒ [English Wikidata Label](#english-wikidata-label)<br/>[has place type](#has-place-type) ⇒ [Place Type](#place-type)<br/>[has Wikidata ID](#has-wikidata-id) ⇒ [Wikidata ID](#wikidata-id)<br/>[has GND ID](#has-gnd-id) ⇒ [GND ID](#gnd-id)<br/>[has VIAF ID](#has-viaf-id) ⇒ [VIAF ID](#viaf-id)<br/>[has longitude](#has-longitude) ⇒ [Longitude](#longitude)<br/>[has latitude](#has-latitude) ⇒ [Latitude](#latitude)<br/>[has broader place](#has-broader-place) ⇒ [Place](#place) |
-| **Properties (German Naming)** | [hat deutsches wikidata-label](#has-german-wikidata-label) ⇒ [Deutsches Wikidata-Label](#german-wikidata-label)<br/>[hat englisches wikidata-label](#has-english-wikidata-label) ⇒ [Englishes Wikidata-Label](#english-wikidata-label)<br/>[hat ortart](#has-place-type) ⇒ [Ortart](#place-type)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat VIAF-id](#has-viaf-id) ⇒ [VIAF-ID](#viaf-id)<br/>[hat längengrad](#has-longitude) ⇒ [Längengrad](#longitude)<br/>[hat breitengrad](#has-latitude) ⇒ [Breitengrad](#latitude)<br/>[hat übergeordneten Ort](#has-broader-place) ⇒ [Ort](#place) |
+| **Properties (German Naming)** | [hat deutsches wikidata-label](#has-german-wikidata-label) ⇒ [Deutsches Wikidata-Label](#german-wikidata-label)<br/>[hat englisches wikidata-label](#has-english-wikidata-label) ⇒ [Englisches Wikidata-Label](#english-wikidata-label)<br/>[hat ortart](#has-place-type) ⇒ [Ortart](#place-type)<br/>[hat Wikidata-id](#has-wikidata-id) ⇒ [Wikidata-ID](#wikidata-id)<br/>[hat GND-nummer](#has-gnd-id) ⇒ [GND-Nummer](#gnd-id)<br/>[hat VIAF-id](#has-viaf-id) ⇒ [VIAF-ID](#viaf-id)<br/>[hat längengrad](#has-longitude) ⇒ [Längengrad](#longitude)<br/>[hat breitengrad](#has-latitude) ⇒ [Breitengrad](#latitude)<br/>[hat übergeordneten Ort](#has-broader-place) ⇒ [Ort](#place) |
 
 <br/>
 <br/>
@@ -995,7 +995,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |||
 |-----------|-----------|
 | **English Name of Class** | English Wikidata Label |
-| **German Name of Class** | Englishes Wikidata-Label |
+| **German Name of Class** | Englisches Wikidata-Label |
 | **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-wikidata-label> |
 | **English Description** |  |
 | **German Description** |  |
@@ -1008,7 +1008,7 @@ Field Classes represent parts of the arkumu.nrw data model that can appear in di
 |||
 |-----------|-----------|
 | **English Name of Class** | English Wikidata Synonym |
-| **German Name of Class** | Englishes Wikidata-Synonym |
+| **German Name of Class** | Englisches Wikidata-Synonym |
 | **URI** | <https://docs.arkumu.nrw/documentation/data-model/graph-model#english-wikidata-synonym> |
 | **English Description** |  |
 | **German Description** |  |

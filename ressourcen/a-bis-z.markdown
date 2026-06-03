@@ -90,7 +90,7 @@ Eine Web-Applikation als Teil des [Web- und Arbeitsrepositoriums](/documentation
 ----
 
 ### Informationsträger
-Siehe: [Ereignis: Informationsträger] (ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-informationsträger)
+Siehe: [Ereignis: Informationsträger](ressourcen/entitaeten-und-attribute-des-datenmodells.html#ereignis-informationsträger)
 
 ----
 
@@ -131,7 +131,7 @@ Orte werden an vielen Stellen im System benutzt, z. B. um anzuzeigen, wo ein Ere
 ----
 
 ### Physisches Objekt
-Siehe: [Ereignis: Physische Objekte] (/resources/entitaeten-und-attribute-des-datenmodells.html#ereignis-physische-objekte)
+Siehe: [Ereignis: Physische Objekte](/resources/entitaeten-und-attribute-des-datenmodells.html#ereignis-physische-objekte)
 
 ----
 

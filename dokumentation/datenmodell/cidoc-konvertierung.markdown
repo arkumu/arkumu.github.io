@@ -252,7 +252,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | German Name of Source Field | English Name of Source Field | Min-Max Occurence | CRM Property | CRM Entity |
 |-----------------------------|------------------------------|-----------|--------------|------------|
 | Deutsche (Produkt-)Bezeichnung | German (Product-)Naming | 1 | **P1** is identified by (identifies) | **E41** Appellation |
-| Englishe (Produkt-)Bezeichnung | English (Product-)Naming | 1 | **P1** is identified by (identifies) | **E41** Appellation |
+| Englische (Produkt-)Bezeichnung | English (Product-)Naming | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Hersteller | Producer | 0-1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Equipmentart | Equipment Type | 1 | **P2** has type (is type of) | **E55** Type |
 | Deutsche Beschreibung | German Description | 0-1 | **P3** has note | **E62** String |
@@ -377,7 +377,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | Deutscher Name | German Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Englischer Name | English Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Deutsche Synonym(e) | German Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | [German Name] ⇒<br/>**E41** Appellation |
-| Englishe Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | [English Name] ⇒<br/>**E41** Appellation |
+| Englische Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | [English Name] ⇒<br/>**E41** Appellation |
 | Wikidata-ID | Wikidata ID | 1 | **P1** is identified by (identifies) | **E42** Identifier |
 | GND-Nummer | GND ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | AAT-ID | AAT ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
@@ -445,7 +445,7 @@ Values in square brackets are subproperties according to the [Table of Propertie
 | German Name of Source Field | English Name of Source Field | Min-Max Occurence | CRM Property | CRM Entity |
 |-----------------------------|------------------------------|-----------|--------------|------------|
 | Deutsche (Produkt-)Bezeichnung | German (Product-)Naming | 1 | **P1** is identified by (identifies) | **E41** Appellation |
-| Englishe (Produkt-)Bezeichnung | English (Product-)Naming | 1 | **P1** is identified by (identifies) | **E41** Appellation |
+| Englische (Produkt-)Bezeichnung | English (Product-)Naming | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Label (Handelsmarke) | Label | 0-1 |  |  |
 | Informationsträgertyp | Information Storage Medium Type | 1 | **P2** has type (is type of) | **E55** Type |
 | Produkt-ID | Product-ID | 0-n |  |  |
@@ -517,7 +517,7 @@ If arkumu will also follow the recommendation of using the type is open to discu
 | Deutscher Name | German Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Englischer Name | English Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Deutsche Synonym(e) | German Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
-| Englishe Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
+| Englische Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
 | Wikidata-ID | Wikidata ID | 1 | **P1** is identified by (identifies) | **E42** Identifier |
 | GND-Nummer | GND ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | AAT-ID | AAT ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
@@ -546,9 +546,9 @@ If arkumu will also follow the recommendation of using the type is open to discu
 | Deutsches Wikidata-Label | German Wikidata Label | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Englisches Wikidata-Label | English Wikidata Label | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Deutsche Wikidata-Synonym(e) | German Wikidata Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
-| Englishe Wikidata-Synonym(e) | English Wikidata Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
+| Englische Wikidata-Synonym(e) | English Wikidata Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
 | Deutsche Wikidata-Beschreibung | German Wikidata Description | 1 | **P3** has note | **E62** String |
-| Englishe Wikidata-Beschreibung | English Wikidata Description | 1 | **P3** has note | **E62** String |
+| Englische Wikidata-Beschreibung | English Wikidata Description | 1 | **P3** has note | **E62** String |
 | Wikidata-ID | Wikidata ID | 1 | **P48** has preferred identifier (is preferred identifier of) | **E42** Identifier |
 | GND-Nummer | GND ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | Schlagwortart | Keyword Type | 1-n | **P2** has type (is type of) | **E55** Type |
@@ -556,7 +556,7 @@ If arkumu will also follow the recommendation of using the type is open to discu
 <br/>
 
 **Note(s)**:
-* The fields **German Synonyms** (Deutsche Synonyme) and **English Synonyms** (Englische Synonyme) got a reference that they are also from Wikidata, and **are now named German Wikidata Synonym(s)** (Deutsche Wikidata-Synonym(e)) and **English Wikidata Synonym(s)** (Englische Wikidata-Synonym(e)). The same is applicable for the fields **German Wikidata Description** (Deutsche Wikidata-Beschreibung) and **English Wikidata Description** (Englishe Wikidata-Beschreibung).
+* The fields **German Synonyms** (Deutsche Synonyme) and **English Synonyms** (Englische Synonyme) got a reference that they are also from Wikidata, and **are now named German Wikidata Synonym(s)** (Deutsche Wikidata-Synonym(e)) and **English Wikidata Synonym(s)** (Englische Wikidata-Synonym(e)). The same is applicable for the fields **German Wikidata Description** (Deutsche Wikidata-Beschreibung) and **English Wikidata Description** (Englische Wikidata-Beschreibung).
 * The **German Wikidata Synonyms** and **English Wikidata Synonyms** **are directly connected to their corresponding Wikidata Labels**, via the property [**P139** has alternative form (is alternative form of)](http://cidoc-crm.org/cidoc-crm/7.1.3/P139_has_alternative_form).
 * The **new field Keyword Type** (Schlagwortart) defines in which type of fields this keyword should be shown in. The Options are e.g. "project_keyword", "material_keyword", "technique_keyword", "digital_object_keyword", etc. The Keyword Type is technically necessary, cause on creation, the keyword must be available to one field using it, but can be available to many fields. Keyword type does not need a seperate entity, cause there is no underlying metadata. Its use is for the arkumu system only.
 
@@ -831,7 +831,7 @@ If arkumu will also follow the recommendation of using the type is open to discu
 | Deutscher Name | German Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Englischer Name | English Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Deutsche Synonym(e) | German Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | [German Name] ⇒<br/>**E41** Appellation |
-| Englishe Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | [English Name] ⇒<br/>**E41** Appellation |
+| Englische Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | [English Name] ⇒<br/>**E41** Appellation |
 | Wikidata-ID | Wikidata ID | 1 | **P48** has preferred identifier (is preferred identifier of) | **E42** Identifier |
 | GND-Nummer | GND ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | AAT-ID | AAT ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
@@ -868,7 +868,7 @@ If arkumu will also follow the recommendation of using the type is open to discu
 | Deutscher Name | German Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Englischer Name | English Name | 1 | **P1** is identified by (identifies) | **E41** Appellation |
 | Deutsche Synonym(e) | German Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
-| Englishe Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
+| Englische Synonym(e) | English Synonym(s) | 0-n | **P139** has alternative form (is alternative form of) | **E41** Appellation |
 | Wikidata-ID | Wikidata ID | 1 | **P48** has preferred identifier (is preferred identifier of) | **E42** Identifier |
 | GND-Nummer | GND ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
 | AAT-ID | AAT ID | 0-1 | **P1** is identified by (identifies) | **E42** Identifier |
