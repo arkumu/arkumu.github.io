@@ -35,13 +35,18 @@ To reflect the full range of professions and activities, arkumu.nrw is not limit
 
 <br/>
 
-Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der folgenden Tabellen. Bitte gleichen Sie daher das Markdown stets mit den hier bereitgestellten Tabellen ab. Neu sind die Rollen "Klangregisseur:in", "Wasserinstrumentspieler:in" und "Synthesizerspieler:in". Als neues deutsches Synonym ist "Stimme" zum Eintrag "Vokalist:in" hinzugekommen. | Please note: The Markdown below is more up-to-date than the content of the following tables. Therefore, please always compare the Markdown with the tables provided here. New roles include "sound director", "water instrument player", and "synthesizer player". A new German synonym, "Stimme" (voice), has been added to the entry "vocalist". |
+Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte Ansicht des Vokabulars verweisen, die extern gehostet wird. Künstlerische Rollen sollten getrennt aufgeführt werden von "globalen Rollen" oder Berufen, die nur für die biographische Beschreibungen verwendet werden. Damit würde diese Rollen-Taxonomie universeller im Kulturerbe-Bereich einsetzbar.| Please note: In future, this page will link to an automatically generated, externally hosted view of this vocabulary. Artistic roles should be separated from non-artistic "global roles" or professions, which are only used for biographical descriptions. This would make this taxonomy more universally applicable in the field of cultural heritage. |
 
 | Format | Link | Last Updated |
 |-----------|-----------|-----------|
+| **SKOS/RDF** | <https://docs.arkumu.nrw/assets/documents/___.rdf> | _TODO_ |
+| **SKOS/Turtle** | <https://docs.arkumu.nrw/assets/documents/___.ttl> | _TODO_ |
+| **Excel** | <https://docs.arkumu.nrw/assets/documents/Roles.xlsx> | _TODO_ |
 | **CSV** | <https://docs.arkumu.nrw/assets/documents/Roles.csv> | 2025-10-16 |
 | **Excel** | <https://docs.arkumu.nrw/assets/documents/Roles.xlsx> | 2025-10-16 |
 | **PDF** | <https://docs.arkumu.nrw/assets/documents/Roles.pdf> | 2025-10-16 |
+
+
 
 <br/>
 
@@ -11067,9 +11072,9 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **ID** | 407 |
 | **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-407`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-407) |
 | **English Name** | synthesizer player |
-| **German Name** | Synthesizer Spieler:in |
+| **German Name** | Synthesizer-Spieler:in |
 | **English Synonyms** | - |
-| **Wikidata ID** | - |
+| **Wikidata ID** | [Q140130557](http://www.wikidata.org/entity/Q140130557) |
 | **Parent Role** | [musician](#role-160) |
 | **German Breadcrumb** | [Musiker:in](#role-160) > [Synthesizer Spieler:inspieler:in](#role-407) |
 | **English Breadcrumb** | [musician](#role-160) > [synthesizer player](#role-407) |
@@ -12332,7 +12337,7 @@ Bitte beachten Sie: Das unten stehende Markdown ist aktueller als der Inhalt der
 | **English Name** | water instrument player |
 | **German Name** | Wasserinstrumentspieler:in |
 | **English Synonyms** | - |
-| **Wikidata ID** | - |
+| **Wikidata ID** | [Q140130459](https://www.wikidata.org/entity/Q140130459) |
 | **Parent Role** | [musician](#role-160) |
 | **German Breadcrumb** | [Musiker:in](#role-160) > [Wasserinstrumentspieler:inspieler:in](#role-406) |
 | **English Breadcrumb** | [musician](#role-160) > [water instrument player](#role-406) |
