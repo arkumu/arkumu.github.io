@@ -11074,7 +11074,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 | **English Name** | synthesizer player |
 | **German Name** | Synthesizer-Spieler:in |
 | **English Synonyms** | - |
-| **Wikidata ID** | [Q140130557](http://www.wikidata.org/entity/Q140130557) |
+| **Wikidata ID** | [Q11308619](http://www.wikidata.org/entity/Q11308619) |
 | **Parent Role** | [musician](#role-160) |
 | **German Breadcrumb** | [Musiker:in](#role-160) > [Synthesizer Spieler:inspieler:in](#role-407) |
 | **English Breadcrumb** | [musician](#role-160) > [synthesizer player](#role-407) |
