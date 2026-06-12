@@ -33,11 +33,41 @@ In arkumu.nrw, controlled vocabularies appear primarily in two forms: value list
 <br/>
 <br/>
 
+
+---
+
+
+## Hinweis
+
+**Deutsch:**
+
+Im Rahmen einer Überarbeitung werden 2026 alle Vokabulare nach SKOS konvertiert. Dabei werden diese konsolidiert und logisch validiert. Auf dieser Seite werden nur noch Links zu den an anderer Stelle gehosteten Vokabularen zugänglich gemacht werden, ohne deren Inhalte noch einmal zu wiederholen.
+
+Der Workflow ist dieser: Vokabulare werden als .ods gepflegt und mit einer Anwendung wie https://xls2rdf.sparna.fr/web/convert nach .ttl konvertiert. 
+
+Hinweis: Die Aussage skos:exactMatch trifft nicht unbedingt immer zu. Bei einer redaktionellen Überarbeitung aller Einträge würde sich wahrscheinlich bei einzelnen zeigen, dass skos:closeMatch besser zutrifft.
+
+<br/>
+
 ---
 
 <br/>
+
+**English:**
+
+
+As part of a restructuring process, all vocabularies will be converted to SKOS in 2026. During this process, they will be consolidated and logically validated. This page will only provide links to vocabularies hosted elsewhere, without repeating their content.
+
+The workflow is as follows: Vocabularies are maintained as .ods files and converted to .ttl using an application such as https://xls2rdf.sparna.fr/web/convert.
+
+NB: The skos:exactMatch property does not necessarily always apply. During an editorial review of all entries, it would likely become apparent for some that skos:closeMatch is a better fit.
+
+
 <br/>
 
+---
+
+<br/>
 
 ## Wertelisten
 
