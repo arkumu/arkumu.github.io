@@ -17,8 +17,7 @@ permalink: /documentation/controlled-vocabularies/genders
 
 **Deutsch:**
 
-Dieses Vokabular wird hauptsächlich verwendet, um das Geschlecht von Personen auf kontrollierte Weise zu beschreiben. Ist das Geschlecht einer Person nicht bekannt, soll es nicht explizit angegeben werden, oder handelt es sich bei dem Akteur um eine Gruppe bzw. ein Gremium, kann das Feld leer gelassen werden.
-Dennoch wurde dieses Vokabular erweitert, um in beiden Fällen eine explizite Kategorisierung zu ermöglichen.
+Dieses Vokabular beschreibt das Geschlecht von Personen. Ist das Geschlecht einer Person nicht bekannt, soll es nicht angegeben werden, oder handelt es sich bei dem Akteur um eine Gruppe, kann das Feld leer gelassen werden.
 
 <br/>
 
@@ -28,7 +27,7 @@ Dennoch wurde dieses Vokabular erweitert, um in beiden Fällen eine explizite Ka
 
 **English:**
 
-This vocabulary is mainly used to describe the gender of persons in a controlled manner. If the gender of a person is not known, should not be made explicit or if the Actor is a group or body in General, the selection can be left empty. This vocabulary was nonetheless extended to allow – for both cases – for  a more explicit categorisation.
+This vocabulary describes the gender of persons. If the gender of a person is not known, should not be made explicit or if the Actor is a group or body in General, the selection can be left empty.
 
 <br/>
 <br/>
