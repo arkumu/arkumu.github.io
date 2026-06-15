@@ -25,7 +25,7 @@ Organisationseinheiten umfassen – in Form eines kontrollierten Vokabulars – 
 
 **English:**
 
-Organizational Units include—using a controlled vocabulary—degree programs, research institutes, or archives of the contributing universities. Units belonging to external universities are represented through the Organizational Unit [Cooperations](#organisational-unit-213). Organizational units have no legal function within arkumu.nrw. Rather, they serve as metadata and help assign records within the contributing institution.
+Organisational Units include—using a controlled vocabulary—degree programs, research institutes, or archives of the contributing universities. Units belonging to external universities are represented through the Organisational Unit [Cooperations](#organisational-unit-213). Organisational units have no legal function within arkumu.nrw. Rather, they serve as metadata and help assign records within the contributing institution.
 
 <br/>
 

@@ -343,14 +343,14 @@ Values in square brackets are subproperties according to the [Table of Propertie
 * **Physical Object(s)** points to: [Physical Object](#physical-object)
 * **Information Storage Medium(s)** points to: [Information Storage Medium](#information-storage-medium)
 * **Related Event(s)** points to: [Event](#event)
-* **Depositor Reference** points to: [Organizational Unit](#organizational-unit)
+* **Depositor Reference** points to: [Organisational Unit](#Organisational-unit)
 
 **Note(s):**
 * **Event Name** (Ereginisname) **was replaced with two fields German Name** (Deutscher Name) **and English Name** (Englischer Name), to reflect events that have both German and English names, as well as holding the possibility open to add synonyms of that names in the future, if this feature is wanted.
 * **GND ID was renamed to (GND-Nummer) in German**, to fit with the common use of that term in the source institution istelsef. The English naming remains unchanged.
 * **The deprecated field Additional Authority Files** ('Weitere Normdaten') **was reinitiated, because it is in use at the Folkwang University of the Arts!**
 * **ID at Depositor** (Datensatz-ID beim Einlieferer) **was renamed to Data Record ID(s) at Depositor** (Datensatz-ID(s) beim Einlieferer), to let the English name more closely resemble the German version.
-* **Depositor** (Einlieferer) **was renamed to Depositor Reference** (Einlieferer-Verweis), to more closely resemble that an [**Organizational Unit**](#organizational-unit) is used, and that they are an intance of **E55** Type.
+* **Depositor** (Einlieferer) **was renamed to Depositor Reference** (Einlieferer-Verweis), to more closely resemble that an [**Organisational Unit**](#Organisational-unit) is used, and that they are an intance of **E55** Type.
 * **Data Set Created at Depositor** (Datum Datensatz-Erstellung beim Einlieferer) **was renamed to Data Record Creation Date at Depositor** (Datensatz-Erstellungdatum beim Einliefer), to harmonize both their names in German and English.
 * **Data Set Last Modified at Depositor** (Datum Datensatz-Modifikation beim Einlieferer) **was renamed to Data Record Last Modification Date at Depositor** (Letztes Datensatz-Änderungsdatum beim Einliefer), to harmonize both their names in German and English.
 * **Data Record Creation Date at Depositor** (Datensatz-Erstellungdatum beim Einliefer) **and Data Record Last Modification Date at Depositor** (Letztes Datensatz-Änderungsdatum beim Einliefer) **need to be part of their respective automatically created activities**, to keep them consistent with other entities using similar fields. The activities are **"Data Record Creation at Depositor"** ("Datensatzerstellung beim Einlieferer") and **"Data Record Last Modification at Depositor"** ("Letzte Datensatz-Modifikation beim Einlieferer").
@@ -603,7 +603,7 @@ If arkumu will also follow the recommendation of using the type is open to discu
 <br/>
 <br/>
 
-## Organizational Unit
+## Organisational Unit
 
 <br/>
 
@@ -623,7 +623,7 @@ If arkumu will also follow the recommendation of using the type is open to discu
 <br/>
 
 **Note(s):**
-* **Organizational Units are not considered **[**Actors**](#actor)** within arkumu.nrw.** Since the mandatory rights for long-term preservation and for making projects accessible to the public and cultural heritage partners must be granted at the university level, there is no need to treat organizational units as separate actors in CIDOC CRM. Instead they are simply a controlled vocabulary of institutions, organizations, and study programs at the consortial universities.
+* **Organisational Units are not considered **[**Actors**](#actor)** within arkumu.nrw.** Since the mandatory rights for long-term preservation and for making projects accessible to the public and cultural heritage partners must be granted at the university level, there is no need to treat Organisational units as separate actors in CIDOC CRM. Instead they are simply a controlled vocabulary of institutions, organizations, and study programs at the consortial universities.
 * **The field University** (Hochschule) **is not needed anymore**, since relationships can be expressed in the ontological model. Since multiple universities can be parents now, the category "Cooperation" is also not needed anymore.
 
 <br/>

@@ -43,7 +43,7 @@ In arkumu.nrw, controlled vocabularies appear primarily in two forms: value list
 
 Im Rahmen einer Überarbeitung werden 2026 alle Vokabulare nach SKOS konvertiert. Dabei werden diese konsolidiert und logisch validiert. Auf dieser Seite werden nur noch Links zu den an anderer Stelle gehosteten Vokabularen zugänglich gemacht werden, ohne deren Inhalte noch einmal zu wiederholen.
 
-Der Workflow ist dieser: Vokabulare werden als .ods gepflegt und mit einer Anwendung wie https://xls2rdf.sparna.fr/web/convert nach .ttl konvertiert. 
+Der Workflow ist dieser: Vokabulare werden als .xlsx gepflegt und mit einer Anwendung wie https://xls2rdf.sparna.fr/web/convert nach .ttl konvertiert. 
 
 Hinweis: Die Aussage skos:exactMatch trifft nicht unbedingt immer zu. Bei einer redaktionellen Überarbeitung aller Einträge würde sich wahrscheinlich bei einzelnen zeigen, dass skos:closeMatch besser zutrifft.
 
@@ -58,7 +58,7 @@ Hinweis: Die Aussage skos:exactMatch trifft nicht unbedingt immer zu. Bei einer 
 
 As part of a restructuring process, all vocabularies will be converted to SKOS in 2026. During this process, they will be consolidated and logically validated. This page will only provide links to vocabularies hosted elsewhere, without repeating their content.
 
-The workflow is as follows: Vocabularies are maintained as .ods files and converted to .ttl using an application such as https://xls2rdf.sparna.fr/web/convert.
+The workflow is as follows: Vocabularies are maintained as .xlsx files and converted to .ttl using an application such as https://xls2rdf.sparna.fr/web/convert.
 
 NB: The skos:exactMatch property does not necessarily always apply. During an editorial review of all entries, it would likely become apparent for some that skos:closeMatch is a better fit.
 
@@ -127,7 +127,7 @@ Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestell
 
 **English:**
 
-axonomies organize concepts hierarchically. They can be represented as a tree structure, where concepts branch from less specific to more specific ones. To keep the system easily compatible with relational databases, arkumu.nrw does not use ontological structures. However, this means that in the [project categories](/documentation/controlled-vocabularies/project-categories), a term can appear in multiple hierarchies simultaneously.
+Taxonomies organise concepts hierarchically. They can be represented as a tree structure, where concepts branch from less specific to more specific ones. To keep the system easily compatible with relational databases, arkumu.nrw does not use ontological structures. However, this means that in the [project categories](/documentation/controlled-vocabularies/project-categories), a term can appear in multiple hierarchies simultaneously.
 
 <br/>
 <br/>
