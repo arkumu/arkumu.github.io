@@ -27,7 +27,7 @@ Dagegen zählen digitalisierte Aufnahmen von Tonbändern oder Schallplatten sowi
 
 **English:**
 
-The Genesis Type indicates whether a digital object was originally created in digital form or whether it is a digitized copy of an existing Information Storage Medium. This distinction is important, since a digital photo of a design object could also be interpreted as a retro-digitisation of an already existing object that carries information. But in the sense of arkumu.nrw, this digital photo would be classified as "Born Digital" instead, while digitized recordings from tapes or records, or scans of sketches, posters or books are all classified as "Retro-Digitised".
+The Genesis Type indicates whether a digital object was originally created in digital form or whether it is a digitised copy of an existing Information Storage Medium. This distinction is important, since a digital photo of a design object could also be interpreted as a retro-digitisation of an already existing object that carries information. But in the sense of arkumu.nrw, this digital photo would be classified as "Born Digital" instead, while digitised recordings from tapes or records, or scans of sketches, posters or books are all classified as "Retro-Digitised".
 
 <br/>
 <br/>

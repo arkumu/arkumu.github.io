@@ -35,7 +35,7 @@ Ein direkter Import der erfassten Daten in das arkumu.nrw Repositorium war techn
 
 **English:**
 
-The audio tape archive of the Hochschule für Musik und Tanz Köln library comprises a total of 233 audio tapes, which were digitized by a professional service provider, Tonstudio Hambrecht in Neuenbürg/Karlsruhe. This digitization process resulted in 568 audio files in .wav and .mp3 formats with a total volume of 1275 GB. The digital files can be accessed via Sciebo and are also backed up on an external hard drive at the library.   
+The audio tape archive of the Hochschule für Musik und Tanz Köln library comprises a total of 233 audio tapes, which were digitised by a professional service provider, Tonstudio Hambrecht in Neuenbürg/Karlsruhe. This digitisation process resulted in 568 audio files in .wav and .mp3 formats with a total volume of 1275 GB. The digital files can be accessed via Sciebo and are also backed up on an external hard drive at the library.   
 
 The recordings date from 1944 to 1984 and contain around 710 identified musical titles. The collection includes concert recordings from the university, class evenings, contributions to university week, some world premieres, and various radio recordings. 
 

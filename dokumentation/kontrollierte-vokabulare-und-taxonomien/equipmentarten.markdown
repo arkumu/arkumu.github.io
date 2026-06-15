@@ -26,7 +26,7 @@ Equipmentarten erlauben eine grobe Kategorisierung von Equipment und Software, d
 
 **English:**
 
-Equipment types allow for a general categorization of equipment and software used in the creation of artistic projects or in other events—for example, during the digitization of a historical vinyl record.
+Equipment types allow for a general categorization of equipment and software used in the creation of artistic projects or in other events—for example, during the digitisation of a historical vinyl record.
 
 <br/>
 

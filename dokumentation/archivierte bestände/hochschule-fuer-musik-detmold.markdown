@@ -45,8 +45,8 @@ As of December 2025, the Access database contains metadata and digital objects f
 
 **Magnetic Tapes:**
 
-The digitization and metadata capture of the Erich Thienhaus Institute (ETI)'s magnetic tape archive was also continued within the framework of arkumu.nrw. Prior to the start of the project, approximately 2,000 magnetic tapes had already been digitized by the ETI and provided with metadata.
+The digitisation and metadata capture of the Erich Thienhaus Institute (ETI)'s magnetic tape archive was also continued within the framework of arkumu.nrw. Prior to the start of the project, approximately 2,000 magnetic tapes had already been digitised by the ETI and provided with metadata.
 
 From June 2024 onward, metadata for more than 700 additional magnetic tapes has been recorded in an Excel spreadsheet. For 66 of these tapes, the metadata was then transferred into a relational structure using the Access database based on the arkumu.nrw data model and made ingest-ready for the arkumu system. A further 23 magnetic tapes were gathered directly in Access in a relational structure. Overall, the complete database now contains more than 110 projects and events that can be associated with these magnetic tapes.
 
-All magnetic tapes gathered within the project timeframe have been digitized by student assistants and stored on a hard drive, which by the end of the project contains audio and image files from 775 tapes.
+All magnetic tapes gathered within the project timeframe have been digitised by student assistants and stored on a hard drive, which by the end of the project contains audio and image files from 775 tapes.
