@@ -9,178 +9,30 @@ permalink: /documentation/controlled-vocabularies/equipment-types
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/equipment-types](http://w3id.org/arkumu/equipment-types)
 
 ---
-
-<br/>
 
 **Deutsch:**
 
-Equipmentarten erlauben eine grobe Kategorisierung von Equipment und Software, die bei der Erstellung künstlerischer Projekte oder bei anderen Ereignissen verwendet wurden – zum Beispiel bei der Digitalisierung einer historischen Schallplatte.
+Equipmentarten erlauben eine grobe Kategorisierung von Equipment oder Software, die bei der Erstellung künstlerischer Projekte oder bei anderen Ereignissen verwendet wurden – zum Beispiel bei der Digitalisierung einer historischen Schallplatte.
+
+Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
 
 <br/>
 
 ---
-
-<br/>
 
 **English:**
 
-Equipment types allow for a general categorization of equipment and software used in the creation of artistic projects or in other events—for example, during the digitisation of a historical vinyl record.
+Equipment types allow for a general categorization of equipment or software used in the creation of artistic projects or in other events — for example during the digitisation of a historical vinyl record.
+
+The vocabulary initially created is listed below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
 
 <br/>
 
 ---
 
-<br/>
-
-| Format | Link | Last Updated |
-|-----------|-----------|-----------|
-| **CSV** | <https://docs.arkumu.nrw/assets/documents/Equipment_Types.csv> | 2025-11-02 |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Equipment_Types.xlsx> | 2025-11-02 |
-| **PDF** | <https://docs.arkumu.nrw/assets/documents/Equipment_Types.pdf> | 2025-11-02 |
-
-<br/>
-
----
-
-<br/>
-
-<details><summary>Equipment Types ordered by ID | Equipmentarten nach ID geordnet</summary>
-<table>
-<tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='#equipment-type-1'>1</a></td><td><a href='#equipment-type-1'>3D-Drucker</a></td><td><a href='#equipment-type-1'>3D Printer</a></td></tr>
-<tr><td><a href='#equipment-type-2'>2</a></td><td><a href='#equipment-type-2'>3D-Scanner</a></td><td><a href='#equipment-type-2'>3D Scanner</a></td></tr>
-<tr><td><a href='#equipment-type-3'>3</a></td><td><a href='#equipment-type-3'>Abtastnadel</a></td><td><a href='#equipment-type-3'>Phonograph Needle</a></td></tr>
-<tr><td><a href='#equipment-type-4'>4</a></td><td><a href='#equipment-type-4'>Beamer</a></td><td><a href='#equipment-type-4'>Video Projector</a></td></tr>
-<tr><td><a href='#equipment-type-5'>5</a></td><td><a href='#equipment-type-5'>Drucker</a></td><td><a href='#equipment-type-5'>Printer</a></td></tr>
-<tr><td><a href='#equipment-type-6'>6</a></td><td><a href='#equipment-type-6'>Flachbildscanner</a></td><td><a href='#equipment-type-6'>Flatbed Scanner</a></td></tr>
-<tr><td><a href='#equipment-type-7'>7</a></td><td><a href='#equipment-type-7'>Fotokamera</a></td><td><a href='#equipment-type-7'>Photographic Camera</a></td></tr>
-<tr><td><a href='#equipment-type-8'>8</a></td><td><a href='#equipment-type-8'>Fräse</a></td><td><a href='#equipment-type-8'>Milling Machine</a></td></tr>
-<tr><td><a href='#equipment-type-9'>9</a></td><td><a href='#equipment-type-9'>Lautsprecher</a></td><td><a href='#equipment-type-9'>Loudspeaker</a></td></tr>
-<tr><td><a href='#equipment-type-10'>10</a></td><td><a href='#equipment-type-10'>Mikrofon</a></td><td><a href='#equipment-type-10'>Microphone</a></td></tr>
-<tr><td><a href='#equipment-type-11'>11</a></td><td><a href='#equipment-type-11'>Mischpult</a></td><td><a href='#equipment-type-11'>Mixer</a></td></tr>
-<tr><td><a href='#equipment-type-12'>12</a></td><td><a href='#equipment-type-12'>Musikinstrument</a></td><td><a href='#equipment-type-12'>Musical Instrument</a></td></tr>
-<tr><td><a href='#equipment-type-13'>13</a></td><td><a href='#equipment-type-13'>Plug-In</a></td><td><a href='#equipment-type-13'>Plug-In</a></td></tr>
-<tr><td><a href='#equipment-type-14'>14</a></td><td><a href='#equipment-type-14'>Samplebibliothek</a></td><td><a href='#equipment-type-14'>Sample Library</a></td></tr>
-<tr><td><a href='#equipment-type-15'>15</a></td><td><a href='#equipment-type-15'>Server</a></td><td><a href='#equipment-type-15'>Server</a></td></tr>
-<tr><td><a href='#equipment-type-16'>16</a></td><td><a href='#equipment-type-16'>Software</a></td><td><a href='#equipment-type-16'>Software</a></td></tr>
-<tr><td><a href='#equipment-type-17'>17</a></td><td><a href='#equipment-type-17'>Tonabnehmer</a></td><td><a href='#equipment-type-17'>Pickup</a></td></tr>
-<tr><td><a href='#equipment-type-18'>18</a></td><td><a href='#equipment-type-18'>Videokamera</a></td><td><a href='#equipment-type-18'>Video Camera</a></td></tr>
-<tr><td><a href='#equipment-type-19'>19</a></td><td><a href='#equipment-type-19'>Vorstufe</a></td><td><a href='#equipment-type-19'>Preamp</a></td></tr>
-<tr><td><a href='#equipment-type-20'>20</a></td><td><a href='#equipment-type-20'>VR-Headset</a></td><td><a href='#equipment-type-20'>VR Headset</a></td></tr>
-<tr><td><a href='#equipment-type-21'>21</a></td><td><a href='#equipment-type-21'>Wandler</a></td><td><a href='#equipment-type-21'>Transducer</a></td></tr>
-<tr><td><a href='#equipment-type-22'>22</a></td><td><a href='#equipment-type-22'>Archéophone</a></td><td><a href='#equipment-type-22'>Archéophone</a></td></tr>
-<tr><td><a href='#equipment-type-23'>23</a></td><td><a href='#equipment-type-23'>Streaming-Box</a></td><td><a href='#equipment-type-23'>Streaming Box</a></td></tr>
-<tr><td><a href='#equipment-type-24'>24</a></td><td><a href='#equipment-type-24'>Bildschirm</a></td><td><a href='#equipment-type-24'>Electronic Visual Display</a></td></tr>
-<tr><td><a href='#equipment-type-25'>25</a></td><td><a href='#equipment-type-25'>Einplatinencomputer</a></td><td><a href='#equipment-type-25'>Single Board Computer</a></td></tr>
-<tr><td><a href='#equipment-type-26'>26</a></td><td><a href='#equipment-type-26'>Computer</a></td><td><a href='#equipment-type-26'>Computer</a></td></tr>
-<tr><td><a href='#equipment-type-27'>27</a></td><td><a href='#equipment-type-27'>Mikrocontroller</a></td><td><a href='#equipment-type-27'>Microcontroller</a></td></tr>
-<tr><td><a href='#equipment-type-28'>28</a></td><td><a href='#equipment-type-28'>Smartphone</a></td><td><a href='#equipment-type-28'>Smartphone</a></td></tr>
-<tr><td><a href='#equipment-type-29'>29</a></td><td><a href='#equipment-type-29'>Internet</a></td><td><a href='#equipment-type-29'>Internet</a></td></tr>
-<tr><td><a href='#equipment-type-30'>30</a></td><td><a href='#equipment-type-30'>Audioequipment</a></td><td><a href='#equipment-type-30'>Audio Equipment</a></td></tr>
-<tr><td><a href='#equipment-type-31'>31</a></td><td><a href='#equipment-type-31'>Audiorekorder</a></td><td><a href='#equipment-type-31'>Sound Recording Device</a></td></tr>
-<tr><td><a href='#equipment-type-32'>32</a></td><td><a href='#equipment-type-32'>Datenträger</a></td><td><a href='#equipment-type-32'>Information Carrier</a></td></tr>
-<tr><td><a href='#equipment-type-33'>33</a></td><td><a href='#equipment-type-33'>Diaprojektor</a></td><td><a href='#equipment-type-33'>Slide Projector</a></td></tr>
-<tr><td><a href='#equipment-type-34'>34</a></td><td><a href='#equipment-type-34'>Media Player</a></td><td><a href='#equipment-type-34'>Digital Media Player</a></td></tr>
-<tr><td><a href='#equipment-type-35'>35</a></td><td><a href='#equipment-type-35'>Digitalkamera</a></td><td><a href='#equipment-type-35'>Digital Camera</a></td></tr>
-<tr><td><a href='#equipment-type-36'>36</a></td><td><a href='#equipment-type-36'>Drohne</a></td><td><a href='#equipment-type-36'>Unmanned Aerial Vehicle</a></td></tr>
-<tr><td><a href='#equipment-type-37'>37</a></td><td><a href='#equipment-type-37'>Eingabegerät</a></td><td><a href='#equipment-type-37'>Input Device</a></td></tr>
-<tr><td><a href='#equipment-type-38'>38</a></td><td><a href='#equipment-type-38'>elektronisches Gerät</a></td><td><a href='#equipment-type-38'>Electronic Device</a></td></tr>
-<tr><td><a href='#equipment-type-39'>39</a></td><td><a href='#equipment-type-39'>Filmkamera</a></td><td><a href='#equipment-type-39'>Movie Camera</a></td></tr>
-<tr><td><a href='#equipment-type-40'>40</a></td><td><a href='#equipment-type-40'>Kamerazubehör</a></td><td><a href='#equipment-type-40'>Additional Camera Equipment</a></td></tr>
-<tr><td><a href='#equipment-type-41'>41</a></td><td><a href='#equipment-type-41'>Kopfhörer</a></td><td><a href='#equipment-type-41'>Headphones</a></td></tr>
-<tr><td><a href='#equipment-type-42'>42</a></td><td><a href='#equipment-type-42'>Lichtequipment</a></td><td><a href='#equipment-type-42'>Lighting Equipment</a></td></tr>
-<tr><td><a href='#equipment-type-43'>43</a></td><td><a href='#equipment-type-43'>Objektiv</a></td><td><a href='#equipment-type-43'>Objective (Optics)</a></td></tr>
-<tr><td><a href='#equipment-type-44'>44</a></td><td><a href='#equipment-type-44'>Roboter</a></td><td><a href='#equipment-type-44'>Robot</a></td></tr>
-<tr><td><a href='#equipment-type-45'>45</a></td><td><a href='#equipment-type-45'>Sensor</a></td><td><a href='#equipment-type-45'>Sensor</a></td></tr>
-<tr><td><a href='#equipment-type-46'>46</a></td><td><a href='#equipment-type-46'>Sonstiges Equipment</a></td><td><a href='#equipment-type-46'>Other Equipment</a></td></tr>
-<tr><td><a href='#equipment-type-47'>47</a></td><td><a href='#equipment-type-47'>Stativ</a></td><td><a href='#equipment-type-47'>Tripod</a></td></tr>
-<tr><td><a href='#equipment-type-48'>48</a></td><td><a href='#equipment-type-48'>Stromquelle</a></td><td><a href='#equipment-type-48'>Electric Power Source</a></td></tr>
-<tr><td><a href='#equipment-type-49'>49</a></td><td><a href='#equipment-type-49'>Studioequipment</a></td><td><a href='#equipment-type-49'>Studio Equipment</a></td></tr>
-<tr><td><a href='#equipment-type-50'>50</a></td><td><a href='#equipment-type-50'>Tabletcomputer</a></td><td><a href='#equipment-type-50'>Tablet Computer</a></td></tr>
-<tr><td><a href='#equipment-type-51'>51</a></td><td><a href='#equipment-type-51'>Werkzeug</a></td><td><a href='#equipment-type-51'>Physical Tool</a></td></tr>
-<tr><td><a href='#equipment-type-52'>52</a></td><td><a href='#equipment-type-52'>Monitor</a></td><td><a href='#equipment-type-52'>Monitor</a></td></tr>
-<tr><td><a href='#equipment-type-53'>53</a></td><td><a href='#equipment-type-53'>Schallplattenspieler</a></td><td><a href='#equipment-type-53'>Record Player</a></td></tr>
-<tr><td><a href='#equipment-type-54'>54</a></td><td><a href='#equipment-type-54'>elektronisches Bauelement</a></td><td><a href='#equipment-type-54'>Electronic Component</a></td></tr>
-<tr><td><a href='#equipment-type-55'>55</a></td><td><a href='#equipment-type-55'>Stickmaschiene</a></td><td><a href='#equipment-type-55'>Embroidery Machine</a></td></tr>
-<tr><td><a href='#equipment-type-56'>56</a></td><td><a href='#equipment-type-56'>Programmiersprache</a></td><td><a href='#equipment-type-56'>Programming Language</a></td></tr>
-<tr><td><a href='#equipment-type-57'>57</a></td><td><a href='#equipment-type-57'>Encoder</a></td><td><a href='#equipment-type-57'>Encoder</a></td></tr>
-<tr><td><a href='#equipment-type-58'>58</a></td><td><a href='#equipment-type-58'>Bildmischer</a></td><td><a href='#equipment-type-58'>Vision Mixer</a></td></tr>
-</table>
-</details>
-
-<details><summary>Equipment Types ordered by German Name | Equipmentarten nach Deutschem Namen geordnet</summary>
-<table>
-<tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='#equipment-type-1'>3D-Drucker</a></td><td><a href='#equipment-type-1'>3D Printer</a></td><td><a href='#equipment-type-1'>1</a></td></tr>
-<tr><td><a href='#equipment-type-2'>3D-Scanner</a></td><td><a href='#equipment-type-2'>3D Scanner</a></td><td><a href='#equipment-type-2'>2</a></td></tr>
-<tr><td><a href='#equipment-type-3'>Abtastnadel</a></td><td><a href='#equipment-type-3'>Phonograph Needle</a></td><td><a href='#equipment-type-3'>3</a></td></tr>
-<tr><td><a href='#equipment-type-22'>Archéophone</a></td><td><a href='#equipment-type-22'>Archéophone</a></td><td><a href='#equipment-type-22'>22</a></td></tr>
-<tr><td><a href='#equipment-type-30'>Audioequipment</a></td><td><a href='#equipment-type-30'>Audio Equipment</a></td><td><a href='#equipment-type-30'>30</a></td></tr>
-<tr><td><a href='#equipment-type-31'>Audiorekorder</a></td><td><a href='#equipment-type-31'>Sound Recording Device</a></td><td><a href='#equipment-type-31'>31</a></td></tr>
-<tr><td><a href='#equipment-type-4'>Beamer</a></td><td><a href='#equipment-type-4'>Video Projector</a></td><td><a href='#equipment-type-4'>4</a></td></tr>
-<tr><td><a href='#equipment-type-58'>Bildmischer</a></td><td><a href='#equipment-type-58'>Vision Mixer</a></td><td><a href='#equipment-type-58'>58</a></td></tr>
-<tr><td><a href='#equipment-type-24'>Bildschirm</a></td><td><a href='#equipment-type-24'>Electronic Visual Display</a></td><td><a href='#equipment-type-24'>24</a></td></tr>
-<tr><td><a href='#equipment-type-26'>Computer</a></td><td><a href='#equipment-type-26'>Computer</a></td><td><a href='#equipment-type-26'>26</a></td></tr>
-<tr><td><a href='#equipment-type-32'>Datenträger</a></td><td><a href='#equipment-type-32'>Information Carrier</a></td><td><a href='#equipment-type-32'>32</a></td></tr>
-<tr><td><a href='#equipment-type-33'>Diaprojektor</a></td><td><a href='#equipment-type-33'>Slide Projector</a></td><td><a href='#equipment-type-33'>33</a></td></tr>
-<tr><td><a href='#equipment-type-35'>Digitalkamera</a></td><td><a href='#equipment-type-35'>Digital Camera</a></td><td><a href='#equipment-type-35'>35</a></td></tr>
-<tr><td><a href='#equipment-type-36'>Drohne</a></td><td><a href='#equipment-type-36'>Unmanned Aerial Vehicle</a></td><td><a href='#equipment-type-36'>36</a></td></tr>
-<tr><td><a href='#equipment-type-5'>Drucker</a></td><td><a href='#equipment-type-5'>Printer</a></td><td><a href='#equipment-type-5'>5</a></td></tr>
-<tr><td><a href='#equipment-type-37'>Eingabegerät</a></td><td><a href='#equipment-type-37'>Input Device</a></td><td><a href='#equipment-type-37'>37</a></td></tr>
-<tr><td><a href='#equipment-type-25'>Einplatinencomputer</a></td><td><a href='#equipment-type-25'>Single Board Computer</a></td><td><a href='#equipment-type-25'>25</a></td></tr>
-<tr><td><a href='#equipment-type-54'>elektronisches Bauelement</a></td><td><a href='#equipment-type-54'>Electronic Component</a></td><td><a href='#equipment-type-54'>54</a></td></tr>
-<tr><td><a href='#equipment-type-38'>elektronisches Gerät</a></td><td><a href='#equipment-type-38'>Electronic Device</a></td><td><a href='#equipment-type-38'>38</a></td></tr>
-<tr><td><a href='#equipment-type-57'>Encoder</a></td><td><a href='#equipment-type-57'>Encoder</a></td><td><a href='#equipment-type-57'>57</a></td></tr>
-<tr><td><a href='#equipment-type-39'>Filmkamera</a></td><td><a href='#equipment-type-39'>Movie Camera</a></td><td><a href='#equipment-type-39'>39</a></td></tr>
-<tr><td><a href='#equipment-type-6'>Flachbildscanner</a></td><td><a href='#equipment-type-6'>Flatbed Scanner</a></td><td><a href='#equipment-type-6'>6</a></td></tr>
-<tr><td><a href='#equipment-type-7'>Fotokamera</a></td><td><a href='#equipment-type-7'>Photographic Camera</a></td><td><a href='#equipment-type-7'>7</a></td></tr>
-<tr><td><a href='#equipment-type-8'>Fräse</a></td><td><a href='#equipment-type-8'>Milling Machine</a></td><td><a href='#equipment-type-8'>8</a></td></tr>
-<tr><td><a href='#equipment-type-29'>Internet</a></td><td><a href='#equipment-type-29'>Internet</a></td><td><a href='#equipment-type-29'>29</a></td></tr>
-<tr><td><a href='#equipment-type-40'>Kamerazubehör</a></td><td><a href='#equipment-type-40'>Additional Camera Equipment</a></td><td><a href='#equipment-type-40'>40</a></td></tr>
-<tr><td><a href='#equipment-type-41'>Kopfhörer</a></td><td><a href='#equipment-type-41'>Headphones</a></td><td><a href='#equipment-type-41'>41</a></td></tr>
-<tr><td><a href='#equipment-type-9'>Lautsprecher</a></td><td><a href='#equipment-type-9'>Loudspeaker</a></td><td><a href='#equipment-type-9'>9</a></td></tr>
-<tr><td><a href='#equipment-type-42'>Lichtequipment</a></td><td><a href='#equipment-type-42'>Lighting Equipment</a></td><td><a href='#equipment-type-42'>42</a></td></tr>
-<tr><td><a href='#equipment-type-34'>Media Player</a></td><td><a href='#equipment-type-34'>Digital Media Player</a></td><td><a href='#equipment-type-34'>34</a></td></tr>
-<tr><td><a href='#equipment-type-27'>Mikrocontroller</a></td><td><a href='#equipment-type-27'>Microcontroller</a></td><td><a href='#equipment-type-27'>27</a></td></tr>
-<tr><td><a href='#equipment-type-10'>Mikrofon</a></td><td><a href='#equipment-type-10'>Microphone</a></td><td><a href='#equipment-type-10'>10</a></td></tr>
-<tr><td><a href='#equipment-type-11'>Mischpult</a></td><td><a href='#equipment-type-11'>Mixer</a></td><td><a href='#equipment-type-11'>11</a></td></tr>
-<tr><td><a href='#equipment-type-52'>Monitor</a></td><td><a href='#equipment-type-52'>Monitor</a></td><td><a href='#equipment-type-52'>52</a></td></tr>
-<tr><td><a href='#equipment-type-12'>Musikinstrument</a></td><td><a href='#equipment-type-12'>Musical Instrument</a></td><td><a href='#equipment-type-12'>12</a></td></tr>
-<tr><td><a href='#equipment-type-43'>Objektiv</a></td><td><a href='#equipment-type-43'>Objective (Optics)</a></td><td><a href='#equipment-type-43'>43</a></td></tr>
-<tr><td><a href='#equipment-type-13'>Plug-In</a></td><td><a href='#equipment-type-13'>Plug-In</a></td><td><a href='#equipment-type-13'>13</a></td></tr>
-<tr><td><a href='#equipment-type-56'>Programmiersprache</a></td><td><a href='#equipment-type-56'>Programming Language</a></td><td><a href='#equipment-type-56'>56</a></td></tr>
-<tr><td><a href='#equipment-type-44'>Roboter</a></td><td><a href='#equipment-type-44'>Robot</a></td><td><a href='#equipment-type-44'>44</a></td></tr>
-<tr><td><a href='#equipment-type-14'>Samplebibliothek</a></td><td><a href='#equipment-type-14'>Sample Library</a></td><td><a href='#equipment-type-14'>14</a></td></tr>
-<tr><td><a href='#equipment-type-53'>Schallplattenspieler</a></td><td><a href='#equipment-type-53'>Record Player</a></td><td><a href='#equipment-type-53'>53</a></td></tr>
-<tr><td><a href='#equipment-type-45'>Sensor</a></td><td><a href='#equipment-type-45'>Sensor</a></td><td><a href='#equipment-type-45'>45</a></td></tr>
-<tr><td><a href='#equipment-type-15'>Server</a></td><td><a href='#equipment-type-15'>Server</a></td><td><a href='#equipment-type-15'>15</a></td></tr>
-<tr><td><a href='#equipment-type-28'>Smartphone</a></td><td><a href='#equipment-type-28'>Smartphone</a></td><td><a href='#equipment-type-28'>28</a></td></tr>
-<tr><td><a href='#equipment-type-16'>Software</a></td><td><a href='#equipment-type-16'>Software</a></td><td><a href='#equipment-type-16'>16</a></td></tr>
-<tr><td><a href='#equipment-type-46'>Sonstiges Equipment</a></td><td><a href='#equipment-type-46'>Other Equipment</a></td><td><a href='#equipment-type-46'>46</a></td></tr>
-<tr><td><a href='#equipment-type-47'>Stativ</a></td><td><a href='#equipment-type-47'>Tripod</a></td><td><a href='#equipment-type-47'>47</a></td></tr>
-<tr><td><a href='#equipment-type-55'>Stickmaschiene</a></td><td><a href='#equipment-type-55'>Embroidery Machine</a></td><td><a href='#equipment-type-55'>55</a></td></tr>
-<tr><td><a href='#equipment-type-23'>Streaming-Box</a></td><td><a href='#equipment-type-23'>Streaming Box</a></td><td><a href='#equipment-type-23'>23</a></td></tr>
-<tr><td><a href='#equipment-type-48'>Stromquelle</a></td><td><a href='#equipment-type-48'>Electric Power Source</a></td><td><a href='#equipment-type-48'>48</a></td></tr>
-<tr><td><a href='#equipment-type-49'>Studioequipment</a></td><td><a href='#equipment-type-49'>Studio Equipment</a></td><td><a href='#equipment-type-49'>49</a></td></tr>
-<tr><td><a href='#equipment-type-50'>Tabletcomputer</a></td><td><a href='#equipment-type-50'>Tablet Computer</a></td><td><a href='#equipment-type-50'>50</a></td></tr>
-<tr><td><a href='#equipment-type-17'>Tonabnehmer</a></td><td><a href='#equipment-type-17'>Pickup</a></td><td><a href='#equipment-type-17'>17</a></td></tr>
-<tr><td><a href='#equipment-type-18'>Videokamera</a></td><td><a href='#equipment-type-18'>Video Camera</a></td><td><a href='#equipment-type-18'>18</a></td></tr>
-<tr><td><a href='#equipment-type-19'>Vorstufe</a></td><td><a href='#equipment-type-19'>Preamp</a></td><td><a href='#equipment-type-19'>19</a></td></tr>
-<tr><td><a href='#equipment-type-20'>VR-Headset</a></td><td><a href='#equipment-type-20'>VR Headset</a></td><td><a href='#equipment-type-20'>20</a></td></tr>
-<tr><td><a href='#equipment-type-21'>Wandler</a></td><td><a href='#equipment-type-21'>Transducer</a></td><td><a href='#equipment-type-21'>21</a></td></tr>
-<tr><td><a href='#equipment-type-51'>Werkzeug</a></td><td><a href='#equipment-type-51'>Physical Tool</a></td><td><a href='#equipment-type-51'>51</a></td></tr>
-</table>
-</details>
-
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
 
 <a href="#equipment-type-1" id="equipment-type-1">equipment-type-1</a>
 
@@ -189,7 +41,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-1) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-1`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-1) |
 | **English Name** | 3D Printer |
 | **German Name** | 3D-Drucker |
 | **Wikidata ID** | [Q3834994](https://www.wikidata.org/entity/Q3834994) |
@@ -211,7 +63,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-2) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-2`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-2) |
 | **English Name** | 3D Scanner |
 | **German Name** | 3D-Scanner |
 | **Wikidata ID** | [Q1775257](https://www.wikidata.org/entity/Q1775257) |
@@ -232,7 +84,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 40 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-40) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-40`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-40) |
 | **English Name** | Additional Camera Equipment |
 | **German Name** | Kamerazubehör |
 | **Wikidata ID** | [Q131375504](https://www.wikidata.org/entity/Q131375504) |
@@ -252,7 +104,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 22 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-22) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-22`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-22) |
 | **English Name** | Archéophone |
 | **German Name** | Archéophone |
 | **Wikidata ID** | [Q2860627](https://www.wikidata.org/entity/Q2860627) |
@@ -272,7 +124,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 30 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-30) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-30`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-30) |
 | **English Name** | Audio Equipment |
 | **German Name** | Audioequipment |
 | **Wikidata ID** | [Q15190726](https://www.wikidata.org/entity/Q15190726) |
@@ -293,7 +145,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 26 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-26) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-26`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-26) |
 | **English Name** | Computer |
 | **German Name** | Computer |
 | **Wikidata ID** | [Q68](https://www.wikidata.org/entity/Q68) |
@@ -314,7 +166,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 35 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-35) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-35`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-35) |
 | **English Name** | Digital Camera |
 | **German Name** | Digitalkamera |
 | **Wikidata ID** | [Q62927](https://www.wikidata.org/entity/Q62927) |
@@ -336,7 +188,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 34 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-34) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-34`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-34) |
 | **English Name** | Digital Media Player |
 | **German Name** | Media Player |
 | **Wikidata ID** | [Q1567371](https://www.wikidata.org/entity/Q1567371) |
@@ -356,7 +208,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 48 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-48) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-48`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-48) |
 | **English Name** | Electric Power Source |
 | **German Name** | Stromquelle |
 | **Wikidata ID** | [Q1753139](https://www.wikidata.org/entity/Q1753139) |
@@ -376,7 +228,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 54 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-54) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-54`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-54) |
 | **English Name** | Electronic Component |
 | **German Name** | elektronisches Bauelement |
 | **Wikidata ID** | [Q11653](https://www.wikidata.org/entity/Q11653) |
@@ -397,7 +249,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 38 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-38) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-38`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-38) |
 | **English Name** | Electronic Device |
 | **German Name** | elektronisches Gerät |
 | **Wikidata ID** | [Q2858615](https://www.wikidata.org/entity/Q2858615) |
@@ -417,7 +269,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 24 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-24) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-24`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-24) |
 | **English Name** | Electronic Visual Display |
 | **German Name** | Bildschirm |
 | **Wikidata ID** | [Q6021804](https://www.wikidata.org/entity/Q6021804) |
@@ -438,7 +290,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 55 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-55) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-55`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-55) |
 | **English Name** | Embroidery Machine |
 | **German Name** | Stickmaschiene |
 | **Wikidata ID** | [Q1790385](https://www.wikidata.org/entity/Q1790385) |
@@ -460,7 +312,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 57 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-57) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-57`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-57) |
 | **English Name** | Encoder |
 | **German Name** | Encoder |
 | **Wikidata ID** | [Q42586063](https://www.wikidata.org/entity/Q42586063) |
@@ -481,7 +333,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-6) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-6`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-6) |
 | **English Name** | Flatbed Scanner |
 | **German Name** | Flachbildscanner |
 | **Wikidata ID** | [Q82744](https://www.wikidata.org/entity/Q82744) |
@@ -501,7 +353,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 41 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-41) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-41`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-41) |
 | **English Name** | Headphones |
 | **German Name** | Kopfhörer |
 | **Wikidata ID** | [Q186819](https://www.wikidata.org/entity/Q186819) |
@@ -523,7 +375,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-32) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-32`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-32) |
 | **English Name** | Information Carrier |
 | **German Name** | Datenträger |
 | **Wikidata ID** | [Q193395](https://www.wikidata.org/entity/Q193395) |
@@ -544,7 +396,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 37 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-37) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-37`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-37) |
 | **English Name** | Input Device |
 | **German Name** | Eingabegerät |
 | **Wikidata ID** | [Q864114](https://www.wikidata.org/entity/Q864114) |
@@ -566,7 +418,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 29 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-29) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-29`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-29) |
 | **English Name** | Internet |
 | **German Name** | Internet |
 | **Wikidata ID** | [Q75](https://www.wikidata.org/entity/Q75) |
@@ -587,7 +439,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 42 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-42) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-42`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-42) |
 | **English Name** | Lighting Equipment |
 | **German Name** | Lichtequipment |
 | **Wikidata ID** | [Q131375480](https://www.wikidata.org/entity/Q131375480) |
@@ -607,7 +459,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-9) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-9`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-9) |
 | **English Name** | Loudspeaker |
 | **German Name** | Lautsprecher |
 | **Wikidata ID** | [Q570](https://www.wikidata.org/entity/Q570) |
@@ -628,7 +480,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 27 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-27) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-27`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-27) |
 | **English Name** | Microcontroller |
 | **German Name** | Mikrocontroller |
 | **Wikidata ID** | [Q165678](https://www.wikidata.org/entity/Q165678) |
@@ -649,7 +501,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-10) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-10`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-10) |
 | **English Name** | Microphone |
 | **German Name** | Mikrofon |
 | **Wikidata ID** | [Q46384](https://www.wikidata.org/entity/Q46384) |
@@ -671,7 +523,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-8) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-8`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-8) |
 | **English Name** | Milling Machine |
 | **German Name** | Fräse |
 | **Wikidata ID** | [Q623106](https://www.wikidata.org/entity/Q623106) |
@@ -692,7 +544,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-11) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-11`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-11) |
 | **English Name** | Mixer |
 | **German Name** | Mischpult |
 | **Wikidata ID** | [Q654117](https://www.wikidata.org/entity/Q654117) |
@@ -714,7 +566,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 52 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-52) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-52`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-52) |
 | **English Name** | Monitor |
 | **German Name** | Monitor |
 | **Wikidata ID** | [Q5290](https://www.wikidata.org/entity/Q5290) |
@@ -734,7 +586,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 39 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-39) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-39`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-39) |
 | **English Name** | Movie Camera |
 | **German Name** | Filmkamera |
 | **Wikidata ID** | [Q335095](https://www.wikidata.org/entity/Q335095) |
@@ -756,7 +608,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-12) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-12`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-12) |
 | **English Name** | Musical Instrument |
 | **German Name** | Musikinstrument |
 | **Wikidata ID** | [Q34379](https://www.wikidata.org/entity/Q34379) |
@@ -778,7 +630,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 43 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-43) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-43`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-43) |
 | **English Name** | Objective (Optics) |
 | **German Name** | Objektiv |
 | **Wikidata ID** | [Q3880557](https://www.wikidata.org/entity/Q3880557) |
@@ -799,7 +651,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 46 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-46) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-46`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-46) |
 | **English Name** | Other Equipment |
 | **German Name** | Sonstiges Equipment |
 | **Wikidata ID** | [Q55107540](https://www.wikidata.org/entity/Q55107540) |
@@ -819,7 +671,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-3) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-3`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-3) |
 | **English Name** | Phonograph Needle |
 | **German Name** | Abtastnadel |
 | **Wikidata ID** | [Q10923110](https://www.wikidata.org/entity/Q10923110) |
@@ -840,7 +692,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-7) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-7`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-7) |
 | **English Name** | Photographic Camera |
 | **German Name** | Fotokamera |
 | **Wikidata ID** | [Q15328](https://www.wikidata.org/entity/Q15328) |
@@ -862,7 +714,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 51 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-51) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-51`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-51) |
 | **English Name** | Physical Tool |
 | **German Name** | Werkzeug |
 | **Wikidata ID** | [Q39546](https://www.wikidata.org/entity/Q39546) |
@@ -884,7 +736,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 17 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-17) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-17`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-17) |
 | **English Name** | Pickup |
 | **German Name** | Tonabnehmer |
 | **Wikidata ID** | [Q572648](https://www.wikidata.org/entity/Q572648) |
@@ -906,7 +758,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-13) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-13`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-13) |
 | **English Name** | Plug-In |
 | **German Name** | Plug-In |
 | **Wikidata ID** | [Q184148](https://www.wikidata.org/entity/Q184148) |
@@ -927,7 +779,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 19 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-19) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-19`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-19) |
 | **English Name** | Preamp |
 | **German Name** | Vorstufe |
 | **Wikidata ID** | [Q399804](https://www.wikidata.org/entity/Q399804) |
@@ -948,7 +800,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-5) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-5`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-5) |
 | **English Name** | Printer |
 | **German Name** | Drucker |
 | **Wikidata ID** | [Q82](https://www.wikidata.org/entity/Q82) |
@@ -970,7 +822,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 56 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-56) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-56`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-56) |
 | **English Name** | Programming Language |
 | **German Name** | Programmiersprache |
 | **Wikidata ID** | [Q9143](https://www.wikidata.org/entity/Q9143) |
@@ -991,7 +843,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 53 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-53) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-53`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-53) |
 | **English Name** | Record Player |
 | **German Name** | Schallplattenspieler |
 | **Wikidata ID** | [Q17591720](https://www.wikidata.org/entity/Q17591720) |
@@ -1013,7 +865,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 44 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-44) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-44`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-44) |
 | **English Name** | Robot |
 | **German Name** | Roboter |
 | **Wikidata ID** | [Q11012](https://www.wikidata.org/entity/Q11012) |
@@ -1035,7 +887,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 14 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-14) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-14`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-14) |
 | **English Name** | Sample Library |
 | **German Name** | Samplebibliothek |
 | **Wikidata ID** | [Q7410139](https://www.wikidata.org/entity/Q7410139) |
@@ -1055,7 +907,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 45 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-45) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-45`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-45) |
 | **English Name** | Sensor |
 | **German Name** | Sensor |
 | **Wikidata ID** | [Q167676](https://www.wikidata.org/entity/Q167676) |
@@ -1077,7 +929,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 15 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-15) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-15`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-15) |
 | **English Name** | Server |
 | **German Name** | Server |
 | **Wikidata ID** | [Q44127](https://www.wikidata.org/entity/Q44127) |
@@ -1099,7 +951,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 25 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-25) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-25`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-25) |
 | **English Name** | Single Board Computer |
 | **German Name** | Einplatinencomputer |
 | **Wikidata ID** | [Q944780](https://www.wikidata.org/entity/Q944780) |
@@ -1120,7 +972,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-33) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-33`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-33) |
 | **English Name** | Slide Projector |
 | **German Name** | Diaprojektor |
 | **Wikidata ID** | [Q846668](https://www.wikidata.org/entity/Q846668) |
@@ -1142,7 +994,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 28 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-28) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-28`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-28) |
 | **English Name** | Smartphone |
 | **German Name** | Smartphone |
 | **Wikidata ID** | [Q22645](https://www.wikidata.org/entity/Q22645) |
@@ -1163,7 +1015,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 16 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-16) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-16`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-16) |
 | **English Name** | Software |
 | **German Name** | Software |
 | **Wikidata ID** | [Q7397](https://www.wikidata.org/entity/Q7397) |
@@ -1185,7 +1037,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 31 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-31) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-31`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-31) |
 | **English Name** | Sound Recording Device |
 | **German Name** | Audiorekorder |
 | **Wikidata ID** | [Q758891](https://www.wikidata.org/entity/Q758891) |
@@ -1205,7 +1057,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 23 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-23) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-23`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-23) |
 | **English Name** | Streaming Box |
 | **German Name** | Streaming-Box |
 | **Wikidata ID** | [Q1427348](https://www.wikidata.org/entity/Q1427348) |
@@ -1226,7 +1078,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 49 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-49) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-49`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-49) |
 | **English Name** | Studio Equipment |
 | **German Name** | Studioequipment |
 | **Wikidata ID** | [Q131375449](https://www.wikidata.org/entity/Q131375449) |
@@ -1246,7 +1098,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 50 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-50) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-50`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-50) |
 | **English Name** | Tablet Computer |
 | **German Name** | Tabletcomputer |
 | **Wikidata ID** | [Q155972](https://www.wikidata.org/entity/Q155972) |
@@ -1268,7 +1120,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 21 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-21) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-21`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-21) |
 | **English Name** | Transducer |
 | **German Name** | Wandler |
 | **Wikidata ID** | [Q215928](https://www.wikidata.org/entity/Q215928) |
@@ -1290,7 +1142,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 47 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-47) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-47`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-47) |
 | **English Name** | Tripod |
 | **German Name** | Stativ |
 | **Wikidata ID** | [Q1444534](https://www.wikidata.org/entity/Q1444534) |
@@ -1311,7 +1163,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 36 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-36) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-36`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-36) |
 | **English Name** | Unmanned Aerial Vehicle |
 | **German Name** | Drohne |
 | **Wikidata ID** | [Q484000](https://www.wikidata.org/entity/Q484000) |
@@ -1332,7 +1184,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 18 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-18) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-18`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-18) |
 | **English Name** | Video Camera |
 | **German Name** | Videokamera |
 | **Wikidata ID** | [Q313614](https://www.wikidata.org/entity/Q313614) |
@@ -1354,7 +1206,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-4) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-4`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-4) |
 | **English Name** | Video Projector |
 | **German Name** | Beamer |
 | **Wikidata ID** | [Q275568](https://www.wikidata.org/entity/Q275568) |
@@ -1375,7 +1227,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 58 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-58) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-58`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-58) |
 | **English Name** | Vision Mixer |
 | **German Name** | Bildmischer |
 | **Wikidata ID** | [Q860964](https://www.wikidata.org/entity/Q860964) |
@@ -1395,7 +1247,7 @@ Equipment types allow for a general categorization of equipment and software use
 |||
 |-----------|-----------|
 | **ID** | 20 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/equipment-types#equipment-type-20) |
+| **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-20`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-20) |
 | **English Name** | VR Headset |
 | **German Name** | VR-Headset |
 | **Wikidata ID** | [Q19600329](https://www.wikidata.org/entity/Q19600329) |
