@@ -11,9 +11,11 @@ permalink: /documentation/controlled-vocabularies
 
 ---
 
-**Deutsch**:
-
 ## Was sind Kontrollierte Vokabulare?
+
+```What are controlled vocabularies?```
+
+**Deutsch**:
 
 Durch die gemeinsame Verwendung einheitlicher und eindeutig identifizierbarer Begrifflichkeiten ist es möglich, Akteur:innen, Projekte, Ereignisse und andere Entitäten standardisiert zu klassifizieren und sie dadurch wiederauffindbar, vergleichbar und nachnutzbar zu machen. Sie bilden somit einen integralen Bestandteil der bereitgestellten Metadaten.
 
@@ -25,8 +27,6 @@ Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in W
 
 **English:**
 
-## What are controlled vocabularies?
-
 By using consistent and uniquely identifiable terminology, it becomes possible to classify actors, projects, events and other entities in a standardized way, making them easier to find, compare, and reuse. They therefore form an integral part of the provided metadata.
 
 In arkumu.nrw, controlled vocabularies appear primarily in two forms: value lists and taxonomies, the latter additionally allowing for the hierarchical structuring of terms. Thanks to the assigned URIs, each term is persistently identifiable and citable.
@@ -37,13 +37,17 @@ In arkumu.nrw, controlled vocabularies appear primarily in two forms: value list
 
 ---
 
-**Deutsch:**
+
 
 ## Abrufbar über vocabs.arkumu.nrw
 
-Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei werden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie programmatisch verfügbar sind; d.h. sie können direkt in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
+```Accessible on vocabs.arkumu.nrw```
 
-Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegt und über GitHub Pages veröffentlicht. Wie sie gepflegt werden können, ist dort beschrieben. 
+**Deutsch:**
+
+Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei werden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie programmatisch verfügbar sind; d.h. sie können direkt und aktiv in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
+
+Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegt und über GitHub Pages veröffentlicht. Wie sie gepflegt werden können, ist dort beschrieben.Es wird www.w3id.org als Provider für permanente URLs benutzt.
 
 <br/>
 
@@ -51,22 +55,37 @@ Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.c
 
 **English:**
 
-## Accessible on vocabs.arkumu.nrw
+As part of a revision in 2026, all vocabularies were converted to the SKOS format. During this process, they were consolidated and logically validated. They are now available at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/). Their publication via the [https://skohub.io](https://skohub.io) workflow means they are programmatically accessible; that is, they can be used directly/actively in input forms. Since they were published under a CC0 license, they are also directly available to other initiatives seeking to document cultural heritage. 
 
-As part of a revision in 2026, all vocabularies were converted to the SKOS format. During this process, they were consolidated and logically validated. They are now available at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/). Their publication via the [https://skohub.io](https://skohub.io) workflow means they are programmatically accessible; that is, they can be used directly in input forms. Since they were published under a CC0 license, they are also directly available to other initiatives seeking to document cultural heritage.
-
-The vocabularies (as well as docs.arkumu.nrw) are maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages. Instructions on how to maintain them are provided there.
+The vocabularies (as well as docs.arkumu.nrw) are maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages. Instructions on how to maintain them are provided there. We use www.w3id.org as provider for permanent URLs.
 
 
 <br/>
 
 ---
 
+## Überblick
+
+```Overview```
+
+**Deutsch:**
+
+Hinweis: Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die initial erstellten Vokabulare aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegten und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichten Fassungen sind aktueller und als verbindlich anzusehen.
+<br/>
+
+
+---
+
+**English:**
+
+Caveat: The vocabularies initially created are listed below for easier reading and reference. The versions maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) are more up-to-date and should be considered authoritative.
+
+
+---
+
 ## Wertelisten
 
 ```Value Lists```
-
-<br/>
 
 **Deutsch:**
 
@@ -80,16 +99,15 @@ Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokab
 Value lists represent the simplest structured form of a controlled vocabulary, as they simply consist of a list of entries that are not based on a hierarchical or ontological structure. They are used in all central entities of arkumu.nrw.
 
 <br/>
-<br/>
 
 | English Name of Controlled Vocabulary | German Name of Controlled Vocabulary | Permanent URL |
 | ------ | ------ | ------ |
-| [Equipment Types](/documentation/controlled-vocabularies/equipment-types) | [Equipmentarten](/documentation/controlled-vocabularies/equipment-types) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/equipment-types`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/equipment-types) |
-| [Event Types](/documentation/controlled-vocabularies/event-types) | [Ereignistypen](/documentation/controlled-vocabularies/event-types) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/event-types`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/event-types) |
-| [Genesis Types](/documentation/controlled-vocabularies/genesis-types) | [Entstehungstypen](/documentation/controlled-vocabularies/genesis-types) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/genesis-types`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/genesis-types) |
-| [Genders](/documentation/controlled-vocabularies/genders) | [Geschlechter](/documentation/controlled-vocabularies/genders) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/genders`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/genders) |
-| [Media Types](/documentation/controlled-vocabularies/media-types) | [Medientypen](/documentation/controlled-vocabularies/media-types) |  `https://vocabs.arkumu.nrw/w3id.org/arkumu/media-types`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/media-types) |
-| [Project Types](/documentation/controlled-vocabularies/project-types) | [Projektarten](/documentation/controlled-vocabularies/project-types) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/project-types`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/project-types)|
+| [Equipment Types](/documentation/controlled-vocabularies/equipment-types) | [Equipmentarten](/documentation/controlled-vocabularies/equipment-types) | `http://w3id.org/arkumu/equipment-types`[🔗](http://w3id.org/arkumu/equipment-types) |
+| [Event Types](/documentation/controlled-vocabularies/event-types) | [Ereignistypen](/documentation/controlled-vocabularies/event-types) | `http://w3id.org/arkumu/event-types`[🔗](http://w3id.org/arkumu/event-types) |
+| [Genesis Types](/documentation/controlled-vocabularies/genesis-types) | [Entstehungstypen](/documentation/controlled-vocabularies/genesis-types) | `http://w3id.org/arkumu/genesis-types`[🔗](http://w3id.org/arkumu/genesis-types) |
+| [Genders](/documentation/controlled-vocabularies/genders) | [Geschlechter](/documentation/controlled-vocabularies/genders) | `http://w3id.org/arkumu/genders`[🔗](http://w3id.org/arkumu/genders) |
+| [Media Types](/documentation/controlled-vocabularies/media-types) | [Medientypen](/documentation/controlled-vocabularies/media-types) |  `http://w3id.org/arkumu/media-types`[🔗](http://w3id.org/arkumu/media-types) |
+| [Project Types](/documentation/controlled-vocabularies/project-types) | [Projektarten](/documentation/controlled-vocabularies/project-types) | `http://w3id.org/arkumu/project-types`[🔗](http://w3id.org/arkumu/project-types)|
 
 <br/>
 <br/>
@@ -121,10 +139,10 @@ Taxonomies organise concepts hierarchically. They can be represented as a tree s
 
 | English Name of Controlled Vocabulary | German Name of Controlled Vocabulary | Permanent URL |
 | ------ | ------ | ------ |
-| [Information Storage Medium Types](/documentation/controlled-vocabularies/information-storage-medium-types) | [Informationsträgertypen](/documentation/controlled-vocabularies/information-storage-medium-types) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/information-storage-medium-types`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/information-storage-medium-types) |
-| [Organisational Units](/documentation/controlled-vocabularies/organisational-units) | [Organisationseinheiten](/documentation/controlled-vocabularies/organisational-units) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/organisational-units`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/organisational-units) |
-| [Project Categories](/documentation/controlled-vocabularies/project-categories) | [Projektkategorien](/documentation/controlled-vocabularies/project-categories) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/project-categories`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/project-categories) |
-| [Roles](/documentation/controlled-vocabularies/roles) | [Rollen](/documentation/controlled-vocabularies/roles) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/roles`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/roles) |
+| [Information Storage Medium Types](/documentation/controlled-vocabularies/information-storage-medium-types) | [Informationsträgertypen](/documentation/controlled-vocabularies/information-storage-medium-types) | `http://w3id.org/arkumu/information-storage-medium-types`[🔗](http://w3id.org/arkumu/information-storage-medium-types) |
+| [Organisational Units](/documentation/controlled-vocabularies/organisational-units) | [Organisationseinheiten](/documentation/controlled-vocabularies/organisational-units) | `http://w3id.org/arkumu/organisational-units`[🔗](http://w3id.org/arkumu/organisational-units) |
+| [Project Categories](/documentation/controlled-vocabularies/project-categories) | [Projektkategorien](/documentation/controlled-vocabularies/project-categories) | `http://w3id.org/arkumu/project-categories`[🔗](http://w3id.org/arkumu/project-categories) |
+| [Roles](/documentation/controlled-vocabularies/roles) | [Rollen](/documentation/controlled-vocabularies/roles) | `http://w3id.org/arkumu/roles`[🔗](http://w3id.org/arkumu/roles) |
 
 <br/>
 
@@ -154,4 +172,4 @@ The ID reference for the Digital Object License is not a controlled vocabulary i
 
 | English Name of Reference| German Name of Reference | Permanent URL |
 | ------ | ------ | ------ | ------ |
-| [Digital Object Licence ID References](/documentation/controlled-vocabularies/digital-object-license-id-references) | [Digitales-Objekt-Lizenz-ID-Referenzen](/documentation/controlled-vocabularies/digital-object-license-id-references) | `https://vocabs.arkumu.nrw/w3id.org/arkumu/licenses`[🔗](https://vocabs.arkumu.nrw/w3id.org/arkumu/licenses)
+| [Digital Object Licence ID References](/documentation/controlled-vocabularies/digital-object-license-id-references) | [Digitales-Objekt-Lizenz-ID-Referenzen](/documentation/controlled-vocabularies/digital-object-license-id-references) | `http://w3id.org/arkumu/licenses`[🔗](http://w3id.org/arkumu/licenses)
