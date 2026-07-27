@@ -40,5 +40,5 @@ Die Kernaufgaben des Projekts sind:
 <br/>
 
 <div id="information-card-index" class="link-card" style="margin-bottom: 4%">
-<sub>ⓘ Bitte beachten Sie: Diese Dokumentationsseite wurde aktiv gepflegt und bildet den Arbeitsstand zum 30.12.2025 ab. Wir bedanken uns für Ihr Interesse an arkumu.nrw!</sub><br/><sub>ⓘ Please note: This documentation page has been actively maintained and reflects the status of work as of December 30, 2025. Thank you for your interest in arkumu.nrw!</sub>
+<sub>ⓘ Bitte beachten Sie: Diese Dokumentationsseite wurde bis zum Projektende aktiv gepflegt und bildet den Arbeitsstand zum 30.12.2025 ab. Im Rahmen einer beginnenden Überarbeitung wurden seitdem die kontrollierten Vokabulare überarbeitet und neu veröffentlicht.</sub><br/><sub>ⓘ Please note: This documentation page was actively maintained until the end of the project and reflects the status of the work as of December 30, 2025. As part of an upcoming revision, the controlled vocabularies have since been revised and republished.</sub>
 </div>

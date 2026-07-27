@@ -38,8 +38,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## 3D Printer
 
-|||
-|-----------|-----------|
+
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-1`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-1) |
 | **English Name** | 3D Printer |
@@ -60,8 +59,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## 3D Scanner
 
-|||
-|-----------|-----------|
+
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-2`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-2) |
 | **English Name** | 3D Scanner |
@@ -81,8 +79,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Additional Camera Equipment
 
-|||
-|-----------|-----------|
+
 | **ID** | 40 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-40`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-40) |
 | **English Name** | Additional Camera Equipment |
@@ -101,8 +98,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Archéophone
 
-|||
-|-----------|-----------|
+
 | **ID** | 22 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-22`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-22) |
 | **English Name** | Archéophone |
@@ -121,8 +117,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Audio Equipment
 
-|||
-|-----------|-----------|
+
 | **ID** | 30 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-30`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-30) |
 | **English Name** | Audio Equipment |
@@ -142,8 +137,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Computer
 
-|||
-|-----------|-----------|
+
 | **ID** | 26 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-26`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-26) |
 | **English Name** | Computer |
@@ -163,8 +157,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Digital Camera
 
-|||
-|-----------|-----------|
+
 | **ID** | 35 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-35`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-35) |
 | **English Name** | Digital Camera |
@@ -185,8 +178,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Digital Media Player
 
-|||
-|-----------|-----------|
+
 | **ID** | 34 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-34`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-34) |
 | **English Name** | Digital Media Player |
@@ -205,8 +197,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Electric Power Source
 
-|||
-|-----------|-----------|
+
 | **ID** | 48 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-48`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-48) |
 | **English Name** | Electric Power Source |
@@ -225,8 +216,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Electronic Component
 
-|||
-|-----------|-----------|
+
 | **ID** | 54 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-54`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-54) |
 | **English Name** | Electronic Component |
@@ -246,8 +236,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Electronic Device
 
-|||
-|-----------|-----------|
+
 | **ID** | 38 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-38`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-38) |
 | **English Name** | Electronic Device |
@@ -266,8 +255,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Electronic Visual Display
 
-|||
-|-----------|-----------|
+
 | **ID** | 24 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-24`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-24) |
 | **English Name** | Electronic Visual Display |
@@ -287,8 +275,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Embroidery Machine
 
-|||
-|-----------|-----------|
+
 | **ID** | 55 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-55`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-55) |
 | **English Name** | Embroidery Machine |
@@ -309,8 +296,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Encoder
 
-|||
-|-----------|-----------|
+
 | **ID** | 57 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-57`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-57) |
 | **English Name** | Encoder |
@@ -330,8 +316,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Flatbed Scanner
 
-|||
-|-----------|-----------|
+
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-6`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-6) |
 | **English Name** | Flatbed Scanner |
@@ -350,8 +335,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Headphones
 
-|||
-|-----------|-----------|
+
 | **ID** | 41 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-41`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-41) |
 | **English Name** | Headphones |
@@ -372,8 +356,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Information Carrier
 
-|||
-|-----------|-----------|
+
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-32`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-32) |
 | **English Name** | Information Carrier |
@@ -393,8 +376,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Input Device
 
-|||
-|-----------|-----------|
+
 | **ID** | 37 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-37`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-37) |
 | **English Name** | Input Device |
@@ -415,8 +397,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Internet
 
-|||
-|-----------|-----------|
+
 | **ID** | 29 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-29`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-29) |
 | **English Name** | Internet |
@@ -436,8 +417,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Lighting Equipment
 
-|||
-|-----------|-----------|
+
 | **ID** | 42 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-42`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-42) |
 | **English Name** | Lighting Equipment |
@@ -456,8 +436,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Loudspeaker
 
-|||
-|-----------|-----------|
+
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-9`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-9) |
 | **English Name** | Loudspeaker |
@@ -477,8 +456,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Microcontroller
 
-|||
-|-----------|-----------|
+
 | **ID** | 27 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-27`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-27) |
 | **English Name** | Microcontroller |
@@ -498,8 +476,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Microphone
 
-|||
-|-----------|-----------|
+
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-10`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-10) |
 | **English Name** | Microphone |
@@ -520,8 +497,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Milling Machine
 
-|||
-|-----------|-----------|
+
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-8`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-8) |
 | **English Name** | Milling Machine |
@@ -541,8 +517,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Mixer
 
-|||
-|-----------|-----------|
+
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-11`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-11) |
 | **English Name** | Mixer |
@@ -563,8 +538,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Monitor
 
-|||
-|-----------|-----------|
+
 | **ID** | 52 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-52`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-52) |
 | **English Name** | Monitor |
@@ -583,8 +557,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Movie Camera
 
-|||
-|-----------|-----------|
+
 | **ID** | 39 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-39`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-39) |
 | **English Name** | Movie Camera |
@@ -605,8 +578,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Musical Instrument
 
-|||
-|-----------|-----------|
+
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-12`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-12) |
 | **English Name** | Musical Instrument |
@@ -627,8 +599,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Objective (Optics)
 
-|||
-|-----------|-----------|
+
 | **ID** | 43 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-43`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-43) |
 | **English Name** | Objective (Optics) |
@@ -648,8 +619,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Other Equipment
 
-|||
-|-----------|-----------|
+
 | **ID** | 46 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-46`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-46) |
 | **English Name** | Other Equipment |
@@ -668,8 +638,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Phonograph Needle
 
-|||
-|-----------|-----------|
+
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-3`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-3) |
 | **English Name** | Phonograph Needle |
@@ -689,8 +658,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Photographic Camera
 
-|||
-|-----------|-----------|
+
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-7`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-7) |
 | **English Name** | Photographic Camera |
@@ -711,8 +679,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Physical Tool
 
-|||
-|-----------|-----------|
+
 | **ID** | 51 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-51`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-51) |
 | **English Name** | Physical Tool |
@@ -733,8 +700,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Pickup
 
-|||
-|-----------|-----------|
+
 | **ID** | 17 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-17`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-17) |
 | **English Name** | Pickup |
@@ -755,8 +721,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Plug-In
 
-|||
-|-----------|-----------|
+
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-13`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-13) |
 | **English Name** | Plug-In |
@@ -776,8 +741,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Preamp
 
-|||
-|-----------|-----------|
+
 | **ID** | 19 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-19`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-19) |
 | **English Name** | Preamp |
@@ -797,8 +761,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Printer
 
-|||
-|-----------|-----------|
+
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-5`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-5) |
 | **English Name** | Printer |
@@ -819,8 +782,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Programming Language
 
-|||
-|-----------|-----------|
+
 | **ID** | 56 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-56`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-56) |
 | **English Name** | Programming Language |
@@ -840,8 +802,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Record Player
 
-|||
-|-----------|-----------|
+
 | **ID** | 53 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-53`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-53) |
 | **English Name** | Record Player |
@@ -862,8 +823,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Robot
 
-|||
-|-----------|-----------|
+
 | **ID** | 44 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-44`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-44) |
 | **English Name** | Robot |
@@ -884,8 +844,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Sample Library
 
-|||
-|-----------|-----------|
+
 | **ID** | 14 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-14`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-14) |
 | **English Name** | Sample Library |
@@ -904,8 +863,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Sensor
 
-|||
-|-----------|-----------|
+
 | **ID** | 45 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-45`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-45) |
 | **English Name** | Sensor |
@@ -926,8 +884,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Server
 
-|||
-|-----------|-----------|
+
 | **ID** | 15 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-15`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-15) |
 | **English Name** | Server |
@@ -948,8 +905,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Single Board Computer
 
-|||
-|-----------|-----------|
+
 | **ID** | 25 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-25`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-25) |
 | **English Name** | Single Board Computer |
@@ -969,8 +925,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Slide Projector
 
-|||
-|-----------|-----------|
+
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-33`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-33) |
 | **English Name** | Slide Projector |
@@ -991,8 +946,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Smartphone
 
-|||
-|-----------|-----------|
+
 | **ID** | 28 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-28`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-28) |
 | **English Name** | Smartphone |
@@ -1012,8 +966,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Software
 
-|||
-|-----------|-----------|
+
 | **ID** | 16 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-16`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-16) |
 | **English Name** | Software |
@@ -1034,8 +987,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Sound Recording Device
 
-|||
-|-----------|-----------|
+
 | **ID** | 31 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-31`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-31) |
 | **English Name** | Sound Recording Device |
@@ -1054,8 +1006,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Streaming Box
 
-|||
-|-----------|-----------|
+
 | **ID** | 23 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-23`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-23) |
 | **English Name** | Streaming Box |
@@ -1075,8 +1026,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Studio Equipment
 
-|||
-|-----------|-----------|
+
 | **ID** | 49 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-49`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-49) |
 | **English Name** | Studio Equipment |
@@ -1095,8 +1045,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Tablet Computer
 
-|||
-|-----------|-----------|
+
 | **ID** | 50 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-50`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-50) |
 | **English Name** | Tablet Computer |
@@ -1117,8 +1066,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Transducer
 
-|||
-|-----------|-----------|
+
 | **ID** | 21 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-21`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-21) |
 | **English Name** | Transducer |
@@ -1139,8 +1087,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Tripod
 
-|||
-|-----------|-----------|
+
 | **ID** | 47 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-47`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-47) |
 | **English Name** | Tripod |
@@ -1160,8 +1107,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Unmanned Aerial Vehicle
 
-|||
-|-----------|-----------|
+
 | **ID** | 36 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-36`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-36) |
 | **English Name** | Unmanned Aerial Vehicle |
@@ -1181,8 +1127,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Video Camera
 
-|||
-|-----------|-----------|
+
 | **ID** | 18 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-18`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-18) |
 | **English Name** | Video Camera |
@@ -1203,8 +1148,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Video Projector
 
-|||
-|-----------|-----------|
+
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-4`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-4) |
 | **English Name** | Video Projector |
@@ -1224,8 +1168,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## Vision Mixer
 
-|||
-|-----------|-----------|
+
 | **ID** | 58 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-58`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-58) |
 | **English Name** | Vision Mixer |
@@ -1244,8 +1187,7 @@ The vocabulary initially created is listed below for easier reading and referenc
 
 ## VR Headset
 
-|||
-|-----------|-----------|
+
 | **ID** | 20 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-20`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-20) |
 | **English Name** | VR Headset |

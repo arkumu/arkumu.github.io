@@ -17,7 +17,7 @@ permalink: /documentation/controlled-vocabularies
 
 **Deutsch**:
 
-Durch die gemeinsame Verwendung einheitlicher und eindeutig identifizierbarer Begrifflichkeiten ist es möglich, Akteur:innen, Projekte, Ereignisse und andere Entitäten standardisiert zu klassifizieren und sie dadurch wiederauffindbar, vergleichbar und nachnutzbar zu machen. Sie bilden somit einen integralen Bestandteil der bereitgestellten Metadaten.
+Durch die gemeinsame Verwendung einheitlicher und eindeutig identifizierbarer Begrifflichkeiten ist es möglich, Akteur:innen, Projekte, Ereignisse und andere Entitäten standardisiert zu klassifizieren und sie dadurch wiederauffindbar, vergleichbar und nachnutzbar zu machen. 
 
 Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in Wertelisten und in Taxonomien, die darüber hinaus auch eine hierarchische Einordnung der Begriffe ermöglichen. Durch die angegebenen URIs ist jeder Begriff dauerhaft identifizierbar und referenzierbar.
 
@@ -27,9 +27,9 @@ Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in W
 
 **English:**
 
-By using consistent and uniquely identifiable terminology, it becomes possible to classify actors, projects, events and other entities in a standardized way, making them easier to find, compare, and reuse. They therefore form an integral part of the provided metadata.
+By using consistent and uniquely identifiable terminology, it becomes possible to classify actors, projects, events and other entities in a standardized way, making them easier to find, compare, and reuse.
 
-In arkumu.nrw, controlled vocabularies appear primarily in two forms: value lists and taxonomies, the latter additionally allowing for the hierarchical structuring of terms. Thanks to the assigned URIs, each term is persistently identifiable and citable.
+In arkumu.nrw, controlled vocabularies appear in two forms: value lists and taxonomies, the latter additionally allowing for the hierarchical structuring of terms. Thanks to the assigned URIs, each term is persistently identifiable and citable.
 
 <br/>
 <br/>
@@ -47,7 +47,7 @@ In arkumu.nrw, controlled vocabularies appear primarily in two forms: value list
 
 Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei werden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie programmatisch verfügbar sind; d.h. sie können direkt und aktiv in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
 
-Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegt und über GitHub Pages veröffentlicht. Wie sie gepflegt werden können, ist dort beschrieben.Es wird www.w3id.org als Provider für permanente URLs benutzt.
+Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegt und über GitHub Pages veröffentlicht. Wie sie gepflegt werden können, ist dort beschrieben. Es wird www.w3id.org als Provider für permanente URLs benutzt.
 
 <br/>
 
@@ -64,13 +64,13 @@ The vocabularies (as well as docs.arkumu.nrw) are maintained on [GitHub](https:/
 
 ---
 
-## Überblick
+## Hinweis
 
-```Overview```
+```Caveat```
 
 **Deutsch:**
 
-Hinweis: Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die initial erstellten Vokabulare aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegten und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichten Fassungen sind aktueller und als verbindlich anzusehen.
+Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die initial erstellten Vokabulare aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegten und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichten Fassungen sind aktueller und als verbindlich anzusehen.
 <br/>
 
 
@@ -78,8 +78,9 @@ Hinweis: Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die init
 
 **English:**
 
-Caveat: The vocabularies initially created are listed below for easier reading and reference. The versions maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) are more up-to-date and should be considered authoritative.
+The vocabularies initially created are listed below for easier reading and reference. The versions maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) are more up-to-date and should be considered authoritative.
 
+<br/>
 
 ---
 
@@ -89,14 +90,14 @@ Caveat: The vocabularies initially created are listed below for easier reading a
 
 **Deutsch:**
 
-Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokabulars dar, da es sich um einfache Listen von Einträgen handelt, die nicht auf einer hierarchischen oder ontologischen Struktur basieren. Sie werden in allen zentralen Entitäten von arkumu.nrw zur Erfassung verwendet.
+Wertelisten stellen die einfachste strukturierte Form eines kontrollierten Vokabulars dar. Es sind "flache" Listen von Einträgen, die nicht auf einer hierarchischen oder ontologischen Struktur basieren. Sie werden in allen zentralen Entitäten von arkumu.nrw zur Erfassung verwendet.
 <br/>
 
 ---
 
 **English:**
 
-Value lists represent the simplest structured form of a controlled vocabulary, as they simply consist of a list of entries that are not based on a hierarchical or ontological structure. They are used in all central entities of arkumu.nrw.
+Value lists represent the simplest structured form of a controlled vocabulary. They are flat list of entries that are not based on a hierarchical or ontological structure. They are used in all central entities of arkumu.nrw.
 
 <br/>
 
@@ -125,14 +126,19 @@ Value lists represent the simplest structured form of a controlled vocabulary, a
 
 **Deutsch:**
 
-Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestellt werden, in der sich die Konzepte von weniger spezifischen zu spezifischeren Konzepten verzweigen. Um das System zudem leicht pflegebar zu halten, verwendet arkumu.nrw keine ontologischen Strukturen. Dies hat jedoch zur Folge, dass bei den [Projektkategorien](/documentation/controlled-vocabularies/project-categories) ein Begriff in mehreren Hierarchien gleichzeitig auftauchen kann.
+Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestellt werden, in der sich die Konzepte von allgemeinen zu spezifischeren Konzepten verzweigen. 
+
+Um das System leicht pflegebar zu halten, verwendet arkumu.nrw keine ontologischen Strukturen. Dies hat zur Folge, dass bei den [Projektkategorien](/documentation/controlled-vocabularies/project-categories) ein Begriff in mehreren Hierarchien gleichzeitig auftauchen kann. Beispiel: Der Begriff "Drehbuch" kann sowohl dem Überbegriff "Film/TV" als auch "Literatur" zugeordnet sein, je nachdem, in welchem Lehrgebiet das Projekt entstanden ist. Ontologien können ein solches "child" mit mehreren "parents" problemlos abbilden; Taxonomien nicht. Deshalb taucht der Begriff mehrmals auf. Beim Erfassen eines Projekts ist deshalb immer der gesamte Hierarchiebaum ("breadcrumb") zu berücksichtigen.
+
 <br/>
 
 ---
 
 **English:**
 
-Taxonomies organise concepts hierarchically. They can be represented as a tree structure, where concepts branch from less specific to more specific ones. To keep the system easily updatable, arkumu.nrw does not use ontological structures. However, this means that in the [project categories](/documentation/controlled-vocabularies/project-categories), a term can appear in multiple hierarchies simultaneously.
+Taxonomies organise concepts hierarchically. They can be represented as a tree structure, where concepts branch from general to more specific ones. 
+
+To keep the system easily updatable, arkumu.nrw does not use ontological structures. This means that in the [project categories](/documentation/controlled-vocabularies/project-categories), a term can appear in multiple hierarchies simultaneously. Example: The term “screenplay” can be assigned to both the umbrella term “Film/TV” and “Literature,” depending on the academic discipline in which the project was created. Ontologies can easily represent such a “child” with multiple “parents”; taxonomies cannot. That is why the term appears multiple times. When creating a project, the entire hierarchy tree (“breadcrumb”) should therefore always be taken into account.
 
 <br/>
 <br/>
