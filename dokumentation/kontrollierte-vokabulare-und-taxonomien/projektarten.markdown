@@ -9,13 +9,19 @@ permalink: /documentation/controlled-vocabularies/project-types
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/project-types](http://w3id.org/arkumu/project-types)
+
+
 ---
 
 <br/>
 
 **Deutsch:**
 
-Projektarten klassifizieren ein Projekt in einem akademischen Kontext. Im Gegensatz dazu beschreiben die  [Projektkategorien](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories) die künstlerische Ausrichtung des Projekts.
+Projektarten klassifizieren ein Projekt im akademischen Kontext. Nicht zu verwechseln mit [Projektkategorien](/documentation/controlled-vocabularies/project-categories), die die künstlerische Ausrichtung des Projekts beschreiben.
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
+
 
 <br/>
 
@@ -26,68 +32,14 @@ Projektarten klassifizieren ein Projekt in einem akademischen Kontext. Im Gegens
 **English:**
 
 Project types classify a project within an academic context.
-In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories) describe the artistic orientation of the project. 
+Not to be confused with [Project Categories](/documentation/controlled-vocabularies/project-categories), which describe the artistic orientation of the project. 
+
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 
 ---
 
-<br/>
-
-| Format | Link | Last Updated |
-|-----------|-----------|-----------|
-| **CSV** | <https://docs.arkumu.nrw/assets/documents/Project_Types.csv> | 2025-10-27 |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Project_Types.xlsx> | 2025-10-27 |
-| **PDF** | <https://docs.arkumu.nrw/assets/documents/Project_Types.pdf> | 2025-10-27 |
-
-<br/>
-
----
-
-<br/>
-
-<details><summary>Project Types ordered by ID | Projektarten nach ID geordnet</summary>
-<table>
-<tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='#bachelor-thesis'>1</a></td><td><a href='#bachelor-thesis'>Bachelorarbeit</a></td><td><a href='#bachelor-thesis'>Bachelor Thesis</a></td></tr>
-<tr><td><a href='#diploma-project'>2</a></td><td><a href='#diploma-project'>Diplomprojekt</a></td><td><a href='#diploma-project'>Diploma Project</a></td></tr>
-<tr><td><a href='#research-project'>3</a></td><td><a href='#research-project'>Forschungsprojekt</a></td><td><a href='#research-project'>Research Project</a></td></tr>
-<tr><td><a href='#autonomous-project'>4</a></td><td><a href='#autonomous-project'>Autonomes Projekt</a></td><td><a href='#autonomous-project'>Autonomous Project</a></td></tr>
-<tr><td><a href='#master-thesis'>5</a></td><td><a href='#master-thesis'>Masterarbeit</a></td><td><a href='#master-thesis'>Master Thesis</a></td></tr>
-<tr><td><a href='#project-1-khm'>6</a></td><td><a href='#project-1-khm'>Projekt 1 (KHM)</a></td><td><a href='#project-1-khm'>Project 1 (KHM)</a></td></tr>
-<tr><td><a href='#project-2-khm'>7</a></td><td><a href='#project-2-khm'>Projekt 2 (KHM)</a></td><td><a href='#project-2-khm'>Project 2 (KHM)</a></td></tr>
-<tr><td><a href='#collection-item'>8</a></td><td><a href='#collection-item'>Sammlungsobjekt</a></td><td><a href='#collection-item'>Collection Item</a></td></tr>
-<tr><td><a href='#student-project'>9</a></td><td><a href='#student-project'>Studentisches Projekt</a></td><td><a href='#student-project'>Student Project</a></td></tr>
-<tr><td><a href='#event'>10</a></td><td><a href='#event'>Veranstaltung</a></td><td><a href='#event'>Event</a></td></tr>
-<tr><td><a href='#vordiplom'>11</a></td><td><a href='#vordiplom'>Vordiplom</a></td><td><a href='#vordiplom'>Vordiplom</a></td></tr>
-<tr><td><a href='#seminar-project'>12</a></td><td><a href='#seminar-project'>Seminarprojekt</a></td><td><a href='#seminar-project'>Seminar Project</a></td></tr>
-<tr><td><a href='#doctoral-thesis'>13</a></td><td><a href='#doctoral-thesis'>Dissertation</a></td><td><a href='#doctoral-thesis'>Doctoral Thesis</a></td></tr>
-</table>
-</details>
-
-<details><summary>Project Types ordered by German Name | Projektarten nach Deutschem Namen geordnet</summary>
-<table>
-<tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='#autonomous-project'>Autonomes Projekt</a></td><td><a href='#autonomous-project'>Autonomous Project</a></td><td><a href='#autonomous-project'>4</a></td></tr>
-<tr><td><a href='#bachelor-thesis'>Bachelorarbeit</a></td><td><a href='#bachelor-thesis'>Bachelor Thesis</a></td><td><a href='#bachelor-thesis'>1</a></td></tr>
-<tr><td><a href='#diploma-project'>Diplomprojekt</a></td><td><a href='#diploma-project'>Diploma Project</a></td><td><a href='#diploma-project'>2</a></td></tr>
-<tr><td><a href='#doctoral-thesis'>Dissertation</a></td><td><a href='#doctoral-thesis'>Doctoral Thesis</a></td><td><a href='#doctoral-thesis'>13</a></td></tr>
-<tr><td><a href='#research-project'>Forschungsprojekt</a></td><td><a href='#research-project'>Research Project</a></td><td><a href='#research-project'>3</a></td></tr>
-<tr><td><a href='#master-thesis'>Masterarbeit</a></td><td><a href='#master-thesis'>Master Thesis</a></td><td><a href='#master-thesis'>5</a></td></tr>
-<tr><td><a href='#project-1-khm'>Projekt 1 (KHM)</a></td><td><a href='#project-1-khm'>Project 1 (KHM)</a></td><td><a href='#project-1-khm'>6</a></td></tr>
-<tr><td><a href='#project-2-khm'>Projekt 2 (KHM)</a></td><td><a href='#project-2-khm'>Project 2 (KHM)</a></td><td><a href='#project-2-khm'>7</a></td></tr>
-<tr><td><a href='#collection-item'>Sammlungsobjekt</a></td><td><a href='#collection-item'>Collection Item</a></td><td><a href='#collection-item'>8</a></td></tr>
-<tr><td><a href='#seminar-project'>Seminarprojekt</a></td><td><a href='#seminar-project'>Seminar Project</a></td><td><a href='#seminar-project'>12</a></td></tr>
-<tr><td><a href='#student-project'>Studentisches Projekt</a></td><td><a href='#student-project'>Student Project</a></td><td><a href='#student-project'>9</a></td></tr>
-<tr><td><a href='#event'>Veranstaltung</a></td><td><a href='#event'>Event</a></td><td><a href='#event'>10</a></td></tr>
-<tr><td><a href='#vordiplom'>Vordiplom</a></td><td><a href='#vordiplom'>Vordiplom</a></td><td><a href='#vordiplom'>11</a></td></tr>
-</table>
-</details>
-
-<br/>
-<br/>
-
----
 
 <br/>
 <br/>
@@ -96,10 +48,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Autonomous Project
 
-|||
-|-----------|-----------|
+
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#autonomous-project`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#autonomous-project) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/autonomous-project`[🔗](http://w3id.org/arkumu/project-types/autonomous-project) |
 | **English Name** | Autonomous Project |
 | **German Name** | Autonomes Projekt |
 | **Wikidata ID** | [Q124535359](https://www.wikidata.org/entity/Q124535359) |
@@ -116,10 +67,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Bachelor Thesis
 
-|||
-|-----------|-----------|
+
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#bachelor-thesis`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#bachelor-thesis) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/bachelor-thesis`[🔗](http://w3id.org/arkumu/project-types/bachelor-thesis) |
 | **English Name** | Bachelor Thesis |
 | **German Name** | Bachelorarbeit |
 | **Wikidata ID** | [Q798134](https://www.wikidata.org/entity/Q798134) |
@@ -136,10 +86,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Collection Item
 
-|||
-|-----------|-----------|
+
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#collection-item`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#collection-item) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/collection-item`[🔗](http://w3id.org/arkumu/project-types/collection-item) |
 | **English Name** | Collection Item |
 | **German Name** | Sammlungsobjekt |
 | **Wikidata ID** | [Q106815942](https://www.wikidata.org/entity/Q106815942) |
@@ -156,10 +105,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Diploma Project
 
-|||
-|-----------|-----------|
+
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#diploma-project`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#diploma-project) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/diploma-project`[🔗](http://w3id.org/arkumu/project-types/diploma-project) |
 | **English Name** | Diploma Project |
 | **German Name** | Diplomprojekt |
 | **Wikidata ID** | [Q30749496](https://www.wikidata.org/entity/Q30749496) |
@@ -176,10 +124,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Doctoral Thesis
 
-|||
-|-----------|-----------|
+
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#doctoral-thesis`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#doctoral-thesis) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/doctoral-thesis`[🔗](http://w3id.org/arkumu/project-types/doctoral-thesis) |
 | **English Name** | Doctoral Thesis |
 | **German Name** | Dissertation |
 | **Wikidata ID** | [Q187685](https://www.wikidata.org/entity/Q187685) |
@@ -193,10 +140,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Event
 
-|||
-|-----------|-----------|
+
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#event`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#event) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/event`[🔗](http://w3id.org/arkumu/project-types/event) |
 | **English Name** | Event |
 | **German Name** | Veranstaltung |
 | **Wikidata ID** | [Q1656682](https://www.wikidata.org/entity/Q1656682) |
@@ -213,10 +159,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Master Thesis
 
-|||
-|-----------|-----------|
+
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#master-thesis`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#master-thesis) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/master-thesis`[🔗](http://w3id.org/arkumu/project-types/master-thesis) |
 | **English Name** | Master Thesis |
 | **German Name** | Masterarbeit |
 | **Wikidata ID** | [Q1907875](https://www.wikidata.org/entity/Q1907875) |
@@ -233,10 +178,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Project 1 (KHM)
 
-|||
-|-----------|-----------|
+
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#project-1-khm`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#project-1-khm) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/project-1-khm`[🔗](http://w3id.org/arkumu/project-types/project-1-khm) |
 | **English Name** | Project 1 (KHM) |
 | **German Name** | Projekt 1 (KHM) |
 | **Wikidata ID** | [Q123692929](https://www.wikidata.org/entity/Q123692929) |
@@ -253,10 +197,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Project 2 (KHM)
 
-|||
-|-----------|-----------|
+
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#project-2-khm`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#project-2-khm) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/project-2-khm`[🔗](http://w3id.org/arkumu/project-types/project-2-khm) |
 | **English Name** | Project 2 (KHM) |
 | **German Name** | Projekt 2 (KHM) |
 | **Wikidata ID** | [Q123692947](https://www.wikidata.org/entity/Q123692947) |
@@ -273,10 +216,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Research Project
 
-|||
-|-----------|-----------|
+
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#research-project`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#research-project) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/research-project`[🔗](http://w3id.org/arkumu/project-types/research-project) |
 | **English Name** | Research Project |
 | **German Name** | Forschungsprojekt |
 | **Wikidata ID** | [Q1298668](https://www.wikidata.org/entity/Q1298668) |
@@ -293,10 +235,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Seminar Project
 
-|||
-|-----------|-----------|
+
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#seminar-project`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#seminar-project) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/seminar-project`[🔗](http://w3id.org/arkumu/project-types/seminar-project) |
 | **English Name** | Seminar Project |
 | **German Name** | Seminarprojekt |
 | **Wikidata ID** | [Q135995720](https://www.wikidata.org/entity/Q135995720) |
@@ -310,10 +251,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Student Project
 
-|||
-|-----------|-----------|
+
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#student-project`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#student-project) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/student-project`[🔗](http://w3id.org/arkumu/project-types/student-project) |
 | **English Name** | Student Project |
 | **German Name** | Studentisches Projekt |
 | **Wikidata ID** | [Q30032131](https://www.wikidata.org/entity/Q30032131) |
@@ -330,10 +270,9 @@ In contrast, [Project Categories](https://docs.arkumu.nrw/documentation/controll
 
 ## Vordiplom
 
-|||
-|-----------|-----------|
+
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#vordiplom`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types#vordiplom) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-types/vordiplom`[🔗](http://w3id.org/arkumu/project-types/vordiplom) |
 | **English Name** | Vordiplom |
 | **German Name** | Vordiplom |
 | **Wikidata ID** | [Q1227202](https://www.wikidata.org/entity/Q1227202) |
