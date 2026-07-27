@@ -107,6 +107,7 @@ Value lists represent the simplest structured form of a controlled vocabulary. T
 | [Event Types](/documentation/controlled-vocabularies/event-types) | [Ereignistypen](/documentation/controlled-vocabularies/event-types) | `http://w3id.org/arkumu/event-types`[🔗](http://w3id.org/arkumu/event-types) |
 | [Genesis Types](/documentation/controlled-vocabularies/genesis-types) | [Entstehungstypen](/documentation/controlled-vocabularies/genesis-types) | `http://w3id.org/arkumu/genesis-types`[🔗](http://w3id.org/arkumu/genesis-types) |
 | [Genders](/documentation/controlled-vocabularies/genders) | [Geschlechter](/documentation/controlled-vocabularies/genders) | `http://w3id.org/arkumu/genders`[🔗](http://w3id.org/arkumu/genders) |
+| [Licences](/documentation/controlled-vocabularies/licenses) | [Lizenzen](/documentation/controlled-vocabularies/licenses) | `http://w3id.org/arkumu/licenses`[🔗](http://w3id.org/arkumu/licenses)
 | [Media Types](/documentation/controlled-vocabularies/media-types) | [Medientypen](/documentation/controlled-vocabularies/media-types) |  `http://w3id.org/arkumu/media-types`[🔗](http://w3id.org/arkumu/media-types) |
 | [Project Types](/documentation/controlled-vocabularies/project-types) | [Projektarten](/documentation/controlled-vocabularies/project-types) | `http://w3id.org/arkumu/project-types`[🔗](http://w3id.org/arkumu/project-types)|
 
@@ -152,30 +153,3 @@ To keep the system easily updatable, arkumu.nrw does not use ontological structu
 
 <br/>
 
----
-
-<br/>
-<br/>
-
-## Lizenz-Referenz
-
-```License Reference```
-
-<br/>
-
-**Deutsch:**
-
-Die ID-Referenz für die Digitale-Objekt-Lizenz ist kein kontrolliertes Vokabular im engeren Sinne, sondern vielmehr Teil des selbst erstellten und selbst zusammengestellten Lizenzmodells. Da die anderen kontrollierten Vokabulare jedoch alle mit IDs versehen sind, sollte auch hier den einzelnen Lizenzen eine arkumu.nrw-interne ID zugewiesen werden.
-<br/>
-
----
-
-**English:**
-
-The ID reference for the Digital Object License is not a controlled vocabulary in the strict sense, but rather part of the custom license model developed within arkumu.nrw. Since all other controlled vocabularies are assigned unique IDs, each license here is also assigned an internal arkumu.nrw ID for consistency and traceability.
-<br/>
-<br/>
-
-| English Name of Reference| German Name of Reference | Permanent URL |
-| ------ | ------ | ------ | ------ |
-| [Digital Object Licence ID References](/documentation/controlled-vocabularies/digital-object-license-id-references) | [Digitales-Objekt-Lizenz-ID-Referenzen](/documentation/controlled-vocabularies/digital-object-license-id-references) | `http://w3id.org/arkumu/licenses`[🔗](http://w3id.org/arkumu/licenses)
