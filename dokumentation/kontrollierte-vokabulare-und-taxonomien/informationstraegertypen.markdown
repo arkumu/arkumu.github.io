@@ -17,7 +17,7 @@ Permanent URL: [http://w3id.org/arkumu/information-storage-medium-types](http://
 
 **Deutsch:**
 
-Informationsträgertypen werden zur Klassifizierung von Informationsträgern verwendet. Die Einträge zu Video, Film und Audio basieren zum Teil auf den [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Weitere Informationen zu Informationsträgern finden Sie im [Museum of Obsolete Media](https://obsoletemedia.org/), auf [fileformats.archiveteam.org](https://web.archive.org/web/20250819081535/http://fileformats.archiveteam.org/wiki/Physical_File_Formats) sowie auf der [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+Informationsträgertypen werden zur Klassifizierung von Informationsträgern verwendet. Die Einträge zu Video, Film und Audio basieren zum Teil auf den [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Weitere Informationen zu Informationsträgern sind dem [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](https://web.archive.org/web/20250819081535/http://fileformats.archiveteam.org/wiki/Physical_File_Formats) sowie den [RDA Carrier Types](https://www.loc.gov/standards/valuelist/rdacarrier.html) entnommen.
 
 ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
@@ -29,7 +29,7 @@ Informationsträgertypen werden zur Klassifizierung von Informationsträgern ver
 
 **English:**
 
-Information Storage Medium Types are used to classify Information Storage Media. The video, film and audio entries are in part based on the [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). For further reading on Information Storage Media see the [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](https://web.archive.org/web/20250819081535/http://fileformats.archiveteam.org/wiki/Physical_File_Formats), as well as the [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+Information Storage Medium Types are used to classify Information Storage Media. The video, film and audio entries are in part based on the [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Further information has been compiled from the [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](https://web.archive.org/web/20250819081535/http://fileformats.archiveteam.org/wiki/Physical_File_Formats), as well as the [RDA Carrier Types](https://www.loc.gov/standards/valuelist/rdacarrier.html).
 
 ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
