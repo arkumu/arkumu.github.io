@@ -9,9 +9,17 @@ permalink: /documentation/controlled-vocabularies/media-types
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/media-types](http://w3id.org/arkumu/media-types)
+
+---
+
+<br/>
+
 **Deutsch:**
 
-Der Medientyp erlaubt eine Kategorisierung einer Datei. Die Medientypen "3D", "Audio", "Bild", "Text" und "Video" stammen dabei aus der [Kategorisierung der Deutschen Digitalen Bibliothek](https://pro.deutsche-digitale-bibliothek.de/glossar/medientyp) und wurden um die Medientypen "Code" und "Daten" erweitert. Im Gegensatz zur DDB ist das Format der Mediendatei für diese Einordnung entscheidend und kann damit durch die einfache Erkennung des Mime-Types automatisiert werden.
+Dateien können nach Medientyp kategorisiert werden. Die Medientypen "3D", "Audio", "Bild", "Text" und "Video" stammen dabei aus der [Kategorisierung der Deutschen Digitalen Bibliothek](https://pro.deutsche-digitale-bibliothek.de/glossar/medientyp) und wurden um die Medientypen "Code" und "Daten" erweitert. Im Gegensatz zur DDB ist bei arkumu das Format der Mediendatei für diese Einordnung entscheidend und kann so durch die einfache Erkennung des MIME-Types automatisiert werden.
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 <br/>
 
@@ -21,7 +29,10 @@ Der Medientyp erlaubt eine Kategorisierung einer Datei. Die Medientypen "3D", "A
 
 **English:**
 
-The Media Type allows for a file to be categorized. The Media Types "3D", "Audio", "Image", "Text", and "Video" originate from the [categorisation of the Deutsche Digitale Bibliothek (German Digital Library)](https://pro.deutsche-digitale-bibliothek.de/glossar/medientyp) and have been expanded to include the Media Types "Code" and "Data". In contrast to the DDB this classification is based on the file format and can therefore be automated based on the file's MIME-Type.
+Files can be categorized by media type. The media types “3D”, “Audio”, “Image”, “Text”, and “Video” are derived from the [ Deutschen Digitale Bibliothek's categorisation](https://pro.deutsche-digitale-bibliothek.de/glossar/medientyp) and have been expanded to include the media types ‘Code’ and “Data.” Unlike the DDB, arkumu uses the media file format as the determining factor for this classification, which can be automated simply by detecting the MIME type.
+
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
+
 
 <br/>
 <br/>
@@ -37,10 +48,9 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## 3D
 
-|||
-| -------- | ------- |
+
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#3d`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#3d) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/3d`[🔗](http://w3id.org/arkumu/media-types/3d) |
 | **Englisch Name** | 3D |
 | **German Name** | 3D |
 
@@ -56,10 +66,9 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## Audio
 
-|||
-| -------- | ------- |
+
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#audio`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#audio) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/audio`[🔗](http://w3id.org/arkumu/media-types/audio) |
 | **Englisch Name** | Audio |
 | **German Name** | Audio |
 
@@ -75,10 +84,9 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## Code
 
-|||
-| -------- | ------- |
+
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#code`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#code) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/code`[🔗](http://w3id.org/arkumu/media-types/code) |
 | **Englisch Name** | Code |
 | **German Name** | Code |
 
@@ -94,10 +102,9 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## Data
 
-|||
-| -------- | ------- |
+
 | **ID** | 7 |
-| **URI** | [https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#data][🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#data) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/data`[🔗](http://w3id.org/arkumu/media-types/data) |
 | **Englisch Name** | Data |
 | **German Name** | Daten |
 
@@ -113,10 +120,9 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## Image
 
-|||
-| -------- | ------- |
+
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#image`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#image) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/image`[🔗](http://w3id.org/arkumu/media-types/image) |
 | **Englisch Name** | Image |
 | **German Name** | Bild |
 
@@ -132,10 +138,9 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## Text
 
-|||
-| -------- | ------- |
+
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#text`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#text) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/text`[🔗](http://w3id.org/arkumu/media-types/text) |
 | **Englisch Name** | Text |
 | **German Name** | Text |
 
@@ -151,9 +156,8 @@ The Media Type allows for a file to be categorized. The Media Types "3D", "Audio
 
 ## Video
 
-|||
-| -------- | ------- |
+
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#video`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/media-types#video) |
+| **Permanent URL** | `http://w3id.org/arkumu/media-types/video`[🔗](http://w3id.org/arkumu/media-types/video) |
 | **Englisch Name** | Video |
 | **German Name** | Video |
