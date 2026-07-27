@@ -9,13 +9,17 @@ permalink: /documentation/controlled-vocabularies/information-storage-medium-typ
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/information-storage-medium-types](http://w3id.org/arkumu/information-storage-medium-types)
+
 ---
 
 <br/>
 
 **Deutsch:**
 
-Informationsträgertypen werden zur Klassifizierung von Informationsträgern verwendet, die wiederum mit Ereignissen verknüpft werden können. Die Einträge zu Video, Film und Audio basieren zum Teil auf den [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Weitere Informationen zu Informationsträgern finden Sie im [Museum of Obsolete Media](https://obsoletemedia.org/), auf [fileformats.archiveteam.org](https://fileformats.archiveteam.org) sowie auf der [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+Informationsträgertypen werden zur Klassifizierung von Informationsträgern verwendet. Die Einträge zu Video, Film und Audio basieren zum Teil auf den [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). Weitere Informationen zu Informationsträgern finden Sie im [Museum of Obsolete Media](https://obsoletemedia.org/), auf [fileformats.archiveteam.org](https://web.archive.org/web/20250819081535/http://fileformats.archiveteam.org/wiki/Physical_File_Formats) sowie auf der [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 <br/>
 
@@ -25,591 +29,10 @@ Informationsträgertypen werden zur Klassifizierung von Informationsträgern ver
 
 **English:**
 
-Information Storage Medium Types are used to classify Information Storage Mediums, which itself can then be connected to Events. The video, film and audio entries are, in part, based on the [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). For further reading on Information Storage Mediums see the [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](https://fileformats.archiveteam.org), as well as the [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
+Information Storage Medium Types are used to classify Information Storage Media. The video, film and audio entries are in part based on the [PBCore Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies). For further reading on Information Storage Media see the [Museum of Obsolete Media](https://obsoletemedia.org/), [fileformats.archiveteam.org](https://web.archive.org/web/20250819081535/http://fileformats.archiveteam.org/wiki/Physical_File_Formats), as well as the [RDA Carrier Types Website](https://www.loc.gov/standards/valuelist/rdacarrier.html).
 
-<br/>
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
----
-
-<br/>
-
-| Format | Link | Last Updated |
-|-----------|-----------|-----------|
-| **CSV** | <https://docs.arkumu.nrw/assets/documents/Information_Storage_Medium_Types.csv> | 2025-11-03 |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Information_Storage_Medium_Types.xlsx> | 2025-11-03 |
-| **PDF** | <https://docs.arkumu.nrw/assets/documents/Information_Storage_Medium_Types.pdf> | 2025-11-03 |
-
-<br/>
-
----
-
-<br/>
-
-<details><summary>Information Storage Medium Types ordered by ID | Informationsträgertypen nach ID geordnet</summary>
-<table>
-<tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='#information-storage-medium-type-1'>1</a></td><td><a href='#information-storage-medium-type-1'>Videokassette</a></td><td><a href='#information-storage-medium-type-1'>Videocassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-2'>2</a></td><td><a href='#information-storage-medium-type-2'>Betacam</a></td><td><a href='#information-storage-medium-type-2'>Betacam</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-3'>3</a></td><td><a href='#information-storage-medium-type-3'>Betacam SP</a></td><td><a href='#information-storage-medium-type-3'>Betacam SP</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-4'>4</a></td><td><a href='#information-storage-medium-type-4'>Betacam SX</a></td><td><a href='#information-storage-medium-type-4'>Betacam SX</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-5'>5</a></td><td><a href='#information-storage-medium-type-5'>Betamax</a></td><td><a href='#information-storage-medium-type-5'>Betamax</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-6'>6</a></td><td><a href='#information-storage-medium-type-6'>Catrivision</a></td><td><a href='#information-storage-medium-type-6'>Catrivision</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-7'>7</a></td><td><a href='#information-storage-medium-type-7'>D1</a></td><td><a href='#information-storage-medium-type-7'>D1</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-8'>8</a></td><td><a href='#information-storage-medium-type-8'>D2</a></td><td><a href='#information-storage-medium-type-8'>D2</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-9'>9</a></td><td><a href='#information-storage-medium-type-9'>D3</a></td><td><a href='#information-storage-medium-type-9'>D3</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-10'>10</a></td><td><a href='#information-storage-medium-type-10'>D5</a></td><td><a href='#information-storage-medium-type-10'>D5</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-11'>11</a></td><td><a href='#information-storage-medium-type-11'>D6</a></td><td><a href='#information-storage-medium-type-11'>D6</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-12'>12</a></td><td><a href='#information-storage-medium-type-12'>D9</a></td><td><a href='#information-storage-medium-type-12'>D9</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-13'>13</a></td><td><a href='#information-storage-medium-type-13'>DCT</a></td><td><a href='#information-storage-medium-type-13'>DCT</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-14'>14</a></td><td><a href='#information-storage-medium-type-14'>Digital Betacam</a></td><td><a href='#information-storage-medium-type-14'>Digital Betacam</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-15'>15</a></td><td><a href='#information-storage-medium-type-15'>Digital8</a></td><td><a href='#information-storage-medium-type-15'>Digital8</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-16'>16</a></td><td><a href='#information-storage-medium-type-16'>DV</a></td><td><a href='#information-storage-medium-type-16'>DV</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-17'>17</a></td><td><a href='#information-storage-medium-type-17'>DVCAM</a></td><td><a href='#information-storage-medium-type-17'>DVCAM</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-18'>18</a></td><td><a href='#information-storage-medium-type-18'>DVCPRO</a></td><td><a href='#information-storage-medium-type-18'>DVCPRO</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-19'>19</a></td><td><a href='#information-storage-medium-type-19'>HDCAM</a></td><td><a href='#information-storage-medium-type-19'>HDCAM</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-20'>20</a></td><td><a href='#information-storage-medium-type-20'>HDV</a></td><td><a href='#information-storage-medium-type-20'>HDV</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-21'>21</a></td><td><a href='#information-storage-medium-type-21'>Hi8</a></td><td><a href='#information-storage-medium-type-21'>Hi8</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-22'>22</a></td><td><a href='#information-storage-medium-type-22'>MII</a></td><td><a href='#information-storage-medium-type-22'>MII</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-23'>23</a></td><td><a href='#information-storage-medium-type-23'>MiniDV</a></td><td><a href='#information-storage-medium-type-23'>MiniDV</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-24'>24</a></td><td><a href='#information-storage-medium-type-24'>U-matic</a></td><td><a href='#information-storage-medium-type-24'>U-matic</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-25'>25</a></td><td><a href='#information-storage-medium-type-25'>V-Cord</a></td><td><a href='#information-storage-medium-type-25'>V-Cord</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-26'>26</a></td><td><a href='#information-storage-medium-type-26'>VHS</a></td><td><a href='#information-storage-medium-type-26'>VHS</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-27'>27</a></td><td><a href='#information-storage-medium-type-27'>S-VHS</a></td><td><a href='#information-storage-medium-type-27'>S-VHS</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-28'>28</a></td><td><a href='#information-storage-medium-type-28'>VHS-C</a></td><td><a href='#information-storage-medium-type-28'>VHS-C</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-29'>29</a></td><td><a href='#information-storage-medium-type-29'>Video8</a></td><td><a href='#information-storage-medium-type-29'>Video8</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-30'>30</a></td><td><a href='#information-storage-medium-type-30'>VX</a></td><td><a href='#information-storage-medium-type-30'>VX</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-31'>31</a></td><td><a href='#information-storage-medium-type-31'>Videoband</a></td><td><a href='#information-storage-medium-type-31'>Open Reel Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-32'>32</a></td><td><a href='#information-storage-medium-type-32'>1 Zoll A Videoband</a></td><td><a href='#information-storage-medium-type-32'>1 Inch Type A Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-33'>33</a></td><td><a href='#information-storage-medium-type-33'>1 Zoll B Videoband</a></td><td><a href='#information-storage-medium-type-33'>1 Inch Type B Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-34'>34</a></td><td><a href='#information-storage-medium-type-34'>1 Zoll C Videoband</a></td><td><a href='#information-storage-medium-type-34'>1 Inch Type C Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-35'>35</a></td><td><a href='#information-storage-medium-type-35'>1/2 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-35'>1/2 Inch Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-36'>36</a></td><td><a href='#information-storage-medium-type-36'>1/4 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-36'>1/4 Inch Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-37'>37</a></td><td><a href='#information-storage-medium-type-37'>2 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-37'>2 Inch Videotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-38'>38</a></td><td><a href='#information-storage-medium-type-38'>Optischer Videodatenträger</a></td><td><a href='#information-storage-medium-type-38'>Optical Video Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-39'>39</a></td><td><a href='#information-storage-medium-type-39'>Blu-ray Video Disc</a></td><td><a href='#information-storage-medium-type-39'>Blu-ray Video Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-40'>40</a></td><td><a href='#information-storage-medium-type-40'>Video-DVD</a></td><td><a href='#information-storage-medium-type-40'>Video-DVD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-41'>41</a></td><td><a href='#information-storage-medium-type-41'>EVD</a></td><td><a href='#information-storage-medium-type-41'>EVD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-42'>42</a></td><td><a href='#information-storage-medium-type-42'>LaserDisc</a></td><td><a href='#information-storage-medium-type-42'>LaserDisc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-43'>43</a></td><td><a href='#information-storage-medium-type-43'>Video CD</a></td><td><a href='#information-storage-medium-type-43'>Video CD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-44'>44</a></td><td><a href='#information-storage-medium-type-44'>Super Video CD</a></td><td><a href='#information-storage-medium-type-44'>Super Video CD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-45'>45</a></td><td><a href='#information-storage-medium-type-45'>Universal Media Disc</a></td><td><a href='#information-storage-medium-type-45'>Universal Media Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-46'>46</a></td><td><a href='#information-storage-medium-type-46'>XDCAM Disc</a></td><td><a href='#information-storage-medium-type-46'>XDCAM Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-47'>47</a></td><td><a href='#information-storage-medium-type-47'>Mechanischer Tonträger</a></td><td><a href='#information-storage-medium-type-47'>Mechanical Audio Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-48'>48</a></td><td><a href='#information-storage-medium-type-48'>Dictabelt</a></td><td><a href='#information-storage-medium-type-48'>Dictabelt</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-49'>49</a></td><td><a href='#information-storage-medium-type-49'>Phonographenwalze</a></td><td><a href='#information-storage-medium-type-49'>Phonograph Cylinder</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-50'>50</a></td><td><a href='#information-storage-medium-type-50'>Normalspiel-Walze</a></td><td><a href='#information-storage-medium-type-50'>Normal Groove Cylinder</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-51'>51</a></td><td><a href='#information-storage-medium-type-51'>Langspiel-Walze</a></td><td><a href='#information-storage-medium-type-51'>Narrow Groove Cylinder</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-52'>52</a></td><td><a href='#information-storage-medium-type-52'>Diktat-Zylinder</a></td><td><a href='#information-storage-medium-type-52'>Dictation Cylinder</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-53'>53</a></td><td><a href='#information-storage-medium-type-53'>Schallplatte</a></td><td><a href='#information-storage-medium-type-53'>Grooved Analog Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-54'>54</a></td><td><a href='#information-storage-medium-type-54'>Normalrillen-Schallplatte</a></td><td><a href='#information-storage-medium-type-54'>Coarse Groove Record</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-55'>55</a></td><td><a href='#information-storage-medium-type-55'>Mikrorillen-Schallplatte</a></td><td><a href='#information-storage-medium-type-55'>Microgroove Record</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-56'>56</a></td><td><a href='#information-storage-medium-type-56'>Tefifon-Band</a></td><td><a href='#information-storage-medium-type-56'>Tefifon Tape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-57'>57</a></td><td><a href='#information-storage-medium-type-57'>Magnetischer Tonträger</a></td><td><a href='#information-storage-medium-type-57'>Magnetic Audio Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-58'>58</a></td><td><a href='#information-storage-medium-type-58'>Magnettonband</a></td><td><a href='#information-storage-medium-type-58'>Magnetic Audio Tape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-59'>59</a></td><td><a href='#information-storage-medium-type-59'>Spulentonband</a></td><td><a href='#information-storage-medium-type-59'>Open Reel Audiotape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-60'>60</a></td><td><a href='#information-storage-medium-type-60'>Kompaktkassette</a></td><td><a href='#information-storage-medium-type-60'>Audio Cassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-61'>61</a></td><td><a href='#information-storage-medium-type-61'>Executive Cassette</a></td><td><a href='#information-storage-medium-type-61'>Executive Cassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-62'>62</a></td><td><a href='#information-storage-medium-type-62'>Minikassette</a></td><td><a href='#information-storage-medium-type-62'>Mini-Cassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-63'>63</a></td><td><a href='#information-storage-medium-type-63'>Mikrokassette</a></td><td><a href='#information-storage-medium-type-63'>Microcassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-64'>64</a></td><td><a href='#information-storage-medium-type-64'>Picocassette</a></td><td><a href='#information-storage-medium-type-64'>Picocassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-65'>65</a></td><td><a href='#information-storage-medium-type-65'>Fidelipac</a></td><td><a href='#information-storage-medium-type-65'>Fidelipac</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-66'>66</a></td><td><a href='#information-storage-medium-type-66'>Stereo-Pak</a></td><td><a href='#information-storage-medium-type-66'>Stereo-Pak</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-67'>67</a></td><td><a href='#information-storage-medium-type-67'>8-Spur-Kassette</a></td><td><a href='#information-storage-medium-type-67'>8-track Tape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-68'>68</a></td><td><a href='#information-storage-medium-type-68'>Magnettonplatte</a></td><td><a href='#information-storage-medium-type-68'>Magnetic Sound Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-69'>69</a></td><td><a href='#information-storage-medium-type-69'>Tondraht</a></td><td><a href='#information-storage-medium-type-69'>Wire Recording</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-70'>70</a></td><td><a href='#information-storage-medium-type-70'>Optischer Tonträger</a></td><td><a href='#information-storage-medium-type-70'>Optical Audio Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-71'>71</a></td><td><a href='#information-storage-medium-type-71'>Lichttonfilm</a></td><td><a href='#information-storage-medium-type-71'>Optical Sound Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-72'>72</a></td><td><a href='#information-storage-medium-type-72'>Digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-72'>Digital Audio Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-73'>73</a></td><td><a href='#information-storage-medium-type-73'>Magneto-digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-73'>Magneto-digital Audio Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-74'>74</a></td><td><a href='#information-storage-medium-type-74'>DASH-Tonband</a></td><td><a href='#information-storage-medium-type-74'>DASH Open Reel Tape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-75'>75</a></td><td><a href='#information-storage-medium-type-75'>Pro-Digi-Tonband</a></td><td><a href='#information-storage-medium-type-75'>Pro Digi Open Reel Tape</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-76'>76</a></td><td><a href='#information-storage-medium-type-76'>PCM Betamax</a></td><td><a href='#information-storage-medium-type-76'>PCM Betamax</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-77'>77</a></td><td><a href='#information-storage-medium-type-77'>PCM U-Matic</a></td><td><a href='#information-storage-medium-type-77'>PCM U-Matic</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-78'>78</a></td><td><a href='#information-storage-medium-type-78'>PCM VHS</a></td><td><a href='#information-storage-medium-type-78'>PCM VHS</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-79'>79</a></td><td><a href='#information-storage-medium-type-79'>DAT</a></td><td><a href='#information-storage-medium-type-79'>DAT</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-80'>80</a></td><td><a href='#information-storage-medium-type-80'>ADAT</a></td><td><a href='#information-storage-medium-type-80'>ADAT</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-81'>81</a></td><td><a href='#information-storage-medium-type-81'>DTRS</a></td><td><a href='#information-storage-medium-type-81'>DTRS</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-82'>82</a></td><td><a href='#information-storage-medium-type-82'>Digital Compact Cassette</a></td><td><a href='#information-storage-medium-type-82'>Digital Compact Cassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-83'>83</a></td><td><a href='#information-storage-medium-type-83'>NT Cassette</a></td><td><a href='#information-storage-medium-type-83'>NT cassette</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-84'>84</a></td><td><a href='#information-storage-medium-type-84'>Opto-digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-84'>Opto-digital Audio Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-85'>85</a></td><td><a href='#information-storage-medium-type-85'>Audio-CD</a></td><td><a href='#information-storage-medium-type-85'>Audio CD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-86'>86</a></td><td><a href='#information-storage-medium-type-86'>Compact LaserDisc</a></td><td><a href='#information-storage-medium-type-86'>Compact LaserDisc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-87'>87</a></td><td><a href='#information-storage-medium-type-87'>Super Audio CD</a></td><td><a href='#information-storage-medium-type-87'>Super Audio CD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-88'>88</a></td><td><a href='#information-storage-medium-type-88'>DVD-Audio</a></td><td><a href='#information-storage-medium-type-88'>DVD-Audio</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-89'>89</a></td><td><a href='#information-storage-medium-type-89'>Blu-ray Audio Disc</a></td><td><a href='#information-storage-medium-type-89'>Blu-ray Audio Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-90'>90</a></td><td><a href='#information-storage-medium-type-90'>MiniDisc</a></td><td><a href='#information-storage-medium-type-90'>MiniDisc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-91'>91</a></td><td><a href='#information-storage-medium-type-91'>Bewegtbild-Film</a></td><td><a href='#information-storage-medium-type-91'>Moving Image Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-92'>92</a></td><td><a href='#information-storage-medium-type-92'>8 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-92'>8 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-93'>93</a></td><td><a href='#information-storage-medium-type-93'>8 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-93'>8 mm Negative Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-94'>94</a></td><td><a href='#information-storage-medium-type-94'>Super 8 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-94'>Super 8 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-95'>95</a></td><td><a href='#information-storage-medium-type-95'>9,5 mm Film</a></td><td><a href='#information-storage-medium-type-95'>9,5 mm Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-96'>96</a></td><td><a href='#information-storage-medium-type-96'>16 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-96'>16 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-97'>97</a></td><td><a href='#information-storage-medium-type-97'>16 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-97'>16 mm Negative Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-98'>98</a></td><td><a href='#information-storage-medium-type-98'>Super 16 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-98'>Super 16 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-99'>99</a></td><td><a href='#information-storage-medium-type-99'>Super 16 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-99'>Super 16 mm Negative Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-100'>100</a></td><td><a href='#information-storage-medium-type-100'>22 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-100'>22 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-101'>101</a></td><td><a href='#information-storage-medium-type-101'>28 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-101'>28 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-102'>102</a></td><td><a href='#information-storage-medium-type-102'>35 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-102'>35 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-103'>103</a></td><td><a href='#information-storage-medium-type-103'>35 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-103'>35 mm Negative Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-104'>104</a></td><td><a href='#information-storage-medium-type-104'>70 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-104'>70 mm Positive Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-105'>105</a></td><td><a href='#information-storage-medium-type-105'>70 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-105'>70 mm Negative Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-106'>106</a></td><td><a href='#information-storage-medium-type-106'>Fotografischer Film</a></td><td><a href='#information-storage-medium-type-106'>Photographic Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-107'>107</a></td><td><a href='#information-storage-medium-type-107'>APS-Film</a></td><td><a href='#information-storage-medium-type-107'>APS Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-108'>108</a></td><td><a href='#information-storage-medium-type-108'>Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-108'>35 mm Photo Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-109'>109</a></td><td><a href='#information-storage-medium-type-109'>Diapositiv-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-109'>35 mm Reversal Photographic Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-110'>110</a></td><td><a href='#information-storage-medium-type-110'>Negativ-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-110'>35 mm Negative Photographic Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-111'>111</a></td><td><a href='#information-storage-medium-type-111'>Schwarzweiß-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-111'>35 mm Black-and-White Photographic Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-112'>112</a></td><td><a href='#information-storage-medium-type-112'>Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-112'>Medium Format</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-113'>113</a></td><td><a href='#information-storage-medium-type-113'>Diapositiv-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-113'>Medium Format Reversal Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-114'>114</a></td><td><a href='#information-storage-medium-type-114'>Negativ-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-114'>Medium Format Negative Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-115'>115</a></td><td><a href='#information-storage-medium-type-115'>Schwarzweiß-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-115'>Medium Format Black-and-White Film</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-116'>116</a></td><td><a href='#information-storage-medium-type-116'>Großformatfilm</a></td><td><a href='#information-storage-medium-type-116'>Large Format</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-117'>117</a></td><td><a href='#information-storage-medium-type-117'>Mikroform</a></td><td><a href='#information-storage-medium-type-117'>Microform</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-118'>118</a></td><td><a href='#information-storage-medium-type-118'>Mikroplanfilm</a></td><td><a href='#information-storage-medium-type-118'>Mikrofiche</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-119'>119</a></td><td><a href='#information-storage-medium-type-119'>Mikrofilm</a></td><td><a href='#information-storage-medium-type-119'>Microfilm</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-120'>120</a></td><td><a href='#information-storage-medium-type-120'>Optischer Datenträger</a></td><td><a href='#information-storage-medium-type-120'>Optical Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-121'>121</a></td><td><a href='#information-storage-medium-type-121'>Daten-DVD</a></td><td><a href='#information-storage-medium-type-121'>Data DVD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-122'>122</a></td><td><a href='#information-storage-medium-type-122'>Daten-Blu-ray</a></td><td><a href='#information-storage-medium-type-122'>Data Blu-ray</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-123'>123</a></td><td><a href='#information-storage-medium-type-123'>M-Disc</a></td><td><a href='#information-storage-medium-type-123'>M-Disc</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-124'>124</a></td><td><a href='#information-storage-medium-type-124'>Daten-CD</a></td><td><a href='#information-storage-medium-type-124'>Data CD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-125'>125</a></td><td><a href='#information-storage-medium-type-125'>Magnetischer Datenträger</a></td><td><a href='#information-storage-medium-type-125'>Magnetic Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-126'>126</a></td><td><a href='#information-storage-medium-type-126'>3,5" Diskette</a></td><td><a href='#information-storage-medium-type-126'>3,5" Floppy Disk</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-127'>127</a></td><td><a href='#information-storage-medium-type-127'>5,25" Diskette</a></td><td><a href='#information-storage-medium-type-127'>5,25" Floppy Disk</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-128'>128</a></td><td><a href='#information-storage-medium-type-128'>HD</a></td><td><a href='#information-storage-medium-type-128'>HD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-129'>129</a></td><td><a href='#information-storage-medium-type-129'>Festkörper-Datenträger</a></td><td><a href='#information-storage-medium-type-129'>Solid State Storage Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-130'>130</a></td><td><a href='#information-storage-medium-type-130'>SSD</a></td><td><a href='#information-storage-medium-type-130'>SSD</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-131'>131</a></td><td><a href='#information-storage-medium-type-131'>USB-Stick</a></td><td><a href='#information-storage-medium-type-131'>USB Flash Drive</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-132'>132</a></td><td><a href='#information-storage-medium-type-132'>Schriftstück</a></td><td><a href='#information-storage-medium-type-132'>Text Medium</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-133'>133</a></td><td><a href='#information-storage-medium-type-133'>Periodikum</a></td><td><a href='#information-storage-medium-type-133'>Periodical</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-134'>134</a></td><td><a href='#information-storage-medium-type-134'>Monografie</a></td><td><a href='#information-storage-medium-type-134'>Monograph</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-135'>135</a></td><td><a href='#information-storage-medium-type-135'>Musiknotation</a></td><td><a href='#information-storage-medium-type-135'>Musical Notation</a></td></tr>
-</table>
-</details>
-
-<details><summary>Information Storage Medium Types ordered by German Name | Informationsträgertypen nach Deutschem Namen geordnet</summary>
-<table>
-<tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='#information-storage-medium-type-32'>1 Zoll A Videoband</a></td><td><a href='#information-storage-medium-type-32'>1 Inch Type A Videotape</a></td><td><a href='#information-storage-medium-type-32'>32</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-33'>1 Zoll B Videoband</a></td><td><a href='#information-storage-medium-type-33'>1 Inch Type B Videotape</a></td><td><a href='#information-storage-medium-type-33'>33</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-34'>1 Zoll C Videoband</a></td><td><a href='#information-storage-medium-type-34'>1 Inch Type C Videotape</a></td><td><a href='#information-storage-medium-type-34'>34</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-35'>1/2 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-35'>1/2 Inch Videotape</a></td><td><a href='#information-storage-medium-type-35'>35</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-36'>1/4 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-36'>1/4 Inch Videotape</a></td><td><a href='#information-storage-medium-type-36'>36</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-97'>16 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-97'>16 mm Negative Film</a></td><td><a href='#information-storage-medium-type-97'>97</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-96'>16 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-96'>16 mm Positive Film</a></td><td><a href='#information-storage-medium-type-96'>96</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-37'>2 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-37'>2 Inch Videotape</a></td><td><a href='#information-storage-medium-type-37'>37</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-100'>22 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-100'>22 mm Positive Film</a></td><td><a href='#information-storage-medium-type-100'>100</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-101'>28 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-101'>28 mm Positive Film</a></td><td><a href='#information-storage-medium-type-101'>101</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-126'>3,5" Diskette</a></td><td><a href='#information-storage-medium-type-126'>3,5" Floppy Disk</a></td><td><a href='#information-storage-medium-type-126'>126</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-103'>35 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-103'>35 mm Negative Film</a></td><td><a href='#information-storage-medium-type-103'>103</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-102'>35 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-102'>35 mm Positive Film</a></td><td><a href='#information-storage-medium-type-102'>102</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-127'>5,25" Diskette</a></td><td><a href='#information-storage-medium-type-127'>5,25" Floppy Disk</a></td><td><a href='#information-storage-medium-type-127'>127</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-105'>70 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-105'>70 mm Negative Film</a></td><td><a href='#information-storage-medium-type-105'>105</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-104'>70 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-104'>70 mm Positive Film</a></td><td><a href='#information-storage-medium-type-104'>104</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-93'>8 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-93'>8 mm Negative Film</a></td><td><a href='#information-storage-medium-type-93'>93</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-92'>8 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-92'>8 mm Positive Film</a></td><td><a href='#information-storage-medium-type-92'>92</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-67'>8-Spur-Kassette</a></td><td><a href='#information-storage-medium-type-67'>8-track Tape</a></td><td><a href='#information-storage-medium-type-67'>67</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-95'>9,5 mm Film</a></td><td><a href='#information-storage-medium-type-95'>9,5 mm Film</a></td><td><a href='#information-storage-medium-type-95'>95</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-80'>ADAT</a></td><td><a href='#information-storage-medium-type-80'>ADAT</a></td><td><a href='#information-storage-medium-type-80'>80</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-107'>APS-Film</a></td><td><a href='#information-storage-medium-type-107'>APS Film</a></td><td><a href='#information-storage-medium-type-107'>107</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-85'>Audio-CD</a></td><td><a href='#information-storage-medium-type-85'>Audio CD</a></td><td><a href='#information-storage-medium-type-85'>85</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-2'>Betacam</a></td><td><a href='#information-storage-medium-type-2'>Betacam</a></td><td><a href='#information-storage-medium-type-2'>2</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-3'>Betacam SP</a></td><td><a href='#information-storage-medium-type-3'>Betacam SP</a></td><td><a href='#information-storage-medium-type-3'>3</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-4'>Betacam SX</a></td><td><a href='#information-storage-medium-type-4'>Betacam SX</a></td><td><a href='#information-storage-medium-type-4'>4</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-5'>Betamax</a></td><td><a href='#information-storage-medium-type-5'>Betamax</a></td><td><a href='#information-storage-medium-type-5'>5</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-91'>Bewegtbild-Film</a></td><td><a href='#information-storage-medium-type-91'>Moving Image Film</a></td><td><a href='#information-storage-medium-type-91'>91</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-89'>Blu-ray Audio Disc</a></td><td><a href='#information-storage-medium-type-89'>Blu-ray Audio Disc</a></td><td><a href='#information-storage-medium-type-89'>89</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-39'>Blu-ray Video Disc</a></td><td><a href='#information-storage-medium-type-39'>Blu-ray Video Disc</a></td><td><a href='#information-storage-medium-type-39'>39</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-6'>Catrivision</a></td><td><a href='#information-storage-medium-type-6'>Catrivision</a></td><td><a href='#information-storage-medium-type-6'>6</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-86'>Compact LaserDisc</a></td><td><a href='#information-storage-medium-type-86'>Compact LaserDisc</a></td><td><a href='#information-storage-medium-type-86'>86</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-7'>D1</a></td><td><a href='#information-storage-medium-type-7'>D1</a></td><td><a href='#information-storage-medium-type-7'>7</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-8'>D2</a></td><td><a href='#information-storage-medium-type-8'>D2</a></td><td><a href='#information-storage-medium-type-8'>8</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-9'>D3</a></td><td><a href='#information-storage-medium-type-9'>D3</a></td><td><a href='#information-storage-medium-type-9'>9</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-10'>D5</a></td><td><a href='#information-storage-medium-type-10'>D5</a></td><td><a href='#information-storage-medium-type-10'>10</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-11'>D6</a></td><td><a href='#information-storage-medium-type-11'>D6</a></td><td><a href='#information-storage-medium-type-11'>11</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-12'>D9</a></td><td><a href='#information-storage-medium-type-12'>D9</a></td><td><a href='#information-storage-medium-type-12'>12</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-74'>DASH-Tonband</a></td><td><a href='#information-storage-medium-type-74'>DASH Open Reel Tape</a></td><td><a href='#information-storage-medium-type-74'>74</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-79'>DAT</a></td><td><a href='#information-storage-medium-type-79'>DAT</a></td><td><a href='#information-storage-medium-type-79'>79</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-122'>Daten-Blu-ray</a></td><td><a href='#information-storage-medium-type-122'>Data Blu-ray</a></td><td><a href='#information-storage-medium-type-122'>122</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-124'>Daten-CD</a></td><td><a href='#information-storage-medium-type-124'>Data CD</a></td><td><a href='#information-storage-medium-type-124'>124</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-121'>Daten-DVD</a></td><td><a href='#information-storage-medium-type-121'>Data DVD</a></td><td><a href='#information-storage-medium-type-121'>121</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-13'>DCT</a></td><td><a href='#information-storage-medium-type-13'>DCT</a></td><td><a href='#information-storage-medium-type-13'>13</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-109'>Diapositiv-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-109'>35 mm Reversal Photographic Film</a></td><td><a href='#information-storage-medium-type-109'>109</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-113'>Diapositiv-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-113'>Medium Format Reversal Film</a></td><td><a href='#information-storage-medium-type-113'>113</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-48'>Dictabelt</a></td><td><a href='#information-storage-medium-type-48'>Dictabelt</a></td><td><a href='#information-storage-medium-type-48'>48</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-14'>Digital Betacam</a></td><td><a href='#information-storage-medium-type-14'>Digital Betacam</a></td><td><a href='#information-storage-medium-type-14'>14</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-82'>Digital Compact Cassette</a></td><td><a href='#information-storage-medium-type-82'>Digital Compact Cassette</a></td><td><a href='#information-storage-medium-type-82'>82</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-15'>Digital8</a></td><td><a href='#information-storage-medium-type-15'>Digital8</a></td><td><a href='#information-storage-medium-type-15'>15</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-72'>Digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-72'>Digital Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-72'>72</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-52'>Diktat-Zylinder</a></td><td><a href='#information-storage-medium-type-52'>Dictation Cylinder</a></td><td><a href='#information-storage-medium-type-52'>52</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-81'>DTRS</a></td><td><a href='#information-storage-medium-type-81'>DTRS</a></td><td><a href='#information-storage-medium-type-81'>81</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-16'>DV</a></td><td><a href='#information-storage-medium-type-16'>DV</a></td><td><a href='#information-storage-medium-type-16'>16</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-17'>DVCAM</a></td><td><a href='#information-storage-medium-type-17'>DVCAM</a></td><td><a href='#information-storage-medium-type-17'>17</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-18'>DVCPRO</a></td><td><a href='#information-storage-medium-type-18'>DVCPRO</a></td><td><a href='#information-storage-medium-type-18'>18</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-88'>DVD-Audio</a></td><td><a href='#information-storage-medium-type-88'>DVD-Audio</a></td><td><a href='#information-storage-medium-type-88'>88</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-41'>EVD</a></td><td><a href='#information-storage-medium-type-41'>EVD</a></td><td><a href='#information-storage-medium-type-41'>41</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-61'>Executive Cassette</a></td><td><a href='#information-storage-medium-type-61'>Executive Cassette</a></td><td><a href='#information-storage-medium-type-61'>61</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-129'>Festkörper-Datenträger</a></td><td><a href='#information-storage-medium-type-129'>Solid State Storage Medium</a></td><td><a href='#information-storage-medium-type-129'>129</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-65'>Fidelipac</a></td><td><a href='#information-storage-medium-type-65'>Fidelipac</a></td><td><a href='#information-storage-medium-type-65'>65</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-106'>Fotografischer Film</a></td><td><a href='#information-storage-medium-type-106'>Photographic Film</a></td><td><a href='#information-storage-medium-type-106'>106</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-116'>Großformatfilm</a></td><td><a href='#information-storage-medium-type-116'>Large Format</a></td><td><a href='#information-storage-medium-type-116'>116</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-128'>HD</a></td><td><a href='#information-storage-medium-type-128'>HD</a></td><td><a href='#information-storage-medium-type-128'>128</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-19'>HDCAM</a></td><td><a href='#information-storage-medium-type-19'>HDCAM</a></td><td><a href='#information-storage-medium-type-19'>19</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-20'>HDV</a></td><td><a href='#information-storage-medium-type-20'>HDV</a></td><td><a href='#information-storage-medium-type-20'>20</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-21'>Hi8</a></td><td><a href='#information-storage-medium-type-21'>Hi8</a></td><td><a href='#information-storage-medium-type-21'>21</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-108'>Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-108'>35 mm Photo Film</a></td><td><a href='#information-storage-medium-type-108'>108</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-60'>Kompaktkassette</a></td><td><a href='#information-storage-medium-type-60'>Audio Cassette</a></td><td><a href='#information-storage-medium-type-60'>60</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-51'>Langspiel-Walze</a></td><td><a href='#information-storage-medium-type-51'>Narrow Groove Cylinder</a></td><td><a href='#information-storage-medium-type-51'>51</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-42'>LaserDisc</a></td><td><a href='#information-storage-medium-type-42'>LaserDisc</a></td><td><a href='#information-storage-medium-type-42'>42</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-71'>Lichttonfilm</a></td><td><a href='#information-storage-medium-type-71'>Optical Sound Film</a></td><td><a href='#information-storage-medium-type-71'>71</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-123'>M-Disc</a></td><td><a href='#information-storage-medium-type-123'>M-Disc</a></td><td><a href='#information-storage-medium-type-123'>123</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-125'>Magnetischer Datenträger</a></td><td><a href='#information-storage-medium-type-125'>Magnetic Storage Medium</a></td><td><a href='#information-storage-medium-type-125'>125</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-57'>Magnetischer Tonträger</a></td><td><a href='#information-storage-medium-type-57'>Magnetic Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-57'>57</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-73'>Magneto-digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-73'>Magneto-digital Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-73'>73</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-58'>Magnettonband</a></td><td><a href='#information-storage-medium-type-58'>Magnetic Audio Tape</a></td><td><a href='#information-storage-medium-type-58'>58</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-68'>Magnettonplatte</a></td><td><a href='#information-storage-medium-type-68'>Magnetic Sound Disc</a></td><td><a href='#information-storage-medium-type-68'>68</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-47'>Mechanischer Tonträger</a></td><td><a href='#information-storage-medium-type-47'>Mechanical Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-47'>47</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-22'>MII</a></td><td><a href='#information-storage-medium-type-22'>MII</a></td><td><a href='#information-storage-medium-type-22'>22</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-119'>Mikrofilm</a></td><td><a href='#information-storage-medium-type-119'>Microfilm</a></td><td><a href='#information-storage-medium-type-119'>119</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-117'>Mikroform</a></td><td><a href='#information-storage-medium-type-117'>Microform</a></td><td><a href='#information-storage-medium-type-117'>117</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-63'>Mikrokassette</a></td><td><a href='#information-storage-medium-type-63'>Microcassette</a></td><td><a href='#information-storage-medium-type-63'>63</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-118'>Mikroplanfilm</a></td><td><a href='#information-storage-medium-type-118'>Mikrofiche</a></td><td><a href='#information-storage-medium-type-118'>118</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-55'>Mikrorillen-Schallplatte</a></td><td><a href='#information-storage-medium-type-55'>Microgroove Record</a></td><td><a href='#information-storage-medium-type-55'>55</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-90'>MiniDisc</a></td><td><a href='#information-storage-medium-type-90'>MiniDisc</a></td><td><a href='#information-storage-medium-type-90'>90</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-23'>MiniDV</a></td><td><a href='#information-storage-medium-type-23'>MiniDV</a></td><td><a href='#information-storage-medium-type-23'>23</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-62'>Minikassette</a></td><td><a href='#information-storage-medium-type-62'>Mini-Cassette</a></td><td><a href='#information-storage-medium-type-62'>62</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-112'>Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-112'>Medium Format</a></td><td><a href='#information-storage-medium-type-112'>112</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-134'>Monografie</a></td><td><a href='#information-storage-medium-type-134'>Monograph</a></td><td><a href='#information-storage-medium-type-134'>134</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-135'>Musiknotation</a></td><td><a href='#information-storage-medium-type-135'>Musical Notation</a></td><td><a href='#information-storage-medium-type-135'>135</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-110'>Negativ-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-110'>35 mm Negative Photographic Film</a></td><td><a href='#information-storage-medium-type-110'>110</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-114'>Negativ-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-114'>Medium Format Negative Film</a></td><td><a href='#information-storage-medium-type-114'>114</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-54'>Normalrillen-Schallplatte</a></td><td><a href='#information-storage-medium-type-54'>Coarse Groove Record</a></td><td><a href='#information-storage-medium-type-54'>54</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-50'>Normalspiel-Walze</a></td><td><a href='#information-storage-medium-type-50'>Normal Groove Cylinder</a></td><td><a href='#information-storage-medium-type-50'>50</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-83'>NT Cassette</a></td><td><a href='#information-storage-medium-type-83'>NT cassette</a></td><td><a href='#information-storage-medium-type-83'>83</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-120'>Optischer Datenträger</a></td><td><a href='#information-storage-medium-type-120'>Optical Storage Medium</a></td><td><a href='#information-storage-medium-type-120'>120</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-70'>Optischer Tonträger</a></td><td><a href='#information-storage-medium-type-70'>Optical Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-70'>70</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-38'>Optischer Videodatenträger</a></td><td><a href='#information-storage-medium-type-38'>Optical Video Disc</a></td><td><a href='#information-storage-medium-type-38'>38</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-84'>Opto-digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-84'>Opto-digital Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-84'>84</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-76'>PCM Betamax</a></td><td><a href='#information-storage-medium-type-76'>PCM Betamax</a></td><td><a href='#information-storage-medium-type-76'>76</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-77'>PCM U-Matic</a></td><td><a href='#information-storage-medium-type-77'>PCM U-Matic</a></td><td><a href='#information-storage-medium-type-77'>77</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-78'>PCM VHS</a></td><td><a href='#information-storage-medium-type-78'>PCM VHS</a></td><td><a href='#information-storage-medium-type-78'>78</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-133'>Periodikum</a></td><td><a href='#information-storage-medium-type-133'>Periodical</a></td><td><a href='#information-storage-medium-type-133'>133</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-49'>Phonographenwalze</a></td><td><a href='#information-storage-medium-type-49'>Phonograph Cylinder</a></td><td><a href='#information-storage-medium-type-49'>49</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-64'>Picocassette</a></td><td><a href='#information-storage-medium-type-64'>Picocassette</a></td><td><a href='#information-storage-medium-type-64'>64</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-75'>Pro-Digi-Tonband</a></td><td><a href='#information-storage-medium-type-75'>Pro Digi Open Reel Tape</a></td><td><a href='#information-storage-medium-type-75'>75</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-27'>S-VHS</a></td><td><a href='#information-storage-medium-type-27'>S-VHS</a></td><td><a href='#information-storage-medium-type-27'>27</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-53'>Schallplatte</a></td><td><a href='#information-storage-medium-type-53'>Grooved Analog Disc</a></td><td><a href='#information-storage-medium-type-53'>53</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-132'>Schriftstück</a></td><td><a href='#information-storage-medium-type-132'>Text Medium</a></td><td><a href='#information-storage-medium-type-132'>132</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-111'>Schwarzweiß-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-111'>35 mm Black-and-White Photographic Film</a></td><td><a href='#information-storage-medium-type-111'>111</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-115'>Schwarzweiß-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-115'>Medium Format Black-and-White Film</a></td><td><a href='#information-storage-medium-type-115'>115</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-59'>Spulentonband</a></td><td><a href='#information-storage-medium-type-59'>Open Reel Audiotape</a></td><td><a href='#information-storage-medium-type-59'>59</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-130'>SSD</a></td><td><a href='#information-storage-medium-type-130'>SSD</a></td><td><a href='#information-storage-medium-type-130'>130</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-66'>Stereo-Pak</a></td><td><a href='#information-storage-medium-type-66'>Stereo-Pak</a></td><td><a href='#information-storage-medium-type-66'>66</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-99'>Super 16 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-99'>Super 16 mm Negative Film</a></td><td><a href='#information-storage-medium-type-99'>99</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-98'>Super 16 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-98'>Super 16 mm Positive Film</a></td><td><a href='#information-storage-medium-type-98'>98</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-94'>Super 8 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-94'>Super 8 mm Positive Film</a></td><td><a href='#information-storage-medium-type-94'>94</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-87'>Super Audio CD</a></td><td><a href='#information-storage-medium-type-87'>Super Audio CD</a></td><td><a href='#information-storage-medium-type-87'>87</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-44'>Super Video CD</a></td><td><a href='#information-storage-medium-type-44'>Super Video CD</a></td><td><a href='#information-storage-medium-type-44'>44</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-56'>Tefifon-Band</a></td><td><a href='#information-storage-medium-type-56'>Tefifon Tape</a></td><td><a href='#information-storage-medium-type-56'>56</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-69'>Tondraht</a></td><td><a href='#information-storage-medium-type-69'>Wire Recording</a></td><td><a href='#information-storage-medium-type-69'>69</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-24'>U-matic</a></td><td><a href='#information-storage-medium-type-24'>U-matic</a></td><td><a href='#information-storage-medium-type-24'>24</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-45'>Universal Media Disc</a></td><td><a href='#information-storage-medium-type-45'>Universal Media Disc</a></td><td><a href='#information-storage-medium-type-45'>45</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-131'>USB-Stick</a></td><td><a href='#information-storage-medium-type-131'>USB Flash Drive</a></td><td><a href='#information-storage-medium-type-131'>131</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-25'>V-Cord</a></td><td><a href='#information-storage-medium-type-25'>V-Cord</a></td><td><a href='#information-storage-medium-type-25'>25</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-26'>VHS</a></td><td><a href='#information-storage-medium-type-26'>VHS</a></td><td><a href='#information-storage-medium-type-26'>26</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-28'>VHS-C</a></td><td><a href='#information-storage-medium-type-28'>VHS-C</a></td><td><a href='#information-storage-medium-type-28'>28</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-43'>Video CD</a></td><td><a href='#information-storage-medium-type-43'>Video CD</a></td><td><a href='#information-storage-medium-type-43'>43</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-40'>Video-DVD</a></td><td><a href='#information-storage-medium-type-40'>Video-DVD</a></td><td><a href='#information-storage-medium-type-40'>40</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-29'>Video8</a></td><td><a href='#information-storage-medium-type-29'>Video8</a></td><td><a href='#information-storage-medium-type-29'>29</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-31'>Videoband</a></td><td><a href='#information-storage-medium-type-31'>Open Reel Videotape</a></td><td><a href='#information-storage-medium-type-31'>31</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-1'>Videokassette</a></td><td><a href='#information-storage-medium-type-1'>Videocassette</a></td><td><a href='#information-storage-medium-type-1'>1</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-30'>VX</a></td><td><a href='#information-storage-medium-type-30'>VX</a></td><td><a href='#information-storage-medium-type-30'>30</a></td></tr>
-<tr><td><a href='#information-storage-medium-type-46'>XDCAM Disc</a></td><td><a href='#information-storage-medium-type-46'>XDCAM Disc</a></td><td><a href='#information-storage-medium-type-46'>46</a></td></tr>
-</table>
-</details>
-
-<details><summary>Information Storage Medium Types ordered by German Breadcrumb | Informationsträgertypen nach Deutschem Breadcrumb geordnet</summary>
-<table>
-<tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a></td><td><a href='#information-storage-medium-type-91'>91</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-97">16 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-97'>97</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-96">16 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-96'>96</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-100">22 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-100'>100</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-101">28 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-101'>101</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-103">35 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-103'>103</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-102">35 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-102'>102</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-105">70 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-105'>105</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-104">70 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-104'>104</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-93">8 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-93'>93</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-92">8 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-92'>92</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-95">9.5 mm Film</a></td><td><a href='#information-storage-medium-type-95'>95</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-99">Super 16 mm Negativfilm</a></td><td><a href='#information-storage-medium-type-99'>99</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-98">Super 16 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-98'>98</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Bewegtbild-Film</a> > <a href="#information-storage-medium-type-94">Super 8 mm Positivfilm</a></td><td><a href='#information-storage-medium-type-94'>94</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-72'>72</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-73'>73</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-80">ADAT</a></td><td><a href='#information-storage-medium-type-80'>80</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-74">DASH-Tonband</a></td><td><a href='#information-storage-medium-type-74'>74</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-79">DAT</a></td><td><a href='#information-storage-medium-type-79'>79</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-82">Digital Compact Cassette</a></td><td><a href='#information-storage-medium-type-82'>82</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-81">DTRS</a></td><td><a href='#information-storage-medium-type-81'>81</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-83">NT Cassette</a></td><td><a href='#information-storage-medium-type-83'>83</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-76">PCM Betamax</a></td><td><a href='#information-storage-medium-type-76'>76</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-77">PCM U-Matic</a></td><td><a href='#information-storage-medium-type-77'>77</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-78">PCM VHS</a></td><td><a href='#information-storage-medium-type-78'>78</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-73">Magneto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-75">Pro-Digi-Tonband</a></td><td><a href='#information-storage-medium-type-75'>75</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-90">MiniDisc</a></td><td><a href='#information-storage-medium-type-90'>90</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-84">Opto-digitaler Tonträger</a></td><td><a href='#information-storage-medium-type-84'>84</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-84">Opto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-85">Audio-CD</a></td><td><a href='#information-storage-medium-type-85'>85</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-84">Opto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-89">Blu-ray Audio Disc</a></td><td><a href='#information-storage-medium-type-89'>89</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-84">Opto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-86">Compact LaserDisc</a></td><td><a href='#information-storage-medium-type-86'>86</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-84">Opto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-88">DVD-Audio</a></td><td><a href='#information-storage-medium-type-88'>88</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digitaler Tonträger</a> > <a href="#information-storage-medium-type-84">Opto-digitaler Tonträger</a> > <a href="#information-storage-medium-type-87">Super Audio CD</a></td><td><a href='#information-storage-medium-type-87'>87</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-129">Festkörper-Datenträger</a></td><td><a href='#information-storage-medium-type-129'>129</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-129">Festkörper-Datenträger</a> > <a href="#information-storage-medium-type-130">SSD</a></td><td><a href='#information-storage-medium-type-130'>130</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-129">Festkörper-Datenträger</a> > <a href="#information-storage-medium-type-131">USB-Stick</a></td><td><a href='#information-storage-medium-type-131'>131</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a></td><td><a href='#information-storage-medium-type-106'>106</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-107">APS-Film</a></td><td><a href='#information-storage-medium-type-107'>107</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-116">Großformatfilm</a></td><td><a href='#information-storage-medium-type-116'>116</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-108">Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-108'>108</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-108">Kleinbildfilm</a> > <a href="#information-storage-medium-type-109">Diapositiv-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-109'>109</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-108">Kleinbildfilm</a> > <a href="#information-storage-medium-type-110">Negativ-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-110'>110</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-108">Kleinbildfilm</a> > <a href="#information-storage-medium-type-111">Schwarzweiß-Kleinbildfilm</a></td><td><a href='#information-storage-medium-type-111'>111</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-112">Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-112'>112</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-112">Mittelformatfilm</a> > <a href="#information-storage-medium-type-113">Diapositiv-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-113'>113</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-112">Mittelformatfilm</a> > <a href="#information-storage-medium-type-114">Negativ-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-114'>114</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Fotografischer Film</a> > <a href="#information-storage-medium-type-112">Mittelformatfilm</a> > <a href="#information-storage-medium-type-115">Schwarzweiß-Mittelformatfilm</a></td><td><a href='#information-storage-medium-type-115'>115</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetischer Datenträger</a></td><td><a href='#information-storage-medium-type-125'>125</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetischer Datenträger</a> > <a href="#information-storage-medium-type-126">3,5" Diskette</a></td><td><a href='#information-storage-medium-type-126'>126</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetischer Datenträger</a> > <a href="#information-storage-medium-type-127">5,25" Diskette</a></td><td><a href='#information-storage-medium-type-127'>127</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetischer Datenträger</a> > <a href="#information-storage-medium-type-128">HD</a></td><td><a href='#information-storage-medium-type-128'>128</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a></td><td><a href='#information-storage-medium-type-57'>57</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a></td><td><a href='#information-storage-medium-type-58'>58</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-67">8-Spur-Kassette</a></td><td><a href='#information-storage-medium-type-67'>67</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-61">Executive Cassette</a></td><td><a href='#information-storage-medium-type-61'>61</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-65">Fidelipac</a></td><td><a href='#information-storage-medium-type-65'>65</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-60">Kompaktkassette</a></td><td><a href='#information-storage-medium-type-60'>60</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-63">Mikrokassette</a></td><td><a href='#information-storage-medium-type-63'>63</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-62">Minikassette</a></td><td><a href='#information-storage-medium-type-62'>62</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-64">Picocassette</a></td><td><a href='#information-storage-medium-type-64'>64</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-59">Spulentonband</a></td><td><a href='#information-storage-medium-type-59'>59</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-58">Magnettonband</a> > <a href="#information-storage-medium-type-66">Stereo-Pak</a></td><td><a href='#information-storage-medium-type-66'>66</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-68">Magnettonplatte</a></td><td><a href='#information-storage-medium-type-68'>68</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetischer Tonträger</a> > <a href="#information-storage-medium-type-69">Tondraht</a></td><td><a href='#information-storage-medium-type-69'>69</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a></td><td><a href='#information-storage-medium-type-47'>47</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-48">Dictabelt</a></td><td><a href='#information-storage-medium-type-48'>48</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-49">Phonographenwalze</a></td><td><a href='#information-storage-medium-type-49'>49</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-49">Phonographenwalze</a> > <a href="#information-storage-medium-type-52">Diktat-Zylinder</a></td><td><a href='#information-storage-medium-type-52'>52</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-49">Phonographenwalze</a> > <a href="#information-storage-medium-type-51">Langspiel-Walze</a></td><td><a href='#information-storage-medium-type-51'>51</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-49">Phonographenwalze</a> > <a href="#information-storage-medium-type-50">Normalspiel-Walze</a></td><td><a href='#information-storage-medium-type-50'>50</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-53">Schallplatte</a></td><td><a href='#information-storage-medium-type-53'>53</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-53">Schallplatte</a> > <a href="#information-storage-medium-type-55">Mikrorillen-Schallplatte</a></td><td><a href='#information-storage-medium-type-55'>55</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-53">Schallplatte</a> > <a href="#information-storage-medium-type-54">Normalrillen-Schallplatte</a></td><td><a href='#information-storage-medium-type-54'>54</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanischer Tonträger</a> > <a href="#information-storage-medium-type-56">Tefifon-Band</a></td><td><a href='#information-storage-medium-type-56'>56</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-117">Mikroform</a></td><td><a href='#information-storage-medium-type-117'>117</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-117">Mikroform</a> > <a href="#information-storage-medium-type-119">Mikrofilm</a></td><td><a href='#information-storage-medium-type-119'>119</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-117">Mikroform</a> > <a href="#information-storage-medium-type-118">Mikroplanfilm</a></td><td><a href='#information-storage-medium-type-118'>118</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optischer Datenträger</a></td><td><a href='#information-storage-medium-type-120'>120</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optischer Datenträger</a> > <a href="#information-storage-medium-type-122">Daten-Blu-ray</a></td><td><a href='#information-storage-medium-type-122'>122</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optischer Datenträger</a> > <a href="#information-storage-medium-type-124">Daten-CD</a></td><td><a href='#information-storage-medium-type-124'>124</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optischer Datenträger</a> > <a href="#information-storage-medium-type-121">Daten-DVD</a></td><td><a href='#information-storage-medium-type-121'>121</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optischer Datenträger</a> > <a href="#information-storage-medium-type-123">M-Disc</a></td><td><a href='#information-storage-medium-type-123'>123</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-70">Optischer Tonträger</a></td><td><a href='#information-storage-medium-type-70'>70</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-70">Optischer Tonträger</a> > <a href="#information-storage-medium-type-71">Lichttonfilm</a></td><td><a href='#information-storage-medium-type-71'>71</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a></td><td><a href='#information-storage-medium-type-38'>38</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-39">Blu-ray Video Disc</a></td><td><a href='#information-storage-medium-type-39'>39</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-41">EVD</a></td><td><a href='#information-storage-medium-type-41'>41</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-42">LaserDisc</a></td><td><a href='#information-storage-medium-type-42'>42</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-44">Super Video CD</a></td><td><a href='#information-storage-medium-type-44'>44</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-45">Universal Media Disc</a></td><td><a href='#information-storage-medium-type-45'>45</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-43">Video CD</a></td><td><a href='#information-storage-medium-type-43'>43</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-40">Video-DVD</a></td><td><a href='#information-storage-medium-type-40'>40</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optischer Videodatenträger</a> > <a href="#information-storage-medium-type-46">XDCAM Disc</a></td><td><a href='#information-storage-medium-type-46'>46</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Schriftstück</a></td><td><a href='#information-storage-medium-type-132'>132</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Schriftstück</a> > <a href="#information-storage-medium-type-134">Monografie</a></td><td><a href='#information-storage-medium-type-134'>134</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Schriftstück</a> > <a href="#information-storage-medium-type-135">Musiknotation</a></td><td><a href='#information-storage-medium-type-135'>135</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Schriftstück</a> > <a href="#information-storage-medium-type-133">Periodikum</a></td><td><a href='#information-storage-medium-type-133'>133</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a></td><td><a href='#information-storage-medium-type-31'>31</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a> > <a href="#information-storage-medium-type-32">1 Zoll A Videoband</a></td><td><a href='#information-storage-medium-type-32'>32</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a> > <a href="#information-storage-medium-type-33">1 Zoll B Videoband</a></td><td><a href='#information-storage-medium-type-33'>33</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a> > <a href="#information-storage-medium-type-34">1 Zoll C Videoband</a></td><td><a href='#information-storage-medium-type-34'>34</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a> > <a href="#information-storage-medium-type-35">1/2 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-35'>35</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a> > <a href="#information-storage-medium-type-36">1/4 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-36'>36</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Videoband</a> > <a href="#information-storage-medium-type-37">2 Zoll Videoband</a></td><td><a href='#information-storage-medium-type-37'>37</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a></td><td><a href='#information-storage-medium-type-1'>1</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-2">Betacam</a></td><td><a href='#information-storage-medium-type-2'>2</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-2">Betacam</a> > <a href="#information-storage-medium-type-3">Betacam SP</a></td><td><a href='#information-storage-medium-type-3'>3</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-2">Betacam</a> > <a href="#information-storage-medium-type-4">Betacam SX</a></td><td><a href='#information-storage-medium-type-4'>4</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-5">Betamax</a></td><td><a href='#information-storage-medium-type-5'>5</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-6">Catrivision</a></td><td><a href='#information-storage-medium-type-6'>6</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-7">D1</a></td><td><a href='#information-storage-medium-type-7'>7</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-8">D2</a></td><td><a href='#information-storage-medium-type-8'>8</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-9">D3</a></td><td><a href='#information-storage-medium-type-9'>9</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-10">D5</a></td><td><a href='#information-storage-medium-type-10'>10</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-11">D6</a></td><td><a href='#information-storage-medium-type-11'>11</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-12">D9</a></td><td><a href='#information-storage-medium-type-12'>12</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-13">DCT</a></td><td><a href='#information-storage-medium-type-13'>13</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-14">Digital Betacam</a></td><td><a href='#information-storage-medium-type-14'>14</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-15">Digital8</a></td><td><a href='#information-storage-medium-type-15'>15</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-16">DV</a></td><td><a href='#information-storage-medium-type-16'>16</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-17">DVCAM</a></td><td><a href='#information-storage-medium-type-17'>17</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-18">DVCPRO</a></td><td><a href='#information-storage-medium-type-18'>18</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-19">HDCAM</a></td><td><a href='#information-storage-medium-type-19'>19</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-20">HDV</a></td><td><a href='#information-storage-medium-type-20'>20</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-21">Hi8</a></td><td><a href='#information-storage-medium-type-21'>21</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-22">MII</a></td><td><a href='#information-storage-medium-type-22'>22</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-23">MiniDV</a></td><td><a href='#information-storage-medium-type-23'>23</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-24">U-matic</a></td><td><a href='#information-storage-medium-type-24'>24</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-25">V-Cord</a></td><td><a href='#information-storage-medium-type-25'>25</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-26">VHS</a></td><td><a href='#information-storage-medium-type-26'>26</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-26">VHS</a> > <a href="#information-storage-medium-type-27">S-VHS</a></td><td><a href='#information-storage-medium-type-27'>27</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-26">VHS</a> > <a href="#information-storage-medium-type-28">S-VHS</a></td><td><a href='#information-storage-medium-type-28'>28</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-29">Video8</a></td><td><a href='#information-storage-medium-type-29'>29</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videokassette</a> > <a href="#information-storage-medium-type-30">VX</a></td><td><a href='#information-storage-medium-type-30'>30</a></td></tr>
-</table>
-</details>
-
-<details><summary>Information Storage Medium Types ordered by English Breadcrumb | Informationsträgertypen nach Englischem Breadcrumb geordnet</summary>
-<table>
-<tr><th>English Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-72'>72</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-73'>73</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-80">ADAT</a></td><td><a href='#information-storage-medium-type-80'>80</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-74">DASH Open Reel Tape</a></td><td><a href='#information-storage-medium-type-74'>74</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-79">DAT</a></td><td><a href='#information-storage-medium-type-79'>79</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-82">Digital Compact Cassette</a></td><td><a href='#information-storage-medium-type-82'>82</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-81">DTRS</a></td><td><a href='#information-storage-medium-type-81'>81</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-83">NT Cassette</a></td><td><a href='#information-storage-medium-type-83'>83</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-76">PCM Betamax</a></td><td><a href='#information-storage-medium-type-76'>76</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-77">PCM U-Matic</a></td><td><a href='#information-storage-medium-type-77'>77</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-78">PCM VHS</a></td><td><a href='#information-storage-medium-type-78'>78</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-73">Magneto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-75">Pro Digi Open Reel Tape</a></td><td><a href='#information-storage-medium-type-75'>75</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-90">MiniDisc</a></td><td><a href='#information-storage-medium-type-90'>90</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-84">Opto-digital Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-84'>84</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-84">Opto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-85">Audio CD</a></td><td><a href='#information-storage-medium-type-85'>85</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-84">Opto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-89">Blu-ray Audio Disc</a></td><td><a href='#information-storage-medium-type-89'>89</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-84">Opto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-86">Compact LaserDisc</a></td><td><a href='#information-storage-medium-type-86'>86</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-84">Opto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-88">DVD-Audio</a></td><td><a href='#information-storage-medium-type-88'>88</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-72">Digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-84">Opto-digital Audio Storage Medium</a> > <a href="#information-storage-medium-type-87">Super Audio CD</a></td><td><a href='#information-storage-medium-type-87'>87</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-57'>57</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a></td><td><a href='#information-storage-medium-type-58'>58</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-67">8-track Tape</a></td><td><a href='#information-storage-medium-type-67'>67</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-60">Audio Cassette</a></td><td><a href='#information-storage-medium-type-60'>60</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-61">Executive Cassette</a></td><td><a href='#information-storage-medium-type-61'>61</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-65">Fidelipac</a></td><td><a href='#information-storage-medium-type-65'>65</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-63">Microcassette</a></td><td><a href='#information-storage-medium-type-63'>63</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-62">Mini-Cassette</a></td><td><a href='#information-storage-medium-type-62'>62</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-59">Open Reel Audiotape</a></td><td><a href='#information-storage-medium-type-59'>59</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-64">Picocassette</a></td><td><a href='#information-storage-medium-type-64'>64</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-58">Magnetic Audio Tape</a> > <a href="#information-storage-medium-type-66">Stereo-Pak</a></td><td><a href='#information-storage-medium-type-66'>66</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-68">Magnetic Sound Disc</a></td><td><a href='#information-storage-medium-type-68'>68</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-57">Magnetic Audio Storage Medium</a> > <a href="#information-storage-medium-type-69">Wire Recording</a></td><td><a href='#information-storage-medium-type-69'>69</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetic Storage Medium</a></td><td><a href='#information-storage-medium-type-125'>125</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetic Storage Medium</a> > <a href="#information-storage-medium-type-126">3,5" Floppy Disk</a></td><td><a href='#information-storage-medium-type-126'>126</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetic Storage Medium</a> > <a href="#information-storage-medium-type-127">5,25" Floppy Disk</a></td><td><a href='#information-storage-medium-type-127'>127</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-125">Magnetic Storage Medium</a> > <a href="#information-storage-medium-type-128">HD</a></td><td><a href='#information-storage-medium-type-128'>128</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-47'>47</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-48">Dictabelt</a></td><td><a href='#information-storage-medium-type-48'>48</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-53">Grooved Analog Disc</a></td><td><a href='#information-storage-medium-type-53'>53</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-53">Grooved Analog Disc</a> > <a href="#information-storage-medium-type-54">Coarse Groove Record</a></td><td><a href='#information-storage-medium-type-54'>54</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-53">Grooved Analog Disc</a> > <a href="#information-storage-medium-type-55">Microgroove Record</a></td><td><a href='#information-storage-medium-type-55'>55</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-49">Phonograph Cylinder</a></td><td><a href='#information-storage-medium-type-49'>49</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-49">Phonograph Cylinder</a> > <a href="#information-storage-medium-type-52">Dictation Cylinder</a></td><td><a href='#information-storage-medium-type-52'>52</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-49">Phonograph Cylinder</a> > <a href="#information-storage-medium-type-51">Narrow Groove Cylinder</a></td><td><a href='#information-storage-medium-type-51'>51</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-49">Phonograph Cylinder</a> > <a href="#information-storage-medium-type-50">Normal Groove Cylinder</a></td><td><a href='#information-storage-medium-type-50'>50</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-47">Mechanical Audio Storage Medium</a> > <a href="#information-storage-medium-type-56">Tefifon Tape</a></td><td><a href='#information-storage-medium-type-56'>56</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-117">Microform</a></td><td><a href='#information-storage-medium-type-117'>117</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-117">Microform</a> > <a href="#information-storage-medium-type-119">Microfilm</a></td><td><a href='#information-storage-medium-type-119'>119</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-117">Microform</a> > <a href="#information-storage-medium-type-118">Mikrofiche</a></td><td><a href='#information-storage-medium-type-118'>118</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a></td><td><a href='#information-storage-medium-type-91'>91</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-97">16 mm Negative Film</a></td><td><a href='#information-storage-medium-type-97'>97</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-96">16 mm Positive Film</a></td><td><a href='#information-storage-medium-type-96'>96</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-100">22 mm Positive Film</a></td><td><a href='#information-storage-medium-type-100'>100</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-101">28 mm Positive Film</a></td><td><a href='#information-storage-medium-type-101'>101</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-103">35 mm Negative Film</a></td><td><a href='#information-storage-medium-type-103'>103</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-102">35 mm Positive Film</a></td><td><a href='#information-storage-medium-type-102'>102</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-105">70 mm Negative Film</a></td><td><a href='#information-storage-medium-type-105'>105</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-104">70 mm Positive Film</a></td><td><a href='#information-storage-medium-type-104'>104</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-93">8 mm Negative Film</a></td><td><a href='#information-storage-medium-type-93'>93</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-92">8 mm Positive Film</a></td><td><a href='#information-storage-medium-type-92'>92</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-95">9.5 mm Film</a></td><td><a href='#information-storage-medium-type-95'>95</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-99">Super 16 mm Negative Film</a></td><td><a href='#information-storage-medium-type-99'>99</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-98">Super 16 mm Positive Film</a></td><td><a href='#information-storage-medium-type-98'>98</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-91">Moving Image Film</a> > <a href="#information-storage-medium-type-94">Super 8 mm Positive Film</a></td><td><a href='#information-storage-medium-type-94'>94</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a></td><td><a href='#information-storage-medium-type-31'>31</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a> > <a href="#information-storage-medium-type-32">1 Inch Type A Videotape</a></td><td><a href='#information-storage-medium-type-32'>32</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a> > <a href="#information-storage-medium-type-33">1 Inch Type B Videotape</a></td><td><a href='#information-storage-medium-type-33'>33</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a> > <a href="#information-storage-medium-type-34">1 Inch Type C Videotape</a></td><td><a href='#information-storage-medium-type-34'>34</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a> > <a href="#information-storage-medium-type-35">1/2 Inch Videotape</a></td><td><a href='#information-storage-medium-type-35'>35</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a> > <a href="#information-storage-medium-type-36">1/4 Inch Videotape</a></td><td><a href='#information-storage-medium-type-36'>36</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-31">Open Reel Videotape</a> > <a href="#information-storage-medium-type-37">2 Inch Videotape</a></td><td><a href='#information-storage-medium-type-37'>37</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-70">Optical Audio Storage Medium</a></td><td><a href='#information-storage-medium-type-70'>70</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-70">Optical Audio Storage Medium</a> > <a href="#information-storage-medium-type-71">Optical Sound Film</a></td><td><a href='#information-storage-medium-type-71'>71</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optical Storage Medium</a></td><td><a href='#information-storage-medium-type-120'>120</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optical Storage Medium</a> > <a href="#information-storage-medium-type-122">Data Blu-ray</a></td><td><a href='#information-storage-medium-type-122'>122</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optical Storage Medium</a> > <a href="#information-storage-medium-type-124">Data CD</a></td><td><a href='#information-storage-medium-type-124'>124</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optical Storage Medium</a> > <a href="#information-storage-medium-type-121">Data DVD</a></td><td><a href='#information-storage-medium-type-121'>121</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-120">Optical Storage Medium</a> > <a href="#information-storage-medium-type-123">M-Disc</a></td><td><a href='#information-storage-medium-type-123'>123</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a></td><td><a href='#information-storage-medium-type-38'>38</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-39">Blu-ray Video Disc</a></td><td><a href='#information-storage-medium-type-39'>39</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-41">EVD</a></td><td><a href='#information-storage-medium-type-41'>41</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-42">LaserDisc</a></td><td><a href='#information-storage-medium-type-42'>42</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-44">Super Video CD</a></td><td><a href='#information-storage-medium-type-44'>44</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-45">Universal Media Disc</a></td><td><a href='#information-storage-medium-type-45'>45</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-43">Video CD</a></td><td><a href='#information-storage-medium-type-43'>43</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-40">Video-DVD</a></td><td><a href='#information-storage-medium-type-40'>40</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-38">Optical Video Disc</a> > <a href="#information-storage-medium-type-46">XDCAM Disc</a></td><td><a href='#information-storage-medium-type-46'>46</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a></td><td><a href='#information-storage-medium-type-106'>106</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-108">35 mm Photo Film</a></td><td><a href='#information-storage-medium-type-108'>108</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-108">35 mm Photo Film</a> > <a href="#information-storage-medium-type-111">35 mm Black-and-White Photographic Film</a></td><td><a href='#information-storage-medium-type-111'>111</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-108">35 mm Photo Film</a> > <a href="#information-storage-medium-type-110">35 mm Negative Photographic Film</a></td><td><a href='#information-storage-medium-type-110'>110</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-108">35 mm Photo Film</a> > <a href="#information-storage-medium-type-109">35 mm Reversal Photographic Film</a></td><td><a href='#information-storage-medium-type-109'>109</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-107">APS Film</a></td><td><a href='#information-storage-medium-type-107'>107</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-116">Large Format</a></td><td><a href='#information-storage-medium-type-116'>116</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-112">Medium Format</a></td><td><a href='#information-storage-medium-type-112'>112</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-112">Medium Format</a> > <a href="#information-storage-medium-type-115">Medium Format Black-and-White Film</a></td><td><a href='#information-storage-medium-type-115'>115</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-112">Medium Format</a> > <a href="#information-storage-medium-type-114">Medium Format Negative Film</a></td><td><a href='#information-storage-medium-type-114'>114</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-106">Photographic Film</a> > <a href="#information-storage-medium-type-112">Medium Format</a> > <a href="#information-storage-medium-type-113">Medium Format Reversal Film</a></td><td><a href='#information-storage-medium-type-113'>113</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-129">Solid State Storage Medium</a></td><td><a href='#information-storage-medium-type-129'>129</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-129">Solid State Storage Medium</a> > <a href="#information-storage-medium-type-130">SSD</a></td><td><a href='#information-storage-medium-type-130'>130</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-129">Solid State Storage Medium</a> > <a href="#information-storage-medium-type-131">USB Flash Drive</a></td><td><a href='#information-storage-medium-type-131'>131</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Text Medium</a></td><td><a href='#information-storage-medium-type-132'>132</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Text Medium</a> > <a href="#information-storage-medium-type-134">Monograph</a></td><td><a href='#information-storage-medium-type-134'>134</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Text Medium</a> > <a href="#information-storage-medium-type-135">Musical Notation</a></td><td><a href='#information-storage-medium-type-135'>135</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-132">Text Medium</a> > <a href="#information-storage-medium-type-133">Periodical</a></td><td><a href='#information-storage-medium-type-133'>133</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-2">Betacam</a></td><td><a href='#information-storage-medium-type-2'>2</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-2">Betacam</a> > <a href="#information-storage-medium-type-3">Betacam SP</a></td><td><a href='#information-storage-medium-type-3'>3</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-2">Betacam</a> > <a href="#information-storage-medium-type-4">Betacam SX</a></td><td><a href='#information-storage-medium-type-4'>4</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-5">Betamax</a></td><td><a href='#information-storage-medium-type-5'>5</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-6">Catrivision</a></td><td><a href='#information-storage-medium-type-6'>6</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-7">D1</a></td><td><a href='#information-storage-medium-type-7'>7</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-8">D2</a></td><td><a href='#information-storage-medium-type-8'>8</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-9">D3</a></td><td><a href='#information-storage-medium-type-9'>9</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-10">D5</a></td><td><a href='#information-storage-medium-type-10'>10</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-11">D6</a></td><td><a href='#information-storage-medium-type-11'>11</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-12">D9</a></td><td><a href='#information-storage-medium-type-12'>12</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-13">DCT</a></td><td><a href='#information-storage-medium-type-13'>13</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-14">Digital Betacam</a></td><td><a href='#information-storage-medium-type-14'>14</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-15">Digital8</a></td><td><a href='#information-storage-medium-type-15'>15</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-16">DV</a></td><td><a href='#information-storage-medium-type-16'>16</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-17">DVCAM</a></td><td><a href='#information-storage-medium-type-17'>17</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-18">DVCPRO</a></td><td><a href='#information-storage-medium-type-18'>18</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-19">HDCAM</a></td><td><a href='#information-storage-medium-type-19'>19</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-20">HDV</a></td><td><a href='#information-storage-medium-type-20'>20</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-21">Hi8</a></td><td><a href='#information-storage-medium-type-21'>21</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-22">MII</a></td><td><a href='#information-storage-medium-type-22'>22</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-23">MiniDV</a></td><td><a href='#information-storage-medium-type-23'>23</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-24">U-matic</a></td><td><a href='#information-storage-medium-type-24'>24</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-25">V-Cord</a></td><td><a href='#information-storage-medium-type-25'>25</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-26">VHS</a></td><td><a href='#information-storage-medium-type-26'>26</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-26">VHS</a> > <a href="#information-storage-medium-type-27">S-VHS</a></td><td><a href='#information-storage-medium-type-27'>27</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-26">VHS</a> > <a href="#information-storage-medium-type-28">S-VHS</a></td><td><a href='#information-storage-medium-type-28'>28</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-29">Video8</a></td><td><a href='#information-storage-medium-type-29'>29</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocasette</a> > <a href="#information-storage-medium-type-30">VX</a></td><td><a href='#information-storage-medium-type-30'>30</a></td></tr>
-<tr><td><a href="#information-storage-medium-type-1">Videocassette</a></td><td><a href='#information-storage-medium-type-1'>1</a></td></tr>
-</table>
-</details>
-
-<br/>
 <br/>
 
 ---
@@ -622,10 +45,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1 Inch Type A Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-32) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32) |
 | **English Name** | 1 Inch Type A Videotape |
 | **German Name** | 1 Zoll A Videoband |
 | **English Synonyms** | SMPTE Type A |
@@ -646,10 +68,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1 Inch Type B Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-33) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33) |
 | **English Name** | 1 Inch Type B Videotape |
 | **German Name** | 1 Zoll B Videoband |
 | **English Synonyms** | SMPTE Type B |
@@ -670,10 +91,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1 Inch Type A Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-32) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32) |
 | **English Name** | 1 Inch Type A Videotape |
 | **English Synonyms** | SMPTE Type A |
 | **German Name** | 1 Zoll A Videoband |
@@ -694,10 +114,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1 Inch Type B Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-33) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33) |
 | **English Name** | 1 Inch Type B Videotape |
 | **English Synonyms** | SMPTE Type B |
 | **German Name** | 1 Zoll B Videoband |
@@ -718,10 +137,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1 Inch Type C Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 34 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-34) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-34`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-34) |
 | **English Name** | 1 Inch Type C Videotape |
 | **English Synonyms** | SMPTE Type C |
 | **German Name** | 1 Zoll C Videoband |
@@ -743,10 +161,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1/2 Inch Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 35 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-35) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-35`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-35) |
 | **English Name** | 1/2 Inch Videotape |
 | **English Synonyms** | EIAJ-1 |
 | **German Name** | 1/2 Zoll Videoband |
@@ -768,10 +185,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 1/4 Inch Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 36 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-36) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-36`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-36) |
 | **English Name** | 1/4 Inch Videotape |
 | **English Synonyms** | Akai Video Tape |
 | **German Name** | 1/4 Zoll Videoband |
@@ -793,10 +209,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 16 mm Negative Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 97 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-97`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-97) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-97`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-97) |
 | **English Name** | 16 mm Negative Film |
 | **German Name** | 16 mm Negativfilm |
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
@@ -817,10 +232,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 16 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 96 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-96`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-96) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-96`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-96) |
 | **English Name** | 16 mm Positive Film |
 | **English Synonyms** | 16 mm Film |
 | **German Name** | 16 mm Positivfilm |
@@ -842,10 +256,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 2 Inch Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 37 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-37) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-37`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-37) |
 | **English Name** | 2 Inch Videotape |
 | **English Synonyms** | Quadruplex,Octaplex,VR-1500,VR-1600,IVC-9000,Helical SV-201,ACR 25 |
 | **German Name** | 2 Zoll Videoband |
@@ -867,10 +280,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 22 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 100 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-100`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-100) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-100`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-100) |
 | **English Name** | 22 mm Positive Film |
 | **English Synonyms** | 22 mm Film |
 | **German Name** | 22 mm Positivfilm |
@@ -892,10 +304,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 28 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 101 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-101`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-101) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-101`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-101) |
 | **English Name** | 28 mm Positive Film |
 | **English Synonyms** | 28 mm Film |
 | **German Name** | 28 mm Positivfilm |
@@ -917,10 +328,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 3,5" Floppy Disk
 
-|||
-|-----------|-----------|
+
 | **ID** | 126 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-126`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-126) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-126`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-126) |
 | **English Name** | 3,5" Floppy Disk |
 | **English Synonyms** | 3.5 Inch Floppy Disk |
 | **German Name** | 3,5" Diskette |
@@ -942,10 +352,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 35 mm Black-and-White Photographic Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 111 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-111`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-111) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-111`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-111) |
 | **English Name** | 35 mm Black-and-White Photographic Film |
 | **German Name** | Schwarzweiß-Kleinbildfilm |
 | **Parent Information Storage Medium Type** | [35 mm Photo Film](#information-storage-medium-type-108) |
@@ -965,10 +374,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 35 mm Negative Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 103 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-103`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-103) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-103`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-103) |
 | **English Name** | 35 mm Negative Film |
 | **German Name** | 35 mm Negativfilm |
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
@@ -989,10 +397,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 35 mm Negative Photographic Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 110 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-110`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-110) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-110`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-110) |
 | **English Name** | 35 mm Negative Photographic Film |
 | **German Name** | Negativ-Kleinbildfilm |
 | **Parent Information Storage Medium Type** | [35 mm Photo Film](#information-storage-medium-type-108) |
@@ -1012,10 +419,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 35 mm Photo Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 108 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-108`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-108) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-108`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-108) |
 | **English Name** | 35 mm Photo Film |
 | **English Synonyms** | 135 Film,Small Format Film |
 | **German Name** | Kleinbildfilm |
@@ -1037,10 +443,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 35 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 102 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-102`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-102) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-102`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-102) |
 | **English Name** | 35 mm Positive Film |
 | **English Synonyms** | 35 mm Film |
 | **German Name** | 35 mm Positivfilm |
@@ -1062,10 +467,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 35 mm Reversal Photographic Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 109 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-109`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-109) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-109`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-109) |
 | **English Name** | 35 mm Reversal Photographic Film |
 | **English Synonyms** | 35 mm Slide Film |
 | **German Name** | Diapositiv-Kleinbildfilm |
@@ -1087,10 +491,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 5,25" Floppy Disk
 
-|||
-|-----------|-----------|
+
 | **ID** | 127 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-127`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-127) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-127`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-127) |
 | **English Name** | 5,25" Floppy Disk |
 | **English Synonyms** | 5.25 Inch Floppy Disk |
 | **German Name** | 5,25" Diskette |
@@ -1112,10 +515,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 70 mm Negative Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 105 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-105`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-105) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-105`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-105) |
 | **English Name** | 70 mm Negative Film |
 | **German Name** | 70 mm Negativfilm |
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
@@ -1136,10 +538,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 70 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 104 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-104`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-104) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-104`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-104) |
 | **English Name** | 70 mm Positive Film |
 | **English Synonyms** | 70 mm Film |
 | **German Name** | 70 mm Positivfilm |
@@ -1161,10 +562,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 8 mm Negative Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 93 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-93`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-93) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-93`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-93) |
 | **English Name** | 8 mm Negative Film |
 | **German Name** | 8 mm Negativfilm |
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
@@ -1185,10 +585,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 8 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 92 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-92`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-92) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-92`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-92) |
 | **English Name** | 8 mm Positive Film |
 | **English Synonyms** | Normal 8,8 mm Film |
 | **German Name** | 8 mm Positivfilm |
@@ -1210,10 +609,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 8-track Tape
 
-|||
-|-----------|-----------|
+
 | **ID** | 67 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-67`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-67) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-67`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-67) |
 | **English Name** | 8-track Tape |
 | **English Synonyms** | Stereo 8,Eight-track Cartridge |
 | **German Name** | 8-Spur-Kassette |
@@ -1238,10 +636,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## 9,5 mm Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 95 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-95`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-95) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-95`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-95) |
 | **English Name** | 9,5 mm Film |
 | **English Synonyms** | 9.5 mm Film |
 | **German Name** | 9,5 mm Film |
@@ -1263,10 +660,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## ADAT
 
-|||
-|-----------|-----------|
+
 | **ID** | 80 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-80`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-80) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-80`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-80) |
 | **English Name** | ADAT |
 | **English Synonyms** | Alesis Digital Audio Tape |
 | **German Name** | ADAT |
@@ -1287,10 +683,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## APS Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 107 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-107`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-107) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-107`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-107) |
 | **English Name** | APS Film |
 | **German Name** | APS-Film |
 | **Parent Information Storage Medium Type** | [Photographic Film](#information-storage-medium-type-106) |
@@ -1310,10 +705,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Audio Cassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 60 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-60`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-60) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-60`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-60) |
 | **English Name** | Audio Cassette |
 | **English Synonyms** | CC,MC |
 | **German Name** | Kompaktkassette |
@@ -1335,10 +729,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Audio CD
 
-|||
-|-----------|-----------|
+
 | **ID** | 85 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-85`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-85) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-85`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-85) |
 | **English Name** | Audio CD |
 | **English Synonyms** | Compact Disc Digital Audio |
 | **German Name** | Audio-CD |
@@ -1361,10 +754,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Betacam
 
-|||
-|-----------|-----------|
+
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-2) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-2`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-2) |
 | **English Name** | Betacam |
 | **German Name** | Betacam |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1386,10 +778,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Betacam SP
 
-|||
-|-----------|-----------|
+
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-3) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-3`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-3) |
 | **English Name** | Betacam SP |
 | **German Name** | Betacam SP |
 | **Parent Information Storage Medium Type** | [Betacam](#information-storage-medium-type-2) |
@@ -1410,10 +801,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Betacam SX
 
-|||
-|-----------|-----------|
+
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-4) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-4`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-4) |
 | **English Name** | Betacam SX |
 | **German Name** | Betacam SX |
 | **Parent Information Storage Medium Type** | [Betacam](#information-storage-medium-type-2) |
@@ -1434,10 +824,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Betamax
 
-|||
-|-----------|-----------|
+
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-5) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-5`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-5) |
 | **English Name** | Betamax |
 | **German Name** | Betamax |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1459,10 +848,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Blu-ray Audio Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 89 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-89`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-89) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-89`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-89) |
 | **English Name** | Blu-ray Audio Disc |
 | **English Synonyms** | Pure Audio Blu-ray,High Definition Audio Disc,HDAD,High Fidelity Pure Audio |
 | **German Name** | Blu-ray Audio Disc |
@@ -1484,10 +872,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Blu-ray Video Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 39 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-39) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-39`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-39) |
 | **English Name** | Blu-ray Video Disc |
 | **English Synonyms** | Video-BD |
 | **German Name** | Blu-ray Video Disc |
@@ -1510,10 +897,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Catrivision
 
-|||
-|-----------|-----------|
+
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-6) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-6`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-6) |
 | **English Name** | Catrivision |
 | **German Name** | Catrivision |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1534,10 +920,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Coarse Groove Record
 
-|||
-|-----------|-----------|
+
 | **ID** | 54 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-54) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-54`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-54) |
 | **English Name** | Coarse Groove Record |
 | **German Name** | Normalrillen-Schallplatte |
 | **Parent Information Storage Medium Type** | [Grooved Analog Disc](#information-storage-medium-type-53) |
@@ -1558,10 +943,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Compact LaserDisc
 
-|||
-|-----------|-----------|
+
 | **ID** | 86 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-86`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-86) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-86`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-86) |
 | **English Name** | Compact LaserDisc |
 | **German Name** | Compact LaserDisc |
 | **Parent Information Storage Medium Type** | [Opto-digital Audio Storage Medium](#information-storage-medium-type-84) |
@@ -1581,10 +965,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## D1
 
-|||
-|-----------|-----------|
+
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-7) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-7`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-7) |
 | **English Name** | D1 |
 | **German Name** | D1 |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1605,10 +988,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## D2
 
-|||
-|-----------|-----------|
+
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-8) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-8`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-8) |
 | **English Name** | D2 |
 | **German Name** | D2 |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1629,10 +1011,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## D3
 
-|||
-|-----------|-----------|
+
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-9) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-9`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-9) |
 | **English Name** | D3 |
 | **German Name** | D3 |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1653,10 +1034,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## D5
 
-|||
-|-----------|-----------|
+
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-10) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-10`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-10) |
 | **English Name** | D5 |
 | **German Name** | D5 |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1677,10 +1057,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## D6
 
-|||
-|-----------|-----------|
+
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-11) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-11`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-11) |
 | **English Name** | D6 |
 | **English Synonyms** | D6-VTR |
 | **German Name** | D6 |
@@ -1702,10 +1081,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## D9
 
-|||
-|-----------|-----------|
+
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-12) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-12`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-12) |
 | **English Name** | D9 |
 | **English Synonyms** | D-9,Digital S |
 | **German Name** | D9 |
@@ -1727,10 +1105,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DASH Open Reel Tape
 
-|||
-|-----------|-----------|
+
 | **ID** | 74 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-74`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-74) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-74`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-74) |
 | **English Name** | DASH Open Reel Tape |
 | **German Name** | DASH-Tonband |
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
@@ -1750,10 +1127,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DAT
 
-|||
-|-----------|-----------|
+
 | **ID** | 79 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-79`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-79) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-79`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-79) |
 | **English Name** | DAT |
 | **German Name** | DAT |
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
@@ -1774,10 +1150,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Data Blu-ray
 
-|||
-|-----------|-----------|
+
 | **ID** | 122 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-122`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-122) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-122`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-122) |
 | **English Name** | Data Blu-ray |
 | **English Synonyms** | BD-R ,BD-RE |
 | **German Name** | Daten-Blu-ray |
@@ -1799,10 +1174,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Data CD
 
-|||
-|-----------|-----------|
+
 | **ID** | 124 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-124`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-124) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-124`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-124) |
 | **English Name** | Data CD |
 | **English Synonyms** | CD-R,CD+R,CD-RW |
 | **German Name** | Daten-CD |
@@ -1823,10 +1197,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Data DVD
 
-|||
-|-----------|-----------|
+
 | **ID** | 121 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-121`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-121) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-121`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-121) |
 | **English Name** | Data DVD |
 | **English Synonyms** | Data DVD+R,Data DVD+R DL,Data DVD-R,Data DVD-RW,Data DVD+RW |
 | **German Name** | Daten-DVD |
@@ -1847,10 +1220,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DCT
 
-|||
-|-----------|-----------|
+
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-13) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-13`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-13) |
 | **English Name** | DCT |
 | **German Name** | DCT |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -1871,10 +1243,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Dictabelt
 
-|||
-|-----------|-----------|
+
 | **ID** | 48 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-48) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-48`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-48) |
 | **English Name** | Dictabelt |
 | **German Name** | Dictabelt |
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
@@ -1896,10 +1267,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Dictation Cylinder
 
-|||
-|-----------|-----------|
+
 | **ID** | 52 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-52) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-52`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-52) |
 | **English Name** | Dictation Cylinder |
 | **German Name** | Diktat-Zylinder |
 | **Parent Information Storage Medium Type** | [Phonograph Cylinder](#information-storage-medium-type-49) |
@@ -1920,10 +1290,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Digital Audio Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 72 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-72`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-72) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-72`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-72) |
 | **English Name** | Digital Audio Storage Medium |
 | **German Name** | Digitaler Tonträger |
 | **German Breadcrumb** | [Digitaler Tonträger](#information-storage-medium-type-72) |
@@ -1942,10 +1311,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Digital Betacam
 
-|||
-|-----------|-----------|
+
 | **ID** | 14 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-14) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-14`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-14) |
 | **English Name** | Digital Betacam |
 | **English Synonyms** | DigiBeta,D-Beta |
 | **German Name** | Digital Betacam |
@@ -1967,10 +1335,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Digital Compact Cassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 82 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-82`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-82) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-82`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-82) |
 | **English Name** | Digital Compact Cassette |
 | **English Synonyms** | DCC |
 | **German Name** | Digital Compact Cassette |
@@ -1991,10 +1358,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Digital8
 
-|||
-|-----------|-----------|
+
 | **ID** | 15 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-15) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-15`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-15) |
 | **English Name** | Digital8 |
 | **English Synonyms** | Digital 8,Di8 |
 | **German Name** | Digital8 |
@@ -2016,10 +1382,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DTRS
 
-|||
-|-----------|-----------|
+
 | **ID** | 81 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-81`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-81) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-81`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-81) |
 | **English Name** | DTRS |
 | **English Synonyms** | Digital Tape Recording System,DARS,DA-88 |
 | **German Name** | DTRS |
@@ -2041,10 +1406,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DV
 
-|||
-|-----------|-----------|
+
 | **ID** | 16 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-16) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-16`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-16) |
 | **English Name** | DV |
 | **German Name** | DV |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -2065,10 +1429,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DVCAM
 
-|||
-|-----------|-----------|
+
 | **ID** | 17 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-17) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-17`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-17) |
 | **English Name** | DVCAM |
 | **German Name** | DVCAM |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -2089,10 +1452,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DVCPRO
 
-|||
-|-----------|-----------|
+
 | **ID** | 18 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-18) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-18`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-18) |
 | **English Name** | DVCPRO |
 | **English Synonyms** | DVCPro 25,DVCPro 50,DVCPro Progressive,DVCPro HD,P2 |
 | **German Name** | DVCPRO |
@@ -2114,10 +1476,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## DVD-Audio
 
-|||
-|-----------|-----------|
+
 | **ID** | 88 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-88`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-88) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-88`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-88) |
 | **English Name** | DVD-Audio |
 | **English Synonyms** | DVD-A |
 | **German Name** | DVD-Audio |
@@ -2139,10 +1500,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## EVD
 
-|||
-|-----------|-----------|
+
 | **ID** | 41 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-41) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-41`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-41) |
 | **English Name** | EVD |
 | **English Synonyms** | Enhanced Versatile Disc |
 | **German Name** | EVD |
@@ -2164,10 +1524,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Executive Cassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 61 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-61`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-61) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-61`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-61) |
 | **English Name** | Executive Cassette |
 | **German Name** | Executive Cassette |
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
@@ -2187,10 +1546,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Fidelipac
 
-|||
-|-----------|-----------|
+
 | **ID** | 65 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-65`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-65) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-65`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-65) |
 | **English Name** | Fidelipac |
 | **English Synonyms** | NAB cartridge |
 | **German Name** | Fidelipac |
@@ -2211,10 +1569,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Grooved Analog Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 53 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-53) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-53`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-53) |
 | **English Name** | Grooved Analog Disc |
 | **German Name** | Schallplatte |
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
@@ -2236,10 +1593,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## HD
 
-|||
-|-----------|-----------|
+
 | **ID** | 128 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-128`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-128) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-128`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-128) |
 | **English Name** | HD |
 | **English Synonyms** | HDD,Hard Disk |
 | **German Name** | HD |
@@ -2263,10 +1619,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## HDCAM
 
-|||
-|-----------|-----------|
+
 | **ID** | 19 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-19) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-19`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-19) |
 | **English Name** | HDCAM |
 | **English Synonyms** | HDCAM SR |
 | **German Name** | HDCAM |
@@ -2288,10 +1643,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## HDV
 
-|||
-|-----------|-----------|
+
 | **ID** | 20 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-20) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-20`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-20) |
 | **English Name** | HDV |
 | **German Name** | HDV |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -2312,10 +1666,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Hi8
 
-|||
-|-----------|-----------|
+
 | **ID** | 21 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-21) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-21`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-21) |
 | **English Name** | Hi8 |
 | **German Name** | Hi8 |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -2337,10 +1690,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Large Format
 
-|||
-|-----------|-----------|
+
 | **ID** | 116 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-116`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-116) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-116`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-116) |
 | **English Name** | Large Format |
 | **English Synonyms** | Planfilm |
 | **German Name** | Großformatfilm |
@@ -2361,10 +1713,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## LaserDisc
 
-|||
-|-----------|-----------|
+
 | **ID** | 42 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-42) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-42`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-42) |
 | **English Name** | LaserDisc |
 | **English Synonyms** | CAV,CLV,CAA |
 | **German Name** | LaserDisc |
@@ -2386,10 +1737,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## M-Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 123 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-123`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-123) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-123`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-123) |
 | **English Name** | M-Disc |
 | **German Name** | M-Disc |
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
@@ -2409,10 +1759,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Magnetic Audio Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 57 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-57) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-57`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-57) |
 | **English Name** | Magnetic Audio Storage Medium |
 | **German Name** | Magnetischer Tonträger |
 | **German Breadcrumb** | [Magnetischer Tonträger](#information-storage-medium-type-57) |
@@ -2431,10 +1780,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Magnetic Audio Tape
 
-|||
-|-----------|-----------|
+
 | **ID** | 58 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-58) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-58`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-58) |
 | **English Name** | Magnetic Audio Tape |
 | **German Name** | Magnettonband |
 | **Parent Information Storage Medium Type** | [Magnetic Audio Storage Medium](#information-storage-medium-type-57) |
@@ -2455,10 +1803,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Magnetic Sound Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 68 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-68`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-68) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-68`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-68) |
 | **English Name** | Magnetic Sound Disc |
 | **English Synonyms** | Astromag |
 | **German Name** | Magnettonplatte |
@@ -2479,10 +1826,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Magnetic Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 125 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-125`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-125) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-125`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-125) |
 | **English Name** | Magnetic Storage Medium |
 | **German Name** | Magnetischer Datenträger |
 | **German Breadcrumb** | [Magnetischer Datenträger](#information-storage-medium-type-125) |
@@ -2501,10 +1847,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Magneto-digital Audio Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 73 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-73`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-73) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-73`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-73) |
 | **English Name** | Magneto-digital Audio Storage Medium |
 | **German Name** | Magneto-digitaler Tonträger |
 | **Parent Information Storage Medium Type** | [Digital Audio Storage Medium](#information-storage-medium-type-72) |
@@ -2524,10 +1869,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Mechanical Audio Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 47 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-47) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-47`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-47) |
 | **English Name** | Mechanical Audio Storage Medium |
 | **German Name** | Mechanischer Tonträger |
 | **German Breadcrumb** | [Mechanischer Tonträger](#information-storage-medium-type-47) |
@@ -2546,10 +1890,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Medium Format
 
-|||
-|-----------|-----------|
+
 | **ID** | 112 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-112`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-112) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-112`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-112) |
 | **English Name** | Medium Format |
 | **German Name** | Mittelformatfilm |
 | **Parent Information Storage Medium Type** | [Photographic Film](#information-storage-medium-type-106) |
@@ -2569,10 +1912,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Medium Format Black-and-White Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 115 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-115`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-115) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-115`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-115) |
 | **English Name** | Medium Format Black-and-White Film |
 | **German Name** | Schwarzweiß-Mittelformatfilm |
 | **Parent Information Storage Medium Type** | [Medium Format](#information-storage-medium-type-112) |
@@ -2592,10 +1934,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Medium Format Negative Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 114 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-114`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-114) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-114`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-114) |
 | **English Name** | Medium Format Negative Film |
 | **German Name** | Negativ-Mittelformatfilm |
 | **Parent Information Storage Medium Type** | [Medium Format](#information-storage-medium-type-112) |
@@ -2615,10 +1956,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Medium Format Reversal Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 113 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-113`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-113) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-113`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-113) |
 | **English Name** | Medium Format Reversal Film |
 | **German Name** | Diapositiv-Mittelformatfilm |
 | **Parent Information Storage Medium Type** | [Medium Format](#information-storage-medium-type-112) |
@@ -2638,10 +1978,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Microcassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 63 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-63`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-63) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-63`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-63) |
 | **English Name** | Microcassette |
 | **English Synonyms** | MC |
 | **German Name** | Mikrokassette |
@@ -2662,10 +2001,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Microfilm
 
-|||
-|-----------|-----------|
+
 | **ID** | 119 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-119`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-119) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-119`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-119) |
 | **English Name** | Microfilm |
 | **German Name** | Mikrofilm |
 | **Parent Information Storage Medium Type** | [Microform](#information-storage-medium-type-117) |
@@ -2685,10 +2023,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Microform
 
-|||
-|-----------|-----------|
+
 | **ID** | 117 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-117`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-117) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-117`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-117) |
 | **English Name** | Microform |
 | **German Name** | Mikroform |
 | **German Breadcrumb** | [Mikroform](#information-storage-medium-type-117) |
@@ -2707,10 +2044,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Microgroove Record
 
-|||
-|-----------|-----------|
+
 | **ID** | 55 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-55) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-55`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-55) |
 | **English Name** | Microgroove Record |
 | **German Name** | Mikrorillen-Schallplatte |
 | **Parent Information Storage Medium Type** | [Grooved Analog Disc](#information-storage-medium-type-53) |
@@ -2730,10 +2066,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## MII
 
-|||
-|-----------|-----------|
+
 | **ID** | 22 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-22) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-22`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-22) |
 | **English Name** | MII |
 | **German Name** | MII |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -2754,10 +2089,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Mikrofiche
 
-|||
-|-----------|-----------|
+
 | **ID** | 118 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-118`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-118) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-118`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-118) |
 | **English Name** | Mikrofiche |
 | **English Synonyms** | Mikrofiche |
 | **German Name** | Mikroplanfilm |
@@ -2779,10 +2113,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Mini-Cassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 62 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-62`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-62) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-62`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-62) |
 | **English Name** | Mini-Cassette |
 | **English Synonyms** | Minicassette |
 | **German Name** | Minikassette |
@@ -2805,10 +2138,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## MiniDisc
 
-|||
-|-----------|-----------|
+
 | **ID** | 90 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-90`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-90) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-90`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-90) |
 | **English Name** | MiniDisc |
 | **English Synonyms** | MD |
 | **German Name** | MiniDisc |
@@ -2830,10 +2162,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## MiniDV
 
-|||
-|-----------|-----------|
+
 | **ID** | 23 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-23) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-23`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-23) |
 | **English Name** | MiniDV |
 | **English Synonyms** | DVC |
 | **German Name** | MiniDV |
@@ -2855,10 +2186,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Monograph
 
-|||
-|-----------|-----------|
+
 | **ID** | 134 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-134`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-134) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-134`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-134) |
 | **English Name** | Monograph |
 | **German Name** | Monografie |
 | **Parent Information Storage Medium Type** | [Text Medium](#information-storage-medium-type-132) |
@@ -2880,10 +2210,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Moving Image Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 91 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-91`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-91) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-91`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-91) |
 | **English Name** | Moving Image Film |
 | **English Synonyms** | Motion Picture Film,Movie Film,Cinematographic Film |
 | **German Name** | Bewegtbild-Film |
@@ -2905,10 +2234,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Musical Notation
 
-|||
-|-----------|-----------|
+
 | **ID** | 135 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-135`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-135) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-135`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-135) |
 | **English Name** | Musical Notation |
 | **German Name** | Musiknotation |
 | **Parent Information Storage Medium Type** | [Text Medium](#information-storage-medium-type-132) |
@@ -2929,10 +2257,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Narrow Groove Cylinder
 
-|||
-|-----------|-----------|
+
 | **ID** | 51 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-51) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-51`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-51) |
 | **English Name** | Narrow Groove Cylinder |
 | **English Synonyms** | 4 Minute Cylinder,Four Minute Cylinder |
 | **German Name** | Langspiel-Walze |
@@ -2954,10 +2281,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Normal Groove Cylinder
 
-|||
-|-----------|-----------|
+
 | **ID** | 50 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-50) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-50`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-50) |
 | **English Name** | Normal Groove Cylinder |
 | **English Synonyms** | 2 Minute Cylinder,Two Minute Cylinder |
 | **German Name** | Normalspiel-Walze |
@@ -2979,10 +2305,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## NT cassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 83 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-83`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-83) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-83`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-83) |
 | **English Name** | NT cassette |
 | **German Name** | NT Cassette |
 | **German Synonyms** | NT-Kassette |
@@ -3003,10 +2328,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Open Reel Audiotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 59 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-59`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-59) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-59`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-59) |
 | **English Name** | Open Reel Audiotape |
 | **German Name** | Spulentonband |
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
@@ -3027,10 +2351,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Open Reel Videotape
 
-|||
-|-----------|-----------|
+
 | **ID** | 31 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-31) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-31`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-31) |
 | **English Name** | Open Reel Videotape |
 | **German Name** | Videoband |
 | **German Synonyms** | Offenspule Video,Offene Videobandspule |
@@ -3052,10 +2375,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Optical Audio Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 70 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-70`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-70) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-70`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-70) |
 | **English Name** | Optical Audio Storage Medium |
 | **German Name** | Optischer Tonträger |
 | **German Breadcrumb** | [Optischer Tonträger](#information-storage-medium-type-70) |
@@ -3074,10 +2396,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Optical Sound Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 71 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-71`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-71) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-71`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-71) |
 | **English Name** | Optical Sound Film |
 | **English Synonyms** | Triergon Film,Light Ray Film |
 | **German Name** | Lichttonfilm |
@@ -3099,10 +2420,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Optical Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 120 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-120`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-120) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-120`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-120) |
 | **English Name** | Optical Storage Medium |
 | **German Name** | Optischer Datenträger |
 | **Parent Information Storage Medium Type** | [Optical Storage Medium](#information-storage-medium-type-120) |
@@ -3122,10 +2442,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Optical Video Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 38 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-38) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-38`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-38) |
 | **English Name** | Optical Video Disc |
 | **German Name** | Optischer Videodatenträger |
 | **German Breadcrumb** | [Optischer Videodatenträger](#information-storage-medium-type-38) |
@@ -3145,10 +2464,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Opto-digital Audio Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 84 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-84`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-84) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-84`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-84) |
 | **English Name** | Opto-digital Audio Storage Medium |
 | **German Name** | Opto-digitaler Tonträger |
 | **Parent Information Storage Medium Type** | [Digital Audio Storage Medium](#information-storage-medium-type-72) |
@@ -3168,10 +2486,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## PCM Betamax
 
-|||
-|-----------|-----------|
+
 | **ID** | 76 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-76`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-76) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-76`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-76) |
 | **English Name** | PCM Betamax |
 | **German Name** | PCM Betamax |
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
@@ -3192,10 +2509,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## PCM U-Matic
 
-|||
-|-----------|-----------|
+
 | **ID** | 77 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-77`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-77) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-77`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-77) |
 | **English Name** | PCM U-Matic |
 | **German Name** | PCM U-Matic |
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
@@ -3216,10 +2532,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## PCM VHS
 
-|||
-|-----------|-----------|
+
 | **ID** | 78 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-78`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-78) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-78`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-78) |
 | **English Name** | PCM VHS |
 | **German Name** | PCM VHS |
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
@@ -3240,10 +2555,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Periodical
 
-|||
-|-----------|-----------|
+
 | **ID** | 133 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-133`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-133) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-133`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-133) |
 | **English Name** | Periodical |
 | **German Name** | Periodikum |
 | **Parent Information Storage Medium Type** | [Text Medium](#information-storage-medium-type-132) |
@@ -3264,10 +2578,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Phonograph Cylinder
 
-|||
-|-----------|-----------|
+
 | **ID** | 49 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-49) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-49`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-49) |
 | **English Name** | Phonograph Cylinder |
 | **English Synonyms** | Phonograph Roll,Audio Cylinder |
 | **German Name** | Phonographenwalze |
@@ -3291,10 +2604,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Photographic Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 106 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-106`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-106) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-106`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-106) |
 | **English Name** | Photographic Film |
 | **German Name** | Fotografischer Film |
 | **German Breadcrumb** | [Fotografischer Film](#information-storage-medium-type-106) |
@@ -3313,10 +2625,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Picocassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 64 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-64`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-64) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-64`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-64) |
 | **English Name** | Picocassette |
 | **German Name** | Picocassette |
 | **Parent Information Storage Medium Type** | [Magnetic Audio Tape](#information-storage-medium-type-58) |
@@ -3336,10 +2647,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Pro Digi Open Reel Tape
 
-|||
-|-----------|-----------|
+
 | **ID** | 75 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-75`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-75) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-75`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-75) |
 | **English Name** | Pro Digi Open Reel Tape |
 | **German Name** | Pro-Digi-Tonband |
 | **Parent Information Storage Medium Type** | [Magneto-digital Audio Storage Medium](#information-storage-medium-type-73) |
@@ -3359,10 +2669,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## S-VHS
 
-|||
-|-----------|-----------|
+
 | **ID** | 27 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-27) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-27`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-27) |
 | **English Name** | S-VHS |
 | **German Name** | S-VHS |
 | **Parent Information Storage Medium Type** | [VHS](#information-storage-medium-type-26) |
@@ -3382,10 +2691,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Solid State Storage Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 129 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-129`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-129) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-129`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-129) |
 | **English Name** | Solid State Storage Medium |
 | **German Name** | Festkörper-Datenträger |
 | **German Breadcrumb** | [Festkörper-Datenträger](#information-storage-medium-type-129) |
@@ -3404,10 +2712,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## SSD
 
-|||
-|-----------|-----------|
+
 | **ID** | 130 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-130`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-130) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-130`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-130) |
 | **English Name** | SSD |
 | **English Synonyms** | Solid State Storage |
 | **German Name** | SSD |
@@ -3429,10 +2736,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Stereo-Pak
 
-|||
-|-----------|-----------|
+
 | **ID** | 66 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-66`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-66) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-66`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-66) |
 | **English Name** | Stereo-Pak |
 | **English Synonyms** | 4-track Cartridge,4-track Tape |
 | **German Name** | Stereo-Pak |
@@ -3454,10 +2760,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Super 16 mm Negative Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 99 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-99`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-99) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-99`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-99) |
 | **English Name** | Super 16 mm Negative Film |
 | **German Name** | Super 16 mm Negativfilm |
 | **Parent Information Storage Medium Type** | [Moving Image Film](#information-storage-medium-type-91) |
@@ -3478,10 +2783,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Super 16 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 98 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-98`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-98) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-98`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-98) |
 | **English Name** | Super 16 mm Positive Film |
 | **English Synonyms** | Super 16 mm Film |
 | **German Name** | Super 16 mm Positivfilm |
@@ -3503,10 +2807,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Super 8 mm Positive Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 94 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-94`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-94) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-94`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-94) |
 | **English Name** | Super 8 mm Positive Film |
 | **English Synonyms** | Super 8 mm Film |
 | **German Name** | Super 8 mm Positivfilm |
@@ -3529,10 +2832,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Super Audio CD
 
-|||
-|-----------|-----------|
+
 | **ID** | 87 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-87`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-87) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-87`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-87) |
 | **English Name** | Super Audio CD |
 | **English Synonyms** | SACD,Super Audio Compact Disc |
 | **German Name** | Super Audio CD |
@@ -3554,10 +2856,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Super Video CD
 
-|||
-|-----------|-----------|
+
 | **ID** | 44 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-44) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-44`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-44) |
 | **English Name** | Super Video CD |
 | **German Name** | Super Video CD |
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
@@ -3578,10 +2879,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Tefifon Tape
 
-|||
-|-----------|-----------|
+
 | **ID** | 56 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-56) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-56`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-56) |
 | **English Name** | Tefifon Tape |
 | **German Name** | Tefifon-Band |
 | **Parent Information Storage Medium Type** | [Mechanical Audio Storage Medium](#information-storage-medium-type-47) |
@@ -3601,10 +2901,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Text Medium
 
-|||
-|-----------|-----------|
+
 | **ID** | 132 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-132`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-132) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-132`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-132) |
 | **English Name** | Text Medium |
 | **English Synonyms** | Record |
 | **German Name** | Schriftstück |
@@ -3626,10 +2925,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## U-matic
 
-|||
-|-----------|-----------|
+
 | **ID** | 24 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-24) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-24`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-24) |
 | **English Name** | U-matic |
 | **English Synonyms** | U-matic S,U-matic SP |
 | **German Name** | U-matic |
@@ -3651,10 +2949,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Universal Media Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 45 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-45) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-45`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-45) |
 | **English Name** | Universal Media Disc |
 | **German Name** | Universal Media Disc |
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
@@ -3675,10 +2972,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## USB Flash Drive
 
-|||
-|-----------|-----------|
+
 | **ID** | 131 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-131`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-131) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-131`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-131) |
 | **English Name** | USB Flash Drive |
 | **English Synonyms** | Thumb Drive,USB Thumb Drive,Flash Memory |
 | **German Name** | USB-Stick |
@@ -3702,10 +2998,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## V-Cord
 
-|||
-|-----------|-----------|
+
 | **ID** | 25 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-25) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-25`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-25) |
 | **English Name** | V-Cord |
 | **German Name** | V-Cord |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -3726,10 +3021,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## VHS
 
-|||
-|-----------|-----------|
+
 | **ID** | 26 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-26) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-26`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-26) |
 | **English Name** | VHS |
 | **German Name** | VHS |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -3750,10 +3044,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## VHS-C
 
-|||
-|-----------|-----------|
+
 | **ID** | 28 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-28) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-28`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-28) |
 | **English Name** | VHS-C |
 | **German Name** | VHS-C |
 | **Parent Information Storage Medium Type** | [VHS](#information-storage-medium-type-26) |
@@ -3773,10 +3066,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Video CD
 
-|||
-|-----------|-----------|
+
 | **ID** | 43 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-43) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-43`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-43) |
 | **English Name** | Video CD |
 | **English Synonyms** | VCD |
 | **German Name** | Video CD |
@@ -3798,10 +3090,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Video-DVD
 
-|||
-|-----------|-----------|
+
 | **ID** | 40 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-40) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-40`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-40) |
 | **English Name** | Video-DVD |
 | **English Synonyms** | Video DVD+R,Video DVD+R DL,Video DVD-R,Video DVD-RW,Video DVD+RW |
 | **German Name** | Video-DVD |
@@ -3823,10 +3114,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Video8
 
-|||
-|-----------|-----------|
+
 | **ID** | 29 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-29) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-29`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-29) |
 | **English Name** | Video8 |
 | **German Name** | Video8 |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -3847,10 +3137,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Videocassette
 
-|||
-|-----------|-----------|
+
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-1) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-1`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-1) |
 | **English Name** | Videocassette |
 | **German Name** | Videokassette |
 | **German Breadcrumb** | [Videokassette](#information-storage-medium-type-1) |
@@ -3872,10 +3161,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## VX
 
-|||
-|-----------|-----------|
+
 | **ID** | 30 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-30) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-30`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-30) |
 | **English Name** | VX |
 | **German Name** | VX |
 | **Parent Information Storage Medium Type** | [Videocasette](#information-storage-medium-type-1) |
@@ -3896,10 +3184,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## Wire Recording
 
-|||
-|-----------|-----------|
+
 | **ID** | 69 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-69`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-69) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-69`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-69) |
 | **English Name** | Wire Recording |
 | **German Name** | Tondraht |
 | **German Synonyms** | Drahtton |
@@ -3921,10 +3208,9 @@ Information Storage Medium Types are used to classify Information Storage Medium
 
 ## XDCAM Disc
 
-|||
-|-----------|-----------|
+
 | **ID** | 46 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/information-storage-medium-types#information-storage-medium-type-46) |
+| **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-46`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-46) |
 | **English Name** | XDCAM Disc |
 | **German Name** | XDCAM Disc |
 | **Parent Information Storage Medium Type** | [Optical Video Disc](#information-storage-medium-type-38) |
