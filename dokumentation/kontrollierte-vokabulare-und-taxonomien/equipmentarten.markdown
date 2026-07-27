@@ -17,7 +17,7 @@ Permanent URL: [http://w3id.org/arkumu/equipment-types](http://w3id.org/arkumu/e
 
 Equipmentarten erlauben eine grobe Kategorisierung von Equipment oder Software, die bei der Erstellung künstlerischer Projekte oder bei anderen Ereignissen verwendet wurden – zum Beispiel bei der Digitalisierung einer historischen Schallplatte.
 
-ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 <br/>
 
@@ -27,7 +27,7 @@ Equipmentarten erlauben eine grobe Kategorisierung von Equipment oder Software, 
 
 Equipment types allow for a general categorization of equipment or software used in the creation of artistic projects or in other events — for example during the digitisation of a historical vinyl record.
 
-ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 

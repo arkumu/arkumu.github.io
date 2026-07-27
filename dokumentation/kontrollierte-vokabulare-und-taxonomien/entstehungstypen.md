@@ -23,7 +23,7 @@ Ein Beispiel: Für eine Videoproduktion wird analoges Filmmaterial aufgenommen, 
 
 Typische Retrodigitalisate sind im Nachhinein digitalisierte Aufnahmen von Tonbändern oder Schallplatten sowie Scans oder Fotografien von Skizzen, Plakaten oder Büchern.
 
-ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 
 <br/>
@@ -40,7 +40,7 @@ For example: Analog film footage is shot for a video production with the intenti
 
 Typical examples of retro-digitised material include recordings from audio tapes or vinyl records that were digitised retrospectively, as well as scans or photographs of sketches, posters, or books.
 
-ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 <br/>

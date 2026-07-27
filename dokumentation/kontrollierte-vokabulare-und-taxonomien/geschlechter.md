@@ -19,7 +19,7 @@ Permanent URL: [http://w3id.org/arkumu/genders](http://w3id.org/arkumu/genders)
 
 Dieses Vokabular beschreibt das Geschlecht von Personen. Wenn dieses nicht bekannt ist, wenn es nicht angegeben werden soll, oder es sich bei dem Akteur um eine Gruppe handelt, kann das Feld leer gelassen werden.
 
-ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 
 <br/>
@@ -32,7 +32,7 @@ Dieses Vokabular beschreibt das Geschlecht von Personen. Wenn dieses nicht bekan
 
 This vocabulary describes a person's gender. If this is unknown, if it should not be specified, or if the subject is a group, the field may be left blank.
 
-ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 <br/>

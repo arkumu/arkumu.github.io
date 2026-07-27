@@ -23,7 +23,7 @@ Lizenzen müssen für Projekte und Digitale Objekte vergeben werden. Eine detail
 Die arkumu-Lizenzen sind von den restriktivsten zu den weniger restriktiven sortiert, während die Creative Commons-Lizenzen angeordnet sind, wie sie auf der [Creative Commons-Lizenzseite](https://creativecommons.org/licenses/) erscheinen.
 Die Public-Domain-Marke und die EU-Lizenzen für verwaiste Werke bilden den Schluss. Die hinzugefügte Spalte ```Scope``` dient der besseren Übersicht.
 
-ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
  
 <br/>
 
@@ -38,7 +38,7 @@ Licenses must be granted for projects and digital objects. A detailed explanatio
 The arkumu licenses are sorted from the most restrictive to the least restrictive, while the Creative Commons licenses are arranged as they appear on the [Creative Commons license page](https://creativecommons.org/licenses/).
 The Public Domain mark and the EU licenses for orphan works appear at the end. The added ```Scope``` column is provided for a clearer overview.
 
-ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 
 <br/>
