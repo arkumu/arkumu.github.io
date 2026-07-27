@@ -9,7 +9,7 @@ permalink: /documentation/controlled-vocabularies/genders
 
 <br/>
 
-
+Permanent URL: [http://w3id.org/arkumu/genders](http://w3id.org/arkumu/genders)
 
 ---
 
@@ -17,7 +17,10 @@ permalink: /documentation/controlled-vocabularies/genders
 
 **Deutsch:**
 
-Dieses Vokabular beschreibt das Geschlecht von Personen. Ist das Geschlecht einer Person nicht bekannt, soll es nicht angegeben werden, oder handelt es sich bei dem Akteur um eine Gruppe, kann das Feld leer gelassen werden.
+Dieses Vokabular beschreibt das Geschlecht von Personen. Wenn dieses nicht bekannt ist, wenn es nicht angegeben werden soll, oder es sich bei dem Akteur um eine Gruppe handelt, kann das Feld leer gelassen werden.
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
+
 
 <br/>
 
@@ -27,7 +30,9 @@ Dieses Vokabular beschreibt das Geschlecht von Personen. Ist das Geschlecht eine
 
 **English:**
 
-This vocabulary describes the gender of persons. If the gender of a person is not known, should not be made explicit or if the Actor is a group or body in General, the selection can be left empty.
+This vocabulary describes a person's gender. If this is unknown, if it should not be specified, or if the subject is a group, the field may be left blank.
+
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
 
 <br/>
 <br/>
@@ -41,10 +46,9 @@ This vocabulary describes the gender of persons. If the gender of a person is no
 
 ## Diverse
 
-|||
-|-----------|-----------|
+
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#diverse`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#diverse) |
+| **Permanent URL** | `http://w3id.org/arkumu/genders/diverse`[🔗](http://w3id.org/arkumu/genders/diverse) |
 | **English Name** | diverse |
 | **German Name** | divers |
 
@@ -60,10 +64,9 @@ This vocabulary describes the gender of persons. If the gender of a person is no
 
 ## Female
 
-|||
-|-----------|-----------|
+
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#female`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#female) |
+| **Permanent URL** | `http://w3id.org/arkumu/genders/female`[🔗](http://w3id.org/arkumu/genders/female) |
 | **English Name** | female |
 | **German Name** | weiblich |
 
@@ -79,10 +82,9 @@ This vocabulary describes the gender of persons. If the gender of a person is no
 
 ## Male
 
-|||
-|-----------|-----------|
+
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#male`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#male) |
+| **Permanent URL** | `http://w3id.org/arkumu/genders/male`[🔗](http://w3id.org/arkumu/genders/male) |
 | **English Name** | male |
 | **German Name** | männlich |
 
@@ -98,10 +100,9 @@ This vocabulary describes the gender of persons. If the gender of a person is no
 
 ## Genderless
 
-|||
-|-----------|-----------|
+
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#genderless`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#genderless) |
+| **Permanent URL** | `http://w3id.org/arkumu/genders/genderless`[🔗](http://w3id.org/arkumu/genders/genderless) |
 | **English Name** | genderless |
 | **German Name** | geschlechtslos |
 
@@ -117,9 +118,8 @@ This vocabulary describes the gender of persons. If the gender of a person is no
 
 ## Unknown
 
-|||
-|-----------|-----------|
+
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#unknown`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/genders#unknown) |
+| **Permanent URL** | `http://w3id.org/arkumu/genders/unknown`[🔗](http://w3id.org/arkumu/genders/unknown) |
 | **English Name** | unknown |
 | **German Name** | unbekannt |

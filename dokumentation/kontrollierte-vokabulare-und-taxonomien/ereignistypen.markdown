@@ -9,7 +9,7 @@ permalink: /documentation/controlled-vocabularies/event-types
 
 <br/>
 
-Permanent URL: [http://w3id.org/arkumu/equipment-types](http://w3id.org/arkumu/event-types)
+Permanent URL: [http://w3id.org/arkumu/event-types](http://w3id.org/arkumu/event-types)
 
 
 ---
@@ -21,7 +21,7 @@ Permanent URL: [http://w3id.org/arkumu/equipment-types](http://w3id.org/arkumu/e
 Ereignistypen werden verwendet, um [**Ereignisse**](#event) in arkumu.nrw zu kategorisieren. In CIDOC sind Ereignisse selbst eine Instanz von [**E7** Activity](http://cidoc-crm.org/cidoc-crm/7.1.3/E7_Activity). Diese Entität besitzt eine Reihe von Unterklassen, die Aktivitäten weiter unterscheiden, wie beispielsweise [**E65** Creation](http://cidoc-crm.org/cidoc-crm/7.1.3/E65_Creation).
 Diese Unterklassen sind jedoch ontologisch recht abstrakt und nicht ausreichend geeignet, um die große Vielfalt der Ereignisse in der Kunstwelt abzubilden. Da zusätzliche CRM-Properties aus diesen „Subclass Entities“ nicht erforderlich sind, um ein Ereignis im Sinne von arkumu zu beschreiben, wird ein kontrolliertes Vokabular verwendet, um präzise zu definieren, um welche Art von Ereignis es sich handelt.
 
-Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist aktueller und als verbindlich anzusehen.
 
 <br/>
 
@@ -33,8 +33,7 @@ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstell
 
 Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC, Events itself are an instance of [**E7** Activity](http://cidoc-crm.org/cidoc-crm/7.1.3/E7_Activity). There, this entity has a number of subclass-entities, that could furthermore distinguish an activity, like [**E65** Creation](http://cidoc-crm.org/cidoc-crm/7.1.3/E65_Creation) for example. However, these entities are ontologically quite abstract and not well suited to capturing the great diversity of events in the art world. Since no additional CRM properties from these “subclass entities” are required to describe an event in the context of arkumu, this controlled vocabulary is used to define more precisely what type of event is involved.
 
-The vocabulary initially created is listed below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
-
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) is more up-to-date and should be considered authoritative.
 <br/>
 
 ---
