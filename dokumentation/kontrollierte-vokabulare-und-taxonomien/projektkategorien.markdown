@@ -9,13 +9,21 @@ permalink: /documentation/controlled-vocabularies/project-categories
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/project-categories](http://w3id.org/arkumu/project-categories)
+
 ---
 
 <br/>
 
 **Deutsch:**
 
-Projektkategorien typisieren ein Projekt in einem vornehmlich künstlerischen Sinn. [Projektarten](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types) hingegen kategorisieren das Projekt in seiner akademischen oder allgemeineren Funktion.
+Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an – siehe [Entitäten und Attribute des Datenmodells](/resources/entities-and-attributes-of-the-data-model.html#projekt-projektkategorien).
+
+Um das System leicht pflegebar zu halten, verwendet arkumu.nrw keine ontologischen Strukturen. auch wenn eine hierarchische Taxonomie der Realität der Projektkategorien streng genommen nicht gerecht wird. Dies hat zur Folge, dass hier ein Begriff in mehreren Hierarchien gleichzeitig auftauchen kann. Beispiel: Der Begriff "Drehbuch" kann den übergeordneten Begriffen "Film/TV" oder "Literatur" zugeordnet sein, je nachdem, in welchem Lehrgebiet das Projekt entstanden ist. Ontologien können ein solches "child" mit mehreren "parents" problemlos abbilden; Taxonomien nicht. Deshalb taucht der Begriff mehrmals auf. Beim Erfassen eines Projekts ist deshalb immer der gesamte Hierarchiebaum ("breadcrumb") zu berücksichtigen; es ist zu überlegen, ob das Projekt besser in "Film/TV" oder "Literatur" passt. Im Zweifel können beide zugeordnet werden.
+
+Nicht zu verwechseln mit [Projektarten](/documentation/controlled-vocabularies/project-types), die den akademischen Kontext eines Projekts klassifizieren.
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 <br/>
 
@@ -25,1215 +33,14 @@ Projektkategorien typisieren ein Projekt in einem vornehmlich künstlerischen Si
 
 **English:**
 
-Project categories classify a project in a primarily artistic sense. [Project Types](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-types), on the other hand, categorize the project according to its academic or more general function.
+Project Categories specify the art form or genre of a project – see [Entities and Attributes of the Data Model](/resources/entities-and-attributes-of-the-data-model.html#projekt-projektkategorien).
 
-<br/>
+To keep the system easily updatable, arkumu.nrw does not use ontological structures, even though, strictly speaking, a hierarchical taxonomy doesn't do the reality of the Project Categories justice. This means that here a term can appear in multiple hierarchies. Example: The term “screenplay” can be assigned to either the broader term “Film/TV” and “Literature”, depending on the academic discipline in which the project was created. Ontologies can easily represent such a “child” with multiple “parents”; taxonomies cannot. That is why the term appears multiple times. When creating a project, the entire hierarchy tree (“breadcrumb”) must therefore be taken into account; it should be determined whether the project is better suited to “Film/TV” or “Literature”. If in doubt, it can be assigned to both.
 
----
+Not to be confused with [Project Types](/documentation/controlled-vocabularies/project-types), which classify the academic context of a project.
 
-<br/>
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
-| Format | Link | Last Updated |
-|-----------|-----------|-----------|
-| **CSV** | <https://docs.arkumu.nrw/assets/documents/Project_Categories.csv> | 2025-10-27 |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Project_Categories.xlsx> | 2025-10-27 |
-| **PDF** | <https://docs.arkumu.nrw/assets/documents/Project_Categories.pdf> | 2025-10-27 |
-
-<br/>
-
----
-
-<br/>
-
-<details><summary>Project Categories ordered by ID | Projektkategorien nach ID geordnet</summary>
-<table>
-<tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='#project-category-1'>1</a></td><td><a href='#project-category-1'>Akademische Publikation</a></td><td><a href='#project-category-1'>Academic Publication</a></td></tr>
-<tr><td><a href='#project-category-2'>2</a></td><td><a href='#project-category-2'>Dissertation</a></td><td><a href='#project-category-2'>Doctoral Thesis</a></td></tr>
-<tr><td><a href='#project-category-3'>3</a></td><td><a href='#project-category-3'>Podcast</a></td><td><a href='#project-category-3'>Podcast</a></td></tr>
-<tr><td><a href='#project-category-4'>4</a></td><td><a href='#project-category-4'>Webseite</a></td><td><a href='#project-category-4'>Website</a></td></tr>
-<tr><td><a href='#project-category-5'>5</a></td><td><a href='#project-category-5'>Angewandte Kunst</a></td><td><a href='#project-category-5'>Applied Arts</a></td></tr>
-<tr><td><a href='#project-category-6'>6</a></td><td><a href='#project-category-6'>Architektur</a></td><td><a href='#project-category-6'>Architecture</a></td></tr>
-<tr><td><a href='#project-category-7'>7</a></td><td><a href='#project-category-7'>Design</a></td><td><a href='#project-category-7'>Design</a></td></tr>
-<tr><td><a href='#project-category-8'>8</a></td><td><a href='#project-category-8'>Game Design</a></td><td><a href='#project-category-8'>Game Design</a></td></tr>
-<tr><td><a href='#project-category-9'>9</a></td><td><a href='#project-category-9'>Industrial Design</a></td><td><a href='#project-category-9'>Industrial Design</a></td></tr>
-<tr><td><a href='#project-category-10'>10</a></td><td><a href='#project-category-10'>Innenarchitektur</a></td><td><a href='#project-category-10'>Interior Design</a></td></tr>
-<tr><td><a href='#project-category-11'>11</a></td><td><a href='#project-category-11'>Kommunikationsdesign</a></td><td><a href='#project-category-11'>Graphic Design</a></td></tr>
-<tr><td><a href='#project-category-12'>12</a></td><td><a href='#project-category-12'>Mediengestaltung</a></td><td><a href='#project-category-12'>Media Design</a></td></tr>
-<tr><td><a href='#project-category-13'>13</a></td><td><a href='#project-category-13'>Modedesign</a></td><td><a href='#project-category-13'>Fashion Design</a></td></tr>
-<tr><td><a href='#project-category-14'>14</a></td><td><a href='#project-category-14'>Sound-Design</a></td><td><a href='#project-category-14'>Sound Design</a></td></tr>
-<tr><td><a href='#project-category-15'>15</a></td><td><a href='#project-category-15'>Textildesign</a></td><td><a href='#project-category-15'>Textile Design</a></td></tr>
-<tr><td><a href='#project-category-16'>16</a></td><td><a href='#project-category-16'>Transformation Design</a></td><td><a href='#project-category-16'>Transformation Design</a></td></tr>
-<tr><td><a href='#project-category-17'>17</a></td><td><a href='#project-category-17'>User Interface Design</a></td><td><a href='#project-category-17'>User Interface Design</a></td></tr>
-<tr><td><a href='#project-category-18'>18</a></td><td><a href='#project-category-18'>Fotografie</a></td><td><a href='#project-category-18'>Photography</a></td></tr>
-<tr><td><a href='#project-category-19'>19</a></td><td><a href='#project-category-19'>Architekturfotografie</a></td><td><a href='#project-category-19'>Architectural Photography</a></td></tr>
-<tr><td><a href='#project-category-20'>20</a></td><td><a href='#project-category-20'>Dokumentarfotografie</a></td><td><a href='#project-category-20'>Documentary Photography</a></td></tr>
-<tr><td><a href='#project-category-21'>21</a></td><td><a href='#project-category-21'>Fotogrammetrie</a></td><td><a href='#project-category-21'>Photogrammetry</a></td></tr>
-<tr><td><a href='#project-category-22'>22</a></td><td><a href='#project-category-22'>Fotojournalismus</a></td><td><a href='#project-category-22'>Photojournalism</a></td></tr>
-<tr><td><a href='#project-category-23'>23</a></td><td><a href='#project-category-23'>Inszenierte Fotografie</a></td><td><a href='#project-category-23'>Staged Photography</a></td></tr>
-<tr><td><a href='#project-category-24'>24</a></td><td><a href='#project-category-24'>Landschaftsfotografie</a></td><td><a href='#project-category-24'>Landscape Photography</a></td></tr>
-<tr><td><a href='#project-category-25'>25</a></td><td><a href='#project-category-25'>Modefotografie</a></td><td><a href='#project-category-25'>Fashion Photography</a></td></tr>
-<tr><td><a href='#project-category-26'>26</a></td><td><a href='#project-category-26'>Porträtfotografie</a></td><td><a href='#project-category-26'>Portrait Photography</a></td></tr>
-<tr><td><a href='#project-category-27'>27</a></td><td><a href='#project-category-27'>Produktfotografie</a></td><td><a href='#project-category-27'>Product Photography</a></td></tr>
-<tr><td><a href='#project-category-28'>28</a></td><td><a href='#project-category-28'>Theaterfotografie</a></td><td><a href='#project-category-28'>Theatrical Photography</a></td></tr>
-<tr><td><a href='#project-category-29'>29</a></td><td><a href='#project-category-29'>Werbefotografie</a></td><td><a href='#project-category-29'>Advertising Photography</a></td></tr>
-<tr><td><a href='#project-category-30'>30</a></td><td><a href='#project-category-30'>Keramik</a></td><td><a href='#project-category-30'>Ceramic</a></td></tr>
-<tr><td><a href='#project-category-31'>31</a></td><td><a href='#project-category-31'>Darstellende Kunst</a></td><td><a href='#project-category-31'>Performing Arts</a></td></tr>
-<tr><td><a href='#project-category-32'>32</a></td><td><a href='#project-category-32'>Theater</a></td><td><a href='#project-category-32'>Theatre</a></td></tr>
-<tr><td><a href='#project-category-33'>33</a></td><td><a href='#project-category-33'>Absurdes Theater</a></td><td><a href='#project-category-33'>Theatre of the Absurd</a></td></tr>
-<tr><td><a href='#project-category-34'>34</a></td><td><a href='#project-category-34'>Alternatives Theater</a></td><td><a href='#project-category-34'>Alternative Theater</a></td></tr>
-<tr><td><a href='#project-category-35'>35</a></td><td><a href='#project-category-35'>Angewandtes Theater</a></td><td><a href='#project-category-35'>Applied Theatre</a></td></tr>
-<tr><td><a href='#project-category-36'>36</a></td><td><a href='#project-category-36'>Episches Theater</a></td><td><a href='#project-category-36'>Epic Theatre</a></td></tr>
-<tr><td><a href='#project-category-37'>37</a></td><td><a href='#project-category-37'>Experimentelles Theater</a></td><td><a href='#project-category-37'>Experimental Theatre</a></td></tr>
-<tr><td><a href='#project-category-38'>38</a></td><td><a href='#project-category-38'>Digital Theatre</a></td><td><a href='#project-category-38'>Digital Theatre</a></td></tr>
-<tr><td><a href='#project-category-39'>39</a></td><td><a href='#project-category-39'>Dokumentarisches Theater</a></td><td><a href='#project-category-39'>Documentary Theatre</a></td></tr>
-<tr><td><a href='#project-category-40'>40</a></td><td><a href='#project-category-40'>Figurentheater</a></td><td><a href='#project-category-40'>Puppetry Arts</a></td></tr>
-<tr><td><a href='#project-category-41'>41</a></td><td><a href='#project-category-41'>Freilichttheater</a></td><td><a href='#project-category-41'>Open-Air Theatre</a></td></tr>
-<tr><td><a href='#project-category-42'>42</a></td><td><a href='#project-category-42'>Improvisationstheater</a></td><td><a href='#project-category-42'>Improvisational Theatre</a></td></tr>
-<tr><td><a href='#project-category-43'>43</a></td><td><a href='#project-category-43'>Interaktives Theater</a></td><td><a href='#project-category-43'>Interactive Theatre</a></td></tr>
-<tr><td><a href='#project-category-44'>44</a></td><td><a href='#project-category-44'>Jugendtheater</a></td><td><a href='#project-category-44'>Youth Theatre</a></td></tr>
-<tr><td><a href='#project-category-45'>45</a></td><td><a href='#project-category-45'>Kindertheater</a></td><td><a href='#project-category-45'>Children's Theatre</a></td></tr>
-<tr><td><a href='#project-category-46'>46</a></td><td><a href='#project-category-46'>Metatheater</a></td><td><a href='#project-category-46'>Meta-Theatre</a></td></tr>
-<tr><td><a href='#project-category-47'>47</a></td><td><a href='#project-category-47'>Musiktheater</a></td><td><a href='#project-category-47'>Musical Theatre</a></td></tr>
-<tr><td><a href='#project-category-48'>48</a></td><td><a href='#project-category-48'>Physical Theatre</a></td><td><a href='#project-category-48'>Physical Theatre</a></td></tr>
-<tr><td><a href='#project-category-49'>49</a></td><td><a href='#project-category-49'>Politisches Theater</a></td><td><a href='#project-category-49'>Political Theatre</a></td></tr>
-<tr><td><a href='#project-category-50'>50</a></td><td><a href='#project-category-50'>Postdramatisches Theater</a></td><td><a href='#project-category-50'>Postdramatic Theatre</a></td></tr>
-<tr><td><a href='#project-category-51'>51</a></td><td><a href='#project-category-51'>Postmodernes Theater</a></td><td><a href='#project-category-51'>Postmodern Theatre</a></td></tr>
-<tr><td><a href='#project-category-52'>52</a></td><td><a href='#project-category-52'>Straßentheater</a></td><td><a href='#project-category-52'>Street Theatre</a></td></tr>
-<tr><td><a href='#project-category-53'>53</a></td><td><a href='#project-category-53'>Sprechtheater</a></td><td><a href='#project-category-53'>Spoken Drama</a></td></tr>
-<tr><td><a href='#project-category-54'>54</a></td><td><a href='#project-category-54'>Tanztheater</a></td><td><a href='#project-category-54'>Dance Theatre</a></td></tr>
-<tr><td><a href='#project-category-55'>55</a></td><td><a href='#project-category-55'>Film/TV</a></td><td><a href='#project-category-55'>Film/TV</a></td></tr>
-<tr><td><a href='#project-category-56'>56</a></td><td><a href='#project-category-56'>Animationsfilm</a></td><td><a href='#project-category-56'>Animated Film</a></td></tr>
-<tr><td><a href='#project-category-57'>57</a></td><td><a href='#project-category-57'>Dokudrama</a></td><td><a href='#project-category-57'>Docudrama</a></td></tr>
-<tr><td><a href='#project-category-58'>58</a></td><td><a href='#project-category-58'>Dokumentarfilm</a></td><td><a href='#project-category-58'>Documentary Film</a></td></tr>
-<tr><td><a href='#project-category-59'>59</a></td><td><a href='#project-category-59'>Kurz-Dokumentarfilm</a></td><td><a href='#project-category-59'>Short Documentary Film</a></td></tr>
-<tr><td><a href='#project-category-60'>60</a></td><td><a href='#project-category-60'>Drehbuch</a></td><td><a href='#project-category-60'>Screenplay</a></td></tr>
-<tr><td><a href='#project-category-61'>61</a></td><td><a href='#project-category-61'>Episode</a></td><td><a href='#project-category-61'>Episode</a></td></tr>
-<tr><td><a href='#project-category-62'>62</a></td><td><a href='#project-category-62'>Episodenfilm</a></td><td><a href='#project-category-62'>Anthology Film</a></td></tr>
-<tr><td><a href='#project-category-63'>63</a></td><td><a href='#project-category-63'>Essay-Film</a></td><td><a href='#project-category-63'>Essay Film</a></td></tr>
-<tr><td><a href='#project-category-64'>64</a></td><td><a href='#project-category-64'>Expanded Cinema</a></td><td><a href='#project-category-64'>Expanded Cinema</a></td></tr>
-<tr><td><a href='#project-category-65'>65</a></td><td><a href='#project-category-65'>Experimentalfilm</a></td><td><a href='#project-category-65'>Experimental Film</a></td></tr>
-<tr><td><a href='#project-category-66'>66</a></td><td><a href='#project-category-66'>Kompilationsfilm</a></td><td><a href='#project-category-66'>Compilation Film</a></td></tr>
-<tr><td><a href='#project-category-67'>67</a></td><td><a href='#project-category-67'>Mockumentary</a></td><td><a href='#project-category-67'>Mockumentary</a></td></tr>
-<tr><td><a href='#project-category-68'>68</a></td><td><a href='#project-category-68'>Musikfilm</a></td><td><a href='#project-category-68'>Musical Film</a></td></tr>
-<tr><td><a href='#project-category-69'>69</a></td><td><a href='#project-category-69'>Musikvideo</a></td><td><a href='#project-category-69'>Music Video</a></td></tr>
-<tr><td><a href='#project-category-70'>70</a></td><td><a href='#project-category-70'>Reportage</a></td><td><a href='#project-category-70'>Reportage</a></td></tr>
-<tr><td><a href='#project-category-71'>71</a></td><td><a href='#project-category-71'>Soundtrack</a></td><td><a href='#project-category-71'>Soundtrack</a></td></tr>
-<tr><td><a href='#project-category-72'>72</a></td><td><a href='#project-category-72'>Spielfilm</a></td><td><a href='#project-category-72'>Feature Film</a></td></tr>
-<tr><td><a href='#project-category-73'>73</a></td><td><a href='#project-category-73'>Kurzspielfilm</a></td><td><a href='#project-category-73'>Short Film</a></td></tr>
-<tr><td><a href='#project-category-74'>74</a></td><td><a href='#project-category-74'>Trailer für Film</a></td><td><a href='#project-category-74'>Film Trailer</a></td></tr>
-<tr><td><a href='#project-category-75'>75</a></td><td><a href='#project-category-75'>TV-Format</a></td><td><a href='#project-category-75'>Television Programme</a></td></tr>
-<tr><td><a href='#project-category-76'>76</a></td><td><a href='#project-category-76'>Webserie</a></td><td><a href='#project-category-76'>Web Series</a></td></tr>
-<tr><td><a href='#project-category-77'>77</a></td><td><a href='#project-category-77'>Werbespot</a></td><td><a href='#project-category-77'>Commercial</a></td></tr>
-<tr><td><a href='#project-category-78'>78</a></td><td><a href='#project-category-78'>Kunst</a></td><td><a href='#project-category-78'>Art</a></td></tr>
-<tr><td><a href='#project-category-79'>79</a></td><td><a href='#project-category-79'>Bio Art</a></td><td><a href='#project-category-79'>Bio Art</a></td></tr>
-<tr><td><a href='#project-category-80'>80</a></td><td><a href='#project-category-80'>Digitale Kunst</a></td><td><a href='#project-category-80'>Digital Art</a></td></tr>
-<tr><td><a href='#project-category-81'>81</a></td><td><a href='#project-category-81'>Augmented Reality</a></td><td><a href='#project-category-81'>Augmented Reality</a></td></tr>
-<tr><td><a href='#project-category-82'>82</a></td><td><a href='#project-category-82'>CD-ROM</a></td><td><a href='#project-category-82'>CD-ROM</a></td></tr>
-<tr><td><a href='#project-category-83'>83</a></td><td><a href='#project-category-83'>Computer Generated Imagery</a></td><td><a href='#project-category-83'>Computer Generated Imagery</a></td></tr>
-<tr><td><a href='#project-category-84'>84</a></td><td><a href='#project-category-84'>Computeranimation</a></td><td><a href='#project-category-84'>Computer Animation</a></td></tr>
-<tr><td><a href='#project-category-85'>85</a></td><td><a href='#project-category-85'>Computerspiel</a></td><td><a href='#project-category-85'>Computer Game</a></td></tr>
-<tr><td><a href='#project-category-86'>86</a></td><td><a href='#project-category-86'>Generative Kunst</a></td><td><a href='#project-category-86'>Generative Art</a></td></tr>
-<tr><td><a href='#project-category-87'>87</a></td><td><a href='#project-category-87'>Interaktive Kunst</a></td><td><a href='#project-category-87'>Interactive Art</a></td></tr>
-<tr><td><a href='#project-category-88'>88</a></td><td><a href='#project-category-88'>Netzkunst</a></td><td><a href='#project-category-88'>Net Art</a></td></tr>
-<tr><td><a href='#project-category-89'>89</a></td><td><a href='#project-category-89'>Software</a></td><td><a href='#project-category-89'>Software</a></td></tr>
-<tr><td><a href='#project-category-90'>90</a></td><td><a href='#project-category-90'>User Interface</a></td><td><a href='#project-category-90'>User Interface</a></td></tr>
-<tr><td><a href='#project-category-91'>91</a></td><td><a href='#project-category-91'>Virtual Reality</a></td><td><a href='#project-category-91'>Virtual Reality</a></td></tr>
-<tr><td><a href='#project-category-92'>92</a></td><td><a href='#project-category-92'>Webserie</a></td><td><a href='#project-category-92'>Web Series</a></td></tr>
-<tr><td><a href='#project-category-93'>93</a></td><td><a href='#project-category-93'>Installation</a></td><td><a href='#project-category-93'>Installation</a></td></tr>
-<tr><td><a href='#project-category-94'>94</a></td><td><a href='#project-category-94'>Fotoinstallation</a></td><td><a href='#project-category-94'>Photo Installation</a></td></tr>
-<tr><td><a href='#project-category-95'>95</a></td><td><a href='#project-category-95'>Interaktive Kunst</a></td><td><a href='#project-category-95'>Interactive Art</a></td></tr>
-<tr><td><a href='#project-category-96'>96</a></td><td><a href='#project-category-96'>Intervention</a></td><td><a href='#project-category-96'>Intervention</a></td></tr>
-<tr><td><a href='#project-category-97'>97</a></td><td><a href='#project-category-97'>Klanginstallation</a></td><td><a href='#project-category-97'>Sound Installation</a></td></tr>
-<tr><td><a href='#project-category-98'>98</a></td><td><a href='#project-category-98'>Kunst am Bau</a></td><td><a href='#project-category-98'>Percent for Art</a></td></tr>
-<tr><td><a href='#project-category-99'>99</a></td><td><a href='#project-category-99'>Kunst im öffentlichen Raum</a></td><td><a href='#project-category-99'>Public Art</a></td></tr>
-<tr><td><a href='#project-category-100'>100</a></td><td><a href='#project-category-100'>Lichtinstallation</a></td><td><a href='#project-category-100'>Light Installation</a></td></tr>
-<tr><td><a href='#project-category-101'>101</a></td><td><a href='#project-category-101'>Videoinstallation</a></td><td><a href='#project-category-101'>Video Installation</a></td></tr>
-<tr><td><a href='#project-category-102'>102</a></td><td><a href='#project-category-102'>Klangkunst</a></td><td><a href='#project-category-102'>Sound Art</a></td></tr>
-<tr><td><a href='#project-category-103'>103</a></td><td><a href='#project-category-103'>Album</a></td><td><a href='#project-category-103'>Album</a></td></tr>
-<tr><td><a href='#project-category-104'>104</a></td><td><a href='#project-category-104'>Field Recording</a></td><td><a href='#project-category-104'>Field Recording</a></td></tr>
-<tr><td><a href='#project-category-105'>105</a></td><td><a href='#project-category-105'>Hörstück</a></td><td><a href='#project-category-105'>Listening Piece</a></td></tr>
-<tr><td><a href='#project-category-106'>106</a></td><td><a href='#project-category-106'>Klanginstallation</a></td><td><a href='#project-category-106'>Sound Installation</a></td></tr>
-<tr><td><a href='#project-category-107'>107</a></td><td><a href='#project-category-107'>Klangobjekt</a></td><td><a href='#project-category-107'>Sound Sculpture</a></td></tr>
-<tr><td><a href='#project-category-108'>108</a></td><td><a href='#project-category-108'>Komposition</a></td><td><a href='#project-category-108'>Composition</a></td></tr>
-<tr><td><a href='#project-category-109'>109</a></td><td><a href='#project-category-109'>Konzert</a></td><td><a href='#project-category-109'>Concert</a></td></tr>
-<tr><td><a href='#project-category-110'>110</a></td><td><a href='#project-category-110'>Soundtrack</a></td><td><a href='#project-category-110'>Soundtrack</a></td></tr>
-<tr><td><a href='#project-category-111'>111</a></td><td><a href='#project-category-111'>Künstler:innen-Publikation</a></td><td><a href='#project-category-111'>Artist's Publication</a></td></tr>
-<tr><td><a href='#project-category-112'>112</a></td><td><a href='#project-category-112'>Künstler:innen-Buch</a></td><td><a href='#project-category-112'>Artist's Book</a></td></tr>
-<tr><td><a href='#project-category-113'>113</a></td><td><a href='#project-category-113'>Künstler:innen-Text</a></td><td><a href='#project-category-113'>Artist's Statement</a></td></tr>
-<tr><td><a href='#project-category-114'>114</a></td><td><a href='#project-category-114'>Podcast</a></td><td><a href='#project-category-114'>Podcast</a></td></tr>
-<tr><td><a href='#project-category-115'>115</a></td><td><a href='#project-category-115'>Webseite</a></td><td><a href='#project-category-115'>Website</a></td></tr>
-<tr><td><a href='#project-category-116'>116</a></td><td><a href='#project-category-116'>Künstlerische Fotografie</a></td><td><a href='#project-category-116'>Fine Art Photography</a></td></tr>
-<tr><td><a href='#project-category-117'>117</a></td><td><a href='#project-category-117'>Computer Generated Imagery</a></td><td><a href='#project-category-117'>Computer-Generated Imagery</a></td></tr>
-<tr><td><a href='#project-category-118'>118</a></td><td><a href='#project-category-118'>Dokumentarfotografie</a></td><td><a href='#project-category-118'>Documentary Photography</a></td></tr>
-<tr><td><a href='#project-category-119'>119</a></td><td><a href='#project-category-119'>Fotobuch</a></td><td><a href='#project-category-119'>Photobook</a></td></tr>
-<tr><td><a href='#project-category-120'>120</a></td><td><a href='#project-category-120'>Fotogrammetrie</a></td><td><a href='#project-category-120'>Photogrammetry</a></td></tr>
-<tr><td><a href='#project-category-121'>121</a></td><td><a href='#project-category-121'>Fotoinstallation</a></td><td><a href='#project-category-121'>Photo Installation</a></td></tr>
-<tr><td><a href='#project-category-122'>122</a></td><td><a href='#project-category-122'>Inszenierte Fotografie</a></td><td><a href='#project-category-122'>Staged Photography</a></td></tr>
-<tr><td><a href='#project-category-123'>123</a></td><td><a href='#project-category-123'>Konzeptuelle Fotografie</a></td><td><a href='#project-category-123'>Conceptual Photography</a></td></tr>
-<tr><td><a href='#project-category-124'>124</a></td><td><a href='#project-category-124'>Lichtkunst</a></td><td><a href='#project-category-124'>Light Art</a></td></tr>
-<tr><td><a href='#project-category-125'>125</a></td><td><a href='#project-category-125'>Holografie</a></td><td><a href='#project-category-125'>Holography</a></td></tr>
-<tr><td><a href='#project-category-126'>126</a></td><td><a href='#project-category-126'>Lichtinstallation</a></td><td><a href='#project-category-126'>Light Installation</a></td></tr>
-<tr><td><a href='#project-category-127'>127</a></td><td><a href='#project-category-127'>Malerei</a></td><td><a href='#project-category-127'>Painting</a></td></tr>
-<tr><td><a href='#project-category-128'>128</a></td><td><a href='#project-category-128'>Performance</a></td><td><a href='#project-category-128'>Performance</a></td></tr>
-<tr><td><a href='#project-category-129'>129</a></td><td><a href='#project-category-129'>Aktion</a></td><td><a href='#project-category-129'>Action</a></td></tr>
-<tr><td><a href='#project-category-130'>130</a></td><td><a href='#project-category-130'>Durational Performance</a></td><td><a href='#project-category-130'>Durational Performance</a></td></tr>
-<tr><td><a href='#project-category-131'>131</a></td><td><a href='#project-category-131'>Happening</a></td><td><a href='#project-category-131'>Happening</a></td></tr>
-<tr><td><a href='#project-category-132'>132</a></td><td><a href='#project-category-132'>Intervention</a></td><td><a href='#project-category-132'>Intervention</a></td></tr>
-<tr><td><a href='#project-category-133'>133</a></td><td><a href='#project-category-133'>Performance-Vortrag</a></td><td><a href='#project-category-133'>Lecture Performance</a></td></tr>
-<tr><td><a href='#project-category-134'>134</a></td><td><a href='#project-category-134'>Tanz</a></td><td><a href='#project-category-134'>Dance</a></td></tr>
-<tr><td><a href='#project-category-135'>135</a></td><td><a href='#project-category-135'>Skulptur</a></td><td><a href='#project-category-135'>Sculpture</a></td></tr>
-<tr><td><a href='#project-category-136'>136</a></td><td><a href='#project-category-136'>Modell</a></td><td><a href='#project-category-136'>Model</a></td></tr>
-<tr><td><a href='#project-category-137'>137</a></td><td><a href='#project-category-137'>Ready-made</a></td><td><a href='#project-category-137'>Found Object</a></td></tr>
-<tr><td><a href='#project-category-138'>138</a></td><td><a href='#project-category-138'>Videokunst</a></td><td><a href='#project-category-138'>Video Art</a></td></tr>
-<tr><td><a href='#project-category-139'>139</a></td><td><a href='#project-category-139'>Expanded Cinema</a></td><td><a href='#project-category-139'>Expanded Cinema</a></td></tr>
-<tr><td><a href='#project-category-140'>140</a></td><td><a href='#project-category-140'>Projektionsmapping</a></td><td><a href='#project-category-140'>Projection Mapping</a></td></tr>
-<tr><td><a href='#project-category-141'>141</a></td><td><a href='#project-category-141'>Video-Essay</a></td><td><a href='#project-category-141'>Video Essay</a></td></tr>
-<tr><td><a href='#project-category-142'>142</a></td><td><a href='#project-category-142'>Videoinstallation</a></td><td><a href='#project-category-142'>Video Installation</a></td></tr>
-<tr><td><a href='#project-category-143'>143</a></td><td><a href='#project-category-143'>Videoperformance</a></td><td><a href='#project-category-143'>Video Performance</a></td></tr>
-<tr><td><a href='#project-category-144'>144</a></td><td><a href='#project-category-144'>Videoskulptur</a></td><td><a href='#project-category-144'>Video Sculpture</a></td></tr>
-<tr><td><a href='#project-category-145'>145</a></td><td><a href='#project-category-145'>Virtual Reality</a></td><td><a href='#project-category-145'>Virtual Reality</a></td></tr>
-<tr><td><a href='#project-category-146'>146</a></td><td><a href='#project-category-146'>Zeichnung</a></td><td><a href='#project-category-146'>Drawing</a></td></tr>
-<tr><td><a href='#project-category-147'>147</a></td><td><a href='#project-category-147'>Collage</a></td><td><a href='#project-category-147'>Collage</a></td></tr>
-<tr><td><a href='#project-category-148'>148</a></td><td><a href='#project-category-148'>Comic</a></td><td><a href='#project-category-148'>Comic</a></td></tr>
-<tr><td><a href='#project-category-149'>149</a></td><td><a href='#project-category-149'>Druckgrafik</a></td><td><a href='#project-category-149'>Printmaking</a></td></tr>
-<tr><td><a href='#project-category-150'>150</a></td><td><a href='#project-category-150'>Literatur</a></td><td><a href='#project-category-150'>Literature</a></td></tr>
-<tr><td><a href='#project-category-151'>151</a></td><td><a href='#project-category-151'>Drama</a></td><td><a href='#project-category-151'>Drama</a></td></tr>
-<tr><td><a href='#project-category-152'>152</a></td><td><a href='#project-category-152'>Einakter</a></td><td><a href='#project-category-152'>One-act Play</a></td></tr>
-<tr><td><a href='#project-category-153'>153</a></td><td><a href='#project-category-153'>Historiendrama</a></td><td><a href='#project-category-153'>Historical Play</a></td></tr>
-<tr><td><a href='#project-category-154'>154</a></td><td><a href='#project-category-154'>Komödie</a></td><td><a href='#project-category-154'>Comedy</a></td></tr>
-<tr><td><a href='#project-category-155'>155</a></td><td><a href='#project-category-155'>Libretto</a></td><td><a href='#project-category-155'>Libretto</a></td></tr>
-<tr><td><a href='#project-category-156'>156</a></td><td><a href='#project-category-156'>Monodrama</a></td><td><a href='#project-category-156'>Monodrama</a></td></tr>
-<tr><td><a href='#project-category-157'>157</a></td><td><a href='#project-category-157'>Moralität</a></td><td><a href='#project-category-157'>Morality Play</a></td></tr>
-<tr><td><a href='#project-category-158'>158</a></td><td><a href='#project-category-158'>Sittenstück</a></td><td><a href='#project-category-158'>Comedy of Manors</a></td></tr>
-<tr><td><a href='#project-category-159'>159</a></td><td><a href='#project-category-159'>Tragikomödie</a></td><td><a href='#project-category-159'>Comedy Drama</a></td></tr>
-<tr><td><a href='#project-category-160'>160</a></td><td><a href='#project-category-160'>Tragödie</a></td><td><a href='#project-category-160'>Tragedy</a></td></tr>
-<tr><td><a href='#project-category-161'>161</a></td><td><a href='#project-category-161'>Versdrama</a></td><td><a href='#project-category-161'>Verse Drama</a></td></tr>
-<tr><td><a href='#project-category-162'>162</a></td><td><a href='#project-category-162'>Drehbuch</a></td><td><a href='#project-category-162'>Screenplay</a></td></tr>
-<tr><td><a href='#project-category-163'>163</a></td><td><a href='#project-category-163'>Epik</a></td><td><a href='#project-category-163'>Epic Literature</a></td></tr>
-<tr><td><a href='#project-category-164'>164</a></td><td><a href='#project-category-164'>Erzählung</a></td><td><a href='#project-category-164'>Narrative Story</a></td></tr>
-<tr><td><a href='#project-category-165'>165</a></td><td><a href='#project-category-165'>Kurzgeschichte</a></td><td><a href='#project-category-165'>Short Story</a></td></tr>
-<tr><td><a href='#project-category-166'>166</a></td><td><a href='#project-category-166'>Märchen</a></td><td><a href='#project-category-166'>Fairy Tale</a></td></tr>
-<tr><td><a href='#project-category-167'>167</a></td><td><a href='#project-category-167'>Novelle</a></td><td><a href='#project-category-167'>Novella</a></td></tr>
-<tr><td><a href='#project-category-168'>168</a></td><td><a href='#project-category-168'>Parabel</a></td><td><a href='#project-category-168'>Parable</a></td></tr>
-<tr><td><a href='#project-category-169'>169</a></td><td><a href='#project-category-169'>Reportage</a></td><td><a href='#project-category-169'>Reportage</a></td></tr>
-<tr><td><a href='#project-category-170'>170</a></td><td><a href='#project-category-170'>Roman</a></td><td><a href='#project-category-170'>Novel</a></td></tr>
-<tr><td><a href='#project-category-171'>171</a></td><td><a href='#project-category-171'>Satire</a></td><td><a href='#project-category-171'>Satire</a></td></tr>
-<tr><td><a href='#project-category-172'>172</a></td><td><a href='#project-category-172'>Literaturlesung</a></td><td><a href='#project-category-172'>Literary Reading</a></td></tr>
-<tr><td><a href='#project-category-173'>173</a></td><td><a href='#project-category-173'>Lyrik</a></td><td><a href='#project-category-173'>Poetry</a></td></tr>
-<tr><td><a href='#project-category-174'>174</a></td><td><a href='#project-category-174'>Akrostichon</a></td><td><a href='#project-category-174'>Acrostic</a></td></tr>
-<tr><td><a href='#project-category-175'>175</a></td><td><a href='#project-category-175'>Ballade</a></td><td><a href='#project-category-175'>Ballad</a></td></tr>
-<tr><td><a href='#project-category-176'>176</a></td><td><a href='#project-category-176'>Elegie</a></td><td><a href='#project-category-176'>Elegy</a></td></tr>
-<tr><td><a href='#project-category-177'>177</a></td><td><a href='#project-category-177'>Epigramm</a></td><td><a href='#project-category-177'>Epigram</a></td></tr>
-<tr><td><a href='#project-category-178'>178</a></td><td><a href='#project-category-178'>Gedicht</a></td><td><a href='#project-category-178'>Poem</a></td></tr>
-<tr><td><a href='#project-category-179'>179</a></td><td><a href='#project-category-179'>Gedichtsammlung</a></td><td><a href='#project-category-179'>Poetry Collection</a></td></tr>
-<tr><td><a href='#project-category-180'>180</a></td><td><a href='#project-category-180'>Haiku</a></td><td><a href='#project-category-180'>Haiku</a></td></tr>
-<tr><td><a href='#project-category-181'>181</a></td><td><a href='#project-category-181'>Hymne</a></td><td><a href='#project-category-181'>Hymn</a></td></tr>
-<tr><td><a href='#project-category-182'>182</a></td><td><a href='#project-category-182'>Konkrete Poesie</a></td><td><a href='#project-category-182'>Concrete Poetry</a></td></tr>
-<tr><td><a href='#project-category-183'>183</a></td><td><a href='#project-category-183'>Lautgedicht</a></td><td><a href='#project-category-183'>Sound Poetry</a></td></tr>
-<tr><td><a href='#project-category-184'>184</a></td><td><a href='#project-category-184'>Limerick</a></td><td><a href='#project-category-184'>Limerick</a></td></tr>
-<tr><td><a href='#project-category-185'>185</a></td><td><a href='#project-category-185'>Songtext</a></td><td><a href='#project-category-185'>Song Lyrics</a></td></tr>
-<tr><td><a href='#project-category-186'>186</a></td><td><a href='#project-category-186'>Nachschlagewerk</a></td><td><a href='#project-category-186'>Reference Work</a></td></tr>
-<tr><td><a href='#project-category-187'>187</a></td><td><a href='#project-category-187'>Nichtfiktionale Literatur</a></td><td><a href='#project-category-187'>Non-fictional Literature</a></td></tr>
-<tr><td><a href='#project-category-188'>188</a></td><td><a href='#project-category-188'>Autobiografie</a></td><td><a href='#project-category-188'>Autobiography</a></td></tr>
-<tr><td><a href='#project-category-189'>189</a></td><td><a href='#project-category-189'>Biografie</a></td><td><a href='#project-category-189'>Biography</a></td></tr>
-<tr><td><a href='#project-category-190'>190</a></td><td><a href='#project-category-190'>Blog</a></td><td><a href='#project-category-190'>Blog</a></td></tr>
-<tr><td><a href='#project-category-191'>191</a></td><td><a href='#project-category-191'>Essay</a></td><td><a href='#project-category-191'>Essay</a></td></tr>
-<tr><td><a href='#project-category-192'>192</a></td><td><a href='#project-category-192'>Manifest</a></td><td><a href='#project-category-192'>Manifesto</a></td></tr>
-<tr><td><a href='#project-category-193'>193</a></td><td><a href='#project-category-193'>Memoir</a></td><td><a href='#project-category-193'>Memoir</a></td></tr>
-<tr><td><a href='#project-category-194'>194</a></td><td><a href='#project-category-194'>Ratgeber</a></td><td><a href='#project-category-194'>Self-help Book</a></td></tr>
-<tr><td><a href='#project-category-195'>195</a></td><td><a href='#project-category-195'>Sachbuch</a></td><td><a href='#project-category-195'>Non-fiction Book</a></td></tr>
-<tr><td><a href='#project-category-196'>196</a></td><td><a href='#project-category-196'>Tatsachenroman</a></td><td><a href='#project-category-196'>Non-fiction Novel</a></td></tr>
-<tr><td><a href='#project-category-197'>197</a></td><td><a href='#project-category-197'>Musik</a></td><td><a href='#project-category-197'>Music</a></td></tr>
-<tr><td><a href='#project-category-198'>198</a></td><td><a href='#project-category-198'>Außereuropäische Kunstmusik</a></td><td><a href='#project-category-198'>Non-european Art Music</a></td></tr>
-<tr><td><a href='#project-category-199'>199</a></td><td><a href='#project-category-199'>Bühnenmusik</a></td><td><a href='#project-category-199'>Stage Music</a></td></tr>
-<tr><td><a href='#project-category-200'>200</a></td><td><a href='#project-category-200'>Elektroakustische Musik</a></td><td><a href='#project-category-200'>Electroacoustic Music</a></td></tr>
-<tr><td><a href='#project-category-201'>201</a></td><td><a href='#project-category-201'>Elektronische Musik</a></td><td><a href='#project-category-201'>Electronic Music</a></td></tr>
-<tr><td><a href='#project-category-202'>202</a></td><td><a href='#project-category-202'>Ensemblemusik</a></td><td><a href='#project-category-202'>Ensemble Music</a></td></tr>
-<tr><td><a href='#project-category-203'>203</a></td><td><a href='#project-category-203'>Folklore</a></td><td><a href='#project-category-203'>Folklore</a></td></tr>
-<tr><td><a href='#project-category-204'>204</a></td><td><a href='#project-category-204'>Geistliche Musik</a></td><td><a href='#project-category-204'>Sacred Music</a></td></tr>
-<tr><td><a href='#project-category-205'>205</a></td><td><a href='#project-category-205'>Instrumentalmusik</a></td><td><a href='#project-category-205'>Instrumental Music</a></td></tr>
-<tr><td><a href='#project-category-206'>206</a></td><td><a href='#project-category-206'>Jazz</a></td><td><a href='#project-category-206'>Jazz</a></td></tr>
-<tr><td><a href='#project-category-207'>207</a></td><td><a href='#project-category-207'>Acid Jazz</a></td><td><a href='#project-category-207'>Acid Jazz</a></td></tr>
-<tr><td><a href='#project-category-208'>208</a></td><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td></tr>
-<tr><td><a href='#project-category-209'>209</a></td><td><a href='#project-category-209'>Avantgarde-Jazz</a></td><td><a href='#project-category-209'>Avantgarde Jazz</a></td></tr>
-<tr><td><a href='#project-category-210'>210</a></td><td><a href='#project-category-210'>Bebop</a></td><td><a href='#project-category-210'>Bebop</a></td></tr>
-<tr><td><a href='#project-category-211'>211</a></td><td><a href='#project-category-211'>Big Band</a></td><td><a href='#project-category-211'>Big Band Music</a></td></tr>
-<tr><td><a href='#project-category-212'>212</a></td><td><a href='#project-category-212'>Boogie-Woogie</a></td><td><a href='#project-category-212'>Boogie-Woogie</a></td></tr>
-<tr><td><a href='#project-category-213'>213</a></td><td><a href='#project-category-213'>Chicago Style</a></td><td><a href='#project-category-213'>Chicago Style</a></td></tr>
-<tr><td><a href='#project-category-214'>214</a></td><td><a href='#project-category-214'>Contemporary Jazz</a></td><td><a href='#project-category-214'>Contemporary Jazz</a></td></tr>
-<tr><td><a href='#project-category-215'>215</a></td><td><a href='#project-category-215'>Cool Jazz</a></td><td><a href='#project-category-215'>Cool Jazz</a></td></tr>
-<tr><td><a href='#project-category-216'>216</a></td><td><a href='#project-category-216'>Crossover Jazz</a></td><td><a href='#project-category-216'>Crossover Jazz</a></td></tr>
-<tr><td><a href='#project-category-217'>217</a></td><td><a href='#project-category-217'>Dixieland</a></td><td><a href='#project-category-217'>Dixieland</a></td></tr>
-<tr><td><a href='#project-category-218'>218</a></td><td><a href='#project-category-218'>East Coast Jazz</a></td><td><a href='#project-category-218'>East Coast Jazz</a></td></tr>
-<tr><td><a href='#project-category-219'>219</a></td><td><a href='#project-category-219'>Ethnojazz</a></td><td><a href='#project-category-219'>Ethno Jazz</a></td></tr>
-<tr><td><a href='#project-category-220'>220</a></td><td><a href='#project-category-220'>Free Jazz</a></td><td><a href='#project-category-220'>Free Jazz</a></td></tr>
-<tr><td><a href='#project-category-221'>221</a></td><td><a href='#project-category-221'>Hard Bop</a></td><td><a href='#project-category-221'>Hard Bop</a></td></tr>
-<tr><td><a href='#project-category-222'>222</a></td><td><a href='#project-category-222'>Jazz Fusion</a></td><td><a href='#project-category-222'>Jazz Fusion</a></td></tr>
-<tr><td><a href='#project-category-223'>223</a></td><td><a href='#project-category-223'>New Orleans Jazz</a></td><td><a href='#project-category-223'>New Orleans Jazz</a></td></tr>
-<tr><td><a href='#project-category-224'>224</a></td><td><a href='#project-category-224'>Progressive Jazz</a></td><td><a href='#project-category-224'>Progressive Jazz</a></td></tr>
-<tr><td><a href='#project-category-225'>225</a></td><td><a href='#project-category-225'>Ragtime</a></td><td><a href='#project-category-225'>Ragtime</a></td></tr>
-<tr><td><a href='#project-category-226'>226</a></td><td><a href='#project-category-226'>Smooth Jazz</a></td><td><a href='#project-category-226'>Smooth Jazz</a></td></tr>
-<tr><td><a href='#project-category-227'>227</a></td><td><a href='#project-category-227'>Swing</a></td><td><a href='#project-category-227'>Swing</a></td></tr>
-<tr><td><a href='#project-category-228'>228</a></td><td><a href='#project-category-228'>West Coast Jazz</a></td><td><a href='#project-category-228'>West Coast Jazz</a></td></tr>
-<tr><td><a href='#project-category-229'>229</a></td><td><a href='#project-category-229'>Klassische Musik</a></td><td><a href='#project-category-229'>Classical Music</a></td></tr>
-<tr><td><a href='#project-category-230'>230</a></td><td><a href='#project-category-230'>Militärmusik</a></td><td><a href='#project-category-230'>Military Music</a></td></tr>
-<tr><td><a href='#project-category-231'>231</a></td><td><a href='#project-category-231'>Neue Musik</a></td><td><a href='#project-category-231'>Neue Musik</a></td></tr>
-<tr><td><a href='#project-category-232'>232</a></td><td><a href='#project-category-232'>Orchestermusik</a></td><td><a href='#project-category-232'>Orchestral Music</a></td></tr>
-<tr><td><a href='#project-category-233'>233</a></td><td><a href='#project-category-233'>Popularmusik</a></td><td><a href='#project-category-233'>Popular Music</a></td></tr>
-<tr><td><a href='#project-category-234'>234</a></td><td><a href='#project-category-234'>American Folk</a></td><td><a href='#project-category-234'>American Folk</a></td></tr>
-<tr><td><a href='#project-category-235'>235</a></td><td><a href='#project-category-235'>Beat</a></td><td><a href='#project-category-235'>Beat</a></td></tr>
-<tr><td><a href='#project-category-236'>236</a></td><td><a href='#project-category-236'>Blues</a></td><td><a href='#project-category-236'>Blues</a></td></tr>
-<tr><td><a href='#project-category-237'>237</a></td><td><a href='#project-category-237'>Chanson</a></td><td><a href='#project-category-237'>Chanson</a></td></tr>
-<tr><td><a href='#project-category-238'>238</a></td><td><a href='#project-category-238'>Country</a></td><td><a href='#project-category-238'>Country</a></td></tr>
-<tr><td><a href='#project-category-239'>239</a></td><td><a href='#project-category-239'>Electronic Dance Music</a></td><td><a href='#project-category-239'>Electronic Dance Music</a></td></tr>
-<tr><td><a href='#project-category-240'>240</a></td><td><a href='#project-category-240'>Hip-Hop</a></td><td><a href='#project-category-240'>Hip-Hop</a></td></tr>
-<tr><td><a href='#project-category-241'>241</a></td><td><a href='#project-category-241'>Metal</a></td><td><a href='#project-category-241'>Metal</a></td></tr>
-<tr><td><a href='#project-category-242'>242</a></td><td><a href='#project-category-242'>New Wave</a></td><td><a href='#project-category-242'>New Wave</a></td></tr>
-<tr><td><a href='#project-category-243'>243</a></td><td><a href='#project-category-243'>Pop</a></td><td><a href='#project-category-243'>Pop</a></td></tr>
-<tr><td><a href='#project-category-244'>244</a></td><td><a href='#project-category-244'>Punk</a></td><td><a href='#project-category-244'>Punk</a></td></tr>
-<tr><td><a href='#project-category-245'>245</a></td><td><a href='#project-category-245'>Rythm and Blues</a></td><td><a href='#project-category-245'>Rythm and Blues</a></td></tr>
-<tr><td><a href='#project-category-246'>246</a></td><td><a href='#project-category-246'>Reggae</a></td><td><a href='#project-category-246'>Reggae</a></td></tr>
-<tr><td><a href='#project-category-247'>247</a></td><td><a href='#project-category-247'>Rock</a></td><td><a href='#project-category-247'>Rock</a></td></tr>
-<tr><td><a href='#project-category-248'>248</a></td><td><a href='#project-category-248'>Rock and Roll</a></td><td><a href='#project-category-248'>Rock and Roll</a></td></tr>
-<tr><td><a href='#project-category-249'>249</a></td><td><a href='#project-category-249'>Schlager</a></td><td><a href='#project-category-249'>Schlager</a></td></tr>
-<tr><td><a href='#project-category-250'>250</a></td><td><a href='#project-category-250'>Singer/Songwriter/Liedermacher</a></td><td><a href='#project-category-250'>Singer-Songwriter</a></td></tr>
-<tr><td><a href='#project-category-251'>251</a></td><td><a href='#project-category-251'>Ska</a></td><td><a href='#project-category-251'>Ska</a></td></tr>
-<tr><td><a href='#project-category-252'>252</a></td><td><a href='#project-category-252'>Solomusik</a></td><td><a href='#project-category-252'>Solo Music</a></td></tr>
-<tr><td><a href='#project-category-253'>253</a></td><td><a href='#project-category-253'>Soundtrack</a></td><td><a href='#project-category-253'>Soundtrack</a></td></tr>
-<tr><td><a href='#project-category-254'>254</a></td><td><a href='#project-category-254'>Filmmusik</a></td><td><a href='#project-category-254'>Film Music</a></td></tr>
-<tr><td><a href='#project-category-255'>255</a></td><td><a href='#project-category-255'>Videospielmusik</a></td><td><a href='#project-category-255'>Game Soundtrack</a></td></tr>
-<tr><td><a href='#project-category-256'>256</a></td><td><a href='#project-category-256'>Tanzmusik</a></td><td><a href='#project-category-256'>Dance Music</a></td></tr>
-<tr><td><a href='#project-category-257'>257</a></td><td><a href='#project-category-257'>Vokalmusik</a></td><td><a href='#project-category-257'>Vocal Music</a></td></tr>
-<tr><td><a href='#project-category-258'>258</a></td><td><a href='#project-category-258'>Weltliche Musik</a></td><td><a href='#project-category-258'>Secular Music</a></td></tr>
-<tr><td><a href='#project-category-259'>259</a></td><td><a href='#project-category-259'>Werbemusik</a></td><td><a href='#project-category-259'>Advertising Music</a></td></tr>
-<tr><td><a href='#project-category-260'>260</a></td><td><a href='#project-category-260'>Tanz</a></td><td><a href='#project-category-260'>Dance</a></td></tr>
-<tr><td><a href='#project-category-261'>261</a></td><td><a href='#project-category-261'>Bühnentanz</a></td><td><a href='#project-category-261'>Concert Dance</a></td></tr>
-<tr><td><a href='#project-category-262'>262</a></td><td><a href='#project-category-262'>Gruppentanz</a></td><td><a href='#project-category-262'>Group Dance</a></td></tr>
-<tr><td><a href='#project-category-263'>263</a></td><td><a href='#project-category-263'>Jazztanz</a></td><td><a href='#project-category-263'>Jazz Dance</a></td></tr>
-<tr><td><a href='#project-category-264'>264</a></td><td><a href='#project-category-264'>Lateinamerikanischer Tanz</a></td><td><a href='#project-category-264'>Latin American Dance</a></td></tr>
-<tr><td><a href='#project-category-265'>265</a></td><td><a href='#project-category-265'>Modetanz</a></td><td><a href='#project-category-265'>Poplular Dance</a></td></tr>
-<tr><td><a href='#project-category-266'>266</a></td><td><a href='#project-category-266'>Paartanz</a></td><td><a href='#project-category-266'>Partner Dance</a></td></tr>
-<tr><td><a href='#project-category-267'>267</a></td><td><a href='#project-category-267'>Reihentanz</a></td><td><a href='#project-category-267'>Line Dance</a></td></tr>
-<tr><td><a href='#project-category-268'>268</a></td><td><a href='#project-category-268'>Solotanz</a></td><td><a href='#project-category-268'>Solo Dance</a></td></tr>
-<tr><td><a href='#project-category-269'>269</a></td><td><a href='#project-category-269'>Standardtanz</a></td><td><a href='#project-category-269'>Ballroom Dance</a></td></tr>
-<tr><td><a href='#project-category-270'>270</a></td><td><a href='#project-category-270'>Streetdance</a></td><td><a href='#project-category-270'>Street Dance</a></td></tr>
-<tr><td><a href='#project-category-271'>271</a></td><td><a href='#project-category-271'>Tanztheater</a></td><td><a href='#project-category-271'>Dance Theatre</a></td></tr>
-<tr><td><a href='#project-category-272'>272</a></td><td><a href='#project-category-272'>Veranstaltung</a></td><td><a href='#project-category-272'>Event</a></td></tr>
-<tr><td><a href='#project-category-273'>273</a></td><td><a href='#project-category-273'>Interview</a></td><td><a href='#project-category-273'>Interview</a></td></tr>
-<tr><td><a href='#project-category-274'>274</a></td><td><a href='#project-category-274'>Podiumsdiskussion</a></td><td><a href='#project-category-274'>Panel Discussion</a></td></tr>
-<tr><td><a href='#project-category-275'>275</a></td><td><a href='#project-category-275'>Rede</a></td><td><a href='#project-category-275'>Speech</a></td></tr>
-<tr><td><a href='#project-category-276'>276</a></td><td><a href='#project-category-276'>Symposium</a></td><td><a href='#project-category-276'>Conference</a></td></tr>
-<tr><td><a href='#project-category-277'>277</a></td><td><a href='#project-category-277'>Vorlesung</a></td><td><a href='#project-category-277'>Lecture</a></td></tr>
-<tr><td><a href='#project-category-278'>278</a></td><td><a href='#project-category-278'>Vortrag</a></td><td><a href='#project-category-278'>Presentation</a></td></tr>
-<tr><td><a href='#project-category-279'>279</a></td><td><a href='#project-category-279'>Oper</a></td><td><a href='#project-category-279'>Opera</a></td></tr>
-<tr><td><a href='#project-category-280'>280</a></td><td><a href='#project-category-280'>Regie</a></td><td><a href='#project-category-280'>Direction</a></td></tr>
-<tr><td><a href='#project-category-281'>281</a></td><td><a href='#project-category-281'>Fixed Media</a></td><td><a href='#project-category-281'>Fixed Media</a></td></tr>
-<tr><td><a href='#project-category-282'>282</a></td><td><a href='#project-category-282'>Radiosendung</a></td><td><a href='#project-category-282'>Radio Programme</a></td></tr>
-<tr><td><a href='#project-category-283'>283</a></td><td><a href='#project-category-283'>Portrait</a></td><td><a href='#project-category-283'>Portrait</a></td></tr>
-<tr><td><a href='#project-category-284'>284</a></td><td><a href='#project-category-284'>Landschaftsmalerei</a></td><td><a href='#project-category-284'>Landscape Painting</a></td></tr>
-<tr><td><a href='#project-category-285'>285</a></td><td><a href='#project-category-285'>Stilleben</a></td><td><a href='#project-category-285'>Still Life</a></td></tr>
-<tr><td><a href='#project-category-286'>286</a></td><td><a href='#project-category-286'>Genremalerei</a></td><td><a href='#project-category-286'>Genre Painting</a></td></tr>
-<tr><td><a href='#project-category-287'>287</a></td><td><a href='#project-category-287'>Historienmalerei</a></td><td><a href='#project-category-287'>History Painting</a></td></tr>
-<tr><td><a href='#project-category-288'>288</a></td><td><a href='#project-category-288'>Abstrakte Malerei</a></td><td><a href='#project-category-288'>Abstract Painting</a></td></tr>
-<tr><td><a href='#project-category-289'>289</a></td><td><a href='#project-category-289'>Architekturmalerei</a></td><td><a href='#project-category-289'>Architectural Painting</a></td></tr>
-<tr><td><a href='#project-category-290'>290</a></td><td><a href='#project-category-290'>Interieurmalerei</a></td><td><a href='#project-category-290'>Interior Painting</a></td></tr>
-<tr><td><a href='#project-category-291'>291</a></td><td><a href='#project-category-291'>Aktmalerei</a></td><td><a href='#project-category-291'>Nude Painting</a></td></tr>
-</table>
-</details>
-
-<details><summary>Project Categories ordered by German Name | Projektkategorien nach Deutschem Namen geordnet</summary>
-<table>
-<tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='#project-category-288'>Abstrakte Malerei</a></td><td><a href='#project-category-288'>Abstract Painting</a></td><td><a href='#project-category-288'>288</a></td></tr>
-<tr><td><a href='#project-category-33'>Absurdes Theater</a></td><td><a href='#project-category-33'>Theatre of the Absurd</a></td><td><a href='#project-category-33'>33</a></td></tr>
-<tr><td><a href='#project-category-207'>Acid Jazz</a></td><td><a href='#project-category-207'>Acid Jazz</a></td><td><a href='#project-category-207'>207</a></td></tr>
-<tr><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>208</a></td></tr>
-<tr><td><a href='#project-category-1'>Akademische Publikation</a></td><td><a href='#project-category-1'>Academic Publication</a></td><td><a href='#project-category-1'>1</a></td></tr>
-<tr><td><a href='#project-category-174'>Akrostichon</a></td><td><a href='#project-category-174'>Acrostic</a></td><td><a href='#project-category-174'>174</a></td></tr>
-<tr><td><a href='#project-category-129'>Aktion</a></td><td><a href='#project-category-129'>Action</a></td><td><a href='#project-category-129'>129</a></td></tr>
-<tr><td><a href='#project-category-291'>Aktmalerei</a></td><td><a href='#project-category-291'>Nude Painting</a></td><td><a href='#project-category-291'>291</a></td></tr>
-<tr><td><a href='#project-category-103'>Album</a></td><td><a href='#project-category-103'>Album</a></td><td><a href='#project-category-103'>103</a></td></tr>
-<tr><td><a href='#project-category-34'>Alternatives Theater</a></td><td><a href='#project-category-34'>Alternative Theater</a></td><td><a href='#project-category-34'>34</a></td></tr>
-<tr><td><a href='#project-category-234'>American Folk</a></td><td><a href='#project-category-234'>American Folk</a></td><td><a href='#project-category-234'>234</a></td></tr>
-<tr><td><a href='#project-category-5'>Angewandte Kunst</a></td><td><a href='#project-category-5'>Applied Arts</a></td><td><a href='#project-category-5'>5</a></td></tr>
-<tr><td><a href='#project-category-35'>Angewandtes Theater</a></td><td><a href='#project-category-35'>Applied Theatre</a></td><td><a href='#project-category-35'>35</a></td></tr>
-<tr><td><a href='#project-category-56'>Animationsfilm</a></td><td><a href='#project-category-56'>Animated Film</a></td><td><a href='#project-category-56'>56</a></td></tr>
-<tr><td><a href='#project-category-6'>Architektur</a></td><td><a href='#project-category-6'>Architecture</a></td><td><a href='#project-category-6'>6</a></td></tr>
-<tr><td><a href='#project-category-19'>Architekturfotografie</a></td><td><a href='#project-category-19'>Architectural Photography</a></td><td><a href='#project-category-19'>19</a></td></tr>
-<tr><td><a href='#project-category-289'>Architekturmalerei</a></td><td><a href='#project-category-289'>Architectural Painting</a></td><td><a href='#project-category-289'>289</a></td></tr>
-<tr><td><a href='#project-category-81'>Augmented Reality</a></td><td><a href='#project-category-81'>Augmented Reality</a></td><td><a href='#project-category-81'>81</a></td></tr>
-<tr><td><a href='#project-category-188'>Autobiografie</a></td><td><a href='#project-category-188'>Autobiography</a></td><td><a href='#project-category-188'>188</a></td></tr>
-<tr><td><a href='#project-category-198'>Außereuropäische Kunstmusik</a></td><td><a href='#project-category-198'>Non-european Art Music</a></td><td><a href='#project-category-198'>198</a></td></tr>
-<tr><td><a href='#project-category-209'>Avantgarde-Jazz</a></td><td><a href='#project-category-209'>Avantgarde Jazz</a></td><td><a href='#project-category-209'>209</a></td></tr>
-<tr><td><a href='#project-category-175'>Ballade</a></td><td><a href='#project-category-175'>Ballad</a></td><td><a href='#project-category-175'>175</a></td></tr>
-<tr><td><a href='#project-category-235'>Beat</a></td><td><a href='#project-category-235'>Beat</a></td><td><a href='#project-category-235'>235</a></td></tr>
-<tr><td><a href='#project-category-210'>Bebop</a></td><td><a href='#project-category-210'>Bebop</a></td><td><a href='#project-category-210'>210</a></td></tr>
-<tr><td><a href='#project-category-211'>Big Band</a></td><td><a href='#project-category-211'>Big Band Music</a></td><td><a href='#project-category-211'>211</a></td></tr>
-<tr><td><a href='#project-category-79'>Bio Art</a></td><td><a href='#project-category-79'>Bio Art</a></td><td><a href='#project-category-79'>79</a></td></tr>
-<tr><td><a href='#project-category-189'>Biografie</a></td><td><a href='#project-category-189'>Biography</a></td><td><a href='#project-category-189'>189</a></td></tr>
-<tr><td><a href='#project-category-190'>Blog</a></td><td><a href='#project-category-190'>Blog</a></td><td><a href='#project-category-190'>190</a></td></tr>
-<tr><td><a href='#project-category-236'>Blues</a></td><td><a href='#project-category-236'>Blues</a></td><td><a href='#project-category-236'>236</a></td></tr>
-<tr><td><a href='#project-category-212'>Boogie-Woogie</a></td><td><a href='#project-category-212'>Boogie-Woogie</a></td><td><a href='#project-category-212'>212</a></td></tr>
-<tr><td><a href='#project-category-199'>Bühnenmusik</a></td><td><a href='#project-category-199'>Stage Music</a></td><td><a href='#project-category-199'>199</a></td></tr>
-<tr><td><a href='#project-category-261'>Bühnentanz</a></td><td><a href='#project-category-261'>Concert Dance</a></td><td><a href='#project-category-261'>261</a></td></tr>
-<tr><td><a href='#project-category-82'>CD-ROM</a></td><td><a href='#project-category-82'>CD-ROM</a></td><td><a href='#project-category-82'>82</a></td></tr>
-<tr><td><a href='#project-category-237'>Chanson</a></td><td><a href='#project-category-237'>Chanson</a></td><td><a href='#project-category-237'>237</a></td></tr>
-<tr><td><a href='#project-category-213'>Chicago Style</a></td><td><a href='#project-category-213'>Chicago Style</a></td><td><a href='#project-category-213'>213</a></td></tr>
-<tr><td><a href='#project-category-147'>Collage</a></td><td><a href='#project-category-147'>Collage</a></td><td><a href='#project-category-147'>147</a></td></tr>
-<tr><td><a href='#project-category-148'>Comic</a></td><td><a href='#project-category-148'>Comic</a></td><td><a href='#project-category-148'>148</a></td></tr>
-<tr><td><a href='#project-category-83'>Computer Generated Imagery</a></td><td><a href='#project-category-83'>Computer Generated Imagery</a></td><td><a href='#project-category-83'>83</a></td></tr>
-<tr><td><a href='#project-category-117'>Computer Generated Imagery</a></td><td><a href='#project-category-117'>Computer-Generated Imagery</a></td><td><a href='#project-category-117'>117</a></td></tr>
-<tr><td><a href='#project-category-84'>Computeranimation</a></td><td><a href='#project-category-84'>Computer Animation</a></td><td><a href='#project-category-84'>84</a></td></tr>
-<tr><td><a href='#project-category-85'>Computerspiel</a></td><td><a href='#project-category-85'>Computer Game</a></td><td><a href='#project-category-85'>85</a></td></tr>
-<tr><td><a href='#project-category-214'>Contemporary Jazz</a></td><td><a href='#project-category-214'>Contemporary Jazz</a></td><td><a href='#project-category-214'>214</a></td></tr>
-<tr><td><a href='#project-category-215'>Cool Jazz</a></td><td><a href='#project-category-215'>Cool Jazz</a></td><td><a href='#project-category-215'>215</a></td></tr>
-<tr><td><a href='#project-category-238'>Country</a></td><td><a href='#project-category-238'>Country</a></td><td><a href='#project-category-238'>238</a></td></tr>
-<tr><td><a href='#project-category-216'>Crossover Jazz</a></td><td><a href='#project-category-216'>Crossover Jazz</a></td><td><a href='#project-category-216'>216</a></td></tr>
-<tr><td><a href='#project-category-31'>Darstellende Kunst</a></td><td><a href='#project-category-31'>Performing Arts</a></td><td><a href='#project-category-31'>31</a></td></tr>
-<tr><td><a href='#project-category-7'>Design</a></td><td><a href='#project-category-7'>Design</a></td><td><a href='#project-category-7'>7</a></td></tr>
-<tr><td><a href='#project-category-38'>Digital Theatre</a></td><td><a href='#project-category-38'>Digital Theatre</a></td><td><a href='#project-category-38'>38</a></td></tr>
-<tr><td><a href='#project-category-80'>Digitale Kunst</a></td><td><a href='#project-category-80'>Digital Art</a></td><td><a href='#project-category-80'>80</a></td></tr>
-<tr><td><a href='#project-category-2'>Dissertation</a></td><td><a href='#project-category-2'>Doctoral Thesis</a></td><td><a href='#project-category-2'>2</a></td></tr>
-<tr><td><a href='#project-category-217'>Dixieland</a></td><td><a href='#project-category-217'>Dixieland</a></td><td><a href='#project-category-217'>217</a></td></tr>
-<tr><td><a href='#project-category-57'>Dokudrama</a></td><td><a href='#project-category-57'>Docudrama</a></td><td><a href='#project-category-57'>57</a></td></tr>
-<tr><td><a href='#project-category-58'>Dokumentarfilm</a></td><td><a href='#project-category-58'>Documentary Film</a></td><td><a href='#project-category-58'>58</a></td></tr>
-<tr><td><a href='#project-category-118'>Dokumentarfotografie</a></td><td><a href='#project-category-118'>Documentary Photography</a></td><td><a href='#project-category-118'>118</a></td></tr>
-<tr><td><a href='#project-category-20'>Dokumentarfotografie</a></td><td><a href='#project-category-20'>Documentary Photography</a></td><td><a href='#project-category-20'>20</a></td></tr>
-<tr><td><a href='#project-category-39'>Dokumentarisches Theater</a></td><td><a href='#project-category-39'>Documentary Theatre</a></td><td><a href='#project-category-39'>39</a></td></tr>
-<tr><td><a href='#project-category-151'>Drama</a></td><td><a href='#project-category-151'>Drama</a></td><td><a href='#project-category-151'>151</a></td></tr>
-<tr><td><a href='#project-category-60'>Drehbuch</a></td><td><a href='#project-category-60'>Screenplay</a></td><td><a href='#project-category-60'>60</a></td></tr>
-<tr><td><a href='#project-category-162'>Drehbuch</a></td><td><a href='#project-category-162'>Screenplay</a></td><td><a href='#project-category-162'>162</a></td></tr>
-<tr><td><a href='#project-category-149'>Druckgrafik</a></td><td><a href='#project-category-149'>Printmaking</a></td><td><a href='#project-category-149'>149</a></td></tr>
-<tr><td><a href='#project-category-130'>Durational Performance</a></td><td><a href='#project-category-130'>Durational Performance</a></td><td><a href='#project-category-130'>130</a></td></tr>
-<tr><td><a href='#project-category-218'>East Coast Jazz</a></td><td><a href='#project-category-218'>East Coast Jazz</a></td><td><a href='#project-category-218'>218</a></td></tr>
-<tr><td><a href='#project-category-152'>Einakter</a></td><td><a href='#project-category-152'>One-act Play</a></td><td><a href='#project-category-152'>152</a></td></tr>
-<tr><td><a href='#project-category-239'>Electronic Dance Music</a></td><td><a href='#project-category-239'>Electronic Dance Music</a></td><td><a href='#project-category-239'>239</a></td></tr>
-<tr><td><a href='#project-category-176'>Elegie</a></td><td><a href='#project-category-176'>Elegy</a></td><td><a href='#project-category-176'>176</a></td></tr>
-<tr><td><a href='#project-category-200'>Elektroakustische Musik</a></td><td><a href='#project-category-200'>Electroacoustic Music</a></td><td><a href='#project-category-200'>200</a></td></tr>
-<tr><td><a href='#project-category-201'>Elektronische Musik</a></td><td><a href='#project-category-201'>Electronic Music</a></td><td><a href='#project-category-201'>201</a></td></tr>
-<tr><td><a href='#project-category-202'>Ensemblemusik</a></td><td><a href='#project-category-202'>Ensemble Music</a></td><td><a href='#project-category-202'>202</a></td></tr>
-<tr><td><a href='#project-category-177'>Epigramm</a></td><td><a href='#project-category-177'>Epigram</a></td><td><a href='#project-category-177'>177</a></td></tr>
-<tr><td><a href='#project-category-163'>Epik</a></td><td><a href='#project-category-163'>Epic Literature</a></td><td><a href='#project-category-163'>163</a></td></tr>
-<tr><td><a href='#project-category-36'>Episches Theater</a></td><td><a href='#project-category-36'>Epic Theatre</a></td><td><a href='#project-category-36'>36</a></td></tr>
-<tr><td><a href='#project-category-61'>Episode</a></td><td><a href='#project-category-61'>Episode</a></td><td><a href='#project-category-61'>61</a></td></tr>
-<tr><td><a href='#project-category-62'>Episodenfilm</a></td><td><a href='#project-category-62'>Anthology Film</a></td><td><a href='#project-category-62'>62</a></td></tr>
-<tr><td><a href='#project-category-164'>Erzählung</a></td><td><a href='#project-category-164'>Narrative Story</a></td><td><a href='#project-category-164'>164</a></td></tr>
-<tr><td><a href='#project-category-191'>Essay</a></td><td><a href='#project-category-191'>Essay</a></td><td><a href='#project-category-191'>191</a></td></tr>
-<tr><td><a href='#project-category-63'>Essay-Film</a></td><td><a href='#project-category-63'>Essay Film</a></td><td><a href='#project-category-63'>63</a></td></tr>
-<tr><td><a href='#project-category-219'>Ethnojazz</a></td><td><a href='#project-category-219'>Ethno Jazz</a></td><td><a href='#project-category-219'>219</a></td></tr>
-<tr><td><a href='#project-category-64'>Expanded Cinema</a></td><td><a href='#project-category-64'>Expanded Cinema</a></td><td><a href='#project-category-64'>64</a></td></tr>
-<tr><td><a href='#project-category-139'>Expanded Cinema</a></td><td><a href='#project-category-139'>Expanded Cinema</a></td><td><a href='#project-category-139'>139</a></td></tr>
-<tr><td><a href='#project-category-65'>Experimentalfilm</a></td><td><a href='#project-category-65'>Experimental Film</a></td><td><a href='#project-category-65'>65</a></td></tr>
-<tr><td><a href='#project-category-37'>Experimentelles Theater</a></td><td><a href='#project-category-37'>Experimental Theatre</a></td><td><a href='#project-category-37'>37</a></td></tr>
-<tr><td><a href='#project-category-104'>Field Recording</a></td><td><a href='#project-category-104'>Field Recording</a></td><td><a href='#project-category-104'>104</a></td></tr>
-<tr><td><a href='#project-category-40'>Figurentheater</a></td><td><a href='#project-category-40'>Puppetry Arts</a></td><td><a href='#project-category-40'>40</a></td></tr>
-<tr><td><a href='#project-category-55'>Film/TV</a></td><td><a href='#project-category-55'>Film/TV</a></td><td><a href='#project-category-55'>55</a></td></tr>
-<tr><td><a href='#project-category-254'>Filmmusik</a></td><td><a href='#project-category-254'>Film Music</a></td><td><a href='#project-category-254'>254</a></td></tr>
-<tr><td><a href='#project-category-281'>Fixed Media</a></td><td><a href='#project-category-281'>Fixed Media</a></td><td><a href='#project-category-281'>281</a></td></tr>
-<tr><td><a href='#project-category-203'>Folklore</a></td><td><a href='#project-category-203'>Folklore</a></td><td><a href='#project-category-203'>203</a></td></tr>
-<tr><td><a href='#project-category-119'>Fotobuch</a></td><td><a href='#project-category-119'>Photobook</a></td><td><a href='#project-category-119'>119</a></td></tr>
-<tr><td><a href='#project-category-18'>Fotografie</a></td><td><a href='#project-category-18'>Photography</a></td><td><a href='#project-category-18'>18</a></td></tr>
-<tr><td><a href='#project-category-120'>Fotogrammetrie</a></td><td><a href='#project-category-120'>Photogrammetry</a></td><td><a href='#project-category-120'>120</a></td></tr>
-<tr><td><a href='#project-category-21'>Fotogrammetrie</a></td><td><a href='#project-category-21'>Photogrammetry</a></td><td><a href='#project-category-21'>21</a></td></tr>
-<tr><td><a href='#project-category-94'>Fotoinstallation</a></td><td><a href='#project-category-94'>Photo Installation</a></td><td><a href='#project-category-94'>94</a></td></tr>
-<tr><td><a href='#project-category-121'>Fotoinstallation</a></td><td><a href='#project-category-121'>Photo Installation</a></td><td><a href='#project-category-121'>121</a></td></tr>
-<tr><td><a href='#project-category-22'>Fotojournalismus</a></td><td><a href='#project-category-22'>Photojournalism</a></td><td><a href='#project-category-22'>22</a></td></tr>
-<tr><td><a href='#project-category-220'>Free Jazz</a></td><td><a href='#project-category-220'>Free Jazz</a></td><td><a href='#project-category-220'>220</a></td></tr>
-<tr><td><a href='#project-category-41'>Freilichttheater</a></td><td><a href='#project-category-41'>Open-Air Theatre</a></td><td><a href='#project-category-41'>41</a></td></tr>
-<tr><td><a href='#project-category-8'>Game Design</a></td><td><a href='#project-category-8'>Game Design</a></td><td><a href='#project-category-8'>8</a></td></tr>
-<tr><td><a href='#project-category-178'>Gedicht</a></td><td><a href='#project-category-178'>Poem</a></td><td><a href='#project-category-178'>178</a></td></tr>
-<tr><td><a href='#project-category-179'>Gedichtsammlung</a></td><td><a href='#project-category-179'>Poetry Collection</a></td><td><a href='#project-category-179'>179</a></td></tr>
-<tr><td><a href='#project-category-204'>Geistliche Musik</a></td><td><a href='#project-category-204'>Sacred Music</a></td><td><a href='#project-category-204'>204</a></td></tr>
-<tr><td><a href='#project-category-86'>Generative Kunst</a></td><td><a href='#project-category-86'>Generative Art</a></td><td><a href='#project-category-86'>86</a></td></tr>
-<tr><td><a href='#project-category-286'>Genremalerei</a></td><td><a href='#project-category-286'>Genre Painting</a></td><td><a href='#project-category-286'>286</a></td></tr>
-<tr><td><a href='#project-category-262'>Gruppentanz</a></td><td><a href='#project-category-262'>Group Dance</a></td><td><a href='#project-category-262'>262</a></td></tr>
-<tr><td><a href='#project-category-180'>Haiku</a></td><td><a href='#project-category-180'>Haiku</a></td><td><a href='#project-category-180'>180</a></td></tr>
-<tr><td><a href='#project-category-131'>Happening</a></td><td><a href='#project-category-131'>Happening</a></td><td><a href='#project-category-131'>131</a></td></tr>
-<tr><td><a href='#project-category-221'>Hard Bop</a></td><td><a href='#project-category-221'>Hard Bop</a></td><td><a href='#project-category-221'>221</a></td></tr>
-<tr><td><a href='#project-category-240'>Hip-Hop</a></td><td><a href='#project-category-240'>Hip-Hop</a></td><td><a href='#project-category-240'>240</a></td></tr>
-<tr><td><a href='#project-category-153'>Historiendrama</a></td><td><a href='#project-category-153'>Historical Play</a></td><td><a href='#project-category-153'>153</a></td></tr>
-<tr><td><a href='#project-category-287'>Historienmalerei</a></td><td><a href='#project-category-287'>History Painting</a></td><td><a href='#project-category-287'>287</a></td></tr>
-<tr><td><a href='#project-category-125'>Holografie</a></td><td><a href='#project-category-125'>Holography</a></td><td><a href='#project-category-125'>125</a></td></tr>
-<tr><td><a href='#project-category-181'>Hymne</a></td><td><a href='#project-category-181'>Hymn</a></td><td><a href='#project-category-181'>181</a></td></tr>
-<tr><td><a href='#project-category-105'>Hörstück</a></td><td><a href='#project-category-105'>Listening Piece</a></td><td><a href='#project-category-105'>105</a></td></tr>
-<tr><td><a href='#project-category-42'>Improvisationstheater</a></td><td><a href='#project-category-42'>Improvisational Theatre</a></td><td><a href='#project-category-42'>42</a></td></tr>
-<tr><td><a href='#project-category-9'>Industrial Design</a></td><td><a href='#project-category-9'>Industrial Design</a></td><td><a href='#project-category-9'>9</a></td></tr>
-<tr><td><a href='#project-category-10'>Innenarchitektur</a></td><td><a href='#project-category-10'>Interior Design</a></td><td><a href='#project-category-10'>10</a></td></tr>
-<tr><td><a href='#project-category-93'>Installation</a></td><td><a href='#project-category-93'>Installation</a></td><td><a href='#project-category-93'>93</a></td></tr>
-<tr><td><a href='#project-category-205'>Instrumentalmusik</a></td><td><a href='#project-category-205'>Instrumental Music</a></td><td><a href='#project-category-205'>205</a></td></tr>
-<tr><td><a href='#project-category-23'>Inszenierte Fotografie</a></td><td><a href='#project-category-23'>Staged Photography</a></td><td><a href='#project-category-23'>23</a></td></tr>
-<tr><td><a href='#project-category-122'>Inszenierte Fotografie</a></td><td><a href='#project-category-122'>Staged Photography</a></td><td><a href='#project-category-122'>122</a></td></tr>
-<tr><td><a href='#project-category-95'>Interaktive Kunst</a></td><td><a href='#project-category-95'>Interactive Art</a></td><td><a href='#project-category-95'>95</a></td></tr>
-<tr><td><a href='#project-category-87'>Interaktive Kunst</a></td><td><a href='#project-category-87'>Interactive Art</a></td><td><a href='#project-category-87'>87</a></td></tr>
-<tr><td><a href='#project-category-43'>Interaktives Theater</a></td><td><a href='#project-category-43'>Interactive Theatre</a></td><td><a href='#project-category-43'>43</a></td></tr>
-<tr><td><a href='#project-category-290'>Interieurmalerei</a></td><td><a href='#project-category-290'>Interior Painting</a></td><td><a href='#project-category-290'>290</a></td></tr>
-<tr><td><a href='#project-category-96'>Intervention</a></td><td><a href='#project-category-96'>Intervention</a></td><td><a href='#project-category-96'>96</a></td></tr>
-<tr><td><a href='#project-category-132'>Intervention</a></td><td><a href='#project-category-132'>Intervention</a></td><td><a href='#project-category-132'>132</a></td></tr>
-<tr><td><a href='#project-category-273'>Interview</a></td><td><a href='#project-category-273'>Interview</a></td><td><a href='#project-category-273'>273</a></td></tr>
-<tr><td><a href='#project-category-206'>Jazz</a></td><td><a href='#project-category-206'>Jazz</a></td><td><a href='#project-category-206'>206</a></td></tr>
-<tr><td><a href='#project-category-222'>Jazz Fusion</a></td><td><a href='#project-category-222'>Jazz Fusion</a></td><td><a href='#project-category-222'>222</a></td></tr>
-<tr><td><a href='#project-category-263'>Jazztanz</a></td><td><a href='#project-category-263'>Jazz Dance</a></td><td><a href='#project-category-263'>263</a></td></tr>
-<tr><td><a href='#project-category-44'>Jugendtheater</a></td><td><a href='#project-category-44'>Youth Theatre</a></td><td><a href='#project-category-44'>44</a></td></tr>
-<tr><td><a href='#project-category-30'>Keramik</a></td><td><a href='#project-category-30'>Ceramic</a></td><td><a href='#project-category-30'>30</a></td></tr>
-<tr><td><a href='#project-category-45'>Kindertheater</a></td><td><a href='#project-category-45'>Children's Theatre</a></td><td><a href='#project-category-45'>45</a></td></tr>
-<tr><td><a href='#project-category-97'>Klanginstallation</a></td><td><a href='#project-category-97'>Sound Installation</a></td><td><a href='#project-category-97'>97</a></td></tr>
-<tr><td><a href='#project-category-106'>Klanginstallation</a></td><td><a href='#project-category-106'>Sound Installation</a></td><td><a href='#project-category-106'>106</a></td></tr>
-<tr><td><a href='#project-category-102'>Klangkunst</a></td><td><a href='#project-category-102'>Sound Art</a></td><td><a href='#project-category-102'>102</a></td></tr>
-<tr><td><a href='#project-category-107'>Klangobjekt</a></td><td><a href='#project-category-107'>Sound Sculpture</a></td><td><a href='#project-category-107'>107</a></td></tr>
-<tr><td><a href='#project-category-229'>Klassische Musik</a></td><td><a href='#project-category-229'>Classical Music</a></td><td><a href='#project-category-229'>229</a></td></tr>
-<tr><td><a href='#project-category-11'>Kommunikationsdesign</a></td><td><a href='#project-category-11'>Graphic Design</a></td><td><a href='#project-category-11'>11</a></td></tr>
-<tr><td><a href='#project-category-66'>Kompilationsfilm</a></td><td><a href='#project-category-66'>Compilation Film</a></td><td><a href='#project-category-66'>66</a></td></tr>
-<tr><td><a href='#project-category-108'>Komposition</a></td><td><a href='#project-category-108'>Composition</a></td><td><a href='#project-category-108'>108</a></td></tr>
-<tr><td><a href='#project-category-154'>Komödie</a></td><td><a href='#project-category-154'>Comedy</a></td><td><a href='#project-category-154'>154</a></td></tr>
-<tr><td><a href='#project-category-182'>Konkrete Poesie</a></td><td><a href='#project-category-182'>Concrete Poetry</a></td><td><a href='#project-category-182'>182</a></td></tr>
-<tr><td><a href='#project-category-123'>Konzeptuelle Fotografie</a></td><td><a href='#project-category-123'>Conceptual Photography</a></td><td><a href='#project-category-123'>123</a></td></tr>
-<tr><td><a href='#project-category-109'>Konzert</a></td><td><a href='#project-category-109'>Concert</a></td><td><a href='#project-category-109'>109</a></td></tr>
-<tr><td><a href='#project-category-78'>Kunst</a></td><td><a href='#project-category-78'>Art</a></td><td><a href='#project-category-78'>78</a></td></tr>
-<tr><td><a href='#project-category-98'>Kunst am Bau</a></td><td><a href='#project-category-98'>Percent for Art</a></td><td><a href='#project-category-98'>98</a></td></tr>
-<tr><td><a href='#project-category-99'>Kunst im öffentlichen Raum</a></td><td><a href='#project-category-99'>Public Art</a></td><td><a href='#project-category-99'>99</a></td></tr>
-<tr><td><a href='#project-category-59'>Kurz-Dokumentarfilm</a></td><td><a href='#project-category-59'>Short Documentary Film</a></td><td><a href='#project-category-59'>59</a></td></tr>
-<tr><td><a href='#project-category-165'>Kurzgeschichte</a></td><td><a href='#project-category-165'>Short Story</a></td><td><a href='#project-category-165'>165</a></td></tr>
-<tr><td><a href='#project-category-73'>Kurzspielfilm</a></td><td><a href='#project-category-73'>Short Film</a></td><td><a href='#project-category-73'>73</a></td></tr>
-<tr><td><a href='#project-category-112'>Künstler:innen-Buch</a></td><td><a href='#project-category-112'>Artist's Book</a></td><td><a href='#project-category-112'>112</a></td></tr>
-<tr><td><a href='#project-category-111'>Künstler:innen-Publikation</a></td><td><a href='#project-category-111'>Artist's Publication</a></td><td><a href='#project-category-111'>111</a></td></tr>
-<tr><td><a href='#project-category-113'>Künstler:innen-Text</a></td><td><a href='#project-category-113'>Artist's Statement</a></td><td><a href='#project-category-113'>113</a></td></tr>
-<tr><td><a href='#project-category-116'>Künstlerische Fotografie</a></td><td><a href='#project-category-116'>Fine Art Photography</a></td><td><a href='#project-category-116'>116</a></td></tr>
-<tr><td><a href='#project-category-24'>Landschaftsfotografie</a></td><td><a href='#project-category-24'>Landscape Photography</a></td><td><a href='#project-category-24'>24</a></td></tr>
-<tr><td><a href='#project-category-284'>Landschaftsmalerei</a></td><td><a href='#project-category-284'>Landscape Painting</a></td><td><a href='#project-category-284'>284</a></td></tr>
-<tr><td><a href='#project-category-264'>Lateinamerikanischer Tanz</a></td><td><a href='#project-category-264'>Latin American Dance</a></td><td><a href='#project-category-264'>264</a></td></tr>
-<tr><td><a href='#project-category-183'>Lautgedicht</a></td><td><a href='#project-category-183'>Sound Poetry</a></td><td><a href='#project-category-183'>183</a></td></tr>
-<tr><td><a href='#project-category-155'>Libretto</a></td><td><a href='#project-category-155'>Libretto</a></td><td><a href='#project-category-155'>155</a></td></tr>
-<tr><td><a href='#project-category-100'>Lichtinstallation</a></td><td><a href='#project-category-100'>Light Installation</a></td><td><a href='#project-category-100'>100</a></td></tr>
-<tr><td><a href='#project-category-126'>Lichtinstallation</a></td><td><a href='#project-category-126'>Light Installation</a></td><td><a href='#project-category-126'>126</a></td></tr>
-<tr><td><a href='#project-category-124'>Lichtkunst</a></td><td><a href='#project-category-124'>Light Art</a></td><td><a href='#project-category-124'>124</a></td></tr>
-<tr><td><a href='#project-category-184'>Limerick</a></td><td><a href='#project-category-184'>Limerick</a></td><td><a href='#project-category-184'>184</a></td></tr>
-<tr><td><a href='#project-category-150'>Literatur</a></td><td><a href='#project-category-150'>Literature</a></td><td><a href='#project-category-150'>150</a></td></tr>
-<tr><td><a href='#project-category-172'>Literaturlesung</a></td><td><a href='#project-category-172'>Literary Reading</a></td><td><a href='#project-category-172'>172</a></td></tr>
-<tr><td><a href='#project-category-173'>Lyrik</a></td><td><a href='#project-category-173'>Poetry</a></td><td><a href='#project-category-173'>173</a></td></tr>
-<tr><td><a href='#project-category-127'>Malerei</a></td><td><a href='#project-category-127'>Painting</a></td><td><a href='#project-category-127'>127</a></td></tr>
-<tr><td><a href='#project-category-192'>Manifest</a></td><td><a href='#project-category-192'>Manifesto</a></td><td><a href='#project-category-192'>192</a></td></tr>
-<tr><td><a href='#project-category-12'>Mediengestaltung</a></td><td><a href='#project-category-12'>Media Design</a></td><td><a href='#project-category-12'>12</a></td></tr>
-<tr><td><a href='#project-category-193'>Memoir</a></td><td><a href='#project-category-193'>Memoir</a></td><td><a href='#project-category-193'>193</a></td></tr>
-<tr><td><a href='#project-category-241'>Metal</a></td><td><a href='#project-category-241'>Metal</a></td><td><a href='#project-category-241'>241</a></td></tr>
-<tr><td><a href='#project-category-46'>Metatheater</a></td><td><a href='#project-category-46'>Meta-Theatre</a></td><td><a href='#project-category-46'>46</a></td></tr>
-<tr><td><a href='#project-category-230'>Militärmusik</a></td><td><a href='#project-category-230'>Military Music</a></td><td><a href='#project-category-230'>230</a></td></tr>
-<tr><td><a href='#project-category-67'>Mockumentary</a></td><td><a href='#project-category-67'>Mockumentary</a></td><td><a href='#project-category-67'>67</a></td></tr>
-<tr><td><a href='#project-category-13'>Modedesign</a></td><td><a href='#project-category-13'>Fashion Design</a></td><td><a href='#project-category-13'>13</a></td></tr>
-<tr><td><a href='#project-category-25'>Modefotografie</a></td><td><a href='#project-category-25'>Fashion Photography</a></td><td><a href='#project-category-25'>25</a></td></tr>
-<tr><td><a href='#project-category-136'>Modell</a></td><td><a href='#project-category-136'>Model</a></td><td><a href='#project-category-136'>136</a></td></tr>
-<tr><td><a href='#project-category-265'>Modetanz</a></td><td><a href='#project-category-265'>Poplular Dance</a></td><td><a href='#project-category-265'>265</a></td></tr>
-<tr><td><a href='#project-category-156'>Monodrama</a></td><td><a href='#project-category-156'>Monodrama</a></td><td><a href='#project-category-156'>156</a></td></tr>
-<tr><td><a href='#project-category-157'>Moralität</a></td><td><a href='#project-category-157'>Morality Play</a></td><td><a href='#project-category-157'>157</a></td></tr>
-<tr><td><a href='#project-category-197'>Musik</a></td><td><a href='#project-category-197'>Music</a></td><td><a href='#project-category-197'>197</a></td></tr>
-<tr><td><a href='#project-category-68'>Musikfilm</a></td><td><a href='#project-category-68'>Musical Film</a></td><td><a href='#project-category-68'>68</a></td></tr>
-<tr><td><a href='#project-category-47'>Musiktheater</a></td><td><a href='#project-category-47'>Musical Theatre</a></td><td><a href='#project-category-47'>47</a></td></tr>
-<tr><td><a href='#project-category-69'>Musikvideo</a></td><td><a href='#project-category-69'>Music Video</a></td><td><a href='#project-category-69'>69</a></td></tr>
-<tr><td><a href='#project-category-166'>Märchen</a></td><td><a href='#project-category-166'>Fairy Tale</a></td><td><a href='#project-category-166'>166</a></td></tr>
-<tr><td><a href='#project-category-186'>Nachschlagewerk</a></td><td><a href='#project-category-186'>Reference Work</a></td><td><a href='#project-category-186'>186</a></td></tr>
-<tr><td><a href='#project-category-88'>Netzkunst</a></td><td><a href='#project-category-88'>Net Art</a></td><td><a href='#project-category-88'>88</a></td></tr>
-<tr><td><a href='#project-category-231'>Neue Musik</a></td><td><a href='#project-category-231'>Neue Musik</a></td><td><a href='#project-category-231'>231</a></td></tr>
-<tr><td><a href='#project-category-223'>New Orleans Jazz</a></td><td><a href='#project-category-223'>New Orleans Jazz</a></td><td><a href='#project-category-223'>223</a></td></tr>
-<tr><td><a href='#project-category-242'>New Wave</a></td><td><a href='#project-category-242'>New Wave</a></td><td><a href='#project-category-242'>242</a></td></tr>
-<tr><td><a href='#project-category-187'>Nichtfiktionale Literatur</a></td><td><a href='#project-category-187'>Non-fictional Literature</a></td><td><a href='#project-category-187'>187</a></td></tr>
-<tr><td><a href='#project-category-167'>Novelle</a></td><td><a href='#project-category-167'>Novella</a></td><td><a href='#project-category-167'>167</a></td></tr>
-<tr><td><a href='#project-category-279'>Oper</a></td><td><a href='#project-category-279'>Opera</a></td><td><a href='#project-category-279'>279</a></td></tr>
-<tr><td><a href='#project-category-232'>Orchestermusik</a></td><td><a href='#project-category-232'>Orchestral Music</a></td><td><a href='#project-category-232'>232</a></td></tr>
-<tr><td><a href='#project-category-266'>Paartanz</a></td><td><a href='#project-category-266'>Partner Dance</a></td><td><a href='#project-category-266'>266</a></td></tr>
-<tr><td><a href='#project-category-168'>Parabel</a></td><td><a href='#project-category-168'>Parable</a></td><td><a href='#project-category-168'>168</a></td></tr>
-<tr><td><a href='#project-category-128'>Performance</a></td><td><a href='#project-category-128'>Performance</a></td><td><a href='#project-category-128'>128</a></td></tr>
-<tr><td><a href='#project-category-133'>Performance-Vortrag</a></td><td><a href='#project-category-133'>Lecture Performance</a></td><td><a href='#project-category-133'>133</a></td></tr>
-<tr><td><a href='#project-category-48'>Physical Theatre</a></td><td><a href='#project-category-48'>Physical Theatre</a></td><td><a href='#project-category-48'>48</a></td></tr>
-<tr><td><a href='#project-category-3'>Podcast</a></td><td><a href='#project-category-3'>Podcast</a></td><td><a href='#project-category-3'>3</a></td></tr>
-<tr><td><a href='#project-category-114'>Podcast</a></td><td><a href='#project-category-114'>Podcast</a></td><td><a href='#project-category-114'>114</a></td></tr>
-<tr><td><a href='#project-category-274'>Podiumsdiskussion</a></td><td><a href='#project-category-274'>Panel Discussion</a></td><td><a href='#project-category-274'>274</a></td></tr>
-<tr><td><a href='#project-category-49'>Politisches Theater</a></td><td><a href='#project-category-49'>Political Theatre</a></td><td><a href='#project-category-49'>49</a></td></tr>
-<tr><td><a href='#project-category-243'>Pop</a></td><td><a href='#project-category-243'>Pop</a></td><td><a href='#project-category-243'>243</a></td></tr>
-<tr><td><a href='#project-category-233'>Popularmusik</a></td><td><a href='#project-category-233'>Popular Music</a></td><td><a href='#project-category-233'>233</a></td></tr>
-<tr><td><a href='#project-category-283'>Portrait</a></td><td><a href='#project-category-283'>Portrait</a></td><td><a href='#project-category-283'>283</a></td></tr>
-<tr><td><a href='#project-category-26'>Porträtfotografie</a></td><td><a href='#project-category-26'>Portrait Photography</a></td><td><a href='#project-category-26'>26</a></td></tr>
-<tr><td><a href='#project-category-50'>Postdramatisches Theater</a></td><td><a href='#project-category-50'>Postdramatic Theatre</a></td><td><a href='#project-category-50'>50</a></td></tr>
-<tr><td><a href='#project-category-51'>Postmodernes Theater</a></td><td><a href='#project-category-51'>Postmodern Theatre</a></td><td><a href='#project-category-51'>51</a></td></tr>
-<tr><td><a href='#project-category-27'>Produktfotografie</a></td><td><a href='#project-category-27'>Product Photography</a></td><td><a href='#project-category-27'>27</a></td></tr>
-<tr><td><a href='#project-category-224'>Progressive Jazz</a></td><td><a href='#project-category-224'>Progressive Jazz</a></td><td><a href='#project-category-224'>224</a></td></tr>
-<tr><td><a href='#project-category-140'>Projektionsmapping</a></td><td><a href='#project-category-140'>Projection Mapping</a></td><td><a href='#project-category-140'>140</a></td></tr>
-<tr><td><a href='#project-category-244'>Punk</a></td><td><a href='#project-category-244'>Punk</a></td><td><a href='#project-category-244'>244</a></td></tr>
-<tr><td><a href='#project-category-282'>Radiosendung</a></td><td><a href='#project-category-282'>Radio Programme</a></td><td><a href='#project-category-282'>282</a></td></tr>
-<tr><td><a href='#project-category-225'>Ragtime</a></td><td><a href='#project-category-225'>Ragtime</a></td><td><a href='#project-category-225'>225</a></td></tr>
-<tr><td><a href='#project-category-194'>Ratgeber</a></td><td><a href='#project-category-194'>Self-help Book</a></td><td><a href='#project-category-194'>194</a></td></tr>
-<tr><td><a href='#project-category-137'>Ready-made</a></td><td><a href='#project-category-137'>Found Object</a></td><td><a href='#project-category-137'>137</a></td></tr>
-<tr><td><a href='#project-category-275'>Rede</a></td><td><a href='#project-category-275'>Speech</a></td><td><a href='#project-category-275'>275</a></td></tr>
-<tr><td><a href='#project-category-246'>Reggae</a></td><td><a href='#project-category-246'>Reggae</a></td><td><a href='#project-category-246'>246</a></td></tr>
-<tr><td><a href='#project-category-280'>Regie</a></td><td><a href='#project-category-280'>Direction</a></td><td><a href='#project-category-280'>280</a></td></tr>
-<tr><td><a href='#project-category-267'>Reihentanz</a></td><td><a href='#project-category-267'>Line Dance</a></td><td><a href='#project-category-267'>267</a></td></tr>
-<tr><td><a href='#project-category-70'>Reportage</a></td><td><a href='#project-category-70'>Reportage</a></td><td><a href='#project-category-70'>70</a></td></tr>
-<tr><td><a href='#project-category-169'>Reportage</a></td><td><a href='#project-category-169'>Reportage</a></td><td><a href='#project-category-169'>169</a></td></tr>
-<tr><td><a href='#project-category-247'>Rock</a></td><td><a href='#project-category-247'>Rock</a></td><td><a href='#project-category-247'>247</a></td></tr>
-<tr><td><a href='#project-category-248'>Rock and Roll</a></td><td><a href='#project-category-248'>Rock and Roll</a></td><td><a href='#project-category-248'>248</a></td></tr>
-<tr><td><a href='#project-category-170'>Roman</a></td><td><a href='#project-category-170'>Novel</a></td><td><a href='#project-category-170'>170</a></td></tr>
-<tr><td><a href='#project-category-245'>Rythm and Blues</a></td><td><a href='#project-category-245'>Rythm and Blues</a></td><td><a href='#project-category-245'>245</a></td></tr>
-<tr><td><a href='#project-category-195'>Sachbuch</a></td><td><a href='#project-category-195'>Non-fiction Book</a></td><td><a href='#project-category-195'>195</a></td></tr>
-<tr><td><a href='#project-category-171'>Satire</a></td><td><a href='#project-category-171'>Satire</a></td><td><a href='#project-category-171'>171</a></td></tr>
-<tr><td><a href='#project-category-249'>Schlager</a></td><td><a href='#project-category-249'>Schlager</a></td><td><a href='#project-category-249'>249</a></td></tr>
-<tr><td><a href='#project-category-250'>Singer/Songwriter/Liedermacher</a></td><td><a href='#project-category-250'>Singer-Songwriter</a></td><td><a href='#project-category-250'>250</a></td></tr>
-<tr><td><a href='#project-category-158'>Sittenstück</a></td><td><a href='#project-category-158'>Comedy of Manors</a></td><td><a href='#project-category-158'>158</a></td></tr>
-<tr><td><a href='#project-category-251'>Ska</a></td><td><a href='#project-category-251'>Ska</a></td><td><a href='#project-category-251'>251</a></td></tr>
-<tr><td><a href='#project-category-135'>Skulptur</a></td><td><a href='#project-category-135'>Sculpture</a></td><td><a href='#project-category-135'>135</a></td></tr>
-<tr><td><a href='#project-category-226'>Smooth Jazz</a></td><td><a href='#project-category-226'>Smooth Jazz</a></td><td><a href='#project-category-226'>226</a></td></tr>
-<tr><td><a href='#project-category-89'>Software</a></td><td><a href='#project-category-89'>Software</a></td><td><a href='#project-category-89'>89</a></td></tr>
-<tr><td><a href='#project-category-252'>Solomusik</a></td><td><a href='#project-category-252'>Solo Music</a></td><td><a href='#project-category-252'>252</a></td></tr>
-<tr><td><a href='#project-category-268'>Solotanz</a></td><td><a href='#project-category-268'>Solo Dance</a></td><td><a href='#project-category-268'>268</a></td></tr>
-<tr><td><a href='#project-category-185'>Songtext</a></td><td><a href='#project-category-185'>Song Lyrics</a></td><td><a href='#project-category-185'>185</a></td></tr>
-<tr><td><a href='#project-category-14'>Sound-Design</a></td><td><a href='#project-category-14'>Sound Design</a></td><td><a href='#project-category-14'>14</a></td></tr>
-<tr><td><a href='#project-category-110'>Soundtrack</a></td><td><a href='#project-category-110'>Soundtrack</a></td><td><a href='#project-category-110'>110</a></td></tr>
-<tr><td><a href='#project-category-253'>Soundtrack</a></td><td><a href='#project-category-253'>Soundtrack</a></td><td><a href='#project-category-253'>253</a></td></tr>
-<tr><td><a href='#project-category-71'>Soundtrack</a></td><td><a href='#project-category-71'>Soundtrack</a></td><td><a href='#project-category-71'>71</a></td></tr>
-<tr><td><a href='#project-category-72'>Spielfilm</a></td><td><a href='#project-category-72'>Feature Film</a></td><td><a href='#project-category-72'>72</a></td></tr>
-<tr><td><a href='#project-category-53'>Sprechtheater</a></td><td><a href='#project-category-53'>Spoken Drama</a></td><td><a href='#project-category-53'>53</a></td></tr>
-<tr><td><a href='#project-category-269'>Standardtanz</a></td><td><a href='#project-category-269'>Ballroom Dance</a></td><td><a href='#project-category-269'>269</a></td></tr>
-<tr><td><a href='#project-category-285'>Stilleben</a></td><td><a href='#project-category-285'>Still Life</a></td><td><a href='#project-category-285'>285</a></td></tr>
-<tr><td><a href='#project-category-52'>Straßentheater</a></td><td><a href='#project-category-52'>Street Theatre</a></td><td><a href='#project-category-52'>52</a></td></tr>
-<tr><td><a href='#project-category-270'>Streetdance</a></td><td><a href='#project-category-270'>Street Dance</a></td><td><a href='#project-category-270'>270</a></td></tr>
-<tr><td><a href='#project-category-227'>Swing</a></td><td><a href='#project-category-227'>Swing</a></td><td><a href='#project-category-227'>227</a></td></tr>
-<tr><td><a href='#project-category-276'>Symposium</a></td><td><a href='#project-category-276'>Conference</a></td><td><a href='#project-category-276'>276</a></td></tr>
-<tr><td><a href='#project-category-260'>Tanz</a></td><td><a href='#project-category-260'>Dance</a></td><td><a href='#project-category-260'>260</a></td></tr>
-<tr><td><a href='#project-category-134'>Tanz</a></td><td><a href='#project-category-134'>Dance</a></td><td><a href='#project-category-134'>134</a></td></tr>
-<tr><td><a href='#project-category-256'>Tanzmusik</a></td><td><a href='#project-category-256'>Dance Music</a></td><td><a href='#project-category-256'>256</a></td></tr>
-<tr><td><a href='#project-category-271'>Tanztheater</a></td><td><a href='#project-category-271'>Dance Theatre</a></td><td><a href='#project-category-271'>271</a></td></tr>
-<tr><td><a href='#project-category-54'>Tanztheater</a></td><td><a href='#project-category-54'>Dance Theatre</a></td><td><a href='#project-category-54'>54</a></td></tr>
-<tr><td><a href='#project-category-196'>Tatsachenroman</a></td><td><a href='#project-category-196'>Non-fiction Novel</a></td><td><a href='#project-category-196'>196</a></td></tr>
-<tr><td><a href='#project-category-15'>Textildesign</a></td><td><a href='#project-category-15'>Textile Design</a></td><td><a href='#project-category-15'>15</a></td></tr>
-<tr><td><a href='#project-category-32'>Theater</a></td><td><a href='#project-category-32'>Theatre</a></td><td><a href='#project-category-32'>32</a></td></tr>
-<tr><td><a href='#project-category-28'>Theaterfotografie</a></td><td><a href='#project-category-28'>Theatrical Photography</a></td><td><a href='#project-category-28'>28</a></td></tr>
-<tr><td><a href='#project-category-159'>Tragikomödie</a></td><td><a href='#project-category-159'>Comedy Drama</a></td><td><a href='#project-category-159'>159</a></td></tr>
-<tr><td><a href='#project-category-160'>Tragödie</a></td><td><a href='#project-category-160'>Tragedy</a></td><td><a href='#project-category-160'>160</a></td></tr>
-<tr><td><a href='#project-category-74'>Trailer für Film</a></td><td><a href='#project-category-74'>Film Trailer</a></td><td><a href='#project-category-74'>74</a></td></tr>
-<tr><td><a href='#project-category-16'>Transformation Design</a></td><td><a href='#project-category-16'>Transformation Design</a></td><td><a href='#project-category-16'>16</a></td></tr>
-<tr><td><a href='#project-category-75'>TV-Format</a></td><td><a href='#project-category-75'>Television Programme</a></td><td><a href='#project-category-75'>75</a></td></tr>
-<tr><td><a href='#project-category-90'>User Interface</a></td><td><a href='#project-category-90'>User Interface</a></td><td><a href='#project-category-90'>90</a></td></tr>
-<tr><td><a href='#project-category-17'>User Interface Design</a></td><td><a href='#project-category-17'>User Interface Design</a></td><td><a href='#project-category-17'>17</a></td></tr>
-<tr><td><a href='#project-category-272'>Veranstaltung</a></td><td><a href='#project-category-272'>Event</a></td><td><a href='#project-category-272'>272</a></td></tr>
-<tr><td><a href='#project-category-161'>Versdrama</a></td><td><a href='#project-category-161'>Verse Drama</a></td><td><a href='#project-category-161'>161</a></td></tr>
-<tr><td><a href='#project-category-141'>Video-Essay</a></td><td><a href='#project-category-141'>Video Essay</a></td><td><a href='#project-category-141'>141</a></td></tr>
-<tr><td><a href='#project-category-101'>Videoinstallation</a></td><td><a href='#project-category-101'>Video Installation</a></td><td><a href='#project-category-101'>101</a></td></tr>
-<tr><td><a href='#project-category-142'>Videoinstallation</a></td><td><a href='#project-category-142'>Video Installation</a></td><td><a href='#project-category-142'>142</a></td></tr>
-<tr><td><a href='#project-category-138'>Videokunst</a></td><td><a href='#project-category-138'>Video Art</a></td><td><a href='#project-category-138'>138</a></td></tr>
-<tr><td><a href='#project-category-143'>Videoperformance</a></td><td><a href='#project-category-143'>Video Performance</a></td><td><a href='#project-category-143'>143</a></td></tr>
-<tr><td><a href='#project-category-144'>Videoskulptur</a></td><td><a href='#project-category-144'>Video Sculpture</a></td><td><a href='#project-category-144'>144</a></td></tr>
-<tr><td><a href='#project-category-255'>Videospielmusik</a></td><td><a href='#project-category-255'>Game Soundtrack</a></td><td><a href='#project-category-255'>255</a></td></tr>
-<tr><td><a href='#project-category-145'>Virtual Reality</a></td><td><a href='#project-category-145'>Virtual Reality</a></td><td><a href='#project-category-145'>145</a></td></tr>
-<tr><td><a href='#project-category-91'>Virtual Reality</a></td><td><a href='#project-category-91'>Virtual Reality</a></td><td><a href='#project-category-91'>91</a></td></tr>
-<tr><td><a href='#project-category-257'>Vokalmusik</a></td><td><a href='#project-category-257'>Vocal Music</a></td><td><a href='#project-category-257'>257</a></td></tr>
-<tr><td><a href='#project-category-277'>Vorlesung</a></td><td><a href='#project-category-277'>Lecture</a></td><td><a href='#project-category-277'>277</a></td></tr>
-<tr><td><a href='#project-category-278'>Vortrag</a></td><td><a href='#project-category-278'>Presentation</a></td><td><a href='#project-category-278'>278</a></td></tr>
-<tr><td><a href='#project-category-115'>Webseite</a></td><td><a href='#project-category-115'>Website</a></td><td><a href='#project-category-115'>115</a></td></tr>
-<tr><td><a href='#project-category-4'>Webseite</a></td><td><a href='#project-category-4'>Website</a></td><td><a href='#project-category-4'>4</a></td></tr>
-<tr><td><a href='#project-category-92'>Webserie</a></td><td><a href='#project-category-92'>Web Series</a></td><td><a href='#project-category-92'>92</a></td></tr>
-<tr><td><a href='#project-category-76'>Webserie</a></td><td><a href='#project-category-76'>Web Series</a></td><td><a href='#project-category-76'>76</a></td></tr>
-<tr><td><a href='#project-category-258'>Weltliche Musik</a></td><td><a href='#project-category-258'>Secular Music</a></td><td><a href='#project-category-258'>258</a></td></tr>
-<tr><td><a href='#project-category-29'>Werbefotografie</a></td><td><a href='#project-category-29'>Advertising Photography</a></td><td><a href='#project-category-29'>29</a></td></tr>
-<tr><td><a href='#project-category-259'>Werbemusik</a></td><td><a href='#project-category-259'>Advertising Music</a></td><td><a href='#project-category-259'>259</a></td></tr>
-<tr><td><a href='#project-category-77'>Werbespot</a></td><td><a href='#project-category-77'>Commercial</a></td><td><a href='#project-category-77'>77</a></td></tr>
-<tr><td><a href='#project-category-228'>West Coast Jazz</a></td><td><a href='#project-category-228'>West Coast Jazz</a></td><td><a href='#project-category-228'>228</a></td></tr>
-<tr><td><a href='#project-category-146'>Zeichnung</a></td><td><a href='#project-category-146'>Drawing</a></td><td><a href='#project-category-146'>146</a></td></tr>
-</table>
-</details>
-
-<details><summary>Project Categories ordered by German Breadcrumb | Projektkategorien nach Deutschem Breadcrumb geordnet</summary>
-<table>
-<tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#project-category-1">Akademische Publikation</a></td><td><a href='#project-category-1'>1</a></td></tr>
-<tr><td><a href="#project-category-1">Akademische Publikation</a> > <a href="#project-category-2">Dissertation</a></td><td><a href='#project-category-2'>2</a></td></tr>
-<tr><td><a href="#project-category-1">Akademische Publikation</a> > <a href="#project-category-3">Podcast</a></td><td><a href='#project-category-3'>3</a></td></tr>
-<tr><td><a href="#project-category-1">Akademische Publikation</a> > <a href="#project-category-4">Webseite</a></td><td><a href='#project-category-4'>4</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a></td><td><a href='#project-category-5'>5</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-6">Architektur</a></td><td><a href='#project-category-6'>6</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a></td><td><a href='#project-category-7'>7</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-8">Game Design</a></td><td><a href='#project-category-8'>8</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-9">Industrial Design</a></td><td><a href='#project-category-9'>9</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-10">Innenarchitektur</a></td><td><a href='#project-category-10'>10</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-11">Kommunikationsdesign</a></td><td><a href='#project-category-11'>11</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-12">Mediengestaltung</a></td><td><a href='#project-category-12'>12</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-13">Modedesign</a></td><td><a href='#project-category-13'>13</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-14">Sound-Design</a></td><td><a href='#project-category-14'>14</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-15">Textildesign</a></td><td><a href='#project-category-15'>15</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-16">Transformation Design</a></td><td><a href='#project-category-16'>16</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-17">User Interface Design</a></td><td><a href='#project-category-17'>17</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a></td><td><a href='#project-category-18'>18</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-19">Architekturfotografie</a></td><td><a href='#project-category-19'>19</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-20">Dokumentarfotografie</a></td><td><a href='#project-category-20'>20</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-21">Fotogrammetrie</a></td><td><a href='#project-category-21'>21</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-22">Fotojournalismus</a></td><td><a href='#project-category-22'>22</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-23">Inszenierte Fotografie</a></td><td><a href='#project-category-23'>23</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-24">Landschaftsfotografie</a></td><td><a href='#project-category-24'>24</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-25">Modefotografie</a></td><td><a href='#project-category-25'>25</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-26">Porträtfotografie</a></td><td><a href='#project-category-26'>26</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-27">Produktfotografie</a></td><td><a href='#project-category-27'>27</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-28">Theaterfotografie</a></td><td><a href='#project-category-28'>28</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-18">Fotografie</a> > <a href="#project-category-29">Werbefotografie</a></td><td><a href='#project-category-29'>29</a></td></tr>
-<tr><td><a href="#project-category-5">Angewandte Kunst</a> > <a href="#project-category-30">Keramik</a></td><td><a href='#project-category-30'>30</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a></td><td><a href='#project-category-31'>31</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a></td><td><a href='#project-category-32'>32</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-33">Absurdes Theater</a></td><td><a href='#project-category-33'>33</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-34">Alternatives Theater</a></td><td><a href='#project-category-34'>34</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-35">Angewandtes Theater</a></td><td><a href='#project-category-35'>35</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-38">Digital Theatre</a></td><td><a href='#project-category-38'>38</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-39">Dokumentarisches Theater</a></td><td><a href='#project-category-39'>39</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-36">Episches Theater</a></td><td><a href='#project-category-36'>36</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-37">Experimentelles Theater</a></td><td><a href='#project-category-37'>37</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-40">Figurentheater</a></td><td><a href='#project-category-40'>40</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-41">Freilichttheater</a></td><td><a href='#project-category-41'>41</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-42">Improvisationstheater</a></td><td><a href='#project-category-42'>42</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-43">Interaktives Theater</a></td><td><a href='#project-category-43'>43</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-44">Jugendtheater</a></td><td><a href='#project-category-44'>44</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-45">Kindertheater</a></td><td><a href='#project-category-45'>45</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-46">Metatheater</a></td><td><a href='#project-category-46'>46</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-47">Musiktheater</a></td><td><a href='#project-category-47'>47</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-48">Physical Theatre</a></td><td><a href='#project-category-48'>48</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-49">Politisches Theater</a></td><td><a href='#project-category-49'>49</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-50">Postdramatisches Theater</a></td><td><a href='#project-category-50'>50</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-51">Postmodernes Theater</a></td><td><a href='#project-category-51'>51</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-280">Regie</a></td><td><a href='#project-category-280'>280</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-53">Sprechtheater</a></td><td><a href='#project-category-53'>53</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-52">Straßentheater</a></td><td><a href='#project-category-52'>52</a></td></tr>
-<tr><td><a href="#project-category-31">Darstellende Kunst</a> > <a href="#project-category-32">Theater</a> > <a href="#project-category-54">Tanztheater</a></td><td><a href='#project-category-54'>54</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a></td><td><a href='#project-category-55'>55</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-56">Animationsfilm</a></td><td><a href='#project-category-56'>56</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-57">Dokudrama</a></td><td><a href='#project-category-57'>57</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Dokumentarfilm</a></td><td><a href='#project-category-58'>58</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Dokumentarfilm</a> > <a href="#project-category-59">Kurz-Dokumentarfilm</a></td><td><a href='#project-category-59'>59</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-60">Drehbuch</a></td><td><a href='#project-category-60'>60</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-61">Episode</a></td><td><a href='#project-category-61'>61</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-62">Episodenfilm</a></td><td><a href='#project-category-62'>62</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-63">Essay-Film</a></td><td><a href='#project-category-63'>63</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-64">Expanded Cinema</a></td><td><a href='#project-category-64'>64</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-65">Experimentalfilm</a></td><td><a href='#project-category-65'>65</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-66">Kompilationsfilm</a></td><td><a href='#project-category-66'>66</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-67">Mockumentary</a></td><td><a href='#project-category-67'>67</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-68">Musikfilm</a></td><td><a href='#project-category-68'>68</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-69">Musikvideo</a></td><td><a href='#project-category-69'>69</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-70">Reportage</a></td><td><a href='#project-category-70'>70</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-71">Soundtrack</a></td><td><a href='#project-category-71'>71</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Spielfilm</a></td><td><a href='#project-category-72'>72</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Spielfilm</a> > <a href="#project-category-73">Kurzspielfilm</a></td><td><a href='#project-category-73'>73</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-74">Trailer für Film</a></td><td><a href='#project-category-74'>74</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-75">TV-Format</a></td><td><a href='#project-category-75'>75</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-76">Webserie</a></td><td><a href='#project-category-76'>76</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-77">Werbespot</a></td><td><a href='#project-category-77'>77</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a></td><td><a href='#project-category-78'>78</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-79">Bio Art</a></td><td><a href='#project-category-79'>79</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a></td><td><a href='#project-category-80'>80</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-81">Augmented Reality</a></td><td><a href='#project-category-81'>81</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-82">CD-ROM</a></td><td><a href='#project-category-82'>82</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-83">Computer Generated Imagery</a></td><td><a href='#project-category-83'>83</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-84">Computeranimation</a></td><td><a href='#project-category-84'>84</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-85">Computerspiel</a></td><td><a href='#project-category-85'>85</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-86">Generative Kunst</a></td><td><a href='#project-category-86'>86</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-87">Interaktive Kunst</a></td><td><a href='#project-category-87'>87</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-88">Netzkunst</a></td><td><a href='#project-category-88'>88</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-89">Software</a></td><td><a href='#project-category-89'>89</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-90">User Interface</a></td><td><a href='#project-category-90'>90</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-91">Virtual Reality</a></td><td><a href='#project-category-91'>91</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-80">Digitale Kunst</a> > <a href="#project-category-92">Webserie</a></td><td><a href='#project-category-92'>92</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a></td><td><a href='#project-category-93'>93</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-94">Fotoinstallation</a></td><td><a href='#project-category-94'>94</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-95">Interaktive Kunst</a></td><td><a href='#project-category-95'>95</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-96">Intervention</a></td><td><a href='#project-category-96'>96</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-97">Klanginstallation</a></td><td><a href='#project-category-97'>97</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-98">Kunst am Bau</a></td><td><a href='#project-category-98'>98</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-99">Kunst im öffentlichen Raum</a></td><td><a href='#project-category-99'>99</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-100">Lichtinstallation</a></td><td><a href='#project-category-100'>100</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-101">Videoinstallation</a></td><td><a href='#project-category-101'>101</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a></td><td><a href='#project-category-102'>102</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-103">Album</a></td><td><a href='#project-category-103'>103</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-104">Field Recording</a></td><td><a href='#project-category-104'>104</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-105">Hörstück</a></td><td><a href='#project-category-105'>105</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-106">Klanginstallation</a></td><td><a href='#project-category-106'>106</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-107">Klangobjekt</a></td><td><a href='#project-category-107'>107</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-108">Komposition</a></td><td><a href='#project-category-108'>108</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-109">Konzert</a></td><td><a href='#project-category-109'>109</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-102">Klangkunst</a> > <a href="#project-category-110">Soundtrack</a></td><td><a href='#project-category-110'>110</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a></td><td><a href='#project-category-111'>111</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-112">Künstler:innen-Buch</a></td><td><a href='#project-category-112'>112</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-113">Künstler:innen-Text</a></td><td><a href='#project-category-113'>113</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-114">Podcast</a></td><td><a href='#project-category-114'>114</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-115">Webseite</a></td><td><a href='#project-category-115'>115</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a></td><td><a href='#project-category-116'>116</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-117">Computer Generated Imagery</a></td><td><a href='#project-category-117'>117</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-118">Dokumentarfotografie</a></td><td><a href='#project-category-118'>118</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-119">Fotobuch</a></td><td><a href='#project-category-119'>119</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-120">Fotogrammetrie</a></td><td><a href='#project-category-120'>120</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-121">Fotoinstallation</a></td><td><a href='#project-category-121'>121</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-122">Inszenierte Fotografie</a></td><td><a href='#project-category-122'>122</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-116">Künstlerische Fotografie</a> > <a href="#project-category-123">Konzeptuelle Fotografie</a></td><td><a href='#project-category-123'>123</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-124">Lichtkunst</a></td><td><a href='#project-category-124'>124</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-124">Lichtkunst</a> > <a href="#project-category-125">Holografie</a></td><td><a href='#project-category-125'>125</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-124">Lichtkunst</a> > <a href="#project-category-126">Lichtinstallation</a></td><td><a href='#project-category-126'>126</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a></td><td><a href='#project-category-127'>127</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-288">Abstrakte Malerei</a></td><td><a href='#project-category-288'>288</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-291">Aktmalerei</a></td><td><a href='#project-category-291'>291</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-289">Architekturmalerei</a></td><td><a href='#project-category-289'>289</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-286">Genremalerei</a></td><td><a href='#project-category-286'>286</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-287">Historienmalerei</a></td><td><a href='#project-category-287'>287</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-290">Interieurmalerei</a></td><td><a href='#project-category-290'>290</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-284">Landschaftsmalerei</a></td><td><a href='#project-category-284'>284</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-283">Portrait</a></td><td><a href='#project-category-283'>283</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-127">Malerei</a> > <a href="#project-category-285">Stilleben</a></td><td><a href='#project-category-285'>285</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a></td><td><a href='#project-category-128'>128</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-129">Aktion</a></td><td><a href='#project-category-129'>129</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-130">Durational Performance</a></td><td><a href='#project-category-130'>130</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-131">Happening</a></td><td><a href='#project-category-131'>131</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-132">Intervention</a></td><td><a href='#project-category-132'>132</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-133">Performance-Vortrag</a></td><td><a href='#project-category-133'>133</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-134">Tanz</a></td><td><a href='#project-category-134'>134</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-135">Skulptur</a></td><td><a href='#project-category-135'>135</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-135">Skulptur</a> > <a href="#project-category-136">Modell</a></td><td><a href='#project-category-136'>136</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-135">Skulptur</a> > <a href="#project-category-137">Ready-made</a></td><td><a href='#project-category-137'>137</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a></td><td><a href='#project-category-138'>138</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-139">Expanded Cinema</a></td><td><a href='#project-category-139'>139</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-140">Projektionsmapping</a></td><td><a href='#project-category-140'>140</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-141">Video-Essay</a></td><td><a href='#project-category-141'>141</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-142">Videoinstallation</a></td><td><a href='#project-category-142'>142</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-143">Videoperformance</a></td><td><a href='#project-category-143'>143</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-144">Videoskulptur</a></td><td><a href='#project-category-144'>144</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-138">Videokunst</a> > <a href="#project-category-145">Virtual Reality</a></td><td><a href='#project-category-145'>145</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a></td><td><a href='#project-category-146'>146</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a> > <a href="#project-category-147">Collage</a></td><td><a href='#project-category-147'>147</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a> > <a href="#project-category-148">Comic</a></td><td><a href='#project-category-148'>148</a></td></tr>
-<tr><td><a href="#project-category-78">Kunst</a> > <a href="#project-category-146">Zeichnung</a> > <a href="#project-category-149">Druckgrafik</a></td><td><a href='#project-category-149'>149</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a></td><td><a href='#project-category-150'>150</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a></td><td><a href='#project-category-151'>151</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-152">Einakter</a></td><td><a href='#project-category-152'>152</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-153">Historiendrama</a></td><td><a href='#project-category-153'>153</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-154">Komödie</a></td><td><a href='#project-category-154'>154</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-155">Libretto</a></td><td><a href='#project-category-155'>155</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-156">Monodrama</a></td><td><a href='#project-category-156'>156</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-157">Moralität</a></td><td><a href='#project-category-157'>157</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-158">Sittenstück</a></td><td><a href='#project-category-158'>158</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-159">Tragikomödie</a></td><td><a href='#project-category-159'>159</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-160">Tragödie</a></td><td><a href='#project-category-160'>160</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-161">Versdrama</a></td><td><a href='#project-category-161'>161</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-162">Drehbuch</a></td><td><a href='#project-category-162'>162</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a></td><td><a href='#project-category-163'>163</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-164">Erzählung</a></td><td><a href='#project-category-164'>164</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-165">Kurzgeschichte</a></td><td><a href='#project-category-165'>165</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-166">Märchen</a></td><td><a href='#project-category-166'>166</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-167">Novelle</a></td><td><a href='#project-category-167'>167</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-168">Parabel</a></td><td><a href='#project-category-168'>168</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-169">Reportage</a></td><td><a href='#project-category-169'>169</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-170">Roman</a></td><td><a href='#project-category-170'>170</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-163">Epik</a> > <a href="#project-category-171">Satire</a></td><td><a href='#project-category-171'>171</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-172">Literaturlesung</a></td><td><a href='#project-category-172'>172</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a></td><td><a href='#project-category-173'>173</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-174">Akrostichon</a></td><td><a href='#project-category-174'>174</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-175">Ballade</a></td><td><a href='#project-category-175'>175</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-176">Elegie</a></td><td><a href='#project-category-176'>176</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-177">Epigramm</a></td><td><a href='#project-category-177'>177</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-178">Gedicht</a></td><td><a href='#project-category-178'>178</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-179">Gedichtsammlung</a></td><td><a href='#project-category-179'>179</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-180">Haiku</a></td><td><a href='#project-category-180'>180</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-181">Hymne</a></td><td><a href='#project-category-181'>181</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-182">Konkrete Poesie</a></td><td><a href='#project-category-182'>182</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-183">Lautgedicht</a></td><td><a href='#project-category-183'>183</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-184">Limerick</a></td><td><a href='#project-category-184'>184</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-173">Lyrik</a> > <a href="#project-category-185">Songtext</a></td><td><a href='#project-category-185'>185</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-186">Nachschlagewerk</a></td><td><a href='#project-category-186'>186</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a></td><td><a href='#project-category-187'>187</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-188">Autobiografie</a></td><td><a href='#project-category-188'>188</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-189">Biografie</a></td><td><a href='#project-category-189'>189</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-190">Blog</a></td><td><a href='#project-category-190'>190</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-191">Essay</a></td><td><a href='#project-category-191'>191</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-192">Manifest</a></td><td><a href='#project-category-192'>192</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-193">Memoir</a></td><td><a href='#project-category-193'>193</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-194">Ratgeber</a></td><td><a href='#project-category-194'>194</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-195">Sachbuch</a></td><td><a href='#project-category-195'>195</a></td></tr>
-<tr><td><a href="#project-category-150">Literatur</a> > <a href="#project-category-187">Nichtfiktionale Literatur</a> > <a href="#project-category-196">Tatsachenroman</a></td><td><a href='#project-category-196'>196</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a></td><td><a href='#project-category-197'>197</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-198">Außereuropäische Kunstmusik</a></td><td><a href='#project-category-198'>198</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-199">Bühnenmusik</a></td><td><a href='#project-category-199'>199</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-199">Bühnenmusik</a> > <a href="#project-category-279">Oper</a></td><td><a href='#project-category-279'>279</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-200">Elektroakustische Musik</a></td><td><a href='#project-category-200'>200</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-200">Elektroakustische Musik</a> > <a href="#project-category-281">Fixed Media</a></td><td><a href='#project-category-281'>281</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-201">Elektronische Musik</a></td><td><a href='#project-category-201'>201</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-202">Ensemblemusik</a></td><td><a href='#project-category-202'>202</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-203">Folklore</a></td><td><a href='#project-category-203'>203</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-204">Geistliche Musik</a></td><td><a href='#project-category-204'>204</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-205">Instrumentalmusik</a></td><td><a href='#project-category-205'>205</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a></td><td><a href='#project-category-206'>206</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-207">Acid Jazz</a></td><td><a href='#project-category-207'>207</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-208">Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>208</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-209">Avantgarde-Jazz</a></td><td><a href='#project-category-209'>209</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-210">Bebop</a></td><td><a href='#project-category-210'>210</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-211">Big Band</a></td><td><a href='#project-category-211'>211</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-212">Boogie-Woogie</a></td><td><a href='#project-category-212'>212</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-213">Chicago Style</a></td><td><a href='#project-category-213'>213</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-214">Contemporary Jazz</a></td><td><a href='#project-category-214'>214</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-215">Cool Jazz</a></td><td><a href='#project-category-215'>215</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-216">Crossover Jazz</a></td><td><a href='#project-category-216'>216</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-217">Dixieland</a></td><td><a href='#project-category-217'>217</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-218">East Coast Jazz</a></td><td><a href='#project-category-218'>218</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-219">Ethnojazz</a></td><td><a href='#project-category-219'>219</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-220">Free Jazz</a></td><td><a href='#project-category-220'>220</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-221">Hard Bop</a></td><td><a href='#project-category-221'>221</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-222">Jazz Fusion</a></td><td><a href='#project-category-222'>222</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-223">New Orleans Jazz</a></td><td><a href='#project-category-223'>223</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-224">Progressive Jazz</a></td><td><a href='#project-category-224'>224</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-225">Ragtime</a></td><td><a href='#project-category-225'>225</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-226">Smooth Jazz</a></td><td><a href='#project-category-226'>226</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-227">Swing</a></td><td><a href='#project-category-227'>227</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-228">West Coast Jazz</a></td><td><a href='#project-category-228'>228</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-229">Klassische Musik</a></td><td><a href='#project-category-229'>229</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-230">Militärmusik</a></td><td><a href='#project-category-230'>230</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-231">Neue Musik</a></td><td><a href='#project-category-231'>231</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-232">Orchestermusik</a></td><td><a href='#project-category-232'>232</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a></td><td><a href='#project-category-233'>233</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-234">American Folk</a></td><td><a href='#project-category-234'>234</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-235">Beat</a></td><td><a href='#project-category-235'>235</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-236">Blues</a></td><td><a href='#project-category-236'>236</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-237">Chanson</a></td><td><a href='#project-category-237'>237</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-238">Country</a></td><td><a href='#project-category-238'>238</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-239">Electronic Dance Music</a></td><td><a href='#project-category-239'>239</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-240">Hip-Hop</a></td><td><a href='#project-category-240'>240</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-241">Metal</a></td><td><a href='#project-category-241'>241</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-242">New Wave</a></td><td><a href='#project-category-242'>242</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-243">Pop</a></td><td><a href='#project-category-243'>243</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-244">Punk</a></td><td><a href='#project-category-244'>244</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-246">Reggae</a></td><td><a href='#project-category-246'>246</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-248">Rock and Roll</a></td><td><a href='#project-category-248'>248</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-247">Rock</a></td><td><a href='#project-category-247'>247</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-245">Rythm and Blues</a></td><td><a href='#project-category-245'>245</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-249">Schlager</a></td><td><a href='#project-category-249'>249</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-250">Singer/Songwriter/Liedermacher</a></td><td><a href='#project-category-250'>250</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-233">Popularmusik</a> > <a href="#project-category-251">Ska</a></td><td><a href='#project-category-251'>251</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-252">Solomusik</a></td><td><a href='#project-category-252'>252</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-253">Soundtrack</a></td><td><a href='#project-category-253'>253</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-254">Filmmusik</a></td><td><a href='#project-category-254'>254</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-255">Videospielmusik</a></td><td><a href='#project-category-255'>255</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-256">Tanzmusik</a></td><td><a href='#project-category-256'>256</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-257">Vokalmusik</a></td><td><a href='#project-category-257'>257</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-258">Weltliche Musik</a></td><td><a href='#project-category-258'>258</a></td></tr>
-<tr><td><a href="#project-category-197">Musik</a> > <a href="#project-category-259">Werbemusik</a></td><td><a href='#project-category-259'>259</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a></td><td><a href='#project-category-260'>260</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-261">Bühnentanz</a></td><td><a href='#project-category-261'>261</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-262">Gruppentanz</a></td><td><a href='#project-category-262'>262</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-263">Jazztanz</a></td><td><a href='#project-category-263'>263</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-264">Lateinamerikanischer Tanz</a></td><td><a href='#project-category-264'>264</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-265">Modetanz</a></td><td><a href='#project-category-265'>265</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-266">Paartanz</a></td><td><a href='#project-category-266'>266</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-267">Reihentanz</a></td><td><a href='#project-category-267'>267</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-268">Solotanz</a></td><td><a href='#project-category-268'>268</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-269">Standardtanz</a></td><td><a href='#project-category-269'>269</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-270">Streetdance</a></td><td><a href='#project-category-270'>270</a></td></tr>
-<tr><td><a href="#project-category-260">Tanz</a> > <a href="#project-category-271">Tanztheater</a></td><td><a href='#project-category-271'>271</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a></td><td><a href='#project-category-272'>272</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-273">Interview</a></td><td><a href='#project-category-273'>273</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-274">Podiumsdiskussion</a></td><td><a href='#project-category-274'>274</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-282">Radiosendung</a></td><td><a href='#project-category-282'>282</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-275">Rede</a></td><td><a href='#project-category-275'>275</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-276">Symposium</a></td><td><a href='#project-category-276'>276</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-277">Vorlesung</a></td><td><a href='#project-category-277'>277</a></td></tr>
-<tr><td><a href="#project-category-272">Veranstaltung</a> > <a href="#project-category-278">Vortrag</a></td><td><a href='#project-category-278'>278</a></td></tr>
-</table>
-</details>
-
-<details><summary>Project Categories ordered by English Breadcrumb | Projektkategorien nach Englischem Breadcrumb geordnet</summary>
-<table>
-<tr><th>English Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#project-category-1">Academic Publication</a></td><td><a href='#project-category-1'>1</a></td></tr>
-<tr><td><a href="#project-category-1">Academic Publication</a> > <a href="#project-category-2">Doctoral Thesis</a></td><td><a href='#project-category-2'>2</a></td></tr>
-<tr><td><a href="#project-category-1">Academic Publication</a> > <a href="#project-category-3">Podcast</a></td><td><a href='#project-category-3'>3</a></td></tr>
-<tr><td><a href="#project-category-1">Academic Publication</a> > <a href="#project-category-4">Website</a></td><td><a href='#project-category-4'>4</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a></td><td><a href='#project-category-5'>5</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-6">Architecture</a></td><td><a href='#project-category-6'>6</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-30">Ceramic</a></td><td><a href='#project-category-30'>30</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a></td><td><a href='#project-category-7'>7</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-13">Fashion Design</a></td><td><a href='#project-category-13'>13</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-8">Game Design</a></td><td><a href='#project-category-8'>8</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-11">Graphic Design</a></td><td><a href='#project-category-11'>11</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-9">Industrial Design</a></td><td><a href='#project-category-9'>9</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-10">Interior Design</a></td><td><a href='#project-category-10'>10</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-12">Media Design</a></td><td><a href='#project-category-12'>12</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-14">Sound Design</a></td><td><a href='#project-category-14'>14</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-15">Textile Design</a></td><td><a href='#project-category-15'>15</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-16">Transformation Design</a></td><td><a href='#project-category-16'>16</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-7">Design</a> > <a href="#project-category-17">User Interface Design</a></td><td><a href='#project-category-17'>17</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a></td><td><a href='#project-category-18'>18</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-29">Advertising Photography</a></td><td><a href='#project-category-29'>29</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-19">Architectural Photography</a></td><td><a href='#project-category-19'>19</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-20">Documentary Photography</a></td><td><a href='#project-category-20'>20</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-25">Fashion Photography</a></td><td><a href='#project-category-25'>25</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-24">Landscape Photography</a></td><td><a href='#project-category-24'>24</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-21">Photogrammetry</a></td><td><a href='#project-category-21'>21</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-22">Photojournalism</a></td><td><a href='#project-category-22'>22</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-26">Portrait Photography</a></td><td><a href='#project-category-26'>26</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-27">Product Photography</a></td><td><a href='#project-category-27'>27</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-23">Staged Photography</a></td><td><a href='#project-category-23'>23</a></td></tr>
-<tr><td><a href="#project-category-5">Applied Arts</a> > <a href="#project-category-18">Photography</a> > <a href="#project-category-28">Theatrical Photography</a></td><td><a href='#project-category-28'>28</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a></td><td><a href='#project-category-78'>78</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Artist's Publication</a></td><td><a href='#project-category-111'>111</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Artist's Publication</a> > <a href="#project-category-112">Artist's Book</a></td><td><a href='#project-category-112'>112</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Artist's Publication</a> > <a href="#project-category-113">Artist's Statement</a></td><td><a href='#project-category-113'>113</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-79">Bio Art</a></td><td><a href='#project-category-79'>79</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a></td><td><a href='#project-category-80'>80</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-81">Augmented Reality</a></td><td><a href='#project-category-81'>81</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-82">CD-ROM</a></td><td><a href='#project-category-82'>82</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-84">Computer Animation</a></td><td><a href='#project-category-84'>84</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-85">Computer Game</a></td><td><a href='#project-category-85'>85</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-83">Computer Generated Imagery</a></td><td><a href='#project-category-83'>83</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-86">Generative Art</a></td><td><a href='#project-category-86'>86</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-87">Interactive Art</a></td><td><a href='#project-category-87'>87</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-88">Net Art</a></td><td><a href='#project-category-88'>88</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-89">Software</a></td><td><a href='#project-category-89'>89</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-90">User Interface</a></td><td><a href='#project-category-90'>90</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-91">Virtual Reality</a></td><td><a href='#project-category-91'>91</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-80">Digital Art</a> > <a href="#project-category-92">Web Series</a></td><td><a href='#project-category-92'>92</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a></td><td><a href='#project-category-146'>146</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a> > <a href="#project-category-147">Collage</a></td><td><a href='#project-category-147'>147</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a> > <a href="#project-category-148">Comic</a></td><td><a href='#project-category-148'>148</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-146">Drawing</a> > <a href="#project-category-149">Printmaking</a></td><td><a href='#project-category-149'>149</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a></td><td><a href='#project-category-116'>116</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-117">Computer-Generated Imagery</a></td><td><a href='#project-category-117'>117</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-123">Conceptual Photography</a></td><td><a href='#project-category-123'>123</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-118">Documentary Photography</a></td><td><a href='#project-category-118'>118</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-121">Photo Installation</a></td><td><a href='#project-category-121'>121</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-119">Photobook</a></td><td><a href='#project-category-119'>119</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-120">Photogrammetry</a></td><td><a href='#project-category-120'>120</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-116">Fine Art Photography</a> > <a href="#project-category-122">Staged Photography</a></td><td><a href='#project-category-122'>122</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a></td><td><a href='#project-category-93'>93</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-95">Interactive Art</a></td><td><a href='#project-category-95'>95</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-96">Intervention</a></td><td><a href='#project-category-96'>96</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-100">Light Installation</a></td><td><a href='#project-category-100'>100</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-98">Percent for Art</a></td><td><a href='#project-category-98'>98</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-94">Photo Installation</a></td><td><a href='#project-category-94'>94</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-99">Public Art</a></td><td><a href='#project-category-99'>99</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-97">Sound Installation</a></td><td><a href='#project-category-97'>97</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-93">Installation</a> > <a href="#project-category-101">Video Installation</a></td><td><a href='#project-category-101'>101</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-114">Podcast</a></td><td><a href='#project-category-114'>114</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-111">Künstler:innen-Publikation</a> > <a href="#project-category-115">Website</a></td><td><a href='#project-category-115'>115</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-124">Light Art</a></td><td><a href='#project-category-124'>124</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-124">Light Art</a> > <a href="#project-category-125">Holography</a></td><td><a href='#project-category-125'>125</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-124">Light Art</a> > <a href="#project-category-126">Light Installation</a></td><td><a href='#project-category-126'>126</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a></td><td><a href='#project-category-127'>127</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-288">Abstract Painting</a></td><td><a href='#project-category-288'>288</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-289">Architectural Painting</a></td><td><a href='#project-category-289'>289</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-286">Genre Painting</a></td><td><a href='#project-category-286'>286</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-287">History Painting</a></td><td><a href='#project-category-287'>287</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-290">Interior Painting</a></td><td><a href='#project-category-290'>290</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-284">Landscape Painting</a></td><td><a href='#project-category-284'>284</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-291">Nude Painting</a></td><td><a href='#project-category-291'>291</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-283">Portrait</a></td><td><a href='#project-category-283'>283</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-127">Painting</a> > <a href="#project-category-285">Still Life</a></td><td><a href='#project-category-285'>285</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a></td><td><a href='#project-category-128'>128</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-129">Action</a></td><td><a href='#project-category-129'>129</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-134">Dance</a></td><td><a href='#project-category-134'>134</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-130">Durational Performance</a></td><td><a href='#project-category-130'>130</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-131">Happening</a></td><td><a href='#project-category-131'>131</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-132">Intervention</a></td><td><a href='#project-category-132'>132</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-128">Performance</a> > <a href="#project-category-133">Lecture Performance</a></td><td><a href='#project-category-133'>133</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-135">Sculpture</a></td><td><a href='#project-category-135'>135</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-135">Sculpture</a> > <a href="#project-category-137">Found Object</a></td><td><a href='#project-category-137'>137</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-135">Sculpture</a> > <a href="#project-category-136">Model</a></td><td><a href='#project-category-136'>136</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a></td><td><a href='#project-category-102'>102</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-103">Album</a></td><td><a href='#project-category-103'>103</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-108">Composition</a></td><td><a href='#project-category-108'>108</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-109">Concert</a></td><td><a href='#project-category-109'>109</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-104">Field Recording</a></td><td><a href='#project-category-104'>104</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-105">Listening Piece</a></td><td><a href='#project-category-105'>105</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-106">Sound Installation</a></td><td><a href='#project-category-106'>106</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-107">Sound Sculpture</a></td><td><a href='#project-category-107'>107</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-102">Sound Art</a> > <a href="#project-category-110">Soundtrack</a></td><td><a href='#project-category-110'>110</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a></td><td><a href='#project-category-138'>138</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-139">Expanded Cinema</a></td><td><a href='#project-category-139'>139</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-140">Projection Mapping</a></td><td><a href='#project-category-140'>140</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-141">Video Essay</a></td><td><a href='#project-category-141'>141</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-142">Video Installation</a></td><td><a href='#project-category-142'>142</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-143">Video Performance</a></td><td><a href='#project-category-143'>143</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-144">Video Sculpture</a></td><td><a href='#project-category-144'>144</a></td></tr>
-<tr><td><a href="#project-category-78">Art</a> > <a href="#project-category-138">Video Art</a> > <a href="#project-category-145">Virtual Reality</a></td><td><a href='#project-category-145'>145</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a></td><td><a href='#project-category-260'>260</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-269">Ballroom Dance</a></td><td><a href='#project-category-269'>269</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-261">Concert Dance</a></td><td><a href='#project-category-261'>261</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-271">Dance Theatre</a></td><td><a href='#project-category-271'>271</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-262">Group Dance</a></td><td><a href='#project-category-262'>262</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-263">Jazz Dance</a></td><td><a href='#project-category-263'>263</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-264">Latin American Dance</a></td><td><a href='#project-category-264'>264</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-267">Line Dance</a></td><td><a href='#project-category-267'>267</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-266">Partner Dance</a></td><td><a href='#project-category-266'>266</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-265">Poplular Dance</a></td><td><a href='#project-category-265'>265</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-268">Solo Dance</a></td><td><a href='#project-category-268'>268</a></td></tr>
-<tr><td><a href="#project-category-260">Dance</a> > <a href="#project-category-270">Street Dance</a></td><td><a href='#project-category-270'>270</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a></td><td><a href='#project-category-272'>272</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-273">Interview</a></td><td><a href='#project-category-273'>273</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-274">Interview</a></td><td><a href='#project-category-274'>274</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-275">Interview</a></td><td><a href='#project-category-275'>275</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-276">Interview</a></td><td><a href='#project-category-276'>276</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-277">Interview</a></td><td><a href='#project-category-277'>277</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-278">Interview</a></td><td><a href='#project-category-278'>278</a></td></tr>
-<tr><td><a href="#project-category-272">Event</a> > <a href="#project-category-282">Radio Program</a></td><td><a href='#project-category-282'>282</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a></td><td><a href='#project-category-55'>55</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-56">Animated Film</a></td><td><a href='#project-category-56'>56</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-62">Anthology Film</a></td><td><a href='#project-category-62'>62</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-77">Commercial</a></td><td><a href='#project-category-77'>77</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-66">Compilation Film</a></td><td><a href='#project-category-66'>66</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-57">Docudrama</a></td><td><a href='#project-category-57'>57</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Documentary Film</a></td><td><a href='#project-category-58'>58</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-58">Documentary Film</a> > <a href="#project-category-59">Short Documentary Film</a></td><td><a href='#project-category-59'>59</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-61">Episode</a></td><td><a href='#project-category-61'>61</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-63">Essay Film</a></td><td><a href='#project-category-63'>63</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-64">Expanded Cinema</a></td><td><a href='#project-category-64'>64</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-65">Experimental Film</a></td><td><a href='#project-category-65'>65</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Feature Film</a></td><td><a href='#project-category-72'>72</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-72">Feature Film</a> > <a href="#project-category-73">Short Film</a></td><td><a href='#project-category-73'>73</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-74">Film Trailer</a></td><td><a href='#project-category-74'>74</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-67">Mockumentary</a></td><td><a href='#project-category-67'>67</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-69">Music Video</a></td><td><a href='#project-category-69'>69</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-68">Musical Film</a></td><td><a href='#project-category-68'>68</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-70">Reportage</a></td><td><a href='#project-category-70'>70</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-60">Screenplay</a></td><td><a href='#project-category-60'>60</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-71">Soundtrack</a></td><td><a href='#project-category-71'>71</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-75">Television Program</a></td><td><a href='#project-category-75'>75</a></td></tr>
-<tr><td><a href="#project-category-55">Film/TV</a> > <a href="#project-category-76">Web Series</a></td><td><a href='#project-category-76'>76</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a></td><td><a href='#project-category-150'>150</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a></td><td><a href='#project-category-151'>151</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-159">Comedy Drama</a></td><td><a href='#project-category-159'>159</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-158">Comedy of Manors</a></td><td><a href='#project-category-158'>158</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-154">Comedy</a></td><td><a href='#project-category-154'>154</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-153">Historical Play</a></td><td><a href='#project-category-153'>153</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-155">Libretto</a></td><td><a href='#project-category-155'>155</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-156">Monodrama</a></td><td><a href='#project-category-156'>156</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-157">Morality Play</a></td><td><a href='#project-category-157'>157</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-152">One-act Play</a></td><td><a href='#project-category-152'>152</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-160">Tragedy</a></td><td><a href='#project-category-160'>160</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-151">Drama</a> > <a href="#project-category-161">Verse Drama</a></td><td><a href='#project-category-161'>161</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a></td><td><a href='#project-category-163'>163</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-166">Fairy Tale</a></td><td><a href='#project-category-166'>166</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-164">Narrative Story</a></td><td><a href='#project-category-164'>164</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-170">Novel</a></td><td><a href='#project-category-170'>170</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-167">Novella</a></td><td><a href='#project-category-167'>167</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-168">Parable</a></td><td><a href='#project-category-168'>168</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-169">Reportage</a></td><td><a href='#project-category-169'>169</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-171">Satire</a></td><td><a href='#project-category-171'>171</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-163">Epic Literature</a> > <a href="#project-category-165">Short Story</a></td><td><a href='#project-category-165'>165</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-172">Literary Reading</a></td><td><a href='#project-category-172'>172</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a></td><td><a href='#project-category-187'>187</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-188">Autobiography</a></td><td><a href='#project-category-188'>188</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-189">Biography</a></td><td><a href='#project-category-189'>189</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-190">Blog</a></td><td><a href='#project-category-190'>190</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-191">Essay</a></td><td><a href='#project-category-191'>191</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-192">Manifesto</a></td><td><a href='#project-category-192'>192</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-193">Memoir</a></td><td><a href='#project-category-193'>193</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-195">Non-fiction Book</a></td><td><a href='#project-category-195'>195</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-196">Non-fiction Novel</a></td><td><a href='#project-category-196'>196</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-187">Non-fictional Literature</a> > <a href="#project-category-194">Self-help Book</a></td><td><a href='#project-category-194'>194</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a></td><td><a href='#project-category-173'>173</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-174">Acrostic</a></td><td><a href='#project-category-174'>174</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-175">Ballad</a></td><td><a href='#project-category-175'>175</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-182">Concrete Poetry</a></td><td><a href='#project-category-182'>182</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-176">Elegy</a></td><td><a href='#project-category-176'>176</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-177">Epigram</a></td><td><a href='#project-category-177'>177</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-180">Haiku</a></td><td><a href='#project-category-180'>180</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-181">Hymn</a></td><td><a href='#project-category-181'>181</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-184">Limerick</a></td><td><a href='#project-category-184'>184</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-178">Poem</a></td><td><a href='#project-category-178'>178</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-179">Poetry Collection</a></td><td><a href='#project-category-179'>179</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-185">Song Lyrics</a></td><td><a href='#project-category-185'>185</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-173">Poetry</a> > <a href="#project-category-183">Sound Poetry</a></td><td><a href='#project-category-183'>183</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-186">Reference Work</a></td><td><a href='#project-category-186'>186</a></td></tr>
-<tr><td><a href="#project-category-150">Literature</a> > <a href="#project-category-162">Screenplay</a></td><td><a href='#project-category-162'>162</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a></td><td><a href='#project-category-197'>197</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-259">Advertising Music</a></td><td><a href='#project-category-259'>259</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-229">Classical Music</a></td><td><a href='#project-category-229'>229</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-256">Dance Music</a></td><td><a href='#project-category-256'>256</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-200">Electroacoustic Music</a></td><td><a href='#project-category-200'>200</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-200">Electroacoustic Music</a> > <a href="#project-category-281">Fixed Media</a></td><td><a href='#project-category-281'>281</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-201">Electronic Music</a></td><td><a href='#project-category-201'>201</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-202">Ensemble Music</a></td><td><a href='#project-category-202'>202</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-203">Folklore</a></td><td><a href='#project-category-203'>203</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-205">Instrumental Music</a></td><td><a href='#project-category-205'>205</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a></td><td><a href='#project-category-206'>206</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-207">Acid Jazz</a></td><td><a href='#project-category-207'>207</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-208">Afro-Cuban Jazz</a></td><td><a href='#project-category-208'>208</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-209">Avantgarde Jazz</a></td><td><a href='#project-category-209'>209</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-210">Bebop</a></td><td><a href='#project-category-210'>210</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-211">Big Band Music</a></td><td><a href='#project-category-211'>211</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-212">Boogie-Woogie</a></td><td><a href='#project-category-212'>212</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-213">Chicago Style</a></td><td><a href='#project-category-213'>213</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-214">Contemporary Jazz</a></td><td><a href='#project-category-214'>214</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-215">Cool Jazz</a></td><td><a href='#project-category-215'>215</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-216">Crossover Jazz</a></td><td><a href='#project-category-216'>216</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-217">Dixieland</a></td><td><a href='#project-category-217'>217</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-218">East Coast Jazz</a></td><td><a href='#project-category-218'>218</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-219">Ethno Jazz</a></td><td><a href='#project-category-219'>219</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-220">Free Jazz</a></td><td><a href='#project-category-220'>220</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-221">Hard Bop</a></td><td><a href='#project-category-221'>221</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-222">Jazz Fusion</a></td><td><a href='#project-category-222'>222</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-223">New Orleans Jazz</a></td><td><a href='#project-category-223'>223</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-224">Progressive Jazz</a></td><td><a href='#project-category-224'>224</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-225">Ragtime</a></td><td><a href='#project-category-225'>225</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-226">Smooth Jazz</a></td><td><a href='#project-category-226'>226</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-227">Swing</a></td><td><a href='#project-category-227'>227</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-206">Jazz</a> > <a href="#project-category-228">West Coast Jazz</a></td><td><a href='#project-category-228'>228</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-230">Military Music</a></td><td><a href='#project-category-230'>230</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-231">Neue Musik</a></td><td><a href='#project-category-231'>231</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-198">Non-european Art Music</a></td><td><a href='#project-category-198'>198</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-232">Orchestral Music</a></td><td><a href='#project-category-232'>232</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a></td><td><a href='#project-category-233'>233</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-234">American Folk</a></td><td><a href='#project-category-234'>234</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-235">Beat</a></td><td><a href='#project-category-235'>235</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-236">Blues</a></td><td><a href='#project-category-236'>236</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-237">Chanson</a></td><td><a href='#project-category-237'>237</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-238">Country</a></td><td><a href='#project-category-238'>238</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-239">Electronic Dance Music</a></td><td><a href='#project-category-239'>239</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-240">Hip-Hop</a></td><td><a href='#project-category-240'>240</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-241">Metal</a></td><td><a href='#project-category-241'>241</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-242">New Wave</a></td><td><a href='#project-category-242'>242</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-243">Pop</a></td><td><a href='#project-category-243'>243</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-244">Punk</a></td><td><a href='#project-category-244'>244</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-246">Reggae</a></td><td><a href='#project-category-246'>246</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-248">Rock and Roll</a></td><td><a href='#project-category-248'>248</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-247">Rock</a></td><td><a href='#project-category-247'>247</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-245">Rythm and Blues</a></td><td><a href='#project-category-245'>245</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-249">Schlager</a></td><td><a href='#project-category-249'>249</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-250">Singer-Songwriter</a></td><td><a href='#project-category-250'>250</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-233">Popular Music</a> > <a href="#project-category-251">Ska</a></td><td><a href='#project-category-251'>251</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-204">Sacred Music</a></td><td><a href='#project-category-204'>204</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-258">Secular Music</a></td><td><a href='#project-category-258'>258</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-252">Solo Music</a></td><td><a href='#project-category-252'>252</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-253">Soundtrack</a></td><td><a href='#project-category-253'>253</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-254">Film Music</a></td><td><a href='#project-category-254'>254</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-253">Soundtrack</a> > <a href="#project-category-255">Game Soundtrack</a></td><td><a href='#project-category-255'>255</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-199">Stage Music</a></td><td><a href='#project-category-199'>199</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-199">Stage Music</a> > <a href="#project-category-279">Oper</a></td><td><a href='#project-category-279'>279</a></td></tr>
-<tr><td><a href="#project-category-197">Music</a> > <a href="#project-category-257">Vocal Music</a></td><td><a href='#project-category-257'>257</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a></td><td><a href='#project-category-31'>31</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a></td><td><a href='#project-category-32'>32</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-34">Alternative Theater</a></td><td><a href='#project-category-34'>34</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-35">Applied Theatre</a></td><td><a href='#project-category-35'>35</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-45">Children's Theatre</a></td><td><a href='#project-category-45'>45</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-54">Dance Theatre</a></td><td><a href='#project-category-54'>54</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-38">Digital Theatre</a></td><td><a href='#project-category-38'>38</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-280">Direction</a></td><td><a href='#project-category-280'>280</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-39">Documentary Theatre</a></td><td><a href='#project-category-39'>39</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-36">Epic Theatre</a></td><td><a href='#project-category-36'>36</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-37">Experimental Theatre</a></td><td><a href='#project-category-37'>37</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-42">Improvisational Theatre</a></td><td><a href='#project-category-42'>42</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-43">Interactive Theatre</a></td><td><a href='#project-category-43'>43</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-46">Meta-Theatre</a></td><td><a href='#project-category-46'>46</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-47">Musical Theatre</a></td><td><a href='#project-category-47'>47</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-41">Open-Air Theatre</a></td><td><a href='#project-category-41'>41</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-48">Physical Theatre</a></td><td><a href='#project-category-48'>48</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-49">Political Theatre</a></td><td><a href='#project-category-49'>49</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-50">Postdramatic Theatre</a></td><td><a href='#project-category-50'>50</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-51">Postmodern Theatre</a></td><td><a href='#project-category-51'>51</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-40">Puppetry Arts</a></td><td><a href='#project-category-40'>40</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-53">Spoken Drama</a></td><td><a href='#project-category-53'>53</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-52">Street Theatre</a></td><td><a href='#project-category-52'>52</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-33">Theatre of the Absurd</a></td><td><a href='#project-category-33'>33</a></td></tr>
-<tr><td><a href="#project-category-31">Performing Arts</a> > <a href="#project-category-32">Theatre</a> > <a href="#project-category-44">Youth Theatre</a></td><td><a href='#project-category-44'>44</a></td></tr>
-</table>
-</details>
-
-<br/>
 <br/>
 
 ---
@@ -1245,10 +52,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Abstract Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 288 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-288`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-288) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-288`[🔗](http://w3id.org/arkumu/project-categories/project-category-288) |
 | **English Name** | Abstract Painting |
 | **German Name** | Abstrakte Malerei |
 | **German Synonyms** | abstraktes Gemälde,Absolute Malerei |
@@ -1270,10 +76,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Academic Publication
 
-|||
-|-----------|-----------|
+
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-1) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-1`[🔗](http://w3id.org/arkumu/project-categories/project-category-1) |
 | **English Name** | Academic Publication |
 | **English Synonyms** | Scientific Publication,Research Publication |
 | **German Name** | Akademische Publikation |
@@ -1295,10 +100,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Acid Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 207 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-207`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-207) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-207`[🔗](http://w3id.org/arkumu/project-categories/project-category-207) |
 | **English Name** | Acid Jazz |
 | **English Synonyms** | Dancefloor Jazz,Club Jazz |
 | **German Name** | Acid Jazz |
@@ -1320,10 +124,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Acrostic
 
-|||
-|-----------|-----------|
+
 | **ID** | 174 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-174`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-174) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-174`[🔗](http://w3id.org/arkumu/project-categories/project-category-174) |
 | **English Name** | Acrostic |
 | **German Name** | Akrostichon |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -1345,10 +148,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Action
 
-|||
-|-----------|-----------|
+
 | **ID** | 129 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-129`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-129) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-129`[🔗](http://w3id.org/arkumu/project-categories/project-category-129) |
 | **English Name** | Action |
 | **German Name** | Aktion |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -1370,10 +172,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Advertising Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 259 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-259`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-259) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-259`[🔗](http://w3id.org/arkumu/project-categories/project-category-259) |
 | **English Name** | Advertising Music |
 | **German Name** | Werbemusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -1393,10 +194,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Advertising Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 29 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-29) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-29`[🔗](http://w3id.org/arkumu/project-categories/project-category-29) |
 | **English Name** | Advertising Photography |
 | **German Name** | Werbefotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -1418,10 +218,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Afro-Cuban Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 208 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-208`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-208) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-208`[🔗](http://w3id.org/arkumu/project-categories/project-category-208) |
 | **English Name** | Afro-Cuban Jazz |
 | **German Name** | Afro-Cuban Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1442,10 +241,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Album
 
-|||
-|-----------|-----------|
+
 | **ID** | 103 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-103`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-103) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-103`[🔗](http://w3id.org/arkumu/project-categories/project-category-103) |
 | **English Name** | Album |
 | **German Name** | Album |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -1466,10 +264,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Alternative Theater
 
-|||
-|-----------|-----------|
+
 | **ID** | 34 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-34) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-34`[🔗](http://w3id.org/arkumu/project-categories/project-category-34) |
 | **English Name** | Alternative Theater |
 | **English Synonyms** | Fringe |
 | **German Name** | Alternatives Theater |
@@ -1491,10 +288,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## American Folk
 
-|||
-|-----------|-----------|
+
 | **ID** | 234 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-234`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-234) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-234`[🔗](http://w3id.org/arkumu/project-categories/project-category-234) |
 | **English Name** | American Folk |
 | **German Name** | American Folk |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -1515,10 +311,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Animated Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 56 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-56) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-56`[🔗](http://w3id.org/arkumu/project-categories/project-category-56) |
 | **English Name** | Animated Film |
 | **English Synonyms** | Animation |
 | **German Name** | Animationsfilm |
@@ -1543,10 +338,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Anthology Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 62 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-62`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-62) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-62`[🔗](http://w3id.org/arkumu/project-categories/project-category-62) |
 | **English Name** | Anthology Film |
 | **German Name** | Episodenfilm |
 | **German Synonyms** | Anthologie |
@@ -1568,10 +362,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Applied Arts
 
-|||
-|-----------|-----------|
+
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-5) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-5`[🔗](http://w3id.org/arkumu/project-categories/project-category-5) |
 | **English Name** | Applied Arts |
 | **German Name** | Angewandte Kunst |
 | **German Synonyms** | Gestaltung,Kunstgewerbe |
@@ -1593,10 +386,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Applied Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 35 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-35) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-35`[🔗](http://w3id.org/arkumu/project-categories/project-category-35) |
 | **English Name** | Applied Theatre |
 | **English Synonyms** | Applied Drama,Applied Performance |
 | **German Name** | Angewandtes Theater |
@@ -1618,10 +410,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Architectural Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 289 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-289`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-289) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-289`[🔗](http://w3id.org/arkumu/project-categories/project-category-289) |
 | **English Name** | Architectural Painting |
 | **English Synonyms** | Architectural Picture |
 | **German Name** | Architekturmalerei |
@@ -1644,10 +435,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Architectural Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 19 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-19) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-19`[🔗](http://w3id.org/arkumu/project-categories/project-category-19) |
 | **English Name** | Architectural Photography |
 | **German Name** | Architekturfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -1669,10 +459,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Architecture
 
-|||
-|-----------|-----------|
+
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-6) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-6`[🔗](http://w3id.org/arkumu/project-categories/project-category-6) |
 | **English Name** | Architecture |
 | **German Name** | Architektur |
 | **Parent Project Category** | [Applied Arts](#project-category-5) |
@@ -1694,10 +483,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 78 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-78`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-78) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-78`[🔗](http://w3id.org/arkumu/project-categories/project-category-78) |
 | **English Name** | Art |
 | **English Synonyms** | Fine Art,Visual Art |
 | **German Name** | Kunst |
@@ -1720,10 +508,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Artist's Book
 
-|||
-|-----------|-----------|
+
 | **ID** | 112 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-112`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-112) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-112`[🔗](http://w3id.org/arkumu/project-categories/project-category-112) |
 | **English Name** | Artist's Book |
 | **English Synonyms** | Artist book,Book Art |
 | **German Name** | Künstler:innen-Buch |
@@ -1747,10 +534,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Artist's Publication
 
-|||
-|-----------|-----------|
+
 | **ID** | 111 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-111`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-111) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-111`[🔗](http://w3id.org/arkumu/project-categories/project-category-111) |
 | **English Name** | Artist's Publication |
 | **German Name** | Künstler:innen-Publikation |
 | **German Synonyms** | Künstlerpublikation |
@@ -1771,10 +557,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Artist's Statement
 
-|||
-|-----------|-----------|
+
 | **ID** | 113 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-113`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-113) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-113`[🔗](http://w3id.org/arkumu/project-categories/project-category-113) |
 | **English Name** | Artist's Statement |
 | **English Synonyms** | Artist's Text,Statement |
 | **German Name** | Künstler:innen-Text |
@@ -1797,10 +582,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Augmented Reality
 
-|||
-|-----------|-----------|
+
 | **ID** | 81 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-81`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-81) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-81`[🔗](http://w3id.org/arkumu/project-categories/project-category-81) |
 | **English Name** | Augmented Reality |
 | **English Synonyms** | AR |
 | **German Name** | Augmented Reality |
@@ -1824,10 +608,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Autobiography
 
-|||
-|-----------|-----------|
+
 | **ID** | 188 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-188`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-188) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-188`[🔗](http://w3id.org/arkumu/project-categories/project-category-188) |
 | **English Name** | Autobiography |
 | **German Name** | Autobiografie |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -1849,10 +632,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Avantgarde Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 209 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-209`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-209) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-209`[🔗](http://w3id.org/arkumu/project-categories/project-category-209) |
 | **English Name** | Avantgarde Jazz |
 | **German Name** | Avantgarde-Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1872,10 +654,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ballad
 
-|||
-|-----------|-----------|
+
 | **ID** | 175 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-175`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-175) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-175`[🔗](http://w3id.org/arkumu/project-categories/project-category-175) |
 | **English Name** | Ballad |
 | **German Name** | Ballade |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -1897,10 +678,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ballroom Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 269 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-269`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-269) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-269`[🔗](http://w3id.org/arkumu/project-categories/project-category-269) |
 | **English Name** | Ballroom Dance |
 | **German Name** | Standardtanz |
 | **German Synonyms** | Gesellschaftstanz |
@@ -1922,10 +702,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Beat
 
-|||
-|-----------|-----------|
+
 | **ID** | 235 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-235`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-235) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-235`[🔗](http://w3id.org/arkumu/project-categories/project-category-235) |
 | **English Name** | Beat |
 | **German Name** | Beat |
 | **German Synonyms** | Beatmusik |
@@ -1947,10 +726,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Bebop
 
-|||
-|-----------|-----------|
+
 | **ID** | 210 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-210`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-210) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-210`[🔗](http://w3id.org/arkumu/project-categories/project-category-210) |
 | **English Name** | Bebop |
 | **German Name** | Bebop |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1971,10 +749,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Big Band Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 211 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-211`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-211) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-211`[🔗](http://w3id.org/arkumu/project-categories/project-category-211) |
 | **English Name** | Big Band Music |
 | **German Name** | Big Band |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -1994,10 +771,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Bio Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 79 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-79`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-79) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-79`[🔗](http://w3id.org/arkumu/project-categories/project-category-79) |
 | **English Name** | Bio Art |
 | **German Name** | Bio Art |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -2019,10 +795,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Biography
 
-|||
-|-----------|-----------|
+
 | **ID** | 189 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-189`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-189) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-189`[🔗](http://w3id.org/arkumu/project-categories/project-category-189) |
 | **English Name** | Biography |
 | **German Name** | Biografie |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -2044,10 +819,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Blog
 
-|||
-|-----------|-----------|
+
 | **ID** | 190 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-190`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-190) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-190`[🔗](http://w3id.org/arkumu/project-categories/project-category-190) |
 | **English Name** | Blog |
 | **German Name** | Blog |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -2069,10 +843,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Blues
 
-|||
-|-----------|-----------|
+
 | **ID** | 236 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-236`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-236) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-236`[🔗](http://w3id.org/arkumu/project-categories/project-category-236) |
 | **English Name** | Blues |
 | **German Name** | Blues |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -2093,10 +866,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Boogie-Woogie
 
-|||
-|-----------|-----------|
+
 | **ID** | 212 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-212`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-212) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-212`[🔗](http://w3id.org/arkumu/project-categories/project-category-212) |
 | **English Name** | Boogie-Woogie |
 | **German Name** | Boogie-Woogie |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2117,10 +889,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## CD-ROM
 
-|||
-|-----------|-----------|
+
 | **ID** | 82 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-82`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-82) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-82`[🔗](http://w3id.org/arkumu/project-categories/project-category-82) |
 | **English Name** | CD-ROM |
 | **German Name** | CD-ROM |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -2142,10 +913,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ceramic
 
-|||
-|-----------|-----------|
+
 | **ID** | 30 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-30) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-30`[🔗](http://w3id.org/arkumu/project-categories/project-category-30) |
 | **English Name** | Ceramic |
 | **English Synonyms** | Pottery |
 | **German Name** | Keramik |
@@ -2168,10 +938,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Chanson
 
-|||
-|-----------|-----------|
+
 | **ID** | 237 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-237`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-237) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-237`[🔗](http://w3id.org/arkumu/project-categories/project-category-237) |
 | **English Name** | Chanson |
 | **German Name** | Chanson |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -2192,10 +961,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Chicago Style
 
-|||
-|-----------|-----------|
+
 | **ID** | 213 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-213`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-213) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-213`[🔗](http://w3id.org/arkumu/project-categories/project-category-213) |
 | **English Name** | Chicago Style |
 | **German Name** | Chicago Style |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2215,10 +983,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Children's Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 45 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-45) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-45`[🔗](http://w3id.org/arkumu/project-categories/project-category-45) |
 | **English Name** | Children's Theatre |
 | **German Name** | Kindertheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -2239,10 +1006,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Classical Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 229 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-229`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-229) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-229`[🔗](http://w3id.org/arkumu/project-categories/project-category-229) |
 | **English Name** | Classical Music |
 | **German Name** | Klassische Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -2263,10 +1029,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Collage
 
-|||
-|-----------|-----------|
+
 | **ID** | 147 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-147`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-147) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-147`[🔗](http://w3id.org/arkumu/project-categories/project-category-147) |
 | **English Name** | Collage |
 | **German Name** | Collage |
 | **German Synonyms** | Decollage,Fotomontage,Assemblage |
@@ -2289,10 +1054,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Comedy
 
-|||
-|-----------|-----------|
+
 | **ID** | 154 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-154`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-154) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-154`[🔗](http://w3id.org/arkumu/project-categories/project-category-154) |
 | **English Name** | Comedy |
 | **German Name** | Komödie |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -2314,10 +1078,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Comedy Drama
 
-|||
-|-----------|-----------|
+
 | **ID** | 159 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-159`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-159) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-159`[🔗](http://w3id.org/arkumu/project-categories/project-category-159) |
 | **English Name** | Comedy Drama |
 | **English Synonyms** | Dramedy |
 | **German Name** | Tragikomödie |
@@ -2339,10 +1102,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Comedy of Manors
 
-|||
-|-----------|-----------|
+
 | **ID** | 158 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-158`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-158) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-158`[🔗](http://w3id.org/arkumu/project-categories/project-category-158) |
 | **English Name** | Comedy of Manors |
 | **German Name** | Sittenstück |
 | **German Synonyms** | Konversationsstück |
@@ -2364,10 +1126,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Comic
 
-|||
-|-----------|-----------|
+
 | **ID** | 148 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-148`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-148) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-148`[🔗](http://w3id.org/arkumu/project-categories/project-category-148) |
 | **English Name** | Comic |
 | **English Synonyms** | Graphic Novel |
 | **German Name** | Comic |
@@ -2390,10 +1151,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Commercial
 
-|||
-|-----------|-----------|
+
 | **ID** | 77 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-77`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-77) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-77`[🔗](http://w3id.org/arkumu/project-categories/project-category-77) |
 | **English Name** | Commercial |
 | **English Synonyms** | Audio-Visual Advertisement,Advertising Film,Advertisement,Promotional Video |
 | **German Name** | Werbespot |
@@ -2417,10 +1177,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Compilation Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 66 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-66`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-66) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-66`[🔗](http://w3id.org/arkumu/project-categories/project-category-66) |
 | **English Name** | Compilation Film |
 | **German Name** | Kompilationsfilm |
 | **German Synonyms** | Archivfilm,Chronikfilm |
@@ -2443,10 +1202,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Composition
 
-|||
-|-----------|-----------|
+
 | **ID** | 108 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-108`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-108) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-108`[🔗](http://w3id.org/arkumu/project-categories/project-category-108) |
 | **English Name** | Composition |
 | **German Name** | Komposition |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -2467,10 +1225,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Computer Animation
 
-|||
-|-----------|-----------|
+
 | **ID** | 84 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-84`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-84) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-84`[🔗](http://w3id.org/arkumu/project-categories/project-category-84) |
 | **English Name** | Computer Animation |
 | **German Name** | Computeranimation |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -2492,10 +1249,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Computer Game
 
-|||
-|-----------|-----------|
+
 | **ID** | 85 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-85`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-85) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-85`[🔗](http://w3id.org/arkumu/project-categories/project-category-85) |
 | **English Name** | Computer Game |
 | **English Synonyms** | Game,Video Game,Serious Game |
 | **German Name** | Computerspiel |
@@ -2519,10 +1275,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Computer Generated Imagery
 
-|||
-|-----------|-----------|
+
 | **ID** | 83 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-83`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-83) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-83`[🔗](http://w3id.org/arkumu/project-categories/project-category-83) |
 | **English Name** | Computer Generated Imagery |
 | **English Synonyms** | CGI,Computer Graphics |
 | **German Name** | Computer Generated Imagery |
@@ -2546,10 +1301,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Computer-Generated Imagery
 
-|||
-|-----------|-----------|
+
 | **ID** | 117 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-117`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-117) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-117`[🔗](http://w3id.org/arkumu/project-categories/project-category-117) |
 | **English Name** | Computer-Generated Imagery |
 | **English Synonyms** | CGI,Computer Graphics |
 | **German Name** | Computer Generated Imagery |
@@ -2573,10 +1327,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Conceptual Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 123 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-123`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-123) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-123`[🔗](http://w3id.org/arkumu/project-categories/project-category-123) |
 | **English Name** | Conceptual Photography |
 | **German Name** | Konzeptuelle Fotografie |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -2596,10 +1349,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Concert
 
-|||
-|-----------|-----------|
+
 | **ID** | 109 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-109`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-109) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-109`[🔗](http://w3id.org/arkumu/project-categories/project-category-109) |
 | **English Name** | Concert |
 | **German Name** | Konzert |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -2621,10 +1373,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Concert Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 261 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-261`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-261) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-261`[🔗](http://w3id.org/arkumu/project-categories/project-category-261) |
 | **English Name** | Concert Dance |
 | **German Name** | Bühnentanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -2644,10 +1395,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Concrete Poetry
 
-|||
-|-----------|-----------|
+
 | **ID** | 182 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-182`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-182) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-182`[🔗](http://w3id.org/arkumu/project-categories/project-category-182) |
 | **English Name** | Concrete Poetry |
 | **German Name** | Konkrete Poesie |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -2669,10 +1419,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Conference
 
-|||
-|-----------|-----------|
+
 | **ID** | 276 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-276`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-276) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-276`[🔗](http://w3id.org/arkumu/project-categories/project-category-276) |
 | **English Name** | Conference |
 | **English Synonyms** | Academic Conference,Scientific Conference,Convention |
 | **German Name** | Symposium |
@@ -2696,10 +1445,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Contemporary Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 214 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-214`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-214) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-214`[🔗](http://w3id.org/arkumu/project-categories/project-category-214) |
 | **English Name** | Contemporary Jazz |
 | **German Name** | Contemporary Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2719,10 +1467,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Cool Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 215 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-215`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-215) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-215`[🔗](http://w3id.org/arkumu/project-categories/project-category-215) |
 | **English Name** | Cool Jazz |
 | **German Name** | Cool Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2743,10 +1490,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Country
 
-|||
-|-----------|-----------|
+
 | **ID** | 238 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-238`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-238) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-238`[🔗](http://w3id.org/arkumu/project-categories/project-category-238) |
 | **English Name** | Country |
 | **English Synonyms** | Countrymusic |
 | **German Name** | Country |
@@ -2768,10 +1514,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Crossover Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 216 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-216`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-216) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-216`[🔗](http://w3id.org/arkumu/project-categories/project-category-216) |
 | **English Name** | Crossover Jazz |
 | **German Name** | Crossover Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -2791,10 +1536,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 260 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-260`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-260) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-260`[🔗](http://w3id.org/arkumu/project-categories/project-category-260) |
 | **English Name** | Dance |
 | **German Name** | Tanz |
 | **German Breadcrumb** | [Tanz](#project-category-260) |
@@ -2815,10 +1559,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 134 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-134`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-134) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-134`[🔗](http://w3id.org/arkumu/project-categories/project-category-134) |
 | **English Name** | Dance |
 | **German Name** | Tanz |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -2840,10 +1583,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Dance Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 256 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-256`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-256) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-256`[🔗](http://w3id.org/arkumu/project-categories/project-category-256) |
 | **English Name** | Dance Music |
 | **German Name** | Tanzmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -2864,10 +1606,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Dance Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 271 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-271`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-271) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-271`[🔗](http://w3id.org/arkumu/project-categories/project-category-271) |
 | **English Name** | Dance Theatre |
 | **German Name** | Tanztheater |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -2888,10 +1629,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Dance Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 54 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-54) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-54`[🔗](http://w3id.org/arkumu/project-categories/project-category-54) |
 | **English Name** | Dance Theatre |
 | **German Name** | Tanztheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -2912,10 +1652,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-7) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-7`[🔗](http://w3id.org/arkumu/project-categories/project-category-7) |
 | **English Name** | Design |
 | **German Name** | Design |
 | **Parent Project Category** | [Applied Arts](#project-category-5) |
@@ -2937,10 +1676,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Digital Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 80 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-80`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-80) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-80`[🔗](http://w3id.org/arkumu/project-categories/project-category-80) |
 | **English Name** | Digital Art |
 | **German Name** | Digitale Kunst |
 | **German Synonyms** | Computerbasierte Kunst, Computerkunst |
@@ -2963,10 +1701,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Digital Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 38 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-38) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-38`[🔗](http://w3id.org/arkumu/project-categories/project-category-38) |
 | **English Name** | Digital Theatre |
 | **German Name** | Digital Theatre |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -2986,10 +1723,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Direction
 
-|||
-|-----------|-----------|
+
 | **ID** | 280 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-280`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-280) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-280`[🔗](http://w3id.org/arkumu/project-categories/project-category-280) |
 | **English Name** | Direction |
 | **English Synonyms** | Stage Direction |
 | **German Name** | Regie |
@@ -3012,10 +1748,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Dixieland
 
-|||
-|-----------|-----------|
+
 | **ID** | 217 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-217`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-217) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-217`[🔗](http://w3id.org/arkumu/project-categories/project-category-217) |
 | **English Name** | Dixieland |
 | **German Name** | Dixieland |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -3036,10 +1771,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Doctoral Thesis
 
-|||
-|-----------|-----------|
+
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-2) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-2`[🔗](http://w3id.org/arkumu/project-categories/project-category-2) |
 | **English Name** | Doctoral Thesis |
 | **English Synonyms** | Dissertation,PhD Thesis,Thesis |
 | **German Name** | Dissertation |
@@ -3063,10 +1797,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Docudrama
 
-|||
-|-----------|-----------|
+
 | **ID** | 57 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-57) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-57`[🔗](http://w3id.org/arkumu/project-categories/project-category-57) |
 | **English Name** | Docudrama |
 | **German Name** | Dokudrama |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3087,10 +1820,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Documentary Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 58 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-58) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-58`[🔗](http://w3id.org/arkumu/project-categories/project-category-58) |
 | **English Name** | Documentary Film |
 | **German Name** | Dokumentarfilm |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3113,10 +1845,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Documentary Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 118 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-118`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-118) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-118`[🔗](http://w3id.org/arkumu/project-categories/project-category-118) |
 | **English Name** | Documentary Photography |
 | **German Name** | Dokumentarfotografie |
 | **German Synonyms** | Künstlerische Dokumentarfotografie |
@@ -3139,10 +1870,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Documentary Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 20 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-20) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-20`[🔗](http://w3id.org/arkumu/project-categories/project-category-20) |
 | **English Name** | Documentary Photography |
 | **German Name** | Dokumentarfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -3164,10 +1894,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Documentary Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 39 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-39) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-39`[🔗](http://w3id.org/arkumu/project-categories/project-category-39) |
 | **English Name** | Documentary Theatre |
 | **German Name** | Dokumentarisches Theater |
 | **German Synonyms** | Dokumentartheater,Dokumentarspiel |
@@ -3189,10 +1918,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Drama
 
-|||
-|-----------|-----------|
+
 | **ID** | 151 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-151`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-151) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-151`[🔗](http://w3id.org/arkumu/project-categories/project-category-151) |
 | **English Name** | Drama |
 | **German Name** | Drama |
 | **Parent Project Category** | [Literature](#project-category-150) |
@@ -3214,10 +1942,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Drawing
 
-|||
-|-----------|-----------|
+
 | **ID** | 146 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-146`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-146) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-146`[🔗](http://w3id.org/arkumu/project-categories/project-category-146) |
 | **English Name** | Drawing |
 | **German Name** | Zeichnung |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -3239,10 +1966,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Durational Performance
 
-|||
-|-----------|-----------|
+
 | **ID** | 130 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-130`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-130) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-130`[🔗](http://w3id.org/arkumu/project-categories/project-category-130) |
 | **English Name** | Durational Performance |
 | **English Synonyms** | Durational Art,Endurance Art |
 | **German Name** | Durational Performance |
@@ -3263,10 +1989,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## East Coast Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 218 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-218`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-218) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-218`[🔗](http://w3id.org/arkumu/project-categories/project-category-218) |
 | **English Name** | East Coast Jazz |
 | **German Name** | East Coast Jazz |
 | **German Synonyms** | East-Coast-Jazz |
@@ -3287,10 +2012,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Electroacoustic Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 200 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-200`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-200) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-200`[🔗](http://w3id.org/arkumu/project-categories/project-category-200) |
 | **English Name** | Electroacoustic Music |
 | **German Name** | Elektroakustische Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -3312,10 +2036,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Electronic Dance Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 239 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-239`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-239) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-239`[🔗](http://w3id.org/arkumu/project-categories/project-category-239) |
 | **English Name** | Electronic Dance Music |
 | **English Synonyms** | EDM |
 | **German Name** | Electronic Dance Music |
@@ -3336,10 +2059,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Electronic Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 201 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-201`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-201) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-201`[🔗](http://w3id.org/arkumu/project-categories/project-category-201) |
 | **English Name** | Electronic Music |
 | **German Name** | Elektronische Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -3361,10 +2083,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Elegy
 
-|||
-|-----------|-----------|
+
 | **ID** | 176 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-176`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-176) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-176`[🔗](http://w3id.org/arkumu/project-categories/project-category-176) |
 | **English Name** | Elegy |
 | **German Name** | Elegie |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -3386,10 +2107,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ensemble Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 202 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-202`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-202) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-202`[🔗](http://w3id.org/arkumu/project-categories/project-category-202) |
 | **English Name** | Ensemble Music |
 | **German Name** | Ensemblemusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -3410,10 +2130,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Epic Literature
 
-|||
-|-----------|-----------|
+
 | **ID** | 163 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-163`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-163) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-163`[🔗](http://w3id.org/arkumu/project-categories/project-category-163) |
 | **English Name** | Epic Literature |
 | **German Name** | Epik |
 | **German Synonyms** | Epische Literatur |
@@ -3436,10 +2155,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Epic Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 36 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-36) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-36`[🔗](http://w3id.org/arkumu/project-categories/project-category-36) |
 | **English Name** | Epic Theatre |
 | **German Name** | Episches Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -3460,10 +2178,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Epigram
 
-|||
-|-----------|-----------|
+
 | **ID** | 177 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-177`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-177) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-177`[🔗](http://w3id.org/arkumu/project-categories/project-category-177) |
 | **English Name** | Epigram |
 | **German Name** | Epigramm |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -3485,10 +2202,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Episode
 
-|||
-|-----------|-----------|
+
 | **ID** | 61 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-61`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-61) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-61`[🔗](http://w3id.org/arkumu/project-categories/project-category-61) |
 | **English Name** | Episode |
 | **German Name** | Episode |
 | **German Synonyms** | Folge |
@@ -3510,10 +2226,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Essay
 
-|||
-|-----------|-----------|
+
 | **ID** | 191 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-191`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-191) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-191`[🔗](http://w3id.org/arkumu/project-categories/project-category-191) |
 | **English Name** | Essay |
 | **German Name** | Essay |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -3535,10 +2250,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Essay Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 63 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-63`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-63) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-63`[🔗](http://w3id.org/arkumu/project-categories/project-category-63) |
 | **English Name** | Essay Film |
 | **German Name** | Essay-Film |
 | **German Synonyms** | Film-Essay |
@@ -3560,10 +2274,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ethno Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 219 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-219`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-219) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-219`[🔗](http://w3id.org/arkumu/project-categories/project-category-219) |
 | **English Name** | Ethno Jazz |
 | **German Name** | Ethnojazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -3583,10 +2296,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Event
 
-|||
-|-----------|-----------|
+
 | **ID** | 272 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-272`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-272) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-272`[🔗](http://w3id.org/arkumu/project-categories/project-category-272) |
 | **English Name** | Event |
 | **German Name** | Veranstaltung |
 | **German Breadcrumb** | [Veranstaltung](#project-category-272) |
@@ -3607,10 +2319,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Expanded Cinema
 
-|||
-|-----------|-----------|
+
 | **ID** | 64 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-64`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-64) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-64`[🔗](http://w3id.org/arkumu/project-categories/project-category-64) |
 | **English Name** | Expanded Cinema |
 | **German Name** | Expanded Cinema |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3631,10 +2342,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Expanded Cinema
 
-|||
-|-----------|-----------|
+
 | **ID** | 139 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-139`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-139) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-139`[🔗](http://w3id.org/arkumu/project-categories/project-category-139) |
 | **English Name** | Expanded Cinema |
 | **German Name** | Expanded Cinema |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -3655,10 +2365,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Experimental Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 65 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-65`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-65) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-65`[🔗](http://w3id.org/arkumu/project-categories/project-category-65) |
 | **English Name** | Experimental Film |
 | **German Name** | Experimentalfilm |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -3681,10 +2390,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Experimental Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 37 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-37) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-37`[🔗](http://w3id.org/arkumu/project-categories/project-category-37) |
 | **English Name** | Experimental Theatre |
 | **German Name** | Experimentelles Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -3705,10 +2413,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Fairy Tale
 
-|||
-|-----------|-----------|
+
 | **ID** | 166 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-166`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-166) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-166`[🔗](http://w3id.org/arkumu/project-categories/project-category-166) |
 | **English Name** | Fairy Tale |
 | **German Name** | Märchen |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -3730,10 +2437,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Fashion Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-13) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-13`[🔗](http://w3id.org/arkumu/project-categories/project-category-13) |
 | **English Name** | Fashion Design |
 | **German Name** | Modedesign |
 | **Parent Project Category** | [Design](#project-category-7) |
@@ -3755,10 +2461,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Fashion Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 25 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-25) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-25`[🔗](http://w3id.org/arkumu/project-categories/project-category-25) |
 | **English Name** | Fashion Photography |
 | **German Name** | Modefotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -3780,10 +2485,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Feature Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 72 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-72`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-72) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-72`[🔗](http://w3id.org/arkumu/project-categories/project-category-72) |
 | **English Name** | Feature Film |
 | **English Synonyms** | Movie,Fiction Film |
 | **German Name** | Spielfilm |
@@ -3808,10 +2512,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Field Recording
 
-|||
-|-----------|-----------|
+
 | **ID** | 104 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-104`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-104) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-104`[🔗](http://w3id.org/arkumu/project-categories/project-category-104) |
 | **English Name** | Field Recording |
 | **English Synonyms** | Live Sound Recording |
 | **German Name** | Field Recording |
@@ -3835,10 +2538,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Film Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 254 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-254`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-254) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-254`[🔗](http://w3id.org/arkumu/project-categories/project-category-254) |
 | **English Name** | Film Music |
 | **German Name** | Filmmusik |
 | **Parent Project Category** | [Soundtrack](#project-category-253) |
@@ -3859,10 +2561,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Film Trailer
 
-|||
-|-----------|-----------|
+
 | **ID** | 74 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-74`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-74) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-74`[🔗](http://w3id.org/arkumu/project-categories/project-category-74) |
 | **English Name** | Film Trailer |
 | **German Name** | Trailer für Film |
 | **German Synonyms** | Kinotrailer,Filmtrailer |
@@ -3886,10 +2587,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Film/TV
 
-|||
-|-----------|-----------|
+
 | **ID** | 55 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-55) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-55`[🔗](http://w3id.org/arkumu/project-categories/project-category-55) |
 | **English Name** | Film/TV |
 | **German Name** | Film/TV |
 | **German Synonyms** | Film/Fernsehen |
@@ -3911,10 +2611,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Fine Art Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 116 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-116`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-116) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-116`[🔗](http://w3id.org/arkumu/project-categories/project-category-116) |
 | **English Name** | Fine Art Photography |
 | **German Name** | Künstlerische Fotografie |
 | **German Synonyms** | Fotokunst,Kunstfotografie |
@@ -3936,10 +2635,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Fixed Media
 
-|||
-|-----------|-----------|
+
 | **ID** | 281 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-281`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-281) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-281`[🔗](http://w3id.org/arkumu/project-categories/project-category-281) |
 | **English Name** | Fixed Media |
 | **German Name** | Fixed Media |
 | **German Synonyms** | Lautsprechermusik |
@@ -3961,10 +2659,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Folklore
 
-|||
-|-----------|-----------|
+
 | **ID** | 203 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-203`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-203) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-203`[🔗](http://w3id.org/arkumu/project-categories/project-category-203) |
 | **English Name** | Folklore |
 | **German Name** | Folklore |
 | **German Synonyms** | Volksmusik |
@@ -3987,10 +2684,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Found Object
 
-|||
-|-----------|-----------|
+
 | **ID** | 137 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-137`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-137) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-137`[🔗](http://w3id.org/arkumu/project-categories/project-category-137) |
 | **English Name** | Found Object |
 | **German Name** | Ready-made |
 | **German Synonyms** | Objekt,Objet Trouvé |
@@ -4013,10 +2709,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Free Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 220 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-220`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-220) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-220`[🔗](http://w3id.org/arkumu/project-categories/project-category-220) |
 | **English Name** | Free Jazz |
 | **German Name** | Free Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -4037,10 +2732,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Game Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-8) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-8`[🔗](http://w3id.org/arkumu/project-categories/project-category-8) |
 | **English Name** | Game Design |
 | **English Synonyms** | Gamedesign |
 | **German Name** | Game Design |
@@ -4061,10 +2755,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Game Soundtrack
 
-|||
-|-----------|-----------|
+
 | **ID** | 255 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-255`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-255) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-255`[🔗](http://w3id.org/arkumu/project-categories/project-category-255) |
 | **English Name** | Game Soundtrack |
 | **German Name** | Videospielmusik |
 | **German Synonyms** | Game-Soundtrack,Computerspielmusik |
@@ -4086,10 +2779,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Generative Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 86 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-86`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-86) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-86`[🔗](http://w3id.org/arkumu/project-categories/project-category-86) |
 | **English Name** | Generative Art |
 | **German Name** | Generative Kunst |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -4110,10 +2802,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Genre Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 286 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-286`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-286) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-286`[🔗](http://w3id.org/arkumu/project-categories/project-category-286) |
 | **English Name** | Genre Painting |
 | **German Name** | Genremalerei |
 | **German Synonyms** | Genrebild,Genreszene |
@@ -4136,10 +2827,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Graphic Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-11) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-11`[🔗](http://w3id.org/arkumu/project-categories/project-category-11) |
 | **English Name** | Graphic Design |
 | **English Synonyms** | Communication Design |
 | **German Name** | Kommunikationsdesign |
@@ -4163,10 +2853,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Group Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 262 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-262`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-262) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-262`[🔗](http://w3id.org/arkumu/project-categories/project-category-262) |
 | **English Name** | Group Dance |
 | **German Name** | Gruppentanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -4187,10 +2876,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Haiku
 
-|||
-|-----------|-----------|
+
 | **ID** | 180 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-180`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-180) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-180`[🔗](http://w3id.org/arkumu/project-categories/project-category-180) |
 | **English Name** | Haiku |
 | **German Name** | Haiku |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -4211,10 +2899,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Happening
 
-|||
-|-----------|-----------|
+
 | **ID** | 131 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-131`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-131) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-131`[🔗](http://w3id.org/arkumu/project-categories/project-category-131) |
 | **English Name** | Happening |
 | **German Name** | Happening |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -4236,10 +2923,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Hard Bop
 
-|||
-|-----------|-----------|
+
 | **ID** | 221 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-221`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-221) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-221`[🔗](http://w3id.org/arkumu/project-categories/project-category-221) |
 | **English Name** | Hard Bop |
 | **German Name** | Hard Bop |
 | **German Synonyms** | Hardbop |
@@ -4261,10 +2947,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Hip-Hop
 
-|||
-|-----------|-----------|
+
 | **ID** | 240 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-240`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-240) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-240`[🔗](http://w3id.org/arkumu/project-categories/project-category-240) |
 | **English Name** | Hip-Hop |
 | **German Name** | Hip-Hop |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -4285,10 +2970,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Historical Play
 
-|||
-|-----------|-----------|
+
 | **ID** | 153 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-153`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-153) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-153`[🔗](http://w3id.org/arkumu/project-categories/project-category-153) |
 | **English Name** | Historical Play |
 | **German Name** | Historiendrama |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -4309,10 +2993,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## History Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 287 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-287`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-287) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-287`[🔗](http://w3id.org/arkumu/project-categories/project-category-287) |
 | **English Name** | History Painting |
 | **German Name** | Historienmalerei |
 | **German Synonyms** | Historiengemälde,Historienbild |
@@ -4335,10 +3018,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Holography
 
-|||
-|-----------|-----------|
+
 | **ID** | 125 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-125`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-125) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-125`[🔗](http://w3id.org/arkumu/project-categories/project-category-125) |
 | **English Name** | Holography |
 | **German Name** | Holografie |
 | **German Synonyms** | Holografische Arbeit |
@@ -4361,10 +3043,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Hymn
 
-|||
-|-----------|-----------|
+
 | **ID** | 181 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-181`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-181) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-181`[🔗](http://w3id.org/arkumu/project-categories/project-category-181) |
 | **English Name** | Hymn |
 | **German Name** | Hymne |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -4386,10 +3067,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Improvisational Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 42 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-42) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-42`[🔗](http://w3id.org/arkumu/project-categories/project-category-42) |
 | **English Name** | Improvisational Theatre |
 | **German Name** | Improvisationstheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -4409,10 +3089,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Industrial Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-9) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-9`[🔗](http://w3id.org/arkumu/project-categories/project-category-9) |
 | **English Name** | Industrial Design |
 | **English Synonyms** | Product Design |
 | **German Name** | Industrial Design |
@@ -4436,10 +3115,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 93 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-93`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-93) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-93`[🔗](http://w3id.org/arkumu/project-categories/project-category-93) |
 | **English Name** | Installation |
 | **English Synonyms** | Environment |
 | **German Name** | Installation |
@@ -4463,10 +3141,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Instrumental Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 205 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-205`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-205) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-205`[🔗](http://w3id.org/arkumu/project-categories/project-category-205) |
 | **English Name** | Instrumental Music |
 | **German Name** | Instrumentalmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -4487,10 +3164,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Interactive Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 95 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-95`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-95) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-95`[🔗](http://w3id.org/arkumu/project-categories/project-category-95) |
 | **English Name** | Interactive Art |
 | **German Name** | Interaktive Kunst |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -4512,10 +3188,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Interactive Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 87 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-87`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-87) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-87`[🔗](http://w3id.org/arkumu/project-categories/project-category-87) |
 | **English Name** | Interactive Art |
 | **German Name** | Interaktive Kunst |
 | **Parent Project Category** | [Digital Art](#project-category-80) |
@@ -4537,10 +3212,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Interactive Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 43 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-43) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-43`[🔗](http://w3id.org/arkumu/project-categories/project-category-43) |
 | **English Name** | Interactive Theatre |
 | **German Name** | Interaktives Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -4560,10 +3234,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Interior Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-10) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-10`[🔗](http://w3id.org/arkumu/project-categories/project-category-10) |
 | **English Name** | Interior Design |
 | **German Name** | Innenarchitektur |
 | **German Synonyms** | Mediale Raumgestaltung,Raumgestaltung |
@@ -4586,10 +3259,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Interior Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 290 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-290`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-290) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-290`[🔗](http://w3id.org/arkumu/project-categories/project-category-290) |
 | **English Name** | Interior Painting |
 | **German Name** | Interieurmalerei |
 | **Parent Project Category** | [Painting](#project-category-127) |
@@ -4609,10 +3281,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Intervention
 
-|||
-|-----------|-----------|
+
 | **ID** | 96 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-96`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-96) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-96`[🔗](http://w3id.org/arkumu/project-categories/project-category-96) |
 | **English Name** | Intervention |
 | **German Name** | Intervention |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -4633,10 +3304,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Intervention
 
-|||
-|-----------|-----------|
+
 | **ID** | 132 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-132`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-132) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-132`[🔗](http://w3id.org/arkumu/project-categories/project-category-132) |
 | **English Name** | Intervention |
 | **German Name** | Intervention |
 | **Parent Project Category** | [Performance](#project-category-128) |
@@ -4657,10 +3327,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Interview
 
-|||
-|-----------|-----------|
+
 | **ID** | 273 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-273`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-273) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-273`[🔗](http://w3id.org/arkumu/project-categories/project-category-273) |
 | **English Name** | Interview |
 | **German Name** | Interview |
 | **Parent Project Category** | [Event](#project-category-272) |
@@ -4682,10 +3351,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 206 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-206`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-206) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-206`[🔗](http://w3id.org/arkumu/project-categories/project-category-206) |
 | **English Name** | Jazz |
 | **German Name** | Jazz |
 | **German Synonyms** | Jazzmusik |
@@ -4708,10 +3376,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Jazz Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 263 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-263`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-263) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-263`[🔗](http://w3id.org/arkumu/project-categories/project-category-263) |
 | **English Name** | Jazz Dance |
 | **German Name** | Jazztanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -4732,10 +3399,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Jazz Fusion
 
-|||
-|-----------|-----------|
+
 | **ID** | 222 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-222`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-222) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-222`[🔗](http://w3id.org/arkumu/project-categories/project-category-222) |
 | **English Name** | Jazz Fusion |
 | **German Name** | Jazz Fusion |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -4755,10 +3421,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Landscape Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 284 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-284`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-284) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-284`[🔗](http://w3id.org/arkumu/project-categories/project-category-284) |
 | **English Name** | Landscape Painting |
 | **German Name** | Landschaftsmalerei |
 | **German Synonyms** | Landschaftsgemälde |
@@ -4781,10 +3446,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Landscape Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 24 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-24) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-24`[🔗](http://w3id.org/arkumu/project-categories/project-category-24) |
 | **English Name** | Landscape Photography |
 | **German Name** | Landschaftsfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -4805,10 +3469,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Latin American Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 264 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-264`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-264) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-264`[🔗](http://w3id.org/arkumu/project-categories/project-category-264) |
 | **English Name** | Latin American Dance |
 | **German Name** | Lateinamerikanischer Tanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -4829,10 +3492,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Lecture
 
-|||
-|-----------|-----------|
+
 | **ID** | 277 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-277`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-277) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-277`[🔗](http://w3id.org/arkumu/project-categories/project-category-277) |
 | **English Name** | Lecture |
 | **English Synonyms** | Talk |
 | **German Name** | Vorlesung |
@@ -4856,10 +3518,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Lecture Performance
 
-|||
-|-----------|-----------|
+
 | **ID** | 133 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-133`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-133) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-133`[🔗](http://w3id.org/arkumu/project-categories/project-category-133) |
 | **English Name** | Lecture Performance |
 | **English Synonyms** | Performance Lecture,Performance-Lecture |
 | **German Name** | Performance-Vortrag |
@@ -4882,10 +3543,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Libretto
 
-|||
-|-----------|-----------|
+
 | **ID** | 155 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-155`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-155) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-155`[🔗](http://w3id.org/arkumu/project-categories/project-category-155) |
 | **English Name** | Libretto |
 | **German Name** | Libretto |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -4907,10 +3567,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Light Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 124 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-124`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-124) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-124`[🔗](http://w3id.org/arkumu/project-categories/project-category-124) |
 | **English Name** | Light Art |
 | **German Name** | Lichtkunst |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -4932,10 +3591,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Light Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 100 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-100`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-100) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-100`[🔗](http://w3id.org/arkumu/project-categories/project-category-100) |
 | **English Name** | Light Installation |
 | **German Name** | Lichtinstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -4956,10 +3614,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Light Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 126 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-126`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-126) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-126`[🔗](http://w3id.org/arkumu/project-categories/project-category-126) |
 | **English Name** | Light Installation |
 | **German Name** | Lichtinstallation |
 | **Parent Project Category** | [Light Art](#project-category-124) |
@@ -4980,10 +3637,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Limerick
 
-|||
-|-----------|-----------|
+
 | **ID** | 184 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-184`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-184) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-184`[🔗](http://w3id.org/arkumu/project-categories/project-category-184) |
 | **English Name** | Limerick |
 | **German Name** | Limerick |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -5005,10 +3661,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Line Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 267 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-267`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-267) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-267`[🔗](http://w3id.org/arkumu/project-categories/project-category-267) |
 | **English Name** | Line Dance |
 | **German Name** | Reihentanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -5029,10 +3684,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Listening Piece
 
-|||
-|-----------|-----------|
+
 | **ID** | 105 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-105`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-105) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-105`[🔗](http://w3id.org/arkumu/project-categories/project-category-105) |
 | **English Name** | Listening Piece |
 | **German Name** | Hörstück |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -5053,10 +3707,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Literary Reading
 
-|||
-|-----------|-----------|
+
 | **ID** | 172 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-172`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-172) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-172`[🔗](http://w3id.org/arkumu/project-categories/project-category-172) |
 | **English Name** | Literary Reading |
 | **German Name** | Literaturlesung |
 | **German Synonyms** | Autorenlesung |
@@ -5077,10 +3730,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Literature
 
-|||
-|-----------|-----------|
+
 | **ID** | 150 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-150`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-150) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-150`[🔗](http://w3id.org/arkumu/project-categories/project-category-150) |
 | **English Name** | Literature |
 | **German Name** | Literatur |
 | **German Breadcrumb** | [Literatur](#project-category-150) |
@@ -5101,10 +3753,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Manifesto
 
-|||
-|-----------|-----------|
+
 | **ID** | 192 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-192`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-192) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-192`[🔗](http://w3id.org/arkumu/project-categories/project-category-192) |
 | **English Name** | Manifesto |
 | **German Name** | Manifest |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5126,10 +3777,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Media Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-12) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-12`[🔗](http://w3id.org/arkumu/project-categories/project-category-12) |
 | **English Name** | Media Design |
 | **German Name** | Mediengestaltung |
 | **German Synonyms** | Mediendesign |
@@ -5151,10 +3801,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Memoir
 
-|||
-|-----------|-----------|
+
 | **ID** | 193 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-193`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-193) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-193`[🔗](http://w3id.org/arkumu/project-categories/project-category-193) |
 | **English Name** | Memoir |
 | **German Name** | Memoir |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5175,10 +3824,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Meta-Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 46 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-46) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-46`[🔗](http://w3id.org/arkumu/project-categories/project-category-46) |
 | **English Name** | Meta-Theatre |
 | **German Name** | Metatheater |
 | **German Synonyms** | Metadrama |
@@ -5200,10 +3848,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Metal
 
-|||
-|-----------|-----------|
+
 | **ID** | 241 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-241`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-241) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-241`[🔗](http://w3id.org/arkumu/project-categories/project-category-241) |
 | **English Name** | Metal |
 | **English Synonyms** | Heavy Metal |
 | **German Name** | Metal |
@@ -5225,10 +3872,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Military Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 230 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-230`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-230) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-230`[🔗](http://w3id.org/arkumu/project-categories/project-category-230) |
 | **English Name** | Military Music |
 | **German Name** | Militärmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5249,10 +3895,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Mockumentary
 
-|||
-|-----------|-----------|
+
 | **ID** | 67 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-67`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-67) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-67`[🔗](http://w3id.org/arkumu/project-categories/project-category-67) |
 | **English Name** | Mockumentary |
 | **German Name** | Mockumentary |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -5273,10 +3918,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Model
 
-|||
-|-----------|-----------|
+
 | **ID** | 136 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-136`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-136) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-136`[🔗](http://w3id.org/arkumu/project-categories/project-category-136) |
 | **English Name** | Model |
 | **German Name** | Modell |
 | **German Synonyms** | Maquette |
@@ -5299,10 +3943,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Monodrama
 
-|||
-|-----------|-----------|
+
 | **ID** | 156 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-156`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-156) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-156`[🔗](http://w3id.org/arkumu/project-categories/project-category-156) |
 | **English Name** | Monodrama |
 | **German Name** | Monodrama |
 | **German Synonyms** | Einpersonenstück,Monodram |
@@ -5324,10 +3967,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Morality Play
 
-|||
-|-----------|-----------|
+
 | **ID** | 157 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-157`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-157) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-157`[🔗](http://w3id.org/arkumu/project-categories/project-category-157) |
 | **English Name** | Morality Play |
 | **German Name** | Moralität |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -5349,10 +3991,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 197 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-197`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-197) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-197`[🔗](http://w3id.org/arkumu/project-categories/project-category-197) |
 | **English Name** | Music |
 | **German Name** | Musik |
 | **German Breadcrumb** | [Musik](#project-category-197) |
@@ -5373,10 +4014,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Music Video
 
-|||
-|-----------|-----------|
+
 | **ID** | 69 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-69`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-69) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-69`[🔗](http://w3id.org/arkumu/project-categories/project-category-69) |
 | **English Name** | Music Video |
 | **German Name** | Musikvideo |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -5398,10 +4038,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Musical Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 68 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-68`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-68) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-68`[🔗](http://w3id.org/arkumu/project-categories/project-category-68) |
 | **English Name** | Musical Film |
 | **German Name** | Musikfilm |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -5422,10 +4061,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Musical Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 47 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-47) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-47`[🔗](http://w3id.org/arkumu/project-categories/project-category-47) |
 | **English Name** | Musical Theatre |
 | **German Name** | Musiktheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -5446,10 +4084,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Narrative Story
 
-|||
-|-----------|-----------|
+
 | **ID** | 164 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-164`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-164) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-164`[🔗](http://w3id.org/arkumu/project-categories/project-category-164) |
 | **English Name** | Narrative Story |
 | **German Name** | Erzählung |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5471,10 +4108,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Net Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 88 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-88`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-88) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-88`[🔗](http://w3id.org/arkumu/project-categories/project-category-88) |
 | **English Name** | Net Art |
 | **English Synonyms** | NetArt,Internet Art |
 | **German Name** | Netzkunst |
@@ -5498,10 +4134,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Neue Musik
 
-|||
-|-----------|-----------|
+
 | **ID** | 231 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-231`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-231) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-231`[🔗](http://w3id.org/arkumu/project-categories/project-category-231) |
 | **English Name** | Neue Musik |
 | **German Name** | Neue Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5522,10 +4157,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## New Orleans Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 223 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-223`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-223) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-223`[🔗](http://w3id.org/arkumu/project-categories/project-category-223) |
 | **English Name** | New Orleans Jazz |
 | **German Name** | New Orleans Jazz |
 | **German Synonyms** | New-Orleans-Jazz |
@@ -5547,10 +4181,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## New Wave
 
-|||
-|-----------|-----------|
+
 | **ID** | 242 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-242`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-242) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-242`[🔗](http://w3id.org/arkumu/project-categories/project-category-242) |
 | **English Name** | New Wave |
 | **German Name** | New Wave |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -5571,10 +4204,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Non-european Art Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 198 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-198`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-198) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-198`[🔗](http://w3id.org/arkumu/project-categories/project-category-198) |
 | **English Name** | Non-european Art Music |
 | **German Name** | Außereuropäische Kunstmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5594,10 +4226,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Non-fiction Book
 
-|||
-|-----------|-----------|
+
 | **ID** | 195 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-195`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-195) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-195`[🔗](http://w3id.org/arkumu/project-categories/project-category-195) |
 | **English Name** | Non-fiction Book |
 | **German Name** | Sachbuch |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5619,10 +4250,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Non-fiction Novel
 
-|||
-|-----------|-----------|
+
 | **ID** | 196 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-196`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-196) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-196`[🔗](http://w3id.org/arkumu/project-categories/project-category-196) |
 | **English Name** | Non-fiction Novel |
 | **German Name** | Tatsachenroman |
 | **Parent Project Category** | [Non-fictional Literature](#project-category-187) |
@@ -5642,10 +4272,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Non-fictional Literature
 
-|||
-|-----------|-----------|
+
 | **ID** | 187 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-187`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-187) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-187`[🔗](http://w3id.org/arkumu/project-categories/project-category-187) |
 | **English Name** | Non-fictional Literature |
 | **German Name** | Nichtfiktionale Literatur |
 | **Parent Project Category** | [Literature](#project-category-150) |
@@ -5666,10 +4295,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Novel
 
-|||
-|-----------|-----------|
+
 | **ID** | 170 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-170`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-170) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-170`[🔗](http://w3id.org/arkumu/project-categories/project-category-170) |
 | **English Name** | Novel |
 | **German Name** | Roman |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5691,10 +4319,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Novella
 
-|||
-|-----------|-----------|
+
 | **ID** | 167 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-167`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-167) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-167`[🔗](http://w3id.org/arkumu/project-categories/project-category-167) |
 | **English Name** | Novella |
 | **German Name** | Novelle |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5716,10 +4343,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Nude Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 291 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-291`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-291) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-291`[🔗](http://w3id.org/arkumu/project-categories/project-category-291) |
 | **English Name** | Nude Painting |
 | **German Name** | Aktmalerei |
 | **Parent Project Category** | [Painting](#project-category-127) |
@@ -5740,10 +4366,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## One-act Play
 
-|||
-|-----------|-----------|
+
 | **ID** | 152 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-152`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-152) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-152`[🔗](http://w3id.org/arkumu/project-categories/project-category-152) |
 | **English Name** | One-act Play |
 | **German Name** | Einakter |
 | **German Synonyms** | Kurzdrama |
@@ -5765,10 +4390,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Open-Air Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 41 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-41) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-41`[🔗](http://w3id.org/arkumu/project-categories/project-category-41) |
 | **English Name** | Open-Air Theatre |
 | **German Name** | Freilichttheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -5788,10 +4412,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Opera
 
-|||
-|-----------|-----------|
+
 | **ID** | 279 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-279`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-279) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-279`[🔗](http://w3id.org/arkumu/project-categories/project-category-279) |
 | **English Name** | Opera |
 | **German Name** | Oper |
 | **Parent Project Category** | [Stage Music](#project-category-199) |
@@ -5813,10 +4436,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Orchestral Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 232 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-232`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-232) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-232`[🔗](http://w3id.org/arkumu/project-categories/project-category-232) |
 | **English Name** | Orchestral Music |
 | **German Name** | Orchestermusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -5837,10 +4459,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Painting
 
-|||
-|-----------|-----------|
+
 | **ID** | 127 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-127`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-127) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-127`[🔗](http://w3id.org/arkumu/project-categories/project-category-127) |
 | **English Name** | Painting |
 | **German Name** | Malerei |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -5862,10 +4483,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Panel Discussion
 
-|||
-|-----------|-----------|
+
 | **ID** | 274 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-274`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-274) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-274`[🔗](http://w3id.org/arkumu/project-categories/project-category-274) |
 | **English Name** | Panel Discussion |
 | **German Name** | Podiumsdiskussion |
 | **German Synonyms** | Podiumsgespräch |
@@ -5887,10 +4507,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Parable
 
-|||
-|-----------|-----------|
+
 | **ID** | 168 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-168`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-168) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-168`[🔗](http://w3id.org/arkumu/project-categories/project-category-168) |
 | **English Name** | Parable |
 | **German Name** | Parabel |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -5912,10 +4531,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Partner Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 266 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-266`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-266) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-266`[🔗](http://w3id.org/arkumu/project-categories/project-category-266) |
 | **English Name** | Partner Dance |
 | **German Name** | Paartanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -5936,10 +4554,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Percent for Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 98 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-98`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-98) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-98`[🔗](http://w3id.org/arkumu/project-categories/project-category-98) |
 | **English Name** | Percent for Art |
 | **German Name** | Kunst am Bau |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -5960,10 +4577,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Performance
 
-|||
-|-----------|-----------|
+
 | **ID** | 128 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-128`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-128) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-128`[🔗](http://w3id.org/arkumu/project-categories/project-category-128) |
 | **English Name** | Performance |
 | **German Name** | Performance |
 | **German Synonyms** | Aktionskunst,Handlung |
@@ -5986,10 +4602,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Performing Arts
 
-|||
-|-----------|-----------|
+
 | **ID** | 31 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-31) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-31`[🔗](http://w3id.org/arkumu/project-categories/project-category-31) |
 | **English Name** | Performing Arts |
 | **English Synonyms** | Live Arts |
 | **German Name** | Darstellende Kunst |
@@ -6011,10 +4626,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photo Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 94 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-94`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-94) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-94`[🔗](http://w3id.org/arkumu/project-categories/project-category-94) |
 | **English Name** | Photo Installation |
 | **German Name** | Fotoinstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -6035,10 +4649,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photo Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 121 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-121`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-121) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-121`[🔗](http://w3id.org/arkumu/project-categories/project-category-121) |
 | **English Name** | Photo Installation |
 | **German Name** | Fotoinstallation |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -6059,10 +4672,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photobook
 
-|||
-|-----------|-----------|
+
 | **ID** | 119 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-119`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-119) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-119`[🔗](http://w3id.org/arkumu/project-categories/project-category-119) |
 | **English Name** | Photobook |
 | **English Synonyms** | Photo-Book,Photo Book |
 | **German Name** | Fotobuch |
@@ -6085,10 +4697,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photogrammetry
 
-|||
-|-----------|-----------|
+
 | **ID** | 120 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-120`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-120) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-120`[🔗](http://w3id.org/arkumu/project-categories/project-category-120) |
 | **English Name** | Photogrammetry |
 | **German Name** | Fotogrammetrie |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -6110,10 +4721,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photogrammetry
 
-|||
-|-----------|-----------|
+
 | **ID** | 21 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-21) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-21`[🔗](http://w3id.org/arkumu/project-categories/project-category-21) |
 | **English Name** | Photogrammetry |
 | **German Name** | Fotogrammetrie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -6135,10 +4745,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 18 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-18) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-18`[🔗](http://w3id.org/arkumu/project-categories/project-category-18) |
 | **English Name** | Photography |
 | **German Name** | Fotografie |
 | **Parent Project Category** | [Applied Arts](#project-category-5) |
@@ -6160,10 +4769,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Photojournalism
 
-|||
-|-----------|-----------|
+
 | **ID** | 22 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-22) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-22`[🔗](http://w3id.org/arkumu/project-categories/project-category-22) |
 | **English Name** | Photojournalism |
 | **German Name** | Fotojournalismus |
 | **German Synonyms** | Bildjournalismus,Bildpublizistik,Bildberichterstattung |
@@ -6186,10 +4794,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Physical Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 48 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-48) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-48`[🔗](http://w3id.org/arkumu/project-categories/project-category-48) |
 | **English Name** | Physical Theatre |
 | **German Name** | Physical Theatre |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6209,10 +4816,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Podcast
 
-|||
-|-----------|-----------|
+
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-3) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-3`[🔗](http://w3id.org/arkumu/project-categories/project-category-3) |
 | **English Name** | Podcast |
 | **German Name** | Podcast |
 | **Parent Project Category** | [Academic Publication](#project-category-1) |
@@ -6234,10 +4840,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Podcast
 
-|||
-|-----------|-----------|
+
 | **ID** | 114 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-114`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-114) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-114`[🔗](http://w3id.org/arkumu/project-categories/project-category-114) |
 | **English Name** | Podcast |
 | **German Name** | Podcast |
 | **Parent Project Category** | [Artist's Publication](#project-category-111) |
@@ -6259,10 +4864,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Poem
 
-|||
-|-----------|-----------|
+
 | **ID** | 178 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-178`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-178) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-178`[🔗](http://w3id.org/arkumu/project-categories/project-category-178) |
 | **English Name** | Poem |
 | **German Name** | Gedicht |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -6283,10 +4887,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Poetry
 
-|||
-|-----------|-----------|
+
 | **ID** | 173 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-173`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-173) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-173`[🔗](http://w3id.org/arkumu/project-categories/project-category-173) |
 | **English Name** | Poetry |
 | **German Name** | Lyrik |
 | **German Synonyms** | Poesie |
@@ -6309,10 +4912,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Poetry Collection
 
-|||
-|-----------|-----------|
+
 | **ID** | 179 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-179`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-179) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-179`[🔗](http://w3id.org/arkumu/project-categories/project-category-179) |
 | **English Name** | Poetry Collection |
 | **German Name** | Gedichtsammlung |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -6332,10 +4934,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Political Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 49 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-49) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-49`[🔗](http://w3id.org/arkumu/project-categories/project-category-49) |
 | **English Name** | Political Theatre |
 | **German Name** | Politisches Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6356,10 +4957,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Pop
 
-|||
-|-----------|-----------|
+
 | **ID** | 243 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-243`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-243) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-243`[🔗](http://w3id.org/arkumu/project-categories/project-category-243) |
 | **English Name** | Pop |
 | **German Name** | Pop |
 | **German Synonyms** | Popmusik |
@@ -6381,10 +4981,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Poplular Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 265 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-265`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-265) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-265`[🔗](http://w3id.org/arkumu/project-categories/project-category-265) |
 | **English Name** | Poplular Dance |
 | **German Name** | Modetanz |
 | **Parent Project Category** | [Dance](#project-category-260) |
@@ -6405,10 +5004,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Popular Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 233 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-233`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-233) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-233`[🔗](http://w3id.org/arkumu/project-categories/project-category-233) |
 | **English Name** | Popular Music |
 | **German Name** | Popularmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -6428,10 +5026,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Portrait
 
-|||
-|-----------|-----------|
+
 | **ID** | 283 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-283`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-283) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-283`[🔗](http://w3id.org/arkumu/project-categories/project-category-283) |
 | **English Name** | Portrait |
 | **English Synonyms** | Portrait Painting |
 | **German Name** | Portrait |
@@ -6455,10 +5052,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Portrait Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 26 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-26) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-26`[🔗](http://w3id.org/arkumu/project-categories/project-category-26) |
 | **English Name** | Portrait Photography |
 | **German Name** | Porträtfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -6480,10 +5076,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Postdramatic Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 50 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-50) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-50`[🔗](http://w3id.org/arkumu/project-categories/project-category-50) |
 | **English Name** | Postdramatic Theatre |
 | **German Name** | Postdramatisches Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6504,10 +5099,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Postmodern Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 51 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-51) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-51`[🔗](http://w3id.org/arkumu/project-categories/project-category-51) |
 | **English Name** | Postmodern Theatre |
 | **German Name** | Postmodernes Theater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -6527,10 +5121,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Presentation
 
-|||
-|-----------|-----------|
+
 | **ID** | 278 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-278`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-278) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-278`[🔗](http://w3id.org/arkumu/project-categories/project-category-278) |
 | **English Name** | Presentation |
 | **German Name** | Vortrag |
 | **German Synonyms** | Referat,Präsentation |
@@ -6553,10 +5146,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Printmaking
 
-|||
-|-----------|-----------|
+
 | **ID** | 149 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-149`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-149) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-149`[🔗](http://w3id.org/arkumu/project-categories/project-category-149) |
 | **English Name** | Printmaking |
 | **German Name** | Druckgrafik |
 | **German Synonyms** | Grafik |
@@ -6579,10 +5171,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Product Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 27 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-27) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-27`[🔗](http://w3id.org/arkumu/project-categories/project-category-27) |
 | **English Name** | Product Photography |
 | **German Name** | Produktfotografie |
 | **German Synonyms** | Sachfotografie |
@@ -6604,10 +5195,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Progressive Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 224 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-224`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-224) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-224`[🔗](http://w3id.org/arkumu/project-categories/project-category-224) |
 | **English Name** | Progressive Jazz |
 | **German Name** | Progressive Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -6627,10 +5217,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Projection Mapping
 
-|||
-|-----------|-----------|
+
 | **ID** | 140 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-140`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-140) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-140`[🔗](http://w3id.org/arkumu/project-categories/project-category-140) |
 | **English Name** | Projection Mapping |
 | **German Name** | Projektionsmapping |
 | **German Synonyms** | Videomapping |
@@ -6651,10 +5240,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Public Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 99 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-99`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-99) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-99`[🔗](http://w3id.org/arkumu/project-categories/project-category-99) |
 | **English Name** | Public Art |
 | **German Name** | Kunst im öffentlichen Raum |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -6676,10 +5264,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Punk
 
-|||
-|-----------|-----------|
+
 | **ID** | 244 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-244`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-244) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-244`[🔗](http://w3id.org/arkumu/project-categories/project-category-244) |
 | **English Name** | Punk |
 | **German Name** | Punk |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -6700,10 +5287,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Puppetry Arts
 
-|||
-|-----------|-----------|
+
 | **ID** | 40 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-40) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-40`[🔗](http://w3id.org/arkumu/project-categories/project-category-40) |
 | **English Name** | Puppetry Arts |
 | **German Name** | Figurentheater |
 | **German Synonyms** | Puppentheater, Puppenspiel |
@@ -6725,10 +5311,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Radio Programme
 
-|||
-|-----------|-----------|
+
 | **ID** | 282 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-282`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-282) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-282`[🔗](http://w3id.org/arkumu/project-categories/project-category-282) |
 | **English Name** | Radio Programme |
 | **English Synonyms** | Radio Show,Radio Program |
 | **German Name** | Radiosendung |
@@ -6752,10 +5337,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ragtime
 
-|||
-|-----------|-----------|
+
 | **ID** | 225 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-225`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-225) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-225`[🔗](http://w3id.org/arkumu/project-categories/project-category-225) |
 | **English Name** | Ragtime |
 | **German Name** | Ragtime |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -6776,10 +5360,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Reference Work
 
-|||
-|-----------|-----------|
+
 | **ID** | 186 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-186`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-186) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-186`[🔗](http://w3id.org/arkumu/project-categories/project-category-186) |
 | **English Name** | Reference Work |
 | **English Synonyms** | Reference Book |
 | **German Name** | Nachschlagewerk |
@@ -6802,10 +5385,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Reggae
 
-|||
-|-----------|-----------|
+
 | **ID** | 246 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-246`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-246) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-246`[🔗](http://w3id.org/arkumu/project-categories/project-category-246) |
 | **English Name** | Reggae |
 | **German Name** | Reggae |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -6826,10 +5408,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Reportage
 
-|||
-|-----------|-----------|
+
 | **ID** | 70 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-70`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-70) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-70`[🔗](http://w3id.org/arkumu/project-categories/project-category-70) |
 | **English Name** | Reportage |
 | **German Name** | Reportage |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -6850,10 +5431,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Reportage
 
-|||
-|-----------|-----------|
+
 | **ID** | 169 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-169`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-169) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-169`[🔗](http://w3id.org/arkumu/project-categories/project-category-169) |
 | **English Name** | Reportage |
 | **German Name** | Reportage |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -6874,10 +5454,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Rock
 
-|||
-|-----------|-----------|
+
 | **ID** | 247 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-247`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-247) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-247`[🔗](http://w3id.org/arkumu/project-categories/project-category-247) |
 | **English Name** | Rock |
 | **German Name** | Rock |
 | **German Synonyms** | Rockmusik |
@@ -6899,10 +5478,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Rock and Roll
 
-|||
-|-----------|-----------|
+
 | **ID** | 248 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-248`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-248) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-248`[🔗](http://w3id.org/arkumu/project-categories/project-category-248) |
 | **English Name** | Rock and Roll |
 | **German Name** | Rock and Roll |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -6923,10 +5501,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Rythm and Blues
 
-|||
-|-----------|-----------|
+
 | **ID** | 245 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-245`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-245) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-245`[🔗](http://w3id.org/arkumu/project-categories/project-category-245) |
 | **English Name** | Rythm and Blues |
 | **English Synonyms** | Rhythm & Blues,R&B,R ’n’ B,RnB,R'n'B |
 | **German Name** | Rythm and Blues |
@@ -6949,10 +5526,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sacred Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 204 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-204`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-204) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-204`[🔗](http://w3id.org/arkumu/project-categories/project-category-204) |
 | **English Name** | Sacred Music |
 | **German Name** | Geistliche Musik |
 | **German Synonyms** | Kirchenmusik,sakrale Musik,Sakralmusik,religiöse Musik,Religious Music |
@@ -6974,10 +5550,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Satire
 
-|||
-|-----------|-----------|
+
 | **ID** | 171 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-171`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-171) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-171`[🔗](http://w3id.org/arkumu/project-categories/project-category-171) |
 | **English Name** | Satire |
 | **German Name** | Satire |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -6999,10 +5574,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Schlager
 
-|||
-|-----------|-----------|
+
 | **ID** | 249 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-249`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-249) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-249`[🔗](http://w3id.org/arkumu/project-categories/project-category-249) |
 | **English Name** | Schlager |
 | **German Name** | Schlager |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -7023,10 +5597,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Screenplay
 
-|||
-|-----------|-----------|
+
 | **ID** | 60 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-60`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-60) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-60`[🔗](http://w3id.org/arkumu/project-categories/project-category-60) |
 | **English Name** | Screenplay |
 | **English Synonyms** | Film Script |
 | **German Name** | Drehbuch |
@@ -7049,10 +5622,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Screenplay
 
-|||
-|-----------|-----------|
+
 | **ID** | 162 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-162`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-162) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-162`[🔗](http://w3id.org/arkumu/project-categories/project-category-162) |
 | **English Name** | Screenplay |
 | **English Synonyms** | Film Script |
 | **German Name** | Drehbuch |
@@ -7075,10 +5647,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sculpture
 
-|||
-|-----------|-----------|
+
 | **ID** | 135 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-135`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-135) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-135`[🔗](http://w3id.org/arkumu/project-categories/project-category-135) |
 | **English Name** | Sculpture |
 | **German Name** | Skulptur |
 | **German Synonyms** | Plastik,Bildhauerkunst,Bildhauerei,Objekt,Objektkunst |
@@ -7101,10 +5672,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Secular Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 258 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-258`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-258) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-258`[🔗](http://w3id.org/arkumu/project-categories/project-category-258) |
 | **English Name** | Secular Music |
 | **German Name** | Weltliche Musik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7125,10 +5695,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Self-help Book
 
-|||
-|-----------|-----------|
+
 | **ID** | 194 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-194`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-194) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-194`[🔗](http://w3id.org/arkumu/project-categories/project-category-194) |
 | **English Name** | Self-help Book |
 | **German Name** | Ratgeber |
 | **German Synonyms** | Selbsthilfeliteratur |
@@ -7150,10 +5719,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Short Documentary Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 59 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-59`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-59) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-59`[🔗](http://w3id.org/arkumu/project-categories/project-category-59) |
 | **English Name** | Short Documentary Film |
 | **German Name** | Kurz-Dokumentarfilm |
 | **Parent Project Category** | [Documentary Film](#project-category-58) |
@@ -7174,10 +5742,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Short Film
 
-|||
-|-----------|-----------|
+
 | **ID** | 73 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-73`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-73) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-73`[🔗](http://w3id.org/arkumu/project-categories/project-category-73) |
 | **English Name** | Short Film |
 | **German Name** | Kurzspielfilm |
 | **German Synonyms** | Kurzfilm |
@@ -7200,10 +5767,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Short Story
 
-|||
-|-----------|-----------|
+
 | **ID** | 165 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-165`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-165) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-165`[🔗](http://w3id.org/arkumu/project-categories/project-category-165) |
 | **English Name** | Short Story |
 | **German Name** | Kurzgeschichte |
 | **Parent Project Category** | [Epic Literature](#project-category-163) |
@@ -7225,10 +5791,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Singer-Songwriter
 
-|||
-|-----------|-----------|
+
 | **ID** | 250 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-250`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-250) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-250`[🔗](http://w3id.org/arkumu/project-categories/project-category-250) |
 | **English Name** | Singer-Songwriter |
 | **German Name** | Singer/Songwriter/Liedermacher |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -7248,10 +5813,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Ska
 
-|||
-|-----------|-----------|
+
 | **ID** | 251 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-251`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-251) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-251`[🔗](http://w3id.org/arkumu/project-categories/project-category-251) |
 | **English Name** | Ska |
 | **German Name** | Ska |
 | **Parent Project Category** | [Popular Music](#project-category-233) |
@@ -7272,10 +5836,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Smooth Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 226 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-226`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-226) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-226`[🔗](http://w3id.org/arkumu/project-categories/project-category-226) |
 | **English Name** | Smooth Jazz |
 | **German Name** | Smooth Jazz |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -7295,10 +5858,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Software
 
-|||
-|-----------|-----------|
+
 | **ID** | 89 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-89`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-89) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-89`[🔗](http://w3id.org/arkumu/project-categories/project-category-89) |
 | **English Name** | Software |
 | **German Name** | Software |
 | **German Synonyms** | Softwarekunst |
@@ -7319,10 +5881,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Solo Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 268 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-268`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-268) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-268`[🔗](http://w3id.org/arkumu/project-categories/project-category-268) |
 | **English Name** | Solo Dance |
 | **German Name** | Solotanz |
 | **German Synonyms** | Einzeltanz |
@@ -7344,10 +5905,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Solo Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 252 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-252`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-252) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-252`[🔗](http://w3id.org/arkumu/project-categories/project-category-252) |
 | **English Name** | Solo Music |
 | **German Name** | Solomusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7367,10 +5927,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Song Lyrics
 
-|||
-|-----------|-----------|
+
 | **ID** | 185 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-185`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-185) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-185`[🔗](http://w3id.org/arkumu/project-categories/project-category-185) |
 | **English Name** | Song Lyrics |
 | **German Name** | Songtext |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -7391,10 +5950,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sound Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 102 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-102`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-102) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-102`[🔗](http://w3id.org/arkumu/project-categories/project-category-102) |
 | **English Name** | Sound Art |
 | **German Name** | Klangkunst |
 | **German Synonyms** | Klang |
@@ -7417,10 +5975,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sound Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 14 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-14) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-14`[🔗](http://w3id.org/arkumu/project-categories/project-category-14) |
 | **English Name** | Sound Design |
 | **German Name** | Sound-Design |
 | **German Synonyms** | Tongestaltung |
@@ -7442,10 +5999,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sound Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 97 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-97`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-97) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-97`[🔗](http://w3id.org/arkumu/project-categories/project-category-97) |
 | **English Name** | Sound Installation |
 | **German Name** | Klanginstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -7466,10 +6022,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sound Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 106 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-106`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-106) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-106`[🔗](http://w3id.org/arkumu/project-categories/project-category-106) |
 | **English Name** | Sound Installation |
 | **German Name** | Klanginstallation |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -7490,10 +6045,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sound Poetry
 
-|||
-|-----------|-----------|
+
 | **ID** | 183 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-183`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-183) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-183`[🔗](http://w3id.org/arkumu/project-categories/project-category-183) |
 | **English Name** | Sound Poetry |
 | **German Name** | Lautgedicht |
 | **Parent Project Category** | [Poetry](#project-category-173) |
@@ -7515,10 +6069,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Sound Sculpture
 
-|||
-|-----------|-----------|
+
 | **ID** | 107 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-107`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-107) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-107`[🔗](http://w3id.org/arkumu/project-categories/project-category-107) |
 | **English Name** | Sound Sculpture |
 | **German Name** | Klangobjekt |
 | **German Synonyms** | Akustische Skulptur |
@@ -7541,10 +6094,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Soundtrack
 
-|||
-|-----------|-----------|
+
 | **ID** | 110 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-110`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-110) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-110`[🔗](http://w3id.org/arkumu/project-categories/project-category-110) |
 | **English Name** | Soundtrack |
 | **German Name** | Soundtrack |
 | **Parent Project Category** | [Sound Art](#project-category-102) |
@@ -7566,10 +6118,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Soundtrack
 
-|||
-|-----------|-----------|
+
 | **ID** | 253 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-253`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-253) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-253`[🔗](http://w3id.org/arkumu/project-categories/project-category-253) |
 | **English Name** | Soundtrack |
 | **German Name** | Soundtrack |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7591,10 +6142,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Soundtrack
 
-|||
-|-----------|-----------|
+
 | **ID** | 71 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-71`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-71) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-71`[🔗](http://w3id.org/arkumu/project-categories/project-category-71) |
 | **English Name** | Soundtrack |
 | **German Name** | Soundtrack |
 | **Parent Project Category** | [Film/TV](#project-category-55) |
@@ -7616,10 +6166,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Speech
 
-|||
-|-----------|-----------|
+
 | **ID** | 275 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-275`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-275) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-275`[🔗](http://w3id.org/arkumu/project-categories/project-category-275) |
 | **English Name** | Speech |
 | **English Synonyms** | Oration,Address |
 | **German Name** | Rede |
@@ -7643,10 +6192,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Spoken Drama
 
-|||
-|-----------|-----------|
+
 | **ID** | 53 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-53) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-53`[🔗](http://w3id.org/arkumu/project-categories/project-category-53) |
 | **English Name** | Spoken Drama |
 | **English Synonyms** | Drama,Common Theatre |
 | **German Name** | Sprechtheater |
@@ -7669,10 +6217,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Stage Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 199 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-199`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-199) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-199`[🔗](http://w3id.org/arkumu/project-categories/project-category-199) |
 | **English Name** | Stage Music |
 | **German Name** | Bühnenmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -7693,10 +6240,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Staged Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 23 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-23) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-23`[🔗](http://w3id.org/arkumu/project-categories/project-category-23) |
 | **English Name** | Staged Photography |
 | **German Name** | Inszenierte Fotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -7717,10 +6263,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Staged Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 122 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-122`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-122) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-122`[🔗](http://w3id.org/arkumu/project-categories/project-category-122) |
 | **English Name** | Staged Photography |
 | **German Name** | Inszenierte Fotografie |
 | **Parent Project Category** | [Fine Art Photography](#project-category-116) |
@@ -7741,10 +6286,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Still Life
 
-|||
-|-----------|-----------|
+
 | **ID** | 285 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-285`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-285) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-285`[🔗](http://w3id.org/arkumu/project-categories/project-category-285) |
 | **English Name** | Still Life |
 | **English Synonyms** | Still-Life Art |
 | **German Name** | Stilleben |
@@ -7767,10 +6311,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Street Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 270 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-270`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-270) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-270`[🔗](http://w3id.org/arkumu/project-categories/project-category-270) |
 | **English Name** | Street Dance |
 | **English Synonyms** | Breakdance |
 | **German Name** | Streetdance |
@@ -7793,10 +6336,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Street Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 52 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-52) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-52`[🔗](http://w3id.org/arkumu/project-categories/project-category-52) |
 | **English Name** | Street Theatre |
 | **German Name** | Straßentheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |
@@ -7818,10 +6360,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Swing
 
-|||
-|-----------|-----------|
+
 | **ID** | 227 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-227`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-227) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-227`[🔗](http://w3id.org/arkumu/project-categories/project-category-227) |
 | **English Name** | Swing |
 | **German Name** | Swing |
 | **Parent Project Category** | [Jazz](#project-category-206) |
@@ -7842,10 +6383,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Television Programme
 
-|||
-|-----------|-----------|
+
 | **ID** | 75 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-75`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-75) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-75`[🔗](http://w3id.org/arkumu/project-categories/project-category-75) |
 | **English Name** | Television Programme |
 | **English Synonyms** | TV Program,TV Show,Television Program |
 | **German Name** | TV-Format |
@@ -7869,10 +6409,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Textile Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 15 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-15) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-15`[🔗](http://w3id.org/arkumu/project-categories/project-category-15) |
 | **English Name** | Textile Design |
 | **German Name** | Textildesign |
 | **Parent Project Category** | [Design](#project-category-7) |
@@ -7894,10 +6433,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-32) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-32`[🔗](http://w3id.org/arkumu/project-categories/project-category-32) |
 | **English Name** | Theatre |
 | **German Name** | Theater |
 | **Parent Project Category** | [Performing Arts](#project-category-31) |
@@ -7919,10 +6457,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Theatre of the Absurd
 
-|||
-|-----------|-----------|
+
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-33) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-33`[🔗](http://w3id.org/arkumu/project-categories/project-category-33) |
 | **English Name** | Theatre of the Absurd |
 | **German Name** | Absurdes Theater |
 | **German Synonyms** | Antitheater,Absurdes Drama |
@@ -7944,10 +6481,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Theatrical Photography
 
-|||
-|-----------|-----------|
+
 | **ID** | 28 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-28) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-28`[🔗](http://w3id.org/arkumu/project-categories/project-category-28) |
 | **English Name** | Theatrical Photography |
 | **German Name** | Theaterfotografie |
 | **Parent Project Category** | [Photography](#project-category-18) |
@@ -7968,10 +6504,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Tragedy
 
-|||
-|-----------|-----------|
+
 | **ID** | 160 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-160`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-160) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-160`[🔗](http://w3id.org/arkumu/project-categories/project-category-160) |
 | **English Name** | Tragedy |
 | **German Name** | Tragödie |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -7993,10 +6528,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Transformation Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 16 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-16) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-16`[🔗](http://w3id.org/arkumu/project-categories/project-category-16) |
 | **English Name** | Transformation Design |
 | **German Name** | Transformation Design |
 | **Parent Project Category** | [Design](#project-category-7) |
@@ -8016,10 +6550,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## User Interface
 
-|||
-|-----------|-----------|
+
 | **ID** | 90 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-90`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-90) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-90`[🔗](http://w3id.org/arkumu/project-categories/project-category-90) |
 | **English Name** | User Interface |
 | **English Synonyms** | UI,Interface |
 | **German Name** | User Interface |
@@ -8042,10 +6575,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## User Interface Design
 
-|||
-|-----------|-----------|
+
 | **ID** | 17 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-17) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-17`[🔗](http://w3id.org/arkumu/project-categories/project-category-17) |
 | **English Name** | User Interface Design |
 | **English Synonyms** | UI Design |
 | **German Name** | User Interface Design |
@@ -8067,10 +6599,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Verse Drama
 
-|||
-|-----------|-----------|
+
 | **ID** | 161 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-161`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-161) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-161`[🔗](http://w3id.org/arkumu/project-categories/project-category-161) |
 | **English Name** | Verse Drama |
 | **German Name** | Versdrama |
 | **Parent Project Category** | [Drama](#project-category-151) |
@@ -8092,10 +6623,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Video Art
 
-|||
-|-----------|-----------|
+
 | **ID** | 138 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-138`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-138) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-138`[🔗](http://w3id.org/arkumu/project-categories/project-category-138) |
 | **English Name** | Video Art |
 | **German Name** | Videokunst |
 | **Parent Project Category** | [Art](#project-category-78) |
@@ -8117,10 +6647,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Video Essay
 
-|||
-|-----------|-----------|
+
 | **ID** | 141 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-141`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-141) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-141`[🔗](http://w3id.org/arkumu/project-categories/project-category-141) |
 | **English Name** | Video Essay |
 | **German Name** | Video-Essay |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -8140,10 +6669,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Video Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 101 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-101`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-101) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-101`[🔗](http://w3id.org/arkumu/project-categories/project-category-101) |
 | **English Name** | Video Installation |
 | **German Name** | Videoinstallation |
 | **Parent Project Category** | [Installation](#project-category-93) |
@@ -8164,10 +6692,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Video Installation
 
-|||
-|-----------|-----------|
+
 | **ID** | 142 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-142`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-142) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-142`[🔗](http://w3id.org/arkumu/project-categories/project-category-142) |
 | **English Name** | Video Installation |
 | **German Name** | Videoinstallation |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -8188,10 +6715,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Video Performance
 
-|||
-|-----------|-----------|
+
 | **ID** | 143 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-143`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-143) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-143`[🔗](http://w3id.org/arkumu/project-categories/project-category-143) |
 | **English Name** | Video Performance |
 | **German Name** | Videoperformance |
 | **German Synonyms** | Video-Performance |
@@ -8212,10 +6738,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Video Sculpture
 
-|||
-|-----------|-----------|
+
 | **ID** | 144 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-144`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-144) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-144`[🔗](http://w3id.org/arkumu/project-categories/project-category-144) |
 | **English Name** | Video Sculpture |
 | **German Name** | Videoskulptur |
 | **Parent Project Category** | [Video Art](#project-category-138) |
@@ -8235,10 +6760,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Virtual Reality
 
-|||
-|-----------|-----------|
+
 | **ID** | 145 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-145`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-145) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-145`[🔗](http://w3id.org/arkumu/project-categories/project-category-145) |
 | **English Name** | Virtual Reality |
 | **English Synonyms** | VR |
 | **German Name** | Virtual Reality |
@@ -8262,10 +6786,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Virtual Reality
 
-|||
-|-----------|-----------|
+
 | **ID** | 91 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-91`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-91) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-91`[🔗](http://w3id.org/arkumu/project-categories/project-category-91) |
 | **English Name** | Virtual Reality |
 | **English Synonyms** | VR |
 | **German Name** | Virtual Reality |
@@ -8289,10 +6812,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Vocal Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 257 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-257`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-257) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-257`[🔗](http://w3id.org/arkumu/project-categories/project-category-257) |
 | **English Name** | Vocal Music |
 | **German Name** | Vokalmusik |
 | **Parent Project Category** | [Music](#project-category-197) |
@@ -8313,10 +6835,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Web Series
 
-|||
-|-----------|-----------|
+
 | **ID** | 92 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-92`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-92) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-92`[🔗](http://w3id.org/arkumu/project-categories/project-category-92) |
 | **English Name** | Web Series |
 | **English Synonyms** | VLOG,Video Blog,Serial |
 | **German Name** | Webserie |
@@ -8339,10 +6860,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Web Series
 
-|||
-|-----------|-----------|
+
 | **ID** | 76 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-76`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-76) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-76`[🔗](http://w3id.org/arkumu/project-categories/project-category-76) |
 | **English Name** | Web Series |
 | **English Synonyms** | VLOG,Video Blog,Serial |
 | **German Name** | Webserie |
@@ -8365,10 +6885,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Website
 
-|||
-|-----------|-----------|
+
 | **ID** | 115 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-115`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-115) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-115`[🔗](http://w3id.org/arkumu/project-categories/project-category-115) |
 | **English Name** | Website |
 | **German Name** | Webseite |
 | **Parent Project Category** | [Artist's Publication](#project-category-111) |
@@ -8390,10 +6909,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Website
 
-|||
-|-----------|-----------|
+
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-4) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-4`[🔗](http://w3id.org/arkumu/project-categories/project-category-4) |
 | **English Name** | Website |
 | **German Name** | Webseite |
 | **Parent Project Category** | [Academic Publication](#project-category-1) |
@@ -8415,10 +6933,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## West Coast Jazz
 
-|||
-|-----------|-----------|
+
 | **ID** | 228 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-228`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-228) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-228`[🔗](http://w3id.org/arkumu/project-categories/project-category-228) |
 | **English Name** | West Coast Jazz |
 | **German Name** | West Coast Jazz |
 | **German Synonyms** | West-Coast-Jazz |
@@ -8440,10 +6957,9 @@ Project categories classify a project in a primarily artistic sense. [Project Ty
 
 ## Youth Theatre
 
-|||
-|-----------|-----------|
+
 | **ID** | 44 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/project-categories#project-category-44) |
+| **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-44`[🔗](http://w3id.org/arkumu/project-categories/project-category-44) |
 | **English Name** | Youth Theatre |
 | **German Name** | Jugendtheater |
 | **Parent Project Category** | [Theatre](#project-category-32) |

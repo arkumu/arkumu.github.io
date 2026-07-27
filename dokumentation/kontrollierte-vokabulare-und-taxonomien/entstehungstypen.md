@@ -36,7 +36,7 @@ Typische Retrodigitalisate sind im Nachhinein digitalisierte Aufnahmen von Tonb�
 
 The Genesis Type describes whether a digital object was originally created digitally or whether it is a digitised copy of a pre-existing information carrier. The key consideration here should be how the “authentic original” was created.
 
-For example: Analog film footage is shot for a video production with the intention of digital post-production. The finished product is created digitally; therefore, the video is “born digital,” even though analog material was used. A simpler example is photographs taken with digital cameras: here, the goal (the “authentic original”) is the digital photograph.
+For example: Analog film footage is shot for a video production with the intention of digital post-production. The finished product is created digitally; therefore, the video is “born digital”, even though analog material was used. A simpler example is photographs taken with digital cameras: here, the goal (the “authentic original”) is the digital photograph.
 
 Typical examples of retro-digitised material include recordings from audio tapes or vinyl records that were digitised retrospectively, as well as scans or photographs of sketches, posters, or books.
 

@@ -129,8 +129,6 @@ Value lists represent the simplest structured form of a controlled vocabulary. T
 
 Taxonomien ordnen Konzepte hierarchisch. Sie können als Baumstruktur dargestellt werden, in der sich die Konzepte von allgemeinen zu spezifischeren Konzepten verzweigen. 
 
-Um das System leicht pflegebar zu halten, verwendet arkumu.nrw keine ontologischen Strukturen. Dies hat zur Folge, dass bei den [Projektkategorien](/documentation/controlled-vocabularies/project-categories) ein Begriff in mehreren Hierarchien gleichzeitig auftauchen kann. Beispiel: Der Begriff "Drehbuch" kann sowohl dem Überbegriff "Film/TV" als auch "Literatur" zugeordnet sein, je nachdem, in welchem Lehrgebiet das Projekt entstanden ist. Ontologien können ein solches "child" mit mehreren "parents" problemlos abbilden; Taxonomien nicht. Deshalb taucht der Begriff mehrmals auf. Beim Erfassen eines Projekts ist deshalb immer der gesamte Hierarchiebaum ("breadcrumb") zu berücksichtigen.
-
 <br/>
 
 ---
@@ -138,8 +136,6 @@ Um das System leicht pflegebar zu halten, verwendet arkumu.nrw keine ontologisch
 **English:**
 
 Taxonomies organise concepts hierarchically. They can be represented as a tree structure, where concepts branch from general to more specific ones. 
-
-To keep the system easily updatable, arkumu.nrw does not use ontological structures. This means that in the [project categories](/documentation/controlled-vocabularies/project-categories), a term can appear in multiple hierarchies simultaneously. Example: The term “screenplay” can be assigned to both the umbrella term “Film/TV” and “Literature,” depending on the academic discipline in which the project was created. Ontologies can easily represent such a “child” with multiple “parents”; taxonomies cannot. That is why the term appears multiple times. When creating a project, the entire hierarchy tree (“breadcrumb”) should therefore always be taken into account.
 
 <br/>
 <br/>

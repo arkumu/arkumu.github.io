@@ -9,13 +9,18 @@ permalink: /documentation/controlled-vocabularies/organisational-units
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/organisational-units](http://w3id.org/arkumu/organisational-units)
+
+
 ---
 
 <br/>
 
 **Deutsch:**
 
-Organisationseinheiten umfassen – in Form eines kontrollierten Vokabulars – Studiengänge, Forschungsinstitute oder Archive der einliefernden Hochschulen. Einheiten externer Hochschulen werden durch die Organisationseinheit [Kooperationen](#organisational-unit-213) ausgedrückt. Organisationseinheiten haben keinerlei rechtliche Funktion innerhalb von arkumu.nrw. Sie dienen als Metadatum und der Zuordnung der Datensätze innerhalb der einliefernden Hochschule.
+Organisationseinheiten umfassen Studiengänge, Forschungsinstitute, Archive oder andere Einrichtungen der einliefernden Hochschulen und helfen, den Entstehungskontext von Projekten zu beschreiben. Einheiten externer Hochschulen werden durch die Organisationseinheit [Kooperationen](#organisational-unit-213) ausgedrückt.
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
 
 <br/>
 
@@ -25,965 +30,14 @@ Organisationseinheiten umfassen – in Form eines kontrollierten Vokabulars – 
 
 **English:**
 
-Organisational Units include—using a controlled vocabulary—degree programs, research institutes, or archives of the contributing universities. Units belonging to external universities are represented through the Organisational Unit [Cooperations](#organisational-unit-213). Organisational units have no legal function within arkumu.nrw. Rather, they serve as metadata and help assign records within the contributing institution.
+Organisational Units include degree programmes, research institutes, archives or other facilities at the contributing higher education institutions and help to describe the context in which projects were developed. Units at external higher education institutions are represented by the Organisational Unit [Cooperations](#organisational-unit-213).
+
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 
 ---
 
-<br/>
-
-| Format | Link | Last Updated |
-|-----------|-----------|-----------|
-| **CSV** | <https://docs.arkumu.nrw/assets/documents/Organisational_Units.csv> | 2025-11-02 |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Organisational_Units.xlsx> | 2025-11-02 |
-| **PDF** | <https://docs.arkumu.nrw/assets/documents/Organisational_Units.pdf> | 2025-11-02 |
-
-<br/>
-
----
-
-<br/>
-
-<details><summary>Organisational Units ordered by ID | Organisationseinheiten nach ID geordnet</summary>
-<table>
-<tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='#organisational-unit-1'>1</a></td><td><a href='#organisational-unit-1'>Folkwang Universität der Künste</a></td><td><a href='#organisational-unit-1'>Folkwang University of the Arts</a></td></tr>
-<tr><td><a href='#organisational-unit-2'>2</a></td><td><a href='#organisational-unit-2'>Deutsch-französischer Studiengang Musikwissenschaft (B.A./Licence des Artes et Sciences humaines)</a></td><td><a href='#organisational-unit-2'>German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines)</a></td></tr>
-<tr><td><a href='#organisational-unit-3'>3</a></td><td><a href='#organisational-unit-3'>Exzellenzstudiengang Konzertexamen (Zertifikat)</a></td><td><a href='#organisational-unit-3'>Concert Study Course of Excellence</a></td></tr>
-<tr><td><a href='#organisational-unit-4'>4</a></td><td><a href='#organisational-unit-4'>Diplomstudiengang Physical Theatre (Artist Diploma)</a></td><td><a href='#organisational-unit-4'>Diploma Programme Physical Theatre (Artist Diploma)</a></td></tr>
-<tr><td><a href='#organisational-unit-5'>5</a></td><td><a href='#organisational-unit-5'>Diplomstudiengang Regie (Artist Diploma)</a></td><td><a href='#organisational-unit-5'>Diploma Programme Directing (Artist Diploma)</a></td></tr>
-<tr><td><a href='#organisational-unit-6'>6</a></td><td><a href='#organisational-unit-6'>Diplomstudiengang Schauspiel (Artist Diploma)</a></td><td><a href='#organisational-unit-6'>Diploma Programme Acting (Artist Diploma)</a></td></tr>
-<tr><td><a href='#organisational-unit-7'>7</a></td><td><a href='#organisational-unit-7'>Institut für Computermusik und Elektronische Medien</a></td><td><a href='#organisational-unit-7'>Institute for Computer Music and Electronic Media</a></td></tr>
-<tr><td><a href='#organisational-unit-8'>8</a></td><td><a href='#organisational-unit-8'>Institut für Gregorianik</a></td><td><a href='#organisational-unit-8'>Institute for Gregorian Chant</a></td></tr>
-<tr><td><a href='#organisational-unit-9'>9</a></td><td><a href='#organisational-unit-9'>Institut für Kunst- und Designwissenschaft</a></td><td><a href='#organisational-unit-9'>Institute for Art and Design Science</a></td></tr>
-<tr><td><a href='#organisational-unit-10'>10</a></td><td><a href='#organisational-unit-10'>Institut für künstlerische Nachwuchsförderung | folkwang junior</a></td><td><a href='#organisational-unit-10'>Institute for the Promotion of Young Artists | folkwang junior</a></td></tr>
-<tr><td><a href='#organisational-unit-11'>11</a></td><td><a href='#organisational-unit-11'>Institut für Pop-Musik</a></td><td><a href='#organisational-unit-11'>Institute for Popular Music</a></td></tr>
-<tr><td><a href='#organisational-unit-12'>12</a></td><td><a href='#organisational-unit-12'>Institut für Zeitgenössischen Tanz</a></td><td><a href='#organisational-unit-12'>Institute for Contemporary Dance</a></td></tr>
-<tr><td><a href='#organisational-unit-13'>13</a></td><td><a href='#organisational-unit-13'>Studiengang Design Futures (M.A.)</a></td><td><a href='#organisational-unit-13'>Study Programme Design Futures (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-14'>14</a></td><td><a href='#organisational-unit-14'>Studiengang Fotografie (B.A.)</a></td><td><a href='#organisational-unit-14'>Study Programme Photography (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-15'>15</a></td><td><a href='#organisational-unit-15'>Studiengang Gesang | Musiktheater (B.Mus.)</a></td><td><a href='#organisational-unit-15'>Study Programme Voice | Music Theatre (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-16'>16</a></td><td><a href='#organisational-unit-16'>Studiengang Gregorianik (Zertifikat)</a></td><td><a href='#organisational-unit-16'>Study Programme Gregorian Chant (Certificate)</a></td></tr>
-<tr><td><a href='#organisational-unit-17'>17</a></td><td><a href='#organisational-unit-17'>Studiengang Instrumentalausbildung (B.Mus.)</a></td><td><a href='#organisational-unit-17'>Study Programme Instrumental Training (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-18'>18</a></td><td><a href='#organisational-unit-18'>Studiengang Integrative Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-18'>Study Programme Integrative Composition (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-19'>19</a></td><td><a href='#organisational-unit-19'>Studiengang Integrative Musiktheorie (M.Mus.)</a></td><td><a href='#organisational-unit-19'>Study Programme Integrative Music Theory (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-20'>20</a></td><td><a href='#organisational-unit-20'>Studiengang Jazz | Artist Producer (M.Mus.)</a></td><td><a href='#organisational-unit-20'>Study Programme Jazz | Artist Producer (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-21'>21</a></td><td><a href='#organisational-unit-21'>Studiengang Jazz | Improvising Artist (M.Mus.)</a></td><td><a href='#organisational-unit-21'>Study Programme Jazz | Improvising Artist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-22'>22</a></td><td><a href='#organisational-unit-22'>Studiengang Jazz | Performing Artist (B.Mus.)</a></td><td><a href='#organisational-unit-22'>Study Programme Jazz | Performing Artist (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-23'>23</a></td><td><a href='#organisational-unit-23'>Studiengang Kommunikationsdesign (B.A.)</a></td><td><a href='#organisational-unit-23'>Study Programme Communication Design (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-24'>24</a></td><td><a href='#organisational-unit-24'>Studiengang Kommunikationsdesign (M.A.)</a></td><td><a href='#organisational-unit-24'>Study Programme Communication Design (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-25'>25</a></td><td><a href='#organisational-unit-25'>Studiengang Lehramt Musik (B.A.)</a></td><td><a href='#organisational-unit-25'>Study Programme Music Teaching (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-26'>26</a></td><td><a href='#organisational-unit-26'>Studiengang Lehramt Musik (M.Ed.)</a></td><td><a href='#organisational-unit-26'>Study Programme Music Teaching (M.Ed.)</a></td></tr>
-<tr><td><a href='#organisational-unit-27'>27</a></td><td><a href='#organisational-unit-27'>Studiengang Leitung vokaler Ensembles (M.Mus.)</a></td><td><a href='#organisational-unit-27'>Study Programme Directing of Vocal Ensembles (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-28'>28</a></td><td><a href='#organisational-unit-28'>Studiengang Musical (B.A.)</a></td><td><a href='#organisational-unit-28'>Study Programme Musical (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-29'>29</a></td><td><a href='#organisational-unit-29'>Studiengang Musik des Mittelalters (M.Mus.)</a></td><td><a href='#organisational-unit-29'>Study Programme Music of the Middle Ages (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-30'>30</a></td><td><a href='#organisational-unit-30'>Studiengang Musikpädagogik (B.A.)</a></td><td><a href='#organisational-unit-30'>Study Programme Music Pedagogy (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-31'>31</a></td><td><a href='#organisational-unit-31'>Studiengang Musikwissenschaft (B.A./Zwei-Fach-Bachelor)</a></td><td><a href='#organisational-unit-31'>Study Programme Musicology (B. A./Dual-subject Bachelor)</a></td></tr>
-<tr><td><a href='#organisational-unit-32'>32</a></td><td><a href='#organisational-unit-32'>Studiengang Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-32'>Study Programme Musicology (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-33'>33</a></td><td><a href='#organisational-unit-33'>Studiengang Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-33'>Study Programme Orchestral Performance (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-34'>34</a></td><td><a href='#organisational-unit-34'>Studiengang Photography Studies and Practice (M.A.)</a></td><td><a href='#organisational-unit-34'>Study Programme Photography Studies and Practice (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-35'>35</a></td><td><a href='#organisational-unit-35'>Studiengang Photography Studies and Research (M.A.)</a></td><td><a href='#organisational-unit-35'>Study Programme Photography Studies and Research (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-36'>36</a></td><td><a href='#organisational-unit-36'>Studiengang Populäre Musik (M.Mus.)</a></td><td><a href='#organisational-unit-36'>Study Programme Popular Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-37'>37</a></td><td><a href='#organisational-unit-37'>Studiengang Product Design (B.A.)</a></td><td><a href='#organisational-unit-37'>Study Programme Product Design (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-38'>38</a></td><td><a href='#organisational-unit-38'>Studiengang Professional Media Creation (M.A.)</a></td><td><a href='#organisational-unit-38'>Study Programme Media Creation (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-39'>39</a></td><td><a href='#organisational-unit-39'>Studiengang Professionelle Performance (M.Mus.)</a></td><td><a href='#organisational-unit-39'>Study Programme Profession Performance (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-40'>40</a></td><td><a href='#organisational-unit-40'>Studiengang Tanzkomposition | Bewegungsnotation/Bewegungsanalyse (M.A.)</a></td><td><a href='#organisational-unit-40'>Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-41'>41</a></td><td><a href='#organisational-unit-41'>Studiengang Tanzkomposition | Choreographie (M.A.)</a></td><td><a href='#organisational-unit-41'>Study Programme Dance Composition | Choreography (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-42'>42</a></td><td><a href='#organisational-unit-42'>Studiengang Tanzkomposition | Interpretation (M.A.)</a></td><td><a href='#organisational-unit-42'>Study Programme Dance Composition | Interpreatation (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-43'>43</a></td><td><a href='#organisational-unit-43'>Studiengang Tanzpädagogik für künstlerischen Tanz (M.A.)</a></td><td><a href='#organisational-unit-43'>Study Programme Dance Padagogy for Artistic Dance (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-44'>44</a></td><td><a href='#organisational-unit-44'>Hochschule für Musik Detmold</a></td><td><a href='#organisational-unit-44'>Hochschule für Musik Detmold</a></td></tr>
-<tr><td><a href='#organisational-unit-45'>45</a></td><td><a href='#organisational-unit-45'>Detmolder Jungstudierenden-Institut</a></td><td><a href='#organisational-unit-45'>Detmold Young Students' Institute</a></td></tr>
-<tr><td><a href='#organisational-unit-46'>46</a></td><td><a href='#organisational-unit-46'>Promotionsstudiengang Audiovisual Arts Computing (Dr.phil, Dr.- Ing)</a></td><td><a href='#organisational-unit-46'>Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing)</a></td></tr>
-<tr><td><a href='#organisational-unit-47'>47</a></td><td><a href='#organisational-unit-47'>Promotionsstudiengang Musikalische Akustik (Dr.)</a></td><td><a href='#organisational-unit-47'>Doctoral Programme Music Acoustics (Dr.)</a></td></tr>
-<tr><td><a href='#organisational-unit-48'>48</a></td><td><a href='#organisational-unit-48'>Promotionsstudiengang Musikwissenschaft (Dr.phil)</a></td><td><a href='#organisational-unit-48'>Doctoral Programme Musicology (Dr. Phil.)</a></td></tr>
-<tr><td><a href='#organisational-unit-49'>49</a></td><td><a href='#organisational-unit-49'>Studiengang Bachelor of Music | Evangelsiche Kirchenmusik (B. Mus.)</a></td><td><a href='#organisational-unit-49'>Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-50'>50</a></td><td><a href='#organisational-unit-50'>Studiengang Bachelor of Music | Freischaffender Musiker (B. Mus.)</a></td><td><a href='#organisational-unit-50'>Study Programme Bachelor of Music | Freelance Musician (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-51'>51</a></td><td><a href='#organisational-unit-51'>Studiengang Bachelor of Music | Katholische Kirchenmusik (B. Mus.)</a></td><td><a href='#organisational-unit-51'>Study Programme Bachelor of Music | Catholic Church Music (B. Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-52'>52</a></td><td><a href='#organisational-unit-52'>Studiengang Bachelor of Music | Orchestermusiker (B. Mus.)</a></td><td><a href='#organisational-unit-52'>Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-53'>53</a></td><td><a href='#organisational-unit-53'>Studiengang Master of Music | Akkordion | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-53'>Study Programme Master of Music | Accordion | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-54'>54</a></td><td><a href='#organisational-unit-54'>Studiengang Master of Music | Akkordion | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-54'>Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-55'>55</a></td><td><a href='#organisational-unit-55'>Studiengang Master of Music | Akkordion | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-55'>Study Programme Master of Music | Accordion | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-56'>56</a></td><td><a href='#organisational-unit-56'>Studiengang Master of Music | Blockflöte | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-56'>Study Programme Master of Music | Recorder | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-57'>57</a></td><td><a href='#organisational-unit-57'>Studiengang Master of Music | Blockflöte | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-57'>Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-58'>58</a></td><td><a href='#organisational-unit-58'>Studiengang Master of Music | Blockflöte | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-58'>Study Programme Master of Music | Recorder | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-59'>59</a></td><td><a href='#organisational-unit-59'>Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-59'>Study Programme Master of Music | Protestant Church Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-60'>60</a></td><td><a href='#organisational-unit-60'>Studiengang Master of Music | Fagott| Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-60'>Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-61'>61</a></td><td><a href='#organisational-unit-61'>Studiengang Master of Music | Fagott | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-61'>Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-62'>62</a></td><td><a href='#organisational-unit-62'>Studiengang Master of Music | Fagott | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-62'>Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-63'>63</a></td><td><a href='#organisational-unit-63'>Studiengang Master of Music | Fagott | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-63'>Study Programme Master of Music | Bassoon | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-64'>64</a></td><td><a href='#organisational-unit-64'>Studiengang Master of Music | Flöte | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-64'>Study Programme Master of Music | Flute | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-65'>65</a></td><td><a href='#organisational-unit-65'>Studiengang Master of Music | Flöte | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-65'>Study Programme Master of Music | Flute | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-66'>66</a></td><td><a href='#organisational-unit-66'>Studiengang Master of Music | Flöte | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-66'>Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-67'>67</a></td><td><a href='#organisational-unit-67'>Studiengang Master of Music | Flöte | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-67'>Study Programme Master of Music | Flute | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-68'>68</a></td><td><a href='#organisational-unit-68'>Studiengang Master of Music | Gitarre | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-68'>Study Programme Master of Music | Guitar | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-69'>69</a></td><td><a href='#organisational-unit-69'>Studiengang Master of Music | Gitarre | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-69'>Study Programme Master of Music | Guitar | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-70'>70</a></td><td><a href='#organisational-unit-70'>Studiengang Master of Music | Gitarre | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-70'>Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-71'>71</a></td><td><a href='#organisational-unit-71'>Studiengang Master of Music | Harfe | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-71'>Study Programme Master of Music | Harp | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-72'>72</a></td><td><a href='#organisational-unit-72'>Studiengang Master of Music | Harfe | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-72'>Study Programme Master of Music | Harp | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-73'>73</a></td><td><a href='#organisational-unit-73'>Studiengang Master of Music | Harfe | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-73'>Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-74'>74</a></td><td><a href='#organisational-unit-74'>Studiengang Master of Music | Harfe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-74'>Study Programme Master of Music | Harp | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-75'>75</a></td><td><a href='#organisational-unit-75'>Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-75'>Study Programme Master of Music | Catholic Church Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-76'>76</a></td><td><a href='#organisational-unit-76'>Studiengang Master of Music | Orgel | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-76'>Study Programme Master of Music | Organ | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-77'>77</a></td><td><a href='#organisational-unit-77'>Studiengang Master of Music | Orgel | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-77'>Study Programme Master of Music | Organ | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-78'>78</a></td><td><a href='#organisational-unit-78'>Studiengang Master of Music | Orgel| Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-78'>Study Programme Master of Music | Organ | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-79'>79</a></td><td><a href='#organisational-unit-79'>Studiengang Master of Music | Saxophon | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-79'>Study Programme Master of Music | Saxophone | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-80'>80</a></td><td><a href='#organisational-unit-80'>Studiengang Master of Music | Saxophon | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-80'>Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-81'>81</a></td><td><a href='#organisational-unit-81'>Studiengang Master of Music | Saxophon | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-81'>Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-82'>82</a></td><td><a href='#organisational-unit-82'>Zentrum für Musik- und Filminformatik</a></td><td><a href='#organisational-unit-82'>Centre for Music and Film Informatics</a></td></tr>
-<tr><td><a href='#organisational-unit-83'>83</a></td><td><a href='#organisational-unit-83'>Hochschule für Musik und Tanz Köln</a></td><td><a href='#organisational-unit-83'>Hochschule für Musik und Tanz Köln</a></td></tr>
-<tr><td><a href='#organisational-unit-84'>84</a></td><td><a href='#organisational-unit-84'>Institut für Alte Musik</a></td><td><a href='#organisational-unit-84'>Institute for Early Music</a></td></tr>
-<tr><td><a href='#organisational-unit-85'>85</a></td><td><a href='#organisational-unit-85'>Institut für Historische Musikwissenschaft</a></td><td><a href='#organisational-unit-85'>Institute for Historic Musicology</a></td></tr>
-<tr><td><a href='#organisational-unit-86'>86</a></td><td><a href='#organisational-unit-86'>Institut für Neue Musik</a></td><td><a href='#organisational-unit-86'>Institute for New Music</a></td></tr>
-<tr><td><a href='#organisational-unit-87'>87</a></td><td><a href='#organisational-unit-87'>Kölner Institut für Musikpädagogische Forschung</a></td><td><a href='#organisational-unit-87'>Cologne Institute for Music Pedagogy Research</a></td></tr>
-<tr><td><a href='#organisational-unit-88'>88</a></td><td><a href='#organisational-unit-88'>Kinderchor der Hochschule</a></td><td><a href='#organisational-unit-88'>Children's Choir of the University</a></td></tr>
-<tr><td><a href='#organisational-unit-89'>89</a></td><td><a href='#organisational-unit-89'>Liedakademie an der HfMT Köln</a></td><td><a href='#organisational-unit-89'>Song Academy at the HfMT Köln</a></td></tr>
-<tr><td><a href='#organisational-unit-90'>90</a></td><td><a href='#organisational-unit-90'>Peter-Ostwald-Institut</a></td><td><a href='#organisational-unit-90'>Peter Oswald Institute</a></td></tr>
-<tr><td><a href='#organisational-unit-91'>91</a></td><td><a href='#organisational-unit-91'>Pre-College Cologne</a></td><td><a href='#organisational-unit-91'>Pre-College Cologne</a></td></tr>
-<tr><td><a href='#organisational-unit-92'>92</a></td><td><a href='#organisational-unit-92'>Projekt EchoSpore</a></td><td><a href='#organisational-unit-92'>Project EchoSpore</a></td></tr>
-<tr><td><a href='#organisational-unit-93'>93</a></td><td><a href='#organisational-unit-93'>Projekt Schauspiel HfMT</a></td><td><a href='#organisational-unit-93'>Project Schauspiel HfMT (Acting HfMT)</a></td></tr>
-<tr><td><a href='#organisational-unit-94'>94</a></td><td><a href='#organisational-unit-94'>Projektseminar Jazz Against The Machine</a></td><td><a href='#organisational-unit-94'>Seminar Project Jazz Against The Machine</a></td></tr>
-<tr><td><a href='#organisational-unit-95'>95</a></td><td><a href='#organisational-unit-95'>Rheinische Opernakademie</a></td><td><a href='#organisational-unit-95'>Rheinische Opernakademie (Rhenish Opera Acadaemy)</a></td></tr>
-<tr><td><a href='#organisational-unit-96'>96</a></td><td><a href='#organisational-unit-96'>Studiengang Bachelor of Arts | Tanz (B.A.)</a></td><td><a href='#organisational-unit-96'>Study Programme Bachelor of Arts | Dance (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-97'>97</a></td><td><a href='#organisational-unit-97'>Studiengang Bachelor of Music | Blechbläser (B.Mus.)</a></td><td><a href='#organisational-unit-97'>Study Programme Bachelor of Music | Brass Instruments (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-98'>98</a></td><td><a href='#organisational-unit-98'>Studiengang Bachelor of Music | Chordirigieren (B.Mus.)</a></td><td><a href='#organisational-unit-98'>Study Programme Bachelor of Music | Choral Conducting (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-99'>99</a></td><td><a href='#organisational-unit-99'>Studiengang Bachelor of Music | Elektronische Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-99'>Study Programme Bachelor of Music | Electronic Compostion (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-100'>100</a></td><td><a href='#organisational-unit-100'>Studiengang Bachelor of Music | Elementare Musikpädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-100'>Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-101'>101</a></td><td><a href='#organisational-unit-101'>Studiengang Bachelor of Music | Evangelische Kirchenmusik (B.Mus.)</a></td><td><a href='#organisational-unit-101'>Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-102'>102</a></td><td><a href='#organisational-unit-102'>Studiengang Bachelor of Music | Gesang (B.Mus.)</a></td><td><a href='#organisational-unit-102'>Study Programme Bachelor of Music | Voice (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-103'>103</a></td><td><a href='#organisational-unit-103'>Studiengang Bachelor of Music | Gitarre (B.Mus.)</a></td><td><a href='#organisational-unit-103'>Study Programme Bachelor of Music | Guitar (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-104'>104</a></td><td><a href='#organisational-unit-104'>Studiengang Bachelor of Music | Harfe (B.Mus.)</a></td><td><a href='#organisational-unit-104'>Study Programme Bachelor of Music | Harp (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-105'>105</a></td><td><a href='#organisational-unit-105'>Studiengang Bachelor of Music | Historische Instrumente (B.Mus.)</a></td><td><a href='#organisational-unit-105'>Study Programme Bachelor of Music | Historic Instruments (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-106'>106</a></td><td><a href='#organisational-unit-106'>Studiengang Bachelor of Music | Holzbläser (B.Mus.)</a></td><td><a href='#organisational-unit-106'>Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-107'>107</a></td><td><a href='#organisational-unit-107'>Studiengang Bachelor of Music | Instrumental-/Gesangspädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-107'>Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-108'>108</a></td><td><a href='#organisational-unit-108'>Studiengang Bachelor of Music | Instrumentale Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-108'>Study Programme Bachelor of Music | Instrumental Composition (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-109'>109</a></td><td><a href='#organisational-unit-109'>Studiengang Bachelor of Music | Jazz/Pop (B.Mus.)</a></td><td><a href='#organisational-unit-109'>Study Programme Bachelor of Music | Jazz/Pop (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-110'>110</a></td><td><a href='#organisational-unit-110'>Studiengang Bachelor of Music | Katholische Kirchenmusik (B.Mus.)</a></td><td><a href='#organisational-unit-110'>Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-111'>111</a></td><td><a href='#organisational-unit-111'>Studiengang Bachelor of Music | Klavier (B.Mus.)</a></td><td><a href='#organisational-unit-111'>Study Programme Bachelor of Music | Piano (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-112'>112</a></td><td><a href='#organisational-unit-112'>Studiengang Bachelor of Music | Mandoline (B.Mus.)</a></td><td><a href='#organisational-unit-112'>Study Programme Bachelor of Music | Mandolin (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-113'>113</a></td><td><a href='#organisational-unit-113'>Studiengang Bachelor of Music | Orchesterdirigieren (B.Mus.)</a></td><td><a href='#organisational-unit-113'>Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-114'>114</a></td><td><a href='#organisational-unit-114'>Studiengang Bachelor of Music | Orgel (B.Mus.)</a></td><td><a href='#organisational-unit-114'>Study Programme Bachelor of Music | Organ (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-115'>115</a></td><td><a href='#organisational-unit-115'>Studiengang Bachelor of Music | Schlagzeug/Pauke (B.Mus.)</a></td><td><a href='#organisational-unit-115'>Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-116'>116</a></td><td><a href='#organisational-unit-116'>Studiengang Bachelor of Music | Streicher (B.Mus.)</a></td><td><a href='#organisational-unit-116'>Study Programme Bachelor of Music | Strings (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-117'>117</a></td><td><a href='#organisational-unit-117'>Studiengang Bachelor of Music | Tonsatz/Musiktheorie (B.Mus.)</a></td><td><a href='#organisational-unit-117'>Study Programme Bachelor of Music | Composition/Music Theory</a></td></tr>
-<tr><td><a href='#organisational-unit-118'>118</a></td><td><a href='#organisational-unit-118'>Studiengang Master of Arts | Musikpädagogik (M.A.)</a></td><td><a href='#organisational-unit-118'>Study Programme Master of Arts | Music Pedagogy (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-119'>119</a></td><td><a href='#organisational-unit-119'>Studiengang Master of Arts | Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-119'>Study Programme Master of Arts | Musicology (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-120'>120</a></td><td><a href='#organisational-unit-120'>Studiengang Master of Arts | Tanzvermittlung (M.A.)</a></td><td><a href='#organisational-unit-120'>Study Programme Master of Arts | Medition in Dance (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-121'>121</a></td><td><a href='#organisational-unit-121'>Studiengang Master of Arts | Tanzwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-121'>Study Programme Master of Arts | Dance Studies (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-122'>122</a></td><td><a href='#organisational-unit-122'>Studiengang Master of Music | Blasinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-122'>Study Programme Master of Music | Wind Instruments (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-123'>123</a></td><td><a href='#organisational-unit-123'>Studiengang Master of Music | Dirigieren Chor (M.Mus.)</a></td><td><a href='#organisational-unit-123'>Study Programme Master of Music | Choral Conducting (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-124'>124</a></td><td><a href='#organisational-unit-124'>Studiengang Master of Music | Dirigieren Musiktheater  (M.Mus.)</a></td><td><a href='#organisational-unit-124'>Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-125'>125</a></td><td><a href='#organisational-unit-125'>Studiengang Master of Music | Dirigieren Orchester (M.Mus.)</a></td><td><a href='#organisational-unit-125'>Study Programme Master of Music | Conducting Orchestra (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-126'>126</a></td><td><a href='#organisational-unit-126'>Studiengang Master of Music | Dirigieren Zeitgenössische Musik (M.Mus.)</a></td><td><a href='#organisational-unit-126'>Study Programme Master of Music | Conducting Contemporary Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-127'>127</a></td><td><a href='#organisational-unit-127'>Studiengang Master of Music | Elektronische Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-127'>Study Programme Master of Music | Electronic Composition (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-128'>128</a></td><td><a href='#organisational-unit-128'>Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-128'>Study Programme Master of Music | Church Music (Protestant) (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-129'>129</a></td><td><a href='#organisational-unit-129'>Studiengang Master of Music | Gesang Lied/Konzert (M.Mus.)</a></td><td><a href='#organisational-unit-129'>Study Programme Master of Music | Voice Song/Concert (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-130'>130</a></td><td><a href='#organisational-unit-130'>Studiengang Master of Music | Gesang Musiktheater (M.Mus.)</a></td><td><a href='#organisational-unit-130'>Study Programme Master of Music | Voice Music Theatre (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-131'>131</a></td><td><a href='#organisational-unit-131'>Studiengang Master of Music | Gitarre (M.Mus.)</a></td><td><a href='#organisational-unit-131'>Study Programme Master of Music | Guitar (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-132'>132</a></td><td><a href='#organisational-unit-132'>Studiengang Master of Music | Harfe (M.Mus.)</a></td><td><a href='#organisational-unit-132'>Study Programme Master of Music | Harp (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-133'>133</a></td><td><a href='#organisational-unit-133'>Studiengang Master of Music | Historische Instrumente und Barockgesang (M.Mus.)</a></td><td><a href='#organisational-unit-133'>Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-134'>134</a></td><td><a href='#organisational-unit-134'>Studiengang Master of Music | Instrumentale Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-134'>Study Programme Master of Music | Instrumental Composition (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-135'>135</a></td><td><a href='#organisational-unit-135'>Studiengang Master of Music | Interpretation Neue Musik (M.Mus.)</a></td><td><a href='#organisational-unit-135'>Study Programme Master of Music | Interpretation New Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-136'>136</a></td><td><a href='#organisational-unit-136'>Studiengang Master of Music | Jazz-Komposition/Arrangement (M.Mus.)</a></td><td><a href='#organisational-unit-136'>Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-137'>137</a></td><td><a href='#organisational-unit-137'>Studiengang Master of Music | Jazz/Pop Instrumental/Vokal (M.Mus.)</a></td><td><a href='#organisational-unit-137'>Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-138'>138</a></td><td><a href='#organisational-unit-138'>Studiengang Master of Music | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-138'>Study Programme Master of Music | Chamber Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-139'>139</a></td><td><a href='#organisational-unit-139'>Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-139'>Study Programme Master of Music | Church Music (Catholic) (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-140'>140</a></td><td><a href='#organisational-unit-140'>Studiengang Master of Music | Klavier (M.Mus.)</a></td><td><a href='#organisational-unit-140'>Study Programme Master of Music | Piano (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-141'>141</a></td><td><a href='#organisational-unit-141'>Studiengang Master of Music | Liedgestaltung (Klavier) (M.Mus.)</a></td><td><a href='#organisational-unit-141'>Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-142'>142</a></td><td><a href='#organisational-unit-142'>Studiengang Master of Music | Mandoline (M.Mus.)</a></td><td><a href='#organisational-unit-142'>Study Programme Master of Music | Mandolin (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-143'>143</a></td><td><a href='#organisational-unit-143'>Studiengang Master of Music | Neue Klaviermusik (M.Mus.)</a></td><td><a href='#organisational-unit-143'>Study Programme Master of Music | Modern Piano Music (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-144'>144</a></td><td><a href='#organisational-unit-144'>Studiengang Master of Music | Opernkorrepetition (M.Mus.)</a></td><td><a href='#organisational-unit-144'>Study Programme Master of Music | Opera Correpetition (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-145'>145</a></td><td><a href='#organisational-unit-145'>Studiengang Master of Music | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-145'>Study Programme Master of Music | Orchestral Playing (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-146'>146</a></td><td><a href='#organisational-unit-146'>Studiengang Master of Music | Orgel (M.Mus.)</a></td><td><a href='#organisational-unit-146'>Study Programme Master of Music | Organ (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-147'>147</a></td><td><a href='#organisational-unit-147'>Studiengang Master of Music | Production (M.Mus.)</a></td><td><a href='#organisational-unit-147'>Study Programme Master of Music | Production (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-148'>148</a></td><td><a href='#organisational-unit-148'>Studiengang Master of Music | Schlagzeug/Pauke (M.Mus.)</a></td><td><a href='#organisational-unit-148'>Study Programme Master of Music | Percussion/Timpani (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-149'>149</a></td><td><a href='#organisational-unit-149'>Studiengang Master of Music | Streichinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-149'>Study Programme Master of Music | String Instruments (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-150'>150</a></td><td><a href='#organisational-unit-150'>Studiengang Master of Music | Tonsatz (M.Mus.)</a></td><td><a href='#organisational-unit-150'>Study Programme Master of Music | Music Theory (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-151'>151</a></td><td><a href='#organisational-unit-151'>Studio für Elektronische Musik</a></td><td><a href='#organisational-unit-151'>Studio for Electronic Music</a></td></tr>
-<tr><td><a href='#organisational-unit-152'>152</a></td><td><a href='#organisational-unit-152'>Tonbandarchiv der Bibliothek</a></td><td><a href='#organisational-unit-152'>Library Tape Archive</a></td></tr>
-<tr><td><a href='#organisational-unit-153'>153</a></td><td><a href='#organisational-unit-153'>Voc.Cologne</a></td><td><a href='#organisational-unit-153'>Voc.Cologne</a></td></tr>
-<tr><td><a href='#organisational-unit-154'>154</a></td><td><a href='#organisational-unit-154'>Zentrum  für MusiklehrerInnenbildung im Beruf</a></td><td><a href='#organisational-unit-154'>Centre for Music Teacher Education in the Job</a></td></tr>
-<tr><td><a href='#organisational-unit-155'>155</a></td><td><a href='#organisational-unit-155'>Zentrum für Zeitgenössischen Tanz</a></td><td><a href='#organisational-unit-155'>Centre of Contemporary Dance</a></td></tr>
-<tr><td><a href='#organisational-unit-156'>156</a></td><td><a href='#organisational-unit-156'>Kunsthochschule für Medien Köln</a></td><td><a href='#organisational-unit-156'>Academy of Media Arts Cologne</a></td></tr>
-<tr><td><a href='#organisational-unit-157'>157</a></td><td><a href='#organisational-unit-157'>Archiv für mediale Künste (Projektarchiv)</a></td><td><a href='#organisational-unit-157'>Archive for Media Arts, Academy of Media Arts Cologne (Project Archive)</a></td></tr>
-<tr><td><a href='#organisational-unit-158'>158</a></td><td><a href='#organisational-unit-158'>Archiv für mediale Künste (Veranstaltungsarchiv)</a></td><td><a href='#organisational-unit-158'>Archive for Media Arts, Academy of Media Arts Cologne (Event Archive)</a></td></tr>
-<tr><td><a href='#organisational-unit-159'>159</a></td><td><a href='#organisational-unit-159'>Studiengang Mediale Künste | 9-semestriges Diplomstudium (grundständig, Diplom 1)</a></td><td><a href='#organisational-unit-159'>Media and Fine Art Diploma 1 | Undergraduate Course</a></td></tr>
-<tr><td><a href='#organisational-unit-160'>160</a></td><td><a href='#organisational-unit-160'>Studiengang Mediale Künste | 4-semestriges Diplomstudium (postgradual, Diplom 2)</a></td><td><a href='#organisational-unit-160'>Media and Fine Art Diploma 2 | Postgraduate Course</a></td></tr>
-<tr><td><a href='#organisational-unit-161'>161</a></td><td><a href='#organisational-unit-161'>Promotionsprogramm</a></td><td><a href='#organisational-unit-161'>Doctoral Programme</a></td></tr>
-<tr><td><a href='#organisational-unit-162'>162</a></td><td><a href='#organisational-unit-162'>Fächergruppe exMedia</a></td><td><a href='#organisational-unit-162'>exMedia Department</a></td></tr>
-<tr><td><a href='#organisational-unit-163'>163</a></td><td><a href='#organisational-unit-163'>Fächergruppe Film und Fernsehen</a></td><td><a href='#organisational-unit-163'>Film and Television Department</a></td></tr>
-<tr><td><a href='#organisational-unit-164'>164</a></td><td><a href='#organisational-unit-164'>Fächergruppe Kunst</a></td><td><a href='#organisational-unit-164'>Art Department</a></td></tr>
-<tr><td><a href='#organisational-unit-165'>165</a></td><td><a href='#organisational-unit-165'>Fächergruppe Kunst & Medienwissenschaften</a></td><td><a href='#organisational-unit-165'>Art and Media Studies Department</a></td></tr>
-<tr><td><a href='#organisational-unit-166'>166</a></td><td><a href='#organisational-unit-166'>Fächergruppe Mediengestaltung</a></td><td><a href='#organisational-unit-166'>Media Design Department</a></td></tr>
-<tr><td><a href='#organisational-unit-167'>167</a></td><td><a href='#organisational-unit-167'>Glasmoog – Raum für Kunst & Diskurs</a></td><td><a href='#organisational-unit-167'>Glasmoog – Space for Art & Discourse</a></td></tr>
-<tr><td><a href='#organisational-unit-168'>168</a></td><td><a href='#organisational-unit-168'>Case – Projektraum der Fotografie</a></td><td><a href='#organisational-unit-168'>Case – Projektraum der Fotografie</a></td></tr>
-<tr><td><a href='#organisational-unit-169'>169</a></td><td><a href='#organisational-unit-169'>Robert Schumann Hochschule Düsseldorf</a></td><td><a href='#organisational-unit-169'>Robert Schumann Hochschule Düsseldorf</a></td></tr>
-<tr><td><a href='#organisational-unit-170'>170</a></td><td><a href='#organisational-unit-170'>Callhoff-Archiv</a></td><td><a href='#organisational-unit-170'>Callhoff Archive</a></td></tr>
-<tr><td><a href='#organisational-unit-171'>171</a></td><td><a href='#organisational-unit-171'>DFG-Projekt  „Darstellung und Rezeption klassischer Musiker*innen bei YouTube: Aufführungs- und Lebenspraxen im digitalen Zeitalter“</a></td><td><a href='#organisational-unit-171'>DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age"</a></td></tr>
-<tr><td><a href='#organisational-unit-172'>172</a></td><td><a href='#organisational-unit-172'>Exzellenzstudiengang Komposition</a></td><td><a href='#organisational-unit-172'>Excellence Programme Composition</a></td></tr>
-<tr><td><a href='#organisational-unit-173'>173</a></td><td><a href='#organisational-unit-173'>Exzellenzstudiengang Konzertexamen</a></td><td><a href='#organisational-unit-173'>Excellence Programme Music Performance</a></td></tr>
-<tr><td><a href='#organisational-unit-174'>174</a></td><td><a href='#organisational-unit-174'>Forschungsstelle „Düsseldorfs Bürgerliches Musikleben“</a></td><td><a href='#organisational-unit-174'>Reasearch Centre "Düsseldorf's Civic Music Life"</a></td></tr>
-<tr><td><a href='#organisational-unit-175'>175</a></td><td><a href='#organisational-unit-175'>Forschungsstelle Sepulkralmusik</a></td><td><a href='#organisational-unit-175'>Research Centre Sepulchral Music</a></td></tr>
-<tr><td><a href='#organisational-unit-176'>176</a></td><td><a href='#organisational-unit-176'>Forschungsstelle Studio zur Digitalisierung historischer Tonträger</a></td><td><a href='#organisational-unit-176'>Research Centre Studio for the Digitisation of Historical Sound Recording Media</a></td></tr>
-<tr><td><a href='#organisational-unit-177'>177</a></td><td><a href='#organisational-unit-177'>Institut für Kirchenmusik</a></td><td><a href='#organisational-unit-177'>Institute for Church Music</a></td></tr>
-<tr><td><a href='#organisational-unit-178'>178</a></td><td><a href='#organisational-unit-178'>Institut für Komposition und Musiktheorie</a></td><td><a href='#organisational-unit-178'>Institute for Composition and Music Theory</a></td></tr>
-<tr><td><a href='#organisational-unit-179'>179</a></td><td><a href='#organisational-unit-179'>Institut für Musik und Medien</a></td><td><a href='#organisational-unit-179'>Institute for Music and Media</a></td></tr>
-<tr><td><a href='#organisational-unit-180'>180</a></td><td><a href='#organisational-unit-180'>Institut Schumann Junior</a></td><td><a href='#organisational-unit-180'>Schumann Junior Institute</a></td></tr>
-<tr><td><a href='#organisational-unit-181'>181</a></td><td><a href='#organisational-unit-181'>Musikwissenschaftliches Institut</a></td><td><a href='#organisational-unit-181'>Institute of Musicology</a></td></tr>
-<tr><td><a href='#organisational-unit-182'>182</a></td><td><a href='#organisational-unit-182'>Promotionsstudiengang Musikwissenschaft (Dr.phil.)</a></td><td><a href='#organisational-unit-182'>Doctoral Programme Musicology (Dr. Phil.)</a></td></tr>
-<tr><td><a href='#organisational-unit-183'>183</a></td><td><a href='#organisational-unit-183'>Studiengang Klang und Realität (M.Mus.)</a></td><td><a href='#organisational-unit-183'>Study Programme Klang und Realität (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-184'>184</a></td><td><a href='#organisational-unit-184'>Studiengang Künstlerische Musikproduktion (M.Mus.)</a></td><td><a href='#organisational-unit-184'>Study Programme Artistic Music Production (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-185'>185</a></td><td><a href='#organisational-unit-185'>Studiengang Musik | Gesang (B.Mus.)</a></td><td><a href='#organisational-unit-185'>Study Programme Music Performance | Voice major (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-186'>186</a></td><td><a href='#organisational-unit-186'>Studiengang Musik | Gesang (M.Mus.)</a></td><td><a href='#organisational-unit-186'>Study Programme Music Performance | Voice  major (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-187'>187</a></td><td><a href='#organisational-unit-187'>Studiengang Musik | Gitarre (B.Mus.)</a></td><td><a href='#organisational-unit-187'>Study Programme Music Performance | Guitar major (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-188'>188</a></td><td><a href='#organisational-unit-188'>Studiengang Musik | Gitarre (M.Mus.)</a></td><td><a href='#organisational-unit-188'>Study Programme Music Performance | Guitar major (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-189'>189</a></td><td><a href='#organisational-unit-189'>Studiengang Musik | Klavier (B.Mus.)</a></td><td><a href='#organisational-unit-189'>Study Programme Music Performance | Piano major (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-190'>190</a></td><td><a href='#organisational-unit-190'>Studiengang Musik | Klavier (M.Mus.)</a></td><td><a href='#organisational-unit-190'>Study Programme Music Performance | Piano major (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-191'>191</a></td><td><a href='#organisational-unit-191'>Studiengang Musik | Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-191'>Study Programme Music Performance | Composition (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-192'>192</a></td><td><a href='#organisational-unit-192'>Studiengang Musik | Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-192'>Study Programme Music Performance | Composition (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-193'>193</a></td><td><a href='#organisational-unit-193'>Studiengang Musik | Orchesterinstrumente (B.Mus.)</a></td><td><a href='#organisational-unit-193'>Study Programme Orchestral Instruments (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-194'>194</a></td><td><a href='#organisational-unit-194'>Studiengang Musik | Orchesterinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-194'>Study Programme Orchestral Instruments (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-195'>195</a></td><td><a href='#organisational-unit-195'>Studiengang Musik | Orgel (B.Mus.)</a></td><td><a href='#organisational-unit-195'>Study Programme Music Performance | Organ major (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-196'>196</a></td><td><a href='#organisational-unit-196'>Studiengang Musik | Orgel (M.Mus.)</a></td><td><a href='#organisational-unit-196'>Study Programme Music Performance | Organ major (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-197'>197</a></td><td><a href='#organisational-unit-197'>Studiengang Musik und Medien (B.Mus.)</a></td><td><a href='#organisational-unit-197'>Study Programme Music and Media (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-198'>198</a></td><td><a href='#organisational-unit-198'>Studiengang Musikvermittlung | Chorleitung (B.Mus.)</a></td><td><a href='#organisational-unit-198'>Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-199'>199</a></td><td><a href='#organisational-unit-199'>Studiengang Musikvermittlung | Chorleitung (M.Mus.)</a></td><td><a href='#organisational-unit-199'>Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-200'>200</a></td><td><a href='#organisational-unit-200'>Studiengang Musikvermittlung | Kirchenmusik  (evangelisch) (B.Mus.)</a></td><td><a href='#organisational-unit-200'>Study Programme Music Promotion | Church Music (protestant) (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-201'>201</a></td><td><a href='#organisational-unit-201'>Studiengang Musikvermittlung | Kirchenmusik (evangelisch) (M.Mus.)</a></td><td><a href='#organisational-unit-201'>Study Programme Music Promotion | Church Music (protestant) (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-202'>202</a></td><td><a href='#organisational-unit-202'>Studiengang Musikvermittlung | Kirchenmusik  (katholisch) (B.Mus.)</a></td><td><a href='#organisational-unit-202'>Study Programme Music Promotion | Church Music (catholic) (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-203'>203</a></td><td><a href='#organisational-unit-203'>Studiengang Musikvermittlung | Kirchenmusik (katholisch) (M.Mus.)</a></td><td><a href='#organisational-unit-203'>Study Programme Music Promotion | Church Music (catholic) (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-204'>204</a></td><td><a href='#organisational-unit-204'>Studiengang Musikvermittlung | Musikpädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-204'>Study Programme Music Promotion | Music Pedagogy (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-205'>205</a></td><td><a href='#organisational-unit-205'>Studiengang Musikvermittlung | Musikpädagogik (M.Mus.)</a></td><td><a href='#organisational-unit-205'>Study Programme Music Promotion | Music Pedagogy (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-206'>206</a></td><td><a href='#organisational-unit-206'>Studiengang Musikvermittlung | Musiktherorie und Hörerziehung (B.Mus.)</a></td><td><a href='#organisational-unit-206'>Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-207'>207</a></td><td><a href='#organisational-unit-207'>Studiengang Musikvermittlung | Orchesterleitung (B.Mus.)</a></td><td><a href='#organisational-unit-207'>Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-208'>208</a></td><td><a href='#organisational-unit-208'>Studiengang Musikvermittlung | Orchesterleitung (M.Mus.)</a></td><td><a href='#organisational-unit-208'>Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-209'>209</a></td><td><a href='#organisational-unit-209'>Studiengang Musikwissenschaft (B.A./ Zwei-Fach-Bachelor)</a></td><td><a href='#organisational-unit-209'>Study Programme Musicology (B.A./Dual-subject Bachelor)</a></td></tr>
-<tr><td><a href='#organisational-unit-210'>210</a></td><td><a href='#organisational-unit-210'>Studiengang Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-210'>Study Programme Musicology (M.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-211'>211</a></td><td><a href='#organisational-unit-211'>Studiengang Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-211'>Study Programme Orchestral Playing (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-212'>212</a></td><td><a href='#organisational-unit-212'>Studiengang Ton und Bild (B.Eng)</a></td><td><a href='#organisational-unit-212'>Study Programme Audio and Video (B.Eng.)</a></td></tr>
-<tr><td><a href='#organisational-unit-213'>213</a></td><td><a href='#organisational-unit-213'>Kooperationen</a></td><td><a href='#organisational-unit-213'>Cooperations</a></td></tr>
-<tr><td><a href='#organisational-unit-214'>214</a></td><td><a href='#organisational-unit-214'>Ausbildungsmusikkorps der Bundeswehr</a></td><td><a href='#organisational-unit-214'>Music Studies for the Armed Forces</a></td></tr>
-<tr><td><a href='#organisational-unit-215'>215</a></td><td><a href='#organisational-unit-215'>Kolleg für Musik und Kunst Montepulciano</a></td><td><a href='#organisational-unit-215'>College for Music and Art Montepulciano</a></td></tr>
-<tr><td><a href='#organisational-unit-216'>216</a></td><td><a href='#organisational-unit-216'>Orchesterzentrum|NRW</a></td><td><a href='#organisational-unit-216'>NRW Orchestra Centre</a></td></tr>
-<tr><td><a href='#organisational-unit-217'>217</a></td><td><a href='#organisational-unit-217'>Erich-Thienhaus-Institut</a></td><td><a href='#organisational-unit-217'>Erich Thienhaus Institute</a></td></tr>
-<tr><td><a href='#organisational-unit-218'>218</a></td><td><a href='#organisational-unit-218'>Fachbereich 1 (Orchesterinstrumente und Orchesterleitung)</a></td><td><a href='#organisational-unit-218'>Department 1 (Orchestral Instruments and Orchestral Conducting)</a></td></tr>
-<tr><td><a href='#organisational-unit-219'>219</a></td><td><a href='#organisational-unit-219'>Fachbereich 2 (Tasteninstrumente und Gesang)</a></td><td><a href='#organisational-unit-219'>Department 2 (Keyboard Instruments and Vocals)</a></td></tr>
-<tr><td><a href='#organisational-unit-220'>220</a></td><td><a href='#organisational-unit-220'>Fachbereich 3 (Komposition, Musiktheorie, Schulmusik, Instrumental- und Gesangspädagogik, Elementare Musikpädagogik, Chorleitung, Kirchenmusik, Musikübertragung)</a></td><td><a href='#organisational-unit-220'>Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting)</a></td></tr>
-<tr><td><a href='#organisational-unit-221'>221</a></td><td><a href='#organisational-unit-221'>Studiengang Master of Music | Oboe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-221'>Study Programme Master of Music | Oboe | Solist (M.Mus.)</a></td></tr>
-<tr><td><a href='#organisational-unit-222'>222</a></td><td><a href='#organisational-unit-222'>Studiengang Master of Music | Musikvermittlung/Musikmanagement</a></td><td><a href='#organisational-unit-222'>Studiengang Master of Music | Music Education/Music Management</a></td></tr>
-<tr><td><a href='#organisational-unit-223'>223</a></td><td><a href='#organisational-unit-223'>Hochschule Düsseldorf - University of Applied Sciences</a></td><td><a href='#organisational-unit-223'>Hochschule Düsseldorf - University of Applied Sciences</a></td></tr>
-<tr><td><a href='#organisational-unit-224'>224</a></td><td><a href='#organisational-unit-224'>Kunstakademie Düsseldorf</a></td><td><a href='#organisational-unit-224'>Kunstakademie Düsseldorf</a></td></tr>
-<tr><td><a href='#organisational-unit-225'>225</a></td><td><a href='#organisational-unit-225'>Royal Academy of Art, The Hague (KABK)</a></td><td><a href='#organisational-unit-225'>Royal Academy of Art, The Hague (KABK)</a></td></tr>
-<tr><td><a href='#organisational-unit-226'>226</a></td><td><a href='#organisational-unit-226'>Folkwang Tanzstudio</a></td><td><a href='#organisational-unit-226'>Folkwang Tanzstudio</a></td></tr>
-<tr><td><a href='#organisational-unit-227'>227</a></td><td><a href='#organisational-unit-227'>ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)</a></td><td><a href='#organisational-unit-227'>ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)</a></td></tr>
-<tr><td><a href='#organisational-unit-228'>228</a></td><td><a href='#organisational-unit-228'>tanzhaus nrw</a></td><td><a href='#organisational-unit-228'>tanzhaus nrw</a></td></tr>
-</table>
-</details>
-
-<details><summary>Organisational Units ordered by German Name | Organisationseinheiten nach Deutschem Namen geordnet</summary>
-<table>
-<tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='#organisational-unit-157'>Archiv für mediale Künste (Projektarchiv)</a></td><td><a href='#organisational-unit-157'>Archive for Media Arts, Academy of Media Arts Cologne (Project Archive)</a></td><td><a href='#organisational-unit-157'>157</a></td></tr>
-<tr><td><a href='#organisational-unit-158'>Archiv für mediale Künste (Veranstaltungsarchiv)</a></td><td><a href='#organisational-unit-158'>Archive for Media Arts, Academy of Media Arts Cologne (Event Archive)</a></td><td><a href='#organisational-unit-158'>158</a></td></tr>
-<tr><td><a href='#organisational-unit-227'>ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)</a></td><td><a href='#organisational-unit-227'>ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)</a></td><td><a href='#organisational-unit-227'>227</a></td></tr>
-<tr><td><a href='#organisational-unit-214'>Ausbildungsmusikkorps der Bundeswehr</a></td><td><a href='#organisational-unit-214'>Music Studies for the Armed Forces</a></td><td><a href='#organisational-unit-214'>214</a></td></tr>
-<tr><td><a href='#organisational-unit-170'>Callhoff-Archiv</a></td><td><a href='#organisational-unit-170'>Callhoff Archive</a></td><td><a href='#organisational-unit-170'>170</a></td></tr>
-<tr><td><a href='#organisational-unit-168'>Case – Projektraum der Fotografie</a></td><td><a href='#organisational-unit-168'>Case – Projektraum der Fotografie</a></td><td><a href='#organisational-unit-168'>168</a></td></tr>
-<tr><td><a href='#organisational-unit-45'>Detmolder Jungstudierenden-Institut</a></td><td><a href='#organisational-unit-45'>Detmold Young Students' Institute</a></td><td><a href='#organisational-unit-45'>45</a></td></tr>
-<tr><td><a href='#organisational-unit-2'>Deutsch-französischer Studiengang Musikwissenschaft (B.A./Licence des Artes et Sciences humaines)</a></td><td><a href='#organisational-unit-2'>German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines)</a></td><td><a href='#organisational-unit-2'>2</a></td></tr>
-<tr><td><a href='#organisational-unit-171'>DFG-Projekt  „Darstellung und Rezeption klassischer Musiker*innen bei YouTube: Aufführungs- und Lebenspraxen im digitalen Zeitalter“</a></td><td><a href='#organisational-unit-171'>DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age"</a></td><td><a href='#organisational-unit-171'>171</a></td></tr>
-<tr><td><a href='#organisational-unit-4'>Diplomstudiengang Physical Theatre (Artist Diploma)</a></td><td><a href='#organisational-unit-4'>Diploma Programme Physical Theatre (Artist Diploma)</a></td><td><a href='#organisational-unit-4'>4</a></td></tr>
-<tr><td><a href='#organisational-unit-5'>Diplomstudiengang Regie (Artist Diploma)</a></td><td><a href='#organisational-unit-5'>Diploma Programme Directing (Artist Diploma)</a></td><td><a href='#organisational-unit-5'>5</a></td></tr>
-<tr><td><a href='#organisational-unit-6'>Diplomstudiengang Schauspiel (Artist Diploma)</a></td><td><a href='#organisational-unit-6'>Diploma Programme Acting (Artist Diploma)</a></td><td><a href='#organisational-unit-6'>6</a></td></tr>
-<tr><td><a href='#organisational-unit-217'>Erich-Thienhaus-Institut</a></td><td><a href='#organisational-unit-217'>Erich Thienhaus Institute</a></td><td><a href='#organisational-unit-217'>217</a></td></tr>
-<tr><td><a href='#organisational-unit-172'>Exzellenzstudiengang Komposition</a></td><td><a href='#organisational-unit-172'>Excellence Programme Composition</a></td><td><a href='#organisational-unit-172'>172</a></td></tr>
-<tr><td><a href='#organisational-unit-173'>Exzellenzstudiengang Konzertexamen</a></td><td><a href='#organisational-unit-173'>Excellence Programme Music Performance</a></td><td><a href='#organisational-unit-173'>173</a></td></tr>
-<tr><td><a href='#organisational-unit-3'>Exzellenzstudiengang Konzertexamen (Zertifikat)</a></td><td><a href='#organisational-unit-3'>Concert Study Course of Excellence</a></td><td><a href='#organisational-unit-3'>3</a></td></tr>
-<tr><td><a href='#organisational-unit-218'>Fachbereich 1 (Orchesterinstrumente und Orchesterleitung)</a></td><td><a href='#organisational-unit-218'>Department 1 (Orchestral Instruments and Orchestral Conducting)</a></td><td><a href='#organisational-unit-218'>218</a></td></tr>
-<tr><td><a href='#organisational-unit-219'>Fachbereich 2 (Tasteninstrumente und Gesang)</a></td><td><a href='#organisational-unit-219'>Department 2 (Keyboard Instruments and Vocals)</a></td><td><a href='#organisational-unit-219'>219</a></td></tr>
-<tr><td><a href='#organisational-unit-220'>Fachbereich 3 (Komposition, Musiktheorie, Schulmusik, Instrumental- und Gesangspädagogik, Elementare Musikpädagogik, Chorleitung, Kirchenmusik, Musikübertragung)</a></td><td><a href='#organisational-unit-220'>Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting)</a></td><td><a href='#organisational-unit-220'>220</a></td></tr>
-<tr><td><a href='#organisational-unit-226'>Folkwang Tanzstudio</a></td><td><a href='#organisational-unit-226'>Folkwang Tanzstudio</a></td><td><a href='#organisational-unit-226'>226</a></td></tr>
-<tr><td><a href='#organisational-unit-1'>Folkwang Universität der Künste</a></td><td><a href='#organisational-unit-1'>Folkwang University of the Arts</a></td><td><a href='#organisational-unit-1'>1</a></td></tr>
-<tr><td><a href='#organisational-unit-175'>Forschungsstelle Sepulkralmusik</a></td><td><a href='#organisational-unit-175'>Research Centre Sepulchral Music</a></td><td><a href='#organisational-unit-175'>175</a></td></tr>
-<tr><td><a href='#organisational-unit-176'>Forschungsstelle Studio zur Digitalisierung historischer Tonträger</a></td><td><a href='#organisational-unit-176'>Research Centre Studio for the Digitisation of Historical Sound Recording Media</a></td><td><a href='#organisational-unit-176'>176</a></td></tr>
-<tr><td><a href='#organisational-unit-174'>Forschungsstelle „Düsseldorfs Bürgerliches Musikleben“</a></td><td><a href='#organisational-unit-174'>Reasearch Centre "Düsseldorf's Civic Music Life"</a></td><td><a href='#organisational-unit-174'>174</a></td></tr>
-<tr><td><a href='#organisational-unit-162'>Fächergruppe exMedia</a></td><td><a href='#organisational-unit-162'>exMedia Department</a></td><td><a href='#organisational-unit-162'>162</a></td></tr>
-<tr><td><a href='#organisational-unit-163'>Fächergruppe Film und Fernsehen</a></td><td><a href='#organisational-unit-163'>Film and Television Department</a></td><td><a href='#organisational-unit-163'>163</a></td></tr>
-<tr><td><a href='#organisational-unit-164'>Fächergruppe Kunst</a></td><td><a href='#organisational-unit-164'>Art Department</a></td><td><a href='#organisational-unit-164'>164</a></td></tr>
-<tr><td><a href='#organisational-unit-165'>Fächergruppe Kunst & Medienwissenschaften</a></td><td><a href='#organisational-unit-165'>Art and Media Studies Department</a></td><td><a href='#organisational-unit-165'>165</a></td></tr>
-<tr><td><a href='#organisational-unit-166'>Fächergruppe Mediengestaltung</a></td><td><a href='#organisational-unit-166'>Media Design Department</a></td><td><a href='#organisational-unit-166'>166</a></td></tr>
-<tr><td><a href='#organisational-unit-167'>Glasmoog – Raum für Kunst & Diskurs</a></td><td><a href='#organisational-unit-167'>Glasmoog – Space for Art & Discourse</a></td><td><a href='#organisational-unit-167'>167</a></td></tr>
-<tr><td><a href='#organisational-unit-223'>Hochschule Düsseldorf - University of Applied Sciences</a></td><td><a href='#organisational-unit-223'>Hochschule Düsseldorf - University of Applied Sciences</a></td><td><a href='#organisational-unit-223'>223</a></td></tr>
-<tr><td><a href='#organisational-unit-44'>Hochschule für Musik Detmold</a></td><td><a href='#organisational-unit-44'>Hochschule für Musik Detmold</a></td><td><a href='#organisational-unit-44'>44</a></td></tr>
-<tr><td><a href='#organisational-unit-83'>Hochschule für Musik und Tanz Köln</a></td><td><a href='#organisational-unit-83'>Hochschule für Musik und Tanz Köln</a></td><td><a href='#organisational-unit-83'>83</a></td></tr>
-<tr><td><a href='#organisational-unit-84'>Institut für Alte Musik</a></td><td><a href='#organisational-unit-84'>Institute for Early Music</a></td><td><a href='#organisational-unit-84'>84</a></td></tr>
-<tr><td><a href='#organisational-unit-7'>Institut für Computermusik und Elektronische Medien</a></td><td><a href='#organisational-unit-7'>Institute for Computer Music and Electronic Media</a></td><td><a href='#organisational-unit-7'>7</a></td></tr>
-<tr><td><a href='#organisational-unit-8'>Institut für Gregorianik</a></td><td><a href='#organisational-unit-8'>Institute for Gregorian Chant</a></td><td><a href='#organisational-unit-8'>8</a></td></tr>
-<tr><td><a href='#organisational-unit-85'>Institut für Historische Musikwissenschaft</a></td><td><a href='#organisational-unit-85'>Institute for Historic Musicology</a></td><td><a href='#organisational-unit-85'>85</a></td></tr>
-<tr><td><a href='#organisational-unit-177'>Institut für Kirchenmusik</a></td><td><a href='#organisational-unit-177'>Institute for Church Music</a></td><td><a href='#organisational-unit-177'>177</a></td></tr>
-<tr><td><a href='#organisational-unit-178'>Institut für Komposition und Musiktheorie</a></td><td><a href='#organisational-unit-178'>Institute for Composition and Music Theory</a></td><td><a href='#organisational-unit-178'>178</a></td></tr>
-<tr><td><a href='#organisational-unit-9'>Institut für Kunst- und Designwissenschaft</a></td><td><a href='#organisational-unit-9'>Institute for Art and Design Science</a></td><td><a href='#organisational-unit-9'>9</a></td></tr>
-<tr><td><a href='#organisational-unit-10'>Institut für künstlerische Nachwuchsförderung | folkwang junior</a></td><td><a href='#organisational-unit-10'>Institute for the Promotion of Young Artists | folkwang junior</a></td><td><a href='#organisational-unit-10'>10</a></td></tr>
-<tr><td><a href='#organisational-unit-179'>Institut für Musik und Medien</a></td><td><a href='#organisational-unit-179'>Institute for Music and Media</a></td><td><a href='#organisational-unit-179'>179</a></td></tr>
-<tr><td><a href='#organisational-unit-86'>Institut für Neue Musik</a></td><td><a href='#organisational-unit-86'>Institute for New Music</a></td><td><a href='#organisational-unit-86'>86</a></td></tr>
-<tr><td><a href='#organisational-unit-11'>Institut für Pop-Musik</a></td><td><a href='#organisational-unit-11'>Institute for Popular Music</a></td><td><a href='#organisational-unit-11'>11</a></td></tr>
-<tr><td><a href='#organisational-unit-12'>Institut für Zeitgenössischen Tanz</a></td><td><a href='#organisational-unit-12'>Institute for Contemporary Dance</a></td><td><a href='#organisational-unit-12'>12</a></td></tr>
-<tr><td><a href='#organisational-unit-180'>Institut Schumann Junior</a></td><td><a href='#organisational-unit-180'>Schumann Junior Institute</a></td><td><a href='#organisational-unit-180'>180</a></td></tr>
-<tr><td><a href='#organisational-unit-88'>Kinderchor der Hochschule</a></td><td><a href='#organisational-unit-88'>Children's Choir of the University</a></td><td><a href='#organisational-unit-88'>88</a></td></tr>
-<tr><td><a href='#organisational-unit-215'>Kolleg für Musik und Kunst Montepulciano</a></td><td><a href='#organisational-unit-215'>College for Music and Art Montepulciano</a></td><td><a href='#organisational-unit-215'>215</a></td></tr>
-<tr><td><a href='#organisational-unit-213'>Kooperationen</a></td><td><a href='#organisational-unit-213'>Cooperations</a></td><td><a href='#organisational-unit-213'>213</a></td></tr>
-<tr><td><a href='#organisational-unit-224'>Kunstakademie Düsseldorf</a></td><td><a href='#organisational-unit-224'>Kunstakademie Düsseldorf</a></td><td><a href='#organisational-unit-224'>224</a></td></tr>
-<tr><td><a href='#organisational-unit-156'>Kunsthochschule für Medien Köln</a></td><td><a href='#organisational-unit-156'>Academy of Media Arts Cologne</a></td><td><a href='#organisational-unit-156'>156</a></td></tr>
-<tr><td><a href='#organisational-unit-87'>Kölner Institut für Musikpädagogische Forschung</a></td><td><a href='#organisational-unit-87'>Cologne Institute for Music Pedagogy Research</a></td><td><a href='#organisational-unit-87'>87</a></td></tr>
-<tr><td><a href='#organisational-unit-89'>Liedakademie an der HfMT Köln</a></td><td><a href='#organisational-unit-89'>Song Academy at the HfMT Köln</a></td><td><a href='#organisational-unit-89'>89</a></td></tr>
-<tr><td><a href='#organisational-unit-181'>Musikwissenschaftliches Institut</a></td><td><a href='#organisational-unit-181'>Institute of Musicology</a></td><td><a href='#organisational-unit-181'>181</a></td></tr>
-<tr><td><a href='#organisational-unit-216'>Orchesterzentrum|NRW</a></td><td><a href='#organisational-unit-216'>NRW Orchestra Centre</a></td><td><a href='#organisational-unit-216'>216</a></td></tr>
-<tr><td><a href='#organisational-unit-90'>Peter-Ostwald-Institut</a></td><td><a href='#organisational-unit-90'>Peter Oswald Institute</a></td><td><a href='#organisational-unit-90'>90</a></td></tr>
-<tr><td><a href='#organisational-unit-91'>Pre-College Cologne</a></td><td><a href='#organisational-unit-91'>Pre-College Cologne</a></td><td><a href='#organisational-unit-91'>91</a></td></tr>
-<tr><td><a href='#organisational-unit-92'>Projekt EchoSpore</a></td><td><a href='#organisational-unit-92'>Project EchoSpore</a></td><td><a href='#organisational-unit-92'>92</a></td></tr>
-<tr><td><a href='#organisational-unit-93'>Projekt Schauspiel HfMT</a></td><td><a href='#organisational-unit-93'>Project Schauspiel HfMT (Acting HfMT)</a></td><td><a href='#organisational-unit-93'>93</a></td></tr>
-<tr><td><a href='#organisational-unit-94'>Projektseminar Jazz Against The Machine</a></td><td><a href='#organisational-unit-94'>Seminar Project Jazz Against The Machine</a></td><td><a href='#organisational-unit-94'>94</a></td></tr>
-<tr><td><a href='#organisational-unit-161'>Promotionsprogramm</a></td><td><a href='#organisational-unit-161'>Doctoral Programme</a></td><td><a href='#organisational-unit-161'>161</a></td></tr>
-<tr><td><a href='#organisational-unit-46'>Promotionsstudiengang Audiovisual Arts Computing (Dr.phil, Dr.- Ing)</a></td><td><a href='#organisational-unit-46'>Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing)</a></td><td><a href='#organisational-unit-46'>46</a></td></tr>
-<tr><td><a href='#organisational-unit-47'>Promotionsstudiengang Musikalische Akustik (Dr.)</a></td><td><a href='#organisational-unit-47'>Doctoral Programme Music Acoustics (Dr.)</a></td><td><a href='#organisational-unit-47'>47</a></td></tr>
-<tr><td><a href='#organisational-unit-48'>Promotionsstudiengang Musikwissenschaft (Dr.phil)</a></td><td><a href='#organisational-unit-48'>Doctoral Programme Musicology (Dr. Phil.)</a></td><td><a href='#organisational-unit-48'>48</a></td></tr>
-<tr><td><a href='#organisational-unit-182'>Promotionsstudiengang Musikwissenschaft (Dr.phil.)</a></td><td><a href='#organisational-unit-182'>Doctoral Programme Musicology (Dr. Phil.)</a></td><td><a href='#organisational-unit-182'>182</a></td></tr>
-<tr><td><a href='#organisational-unit-95'>Rheinische Opernakademie</a></td><td><a href='#organisational-unit-95'>Rheinische Opernakademie (Rhenish Opera Acadaemy)</a></td><td><a href='#organisational-unit-95'>95</a></td></tr>
-<tr><td><a href='#organisational-unit-169'>Robert Schumann Hochschule Düsseldorf</a></td><td><a href='#organisational-unit-169'>Robert Schumann Hochschule Düsseldorf</a></td><td><a href='#organisational-unit-169'>169</a></td></tr>
-<tr><td><a href='#organisational-unit-225'>Royal Academy of Art, The Hague (KABK)</a></td><td><a href='#organisational-unit-225'>Royal Academy of Art, The Hague (KABK)</a></td><td><a href='#organisational-unit-225'>225</a></td></tr>
-<tr><td><a href='#organisational-unit-96'>Studiengang Bachelor of Arts | Tanz (B.A.)</a></td><td><a href='#organisational-unit-96'>Study Programme Bachelor of Arts | Dance (B.A.)</a></td><td><a href='#organisational-unit-96'>96</a></td></tr>
-<tr><td><a href='#organisational-unit-97'>Studiengang Bachelor of Music | Blechbläser (B.Mus.)</a></td><td><a href='#organisational-unit-97'>Study Programme Bachelor of Music | Brass Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-97'>97</a></td></tr>
-<tr><td><a href='#organisational-unit-98'>Studiengang Bachelor of Music | Chordirigieren (B.Mus.)</a></td><td><a href='#organisational-unit-98'>Study Programme Bachelor of Music | Choral Conducting (B.Mus.)</a></td><td><a href='#organisational-unit-98'>98</a></td></tr>
-<tr><td><a href='#organisational-unit-99'>Studiengang Bachelor of Music | Elektronische Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-99'>Study Programme Bachelor of Music | Electronic Compostion (B.Mus.)</a></td><td><a href='#organisational-unit-99'>99</a></td></tr>
-<tr><td><a href='#organisational-unit-100'>Studiengang Bachelor of Music | Elementare Musikpädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-100'>Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.)</a></td><td><a href='#organisational-unit-100'>100</a></td></tr>
-<tr><td><a href='#organisational-unit-101'>Studiengang Bachelor of Music | Evangelische Kirchenmusik (B.Mus.)</a></td><td><a href='#organisational-unit-101'>Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.)</a></td><td><a href='#organisational-unit-101'>101</a></td></tr>
-<tr><td><a href='#organisational-unit-49'>Studiengang Bachelor of Music | Evangelsiche Kirchenmusik (B. Mus.)</a></td><td><a href='#organisational-unit-49'>Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.)</a></td><td><a href='#organisational-unit-49'>49</a></td></tr>
-<tr><td><a href='#organisational-unit-50'>Studiengang Bachelor of Music | Freischaffender Musiker (B. Mus.)</a></td><td><a href='#organisational-unit-50'>Study Programme Bachelor of Music | Freelance Musician (B.Mus.)</a></td><td><a href='#organisational-unit-50'>50</a></td></tr>
-<tr><td><a href='#organisational-unit-102'>Studiengang Bachelor of Music | Gesang (B.Mus.)</a></td><td><a href='#organisational-unit-102'>Study Programme Bachelor of Music | Voice (B.Mus.)</a></td><td><a href='#organisational-unit-102'>102</a></td></tr>
-<tr><td><a href='#organisational-unit-103'>Studiengang Bachelor of Music | Gitarre (B.Mus.)</a></td><td><a href='#organisational-unit-103'>Study Programme Bachelor of Music | Guitar (B.Mus.)</a></td><td><a href='#organisational-unit-103'>103</a></td></tr>
-<tr><td><a href='#organisational-unit-104'>Studiengang Bachelor of Music | Harfe (B.Mus.)</a></td><td><a href='#organisational-unit-104'>Study Programme Bachelor of Music | Harp (B.Mus.)</a></td><td><a href='#organisational-unit-104'>104</a></td></tr>
-<tr><td><a href='#organisational-unit-105'>Studiengang Bachelor of Music | Historische Instrumente (B.Mus.)</a></td><td><a href='#organisational-unit-105'>Study Programme Bachelor of Music | Historic Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-105'>105</a></td></tr>
-<tr><td><a href='#organisational-unit-106'>Studiengang Bachelor of Music | Holzbläser (B.Mus.)</a></td><td><a href='#organisational-unit-106'>Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-106'>106</a></td></tr>
-<tr><td><a href='#organisational-unit-107'>Studiengang Bachelor of Music | Instrumental-/Gesangspädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-107'>Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.)</a></td><td><a href='#organisational-unit-107'>107</a></td></tr>
-<tr><td><a href='#organisational-unit-108'>Studiengang Bachelor of Music | Instrumentale Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-108'>Study Programme Bachelor of Music | Instrumental Composition (B.Mus.)</a></td><td><a href='#organisational-unit-108'>108</a></td></tr>
-<tr><td><a href='#organisational-unit-109'>Studiengang Bachelor of Music | Jazz/Pop (B.Mus.)</a></td><td><a href='#organisational-unit-109'>Study Programme Bachelor of Music | Jazz/Pop (B.Mus.)</a></td><td><a href='#organisational-unit-109'>109</a></td></tr>
-<tr><td><a href='#organisational-unit-51'>Studiengang Bachelor of Music | Katholische Kirchenmusik (B. Mus.)</a></td><td><a href='#organisational-unit-51'>Study Programme Bachelor of Music | Catholic Church Music (B. Mus.)</a></td><td><a href='#organisational-unit-51'>51</a></td></tr>
-<tr><td><a href='#organisational-unit-110'>Studiengang Bachelor of Music | Katholische Kirchenmusik (B.Mus.)</a></td><td><a href='#organisational-unit-110'>Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.)</a></td><td><a href='#organisational-unit-110'>110</a></td></tr>
-<tr><td><a href='#organisational-unit-111'>Studiengang Bachelor of Music | Klavier (B.Mus.)</a></td><td><a href='#organisational-unit-111'>Study Programme Bachelor of Music | Piano (B.Mus.)</a></td><td><a href='#organisational-unit-111'>111</a></td></tr>
-<tr><td><a href='#organisational-unit-112'>Studiengang Bachelor of Music | Mandoline (B.Mus.)</a></td><td><a href='#organisational-unit-112'>Study Programme Bachelor of Music | Mandolin (B.Mus.)</a></td><td><a href='#organisational-unit-112'>112</a></td></tr>
-<tr><td><a href='#organisational-unit-113'>Studiengang Bachelor of Music | Orchesterdirigieren (B.Mus.)</a></td><td><a href='#organisational-unit-113'>Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.)</a></td><td><a href='#organisational-unit-113'>113</a></td></tr>
-<tr><td><a href='#organisational-unit-52'>Studiengang Bachelor of Music | Orchestermusiker (B. Mus.)</a></td><td><a href='#organisational-unit-52'>Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.)</a></td><td><a href='#organisational-unit-52'>52</a></td></tr>
-<tr><td><a href='#organisational-unit-114'>Studiengang Bachelor of Music | Orgel (B.Mus.)</a></td><td><a href='#organisational-unit-114'>Study Programme Bachelor of Music | Organ (B.Mus.)</a></td><td><a href='#organisational-unit-114'>114</a></td></tr>
-<tr><td><a href='#organisational-unit-115'>Studiengang Bachelor of Music | Schlagzeug/Pauke (B.Mus.)</a></td><td><a href='#organisational-unit-115'>Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.)</a></td><td><a href='#organisational-unit-115'>115</a></td></tr>
-<tr><td><a href='#organisational-unit-116'>Studiengang Bachelor of Music | Streicher (B.Mus.)</a></td><td><a href='#organisational-unit-116'>Study Programme Bachelor of Music | Strings (B.Mus.)</a></td><td><a href='#organisational-unit-116'>116</a></td></tr>
-<tr><td><a href='#organisational-unit-117'>Studiengang Bachelor of Music | Tonsatz/Musiktheorie (B.Mus.)</a></td><td><a href='#organisational-unit-117'>Study Programme Bachelor of Music | Composition/Music Theory</a></td><td><a href='#organisational-unit-117'>117</a></td></tr>
-<tr><td><a href='#organisational-unit-13'>Studiengang Design Futures (M.A.)</a></td><td><a href='#organisational-unit-13'>Study Programme Design Futures (M.A.)</a></td><td><a href='#organisational-unit-13'>13</a></td></tr>
-<tr><td><a href='#organisational-unit-14'>Studiengang Fotografie (B.A.)</a></td><td><a href='#organisational-unit-14'>Study Programme Photography (B.A.)</a></td><td><a href='#organisational-unit-14'>14</a></td></tr>
-<tr><td><a href='#organisational-unit-15'>Studiengang Gesang | Musiktheater (B.Mus.)</a></td><td><a href='#organisational-unit-15'>Study Programme Voice | Music Theatre (B.Mus.)</a></td><td><a href='#organisational-unit-15'>15</a></td></tr>
-<tr><td><a href='#organisational-unit-16'>Studiengang Gregorianik (Zertifikat)</a></td><td><a href='#organisational-unit-16'>Study Programme Gregorian Chant (Certificate)</a></td><td><a href='#organisational-unit-16'>16</a></td></tr>
-<tr><td><a href='#organisational-unit-17'>Studiengang Instrumentalausbildung (B.Mus.)</a></td><td><a href='#organisational-unit-17'>Study Programme Instrumental Training (B.A.)</a></td><td><a href='#organisational-unit-17'>17</a></td></tr>
-<tr><td><a href='#organisational-unit-18'>Studiengang Integrative Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-18'>Study Programme Integrative Composition (M.Mus.)</a></td><td><a href='#organisational-unit-18'>18</a></td></tr>
-<tr><td><a href='#organisational-unit-19'>Studiengang Integrative Musiktheorie (M.Mus.)</a></td><td><a href='#organisational-unit-19'>Study Programme Integrative Music Theory (M.Mus.)</a></td><td><a href='#organisational-unit-19'>19</a></td></tr>
-<tr><td><a href='#organisational-unit-20'>Studiengang Jazz | Artist Producer (M.Mus.)</a></td><td><a href='#organisational-unit-20'>Study Programme Jazz | Artist Producer (M.Mus.)</a></td><td><a href='#organisational-unit-20'>20</a></td></tr>
-<tr><td><a href='#organisational-unit-21'>Studiengang Jazz | Improvising Artist (M.Mus.)</a></td><td><a href='#organisational-unit-21'>Study Programme Jazz | Improvising Artist (M.Mus.)</a></td><td><a href='#organisational-unit-21'>21</a></td></tr>
-<tr><td><a href='#organisational-unit-22'>Studiengang Jazz | Performing Artist (B.Mus.)</a></td><td><a href='#organisational-unit-22'>Study Programme Jazz | Performing Artist (B.Mus.)</a></td><td><a href='#organisational-unit-22'>22</a></td></tr>
-<tr><td><a href='#organisational-unit-183'>Studiengang Klang und Realität (M.Mus.)</a></td><td><a href='#organisational-unit-183'>Study Programme Klang und Realität (M.Mus.)</a></td><td><a href='#organisational-unit-183'>183</a></td></tr>
-<tr><td><a href='#organisational-unit-23'>Studiengang Kommunikationsdesign (B.A.)</a></td><td><a href='#organisational-unit-23'>Study Programme Communication Design (B.A.)</a></td><td><a href='#organisational-unit-23'>23</a></td></tr>
-<tr><td><a href='#organisational-unit-24'>Studiengang Kommunikationsdesign (M.A.)</a></td><td><a href='#organisational-unit-24'>Study Programme Communication Design (M.A.)</a></td><td><a href='#organisational-unit-24'>24</a></td></tr>
-<tr><td><a href='#organisational-unit-184'>Studiengang Künstlerische Musikproduktion (M.Mus.)</a></td><td><a href='#organisational-unit-184'>Study Programme Artistic Music Production (M.Mus.)</a></td><td><a href='#organisational-unit-184'>184</a></td></tr>
-<tr><td><a href='#organisational-unit-25'>Studiengang Lehramt Musik (B.A.)</a></td><td><a href='#organisational-unit-25'>Study Programme Music Teaching (B.A.)</a></td><td><a href='#organisational-unit-25'>25</a></td></tr>
-<tr><td><a href='#organisational-unit-26'>Studiengang Lehramt Musik (M.Ed.)</a></td><td><a href='#organisational-unit-26'>Study Programme Music Teaching (M.Ed.)</a></td><td><a href='#organisational-unit-26'>26</a></td></tr>
-<tr><td><a href='#organisational-unit-27'>Studiengang Leitung vokaler Ensembles (M.Mus.)</a></td><td><a href='#organisational-unit-27'>Study Programme Directing of Vocal Ensembles (M.Mus.)</a></td><td><a href='#organisational-unit-27'>27</a></td></tr>
-<tr><td><a href='#organisational-unit-118'>Studiengang Master of Arts | Musikpädagogik (M.A.)</a></td><td><a href='#organisational-unit-118'>Study Programme Master of Arts | Music Pedagogy (M.A.)</a></td><td><a href='#organisational-unit-118'>118</a></td></tr>
-<tr><td><a href='#organisational-unit-119'>Studiengang Master of Arts | Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-119'>Study Programme Master of Arts | Musicology (M.A.)</a></td><td><a href='#organisational-unit-119'>119</a></td></tr>
-<tr><td><a href='#organisational-unit-120'>Studiengang Master of Arts | Tanzvermittlung (M.A.)</a></td><td><a href='#organisational-unit-120'>Study Programme Master of Arts | Medition in Dance (M.A.)</a></td><td><a href='#organisational-unit-120'>120</a></td></tr>
-<tr><td><a href='#organisational-unit-121'>Studiengang Master of Arts | Tanzwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-121'>Study Programme Master of Arts | Dance Studies (M.A.)</a></td><td><a href='#organisational-unit-121'>121</a></td></tr>
-<tr><td><a href='#organisational-unit-53'>Studiengang Master of Music | Akkordion | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-53'>Study Programme Master of Music | Accordion | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-53'>53</a></td></tr>
-<tr><td><a href='#organisational-unit-54'>Studiengang Master of Music | Akkordion | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-54'>Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-54'>54</a></td></tr>
-<tr><td><a href='#organisational-unit-55'>Studiengang Master of Music | Akkordion | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-55'>Study Programme Master of Music | Accordion | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-55'>55</a></td></tr>
-<tr><td><a href='#organisational-unit-122'>Studiengang Master of Music | Blasinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-122'>Study Programme Master of Music | Wind Instruments (M.Mus.)</a></td><td><a href='#organisational-unit-122'>122</a></td></tr>
-<tr><td><a href='#organisational-unit-56'>Studiengang Master of Music | Blockflöte | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-56'>Study Programme Master of Music | Recorder | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-56'>56</a></td></tr>
-<tr><td><a href='#organisational-unit-57'>Studiengang Master of Music | Blockflöte | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-57'>Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-57'>57</a></td></tr>
-<tr><td><a href='#organisational-unit-58'>Studiengang Master of Music | Blockflöte | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-58'>Study Programme Master of Music | Recorder | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-58'>58</a></td></tr>
-<tr><td><a href='#organisational-unit-123'>Studiengang Master of Music | Dirigieren Chor (M.Mus.)</a></td><td><a href='#organisational-unit-123'>Study Programme Master of Music | Choral Conducting (M.Mus.)</a></td><td><a href='#organisational-unit-123'>123</a></td></tr>
-<tr><td><a href='#organisational-unit-124'>Studiengang Master of Music | Dirigieren Musiktheater  (M.Mus.)</a></td><td><a href='#organisational-unit-124'>Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.)</a></td><td><a href='#organisational-unit-124'>124</a></td></tr>
-<tr><td><a href='#organisational-unit-125'>Studiengang Master of Music | Dirigieren Orchester (M.Mus.)</a></td><td><a href='#organisational-unit-125'>Study Programme Master of Music | Conducting Orchestra (M.Mus.)</a></td><td><a href='#organisational-unit-125'>125</a></td></tr>
-<tr><td><a href='#organisational-unit-126'>Studiengang Master of Music | Dirigieren Zeitgenössische Musik (M.Mus.)</a></td><td><a href='#organisational-unit-126'>Study Programme Master of Music | Conducting Contemporary Music (M.Mus.)</a></td><td><a href='#organisational-unit-126'>126</a></td></tr>
-<tr><td><a href='#organisational-unit-127'>Studiengang Master of Music | Elektronische Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-127'>Study Programme Master of Music | Electronic Composition (M.Mus.)</a></td><td><a href='#organisational-unit-127'>127</a></td></tr>
-<tr><td><a href='#organisational-unit-128'>Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-128'>Study Programme Master of Music | Church Music (Protestant) (M.Mus.)</a></td><td><a href='#organisational-unit-128'>128</a></td></tr>
-<tr><td><a href='#organisational-unit-59'>Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-59'>Study Programme Master of Music | Protestant Church Music (M.Mus.)</a></td><td><a href='#organisational-unit-59'>59</a></td></tr>
-<tr><td><a href='#organisational-unit-61'>Studiengang Master of Music | Fagott | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-61'>Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-61'>61</a></td></tr>
-<tr><td><a href='#organisational-unit-62'>Studiengang Master of Music | Fagott | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-62'>Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-62'>62</a></td></tr>
-<tr><td><a href='#organisational-unit-63'>Studiengang Master of Music | Fagott | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-63'>Study Programme Master of Music | Bassoon | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-63'>63</a></td></tr>
-<tr><td><a href='#organisational-unit-60'>Studiengang Master of Music | Fagott| Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-60'>Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-60'>60</a></td></tr>
-<tr><td><a href='#organisational-unit-64'>Studiengang Master of Music | Flöte | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-64'>Study Programme Master of Music | Flute | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-64'>64</a></td></tr>
-<tr><td><a href='#organisational-unit-65'>Studiengang Master of Music | Flöte | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-65'>Study Programme Master of Music | Flute | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-65'>65</a></td></tr>
-<tr><td><a href='#organisational-unit-66'>Studiengang Master of Music | Flöte | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-66'>Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-66'>66</a></td></tr>
-<tr><td><a href='#organisational-unit-67'>Studiengang Master of Music | Flöte | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-67'>Study Programme Master of Music | Flute | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-67'>67</a></td></tr>
-<tr><td><a href='#organisational-unit-129'>Studiengang Master of Music | Gesang Lied/Konzert (M.Mus.)</a></td><td><a href='#organisational-unit-129'>Study Programme Master of Music | Voice Song/Concert (M.Mus.)</a></td><td><a href='#organisational-unit-129'>129</a></td></tr>
-<tr><td><a href='#organisational-unit-130'>Studiengang Master of Music | Gesang Musiktheater (M.Mus.)</a></td><td><a href='#organisational-unit-130'>Study Programme Master of Music | Voice Music Theatre (M.Mus.)</a></td><td><a href='#organisational-unit-130'>130</a></td></tr>
-<tr><td><a href='#organisational-unit-131'>Studiengang Master of Music | Gitarre (M.Mus.)</a></td><td><a href='#organisational-unit-131'>Study Programme Master of Music | Guitar (M.Mus.)</a></td><td><a href='#organisational-unit-131'>131</a></td></tr>
-<tr><td><a href='#organisational-unit-69'>Studiengang Master of Music | Gitarre | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-69'>Study Programme Master of Music | Guitar | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-69'>69</a></td></tr>
-<tr><td><a href='#organisational-unit-70'>Studiengang Master of Music | Gitarre | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-70'>Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-70'>70</a></td></tr>
-<tr><td><a href='#organisational-unit-68'>Studiengang Master of Music | Gitarre | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-68'>Study Programme Master of Music | Guitar | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-68'>68</a></td></tr>
-<tr><td><a href='#organisational-unit-132'>Studiengang Master of Music | Harfe (M.Mus.)</a></td><td><a href='#organisational-unit-132'>Study Programme Master of Music | Harp (M.Mus.)</a></td><td><a href='#organisational-unit-132'>132</a></td></tr>
-<tr><td><a href='#organisational-unit-71'>Studiengang Master of Music | Harfe | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-71'>Study Programme Master of Music | Harp | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-71'>71</a></td></tr>
-<tr><td><a href='#organisational-unit-72'>Studiengang Master of Music | Harfe | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-72'>Study Programme Master of Music | Harp | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-72'>72</a></td></tr>
-<tr><td><a href='#organisational-unit-73'>Studiengang Master of Music | Harfe | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-73'>Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-73'>73</a></td></tr>
-<tr><td><a href='#organisational-unit-74'>Studiengang Master of Music | Harfe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-74'>Study Programme Master of Music | Harp | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-74'>74</a></td></tr>
-<tr><td><a href='#organisational-unit-133'>Studiengang Master of Music | Historische Instrumente und Barockgesang (M.Mus.)</a></td><td><a href='#organisational-unit-133'>Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.)</a></td><td><a href='#organisational-unit-133'>133</a></td></tr>
-<tr><td><a href='#organisational-unit-134'>Studiengang Master of Music | Instrumentale Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-134'>Study Programme Master of Music | Instrumental Composition (M.Mus.)</a></td><td><a href='#organisational-unit-134'>134</a></td></tr>
-<tr><td><a href='#organisational-unit-135'>Studiengang Master of Music | Interpretation Neue Musik (M.Mus.)</a></td><td><a href='#organisational-unit-135'>Study Programme Master of Music | Interpretation New Music (M.Mus.)</a></td><td><a href='#organisational-unit-135'>135</a></td></tr>
-<tr><td><a href='#organisational-unit-136'>Studiengang Master of Music | Jazz-Komposition/Arrangement (M.Mus.)</a></td><td><a href='#organisational-unit-136'>Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.)</a></td><td><a href='#organisational-unit-136'>136</a></td></tr>
-<tr><td><a href='#organisational-unit-137'>Studiengang Master of Music | Jazz/Pop Instrumental/Vokal (M.Mus.)</a></td><td><a href='#organisational-unit-137'>Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.)</a></td><td><a href='#organisational-unit-137'>137</a></td></tr>
-<tr><td><a href='#organisational-unit-138'>Studiengang Master of Music | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-138'>Study Programme Master of Music | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-138'>138</a></td></tr>
-<tr><td><a href='#organisational-unit-75'>Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-75'>Study Programme Master of Music | Catholic Church Music (M.Mus.)</a></td><td><a href='#organisational-unit-75'>75</a></td></tr>
-<tr><td><a href='#organisational-unit-139'>Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-139'>Study Programme Master of Music | Church Music (Catholic) (M.Mus.)</a></td><td><a href='#organisational-unit-139'>139</a></td></tr>
-<tr><td><a href='#organisational-unit-140'>Studiengang Master of Music | Klavier (M.Mus.)</a></td><td><a href='#organisational-unit-140'>Study Programme Master of Music | Piano (M.Mus.)</a></td><td><a href='#organisational-unit-140'>140</a></td></tr>
-<tr><td><a href='#organisational-unit-141'>Studiengang Master of Music | Liedgestaltung (Klavier) (M.Mus.)</a></td><td><a href='#organisational-unit-141'>Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.)</a></td><td><a href='#organisational-unit-141'>141</a></td></tr>
-<tr><td><a href='#organisational-unit-142'>Studiengang Master of Music | Mandoline (M.Mus.)</a></td><td><a href='#organisational-unit-142'>Study Programme Master of Music | Mandolin (M.Mus.)</a></td><td><a href='#organisational-unit-142'>142</a></td></tr>
-<tr><td><a href='#organisational-unit-222'>Studiengang Master of Music | Musikvermittlung/Musikmanagement</a></td><td><a href='#organisational-unit-222'>Studiengang Master of Music | Music Education/Music Management</a></td><td><a href='#organisational-unit-222'>222</a></td></tr>
-<tr><td><a href='#organisational-unit-143'>Studiengang Master of Music | Neue Klaviermusik (M.Mus.)</a></td><td><a href='#organisational-unit-143'>Study Programme Master of Music | Modern Piano Music (M.Mus.)</a></td><td><a href='#organisational-unit-143'>143</a></td></tr>
-<tr><td><a href='#organisational-unit-221'>Studiengang Master of Music | Oboe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-221'>Study Programme Master of Music | Oboe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-221'>221</a></td></tr>
-<tr><td><a href='#organisational-unit-144'>Studiengang Master of Music | Opernkorrepetition (M.Mus.)</a></td><td><a href='#organisational-unit-144'>Study Programme Master of Music | Opera Correpetition (M.Mus.)</a></td><td><a href='#organisational-unit-144'>144</a></td></tr>
-<tr><td><a href='#organisational-unit-145'>Studiengang Master of Music | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-145'>Study Programme Master of Music | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-145'>145</a></td></tr>
-<tr><td><a href='#organisational-unit-146'>Studiengang Master of Music | Orgel (M.Mus.)</a></td><td><a href='#organisational-unit-146'>Study Programme Master of Music | Organ (M.Mus.)</a></td><td><a href='#organisational-unit-146'>146</a></td></tr>
-<tr><td><a href='#organisational-unit-77'>Studiengang Master of Music | Orgel | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-77'>Study Programme Master of Music | Organ | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-77'>77</a></td></tr>
-<tr><td><a href='#organisational-unit-76'>Studiengang Master of Music | Orgel | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-76'>Study Programme Master of Music | Organ | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-76'>76</a></td></tr>
-<tr><td><a href='#organisational-unit-78'>Studiengang Master of Music | Orgel| Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-78'>Study Programme Master of Music | Organ | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-78'>78</a></td></tr>
-<tr><td><a href='#organisational-unit-147'>Studiengang Master of Music | Production (M.Mus.)</a></td><td><a href='#organisational-unit-147'>Study Programme Master of Music | Production (M.Mus.)</a></td><td><a href='#organisational-unit-147'>147</a></td></tr>
-<tr><td><a href='#organisational-unit-80'>Studiengang Master of Music | Saxophon | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-80'>Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-80'>80</a></td></tr>
-<tr><td><a href='#organisational-unit-81'>Studiengang Master of Music | Saxophon | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-81'>Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-81'>81</a></td></tr>
-<tr><td><a href='#organisational-unit-79'>Studiengang Master of Music | Saxophon | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-79'>Study Programme Master of Music | Saxophone | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-79'>79</a></td></tr>
-<tr><td><a href='#organisational-unit-148'>Studiengang Master of Music | Schlagzeug/Pauke (M.Mus.)</a></td><td><a href='#organisational-unit-148'>Study Programme Master of Music | Percussion/Timpani (M.Mus.)</a></td><td><a href='#organisational-unit-148'>148</a></td></tr>
-<tr><td><a href='#organisational-unit-149'>Studiengang Master of Music | Streichinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-149'>Study Programme Master of Music | String Instruments (M.Mus.)</a></td><td><a href='#organisational-unit-149'>149</a></td></tr>
-<tr><td><a href='#organisational-unit-150'>Studiengang Master of Music | Tonsatz (M.Mus.)</a></td><td><a href='#organisational-unit-150'>Study Programme Master of Music | Music Theory (M.Mus.)</a></td><td><a href='#organisational-unit-150'>150</a></td></tr>
-<tr><td><a href='#organisational-unit-160'>Studiengang Mediale Künste | 4-semestriges Diplomstudium (postgradual, Diplom 2)</a></td><td><a href='#organisational-unit-160'>Media and Fine Art Diploma 2 | Postgraduate Course</a></td><td><a href='#organisational-unit-160'>160</a></td></tr>
-<tr><td><a href='#organisational-unit-159'>Studiengang Mediale Künste | 9-semestriges Diplomstudium (grundständig, Diplom 1)</a></td><td><a href='#organisational-unit-159'>Media and Fine Art Diploma 1 | Undergraduate Course</a></td><td><a href='#organisational-unit-159'>159</a></td></tr>
-<tr><td><a href='#organisational-unit-28'>Studiengang Musical (B.A.)</a></td><td><a href='#organisational-unit-28'>Study Programme Musical (B.A.)</a></td><td><a href='#organisational-unit-28'>28</a></td></tr>
-<tr><td><a href='#organisational-unit-29'>Studiengang Musik des Mittelalters (M.Mus.)</a></td><td><a href='#organisational-unit-29'>Study Programme Music of the Middle Ages (M.Mus.)</a></td><td><a href='#organisational-unit-29'>29</a></td></tr>
-<tr><td><a href='#organisational-unit-197'>Studiengang Musik und Medien (B.Mus.)</a></td><td><a href='#organisational-unit-197'>Study Programme Music and Media (B.Mus.)</a></td><td><a href='#organisational-unit-197'>197</a></td></tr>
-<tr><td><a href='#organisational-unit-185'>Studiengang Musik | Gesang (B.Mus.)</a></td><td><a href='#organisational-unit-185'>Study Programme Music Performance | Voice major (B.Mus.)</a></td><td><a href='#organisational-unit-185'>185</a></td></tr>
-<tr><td><a href='#organisational-unit-186'>Studiengang Musik | Gesang (M.Mus.)</a></td><td><a href='#organisational-unit-186'>Study Programme Music Performance | Voice  major (M.Mus.)</a></td><td><a href='#organisational-unit-186'>186</a></td></tr>
-<tr><td><a href='#organisational-unit-187'>Studiengang Musik | Gitarre (B.Mus.)</a></td><td><a href='#organisational-unit-187'>Study Programme Music Performance | Guitar major (B.Mus.)</a></td><td><a href='#organisational-unit-187'>187</a></td></tr>
-<tr><td><a href='#organisational-unit-188'>Studiengang Musik | Gitarre (M.Mus.)</a></td><td><a href='#organisational-unit-188'>Study Programme Music Performance | Guitar major (M.Mus.)</a></td><td><a href='#organisational-unit-188'>188</a></td></tr>
-<tr><td><a href='#organisational-unit-189'>Studiengang Musik | Klavier (B.Mus.)</a></td><td><a href='#organisational-unit-189'>Study Programme Music Performance | Piano major (B.Mus.)</a></td><td><a href='#organisational-unit-189'>189</a></td></tr>
-<tr><td><a href='#organisational-unit-190'>Studiengang Musik | Klavier (M.Mus.)</a></td><td><a href='#organisational-unit-190'>Study Programme Music Performance | Piano major (M.Mus.)</a></td><td><a href='#organisational-unit-190'>190</a></td></tr>
-<tr><td><a href='#organisational-unit-191'>Studiengang Musik | Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-191'>Study Programme Music Performance | Composition (B.Mus.)</a></td><td><a href='#organisational-unit-191'>191</a></td></tr>
-<tr><td><a href='#organisational-unit-192'>Studiengang Musik | Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-192'>Study Programme Music Performance | Composition (M.Mus.)</a></td><td><a href='#organisational-unit-192'>192</a></td></tr>
-<tr><td><a href='#organisational-unit-193'>Studiengang Musik | Orchesterinstrumente (B.Mus.)</a></td><td><a href='#organisational-unit-193'>Study Programme Orchestral Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-193'>193</a></td></tr>
-<tr><td><a href='#organisational-unit-194'>Studiengang Musik | Orchesterinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-194'>Study Programme Orchestral Instruments (M.Mus.)</a></td><td><a href='#organisational-unit-194'>194</a></td></tr>
-<tr><td><a href='#organisational-unit-195'>Studiengang Musik | Orgel (B.Mus.)</a></td><td><a href='#organisational-unit-195'>Study Programme Music Performance | Organ major (B.Mus.)</a></td><td><a href='#organisational-unit-195'>195</a></td></tr>
-<tr><td><a href='#organisational-unit-196'>Studiengang Musik | Orgel (M.Mus.)</a></td><td><a href='#organisational-unit-196'>Study Programme Music Performance | Organ major (M.Mus.)</a></td><td><a href='#organisational-unit-196'>196</a></td></tr>
-<tr><td><a href='#organisational-unit-30'>Studiengang Musikpädagogik (B.A.)</a></td><td><a href='#organisational-unit-30'>Study Programme Music Pedagogy (B.A.)</a></td><td><a href='#organisational-unit-30'>30</a></td></tr>
-<tr><td><a href='#organisational-unit-198'>Studiengang Musikvermittlung | Chorleitung (B.Mus.)</a></td><td><a href='#organisational-unit-198'>Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.)</a></td><td><a href='#organisational-unit-198'>198</a></td></tr>
-<tr><td><a href='#organisational-unit-199'>Studiengang Musikvermittlung | Chorleitung (M.Mus.)</a></td><td><a href='#organisational-unit-199'>Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.)</a></td><td><a href='#organisational-unit-199'>199</a></td></tr>
-<tr><td><a href='#organisational-unit-200'>Studiengang Musikvermittlung | Kirchenmusik  (evangelisch) (B.Mus.)</a></td><td><a href='#organisational-unit-200'>Study Programme Music Promotion | Church Music (protestant) (B.Mus.)</a></td><td><a href='#organisational-unit-200'>200</a></td></tr>
-<tr><td><a href='#organisational-unit-202'>Studiengang Musikvermittlung | Kirchenmusik  (katholisch) (B.Mus.)</a></td><td><a href='#organisational-unit-202'>Study Programme Music Promotion | Church Music (catholic) (B.Mus.)</a></td><td><a href='#organisational-unit-202'>202</a></td></tr>
-<tr><td><a href='#organisational-unit-201'>Studiengang Musikvermittlung | Kirchenmusik (evangelisch) (M.Mus.)</a></td><td><a href='#organisational-unit-201'>Study Programme Music Promotion | Church Music (protestant) (M.Mus.)</a></td><td><a href='#organisational-unit-201'>201</a></td></tr>
-<tr><td><a href='#organisational-unit-203'>Studiengang Musikvermittlung | Kirchenmusik (katholisch) (M.Mus.)</a></td><td><a href='#organisational-unit-203'>Study Programme Music Promotion | Church Music (catholic) (M.Mus.)</a></td><td><a href='#organisational-unit-203'>203</a></td></tr>
-<tr><td><a href='#organisational-unit-204'>Studiengang Musikvermittlung | Musikpädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-204'>Study Programme Music Promotion | Music Pedagogy (B.Mus.)</a></td><td><a href='#organisational-unit-204'>204</a></td></tr>
-<tr><td><a href='#organisational-unit-205'>Studiengang Musikvermittlung | Musikpädagogik (M.Mus.)</a></td><td><a href='#organisational-unit-205'>Study Programme Music Promotion | Music Pedagogy (M.Mus.)</a></td><td><a href='#organisational-unit-205'>205</a></td></tr>
-<tr><td><a href='#organisational-unit-206'>Studiengang Musikvermittlung | Musiktherorie und Hörerziehung (B.Mus.)</a></td><td><a href='#organisational-unit-206'>Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.)</a></td><td><a href='#organisational-unit-206'>206</a></td></tr>
-<tr><td><a href='#organisational-unit-207'>Studiengang Musikvermittlung | Orchesterleitung (B.Mus.)</a></td><td><a href='#organisational-unit-207'>Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.)</a></td><td><a href='#organisational-unit-207'>207</a></td></tr>
-<tr><td><a href='#organisational-unit-208'>Studiengang Musikvermittlung | Orchesterleitung (M.Mus.)</a></td><td><a href='#organisational-unit-208'>Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.)</a></td><td><a href='#organisational-unit-208'>208</a></td></tr>
-<tr><td><a href='#organisational-unit-209'>Studiengang Musikwissenschaft (B.A./ Zwei-Fach-Bachelor)</a></td><td><a href='#organisational-unit-209'>Study Programme Musicology (B.A./Dual-subject Bachelor)</a></td><td><a href='#organisational-unit-209'>209</a></td></tr>
-<tr><td><a href='#organisational-unit-31'>Studiengang Musikwissenschaft (B.A./Zwei-Fach-Bachelor)</a></td><td><a href='#organisational-unit-31'>Study Programme Musicology (B. A./Dual-subject Bachelor)</a></td><td><a href='#organisational-unit-31'>31</a></td></tr>
-<tr><td><a href='#organisational-unit-210'>Studiengang Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-210'>Study Programme Musicology (M.A.)</a></td><td><a href='#organisational-unit-210'>210</a></td></tr>
-<tr><td><a href='#organisational-unit-32'>Studiengang Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-32'>Study Programme Musicology (M.A.)</a></td><td><a href='#organisational-unit-32'>32</a></td></tr>
-<tr><td><a href='#organisational-unit-33'>Studiengang Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-33'>Study Programme Orchestral Performance (M.Mus.)</a></td><td><a href='#organisational-unit-33'>33</a></td></tr>
-<tr><td><a href='#organisational-unit-211'>Studiengang Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-211'>Study Programme Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-211'>211</a></td></tr>
-<tr><td><a href='#organisational-unit-34'>Studiengang Photography Studies and Practice (M.A.)</a></td><td><a href='#organisational-unit-34'>Study Programme Photography Studies and Practice (M.A.)</a></td><td><a href='#organisational-unit-34'>34</a></td></tr>
-<tr><td><a href='#organisational-unit-35'>Studiengang Photography Studies and Research (M.A.)</a></td><td><a href='#organisational-unit-35'>Study Programme Photography Studies and Research (M.A.)</a></td><td><a href='#organisational-unit-35'>35</a></td></tr>
-<tr><td><a href='#organisational-unit-36'>Studiengang Populäre Musik (M.Mus.)</a></td><td><a href='#organisational-unit-36'>Study Programme Popular Music (M.Mus.)</a></td><td><a href='#organisational-unit-36'>36</a></td></tr>
-<tr><td><a href='#organisational-unit-37'>Studiengang Product Design (B.A.)</a></td><td><a href='#organisational-unit-37'>Study Programme Product Design (B.A.)</a></td><td><a href='#organisational-unit-37'>37</a></td></tr>
-<tr><td><a href='#organisational-unit-38'>Studiengang Professional Media Creation (M.A.)</a></td><td><a href='#organisational-unit-38'>Study Programme Media Creation (M.A.)</a></td><td><a href='#organisational-unit-38'>38</a></td></tr>
-<tr><td><a href='#organisational-unit-39'>Studiengang Professionelle Performance (M.Mus.)</a></td><td><a href='#organisational-unit-39'>Study Programme Profession Performance (M.Mus.)</a></td><td><a href='#organisational-unit-39'>39</a></td></tr>
-<tr><td><a href='#organisational-unit-40'>Studiengang Tanzkomposition | Bewegungsnotation/Bewegungsanalyse (M.A.)</a></td><td><a href='#organisational-unit-40'>Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.)</a></td><td><a href='#organisational-unit-40'>40</a></td></tr>
-<tr><td><a href='#organisational-unit-41'>Studiengang Tanzkomposition | Choreographie (M.A.)</a></td><td><a href='#organisational-unit-41'>Study Programme Dance Composition | Choreography (M.A.)</a></td><td><a href='#organisational-unit-41'>41</a></td></tr>
-<tr><td><a href='#organisational-unit-42'>Studiengang Tanzkomposition | Interpretation (M.A.)</a></td><td><a href='#organisational-unit-42'>Study Programme Dance Composition | Interpreatation (M.A.)</a></td><td><a href='#organisational-unit-42'>42</a></td></tr>
-<tr><td><a href='#organisational-unit-43'>Studiengang Tanzpädagogik für künstlerischen Tanz (M.A.)</a></td><td><a href='#organisational-unit-43'>Study Programme Dance Padagogy for Artistic Dance (M.A.)</a></td><td><a href='#organisational-unit-43'>43</a></td></tr>
-<tr><td><a href='#organisational-unit-212'>Studiengang Ton und Bild (B.Eng)</a></td><td><a href='#organisational-unit-212'>Study Programme Audio and Video (B.Eng.)</a></td><td><a href='#organisational-unit-212'>212</a></td></tr>
-<tr><td><a href='#organisational-unit-151'>Studio für Elektronische Musik</a></td><td><a href='#organisational-unit-151'>Studio for Electronic Music</a></td><td><a href='#organisational-unit-151'>151</a></td></tr>
-<tr><td><a href='#organisational-unit-228'>tanzhaus nrw</a></td><td><a href='#organisational-unit-228'>tanzhaus nrw</a></td><td><a href='#organisational-unit-228'>228</a></td></tr>
-<tr><td><a href='#organisational-unit-152'>Tonbandarchiv der Bibliothek</a></td><td><a href='#organisational-unit-152'>Library Tape Archive</a></td><td><a href='#organisational-unit-152'>152</a></td></tr>
-<tr><td><a href='#organisational-unit-153'>Voc.Cologne</a></td><td><a href='#organisational-unit-153'>Voc.Cologne</a></td><td><a href='#organisational-unit-153'>153</a></td></tr>
-<tr><td><a href='#organisational-unit-154'>Zentrum  für MusiklehrerInnenbildung im Beruf</a></td><td><a href='#organisational-unit-154'>Centre for Music Teacher Education in the Job</a></td><td><a href='#organisational-unit-154'>154</a></td></tr>
-<tr><td><a href='#organisational-unit-82'>Zentrum für Musik- und Filminformatik</a></td><td><a href='#organisational-unit-82'>Centre for Music and Film Informatics</a></td><td><a href='#organisational-unit-82'>82</a></td></tr>
-<tr><td><a href='#organisational-unit-155'>Zentrum für Zeitgenössischen Tanz</a></td><td><a href='#organisational-unit-155'>Centre of Contemporary Dance</a></td><td><a href='#organisational-unit-155'>155</a></td></tr>
-</table>
-</details>
-
-<details><summary>Organisational Units ordered by German Breadcrumb | Organisationseinheiten nach Deutschem Breadcrumb geordnet</summary>
-<table>
-<tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a></td><td><a href='#organisational-unit-1'>1</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-2">Deutsch-französischer Studiengang Musikwissenschaft (B.A./Licence des Artes et Sciences humaines)</a></td><td><a href='#organisational-unit-2'>2</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-4">Diplomstudiengang Physical Theatre (Artist Diploma)</a></td><td><a href='#organisational-unit-4'>4</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-5">Diplomstudiengang Regie (Artist Diploma)</a></td><td><a href='#organisational-unit-5'>5</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-6">Diplomstudiengang Schauspiel (Artist Diploma)</a></td><td><a href='#organisational-unit-6'>6</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-3">Exzellenzstudiengang Konzertexamen (Zertifikat)</a></td><td><a href='#organisational-unit-3'>3</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-226">Folkwang Tanzstudio</a></td><td><a href='#organisational-unit-226'>226</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-7">Institut für Computermusik und Elektronische Medien</a></td><td><a href='#organisational-unit-7'>7</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-8">Institut für Gregorianik</a></td><td><a href='#organisational-unit-8'>8</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-9">Institut für Kunst- und Designwissenschaft</a></td><td><a href='#organisational-unit-9'>9</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-10">Institut für künstlerische Nachwuchsförderung | folkwang junior</a></td><td><a href='#organisational-unit-10'>10</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-11">Institut für Pop-Musik</a></td><td><a href='#organisational-unit-11'>11</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-12">Institut für Zeitgenössischen Tanz</a></td><td><a href='#organisational-unit-12'>12</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-13">Studiengang Design Futures (M.A.)</a></td><td><a href='#organisational-unit-13'>13</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-14">Studiengang Fotografie (B.A.)</a></td><td><a href='#organisational-unit-14'>14</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-15">Studiengang Gesang | Musiktheater (B.Mus.)</a></td><td><a href='#organisational-unit-15'>15</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-16">Studiengang Gregorianik (Zertifikat)</a></td><td><a href='#organisational-unit-16'>16</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-17">Studiengang Instrumentalausbildung (B.Mus.)</a></td><td><a href='#organisational-unit-17'>17</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-18">Studiengang Integrative Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-18'>18</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-19">Studiengang Integrative Musiktheorie (M.Mus.)</a></td><td><a href='#organisational-unit-19'>19</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-20">Studiengang Jazz | Artist Producer (M.Mus.)</a></td><td><a href='#organisational-unit-20'>20</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-21">Studiengang Jazz | Improvising Artist (M.Mus.)</a></td><td><a href='#organisational-unit-21'>21</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-22">Studiengang Jazz | Performing Artist (B.Mus.)</a></td><td><a href='#organisational-unit-22'>22</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-23">Studiengang Kommunikationsdesign (B.A.)</a></td><td><a href='#organisational-unit-23'>23</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-24">Studiengang Kommunikationsdesign (M.A.)</a></td><td><a href='#organisational-unit-24'>24</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-25">Studiengang Lehramt Musik (B.A.)</a></td><td><a href='#organisational-unit-25'>25</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-26">Studiengang Lehramt Musik (M.Ed.)</a></td><td><a href='#organisational-unit-26'>26</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-27">Studiengang Leitung vokaler Ensembles (M.Mus.)</a></td><td><a href='#organisational-unit-27'>27</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-28">Studiengang Musical (B.A.)</a></td><td><a href='#organisational-unit-28'>28</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-29">Studiengang Musik des Mittelalters (M.Mus.)</a></td><td><a href='#organisational-unit-29'>29</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-30">Studiengang Musikpädagogik (B.A.)</a></td><td><a href='#organisational-unit-30'>30</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-31">Studiengang Musikwissenschaft (B.A./Zwei-Fach-Bachelor)</a></td><td><a href='#organisational-unit-31'>31</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-32">Studiengang Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-32'>32</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-33">Studiengang Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-33'>33</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-34">Studiengang Photography Studies and Practice (M.A.)</a></td><td><a href='#organisational-unit-34'>34</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-35">Studiengang Photography Studies and Research (M.A.)</a></td><td><a href='#organisational-unit-35'>35</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-36">Studiengang Populäre Musik (M.Mus.)</a></td><td><a href='#organisational-unit-36'>36</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-37">Studiengang Product Design (B.A.)</a></td><td><a href='#organisational-unit-37'>37</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-38">Studiengang Professional Media Creation (M.A.)</a></td><td><a href='#organisational-unit-38'>38</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-39">Studiengang Professionelle Performance (M.Mus.)</a></td><td><a href='#organisational-unit-39'>39</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-40">Studiengang Tanzkomposition | Bewegungsnotation/Bewegungsanalyse (M.A.)</a></td><td><a href='#organisational-unit-40'>40</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-41">Studiengang Tanzkomposition | Choreographie (M.A.)</a></td><td><a href='#organisational-unit-41'>41</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-42">Studiengang Tanzkomposition | Interpretation (M.A.)</a></td><td><a href='#organisational-unit-42'>42</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang Universität der Künste</a> > <a href="#organisational-unit-43">Studiengang Tanzpädagogik für künstlerischen Tanz (M.A.)</a></td><td><a href='#organisational-unit-43'>43</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a></td><td><a href='#organisational-unit-44'>44</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-222"> Studiengang Master of Music | Musikvermittlung/Musikmanagement</a></td><td><a href='#organisational-unit-222'>222</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-45">Detmolder Jungstudierenden-Institut</a></td><td><a href='#organisational-unit-45'>45</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-217">Erich-Thienhaus-Institut</a></td><td><a href='#organisational-unit-217'>217</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-218">Fachbereich 1 (Orchesterinstrumente und Orchesterleitung)</a></td><td><a href='#organisational-unit-218'>218</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-219">Fachbereich 2 (Tasteninstrumente und Gesang)</a></td><td><a href='#organisational-unit-219'>219</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-220">Fachbereich 3 (Komposition, Musiktheorie, Schulmusik, Instrumental- und Gesangspädagogik, Elementare Musikpädagogik, Chorleitung, Kirchenmusik, Musikübertragung)</a></td><td><a href='#organisational-unit-220'>220</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-46">Promotionsstudiengang Audiovisual Arts Computing (Dr.phil, Dr.- Ing)</a></td><td><a href='#organisational-unit-46'>46</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-47">Promotionsstudiengang Musikalische Akustik (Dr.)</a></td><td><a href='#organisational-unit-47'>47</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-48">Promotionsstudiengang Musikwissenschaft (Dr.phil)</a></td><td><a href='#organisational-unit-48'>48</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-49">Studiengang Bachelor of Music | Evangelsiche Kirchenmusik (B. Mus.)</a></td><td><a href='#organisational-unit-49'>49</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-50">Studiengang Bachelor of Music | Freischaffender Musiker (B. Mus.)</a></td><td><a href='#organisational-unit-50'>50</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-51">Studiengang Bachelor of Music | Katholische Kirchenmusik (B. Mus.)</a></td><td><a href='#organisational-unit-51'>51</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-52">Studiengang Bachelor of Music | Orchestermusiker (B. Mus.)</a></td><td><a href='#organisational-unit-52'>52</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-53">Studiengang Master of Music | Akkordion | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-53'>53</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-54">Studiengang Master of Music | Akkordion | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-54'>54</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-55">Studiengang Master of Music | Akkordion | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-55'>55</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-56">Studiengang Master of Music | Blockflöte | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-56'>56</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-57">Studiengang Master of Music | Blockflöte | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-57'>57</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-58">Studiengang Master of Music | Blockflöte | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-58'>58</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-59">Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-59'>59</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-61">Studiengang Master of Music | Fagott | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-61'>61</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-62">Studiengang Master of Music | Fagott | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-62'>62</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-63">Studiengang Master of Music | Fagott | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-63'>63</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-60">Studiengang Master of Music | Fagott| Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-60'>60</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-64">Studiengang Master of Music | Flöte | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-64'>64</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-65">Studiengang Master of Music | Flöte | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-65'>65</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-66">Studiengang Master of Music | Flöte | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-66'>66</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-67">Studiengang Master of Music | Flöte | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-67'>67</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-69">Studiengang Master of Music | Gitarre | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-69'>69</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-70">Studiengang Master of Music | Gitarre | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-70'>70</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-68">Studiengang Master of Music | Gitarre | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-68'>68</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-71">Studiengang Master of Music | Harfe | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-71'>71</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-72">Studiengang Master of Music | Harfe | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-72'>72</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-73">Studiengang Master of Music | Harfe | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-73'>73</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-74">Studiengang Master of Music | Harfe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-74'>74</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-75">Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-75'>75</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-221">Studiengang Master of Music | Oboe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-221'>221</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-77">Studiengang Master of Music | Orgel | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-77'>77</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-76">Studiengang Master of Music | Orgel | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-76'>76</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-78">Studiengang Master of Music | Orgel| Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-78'>78</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-80">Studiengang Master of Music | Saxophon | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-80'>80</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-81">Studiengang Master of Music | Saxophon | Musik und Wissenschaft (M.Mus.)</a></td><td><a href='#organisational-unit-81'>81</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-79">Studiengang Master of Music | Saxophon | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-79'>79</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-82">Zentrum für Musik- und Filminformatik</a></td><td><a href='#organisational-unit-82'>82</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a></td><td><a href='#organisational-unit-83'>83</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-84">Institut für Alte Musik</a></td><td><a href='#organisational-unit-84'>84</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-85">Institut für Historische Musikwissenschaft</a></td><td><a href='#organisational-unit-85'>85</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-86">Institut für Neue Musik</a></td><td><a href='#organisational-unit-86'>86</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-88">Kinderchor der Hochschule</a></td><td><a href='#organisational-unit-88'>88</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-87">Kölner Institut für Musikpädagogische Forschung</a></td><td><a href='#organisational-unit-87'>87</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-89">Liedakademie an der HfMT Köln</a></td><td><a href='#organisational-unit-89'>89</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-90">Peter-Ostwald-Institut</a></td><td><a href='#organisational-unit-90'>90</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-91">Pre-College Cologne</a></td><td><a href='#organisational-unit-91'>91</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-92">Projekt EchoSpore</a></td><td><a href='#organisational-unit-92'>92</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-93">Projekt Schauspiel HfMT</a></td><td><a href='#organisational-unit-93'>93</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-94">Projektseminar Jazz Against The Machine</a></td><td><a href='#organisational-unit-94'>94</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-95">Rheinische Opernakademie</a></td><td><a href='#organisational-unit-95'>95</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-96">Studiengang Bachelor of Arts | Tanz (B.A.)</a></td><td><a href='#organisational-unit-96'>96</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-97">Studiengang Bachelor of Music | Blechbläser (B.Mus.)</a></td><td><a href='#organisational-unit-97'>97</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-98">Studiengang Bachelor of Music | Chordirigieren (B.Mus.)</a></td><td><a href='#organisational-unit-98'>98</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-99">Studiengang Bachelor of Music | Elektronische Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-99'>99</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-100">Studiengang Bachelor of Music | Elementare Musikpädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-100'>100</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-101">Studiengang Bachelor of Music | Evangelische Kirchenmusik (B.Mus.)</a></td><td><a href='#organisational-unit-101'>101</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-102">Studiengang Bachelor of Music | Gesang (B.Mus.)</a></td><td><a href='#organisational-unit-102'>102</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-103">Studiengang Bachelor of Music | Gitarre (B.Mus.)</a></td><td><a href='#organisational-unit-103'>103</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-104">Studiengang Bachelor of Music | Harfe (B.Mus.)</a></td><td><a href='#organisational-unit-104'>104</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-105">Studiengang Bachelor of Music | Historische Instrumente (B.Mus.)</a></td><td><a href='#organisational-unit-105'>105</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-106">Studiengang Bachelor of Music | Holzbläser (B.Mus.)</a></td><td><a href='#organisational-unit-106'>106</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-107">Studiengang Bachelor of Music | Instrumental-/Gesangspädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-107'>107</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-108">Studiengang Bachelor of Music | Instrumentale Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-108'>108</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-109">Studiengang Bachelor of Music | Jazz/Pop (B.Mus.)</a></td><td><a href='#organisational-unit-109'>109</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-110">Studiengang Bachelor of Music | Katholische Kirchenmusik (B.Mus.)</a></td><td><a href='#organisational-unit-110'>110</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-111">Studiengang Bachelor of Music | Klavier (B.Mus.)</a></td><td><a href='#organisational-unit-111'>111</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-112">Studiengang Bachelor of Music | Mandoline (B.Mus.)</a></td><td><a href='#organisational-unit-112'>112</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-113">Studiengang Bachelor of Music | Orchesterdirigieren (B.Mus.)</a></td><td><a href='#organisational-unit-113'>113</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-114">Studiengang Bachelor of Music | Orgel (B.Mus.)</a></td><td><a href='#organisational-unit-114'>114</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-115">Studiengang Bachelor of Music | Schlagzeug/Pauke (B.Mus.)</a></td><td><a href='#organisational-unit-115'>115</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-116">Studiengang Bachelor of Music | Streicher (B.Mus.)</a></td><td><a href='#organisational-unit-116'>116</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-117">Studiengang Bachelor of Music | Tonsatz/Musiktheorie (B.Mus.)</a></td><td><a href='#organisational-unit-117'>117</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-118">Studiengang Master of Arts | Musikpädagogik (M.A.)</a></td><td><a href='#organisational-unit-118'>118</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-119">Studiengang Master of Arts | Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-119'>119</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-120">Studiengang Master of Arts | Tanzvermittlung (M.A.)</a></td><td><a href='#organisational-unit-120'>120</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-121">Studiengang Master of Arts | Tanzwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-121'>121</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-122">Studiengang Master of Music | Blasinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-122'>122</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-123">Studiengang Master of Music | Dirigieren Chor (M.Mus.)</a></td><td><a href='#organisational-unit-123'>123</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-124">Studiengang Master of Music | Dirigieren Musiktheater  (M.Mus.)</a></td><td><a href='#organisational-unit-124'>124</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-125">Studiengang Master of Music | Dirigieren Orchester (M.Mus.)</a></td><td><a href='#organisational-unit-125'>125</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-126">Studiengang Master of Music | Dirigieren Zeitgenössische Musik (M.Mus.)</a></td><td><a href='#organisational-unit-126'>126</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-127">Studiengang Master of Music | Elektronische Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-127'>127</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-128">Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-128'>128</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-129">Studiengang Master of Music | Gesang Lied/Konzert (M.Mus.)</a></td><td><a href='#organisational-unit-129'>129</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-130">Studiengang Master of Music | Gesang Musiktheater (M.Mus.)</a></td><td><a href='#organisational-unit-130'>130</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-131">Studiengang Master of Music | Gitarre (M.Mus.)</a></td><td><a href='#organisational-unit-131'>131</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-132">Studiengang Master of Music | Harfe (M.Mus.)</a></td><td><a href='#organisational-unit-132'>132</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-133">Studiengang Master of Music | Historische Instrumente und Barockgesang (M.Mus.)</a></td><td><a href='#organisational-unit-133'>133</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-134">Studiengang Master of Music | Instrumentale Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-134'>134</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-135">Studiengang Master of Music | Interpretation Neue Musik (M.Mus.)</a></td><td><a href='#organisational-unit-135'>135</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-136">Studiengang Master of Music | Jazz-Komposition/Arrangement (M.Mus.)</a></td><td><a href='#organisational-unit-136'>136</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-137">Studiengang Master of Music | Jazz/Pop Instrumental/Vokal (M.Mus.)</a></td><td><a href='#organisational-unit-137'>137</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-138">Studiengang Master of Music | Kammermusik (M.Mus.)</a></td><td><a href='#organisational-unit-138'>138</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-139">Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.)</a></td><td><a href='#organisational-unit-139'>139</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-140">Studiengang Master of Music | Klavier (M.Mus.)</a></td><td><a href='#organisational-unit-140'>140</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-141">Studiengang Master of Music | Liedgestaltung (Klavier) (M.Mus.)</a></td><td><a href='#organisational-unit-141'>141</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-142">Studiengang Master of Music | Mandoline (M.Mus.)</a></td><td><a href='#organisational-unit-142'>142</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-143">Studiengang Master of Music | Neue Klaviermusik (M.Mus.)</a></td><td><a href='#organisational-unit-143'>143</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-144">Studiengang Master of Music | Opernkorrepetition (M.Mus.)</a></td><td><a href='#organisational-unit-144'>144</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-145">Studiengang Master of Music | Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-145'>145</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-146">Studiengang Master of Music | Orgel (M.Mus.)</a></td><td><a href='#organisational-unit-146'>146</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-147">Studiengang Master of Music | Production (M.Mus.)</a></td><td><a href='#organisational-unit-147'>147</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-148">Studiengang Master of Music | Schlagzeug/Pauke (M.Mus.)</a></td><td><a href='#organisational-unit-148'>148</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-149">Studiengang Master of Music | Streichinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-149'>149</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-150">Studiengang Master of Music | Tonsatz (M.Mus.)</a></td><td><a href='#organisational-unit-150'>150</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-151">Studio für Elektronische Musik</a></td><td><a href='#organisational-unit-151'>151</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-152">Tonbandarchiv der Bibliothek</a></td><td><a href='#organisational-unit-152'>152</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-153">Voc.Cologne</a></td><td><a href='#organisational-unit-153'>153</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-154">Zentrum  für MusiklehrerInnenbildung im Beruf</a></td><td><a href='#organisational-unit-154'>154</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-155">Zentrum für Zeitgenössischen Tanz</a></td><td><a href='#organisational-unit-155'>155</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a></td><td><a href='#organisational-unit-213'>213</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-227"> ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)</a></td><td><a href='#organisational-unit-227'>227</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-214">Ausbildungsmusikkorps der Bundeswehr</a></td><td><a href='#organisational-unit-214'>214</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-223">Hochschule Düsseldorf - University of Applied Sciences</a></td><td><a href='#organisational-unit-223'>223</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-215">Kolleg für Musik und Kunst Montepulciano</a></td><td><a href='#organisational-unit-215'>215</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-224">Kunstakademie Düsseldorf</a></td><td><a href='#organisational-unit-224'>224</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-216">Orchesterzentrum|NRW</a></td><td><a href='#organisational-unit-216'>216</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-225">Royal Academy of Art, The Hague (KABK)</a></td><td><a href='#organisational-unit-225'>225</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Kooperationen</a> > <a href="#organisational-unit-228">tanzhaus nrw</a></td><td><a href='#organisational-unit-228'>228</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a></td><td><a href='#organisational-unit-156'>156</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-157">Archiv für mediale Künste (Projektarchiv)</a></td><td><a href='#organisational-unit-157'>157</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-158">Archiv für mediale Künste (Veranstaltungsarchiv)</a></td><td><a href='#organisational-unit-158'>158</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-168">Case – Projektraum der Fotografie</a></td><td><a href='#organisational-unit-168'>168</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-162">Fächergruppe exMedia</a></td><td><a href='#organisational-unit-162'>162</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-163">Fächergruppe Film und Fernsehen</a></td><td><a href='#organisational-unit-163'>163</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-165">Fächergruppe Kunst & Medienwissenschaften</a></td><td><a href='#organisational-unit-165'>165</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-164">Fächergruppe Kunst</a></td><td><a href='#organisational-unit-164'>164</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-166">Fächergruppe Mediengestaltung</a></td><td><a href='#organisational-unit-166'>166</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-167">Glasmoog – Raum für Kunst & Diskurs</a></td><td><a href='#organisational-unit-167'>167</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-161">Promotionsprogramm</a></td><td><a href='#organisational-unit-161'>161</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-160">Studiengang Mediale Künste | 4-semestriges Diplomstudium (postgradual, Diplom 2)</a></td><td><a href='#organisational-unit-160'>160</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Kunsthochschule für Medien Köln</a> > <a href="#organisational-unit-159">Studiengang Mediale Künste | 9-semestriges Diplomstudium (grundständig, Diplom 1)</a></td><td><a href='#organisational-unit-159'>159</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a></td><td><a href='#organisational-unit-169'>169</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-170">Callhoff-Archiv</a></td><td><a href='#organisational-unit-170'>170</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-171">DFG-Projekt  „Darstellung und Rezeption klassischer Musiker*innen bei YouTube: Aufführungs- und Lebenspraxen im digitalen Zeitalter“</a></td><td><a href='#organisational-unit-171'>171</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-172">Exzellenzstudiengang Komposition</a></td><td><a href='#organisational-unit-172'>172</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-173">Exzellenzstudiengang Konzertexamen</a></td><td><a href='#organisational-unit-173'>173</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-175">Forschungsstelle Sepulkralmusik</a></td><td><a href='#organisational-unit-175'>175</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-176">Forschungsstelle Studio zur Digitalisierung historischer Tonträger</a></td><td><a href='#organisational-unit-176'>176</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-174">Forschungsstelle „Düsseldorfs Bürgerliches Musikleben“</a></td><td><a href='#organisational-unit-174'>174</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-177">Institut für Kirchenmusik</a></td><td><a href='#organisational-unit-177'>177</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-178">Institut für Komposition und Musiktheorie</a></td><td><a href='#organisational-unit-178'>178</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-179">Institut für Musik und Medien</a></td><td><a href='#organisational-unit-179'>179</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-180">Institut Schumann Junior</a></td><td><a href='#organisational-unit-180'>180</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-181">Musikwissenschaftliches Institut</a></td><td><a href='#organisational-unit-181'>181</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-182">Promotionsstudiengang Musikwissenschaft (Dr.phil.)</a></td><td><a href='#organisational-unit-182'>182</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-183">Studiengang Klang und Realität (M.Mus.)</a></td><td><a href='#organisational-unit-183'>183</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-184">Studiengang Künstlerische Musikproduktion (M.Mus.)</a></td><td><a href='#organisational-unit-184'>184</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-185">Studiengang Musik | Gesang (B.Mus.)</a></td><td><a href='#organisational-unit-185'>185</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-186">Studiengang Musik | Gesang (M.Mus.)</a></td><td><a href='#organisational-unit-186'>186</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-187">Studiengang Musik | Gitarre (B.Mus.)</a></td><td><a href='#organisational-unit-187'>187</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-188">Studiengang Musik | Gitarre (M.Mus.)</a></td><td><a href='#organisational-unit-188'>188</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-189">Studiengang Musik | Klavier (B.Mus.)</a></td><td><a href='#organisational-unit-189'>189</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-190">Studiengang Musik | Klavier (M.Mus.)</a></td><td><a href='#organisational-unit-190'>190</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-191">Studiengang Musik | Komposition (B.Mus.)</a></td><td><a href='#organisational-unit-191'>191</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-192">Studiengang Musik | Komposition (M.Mus.)</a></td><td><a href='#organisational-unit-192'>192</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-193">Studiengang Musik | Orchesterinstrumente (B.Mus.)</a></td><td><a href='#organisational-unit-193'>193</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-194">Studiengang Musik | Orchesterinstrumente (M.Mus.)</a></td><td><a href='#organisational-unit-194'>194</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-195">Studiengang Musik | Orgel (B.Mus.)</a></td><td><a href='#organisational-unit-195'>195</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-196">Studiengang Musik | Orgel (M.Mus.)</a></td><td><a href='#organisational-unit-196'>196</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-197">Studiengang Musik und Medien (B.Mus.)</a></td><td><a href='#organisational-unit-197'>197</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-198">Studiengang Musikvermittlung | Chorleitung (B.Mus.)</a></td><td><a href='#organisational-unit-198'>198</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-199">Studiengang Musikvermittlung | Chorleitung (M.Mus.)</a></td><td><a href='#organisational-unit-199'>199</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-200">Studiengang Musikvermittlung | Kirchenmusik  (evangelisch) (B.Mus.)</a></td><td><a href='#organisational-unit-200'>200</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-202">Studiengang Musikvermittlung | Kirchenmusik  (katholisch) (B.Mus.)</a></td><td><a href='#organisational-unit-202'>202</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-201">Studiengang Musikvermittlung | Kirchenmusik (evangelisch) (M.Mus.)</a></td><td><a href='#organisational-unit-201'>201</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-203">Studiengang Musikvermittlung | Kirchenmusik (katholisch) (M.Mus.)</a></td><td><a href='#organisational-unit-203'>203</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-204">Studiengang Musikvermittlung | Musikpädagogik (B.Mus.)</a></td><td><a href='#organisational-unit-204'>204</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-205">Studiengang Musikvermittlung | Musikpädagogik (M.Mus.)</a></td><td><a href='#organisational-unit-205'>205</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-206">Studiengang Musikvermittlung | Musiktherorie und Hörerziehung (B.Mus.)</a></td><td><a href='#organisational-unit-206'>206</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-207">Studiengang Musikvermittlung | Orchesterleitung (B.Mus.)</a></td><td><a href='#organisational-unit-207'>207</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-208">Studiengang Musikvermittlung | Orchesterleitung (M.Mus.)</a></td><td><a href='#organisational-unit-208'>208</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-209">Studiengang Musikwissenschaft (B.A./ Zwei-Fach-Bachelor)</a></td><td><a href='#organisational-unit-209'>209</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-210">Studiengang Musikwissenschaft (M.A.)</a></td><td><a href='#organisational-unit-210'>210</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-211">Studiengang Orchesterspiel (M.Mus.)</a></td><td><a href='#organisational-unit-211'>211</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-212">Studiengang Ton und Bild (B.Eng)</a></td><td><a href='#organisational-unit-212'>212</a></td></tr>
-</table>
-</details>
-
-<details><summary>Organisational Units ordered by English Breadcrumb | Organisationseinheiten nach Englischem Breadcrumb geordnet</summary>
-<table border='1' cellspacing='0' cellpadding='5'>
-<tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-158">Archive for Media Arts, Academy of Media Arts Cologne (Event Archive)</a></td><td><a href='#organisational-unit-158'>158</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-157">Archive for Media Arts, Academy of Media Arts Cologne (Project Archive)</a></td><td><a href='#organisational-unit-157'>157</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-165">Art and Media Studies Department</a></td><td><a href='#organisational-unit-165'>165</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-164">Art Department</a></td><td><a href='#organisational-unit-164'>164</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-168">Case – Projektraum der Fotografie</a></td><td><a href='#organisational-unit-168'>168</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-161">Doctoral Programme</a></td><td><a href='#organisational-unit-161'>161</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-162">exMedia Department</a></td><td><a href='#organisational-unit-162'>162</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-163">Film and Television Department</a></td><td><a href='#organisational-unit-163'>163</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-167">Glasmoog – Space for Art & Discourse</a></td><td><a href='#organisational-unit-167'>167</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-159">Media and Fine Art Diploma 1 | Undergraduate Course</a></td><td><a href='#organisational-unit-159'>159</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-160">Media and Fine Art Diploma 2 | Postgraduate Course</a></td><td><a href='#organisational-unit-160'>160</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a> > <a href="#organisational-unit-166">Media Design Department</a></td><td><a href='#organisational-unit-166'>166</a></td></tr>
-<tr><td><a href="#organisational-unit-156">Academy of Media Arts Cologne</a></td><td><a href='#organisational-unit-156'>156</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-227"> ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)</a></td><td><a href='#organisational-unit-227'>227</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-215">College for Music and Art Montepulciano</a></td><td><a href='#organisational-unit-215'>215</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-223">Hochschule Düsseldorf - University of Applied Sciences</a></td><td><a href='#organisational-unit-223'>223</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-224">Kunstakademie Düsseldorf</a></td><td><a href='#organisational-unit-224'>224</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-214">Music Studies for the Armed Forces</a></td><td><a href='#organisational-unit-214'>214</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-216">NRW Orchestra Centre</a></td><td><a href='#organisational-unit-216'>216</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-225">Royal Academy of Art, The Hague (KABK)</a></td><td><a href='#organisational-unit-225'>225</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a> > <a href="#organisational-unit-228">tanzhaus nrw</a></td><td><a href='#organisational-unit-228'>228</a></td></tr>
-<tr><td><a href="#organisational-unit-213">Cooperations</a></td><td><a href='#organisational-unit-213'>213</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-3">Concert Study Course of Excellence</a></td><td><a href='#organisational-unit-3'>3</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-6">Diploma Programme Acting (Artist Diploma)</a></td><td><a href='#organisational-unit-6'>6</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-5">Diploma Programme Directing (Artist Diploma)</a></td><td><a href='#organisational-unit-5'>5</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-4">Diploma Programme Physical Theatre (Artist Diploma)</a></td><td><a href='#organisational-unit-4'>4</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-226">Folkwang Tanzstudio</a></td><td><a href='#organisational-unit-226'>226</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-2">German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines)</a></td><td><a href='#organisational-unit-2'>2</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-9">Institute for Art and Design Science</a></td><td><a href='#organisational-unit-9'>9</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-7">Institute for Computer Music and Electronic Media</a></td><td><a href='#organisational-unit-7'>7</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-12">Institute for Contemporary Dance</a></td><td><a href='#organisational-unit-12'>12</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-8">Institute for Gregorian Chant</a></td><td><a href='#organisational-unit-8'>8</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-11">Institute for Popular Music</a></td><td><a href='#organisational-unit-11'>11</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-10">Institute for the Promotion of Young Artists | folkwang junior </a></td><td><a href='#organisational-unit-10'>10</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-23">Study Programme Communication Design (B.A.)</a></td><td><a href='#organisational-unit-23'>23</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-24">Study Programme Communication Design (M.A.)</a></td><td><a href='#organisational-unit-24'>24</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-41">Study Programme Dance Composition | Choreography (M.A.)</a></td><td><a href='#organisational-unit-41'>41</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-42">Study Programme Dance Composition | Interpreatation (M.A.)</a></td><td><a href='#organisational-unit-42'>42</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-40">Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.)</a></td><td><a href='#organisational-unit-40'>40</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-43">Study Programme Dance Padagogy for Artistic Dance (M.A.)</a></td><td><a href='#organisational-unit-43'>43</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-13">Study Programme Design Futures (M.A.)</a></td><td><a href='#organisational-unit-13'>13</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-27">Study Programme Directing of Vocal Ensembles (M.Mus.)</a></td><td><a href='#organisational-unit-27'>27</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-16">Study Programme Gregorian Chant (Certificate)</a></td><td><a href='#organisational-unit-16'>16</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-17">Study Programme Instrumental Training (B.A.)</a></td><td><a href='#organisational-unit-17'>17</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-18">Study Programme Integrative Composition (M.Mus.)</a></td><td><a href='#organisational-unit-18'>18</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-19">Study Programme Integrative Music Theory (M.Mus.)</a></td><td><a href='#organisational-unit-19'>19</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-20">Study Programme Jazz | Artist Producer (M.Mus.)</a></td><td><a href='#organisational-unit-20'>20</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-21">Study Programme Jazz | Improvising Artist (M.Mus.)</a></td><td><a href='#organisational-unit-21'>21</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-22">Study Programme Jazz | Performing Artist (B.Mus.)</a></td><td><a href='#organisational-unit-22'>22</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-38">Study Programme Media Creation (M.A.)</a></td><td><a href='#organisational-unit-38'>38</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-29">Study Programme Music of the Middle Ages (M.Mus.)</a></td><td><a href='#organisational-unit-29'>29</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-30">Study Programme Music Pedagogy (B.A.)</a></td><td><a href='#organisational-unit-30'>30</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-25">Study Programme Music Teaching (B.A.)</a></td><td><a href='#organisational-unit-25'>25</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-26">Study Programme Music Teaching (M.Ed.)</a></td><td><a href='#organisational-unit-26'>26</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-28">Study Programme Musical (B.A.)</a></td><td><a href='#organisational-unit-28'>28</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-31">Study Programme Musicology (B. A./Dual-subject Bachelor)</a></td><td><a href='#organisational-unit-31'>31</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-32">Study Programme Musicology (M.A.)</a></td><td><a href='#organisational-unit-32'>32</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-33">Study Programme Orchestral Performance (M.Mus.)</a></td><td><a href='#organisational-unit-33'>33</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-14">Study Programme Photography (B.A.)</a></td><td><a href='#organisational-unit-14'>14</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-34">Study Programme Photography Studies and Practice (M.A.)</a></td><td><a href='#organisational-unit-34'>34</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-35">Study Programme Photography Studies and Research (M.A.)</a></td><td><a href='#organisational-unit-35'>35</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-36">Study Programme Popular Music (M.Mus.)</a></td><td><a href='#organisational-unit-36'>36</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-37">Study Programme Product Design (B.A.)</a></td><td><a href='#organisational-unit-37'>37</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-39">Study Programme Profession Performance (M.Mus.)</a></td><td><a href='#organisational-unit-39'>39</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a> > <a href="#organisational-unit-15">Study Programme Voice | Music Theatre (B.Mus.)</a></td><td><a href='#organisational-unit-15'>15</a></td></tr>
-<tr><td><a href="#organisational-unit-1">Folkwang University of the Arts</a></td><td><a href='#organisational-unit-1'>1</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-222"> Studiengang Master of Music | Music Education/Music Management</a></td><td><a href='#organisational-unit-222'>222</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-82">Centre for Music and Film Informatics</a></td><td><a href='#organisational-unit-82'>82</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-218">Department 1 (Orchestral Instruments and Orchestral Conducting)</a></td><td><a href='#organisational-unit-218'>218</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-219">Department 2 (Keyboard Instruments and Vocals)</a></td><td><a href='#organisational-unit-219'>219</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-220">Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting)</a></td><td><a href='#organisational-unit-220'>220</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-45">Detmold Young Students' Institute</a></td><td><a href='#organisational-unit-45'>45</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-46">Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing)</a></td><td><a href='#organisational-unit-46'>46</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-47">Doctoral Programme Music Acoustics (Dr.)</a></td><td><a href='#organisational-unit-47'>47</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-48">Doctoral Programme Musicology (Dr. Phil.)</a></td><td><a href='#organisational-unit-48'>48</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-217">Erich Thienhaus Institute</a></td><td><a href='#organisational-unit-217'>217</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-51">Study Programme Bachelor of Music | Catholic Church Music (B. Mus.)</a></td><td><a href='#organisational-unit-51'>51</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-50">Study Programme Bachelor of Music | Freelance Musician (B.Mus.)</a></td><td><a href='#organisational-unit-50'>50</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-52">Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.)</a></td><td><a href='#organisational-unit-52'>52</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-49">Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.)</a></td><td><a href='#organisational-unit-49'>49</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-53">Study Programme Master of Music | Accordion | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-53'>53</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-54">Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-54'>54</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-55">Study Programme Master of Music | Accordion | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-55'>55</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-60">Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-60'>60</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-61">Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-61'>61</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-62">Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-62'>62</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-63">Study Programme Master of Music | Bassoon | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-63'>63</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-75">Study Programme Master of Music | Catholic Church Music (M.Mus.)</a></td><td><a href='#organisational-unit-75'>75</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-64">Study Programme Master of Music | Flute | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-64'>64</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-65">Study Programme Master of Music | Flute | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-65'>65</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-66">Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-66'>66</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-67">Study Programme Master of Music | Flute | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-67'>67</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-69">Study Programme Master of Music | Guitar | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-69'>69</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-70">Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-70'>70</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-68">Study Programme Master of Music | Guitar | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-68'>68</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-71">Study Programme Master of Music | Harp | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-71'>71</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-72">Study Programme Master of Music | Harp | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-72'>72</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-73">Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-73'>73</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-74">Study Programme Master of Music | Harp | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-74'>74</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-221">Study Programme Master of Music | Oboe | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-221'>221</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-77">Study Programme Master of Music | Organ | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-77'>77</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-78">Study Programme Master of Music | Organ | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-78'>78</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-76">Study Programme Master of Music | Organ | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-76'>76</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-59">Study Programme Master of Music | Protestant Church Music (M.Mus.)</a></td><td><a href='#organisational-unit-59'>59</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-56">Study Programme Master of Music | Recorder | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-56'>56</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-57">Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-57'>57</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-58">Study Programme Master of Music | Recorder | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-58'>58</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-80">Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-80'>80</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-81">Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.)</a></td><td><a href='#organisational-unit-81'>81</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a> > <a href="#organisational-unit-79">Study Programme Master of Music | Saxophone | Solist (M.Mus.)</a></td><td><a href='#organisational-unit-79'>79</a></td></tr>
-<tr><td><a href="#organisational-unit-44">Hochschule für Musik Detmold</a></td><td><a href='#organisational-unit-44'>44</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-154">Centre for Music Teacher Education in the Job</a></td><td><a href='#organisational-unit-154'>154</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-155">Centre of Contemporary Dance</a></td><td><a href='#organisational-unit-155'>155</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-88">Children's Choir of the University</a></td><td><a href='#organisational-unit-88'>88</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-87">Cologne Institute for Music Pedagogy Research</a></td><td><a href='#organisational-unit-87'>87</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-84">Institute for Early Music</a></td><td><a href='#organisational-unit-84'>84</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-85">Institute for Historic Musicology</a></td><td><a href='#organisational-unit-85'>85</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-86">Institute for New Music</a></td><td><a href='#organisational-unit-86'>86</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-152">Library Tape Archive</a></td><td><a href='#organisational-unit-152'>152</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-90">Peter Oswald Institute</a></td><td><a href='#organisational-unit-90'>90</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-91">Pre-College Cologne</a></td><td><a href='#organisational-unit-91'>91</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-92">Project EchoSpore</a></td><td><a href='#organisational-unit-92'>92</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-93">Project Schauspiel HfMT (Acting HfMT)</a></td><td><a href='#organisational-unit-93'>93</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-95">Rheinische Opernakademie (Rhenish Opera Acadaemy)</a></td><td><a href='#organisational-unit-95'>95</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-94">Seminar Project Jazz Against The Machine</a></td><td><a href='#organisational-unit-94'>94</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-89">Song Academy at the HfMT Köln</a></td><td><a href='#organisational-unit-89'>89</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-151">Studio for Electronic Music</a></td><td><a href='#organisational-unit-151'>151</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-96">Study Programme Bachelor of Arts | Dance (B.A.)</a></td><td><a href='#organisational-unit-96'>96</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-97">Study Programme Bachelor of Music | Brass Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-97'>97</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-98">Study Programme Bachelor of Music | Choral Conducting (B.Mus.)</a></td><td><a href='#organisational-unit-98'>98</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-110">Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.)</a></td><td><a href='#organisational-unit-110'>110</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-101">Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.)</a></td><td><a href='#organisational-unit-101'>101</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-117">Study Programme Bachelor of Music | Composition/Music Theory</a></td><td><a href='#organisational-unit-117'>117</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-99">Study Programme Bachelor of Music | Electronic Compostion (B.Mus.)</a></td><td><a href='#organisational-unit-99'>99</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > [Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.)](#organisational-unit-100)</td><td><a href='#organisational-unit-100'>100</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-103">Study Programme Bachelor of Music | Guitar (B.Mus.)</a></td><td><a href='#organisational-unit-103'>103</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-104">Study Programme Bachelor of Music | Harp (B.Mus.)</a></td><td><a href='#organisational-unit-104'>104</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-105">Study Programme Bachelor of Music | Historic Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-105'>105</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-108">Study Programme Bachelor of Music | Instrumental Composition (B.Mus.)</a></td><td><a href='#organisational-unit-108'>108</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-107">Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.)</a></td><td><a href='#organisational-unit-107'>107</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-109">Study Programme Bachelor of Music | Jazz/Pop (B.Mus.)</a></td><td><a href='#organisational-unit-109'>109</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-112">Study Programme Bachelor of Music | Mandolin (B.Mus.)</a></td><td><a href='#organisational-unit-112'>112</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-113">Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.)</a></td><td><a href='#organisational-unit-113'>113</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-114">Study Programme Bachelor of Music | Organ (B.Mus.)</a></td><td><a href='#organisational-unit-114'>114</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-115">Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.)</a></td><td><a href='#organisational-unit-115'>115</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-111">Study Programme Bachelor of Music | Piano (B.Mus.)</a></td><td><a href='#organisational-unit-111'>111</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-116">Study Programme Bachelor of Music | Strings (B.Mus.)</a></td><td><a href='#organisational-unit-116'>116</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-102">Study Programme Bachelor of Music | Voice (B.Mus.)</a></td><td><a href='#organisational-unit-102'>102</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-106">Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-106'>106</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-121">Study Programme Master of Arts | Dance Studies (M.A.)</a></td><td><a href='#organisational-unit-121'>121</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-120">Study Programme Master of Arts | Medition in Dance (M.A.)</a></td><td><a href='#organisational-unit-120'>120</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-118">Study Programme Master of Arts | Music Pedagogy (M.A.)</a></td><td><a href='#organisational-unit-118'>118</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-119">Study Programme Master of Arts | Musicology (M.A.)</a></td><td><a href='#organisational-unit-119'>119</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-138">Study Programme Master of Music | Chamber Music (M.Mus.)</a></td><td><a href='#organisational-unit-138'>138</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-123">Study Programme Master of Music | Choral Conducting (M.Mus.)</a></td><td><a href='#organisational-unit-123'>123</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-139">Study Programme Master of Music | Church Music (Catholic) (M.Mus.)</a></td><td><a href='#organisational-unit-139'>139</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-128">Study Programme Master of Music | Church Music (Protestant) (M.Mus.)</a></td><td><a href='#organisational-unit-128'>128</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-126">Study Programme Master of Music | Conducting Contemporary Music (M.Mus.)</a></td><td><a href='#organisational-unit-126'>126</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-124">Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.)</a></td><td><a href='#organisational-unit-124'>124</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-125">Study Programme Master of Music | Conducting Orchestra (M.Mus.)</a></td><td><a href='#organisational-unit-125'>125</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-127">Study Programme Master of Music | Electronic Composition (M.Mus.)</a></td><td><a href='#organisational-unit-127'>127</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-131">Study Programme Master of Music | Guitar (M.Mus.)</a></td><td><a href='#organisational-unit-131'>131</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-132">Study Programme Master of Music | Harp (M.Mus.)</a></td><td><a href='#organisational-unit-132'>132</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-133">Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.)</a></td><td><a href='#organisational-unit-133'>133</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-134">Study Programme Master of Music | Instrumental Composition (M.Mus.)</a></td><td><a href='#organisational-unit-134'>134</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-135">Study Programme Master of Music | Interpretation New Music (M.Mus.)</a></td><td><a href='#organisational-unit-135'>135</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-136">Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.)</a></td><td><a href='#organisational-unit-136'>136</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-137">Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.)</a></td><td><a href='#organisational-unit-137'>137</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-142">Study Programme Master of Music | Mandolin (M.Mus.)</a></td><td><a href='#organisational-unit-142'>142</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-143">Study Programme Master of Music | Modern Piano Music (M.Mus.)</a></td><td><a href='#organisational-unit-143'>143</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-150">Study Programme Master of Music | Music Theory (M.Mus.)</a></td><td><a href='#organisational-unit-150'>150</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-144">Study Programme Master of Music | Opera Correpetition (M.Mus.)</a></td><td><a href='#organisational-unit-144'>144</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-145">Study Programme Master of Music | Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-145'>145</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-146">Study Programme Master of Music | Organ (M.Mus.)</a></td><td><a href='#organisational-unit-146'>146</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-148">Study Programme Master of Music | Percussion/Timpani (M.Mus.)</a></td><td><a href='#organisational-unit-148'>148</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-140">Study Programme Master of Music | Piano (M.Mus.)</a></td><td><a href='#organisational-unit-140'>140</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-147">Study Programme Master of Music | Production (M.Mus.)</a></td><td><a href='#organisational-unit-147'>147</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-141">Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.)</a></td><td><a href='#organisational-unit-141'>141</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-149">Study Programme Master of Music | String Instruments (M.Mus.)</a></td><td><a href='#organisational-unit-149'>149</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-130">Study Programme Master of Music | Voice Music Theatre (M.Mus.)</a></td><td><a href='#organisational-unit-130'>130</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-129">Study Programme Master of Music | Voice Song/Concert (M.Mus.)</a></td><td><a href='#organisational-unit-129'>129</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-122">Study Programme Master of Music | Wind Instruments (M.Mus.)</a></td><td><a href='#organisational-unit-122'>122</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a> > <a href="#organisational-unit-153">Voc.Cologne</a></td><td><a href='#organisational-unit-153'>153</a></td></tr>
-<tr><td><a href="#organisational-unit-83">Hochschule für Musik und Tanz Köln</a></td><td><a href='#organisational-unit-83'>83</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-170">Callhoff Archive</a></td><td><a href='#organisational-unit-170'>170</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-171">DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age"</a></td><td><a href='#organisational-unit-171'>171</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-182">Doctoral Programme Musicology (Dr. Phil.)</a></td><td><a href='#organisational-unit-182'>182</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-172">Excellence Programme Composition</a></td><td><a href='#organisational-unit-172'>172</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-173">Excellence Programme Music Performance</a></td><td><a href='#organisational-unit-173'>173</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-177">Institute for Church Music</a></td><td><a href='#organisational-unit-177'>177</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-178">Institute for Composition and Music Theory</a></td><td><a href='#organisational-unit-178'>178</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-179">Institute for Music and Media</a></td><td><a href='#organisational-unit-179'>179</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-181">Institute of Musicology</a></td><td><a href='#organisational-unit-181'>181</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-174">Reasearch Centre "Düsseldorf's Civic Music Life"</a></td><td><a href='#organisational-unit-174'>174</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-175">Research Centre Sepulchral Music</a></td><td><a href='#organisational-unit-175'>175</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-176">Research Centre Studio for the Digitisation of Historical Sound Recording Media</a></td><td><a href='#organisational-unit-176'>176</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-180">Schumann Junior Institute</a></td><td><a href='#organisational-unit-180'>180</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-184">Study Programme Artistic Music Production (M.Mus.)</a></td><td><a href='#organisational-unit-184'>184</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-212">Study Programme Audio and Video (B.Eng.)</a></td><td><a href='#organisational-unit-212'>212</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-183">Study Programme Klang und Realität (M.Mus.)</a></td><td><a href='#organisational-unit-183'>183</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-197">Study Programme Music and Media (B.Mus.)</a></td><td><a href='#organisational-unit-197'>197</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-191">Study Programme Music Performance | Composition (B.Mus.)</a></td><td><a href='#organisational-unit-191'>191</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-192">Study Programme Music Performance | Composition (M.Mus.)</a></td><td><a href='#organisational-unit-192'>192</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-187">Study Programme Music Performance | Guitar major (B.Mus.)</a></td><td><a href='#organisational-unit-187'>187</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-188">Study Programme Music Performance | Guitar major (M.Mus.)</a></td><td><a href='#organisational-unit-188'>188</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-195">Study Programme Music Performance | Organ major (B.Mus.)</a></td><td><a href='#organisational-unit-195'>195</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-196">Study Programme Music Performance | Organ major (M.Mus.)</a></td><td><a href='#organisational-unit-196'>196</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-189">Study Programme Music Performance | Piano major (B.Mus.)</a></td><td><a href='#organisational-unit-189'>189</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-190">Study Programme Music Performance | Piano major (M.Mus.)</a></td><td><a href='#organisational-unit-190'>190</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-186">Study Programme Music Performance | Voice  major (M.Mus.)</a></td><td><a href='#organisational-unit-186'>186</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-185">Study Programme Music Performance | Voice major (B.Mus.)</a></td><td><a href='#organisational-unit-185'>185</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-202">Study Programme Music Promotion | Church Music (catholic) (B.Mus.)</a></td><td><a href='#organisational-unit-202'>202</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-203">Study Programme Music Promotion | Church Music (catholic) (M.Mus.)</a></td><td><a href='#organisational-unit-203'>203</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-200">Study Programme Music Promotion | Church Music (protestant) (B.Mus.)</a></td><td><a href='#organisational-unit-200'>200</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-201">Study Programme Music Promotion | Church Music (protestant) (M.Mus.)</a></td><td><a href='#organisational-unit-201'>201</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-198">Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.)</a></td><td><a href='#organisational-unit-198'>198</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-199">Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.)</a></td><td><a href='#organisational-unit-199'>199</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-207">Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.)</a></td><td><a href='#organisational-unit-207'>207</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-204">Study Programme Music Promotion | Music Pedagogy (B.Mus.)</a></td><td><a href='#organisational-unit-204'>204</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-205">Study Programme Music Promotion | Music Pedagogy (M.Mus.)</a></td><td><a href='#organisational-unit-205'>205</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-208">Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.)</a></td><td><a href='#organisational-unit-208'>208</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-206">Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.)</a></td><td><a href='#organisational-unit-206'>206</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-209">Study Programme Musicology (B.A./Dual-subject Bachelor)</a></td><td><a href='#organisational-unit-209'>209</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-210">Study Programme Musicology (M.A.)</a></td><td><a href='#organisational-unit-210'>210</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-193">Study Programme Orchestral Instruments (B.Mus.)</a></td><td><a href='#organisational-unit-193'>193</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-194">Study Programme Orchestral Instruments (M.Mus.)</a></td><td><a href='#organisational-unit-194'>194</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a> > <a href="#organisational-unit-211">Study Programme Orchestral Playing (M.Mus.)</a></td><td><a href='#organisational-unit-211'>211</a></td></tr>
-<tr><td><a href="#organisational-unit-169">Robert Schumann Hochschule Düsseldorf</a></td><td><a href='#organisational-unit-169'>169</a></td></tr>
-</table>
-</details>
-
-<br/>
-
----
 
 <br/>
 
@@ -992,10 +46,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Academy of Media Arts Cologne
 
-|||
-|-----------|-----------|
+
 | **ID** | 156 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-156`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-156) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-156`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-156) |
 | **English Name** | Academy of Media Arts Cologne |
 | **German Name** | Kunsthochschule für Medien Köln |
 | **German Breadcrumb** | [Kunsthochschule für Medien Köln](#organisational-unit-156) |
@@ -1013,10 +66,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Archive for Media Arts, Academy of Media Arts Cologne (Event Archive)
 
-|||
-|-----------|-----------|
+
 | **ID** | 158 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-158`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-158) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-158`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-158) |
 | **English Name** | Archive for Media Arts, Academy of Media Arts Cologne (Event Archive) |
 | **German Name** | Archiv für mediale Künste (Veranstaltungsarchiv) |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1037,10 +89,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Archive for Media Arts, Academy of Media Arts Cologne (Project Archive)
 
-|||
-|-----------|-----------|
+
 | **ID** | 157 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-157`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-157) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-157`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-157) |
 | **English Name** | Archive for Media Arts, Academy of Media Arts Cologne (Project Archive) |
 | **German Name** | Archiv für mediale Künste (Projektarchiv) |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1061,10 +112,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Art and Media Studies Department
 
-|||
-|-----------|-----------|
+
 | **ID** | 165 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-165`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-165) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-165`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-165) |
 | **English Name** | Art and Media Studies Department |
 | **German Name** | Fächergruppe Kunst & Medienwissenschaften |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1083,10 +133,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Art Department
 
-|||
-|-----------|-----------|
+
 | **ID** | 164 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-164`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-164) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-164`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-164) |
 | **English Name** | Art Department |
 | **German Name** | Fächergruppe Kunst |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1105,10 +154,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 227 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-227`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-227) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-227`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-227) |
 | **English Name** | ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.) |
 | **German Name** | ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.) |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -1127,10 +175,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Callhoff Archive
 
-|||
-|-----------|-----------|
+
 | **ID** | 170 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-170`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-170) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-170`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-170) |
 | **English Name** | Callhoff Archive |
 | **German Name** | Callhoff-Archiv |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1149,10 +196,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Case – Projektraum der Fotografie
 
-|||
-|-----------|-----------|
+
 | **ID** | 168 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-168`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-168) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-168`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-168) |
 | **English Name** | Case – Projektraum der Fotografie |
 | **German Name** | Case – Projektraum der Fotografie |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1173,10 +219,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Centre for Music and Film Informatics
 
-|||
-|-----------|-----------|
+
 | **ID** | 82 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-82`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-82) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-82`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-82) |
 | **English Name** | Centre for Music and Film Informatics |
 | **German Name** | Zentrum für Musik- und Filminformatik |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1195,10 +240,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Centre for Music Teacher Education in the Job
 
-|||
-|-----------|-----------|
+
 | **ID** | 154 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-154`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-154) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-154`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-154) |
 | **English Name** | Centre for Music Teacher Education in the Job |
 | **German Name** | Zentrum  für MusiklehrerInnenbildung im Beruf |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -1217,10 +261,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Centre of Contemporary Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 155 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-155`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-155) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-155`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-155) |
 | **English Name** | Centre of Contemporary Dance |
 | **German Name** | Zentrum für Zeitgenössischen Tanz |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -1239,10 +282,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Children's Choir of the University
 
-|||
-|-----------|-----------|
+
 | **ID** | 88 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-88`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-88) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-88`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-88) |
 | **English Name** | Children's Choir of the University |
 | **German Name** | Kinderchor der Hochschule |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -1261,10 +303,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## College for Music and Art Montepulciano
 
-|||
-|-----------|-----------|
+
 | **ID** | 215 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-215`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-215) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-215`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-215) |
 | **English Name** | College for Music and Art Montepulciano |
 | **German Name** | Kolleg für Musik und Kunst Montepulciano |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -1285,10 +326,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Cologne Institute for Music Pedagogy Research
 
-|||
-|-----------|-----------|
+
 | **ID** | 87 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-87`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-87) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-87`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-87) |
 | **English Name** | Cologne Institute for Music Pedagogy Research |
 | **German Name** | Kölner Institut für Musikpädagogische Forschung |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -1307,10 +347,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Concert Study Course of Excellence
 
-|||
-|-----------|-----------|
+
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-3) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-3`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-3) |
 | **English Name** | Concert Study Course of Excellence |
 | **German Name** | Exzellenzstudiengang Konzertexamen (Zertifikat) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1329,10 +368,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Cooperations
 
-|||
-|-----------|-----------|
+
 | **ID** | 213 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-213`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-213) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-213`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-213) |
 | **English Name** | Cooperations |
 | **German Name** | Kooperationen |
 | **German Breadcrumb** | [Kooperationen](#organisational-unit-213) |
@@ -1350,10 +388,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Department 1 (Orchestral Instruments and Orchestral Conducting)
 
-|||
-|-----------|-----------|
+
 | **ID** | 218 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-218`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-218) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-218`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-218) |
 | **English Name** | Department 1 (Orchestral Instruments and Orchestral Conducting) |
 | **German Name** | Fachbereich 1 (Orchesterinstrumente und Orchesterleitung) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1372,10 +409,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Department 2 (Keyboard Instruments and Vocals)
 
-|||
-|-----------|-----------|
+
 | **ID** | 219 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-219`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-219) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-219`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-219) |
 | **English Name** | Department 2 (Keyboard Instruments and Vocals) |
 | **German Name** | Fachbereich 2 (Tasteninstrumente und Gesang) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1394,10 +430,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting)
 
-|||
-|-----------|-----------|
+
 | **ID** | 220 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-220`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-220) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-220`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-220) |
 | **English Name** | Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting) |
 | **German Name** | Fachbereich 3 (Komposition, Musiktheorie, Schulmusik, Instrumental- und Gesangspädagogik, Elementare Musikpädagogik, Chorleitung, Kirchenmusik, Musikübertragung) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1416,10 +451,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Detmold Young Students' Institute
 
-|||
-|-----------|-----------|
+
 | **ID** | 45 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-45) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-45`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-45) |
 | **English Name** | Detmold Young Students' Institute |
 | **German Name** | Detmolder Jungstudierenden-Institut |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1438,10 +472,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age"
 
-|||
-|-----------|-----------|
+
 | **ID** | 171 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-171`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-171) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-171`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-171) |
 | **English Name** | DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age" |
 | **German Name** | DFG-Projekt  „Darstellung und Rezeption klassischer Musiker*innen bei YouTube: Aufführungs- und Lebenspraxen im digitalen Zeitalter“ |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1460,10 +493,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Diploma Programme Acting (Artist Diploma)
 
-|||
-|-----------|-----------|
+
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-6) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-6`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-6) |
 | **English Name** | Diploma Programme Acting (Artist Diploma) |
 | **German Name** | Diplomstudiengang Schauspiel (Artist Diploma) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1482,10 +514,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Diploma Programme Directing (Artist Diploma)
 
-|||
-|-----------|-----------|
+
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-5) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-5`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-5) |
 | **English Name** | Diploma Programme Directing (Artist Diploma) |
 | **German Name** | Diplomstudiengang Regie (Artist Diploma) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1504,10 +535,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Diploma Programme Physical Theatre (Artist Diploma)
 
-|||
-|-----------|-----------|
+
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-4) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-4`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-4) |
 | **English Name** | Diploma Programme Physical Theatre (Artist Diploma) |
 | **German Name** | Diplomstudiengang Physical Theatre (Artist Diploma) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1526,10 +556,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Doctoral Programme
 
-|||
-|-----------|-----------|
+
 | **ID** | 161 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-161`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-161) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-161`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-161) |
 | **English Name** | Doctoral Programme |
 | **German Name** | Promotionsprogramm |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1550,10 +579,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing)
 
-|||
-|-----------|-----------|
+
 | **ID** | 46 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-46) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-46`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-46) |
 | **English Name** | Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing) |
 | **German Name** | Promotionsstudiengang Audiovisual Arts Computing (Dr.phil, Dr.- Ing) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1572,10 +600,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Doctoral Programme Music Acoustics (Dr.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 47 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-47) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-47`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-47) |
 | **English Name** | Doctoral Programme Music Acoustics (Dr.) |
 | **German Name** | Promotionsstudiengang Musikalische Akustik (Dr.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1594,10 +621,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Doctoral Programme Musicology (Dr. Phil.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 48 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-48) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-48`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-48) |
 | **English Name** | Doctoral Programme Musicology (Dr. Phil.) |
 | **German Name** | Promotionsstudiengang Musikwissenschaft (Dr.phil) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1616,10 +642,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Doctoral Programme Musicology (Dr. Phil.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 182 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-182`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-182) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-182`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-182) |
 | **English Name** | Doctoral Programme Musicology (Dr. Phil.) |
 | **German Name** | Promotionsstudiengang Musikwissenschaft (Dr.phil.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1638,10 +663,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Erich Thienhaus Institute
 
-|||
-|-----------|-----------|
+
 | **ID** | 217 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-217`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-217) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-217`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-217) |
 | **English Name** | Erich Thienhaus Institute |
 | **German Name** | Erich-Thienhaus-Institut |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1662,10 +686,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Excellence Programme Composition
 
-|||
-|-----------|-----------|
+
 | **ID** | 172 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-172`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-172) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-172`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-172) |
 | **English Name** | Excellence Programme Composition |
 | **German Name** | Exzellenzstudiengang Komposition |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1684,10 +707,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Excellence Programme Music Performance
 
-|||
-|-----------|-----------|
+
 | **ID** | 173 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-173`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-173) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-173`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-173) |
 | **English Name** | Excellence Programme Music Performance |
 | **German Name** | Exzellenzstudiengang Konzertexamen |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1706,10 +728,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## exMedia Department
 
-|||
-|-----------|-----------|
+
 | **ID** | 162 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-162`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-162) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-162`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-162) |
 | **English Name** | exMedia Department |
 | **German Name** | Fächergruppe exMedia |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1728,10 +749,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Film and Television Department
 
-|||
-|-----------|-----------|
+
 | **ID** | 163 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-163`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-163) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-163`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-163) |
 | **English Name** | Film and Television Department |
 | **German Name** | Fächergruppe Film und Fernsehen |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1750,10 +770,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Folkwang Tanzstudio
 
-|||
-|-----------|-----------|
+
 | **ID** | 226 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-226`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-226) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-226`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-226) |
 | **English Name** | Folkwang Tanzstudio |
 | **German Name** | Folkwang Tanzstudio |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1772,10 +791,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Folkwang University of the Arts
 
-|||
-|-----------|-----------|
+
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-1) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-1`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-1) |
 | **English Name** | Folkwang University of the Arts |
 | **German Name** | Folkwang Universität der Künste |
 | **German Breadcrumb** | [Folkwang Universität der Künste](#organisational-unit-1) |
@@ -1793,10 +811,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines)
 
-|||
-|-----------|-----------|
+
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-2) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-2`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-2) |
 | **English Name** | German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines) |
 | **German Name** | Deutsch-französischer Studiengang Musikwissenschaft (B.A./Licence des Artes et Sciences humaines) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1815,10 +832,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Glasmoog – Space for Art & Discourse
 
-|||
-|-----------|-----------|
+
 | **ID** | 167 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-167`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-167) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-167`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-167) |
 | **English Name** | Glasmoog – Space for Art & Discourse |
 | **German Name** | Glasmoog – Raum für Kunst & Diskurs |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -1840,10 +856,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Hochschule Düsseldorf - University of Applied Sciences
 
-|||
-|-----------|-----------|
+
 | **ID** | 223 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-223`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-223) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-223`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-223) |
 | **English Name** | Hochschule Düsseldorf - University of Applied Sciences |
 | **German Name** | Hochschule Düsseldorf - University of Applied Sciences |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -1862,10 +877,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Hochschule für Musik Detmold
 
-|||
-|-----------|-----------|
+
 | **ID** | 44 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-44) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-44`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-44) |
 | **English Name** | Hochschule für Musik Detmold |
 | **German Name** | Hochschule für Musik Detmold |
 | **German Breadcrumb** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -1883,10 +897,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Hochschule für Musik und Tanz Köln
 
-|||
-|-----------|-----------|
+
 | **ID** | 83 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-83`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-83) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-83`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-83) |
 | **English Name** | Hochschule für Musik und Tanz Köln |
 | **German Name** | Hochschule für Musik und Tanz Köln |
 | **German Breadcrumb** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -1904,10 +917,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Art and Design Science
 
-|||
-|-----------|-----------|
+
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-9) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-9`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-9) |
 | **English Name** | Institute for Art and Design Science |
 | **German Name** | Institut für Kunst- und Designwissenschaft |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1926,10 +938,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Church Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 177 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-177`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-177) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-177`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-177) |
 | **English Name** | Institute for Church Music |
 | **German Name** | Institut für Kirchenmusik |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1948,10 +959,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Composition and Music Theory
 
-|||
-|-----------|-----------|
+
 | **ID** | 178 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-178`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-178) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-178`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-178) |
 | **English Name** | Institute for Composition and Music Theory |
 | **German Name** | Institut für Komposition und Musiktheorie |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -1970,10 +980,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Computer Music and Electronic Media
 
-|||
-|-----------|-----------|
+
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-7) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-7`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-7) |
 | **English Name** | Institute for Computer Music and Electronic Media |
 | **German Name** | Institut für Computermusik und Elektronische Medien |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -1992,10 +1001,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Contemporary Dance
 
-|||
-|-----------|-----------|
+
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-12) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-12`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-12) |
 | **English Name** | Institute for Contemporary Dance |
 | **German Name** | Institut für Zeitgenössischen Tanz |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -2014,10 +1022,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Early Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 84 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-84`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-84) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-84`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-84) |
 | **English Name** | Institute for Early Music |
 | **German Name** | Institut für Alte Musik |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2036,10 +1043,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Gregorian Chant
 
-|||
-|-----------|-----------|
+
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-8) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-8`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-8) |
 | **English Name** | Institute for Gregorian Chant |
 | **German Name** | Institut für Gregorianik |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -2058,10 +1064,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Historic Musicology
 
-|||
-|-----------|-----------|
+
 | **ID** | 85 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-85`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-85) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-85`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-85) |
 | **English Name** | Institute for Historic Musicology |
 | **German Name** | Institut für Historische Musikwissenschaft |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2080,10 +1085,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Music and Media
 
-|||
-|-----------|-----------|
+
 | **ID** | 179 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-179`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-179) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-179`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-179) |
 | **English Name** | Institute for Music and Media |
 | **German Name** | Institut für Musik und Medien |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2102,10 +1106,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for New Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 86 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-86`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-86) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-86`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-86) |
 | **English Name** | Institute for New Music |
 | **German Name** | Institut für Neue Musik |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2124,10 +1127,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for Popular Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-11) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-11`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-11) |
 | **English Name** | Institute for Popular Music |
 | **German Name** | Institut für Pop-Musik |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -2146,10 +1148,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute for the Promotion of Young Artists | folkwang junior
 
-|||
-|-----------|-----------|
+
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-10) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-10`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-10) |
 | **English Name** | Institute for the Promotion of Young Artists | folkwang junior  |
 | **German Name** | Institut für künstlerische Nachwuchsförderung | folkwang junior |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -2168,10 +1169,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Institute of Musicology
 
-|||
-|-----------|-----------|
+
 | **ID** | 181 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-181`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-181) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-181`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-181) |
 | **English Name** | Institute of Musicology |
 | **German Name** | Musikwissenschaftliches Institut |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2190,10 +1190,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Kunstakademie Düsseldorf
 
-|||
-|-----------|-----------|
+
 | **ID** | 224 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-224`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-224) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-224`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-224) |
 | **English Name** | Kunstakademie Düsseldorf |
 | **German Name** | Kunstakademie Düsseldorf |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -2212,10 +1211,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Library Tape Archive
 
-|||
-|-----------|-----------|
+
 | **ID** | 152 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-152`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-152) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-152`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-152) |
 | **English Name** | Library Tape Archive |
 | **German Name** | Tonbandarchiv der Bibliothek |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2234,10 +1232,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Media and Fine Art Diploma 1 | Undergraduate Course
 
-|||
-|-----------|-----------|
+
 | **ID** | 159 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-159`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-159) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-159`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-159) |
 | **English Name** | Media and Fine Art Diploma 1 | Undergraduate Course |
 | **German Name** | Studiengang Mediale Künste | 9-semestriges Diplomstudium (grundständig, Diplom 1) |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -2258,10 +1255,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Media and Fine Art Diploma 2 | Postgraduate Course
 
-|||
-|-----------|-----------|
+
 | **ID** | 160 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-160`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-160) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-160`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-160) |
 | **English Name** | Media and Fine Art Diploma 2 | Postgraduate Course |
 | **German Name** | Studiengang Mediale Künste | 4-semestriges Diplomstudium (postgradual, Diplom 2) |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -2282,10 +1278,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Media Design Department
 
-|||
-|-----------|-----------|
+
 | **ID** | 166 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-166`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-166) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-166`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-166) |
 | **English Name** | Media Design Department |
 | **German Name** | Fächergruppe Mediengestaltung |
 | **Parent Organisational Unit** | [Academy of Media Arts Cologne](#organisational-unit-156) |
@@ -2304,10 +1299,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Music Studies for the Armed Forces
 
-|||
-|-----------|-----------|
+
 | **ID** | 214 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-214`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-214) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-214`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-214) |
 | **English Name** | Music Studies for the Armed Forces |
 | **German Name** | Ausbildungsmusikkorps der Bundeswehr |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -2326,10 +1320,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## NRW Orchestra Centre
 
-|||
-|-----------|-----------|
+
 | **ID** | 216 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-216`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-216) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-216`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-216) |
 | **English Name** | NRW Orchestra Centre |
 | **German Name** | Orchesterzentrum|NRW |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -2348,10 +1341,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Peter Oswald Institute
 
-|||
-|-----------|-----------|
+
 | **ID** | 90 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-90`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-90) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-90`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-90) |
 | **English Name** | Peter Oswald Institute |
 | **German Name** | Peter-Ostwald-Institut |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2370,10 +1362,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Pre-College Cologne
 
-|||
-|-----------|-----------|
+
 | **ID** | 91 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-91`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-91) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-91`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-91) |
 | **English Name** | Pre-College Cologne |
 | **German Name** | Pre-College Cologne |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2392,10 +1383,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Project EchoSpore
 
-|||
-|-----------|-----------|
+
 | **ID** | 92 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-92`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-92) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-92`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-92) |
 | **English Name** | Project EchoSpore |
 | **German Name** | Projekt EchoSpore |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2414,10 +1404,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Project Schauspiel HfMT (Acting HfMT)
 
-|||
-|-----------|-----------|
+
 | **ID** | 93 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-93`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-93) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-93`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-93) |
 | **English Name** | Project Schauspiel HfMT (Acting HfMT) |
 | **German Name** | Projekt Schauspiel HfMT |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2436,10 +1425,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Reasearch Centre "Düsseldorf's Civic Music Life"
 
-|||
-|-----------|-----------|
+
 | **ID** | 174 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-174`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-174) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-174`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-174) |
 | **English Name** | Reasearch Centre "Düsseldorf's Civic Music Life" |
 | **German Name** | Forschungsstelle „Düsseldorfs Bürgerliches Musikleben“ |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2458,10 +1446,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Research Centre Sepulchral Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 175 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-175`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-175) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-175`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-175) |
 | **English Name** | Research Centre Sepulchral Music |
 | **German Name** | Forschungsstelle Sepulkralmusik |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2480,10 +1467,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Research Centre Studio for the Digitisation of Historical Sound Recording Media
 
-|||
-|-----------|-----------|
+
 | **ID** | 176 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-176`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-176) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-176`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-176) |
 | **English Name** | Research Centre Studio for the Digitisation of Historical Sound Recording Media |
 | **German Name** | Forschungsstelle Studio zur Digitalisierung historischer Tonträger |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2502,10 +1488,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Rheinische Opernakademie (Rhenish Opera Acadaemy)
 
-|||
-|-----------|-----------|
+
 | **ID** | 95 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-95`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-95) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-95`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-95) |
 | **English Name** | Rheinische Opernakademie (Rhenish Opera Acadaemy) |
 | **German Name** | Rheinische Opernakademie |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2524,10 +1509,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Robert Schumann Hochschule Düsseldorf
 
-|||
-|-----------|-----------|
+
 | **ID** | 169 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-169`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-169) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-169`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-169) |
 | **English Name** | Robert Schumann Hochschule Düsseldorf |
 | **German Name** | Robert Schumann Hochschule Düsseldorf |
 | **German Breadcrumb** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2545,10 +1529,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Royal Academy of Art, The Hague (KABK)
 
-|||
-|-----------|-----------|
+
 | **ID** | 225 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-225`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-225) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-225`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-225) |
 | **English Name** | Royal Academy of Art, The Hague (KABK) |
 | **German Name** | Royal Academy of Art, The Hague (KABK) |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -2567,10 +1550,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Schumann Junior Institute
 
-|||
-|-----------|-----------|
+
 | **ID** | 180 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-180`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-180) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-180`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-180) |
 | **English Name** | Schumann Junior Institute |
 | **German Name** | Institut Schumann Junior |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2589,10 +1571,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Seminar Project Jazz Against The Machine
 
-|||
-|-----------|-----------|
+
 | **ID** | 94 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-94`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-94) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-94`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-94) |
 | **English Name** | Seminar Project Jazz Against The Machine |
 | **German Name** | Projektseminar Jazz Against The Machine |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2611,10 +1592,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Song Academy at the HfMT Köln
 
-|||
-|-----------|-----------|
+
 | **ID** | 89 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-89`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-89) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-89`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-89) |
 | **English Name** | Song Academy at the HfMT Köln |
 | **German Name** | Liedakademie an der HfMT Köln |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2633,10 +1613,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Studiengang Master of Music | Music Education/Music Management
 
-|||
-|-----------|-----------|
+
 | **ID** | 222 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-222`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-222) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-222`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-222) |
 | **English Name** | Studiengang Master of Music | Music Education/Music Management |
 | **German Name** | Studiengang Master of Music | Musikvermittlung/Musikmanagement |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -2655,10 +1634,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Studio for Electronic Music
 
-|||
-|-----------|-----------|
+
 | **ID** | 151 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-151`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-151) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-151`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-151) |
 | **English Name** | Studio for Electronic Music |
 | **German Name** | Studio für Elektronische Musik |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2677,10 +1655,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Artistic Music Production (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 184 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-184`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-184) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-184`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-184) |
 | **English Name** | Study Programme Artistic Music Production (M.Mus.) |
 | **German Name** | Studiengang Künstlerische Musikproduktion (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2699,10 +1676,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Audio and Video (B.Eng.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 212 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-212`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-212) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-212`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-212) |
 | **English Name** | Study Programme Audio and Video (B.Eng.) |
 | **German Name** | Studiengang Ton und Bild (B.Eng) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -2721,10 +1697,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Arts | Dance (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 96 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-96`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-96) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-96`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-96) |
 | **English Name** | Study Programme Bachelor of Arts | Dance (B.A.) |
 | **German Name** | Studiengang Bachelor of Arts | Tanz (B.A.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2743,10 +1718,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Brass Instruments (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 97 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-97`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-97) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-97`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-97) |
 | **English Name** | Study Programme Bachelor of Music | Brass Instruments (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Blechbläser (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2765,10 +1739,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Catholic Church Music (B. Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 51 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-51) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-51`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-51) |
 | **English Name** | Study Programme Bachelor of Music | Catholic Church Music (B. Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Katholische Kirchenmusik (B. Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -2787,10 +1760,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Choral Conducting (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 98 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-98`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-98) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-98`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-98) |
 | **English Name** | Study Programme Bachelor of Music | Choral Conducting (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Chordirigieren (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2809,10 +1781,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 110 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-110`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-110) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-110`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-110) |
 | **English Name** | Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Katholische Kirchenmusik (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2831,10 +1802,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 101 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-101`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-101) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-101`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-101) |
 | **English Name** | Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Evangelische Kirchenmusik (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2853,10 +1823,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Composition/Music Theory
 
-|||
-|-----------|-----------|
+
 | **ID** | 117 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-117`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-117) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-117`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-117) |
 | **English Name** | Study Programme Bachelor of Music | Composition/Music Theory |
 | **German Name** | Studiengang Bachelor of Music | Tonsatz/Musiktheorie (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2875,10 +1844,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Electronic Compostion (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 99 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-99`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-99) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-99`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-99) |
 | **English Name** | Study Programme Bachelor of Music | Electronic Compostion (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Elektronische Komposition (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2897,10 +1865,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 100 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-100`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-100) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-100`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-100) |
 | **English Name** | Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Elementare Musikpädagogik (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2919,10 +1886,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Freelance Musician (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 50 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-50) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-50`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-50) |
 | **English Name** | Study Programme Bachelor of Music | Freelance Musician (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Freischaffender Musiker (B. Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -2941,10 +1907,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Guitar (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 103 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-103`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-103) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-103`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-103) |
 | **English Name** | Study Programme Bachelor of Music | Guitar (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Gitarre (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2963,10 +1928,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Harp (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 104 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-104`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-104) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-104`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-104) |
 | **English Name** | Study Programme Bachelor of Music | Harp (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Harfe (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -2985,10 +1949,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Historic Instruments (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 105 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-105`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-105) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-105`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-105) |
 | **English Name** | Study Programme Bachelor of Music | Historic Instruments (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Historische Instrumente (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3007,10 +1970,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Instrumental Composition (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 108 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-108`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-108) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-108`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-108) |
 | **English Name** | Study Programme Bachelor of Music | Instrumental Composition (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Instrumentale Komposition (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3029,10 +1991,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 107 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-107`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-107) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-107`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-107) |
 | **English Name** | Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Instrumental-/Gesangspädagogik (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3051,10 +2012,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Jazz/Pop (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 109 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-109`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-109) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-109`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-109) |
 | **English Name** | Study Programme Bachelor of Music | Jazz/Pop (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Jazz/Pop (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3073,10 +2033,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Mandolin (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 112 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-112`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-112) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-112`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-112) |
 | **English Name** | Study Programme Bachelor of Music | Mandolin (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Mandoline (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3095,10 +2054,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 52 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-52) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-52`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-52) |
 | **English Name** | Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Orchestermusiker (B. Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3117,10 +2075,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 113 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-113`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-113) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-113`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-113) |
 | **English Name** | Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Orchesterdirigieren (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3139,10 +2096,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Organ (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 114 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-114`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-114) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-114`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-114) |
 | **English Name** | Study Programme Bachelor of Music | Organ (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Orgel (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3161,10 +2117,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 115 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-115`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-115) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-115`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-115) |
 | **English Name** | Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Schlagzeug/Pauke (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3183,10 +2138,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Piano (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 111 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-111`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-111) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-111`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-111) |
 | **English Name** | Study Programme Bachelor of Music | Piano (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Klavier (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3205,10 +2159,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 49 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-49) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-49`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-49) |
 | **English Name** | Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Evangelsiche Kirchenmusik (B. Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3227,10 +2180,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Strings (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 116 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-116`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-116) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-116`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-116) |
 | **English Name** | Study Programme Bachelor of Music | Strings (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Streicher (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3249,10 +2201,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Voice (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 102 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-102`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-102) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-102`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-102) |
 | **English Name** | Study Programme Bachelor of Music | Voice (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Gesang (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3271,10 +2222,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 106 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-106`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-106) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-106`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-106) |
 | **English Name** | Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.) |
 | **German Name** | Studiengang Bachelor of Music | Holzbläser (B.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3293,10 +2243,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Communication Design (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 23 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-23) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-23`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-23) |
 | **English Name** | Study Programme Communication Design (B.A.) |
 | **German Name** | Studiengang Kommunikationsdesign (B.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3315,10 +2264,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Communication Design (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 24 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-24) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-24`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-24) |
 | **English Name** | Study Programme Communication Design (M.A.) |
 | **German Name** | Studiengang Kommunikationsdesign (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3337,10 +2285,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Dance Composition | Choreography (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 41 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-41) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-41`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-41) |
 | **English Name** | Study Programme Dance Composition | Choreography (M.A.) |
 | **German Name** | Studiengang Tanzkomposition | Choreographie (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3359,10 +2306,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Dance Composition | Interpreatation (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 42 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-42) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-42`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-42) |
 | **English Name** | Study Programme Dance Composition | Interpreatation (M.A.) |
 | **German Name** | Studiengang Tanzkomposition | Interpretation (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3381,10 +2327,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 40 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-40) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-40`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-40) |
 | **English Name** | Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.) |
 | **German Name** | Studiengang Tanzkomposition | Bewegungsnotation/Bewegungsanalyse (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3403,10 +2348,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Dance Padagogy for Artistic Dance (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 43 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-43) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-43`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-43) |
 | **English Name** | Study Programme Dance Padagogy for Artistic Dance (M.A.) |
 | **German Name** | Studiengang Tanzpädagogik für künstlerischen Tanz (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3425,10 +2369,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Design Futures (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-13) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-13`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-13) |
 | **English Name** | Study Programme Design Futures (M.A.) |
 | **German Name** | Studiengang Design Futures (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3447,10 +2390,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Directing of Vocal Ensembles (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 27 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-27) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-27`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-27) |
 | **English Name** | Study Programme Directing of Vocal Ensembles (M.Mus.) |
 | **German Name** | Studiengang Leitung vokaler Ensembles (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3469,10 +2411,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Gregorian Chant (Certificate)
 
-|||
-|-----------|-----------|
+
 | **ID** | 16 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-16) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-16`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-16) |
 | **English Name** | Study Programme Gregorian Chant (Certificate) |
 | **German Name** | Studiengang Gregorianik (Zertifikat) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3491,10 +2432,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Instrumental Training (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 17 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-17) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-17`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-17) |
 | **English Name** | Study Programme Instrumental Training (B.A.) |
 | **German Name** | Studiengang Instrumentalausbildung (B.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3513,10 +2453,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Integrative Composition (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 18 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-18) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-18`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-18) |
 | **English Name** | Study Programme Integrative Composition (M.Mus.) |
 | **German Name** | Studiengang Integrative Komposition (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3535,10 +2474,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Integrative Music Theory (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 19 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-19) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-19`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-19) |
 | **English Name** | Study Programme Integrative Music Theory (M.Mus.) |
 | **German Name** | Studiengang Integrative Musiktheorie (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3557,10 +2495,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Jazz | Artist Producer (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 20 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-20) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-20`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-20) |
 | **English Name** | Study Programme Jazz | Artist Producer (M.Mus.) |
 | **German Name** | Studiengang Jazz | Artist Producer (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3579,10 +2516,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Jazz | Improvising Artist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 21 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-21) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-21`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-21) |
 | **English Name** | Study Programme Jazz | Improvising Artist (M.Mus.) |
 | **German Name** | Studiengang Jazz | Improvising Artist (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3601,10 +2537,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Jazz | Performing Artist (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 22 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-22) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-22`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-22) |
 | **English Name** | Study Programme Jazz | Performing Artist (B.Mus.) |
 | **German Name** | Studiengang Jazz | Performing Artist (B.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -3623,10 +2558,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Klang und Realität (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 183 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-183`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-183) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-183`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-183) |
 | **English Name** | Study Programme Klang und Realität (M.Mus.) |
 | **German Name** | Studiengang Klang und Realität (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -3645,10 +2579,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Arts | Dance Studies (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 121 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-121`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-121) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-121`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-121) |
 | **English Name** | Study Programme Master of Arts | Dance Studies (M.A.) |
 | **German Name** | Studiengang Master of Arts | Tanzwissenschaft (M.A.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3667,10 +2600,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Arts | Medition in Dance (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 120 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-120`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-120) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-120`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-120) |
 | **English Name** | Study Programme Master of Arts | Medition in Dance (M.A.) |
 | **German Name** | Studiengang Master of Arts | Tanzvermittlung (M.A.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3689,10 +2621,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Arts | Music Pedagogy (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 118 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-118`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-118) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-118`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-118) |
 | **English Name** | Study Programme Master of Arts | Music Pedagogy (M.A.) |
 | **German Name** | Studiengang Master of Arts | Musikpädagogik (M.A.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3711,10 +2642,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Arts | Musicology (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 119 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-119`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-119) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-119`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-119) |
 | **English Name** | Study Programme Master of Arts | Musicology (M.A.) |
 | **German Name** | Studiengang Master of Arts | Musikwissenschaft (M.A.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3733,10 +2663,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Accordion | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 53 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-53) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-53`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-53) |
 | **English Name** | Study Programme Master of Music | Accordion | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Akkordion | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3755,10 +2684,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 54 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-54) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-54`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-54) |
 | **English Name** | Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Akkordion | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3777,10 +2705,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Accordion | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 55 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-55) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-55`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-55) |
 | **English Name** | Study Programme Master of Music | Accordion | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Akkordion | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3799,10 +2726,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 60 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-60`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-60) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-60`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-60) |
 | **English Name** | Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Fagott| Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3821,10 +2747,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 61 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-61`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-61) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-61`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-61) |
 | **English Name** | Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Fagott | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3843,10 +2768,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 62 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-62`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-62) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-62`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-62) |
 | **English Name** | Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Fagott | Orchesterspiel (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3865,10 +2789,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Bassoon | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 63 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-63`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-63) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-63`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-63) |
 | **English Name** | Study Programme Master of Music | Bassoon | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Fagott | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3887,10 +2810,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Catholic Church Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 75 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-75`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-75) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-75`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-75) |
 | **English Name** | Study Programme Master of Music | Catholic Church Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -3909,10 +2831,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 138 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-138`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-138) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-138`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-138) |
 | **English Name** | Study Programme Master of Music | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3931,10 +2852,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Choral Conducting (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 123 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-123`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-123) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-123`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-123) |
 | **English Name** | Study Programme Master of Music | Choral Conducting (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Dirigieren Chor (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3953,10 +2873,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Church Music (Catholic) (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 139 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-139`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-139) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-139`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-139) |
 | **English Name** | Study Programme Master of Music | Church Music (Catholic) (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Katholische Kirchenmusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3975,10 +2894,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Church Music (Protestant) (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 128 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-128`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-128) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-128`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-128) |
 | **English Name** | Study Programme Master of Music | Church Music (Protestant) (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -3997,10 +2915,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Conducting Contemporary Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 126 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-126`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-126) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-126`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-126) |
 | **English Name** | Study Programme Master of Music | Conducting Contemporary Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Dirigieren Zeitgenössische Musik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4019,10 +2936,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 124 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-124`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-124) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-124`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-124) |
 | **English Name** | Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Dirigieren Musiktheater  (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4041,10 +2957,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Conducting Orchestra (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 125 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-125`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-125) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-125`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-125) |
 | **English Name** | Study Programme Master of Music | Conducting Orchestra (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Dirigieren Orchester (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4063,10 +2978,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Electronic Composition (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 127 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-127`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-127) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-127`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-127) |
 | **English Name** | Study Programme Master of Music | Electronic Composition (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Elektronische Komposition (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4085,10 +2999,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Flute | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 64 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-64`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-64) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-64`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-64) |
 | **English Name** | Study Programme Master of Music | Flute | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Flöte | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4107,10 +3020,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Flute | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 65 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-65`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-65) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-65`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-65) |
 | **English Name** | Study Programme Master of Music | Flute | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Flöte | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4129,10 +3041,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 66 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-66`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-66) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-66`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-66) |
 | **English Name** | Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Flöte | Orchesterspiel (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4151,10 +3062,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Flute | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 67 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-67`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-67) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-67`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-67) |
 | **English Name** | Study Programme Master of Music | Flute | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Flöte | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4173,10 +3083,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Guitar (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 131 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-131`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-131) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-131`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-131) |
 | **English Name** | Study Programme Master of Music | Guitar (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Gitarre (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4195,10 +3104,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Guitar | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 69 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-69`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-69) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-69`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-69) |
 | **English Name** | Study Programme Master of Music | Guitar | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Gitarre | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4217,10 +3125,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 70 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-70`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-70) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-70`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-70) |
 | **English Name** | Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Gitarre | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4239,10 +3146,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Guitar | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 68 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-68`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-68) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-68`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-68) |
 | **English Name** | Study Programme Master of Music | Guitar | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Gitarre | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4261,10 +3167,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Harp (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 132 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-132`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-132) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-132`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-132) |
 | **English Name** | Study Programme Master of Music | Harp (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Harfe (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4283,10 +3188,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Harp | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 71 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-71`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-71) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-71`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-71) |
 | **English Name** | Study Programme Master of Music | Harp | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Harfe | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4305,10 +3209,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Harp | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 72 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-72`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-72) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-72`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-72) |
 | **English Name** | Study Programme Master of Music | Harp | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Harfe | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4327,10 +3230,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 73 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-73`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-73) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-73`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-73) |
 | **English Name** | Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Harfe | Orchesterspiel (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4349,10 +3251,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Harp | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 74 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-74`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-74) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-74`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-74) |
 | **English Name** | Study Programme Master of Music | Harp | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Harfe | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4371,10 +3272,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 133 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-133`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-133) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-133`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-133) |
 | **English Name** | Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Historische Instrumente und Barockgesang (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4393,10 +3293,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Instrumental Composition (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 134 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-134`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-134) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-134`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-134) |
 | **English Name** | Study Programme Master of Music | Instrumental Composition (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Instrumentale Komposition (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4415,10 +3314,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Interpretation New Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 135 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-135`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-135) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-135`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-135) |
 | **English Name** | Study Programme Master of Music | Interpretation New Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Interpretation Neue Musik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4437,10 +3335,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 136 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-136`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-136) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-136`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-136) |
 | **English Name** | Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Jazz-Komposition/Arrangement (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4459,10 +3356,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 137 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-137`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-137) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-137`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-137) |
 | **English Name** | Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Jazz/Pop Instrumental/Vokal (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4481,10 +3377,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Mandolin (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 142 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-142`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-142) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-142`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-142) |
 | **English Name** | Study Programme Master of Music | Mandolin (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Mandoline (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4503,10 +3398,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Modern Piano Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 143 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-143`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-143) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-143`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-143) |
 | **English Name** | Study Programme Master of Music | Modern Piano Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Neue Klaviermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4525,10 +3419,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Music Theory (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 150 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-150`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-150) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-150`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-150) |
 | **English Name** | Study Programme Master of Music | Music Theory (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Tonsatz (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4547,10 +3440,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Oboe | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 221 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-221`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-221) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-221`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-221) |
 | **English Name** | Study Programme Master of Music | Oboe | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Oboe | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4569,10 +3461,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Opera Correpetition (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 144 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-144`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-144) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-144`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-144) |
 | **English Name** | Study Programme Master of Music | Opera Correpetition (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Opernkorrepetition (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4591,10 +3482,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Orchestral Playing (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 145 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-145`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-145) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-145`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-145) |
 | **English Name** | Study Programme Master of Music | Orchestral Playing (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Orchesterspiel (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4613,10 +3503,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Organ (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 146 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-146`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-146) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-146`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-146) |
 | **English Name** | Study Programme Master of Music | Organ (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Orgel (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4635,10 +3524,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Organ | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 77 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-77`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-77) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-77`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-77) |
 | **English Name** | Study Programme Master of Music | Organ | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Orgel | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4657,10 +3545,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Organ | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 78 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-78`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-78) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-78`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-78) |
 | **English Name** | Study Programme Master of Music | Organ | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Orgel| Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4679,10 +3566,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Organ | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 76 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-76`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-76) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-76`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-76) |
 | **English Name** | Study Programme Master of Music | Organ | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Orgel | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4701,10 +3587,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Percussion/Timpani (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 148 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-148`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-148) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-148`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-148) |
 | **English Name** | Study Programme Master of Music | Percussion/Timpani (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Schlagzeug/Pauke (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4723,10 +3608,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Piano (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 140 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-140`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-140) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-140`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-140) |
 | **English Name** | Study Programme Master of Music | Piano (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Klavier (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4745,10 +3629,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Production (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 147 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-147`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-147) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-147`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-147) |
 | **English Name** | Study Programme Master of Music | Production (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Production (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4767,10 +3650,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Protestant Church Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 59 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-59`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-59) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-59`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-59) |
 | **English Name** | Study Programme Master of Music | Protestant Church Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Evangelische Kirchenmusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4789,10 +3671,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Recorder | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 56 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-56) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-56`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-56) |
 | **English Name** | Study Programme Master of Music | Recorder | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Blockflöte | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4811,10 +3692,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 57 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-57) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-57`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-57) |
 | **English Name** | Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Blockflöte | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4833,10 +3713,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Recorder | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 58 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-58) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-58`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-58) |
 | **English Name** | Study Programme Master of Music | Recorder | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Blockflöte | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4855,10 +3734,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 80 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-80`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-80) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-80`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-80) |
 | **English Name** | Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Saxophon | Kammermusik (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4877,10 +3755,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 81 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-81`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-81) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-81`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-81) |
 | **English Name** | Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Saxophon | Musik und Wissenschaft (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4899,10 +3776,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Saxophone | Solist (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 79 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-79`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-79) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-79`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-79) |
 | **English Name** | Study Programme Master of Music | Saxophone | Solist (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Saxophon | Solist (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik Detmold](#organisational-unit-44) |
@@ -4921,10 +3797,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 141 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-141`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-141) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-141`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-141) |
 | **English Name** | Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Liedgestaltung (Klavier) (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4943,10 +3818,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | String Instruments (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 149 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-149`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-149) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-149`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-149) |
 | **English Name** | Study Programme Master of Music | String Instruments (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Streichinstrumente (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4965,10 +3839,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Voice Music Theatre (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 130 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-130`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-130) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-130`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-130) |
 | **English Name** | Study Programme Master of Music | Voice Music Theatre (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Gesang Musiktheater (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -4987,10 +3860,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Voice Song/Concert (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 129 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-129`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-129) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-129`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-129) |
 | **English Name** | Study Programme Master of Music | Voice Song/Concert (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Gesang Lied/Konzert (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -5009,10 +3881,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Master of Music | Wind Instruments (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 122 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-122`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-122) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-122`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-122) |
 | **English Name** | Study Programme Master of Music | Wind Instruments (M.Mus.) |
 | **German Name** | Studiengang Master of Music | Blasinstrumente (M.Mus.) |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
@@ -5031,10 +3902,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Media Creation (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 38 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-38) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-38`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-38) |
 | **English Name** | Study Programme Media Creation (M.A.) |
 | **German Name** | Studiengang Professional Media Creation (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5053,10 +3923,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music and Media (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 197 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-197`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-197) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-197`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-197) |
 | **English Name** | Study Programme Music and Media (B.Mus.) |
 | **German Name** | Studiengang Musik und Medien (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5075,10 +3944,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music of the Middle Ages (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 29 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-29) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-29`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-29) |
 | **English Name** | Study Programme Music of the Middle Ages (M.Mus.) |
 | **German Name** | Studiengang Musik des Mittelalters (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5097,10 +3965,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Pedagogy (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 30 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-30) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-30`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-30) |
 | **English Name** | Study Programme Music Pedagogy (B.A.) |
 | **German Name** | Studiengang Musikpädagogik (B.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5119,10 +3986,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Composition (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 191 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-191`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-191) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-191`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-191) |
 | **English Name** | Study Programme Music Performance | Composition (B.Mus.) |
 | **German Name** | Studiengang Musik | Komposition (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5141,10 +4007,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Composition (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 192 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-192`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-192) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-192`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-192) |
 | **English Name** | Study Programme Music Performance | Composition (M.Mus.) |
 | **German Name** | Studiengang Musik | Komposition (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5163,10 +4028,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Guitar major (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 187 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-187`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-187) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-187`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-187) |
 | **English Name** | Study Programme Music Performance | Guitar major (B.Mus.) |
 | **German Name** | Studiengang Musik | Gitarre (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5185,10 +4049,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Guitar major (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 188 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-188`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-188) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-188`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-188) |
 | **English Name** | Study Programme Music Performance | Guitar major (M.Mus.) |
 | **German Name** | Studiengang Musik | Gitarre (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5207,10 +4070,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Organ major (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 195 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-195`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-195) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-195`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-195) |
 | **English Name** | Study Programme Music Performance | Organ major (B.Mus.) |
 | **German Name** | Studiengang Musik | Orgel (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5229,10 +4091,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Organ major (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 196 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-196`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-196) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-196`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-196) |
 | **English Name** | Study Programme Music Performance | Organ major (M.Mus.) |
 | **German Name** | Studiengang Musik | Orgel (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5251,10 +4112,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Piano major (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 189 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-189`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-189) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-189`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-189) |
 | **English Name** | Study Programme Music Performance | Piano major (B.Mus.) |
 | **German Name** | Studiengang Musik | Klavier (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5273,10 +4133,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Piano major (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 190 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-190`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-190) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-190`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-190) |
 | **English Name** | Study Programme Music Performance | Piano major (M.Mus.) |
 | **German Name** | Studiengang Musik | Klavier (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5295,10 +4154,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Voice  major (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 186 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-186`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-186) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-186`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-186) |
 | **English Name** | Study Programme Music Performance | Voice  major (M.Mus.) |
 | **German Name** | Studiengang Musik | Gesang (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5317,10 +4175,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Performance | Voice major (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 185 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-185`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-185) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-185`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-185) |
 | **English Name** | Study Programme Music Performance | Voice major (B.Mus.) |
 | **German Name** | Studiengang Musik | Gesang (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5339,10 +4196,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Church Music (catholic) (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 202 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-202`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-202) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-202`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-202) |
 | **English Name** | Study Programme Music Promotion | Church Music (catholic) (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Kirchenmusik  (katholisch) (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5361,10 +4217,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Church Music (catholic) (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 203 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-203`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-203) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-203`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-203) |
 | **English Name** | Study Programme Music Promotion | Church Music (catholic) (M.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Kirchenmusik (katholisch) (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5383,10 +4238,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Church Music (protestant) (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 200 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-200`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-200) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-200`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-200) |
 | **English Name** | Study Programme Music Promotion | Church Music (protestant) (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Kirchenmusik  (evangelisch) (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5405,10 +4259,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Church Music (protestant) (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 201 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-201`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-201) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-201`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-201) |
 | **English Name** | Study Programme Music Promotion | Church Music (protestant) (M.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Kirchenmusik (evangelisch) (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5427,10 +4280,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 198 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-198`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-198) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-198`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-198) |
 | **English Name** | Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Chorleitung (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5449,10 +4301,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 199 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-199`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-199) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-199`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-199) |
 | **English Name** | Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Chorleitung (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5471,10 +4322,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 207 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-207`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-207) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-207`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-207) |
 | **English Name** | Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Orchesterleitung (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5493,10 +4343,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Music Pedagogy (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 204 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-204`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-204) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-204`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-204) |
 | **English Name** | Study Programme Music Promotion | Music Pedagogy (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Musikpädagogik (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5515,10 +4364,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Music Pedagogy (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 205 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-205`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-205) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-205`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-205) |
 | **English Name** | Study Programme Music Promotion | Music Pedagogy (M.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Musikpädagogik (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5537,10 +4385,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 208 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-208`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-208) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-208`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-208) |
 | **English Name** | Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Orchesterleitung (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5559,10 +4406,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 206 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-206`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-206) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-206`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-206) |
 | **English Name** | Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.) |
 | **German Name** | Studiengang Musikvermittlung | Musiktherorie und Hörerziehung (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5581,10 +4427,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Teaching (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 25 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-25) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-25`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-25) |
 | **English Name** | Study Programme Music Teaching (B.A.) |
 | **German Name** | Studiengang Lehramt Musik (B.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5603,10 +4448,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Music Teaching (M.Ed.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 26 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-26) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-26`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-26) |
 | **English Name** | Study Programme Music Teaching (M.Ed.) |
 | **German Name** | Studiengang Lehramt Musik (M.Ed.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5625,10 +4469,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Musical (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 28 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-28) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-28`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-28) |
 | **English Name** | Study Programme Musical (B.A.) |
 | **German Name** | Studiengang Musical (B.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5647,10 +4490,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Musicology (B. A./Dual-subject Bachelor)
 
-|||
-|-----------|-----------|
+
 | **ID** | 31 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-31) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-31`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-31) |
 | **English Name** | Study Programme Musicology (B. A./Dual-subject Bachelor) |
 | **German Name** | Studiengang Musikwissenschaft (B.A./Zwei-Fach-Bachelor) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5669,10 +4511,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Musicology (B.A./Dual-subject Bachelor)
 
-|||
-|-----------|-----------|
+
 | **ID** | 209 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-209`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-209) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-209`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-209) |
 | **English Name** | Study Programme Musicology (B.A./Dual-subject Bachelor) |
 | **German Name** | Studiengang Musikwissenschaft (B.A./ Zwei-Fach-Bachelor) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5691,10 +4532,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Musicology (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 210 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-210`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-210) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-210`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-210) |
 | **English Name** | Study Programme Musicology (M.A.) |
 | **German Name** | Studiengang Musikwissenschaft (M.A.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5713,10 +4553,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Musicology (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-32) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-32`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-32) |
 | **English Name** | Study Programme Musicology (M.A.) |
 | **German Name** | Studiengang Musikwissenschaft (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5735,10 +4574,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Orchestral Instruments (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 193 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-193`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-193) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-193`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-193) |
 | **English Name** | Study Programme Orchestral Instruments (B.Mus.) |
 | **German Name** | Studiengang Musik | Orchesterinstrumente (B.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5757,10 +4595,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Orchestral Instruments (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 194 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-194`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-194) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-194`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-194) |
 | **English Name** | Study Programme Orchestral Instruments (M.Mus.) |
 | **German Name** | Studiengang Musik | Orchesterinstrumente (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5779,10 +4616,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Orchestral Performance (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-33) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-33`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-33) |
 | **English Name** | Study Programme Orchestral Performance (M.Mus.) |
 | **German Name** | Studiengang Orchesterspiel (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5801,10 +4637,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Orchestral Playing (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 211 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-211`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-211) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-211`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-211) |
 | **English Name** | Study Programme Orchestral Playing (M.Mus.) |
 | **German Name** | Studiengang Orchesterspiel (M.Mus.) |
 | **Parent Organisational Unit** | [Robert Schumann Hochschule Düsseldorf](#organisational-unit-169) |
@@ -5823,10 +4658,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Photography (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 14 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-14) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-14`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-14) |
 | **English Name** | Study Programme Photography (B.A.) |
 | **German Name** | Studiengang Fotografie (B.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5845,10 +4679,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Photography Studies and Practice (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 34 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-34) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-34`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-34) |
 | **English Name** | Study Programme Photography Studies and Practice (M.A.) |
 | **German Name** | Studiengang Photography Studies and Practice (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5867,10 +4700,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Photography Studies and Research (M.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 35 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-35) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-35`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-35) |
 | **English Name** | Study Programme Photography Studies and Research (M.A.) |
 | **German Name** | Studiengang Photography Studies and Research (M.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5889,10 +4721,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Popular Music (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 36 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-36) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-36`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-36) |
 | **English Name** | Study Programme Popular Music (M.Mus.) |
 | **German Name** | Studiengang Populäre Musik (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5911,10 +4742,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Product Design (B.A.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 37 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-37) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-37`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-37) |
 | **English Name** | Study Programme Product Design (B.A.) |
 | **German Name** | Studiengang Product Design (B.A.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5933,10 +4763,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Profession Performance (M.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 39 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-39) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-39`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-39) |
 | **English Name** | Study Programme Profession Performance (M.Mus.) |
 | **German Name** | Studiengang Professionelle Performance (M.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5955,10 +4784,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Study Programme Voice | Music Theatre (B.Mus.)
 
-|||
-|-----------|-----------|
+
 | **ID** | 15 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-15) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-15`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-15) |
 | **English Name** | Study Programme Voice | Music Theatre (B.Mus.) |
 | **German Name** | Studiengang Gesang | Musiktheater (B.Mus.) |
 | **Parent Organisational Unit** | [Folkwang University of the Arts](#organisational-unit-1) |
@@ -5977,10 +4805,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## tanzhaus nrw
 
-|||
-|-----------|-----------|
+
 | **ID** | 228 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-228`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-228) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-228`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-228) |
 | **English Name** | tanzhaus nrw |
 | **German Name** | tanzhaus nrw |
 | **Parent Organisational Unit** | [Cooperations](#organisational-unit-213) |
@@ -5999,10 +4826,9 @@ Organisational Units include—using a controlled vocabulary—degree programs, 
 
 ## Voc.Cologne
 
-|||
-|-----------|-----------|
+
 | **ID** | 153 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-153`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/organisational-units#organisational-unit-153) |
+| **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-153`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-153) |
 | **English Name** | Voc.Cologne |
 | **German Name** | Voc.Cologne |
 | **Parent Organisational Unit** | [Hochschule für Musik und Tanz Köln](#organisational-unit-83) |
