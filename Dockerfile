@@ -1,10 +1,8 @@
-FROM ruby:3.2.3
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    nodejs
+FROM ruby:3.2
 WORKDIR /app
 COPY Gemfile ./
+RUN bundle lock --add-platform=x86_64-linux --add-platform=aarch64-linux
 RUN bundle install
 COPY . .
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--force-polling", "--livereload" ]
-EXPOSE 4000
+EXPOSE 4000 35729
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--force-polling", "--livereload"]
