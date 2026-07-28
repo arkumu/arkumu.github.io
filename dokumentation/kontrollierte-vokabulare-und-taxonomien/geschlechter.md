@@ -47,6 +47,8 @@ This vocabulary describes a person's gender. If this is unknown, if it should no
 ## Diverse
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/genders/diverse`[🔗](http://w3id.org/arkumu/genders/diverse) |
 | **English Name** | diverse |
@@ -65,6 +67,8 @@ This vocabulary describes a person's gender. If this is unknown, if it should no
 ## Female
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/genders/female`[🔗](http://w3id.org/arkumu/genders/female) |
 | **English Name** | female |
@@ -83,6 +87,8 @@ This vocabulary describes a person's gender. If this is unknown, if it should no
 ## Male
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/genders/male`[🔗](http://w3id.org/arkumu/genders/male) |
 | **English Name** | male |
@@ -101,6 +107,8 @@ This vocabulary describes a person's gender. If this is unknown, if it should no
 ## Genderless
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/genders/genderless`[🔗](http://w3id.org/arkumu/genders/genderless) |
 | **English Name** | genderless |
@@ -119,6 +127,8 @@ This vocabulary describes a person's gender. If this is unknown, if it should no
 ## Unknown
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/genders/unknown`[🔗](http://w3id.org/arkumu/genders/unknown) |
 | **English Name** | unknown |

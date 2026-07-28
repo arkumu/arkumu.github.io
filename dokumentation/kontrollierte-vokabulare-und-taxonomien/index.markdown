@@ -70,7 +70,7 @@ The vocabularies (as well as docs.arkumu.nrw) are maintained on [GitHub](https:/
 
 **Deutsch:**
 
-Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die initial erstellten Vokabulare aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegten und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichten Fassungen sind aktueller und als verbindlich anzusehen.
+Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die initial erstellten Vokabulare aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegten und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichten Fassungen sind möglicherweise aktueller und als verbindlich anzusehen.
 <br/>
 
 
@@ -78,7 +78,7 @@ Im Folgenden werden zur besseren Lesbarkeit und Auffindbarkeit die initial erste
 
 **English:**
 
-The vocabularies initially created are listed below for easier reading and reference. The versions maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) are more up-to-date and should be considered authoritative.
+The vocabularies initially created are listed below for easier reading and reference. The versions maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 

@@ -39,6 +39,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## 3D Printer
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-1`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-1) |
 | **English Name** | 3D Printer |
@@ -60,6 +62,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## 3D Scanner
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-2`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-2) |
 | **English Name** | 3D Scanner |
@@ -80,6 +84,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Additional Camera Equipment
 
 
+|||
+|-----------|-----------|
 | **ID** | 40 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-40`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-40) |
 | **English Name** | Additional Camera Equipment |
@@ -99,6 +105,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Archéophone
 
 
+|||
+|-----------|-----------|
 | **ID** | 22 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-22`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-22) |
 | **English Name** | Archéophone |
@@ -118,6 +126,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Audio Equipment
 
 
+|||
+|-----------|-----------|
 | **ID** | 30 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-30`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-30) |
 | **English Name** | Audio Equipment |
@@ -138,6 +148,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Computer
 
 
+|||
+|-----------|-----------|
 | **ID** | 26 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-26`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-26) |
 | **English Name** | Computer |
@@ -158,6 +170,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Digital Camera
 
 
+|||
+|-----------|-----------|
 | **ID** | 35 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-35`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-35) |
 | **English Name** | Digital Camera |
@@ -179,6 +193,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Digital Media Player
 
 
+|||
+|-----------|-----------|
 | **ID** | 34 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-34`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-34) |
 | **English Name** | Digital Media Player |
@@ -198,6 +214,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Electric Power Source
 
 
+|||
+|-----------|-----------|
 | **ID** | 48 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-48`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-48) |
 | **English Name** | Electric Power Source |
@@ -217,6 +235,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Electronic Component
 
 
+|||
+|-----------|-----------|
 | **ID** | 54 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-54`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-54) |
 | **English Name** | Electronic Component |
@@ -237,6 +257,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Electronic Device
 
 
+|||
+|-----------|-----------|
 | **ID** | 38 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-38`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-38) |
 | **English Name** | Electronic Device |
@@ -256,6 +278,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Electronic Visual Display
 
 
+|||
+|-----------|-----------|
 | **ID** | 24 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-24`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-24) |
 | **English Name** | Electronic Visual Display |
@@ -276,6 +300,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Embroidery Machine
 
 
+|||
+|-----------|-----------|
 | **ID** | 55 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-55`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-55) |
 | **English Name** | Embroidery Machine |
@@ -297,6 +323,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Encoder
 
 
+|||
+|-----------|-----------|
 | **ID** | 57 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-57`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-57) |
 | **English Name** | Encoder |
@@ -317,6 +345,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Flatbed Scanner
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-6`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-6) |
 | **English Name** | Flatbed Scanner |
@@ -336,6 +366,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Headphones
 
 
+|||
+|-----------|-----------|
 | **ID** | 41 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-41`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-41) |
 | **English Name** | Headphones |
@@ -357,6 +389,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Information Carrier
 
 
+|||
+|-----------|-----------|
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-32`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-32) |
 | **English Name** | Information Carrier |
@@ -377,6 +411,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Input Device
 
 
+|||
+|-----------|-----------|
 | **ID** | 37 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-37`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-37) |
 | **English Name** | Input Device |
@@ -398,6 +434,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Internet
 
 
+|||
+|-----------|-----------|
 | **ID** | 29 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-29`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-29) |
 | **English Name** | Internet |
@@ -418,6 +456,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Lighting Equipment
 
 
+|||
+|-----------|-----------|
 | **ID** | 42 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-42`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-42) |
 | **English Name** | Lighting Equipment |
@@ -437,6 +477,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Loudspeaker
 
 
+|||
+|-----------|-----------|
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-9`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-9) |
 | **English Name** | Loudspeaker |
@@ -457,6 +499,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Microcontroller
 
 
+|||
+|-----------|-----------|
 | **ID** | 27 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-27`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-27) |
 | **English Name** | Microcontroller |
@@ -477,6 +521,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Microphone
 
 
+|||
+|-----------|-----------|
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-10`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-10) |
 | **English Name** | Microphone |
@@ -498,6 +544,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Milling Machine
 
 
+|||
+|-----------|-----------|
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-8`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-8) |
 | **English Name** | Milling Machine |
@@ -518,6 +566,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Mixer
 
 
+|||
+|-----------|-----------|
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-11`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-11) |
 | **English Name** | Mixer |
@@ -539,6 +589,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Monitor
 
 
+|||
+|-----------|-----------|
 | **ID** | 52 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-52`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-52) |
 | **English Name** | Monitor |
@@ -558,6 +610,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Movie Camera
 
 
+|||
+|-----------|-----------|
 | **ID** | 39 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-39`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-39) |
 | **English Name** | Movie Camera |
@@ -579,6 +633,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Musical Instrument
 
 
+|||
+|-----------|-----------|
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-12`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-12) |
 | **English Name** | Musical Instrument |
@@ -600,6 +656,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Objective (Optics)
 
 
+|||
+|-----------|-----------|
 | **ID** | 43 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-43`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-43) |
 | **English Name** | Objective (Optics) |
@@ -620,6 +678,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Other Equipment
 
 
+|||
+|-----------|-----------|
 | **ID** | 46 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-46`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-46) |
 | **English Name** | Other Equipment |
@@ -639,6 +699,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Phonograph Needle
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-3`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-3) |
 | **English Name** | Phonograph Needle |
@@ -659,6 +721,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Photographic Camera
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-7`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-7) |
 | **English Name** | Photographic Camera |
@@ -680,6 +744,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Physical Tool
 
 
+|||
+|-----------|-----------|
 | **ID** | 51 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-51`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-51) |
 | **English Name** | Physical Tool |
@@ -701,6 +767,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Pickup
 
 
+|||
+|-----------|-----------|
 | **ID** | 17 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-17`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-17) |
 | **English Name** | Pickup |
@@ -722,6 +790,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Plug-In
 
 
+|||
+|-----------|-----------|
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-13`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-13) |
 | **English Name** | Plug-In |
@@ -742,6 +812,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Preamp
 
 
+|||
+|-----------|-----------|
 | **ID** | 19 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-19`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-19) |
 | **English Name** | Preamp |
@@ -762,6 +834,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Printer
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-5`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-5) |
 | **English Name** | Printer |
@@ -783,6 +857,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Programming Language
 
 
+|||
+|-----------|-----------|
 | **ID** | 56 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-56`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-56) |
 | **English Name** | Programming Language |
@@ -803,6 +879,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Record Player
 
 
+|||
+|-----------|-----------|
 | **ID** | 53 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-53`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-53) |
 | **English Name** | Record Player |
@@ -824,6 +902,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Robot
 
 
+|||
+|-----------|-----------|
 | **ID** | 44 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-44`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-44) |
 | **English Name** | Robot |
@@ -845,6 +925,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Sample Library
 
 
+|||
+|-----------|-----------|
 | **ID** | 14 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-14`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-14) |
 | **English Name** | Sample Library |
@@ -864,6 +946,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Sensor
 
 
+|||
+|-----------|-----------|
 | **ID** | 45 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-45`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-45) |
 | **English Name** | Sensor |
@@ -885,6 +969,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Server
 
 
+|||
+|-----------|-----------|
 | **ID** | 15 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-15`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-15) |
 | **English Name** | Server |
@@ -906,6 +992,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Single Board Computer
 
 
+|||
+|-----------|-----------|
 | **ID** | 25 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-25`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-25) |
 | **English Name** | Single Board Computer |
@@ -926,6 +1014,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Slide Projector
 
 
+|||
+|-----------|-----------|
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-33`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-33) |
 | **English Name** | Slide Projector |
@@ -947,6 +1037,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Smartphone
 
 
+|||
+|-----------|-----------|
 | **ID** | 28 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-28`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-28) |
 | **English Name** | Smartphone |
@@ -967,6 +1059,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Software
 
 
+|||
+|-----------|-----------|
 | **ID** | 16 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-16`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-16) |
 | **English Name** | Software |
@@ -988,6 +1082,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Sound Recording Device
 
 
+|||
+|-----------|-----------|
 | **ID** | 31 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-31`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-31) |
 | **English Name** | Sound Recording Device |
@@ -1007,6 +1103,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Streaming Box
 
 
+|||
+|-----------|-----------|
 | **ID** | 23 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-23`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-23) |
 | **English Name** | Streaming Box |
@@ -1027,6 +1125,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Studio Equipment
 
 
+|||
+|-----------|-----------|
 | **ID** | 49 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-49`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-49) |
 | **English Name** | Studio Equipment |
@@ -1046,6 +1146,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Tablet Computer
 
 
+|||
+|-----------|-----------|
 | **ID** | 50 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-50`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-50) |
 | **English Name** | Tablet Computer |
@@ -1067,6 +1169,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Transducer
 
 
+|||
+|-----------|-----------|
 | **ID** | 21 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-21`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-21) |
 | **English Name** | Transducer |
@@ -1088,6 +1192,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Tripod
 
 
+|||
+|-----------|-----------|
 | **ID** | 47 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-47`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-47) |
 | **English Name** | Tripod |
@@ -1108,6 +1214,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Unmanned Aerial Vehicle
 
 
+|||
+|-----------|-----------|
 | **ID** | 36 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-36`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-36) |
 | **English Name** | Unmanned Aerial Vehicle |
@@ -1128,6 +1236,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Video Camera
 
 
+|||
+|-----------|-----------|
 | **ID** | 18 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-18`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-18) |
 | **English Name** | Video Camera |
@@ -1149,6 +1259,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Video Projector
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-4`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-4) |
 | **English Name** | Video Projector |
@@ -1169,6 +1281,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## Vision Mixer
 
 
+|||
+|-----------|-----------|
 | **ID** | 58 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-58`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-58) |
 | **English Name** | Vision Mixer |
@@ -1188,6 +1302,8 @@ Equipment types allow for a general categorization of equipment or software used
 ## VR Headset
 
 
+|||
+|-----------|-----------|
 | **ID** | 20 |
 | **Permanent URL** | `http://w3id.org/arkumu/equipment-types/equipment-type-20`[🔗](http://w3id.org/arkumu/equipment-types/equipment-type-20) |
 | **English Name** | VR Headset |

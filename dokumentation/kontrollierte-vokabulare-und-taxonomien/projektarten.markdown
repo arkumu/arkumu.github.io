@@ -49,6 +49,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Autonomous Project
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/autonomous-project`[🔗](http://w3id.org/arkumu/project-types/autonomous-project) |
 | **English Name** | Autonomous Project |
@@ -68,6 +70,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Bachelor Thesis
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/bachelor-thesis`[🔗](http://w3id.org/arkumu/project-types/bachelor-thesis) |
 | **English Name** | Bachelor Thesis |
@@ -87,6 +91,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Collection Item
 
 
+|||
+|-----------|-----------|
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/collection-item`[🔗](http://w3id.org/arkumu/project-types/collection-item) |
 | **English Name** | Collection Item |
@@ -106,6 +112,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Diploma Project
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/diploma-project`[🔗](http://w3id.org/arkumu/project-types/diploma-project) |
 | **English Name** | Diploma Project |
@@ -125,6 +133,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Doctoral Thesis
 
 
+|||
+|-----------|-----------|
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/doctoral-thesis`[🔗](http://w3id.org/arkumu/project-types/doctoral-thesis) |
 | **English Name** | Doctoral Thesis |
@@ -141,6 +151,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Event
 
 
+|||
+|-----------|-----------|
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/event`[🔗](http://w3id.org/arkumu/project-types/event) |
 | **English Name** | Event |
@@ -160,6 +172,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Master Thesis
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/master-thesis`[🔗](http://w3id.org/arkumu/project-types/master-thesis) |
 | **English Name** | Master Thesis |
@@ -179,6 +193,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Project 1 (KHM)
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/project-1-khm`[🔗](http://w3id.org/arkumu/project-types/project-1-khm) |
 | **English Name** | Project 1 (KHM) |
@@ -198,6 +214,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Project 2 (KHM)
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/project-2-khm`[🔗](http://w3id.org/arkumu/project-types/project-2-khm) |
 | **English Name** | Project 2 (KHM) |
@@ -217,6 +235,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Research Project
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/research-project`[🔗](http://w3id.org/arkumu/project-types/research-project) |
 | **English Name** | Research Project |
@@ -236,6 +256,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Seminar Project
 
 
+|||
+|-----------|-----------|
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/seminar-project`[🔗](http://w3id.org/arkumu/project-types/seminar-project) |
 | **English Name** | Seminar Project |
@@ -252,6 +274,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Student Project
 
 
+|||
+|-----------|-----------|
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/student-project`[🔗](http://w3id.org/arkumu/project-types/student-project) |
 | **English Name** | Student Project |
@@ -271,6 +295,8 @@ Not to be confused with [Project Categories](/documentation/controlled-vocabular
 ## Vordiplom
 
 
+|||
+|-----------|-----------|
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-types/vordiplom`[🔗](http://w3id.org/arkumu/project-types/vordiplom) |
 | **English Name** | Vordiplom |

@@ -46,6 +46,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Acquisition
 
 
+|||
+|-----------|-----------|
 | **ID** | 15 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-15`[🔗](http://w3id.org/arkumu/event-types/event-type-15) |
 | **English Name** | Acquisition |
@@ -70,6 +72,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Annual Exhibition
 
 
+|||
+|-----------|-----------|
 | **ID** | 37 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-37`[🔗](http://w3id.org/arkumu/event-types/event-type-37) |
 | **English Name** | Annual Exhibition |
@@ -91,6 +95,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Arrangement
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-3`[🔗](http://w3id.org/arkumu/event-types/event-type-3) |
 | **English Name** | Arrangement |
@@ -112,6 +118,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Award
 
 
+|||
+|-----------|-----------|
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-8`[🔗](http://w3id.org/arkumu/event-types/event-type-8) |
 | **English Name** | Award |
@@ -134,6 +142,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Award Ceremony
 
 
+|||
+|-----------|-----------|
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-33`[🔗](http://w3id.org/arkumu/event-types/event-type-33) |
 | **English Name** | Award Ceremony |
@@ -153,6 +163,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Colloquium
 
 
+|||
+|-----------|-----------|
 | **ID** | 24 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-24`[🔗](http://w3id.org/arkumu/event-types/event-type-24) |
 | **English Name** | Colloquium |
@@ -172,6 +184,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Commissioning
 
 
+|||
+|-----------|-----------|
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-9`[🔗](http://w3id.org/arkumu/event-types/event-type-9) |
 | **English Name** | Commissioning |
@@ -195,6 +209,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Concert
 
 
+|||
+|-----------|-----------|
 | **ID** | 25 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-25`[🔗](http://w3id.org/arkumu/event-types/event-type-25) |
 | **English Name** | Concert |
@@ -216,6 +232,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Concert Series
 
 
+|||
+|-----------|-----------|
 | **ID** | 26 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-26`[🔗](http://w3id.org/arkumu/event-types/event-type-26) |
 | **English Name** | Concert Series |
@@ -237,6 +255,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Conference
 
 
+|||
+|-----------|-----------|
 | **ID** | 41 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-41`[🔗](http://w3id.org/arkumu/event-types/event-type-41) |
 | **English Name** | Conference |
@@ -260,6 +280,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Conversation
 
 
+|||
+|-----------|-----------|
 | **ID** | 59 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-59`[🔗](http://w3id.org/arkumu/event-types/event-type-59) |
 | **English Name** | Conversation |
@@ -282,6 +304,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Course
 
 
+|||
+|-----------|-----------|
 | **ID** | 62 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-62`[🔗](http://w3id.org/arkumu/event-types/event-type-62) |
 | **English Name** | Course |
@@ -304,6 +328,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Creation
 
 
+|||
+|-----------|-----------|
 | **ID** | 21 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-21`[🔗](http://w3id.org/arkumu/event-types/event-type-21) |
 | **English Name** | Creation |
@@ -326,6 +352,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Data Conversion
 
 
+|||
+|-----------|-----------|
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-11`[🔗](http://w3id.org/arkumu/event-types/event-type-11) |
 | **English Name** | Data Conversion |
@@ -347,6 +375,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-13`[🔗](http://w3id.org/arkumu/event-types/event-type-13) |
 | **English Name** | Design |
@@ -371,6 +401,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Destruction
 
 
+|||
+|-----------|-----------|
 | **ID** | 52 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-52`[🔗](http://w3id.org/arkumu/event-types/event-type-52) |
 | **English Name** | Destruction |
@@ -394,6 +426,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Digitisation
 
 
+|||
+|-----------|-----------|
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-12`[🔗](http://w3id.org/arkumu/event-types/event-type-12) |
 | **English Name** | Digitisation |
@@ -417,6 +451,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Documentation
 
 
+|||
+|-----------|-----------|
 | **ID** | 54 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-54`[🔗](http://w3id.org/arkumu/event-types/event-type-54) |
 | **English Name** | Documentation |
@@ -439,6 +475,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Editing (Film/TV/Video)
 
 
+|||
+|-----------|-----------|
 | **ID** | 38 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-38`[🔗](http://w3id.org/arkumu/event-types/event-type-38) |
 | **English Name** | Editing (Film/TV/Video) |
@@ -460,6 +498,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Electroplating
 
 
+|||
+|-----------|-----------|
 | **ID** | 19 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-19`[🔗](http://w3id.org/arkumu/event-types/event-type-19) |
 | **English Name** | Electroplating |
@@ -482,6 +522,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Event
 
 
+|||
+|-----------|-----------|
 | **ID** | 60 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-60`[🔗](http://w3id.org/arkumu/event-types/event-type-60) |
 | **English Name** | Event |
@@ -503,6 +545,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Exhibition
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-6`[🔗](http://w3id.org/arkumu/event-types/event-type-6) |
 | **English Name** | Exhibition |
@@ -526,6 +570,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Exhibition Opening
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-7`[🔗](http://w3id.org/arkumu/event-types/event-type-7) |
 | **English Name** | Exhibition Opening |
@@ -548,6 +594,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Festival
 
 
+|||
+|-----------|-----------|
 | **ID** | 16 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-16`[🔗](http://w3id.org/arkumu/event-types/event-type-16) |
 | **English Name** | Festival |
@@ -568,6 +616,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Film Festival
 
 
+|||
+|-----------|-----------|
 | **ID** | 17 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-17`[🔗](http://w3id.org/arkumu/event-types/event-type-17) |
 | **English Name** | Film Festival |
@@ -589,6 +639,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Film Screening
 
 
+|||
+|-----------|-----------|
 | **ID** | 18 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-18`[🔗](http://w3id.org/arkumu/event-types/event-type-18) |
 | **English Name** | Film Screening |
@@ -611,6 +663,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Graduation
 
 
+|||
+|-----------|-----------|
 | **ID** | 39 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-39`[🔗](http://w3id.org/arkumu/event-types/event-type-39) |
 | **English Name** | Graduation |
@@ -632,6 +686,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Guest Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 20 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-20`[🔗](http://w3id.org/arkumu/event-types/event-type-20) |
 | **English Name** | Guest Performance |
@@ -653,6 +709,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Inaugural Lecture
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-2`[🔗](http://w3id.org/arkumu/event-types/event-type-2) |
 | **English Name** | Inaugural Lecture |
@@ -673,6 +731,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Interview
 
 
+|||
+|-----------|-----------|
 | **ID** | 23 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-23`[🔗](http://w3id.org/arkumu/event-types/event-type-23) |
 | **English Name** | Interview |
@@ -695,6 +755,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Lecture
 
 
+|||
+|-----------|-----------|
 | **ID** | 49 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-49`[🔗](http://w3id.org/arkumu/event-types/event-type-49) |
 | **English Name** | Lecture |
@@ -718,6 +780,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Live Streaming
 
 
+|||
+|-----------|-----------|
 | **ID** | 61 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-61`[🔗](http://w3id.org/arkumu/event-types/event-type-61) |
 | **English Name** | Live Streaming |
@@ -740,6 +804,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Marketing
 
 
+|||
+|-----------|-----------|
 | **ID** | 48 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-48`[🔗](http://w3id.org/arkumu/event-types/event-type-48) |
 | **English Name** | Marketing |
@@ -763,6 +829,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Master Class
 
 
+|||
+|-----------|-----------|
 | **ID** | 27 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-27`[🔗](http://w3id.org/arkumu/event-types/event-type-27) |
 | **English Name** | Master Class |
@@ -783,6 +851,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Mastering
 
 
+|||
+|-----------|-----------|
 | **ID** | 53 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-53`[🔗](http://w3id.org/arkumu/event-types/event-type-53) |
 | **English Name** | Mastering |
@@ -804,6 +874,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Modification
 
 
+|||
+|-----------|-----------|
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-10`[🔗](http://w3id.org/arkumu/event-types/event-type-10) |
 | **English Name** | Modification |
@@ -827,6 +899,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Music Festival
 
 
+|||
+|-----------|-----------|
 | **ID** | 29 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-29`[🔗](http://w3id.org/arkumu/event-types/event-type-29) |
 | **English Name** | Music Festival |
@@ -847,6 +921,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Musical Composition
 
 
+|||
+|-----------|-----------|
 | **ID** | 28 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-28`[🔗](http://w3id.org/arkumu/event-types/event-type-28) |
 | **English Name** | Musical Composition |
@@ -868,6 +944,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Musical Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-5`[🔗](http://w3id.org/arkumu/event-types/event-type-5) |
 | **English Name** | Musical Performance |
@@ -890,6 +968,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Open House
 
 
+|||
+|-----------|-----------|
 | **ID** | 63 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-63`[🔗](http://w3id.org/arkumu/event-types/event-type-63) |
 | **English Name** | Open House |
@@ -906,6 +986,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Panel Discussion
 
 
+|||
+|-----------|-----------|
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-32`[🔗](http://w3id.org/arkumu/event-types/event-type-32) |
 | **English Name** | Panel Discussion |
@@ -927,6 +1009,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 30 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-30`[🔗](http://w3id.org/arkumu/event-types/event-type-30) |
 | **English Name** | Performance |
@@ -950,6 +1034,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Performance (Performing Arts)
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-4`[🔗](http://w3id.org/arkumu/event-types/event-type-4) |
 | **English Name** | Performance (Performing Arts) |
@@ -971,6 +1057,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Planning
 
 
+|||
+|-----------|-----------|
 | **ID** | 31 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-31`[🔗](http://w3id.org/arkumu/event-types/event-type-31) |
 | **English Name** | Planning |
@@ -993,6 +1081,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Première
 
 
+|||
+|-----------|-----------|
 | **ID** | 34 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-34`[🔗](http://w3id.org/arkumu/event-types/event-type-34) |
 | **English Name** | Première |
@@ -1015,6 +1105,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Presentation
 
 
+|||
+|-----------|-----------|
 | **ID** | 50 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-50`[🔗](http://w3id.org/arkumu/event-types/event-type-50) |
 | **English Name** | Presentation |
@@ -1036,6 +1128,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Production
 
 
+|||
+|-----------|-----------|
 | **ID** | 22 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-22`[🔗](http://w3id.org/arkumu/event-types/event-type-22) |
 | **English Name** | Production |
@@ -1060,6 +1154,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Publishing
 
 
+|||
+|-----------|-----------|
 | **ID** | 47 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-47`[🔗](http://w3id.org/arkumu/event-types/event-type-47) |
 | **English Name** | Publishing |
@@ -1084,6 +1180,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Purchase
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-1`[🔗](http://w3id.org/arkumu/event-types/event-type-1) |
 | **English Name** | Purchase |
@@ -1105,6 +1203,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Radio Première
 
 
+|||
+|-----------|-----------|
 | **ID** | 46 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-46`[🔗](http://w3id.org/arkumu/event-types/event-type-46) |
 | **English Name** | Radio Première |
@@ -1126,6 +1226,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Radio Programme
 
 
+|||
+|-----------|-----------|
 | **ID** | 55 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-55`[🔗](http://w3id.org/arkumu/event-types/event-type-55) |
 | **English Name** | Radio Programme |
@@ -1149,6 +1251,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Reading
 
 
+|||
+|-----------|-----------|
 | **ID** | 57 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-57`[🔗](http://w3id.org/arkumu/event-types/event-type-57) |
 | **English Name** | Reading |
@@ -1169,6 +1273,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Rehearsal
 
 
+|||
+|-----------|-----------|
 | **ID** | 35 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-35`[🔗](http://w3id.org/arkumu/event-types/event-type-35) |
 | **English Name** | Rehearsal |
@@ -1189,6 +1295,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Sound Recording
 
 
+|||
+|-----------|-----------|
 | **ID** | 43 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-43`[🔗](http://w3id.org/arkumu/event-types/event-type-43) |
 | **English Name** | Sound Recording |
@@ -1212,6 +1320,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Speech
 
 
+|||
+|-----------|-----------|
 | **ID** | 36 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-36`[🔗](http://w3id.org/arkumu/event-types/event-type-36) |
 | **English Name** | Speech |
@@ -1235,6 +1345,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Summer School
 
 
+|||
+|-----------|-----------|
 | **ID** | 40 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-40`[🔗](http://w3id.org/arkumu/event-types/event-type-40) |
 | **English Name** | Summer School |
@@ -1256,6 +1368,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Television Programme
 
 
+|||
+|-----------|-----------|
 | **ID** | 56 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-56`[🔗](http://w3id.org/arkumu/event-types/event-type-56) |
 | **English Name** | Television Programme |
@@ -1279,6 +1393,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Thematic Week
 
 
+|||
+|-----------|-----------|
 | **ID** | 42 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-42`[🔗](http://w3id.org/arkumu/event-types/event-type-42) |
 | **English Name** | Thematic Week |
@@ -1299,6 +1415,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Transformation
 
 
+|||
+|-----------|-----------|
 | **ID** | 44 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-44`[🔗](http://w3id.org/arkumu/event-types/event-type-44) |
 | **English Name** | Transformation |
@@ -1321,6 +1439,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Translation
 
 
+|||
+|-----------|-----------|
 | **ID** | 58 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-58`[🔗](http://w3id.org/arkumu/event-types/event-type-58) |
 | **English Name** | Translation |
@@ -1342,6 +1462,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## TV Première
 
 
+|||
+|-----------|-----------|
 | **ID** | 14 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-14`[🔗](http://w3id.org/arkumu/event-types/event-type-14) |
 | **English Name** | TV Première |
@@ -1363,6 +1485,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## Workshop
 
 
+|||
+|-----------|-----------|
 | **ID** | 51 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-51`[🔗](http://w3id.org/arkumu/event-types/event-type-51) |
 | **English Name** | Workshop |
@@ -1382,6 +1506,8 @@ Event Types are used to categorise [**Events**](#event) in arkumu.nrw. In CIDOC,
 ## World Première
 
 
+|||
+|-----------|-----------|
 | **ID** | 45 |
 | **Permanent URL** | `http://w3id.org/arkumu/event-types/event-type-45`[🔗](http://w3id.org/arkumu/event-types/event-type-45) |
 | **English Name** | World Première |

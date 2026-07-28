@@ -49,6 +49,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## 3D
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/3d`[🔗](http://w3id.org/arkumu/media-types/3d) |
 | **Englisch Name** | 3D |
@@ -67,6 +69,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## Audio
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/audio`[🔗](http://w3id.org/arkumu/media-types/audio) |
 | **Englisch Name** | Audio |
@@ -85,6 +89,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## Code
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/code`[🔗](http://w3id.org/arkumu/media-types/code) |
 | **Englisch Name** | Code |
@@ -103,6 +109,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## Data
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/data`[🔗](http://w3id.org/arkumu/media-types/data) |
 | **Englisch Name** | Data |
@@ -121,6 +129,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## Image
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/image`[🔗](http://w3id.org/arkumu/media-types/image) |
 | **Englisch Name** | Image |
@@ -139,6 +149,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## Text
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/text`[🔗](http://w3id.org/arkumu/media-types/text) |
 | **Englisch Name** | Text |
@@ -157,6 +169,8 @@ Files can be categorized by media type. The media types “3D”, “Audio”, �
 ## Video
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/media-types/video`[🔗](http://w3id.org/arkumu/media-types/video) |
 | **Englisch Name** | Video |

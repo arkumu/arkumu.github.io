@@ -53,6 +53,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Abstract Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 288 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-288`[🔗](http://w3id.org/arkumu/project-categories/project-category-288) |
 | **English Name** | Abstract Painting |
@@ -77,6 +79,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Academic Publication
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-1`[🔗](http://w3id.org/arkumu/project-categories/project-category-1) |
 | **English Name** | Academic Publication |
@@ -101,6 +105,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Acid Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 207 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-207`[🔗](http://w3id.org/arkumu/project-categories/project-category-207) |
 | **English Name** | Acid Jazz |
@@ -125,6 +131,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Acrostic
 
 
+|||
+|-----------|-----------|
 | **ID** | 174 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-174`[🔗](http://w3id.org/arkumu/project-categories/project-category-174) |
 | **English Name** | Acrostic |
@@ -149,6 +157,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Action
 
 
+|||
+|-----------|-----------|
 | **ID** | 129 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-129`[🔗](http://w3id.org/arkumu/project-categories/project-category-129) |
 | **English Name** | Action |
@@ -173,6 +183,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Advertising Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 259 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-259`[🔗](http://w3id.org/arkumu/project-categories/project-category-259) |
 | **English Name** | Advertising Music |
@@ -195,6 +207,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Advertising Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 29 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-29`[🔗](http://w3id.org/arkumu/project-categories/project-category-29) |
 | **English Name** | Advertising Photography |
@@ -219,6 +233,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Afro-Cuban Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 208 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-208`[🔗](http://w3id.org/arkumu/project-categories/project-category-208) |
 | **English Name** | Afro-Cuban Jazz |
@@ -242,6 +258,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Album
 
 
+|||
+|-----------|-----------|
 | **ID** | 103 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-103`[🔗](http://w3id.org/arkumu/project-categories/project-category-103) |
 | **English Name** | Album |
@@ -265,6 +283,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Alternative Theater
 
 
+|||
+|-----------|-----------|
 | **ID** | 34 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-34`[🔗](http://w3id.org/arkumu/project-categories/project-category-34) |
 | **English Name** | Alternative Theater |
@@ -289,6 +309,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## American Folk
 
 
+|||
+|-----------|-----------|
 | **ID** | 234 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-234`[🔗](http://w3id.org/arkumu/project-categories/project-category-234) |
 | **English Name** | American Folk |
@@ -312,6 +334,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Animated Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 56 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-56`[🔗](http://w3id.org/arkumu/project-categories/project-category-56) |
 | **English Name** | Animated Film |
@@ -339,6 +363,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Anthology Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 62 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-62`[🔗](http://w3id.org/arkumu/project-categories/project-category-62) |
 | **English Name** | Anthology Film |
@@ -363,6 +389,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Applied Arts
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-5`[🔗](http://w3id.org/arkumu/project-categories/project-category-5) |
 | **English Name** | Applied Arts |
@@ -387,6 +415,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Applied Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 35 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-35`[🔗](http://w3id.org/arkumu/project-categories/project-category-35) |
 | **English Name** | Applied Theatre |
@@ -411,6 +441,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Architectural Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 289 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-289`[🔗](http://w3id.org/arkumu/project-categories/project-category-289) |
 | **English Name** | Architectural Painting |
@@ -436,6 +468,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Architectural Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 19 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-19`[🔗](http://w3id.org/arkumu/project-categories/project-category-19) |
 | **English Name** | Architectural Photography |
@@ -460,6 +494,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Architecture
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-6`[🔗](http://w3id.org/arkumu/project-categories/project-category-6) |
 | **English Name** | Architecture |
@@ -484,6 +520,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 78 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-78`[🔗](http://w3id.org/arkumu/project-categories/project-category-78) |
 | **English Name** | Art |
@@ -509,6 +547,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Artist's Book
 
 
+|||
+|-----------|-----------|
 | **ID** | 112 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-112`[🔗](http://w3id.org/arkumu/project-categories/project-category-112) |
 | **English Name** | Artist's Book |
@@ -535,6 +575,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Artist's Publication
 
 
+|||
+|-----------|-----------|
 | **ID** | 111 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-111`[🔗](http://w3id.org/arkumu/project-categories/project-category-111) |
 | **English Name** | Artist's Publication |
@@ -558,6 +600,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Artist's Statement
 
 
+|||
+|-----------|-----------|
 | **ID** | 113 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-113`[🔗](http://w3id.org/arkumu/project-categories/project-category-113) |
 | **English Name** | Artist's Statement |
@@ -583,6 +627,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Augmented Reality
 
 
+|||
+|-----------|-----------|
 | **ID** | 81 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-81`[🔗](http://w3id.org/arkumu/project-categories/project-category-81) |
 | **English Name** | Augmented Reality |
@@ -609,6 +655,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Autobiography
 
 
+|||
+|-----------|-----------|
 | **ID** | 188 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-188`[🔗](http://w3id.org/arkumu/project-categories/project-category-188) |
 | **English Name** | Autobiography |
@@ -633,6 +681,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Avantgarde Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 209 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-209`[🔗](http://w3id.org/arkumu/project-categories/project-category-209) |
 | **English Name** | Avantgarde Jazz |
@@ -655,6 +705,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ballad
 
 
+|||
+|-----------|-----------|
 | **ID** | 175 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-175`[🔗](http://w3id.org/arkumu/project-categories/project-category-175) |
 | **English Name** | Ballad |
@@ -679,6 +731,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ballroom Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 269 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-269`[🔗](http://w3id.org/arkumu/project-categories/project-category-269) |
 | **English Name** | Ballroom Dance |
@@ -703,6 +757,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Beat
 
 
+|||
+|-----------|-----------|
 | **ID** | 235 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-235`[🔗](http://w3id.org/arkumu/project-categories/project-category-235) |
 | **English Name** | Beat |
@@ -727,6 +783,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Bebop
 
 
+|||
+|-----------|-----------|
 | **ID** | 210 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-210`[🔗](http://w3id.org/arkumu/project-categories/project-category-210) |
 | **English Name** | Bebop |
@@ -750,6 +808,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Big Band Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 211 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-211`[🔗](http://w3id.org/arkumu/project-categories/project-category-211) |
 | **English Name** | Big Band Music |
@@ -772,6 +832,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Bio Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 79 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-79`[🔗](http://w3id.org/arkumu/project-categories/project-category-79) |
 | **English Name** | Bio Art |
@@ -796,6 +858,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Biography
 
 
+|||
+|-----------|-----------|
 | **ID** | 189 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-189`[🔗](http://w3id.org/arkumu/project-categories/project-category-189) |
 | **English Name** | Biography |
@@ -820,6 +884,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Blog
 
 
+|||
+|-----------|-----------|
 | **ID** | 190 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-190`[🔗](http://w3id.org/arkumu/project-categories/project-category-190) |
 | **English Name** | Blog |
@@ -844,6 +910,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Blues
 
 
+|||
+|-----------|-----------|
 | **ID** | 236 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-236`[🔗](http://w3id.org/arkumu/project-categories/project-category-236) |
 | **English Name** | Blues |
@@ -867,6 +935,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Boogie-Woogie
 
 
+|||
+|-----------|-----------|
 | **ID** | 212 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-212`[🔗](http://w3id.org/arkumu/project-categories/project-category-212) |
 | **English Name** | Boogie-Woogie |
@@ -890,6 +960,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## CD-ROM
 
 
+|||
+|-----------|-----------|
 | **ID** | 82 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-82`[🔗](http://w3id.org/arkumu/project-categories/project-category-82) |
 | **English Name** | CD-ROM |
@@ -914,6 +986,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ceramic
 
 
+|||
+|-----------|-----------|
 | **ID** | 30 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-30`[🔗](http://w3id.org/arkumu/project-categories/project-category-30) |
 | **English Name** | Ceramic |
@@ -939,6 +1013,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Chanson
 
 
+|||
+|-----------|-----------|
 | **ID** | 237 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-237`[🔗](http://w3id.org/arkumu/project-categories/project-category-237) |
 | **English Name** | Chanson |
@@ -962,6 +1038,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Chicago Style
 
 
+|||
+|-----------|-----------|
 | **ID** | 213 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-213`[🔗](http://w3id.org/arkumu/project-categories/project-category-213) |
 | **English Name** | Chicago Style |
@@ -984,6 +1062,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Children's Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 45 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-45`[🔗](http://w3id.org/arkumu/project-categories/project-category-45) |
 | **English Name** | Children's Theatre |
@@ -1007,6 +1087,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Classical Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 229 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-229`[🔗](http://w3id.org/arkumu/project-categories/project-category-229) |
 | **English Name** | Classical Music |
@@ -1030,6 +1112,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Collage
 
 
+|||
+|-----------|-----------|
 | **ID** | 147 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-147`[🔗](http://w3id.org/arkumu/project-categories/project-category-147) |
 | **English Name** | Collage |
@@ -1055,6 +1139,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Comedy
 
 
+|||
+|-----------|-----------|
 | **ID** | 154 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-154`[🔗](http://w3id.org/arkumu/project-categories/project-category-154) |
 | **English Name** | Comedy |
@@ -1079,6 +1165,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Comedy Drama
 
 
+|||
+|-----------|-----------|
 | **ID** | 159 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-159`[🔗](http://w3id.org/arkumu/project-categories/project-category-159) |
 | **English Name** | Comedy Drama |
@@ -1103,6 +1191,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Comedy of Manors
 
 
+|||
+|-----------|-----------|
 | **ID** | 158 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-158`[🔗](http://w3id.org/arkumu/project-categories/project-category-158) |
 | **English Name** | Comedy of Manors |
@@ -1127,6 +1217,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Comic
 
 
+|||
+|-----------|-----------|
 | **ID** | 148 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-148`[🔗](http://w3id.org/arkumu/project-categories/project-category-148) |
 | **English Name** | Comic |
@@ -1152,6 +1244,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Commercial
 
 
+|||
+|-----------|-----------|
 | **ID** | 77 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-77`[🔗](http://w3id.org/arkumu/project-categories/project-category-77) |
 | **English Name** | Commercial |
@@ -1178,6 +1272,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Compilation Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 66 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-66`[🔗](http://w3id.org/arkumu/project-categories/project-category-66) |
 | **English Name** | Compilation Film |
@@ -1203,6 +1299,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Composition
 
 
+|||
+|-----------|-----------|
 | **ID** | 108 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-108`[🔗](http://w3id.org/arkumu/project-categories/project-category-108) |
 | **English Name** | Composition |
@@ -1226,6 +1324,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Computer Animation
 
 
+|||
+|-----------|-----------|
 | **ID** | 84 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-84`[🔗](http://w3id.org/arkumu/project-categories/project-category-84) |
 | **English Name** | Computer Animation |
@@ -1250,6 +1350,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Computer Game
 
 
+|||
+|-----------|-----------|
 | **ID** | 85 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-85`[🔗](http://w3id.org/arkumu/project-categories/project-category-85) |
 | **English Name** | Computer Game |
@@ -1276,6 +1378,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Computer Generated Imagery
 
 
+|||
+|-----------|-----------|
 | **ID** | 83 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-83`[🔗](http://w3id.org/arkumu/project-categories/project-category-83) |
 | **English Name** | Computer Generated Imagery |
@@ -1302,6 +1406,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Computer-Generated Imagery
 
 
+|||
+|-----------|-----------|
 | **ID** | 117 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-117`[🔗](http://w3id.org/arkumu/project-categories/project-category-117) |
 | **English Name** | Computer-Generated Imagery |
@@ -1328,6 +1434,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Conceptual Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 123 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-123`[🔗](http://w3id.org/arkumu/project-categories/project-category-123) |
 | **English Name** | Conceptual Photography |
@@ -1350,6 +1458,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Concert
 
 
+|||
+|-----------|-----------|
 | **ID** | 109 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-109`[🔗](http://w3id.org/arkumu/project-categories/project-category-109) |
 | **English Name** | Concert |
@@ -1374,6 +1484,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Concert Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 261 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-261`[🔗](http://w3id.org/arkumu/project-categories/project-category-261) |
 | **English Name** | Concert Dance |
@@ -1396,6 +1508,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Concrete Poetry
 
 
+|||
+|-----------|-----------|
 | **ID** | 182 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-182`[🔗](http://w3id.org/arkumu/project-categories/project-category-182) |
 | **English Name** | Concrete Poetry |
@@ -1420,6 +1534,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Conference
 
 
+|||
+|-----------|-----------|
 | **ID** | 276 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-276`[🔗](http://w3id.org/arkumu/project-categories/project-category-276) |
 | **English Name** | Conference |
@@ -1446,6 +1562,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Contemporary Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 214 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-214`[🔗](http://w3id.org/arkumu/project-categories/project-category-214) |
 | **English Name** | Contemporary Jazz |
@@ -1468,6 +1586,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Cool Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 215 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-215`[🔗](http://w3id.org/arkumu/project-categories/project-category-215) |
 | **English Name** | Cool Jazz |
@@ -1491,6 +1611,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Country
 
 
+|||
+|-----------|-----------|
 | **ID** | 238 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-238`[🔗](http://w3id.org/arkumu/project-categories/project-category-238) |
 | **English Name** | Country |
@@ -1515,6 +1637,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Crossover Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 216 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-216`[🔗](http://w3id.org/arkumu/project-categories/project-category-216) |
 | **English Name** | Crossover Jazz |
@@ -1537,6 +1661,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 260 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-260`[🔗](http://w3id.org/arkumu/project-categories/project-category-260) |
 | **English Name** | Dance |
@@ -1560,6 +1686,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 134 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-134`[🔗](http://w3id.org/arkumu/project-categories/project-category-134) |
 | **English Name** | Dance |
@@ -1584,6 +1712,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Dance Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 256 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-256`[🔗](http://w3id.org/arkumu/project-categories/project-category-256) |
 | **English Name** | Dance Music |
@@ -1607,6 +1737,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Dance Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 271 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-271`[🔗](http://w3id.org/arkumu/project-categories/project-category-271) |
 | **English Name** | Dance Theatre |
@@ -1630,6 +1762,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Dance Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 54 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-54`[🔗](http://w3id.org/arkumu/project-categories/project-category-54) |
 | **English Name** | Dance Theatre |
@@ -1653,6 +1787,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-7`[🔗](http://w3id.org/arkumu/project-categories/project-category-7) |
 | **English Name** | Design |
@@ -1677,6 +1813,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Digital Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 80 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-80`[🔗](http://w3id.org/arkumu/project-categories/project-category-80) |
 | **English Name** | Digital Art |
@@ -1702,6 +1840,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Digital Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 38 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-38`[🔗](http://w3id.org/arkumu/project-categories/project-category-38) |
 | **English Name** | Digital Theatre |
@@ -1724,6 +1864,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Direction
 
 
+|||
+|-----------|-----------|
 | **ID** | 280 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-280`[🔗](http://w3id.org/arkumu/project-categories/project-category-280) |
 | **English Name** | Direction |
@@ -1749,6 +1891,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Dixieland
 
 
+|||
+|-----------|-----------|
 | **ID** | 217 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-217`[🔗](http://w3id.org/arkumu/project-categories/project-category-217) |
 | **English Name** | Dixieland |
@@ -1772,6 +1916,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Doctoral Thesis
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-2`[🔗](http://w3id.org/arkumu/project-categories/project-category-2) |
 | **English Name** | Doctoral Thesis |
@@ -1798,6 +1944,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Docudrama
 
 
+|||
+|-----------|-----------|
 | **ID** | 57 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-57`[🔗](http://w3id.org/arkumu/project-categories/project-category-57) |
 | **English Name** | Docudrama |
@@ -1821,6 +1969,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Documentary Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 58 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-58`[🔗](http://w3id.org/arkumu/project-categories/project-category-58) |
 | **English Name** | Documentary Film |
@@ -1846,6 +1996,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Documentary Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 118 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-118`[🔗](http://w3id.org/arkumu/project-categories/project-category-118) |
 | **English Name** | Documentary Photography |
@@ -1871,6 +2023,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Documentary Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 20 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-20`[🔗](http://w3id.org/arkumu/project-categories/project-category-20) |
 | **English Name** | Documentary Photography |
@@ -1895,6 +2049,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Documentary Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 39 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-39`[🔗](http://w3id.org/arkumu/project-categories/project-category-39) |
 | **English Name** | Documentary Theatre |
@@ -1919,6 +2075,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Drama
 
 
+|||
+|-----------|-----------|
 | **ID** | 151 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-151`[🔗](http://w3id.org/arkumu/project-categories/project-category-151) |
 | **English Name** | Drama |
@@ -1943,6 +2101,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Drawing
 
 
+|||
+|-----------|-----------|
 | **ID** | 146 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-146`[🔗](http://w3id.org/arkumu/project-categories/project-category-146) |
 | **English Name** | Drawing |
@@ -1967,6 +2127,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Durational Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 130 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-130`[🔗](http://w3id.org/arkumu/project-categories/project-category-130) |
 | **English Name** | Durational Performance |
@@ -1990,6 +2152,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## East Coast Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 218 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-218`[🔗](http://w3id.org/arkumu/project-categories/project-category-218) |
 | **English Name** | East Coast Jazz |
@@ -2013,6 +2177,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Electroacoustic Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 200 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-200`[🔗](http://w3id.org/arkumu/project-categories/project-category-200) |
 | **English Name** | Electroacoustic Music |
@@ -2037,6 +2203,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Electronic Dance Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 239 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-239`[🔗](http://w3id.org/arkumu/project-categories/project-category-239) |
 | **English Name** | Electronic Dance Music |
@@ -2060,6 +2228,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Electronic Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 201 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-201`[🔗](http://w3id.org/arkumu/project-categories/project-category-201) |
 | **English Name** | Electronic Music |
@@ -2084,6 +2254,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Elegy
 
 
+|||
+|-----------|-----------|
 | **ID** | 176 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-176`[🔗](http://w3id.org/arkumu/project-categories/project-category-176) |
 | **English Name** | Elegy |
@@ -2108,6 +2280,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ensemble Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 202 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-202`[🔗](http://w3id.org/arkumu/project-categories/project-category-202) |
 | **English Name** | Ensemble Music |
@@ -2131,6 +2305,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Epic Literature
 
 
+|||
+|-----------|-----------|
 | **ID** | 163 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-163`[🔗](http://w3id.org/arkumu/project-categories/project-category-163) |
 | **English Name** | Epic Literature |
@@ -2156,6 +2332,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Epic Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 36 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-36`[🔗](http://w3id.org/arkumu/project-categories/project-category-36) |
 | **English Name** | Epic Theatre |
@@ -2179,6 +2357,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Epigram
 
 
+|||
+|-----------|-----------|
 | **ID** | 177 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-177`[🔗](http://w3id.org/arkumu/project-categories/project-category-177) |
 | **English Name** | Epigram |
@@ -2203,6 +2383,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Episode
 
 
+|||
+|-----------|-----------|
 | **ID** | 61 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-61`[🔗](http://w3id.org/arkumu/project-categories/project-category-61) |
 | **English Name** | Episode |
@@ -2227,6 +2409,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Essay
 
 
+|||
+|-----------|-----------|
 | **ID** | 191 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-191`[🔗](http://w3id.org/arkumu/project-categories/project-category-191) |
 | **English Name** | Essay |
@@ -2251,6 +2435,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Essay Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 63 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-63`[🔗](http://w3id.org/arkumu/project-categories/project-category-63) |
 | **English Name** | Essay Film |
@@ -2275,6 +2461,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ethno Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 219 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-219`[🔗](http://w3id.org/arkumu/project-categories/project-category-219) |
 | **English Name** | Ethno Jazz |
@@ -2297,6 +2485,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Event
 
 
+|||
+|-----------|-----------|
 | **ID** | 272 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-272`[🔗](http://w3id.org/arkumu/project-categories/project-category-272) |
 | **English Name** | Event |
@@ -2320,6 +2510,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Expanded Cinema
 
 
+|||
+|-----------|-----------|
 | **ID** | 64 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-64`[🔗](http://w3id.org/arkumu/project-categories/project-category-64) |
 | **English Name** | Expanded Cinema |
@@ -2343,6 +2535,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Expanded Cinema
 
 
+|||
+|-----------|-----------|
 | **ID** | 139 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-139`[🔗](http://w3id.org/arkumu/project-categories/project-category-139) |
 | **English Name** | Expanded Cinema |
@@ -2366,6 +2560,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Experimental Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 65 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-65`[🔗](http://w3id.org/arkumu/project-categories/project-category-65) |
 | **English Name** | Experimental Film |
@@ -2391,6 +2587,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Experimental Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 37 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-37`[🔗](http://w3id.org/arkumu/project-categories/project-category-37) |
 | **English Name** | Experimental Theatre |
@@ -2414,6 +2612,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Fairy Tale
 
 
+|||
+|-----------|-----------|
 | **ID** | 166 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-166`[🔗](http://w3id.org/arkumu/project-categories/project-category-166) |
 | **English Name** | Fairy Tale |
@@ -2438,6 +2638,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Fashion Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-13`[🔗](http://w3id.org/arkumu/project-categories/project-category-13) |
 | **English Name** | Fashion Design |
@@ -2462,6 +2664,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Fashion Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 25 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-25`[🔗](http://w3id.org/arkumu/project-categories/project-category-25) |
 | **English Name** | Fashion Photography |
@@ -2486,6 +2690,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Feature Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 72 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-72`[🔗](http://w3id.org/arkumu/project-categories/project-category-72) |
 | **English Name** | Feature Film |
@@ -2513,6 +2719,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Field Recording
 
 
+|||
+|-----------|-----------|
 | **ID** | 104 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-104`[🔗](http://w3id.org/arkumu/project-categories/project-category-104) |
 | **English Name** | Field Recording |
@@ -2539,6 +2747,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Film Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 254 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-254`[🔗](http://w3id.org/arkumu/project-categories/project-category-254) |
 | **English Name** | Film Music |
@@ -2562,6 +2772,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Film Trailer
 
 
+|||
+|-----------|-----------|
 | **ID** | 74 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-74`[🔗](http://w3id.org/arkumu/project-categories/project-category-74) |
 | **English Name** | Film Trailer |
@@ -2588,6 +2800,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Film/TV
 
 
+|||
+|-----------|-----------|
 | **ID** | 55 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-55`[🔗](http://w3id.org/arkumu/project-categories/project-category-55) |
 | **English Name** | Film/TV |
@@ -2612,6 +2826,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Fine Art Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 116 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-116`[🔗](http://w3id.org/arkumu/project-categories/project-category-116) |
 | **English Name** | Fine Art Photography |
@@ -2636,6 +2852,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Fixed Media
 
 
+|||
+|-----------|-----------|
 | **ID** | 281 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-281`[🔗](http://w3id.org/arkumu/project-categories/project-category-281) |
 | **English Name** | Fixed Media |
@@ -2660,6 +2878,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Folklore
 
 
+|||
+|-----------|-----------|
 | **ID** | 203 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-203`[🔗](http://w3id.org/arkumu/project-categories/project-category-203) |
 | **English Name** | Folklore |
@@ -2685,6 +2905,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Found Object
 
 
+|||
+|-----------|-----------|
 | **ID** | 137 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-137`[🔗](http://w3id.org/arkumu/project-categories/project-category-137) |
 | **English Name** | Found Object |
@@ -2710,6 +2932,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Free Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 220 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-220`[🔗](http://w3id.org/arkumu/project-categories/project-category-220) |
 | **English Name** | Free Jazz |
@@ -2733,6 +2957,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Game Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-8`[🔗](http://w3id.org/arkumu/project-categories/project-category-8) |
 | **English Name** | Game Design |
@@ -2756,6 +2982,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Game Soundtrack
 
 
+|||
+|-----------|-----------|
 | **ID** | 255 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-255`[🔗](http://w3id.org/arkumu/project-categories/project-category-255) |
 | **English Name** | Game Soundtrack |
@@ -2780,6 +3008,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Generative Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 86 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-86`[🔗](http://w3id.org/arkumu/project-categories/project-category-86) |
 | **English Name** | Generative Art |
@@ -2803,6 +3033,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Genre Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 286 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-286`[🔗](http://w3id.org/arkumu/project-categories/project-category-286) |
 | **English Name** | Genre Painting |
@@ -2828,6 +3060,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Graphic Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-11`[🔗](http://w3id.org/arkumu/project-categories/project-category-11) |
 | **English Name** | Graphic Design |
@@ -2854,6 +3088,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Group Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 262 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-262`[🔗](http://w3id.org/arkumu/project-categories/project-category-262) |
 | **English Name** | Group Dance |
@@ -2877,6 +3113,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Haiku
 
 
+|||
+|-----------|-----------|
 | **ID** | 180 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-180`[🔗](http://w3id.org/arkumu/project-categories/project-category-180) |
 | **English Name** | Haiku |
@@ -2900,6 +3138,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Happening
 
 
+|||
+|-----------|-----------|
 | **ID** | 131 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-131`[🔗](http://w3id.org/arkumu/project-categories/project-category-131) |
 | **English Name** | Happening |
@@ -2924,6 +3164,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Hard Bop
 
 
+|||
+|-----------|-----------|
 | **ID** | 221 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-221`[🔗](http://w3id.org/arkumu/project-categories/project-category-221) |
 | **English Name** | Hard Bop |
@@ -2948,6 +3190,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Hip-Hop
 
 
+|||
+|-----------|-----------|
 | **ID** | 240 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-240`[🔗](http://w3id.org/arkumu/project-categories/project-category-240) |
 | **English Name** | Hip-Hop |
@@ -2971,6 +3215,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Historical Play
 
 
+|||
+|-----------|-----------|
 | **ID** | 153 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-153`[🔗](http://w3id.org/arkumu/project-categories/project-category-153) |
 | **English Name** | Historical Play |
@@ -2994,6 +3240,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## History Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 287 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-287`[🔗](http://w3id.org/arkumu/project-categories/project-category-287) |
 | **English Name** | History Painting |
@@ -3019,6 +3267,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Holography
 
 
+|||
+|-----------|-----------|
 | **ID** | 125 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-125`[🔗](http://w3id.org/arkumu/project-categories/project-category-125) |
 | **English Name** | Holography |
@@ -3044,6 +3294,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Hymn
 
 
+|||
+|-----------|-----------|
 | **ID** | 181 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-181`[🔗](http://w3id.org/arkumu/project-categories/project-category-181) |
 | **English Name** | Hymn |
@@ -3068,6 +3320,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Improvisational Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 42 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-42`[🔗](http://w3id.org/arkumu/project-categories/project-category-42) |
 | **English Name** | Improvisational Theatre |
@@ -3090,6 +3344,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Industrial Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-9`[🔗](http://w3id.org/arkumu/project-categories/project-category-9) |
 | **English Name** | Industrial Design |
@@ -3116,6 +3372,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 93 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-93`[🔗](http://w3id.org/arkumu/project-categories/project-category-93) |
 | **English Name** | Installation |
@@ -3142,6 +3400,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Instrumental Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 205 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-205`[🔗](http://w3id.org/arkumu/project-categories/project-category-205) |
 | **English Name** | Instrumental Music |
@@ -3165,6 +3425,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Interactive Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 95 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-95`[🔗](http://w3id.org/arkumu/project-categories/project-category-95) |
 | **English Name** | Interactive Art |
@@ -3189,6 +3451,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Interactive Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 87 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-87`[🔗](http://w3id.org/arkumu/project-categories/project-category-87) |
 | **English Name** | Interactive Art |
@@ -3213,6 +3477,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Interactive Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 43 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-43`[🔗](http://w3id.org/arkumu/project-categories/project-category-43) |
 | **English Name** | Interactive Theatre |
@@ -3235,6 +3501,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Interior Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-10`[🔗](http://w3id.org/arkumu/project-categories/project-category-10) |
 | **English Name** | Interior Design |
@@ -3260,6 +3528,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Interior Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 290 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-290`[🔗](http://w3id.org/arkumu/project-categories/project-category-290) |
 | **English Name** | Interior Painting |
@@ -3282,6 +3552,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Intervention
 
 
+|||
+|-----------|-----------|
 | **ID** | 96 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-96`[🔗](http://w3id.org/arkumu/project-categories/project-category-96) |
 | **English Name** | Intervention |
@@ -3305,6 +3577,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Intervention
 
 
+|||
+|-----------|-----------|
 | **ID** | 132 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-132`[🔗](http://w3id.org/arkumu/project-categories/project-category-132) |
 | **English Name** | Intervention |
@@ -3328,6 +3602,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Interview
 
 
+|||
+|-----------|-----------|
 | **ID** | 273 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-273`[🔗](http://w3id.org/arkumu/project-categories/project-category-273) |
 | **English Name** | Interview |
@@ -3352,6 +3628,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 206 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-206`[🔗](http://w3id.org/arkumu/project-categories/project-category-206) |
 | **English Name** | Jazz |
@@ -3377,6 +3655,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Jazz Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 263 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-263`[🔗](http://w3id.org/arkumu/project-categories/project-category-263) |
 | **English Name** | Jazz Dance |
@@ -3400,6 +3680,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Jazz Fusion
 
 
+|||
+|-----------|-----------|
 | **ID** | 222 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-222`[🔗](http://w3id.org/arkumu/project-categories/project-category-222) |
 | **English Name** | Jazz Fusion |
@@ -3422,6 +3704,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Landscape Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 284 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-284`[🔗](http://w3id.org/arkumu/project-categories/project-category-284) |
 | **English Name** | Landscape Painting |
@@ -3447,6 +3731,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Landscape Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 24 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-24`[🔗](http://w3id.org/arkumu/project-categories/project-category-24) |
 | **English Name** | Landscape Photography |
@@ -3470,6 +3756,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Latin American Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 264 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-264`[🔗](http://w3id.org/arkumu/project-categories/project-category-264) |
 | **English Name** | Latin American Dance |
@@ -3493,6 +3781,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Lecture
 
 
+|||
+|-----------|-----------|
 | **ID** | 277 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-277`[🔗](http://w3id.org/arkumu/project-categories/project-category-277) |
 | **English Name** | Lecture |
@@ -3519,6 +3809,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Lecture Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 133 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-133`[🔗](http://w3id.org/arkumu/project-categories/project-category-133) |
 | **English Name** | Lecture Performance |
@@ -3544,6 +3836,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Libretto
 
 
+|||
+|-----------|-----------|
 | **ID** | 155 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-155`[🔗](http://w3id.org/arkumu/project-categories/project-category-155) |
 | **English Name** | Libretto |
@@ -3568,6 +3862,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Light Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 124 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-124`[🔗](http://w3id.org/arkumu/project-categories/project-category-124) |
 | **English Name** | Light Art |
@@ -3592,6 +3888,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Light Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 100 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-100`[🔗](http://w3id.org/arkumu/project-categories/project-category-100) |
 | **English Name** | Light Installation |
@@ -3615,6 +3913,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Light Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 126 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-126`[🔗](http://w3id.org/arkumu/project-categories/project-category-126) |
 | **English Name** | Light Installation |
@@ -3638,6 +3938,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Limerick
 
 
+|||
+|-----------|-----------|
 | **ID** | 184 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-184`[🔗](http://w3id.org/arkumu/project-categories/project-category-184) |
 | **English Name** | Limerick |
@@ -3662,6 +3964,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Line Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 267 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-267`[🔗](http://w3id.org/arkumu/project-categories/project-category-267) |
 | **English Name** | Line Dance |
@@ -3685,6 +3989,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Listening Piece
 
 
+|||
+|-----------|-----------|
 | **ID** | 105 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-105`[🔗](http://w3id.org/arkumu/project-categories/project-category-105) |
 | **English Name** | Listening Piece |
@@ -3708,6 +4014,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Literary Reading
 
 
+|||
+|-----------|-----------|
 | **ID** | 172 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-172`[🔗](http://w3id.org/arkumu/project-categories/project-category-172) |
 | **English Name** | Literary Reading |
@@ -3731,6 +4039,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Literature
 
 
+|||
+|-----------|-----------|
 | **ID** | 150 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-150`[🔗](http://w3id.org/arkumu/project-categories/project-category-150) |
 | **English Name** | Literature |
@@ -3754,6 +4064,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Manifesto
 
 
+|||
+|-----------|-----------|
 | **ID** | 192 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-192`[🔗](http://w3id.org/arkumu/project-categories/project-category-192) |
 | **English Name** | Manifesto |
@@ -3778,6 +4090,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Media Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-12`[🔗](http://w3id.org/arkumu/project-categories/project-category-12) |
 | **English Name** | Media Design |
@@ -3802,6 +4116,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Memoir
 
 
+|||
+|-----------|-----------|
 | **ID** | 193 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-193`[🔗](http://w3id.org/arkumu/project-categories/project-category-193) |
 | **English Name** | Memoir |
@@ -3825,6 +4141,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Meta-Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 46 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-46`[🔗](http://w3id.org/arkumu/project-categories/project-category-46) |
 | **English Name** | Meta-Theatre |
@@ -3849,6 +4167,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Metal
 
 
+|||
+|-----------|-----------|
 | **ID** | 241 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-241`[🔗](http://w3id.org/arkumu/project-categories/project-category-241) |
 | **English Name** | Metal |
@@ -3873,6 +4193,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Military Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 230 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-230`[🔗](http://w3id.org/arkumu/project-categories/project-category-230) |
 | **English Name** | Military Music |
@@ -3896,6 +4218,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Mockumentary
 
 
+|||
+|-----------|-----------|
 | **ID** | 67 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-67`[🔗](http://w3id.org/arkumu/project-categories/project-category-67) |
 | **English Name** | Mockumentary |
@@ -3919,6 +4243,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Model
 
 
+|||
+|-----------|-----------|
 | **ID** | 136 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-136`[🔗](http://w3id.org/arkumu/project-categories/project-category-136) |
 | **English Name** | Model |
@@ -3944,6 +4270,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Monodrama
 
 
+|||
+|-----------|-----------|
 | **ID** | 156 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-156`[🔗](http://w3id.org/arkumu/project-categories/project-category-156) |
 | **English Name** | Monodrama |
@@ -3968,6 +4296,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Morality Play
 
 
+|||
+|-----------|-----------|
 | **ID** | 157 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-157`[🔗](http://w3id.org/arkumu/project-categories/project-category-157) |
 | **English Name** | Morality Play |
@@ -3992,6 +4322,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 197 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-197`[🔗](http://w3id.org/arkumu/project-categories/project-category-197) |
 | **English Name** | Music |
@@ -4015,6 +4347,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Music Video
 
 
+|||
+|-----------|-----------|
 | **ID** | 69 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-69`[🔗](http://w3id.org/arkumu/project-categories/project-category-69) |
 | **English Name** | Music Video |
@@ -4039,6 +4373,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Musical Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 68 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-68`[🔗](http://w3id.org/arkumu/project-categories/project-category-68) |
 | **English Name** | Musical Film |
@@ -4062,6 +4398,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Musical Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 47 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-47`[🔗](http://w3id.org/arkumu/project-categories/project-category-47) |
 | **English Name** | Musical Theatre |
@@ -4085,6 +4423,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Narrative Story
 
 
+|||
+|-----------|-----------|
 | **ID** | 164 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-164`[🔗](http://w3id.org/arkumu/project-categories/project-category-164) |
 | **English Name** | Narrative Story |
@@ -4109,6 +4449,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Net Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 88 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-88`[🔗](http://w3id.org/arkumu/project-categories/project-category-88) |
 | **English Name** | Net Art |
@@ -4135,6 +4477,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Neue Musik
 
 
+|||
+|-----------|-----------|
 | **ID** | 231 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-231`[🔗](http://w3id.org/arkumu/project-categories/project-category-231) |
 | **English Name** | Neue Musik |
@@ -4158,6 +4502,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## New Orleans Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 223 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-223`[🔗](http://w3id.org/arkumu/project-categories/project-category-223) |
 | **English Name** | New Orleans Jazz |
@@ -4182,6 +4528,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## New Wave
 
 
+|||
+|-----------|-----------|
 | **ID** | 242 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-242`[🔗](http://w3id.org/arkumu/project-categories/project-category-242) |
 | **English Name** | New Wave |
@@ -4205,6 +4553,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Non-european Art Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 198 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-198`[🔗](http://w3id.org/arkumu/project-categories/project-category-198) |
 | **English Name** | Non-european Art Music |
@@ -4227,6 +4577,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Non-fiction Book
 
 
+|||
+|-----------|-----------|
 | **ID** | 195 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-195`[🔗](http://w3id.org/arkumu/project-categories/project-category-195) |
 | **English Name** | Non-fiction Book |
@@ -4251,6 +4603,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Non-fiction Novel
 
 
+|||
+|-----------|-----------|
 | **ID** | 196 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-196`[🔗](http://w3id.org/arkumu/project-categories/project-category-196) |
 | **English Name** | Non-fiction Novel |
@@ -4273,6 +4627,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Non-fictional Literature
 
 
+|||
+|-----------|-----------|
 | **ID** | 187 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-187`[🔗](http://w3id.org/arkumu/project-categories/project-category-187) |
 | **English Name** | Non-fictional Literature |
@@ -4296,6 +4652,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Novel
 
 
+|||
+|-----------|-----------|
 | **ID** | 170 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-170`[🔗](http://w3id.org/arkumu/project-categories/project-category-170) |
 | **English Name** | Novel |
@@ -4320,6 +4678,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Novella
 
 
+|||
+|-----------|-----------|
 | **ID** | 167 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-167`[🔗](http://w3id.org/arkumu/project-categories/project-category-167) |
 | **English Name** | Novella |
@@ -4344,6 +4704,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Nude Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 291 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-291`[🔗](http://w3id.org/arkumu/project-categories/project-category-291) |
 | **English Name** | Nude Painting |
@@ -4367,6 +4729,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## One-act Play
 
 
+|||
+|-----------|-----------|
 | **ID** | 152 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-152`[🔗](http://w3id.org/arkumu/project-categories/project-category-152) |
 | **English Name** | One-act Play |
@@ -4391,6 +4755,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Open-Air Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 41 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-41`[🔗](http://w3id.org/arkumu/project-categories/project-category-41) |
 | **English Name** | Open-Air Theatre |
@@ -4413,6 +4779,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Opera
 
 
+|||
+|-----------|-----------|
 | **ID** | 279 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-279`[🔗](http://w3id.org/arkumu/project-categories/project-category-279) |
 | **English Name** | Opera |
@@ -4437,6 +4805,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Orchestral Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 232 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-232`[🔗](http://w3id.org/arkumu/project-categories/project-category-232) |
 | **English Name** | Orchestral Music |
@@ -4460,6 +4830,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Painting
 
 
+|||
+|-----------|-----------|
 | **ID** | 127 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-127`[🔗](http://w3id.org/arkumu/project-categories/project-category-127) |
 | **English Name** | Painting |
@@ -4484,6 +4856,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Panel Discussion
 
 
+|||
+|-----------|-----------|
 | **ID** | 274 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-274`[🔗](http://w3id.org/arkumu/project-categories/project-category-274) |
 | **English Name** | Panel Discussion |
@@ -4508,6 +4882,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Parable
 
 
+|||
+|-----------|-----------|
 | **ID** | 168 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-168`[🔗](http://w3id.org/arkumu/project-categories/project-category-168) |
 | **English Name** | Parable |
@@ -4532,6 +4908,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Partner Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 266 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-266`[🔗](http://w3id.org/arkumu/project-categories/project-category-266) |
 | **English Name** | Partner Dance |
@@ -4555,6 +4933,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Percent for Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 98 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-98`[🔗](http://w3id.org/arkumu/project-categories/project-category-98) |
 | **English Name** | Percent for Art |
@@ -4578,6 +4958,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 128 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-128`[🔗](http://w3id.org/arkumu/project-categories/project-category-128) |
 | **English Name** | Performance |
@@ -4603,6 +4985,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Performing Arts
 
 
+|||
+|-----------|-----------|
 | **ID** | 31 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-31`[🔗](http://w3id.org/arkumu/project-categories/project-category-31) |
 | **English Name** | Performing Arts |
@@ -4627,6 +5011,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photo Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 94 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-94`[🔗](http://w3id.org/arkumu/project-categories/project-category-94) |
 | **English Name** | Photo Installation |
@@ -4650,6 +5036,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photo Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 121 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-121`[🔗](http://w3id.org/arkumu/project-categories/project-category-121) |
 | **English Name** | Photo Installation |
@@ -4673,6 +5061,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photobook
 
 
+|||
+|-----------|-----------|
 | **ID** | 119 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-119`[🔗](http://w3id.org/arkumu/project-categories/project-category-119) |
 | **English Name** | Photobook |
@@ -4698,6 +5088,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photogrammetry
 
 
+|||
+|-----------|-----------|
 | **ID** | 120 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-120`[🔗](http://w3id.org/arkumu/project-categories/project-category-120) |
 | **English Name** | Photogrammetry |
@@ -4722,6 +5114,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photogrammetry
 
 
+|||
+|-----------|-----------|
 | **ID** | 21 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-21`[🔗](http://w3id.org/arkumu/project-categories/project-category-21) |
 | **English Name** | Photogrammetry |
@@ -4746,6 +5140,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 18 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-18`[🔗](http://w3id.org/arkumu/project-categories/project-category-18) |
 | **English Name** | Photography |
@@ -4770,6 +5166,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Photojournalism
 
 
+|||
+|-----------|-----------|
 | **ID** | 22 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-22`[🔗](http://w3id.org/arkumu/project-categories/project-category-22) |
 | **English Name** | Photojournalism |
@@ -4795,6 +5193,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Physical Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 48 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-48`[🔗](http://w3id.org/arkumu/project-categories/project-category-48) |
 | **English Name** | Physical Theatre |
@@ -4817,6 +5217,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Podcast
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-3`[🔗](http://w3id.org/arkumu/project-categories/project-category-3) |
 | **English Name** | Podcast |
@@ -4841,6 +5243,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Podcast
 
 
+|||
+|-----------|-----------|
 | **ID** | 114 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-114`[🔗](http://w3id.org/arkumu/project-categories/project-category-114) |
 | **English Name** | Podcast |
@@ -4865,6 +5269,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Poem
 
 
+|||
+|-----------|-----------|
 | **ID** | 178 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-178`[🔗](http://w3id.org/arkumu/project-categories/project-category-178) |
 | **English Name** | Poem |
@@ -4888,6 +5294,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Poetry
 
 
+|||
+|-----------|-----------|
 | **ID** | 173 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-173`[🔗](http://w3id.org/arkumu/project-categories/project-category-173) |
 | **English Name** | Poetry |
@@ -4913,6 +5321,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Poetry Collection
 
 
+|||
+|-----------|-----------|
 | **ID** | 179 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-179`[🔗](http://w3id.org/arkumu/project-categories/project-category-179) |
 | **English Name** | Poetry Collection |
@@ -4935,6 +5345,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Political Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 49 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-49`[🔗](http://w3id.org/arkumu/project-categories/project-category-49) |
 | **English Name** | Political Theatre |
@@ -4958,6 +5370,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Pop
 
 
+|||
+|-----------|-----------|
 | **ID** | 243 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-243`[🔗](http://w3id.org/arkumu/project-categories/project-category-243) |
 | **English Name** | Pop |
@@ -4982,6 +5396,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Poplular Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 265 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-265`[🔗](http://w3id.org/arkumu/project-categories/project-category-265) |
 | **English Name** | Poplular Dance |
@@ -5005,6 +5421,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Popular Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 233 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-233`[🔗](http://w3id.org/arkumu/project-categories/project-category-233) |
 | **English Name** | Popular Music |
@@ -5027,6 +5445,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Portrait
 
 
+|||
+|-----------|-----------|
 | **ID** | 283 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-283`[🔗](http://w3id.org/arkumu/project-categories/project-category-283) |
 | **English Name** | Portrait |
@@ -5053,6 +5473,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Portrait Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 26 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-26`[🔗](http://w3id.org/arkumu/project-categories/project-category-26) |
 | **English Name** | Portrait Photography |
@@ -5077,6 +5499,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Postdramatic Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 50 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-50`[🔗](http://w3id.org/arkumu/project-categories/project-category-50) |
 | **English Name** | Postdramatic Theatre |
@@ -5100,6 +5524,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Postmodern Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 51 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-51`[🔗](http://w3id.org/arkumu/project-categories/project-category-51) |
 | **English Name** | Postmodern Theatre |
@@ -5122,6 +5548,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Presentation
 
 
+|||
+|-----------|-----------|
 | **ID** | 278 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-278`[🔗](http://w3id.org/arkumu/project-categories/project-category-278) |
 | **English Name** | Presentation |
@@ -5147,6 +5575,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Printmaking
 
 
+|||
+|-----------|-----------|
 | **ID** | 149 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-149`[🔗](http://w3id.org/arkumu/project-categories/project-category-149) |
 | **English Name** | Printmaking |
@@ -5172,6 +5602,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Product Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 27 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-27`[🔗](http://w3id.org/arkumu/project-categories/project-category-27) |
 | **English Name** | Product Photography |
@@ -5196,6 +5628,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Progressive Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 224 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-224`[🔗](http://w3id.org/arkumu/project-categories/project-category-224) |
 | **English Name** | Progressive Jazz |
@@ -5218,6 +5652,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Projection Mapping
 
 
+|||
+|-----------|-----------|
 | **ID** | 140 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-140`[🔗](http://w3id.org/arkumu/project-categories/project-category-140) |
 | **English Name** | Projection Mapping |
@@ -5241,6 +5677,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Public Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 99 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-99`[🔗](http://w3id.org/arkumu/project-categories/project-category-99) |
 | **English Name** | Public Art |
@@ -5265,6 +5703,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Punk
 
 
+|||
+|-----------|-----------|
 | **ID** | 244 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-244`[🔗](http://w3id.org/arkumu/project-categories/project-category-244) |
 | **English Name** | Punk |
@@ -5288,6 +5728,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Puppetry Arts
 
 
+|||
+|-----------|-----------|
 | **ID** | 40 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-40`[🔗](http://w3id.org/arkumu/project-categories/project-category-40) |
 | **English Name** | Puppetry Arts |
@@ -5312,6 +5754,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Radio Programme
 
 
+|||
+|-----------|-----------|
 | **ID** | 282 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-282`[🔗](http://w3id.org/arkumu/project-categories/project-category-282) |
 | **English Name** | Radio Programme |
@@ -5338,6 +5782,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ragtime
 
 
+|||
+|-----------|-----------|
 | **ID** | 225 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-225`[🔗](http://w3id.org/arkumu/project-categories/project-category-225) |
 | **English Name** | Ragtime |
@@ -5361,6 +5807,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Reference Work
 
 
+|||
+|-----------|-----------|
 | **ID** | 186 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-186`[🔗](http://w3id.org/arkumu/project-categories/project-category-186) |
 | **English Name** | Reference Work |
@@ -5386,6 +5834,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Reggae
 
 
+|||
+|-----------|-----------|
 | **ID** | 246 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-246`[🔗](http://w3id.org/arkumu/project-categories/project-category-246) |
 | **English Name** | Reggae |
@@ -5409,6 +5859,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Reportage
 
 
+|||
+|-----------|-----------|
 | **ID** | 70 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-70`[🔗](http://w3id.org/arkumu/project-categories/project-category-70) |
 | **English Name** | Reportage |
@@ -5432,6 +5884,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Reportage
 
 
+|||
+|-----------|-----------|
 | **ID** | 169 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-169`[🔗](http://w3id.org/arkumu/project-categories/project-category-169) |
 | **English Name** | Reportage |
@@ -5455,6 +5909,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Rock
 
 
+|||
+|-----------|-----------|
 | **ID** | 247 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-247`[🔗](http://w3id.org/arkumu/project-categories/project-category-247) |
 | **English Name** | Rock |
@@ -5479,6 +5935,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Rock and Roll
 
 
+|||
+|-----------|-----------|
 | **ID** | 248 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-248`[🔗](http://w3id.org/arkumu/project-categories/project-category-248) |
 | **English Name** | Rock and Roll |
@@ -5502,6 +5960,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Rythm and Blues
 
 
+|||
+|-----------|-----------|
 | **ID** | 245 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-245`[🔗](http://w3id.org/arkumu/project-categories/project-category-245) |
 | **English Name** | Rythm and Blues |
@@ -5527,6 +5987,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sacred Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 204 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-204`[🔗](http://w3id.org/arkumu/project-categories/project-category-204) |
 | **English Name** | Sacred Music |
@@ -5551,6 +6013,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Satire
 
 
+|||
+|-----------|-----------|
 | **ID** | 171 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-171`[🔗](http://w3id.org/arkumu/project-categories/project-category-171) |
 | **English Name** | Satire |
@@ -5575,6 +6039,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Schlager
 
 
+|||
+|-----------|-----------|
 | **ID** | 249 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-249`[🔗](http://w3id.org/arkumu/project-categories/project-category-249) |
 | **English Name** | Schlager |
@@ -5598,6 +6064,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Screenplay
 
 
+|||
+|-----------|-----------|
 | **ID** | 60 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-60`[🔗](http://w3id.org/arkumu/project-categories/project-category-60) |
 | **English Name** | Screenplay |
@@ -5623,6 +6091,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Screenplay
 
 
+|||
+|-----------|-----------|
 | **ID** | 162 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-162`[🔗](http://w3id.org/arkumu/project-categories/project-category-162) |
 | **English Name** | Screenplay |
@@ -5648,6 +6118,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sculpture
 
 
+|||
+|-----------|-----------|
 | **ID** | 135 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-135`[🔗](http://w3id.org/arkumu/project-categories/project-category-135) |
 | **English Name** | Sculpture |
@@ -5673,6 +6145,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Secular Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 258 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-258`[🔗](http://w3id.org/arkumu/project-categories/project-category-258) |
 | **English Name** | Secular Music |
@@ -5696,6 +6170,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Self-help Book
 
 
+|||
+|-----------|-----------|
 | **ID** | 194 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-194`[🔗](http://w3id.org/arkumu/project-categories/project-category-194) |
 | **English Name** | Self-help Book |
@@ -5720,6 +6196,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Short Documentary Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 59 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-59`[🔗](http://w3id.org/arkumu/project-categories/project-category-59) |
 | **English Name** | Short Documentary Film |
@@ -5743,6 +6221,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Short Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 73 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-73`[🔗](http://w3id.org/arkumu/project-categories/project-category-73) |
 | **English Name** | Short Film |
@@ -5768,6 +6248,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Short Story
 
 
+|||
+|-----------|-----------|
 | **ID** | 165 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-165`[🔗](http://w3id.org/arkumu/project-categories/project-category-165) |
 | **English Name** | Short Story |
@@ -5792,6 +6274,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Singer-Songwriter
 
 
+|||
+|-----------|-----------|
 | **ID** | 250 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-250`[🔗](http://w3id.org/arkumu/project-categories/project-category-250) |
 | **English Name** | Singer-Songwriter |
@@ -5814,6 +6298,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Ska
 
 
+|||
+|-----------|-----------|
 | **ID** | 251 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-251`[🔗](http://w3id.org/arkumu/project-categories/project-category-251) |
 | **English Name** | Ska |
@@ -5837,6 +6323,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Smooth Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 226 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-226`[🔗](http://w3id.org/arkumu/project-categories/project-category-226) |
 | **English Name** | Smooth Jazz |
@@ -5859,6 +6347,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Software
 
 
+|||
+|-----------|-----------|
 | **ID** | 89 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-89`[🔗](http://w3id.org/arkumu/project-categories/project-category-89) |
 | **English Name** | Software |
@@ -5882,6 +6372,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Solo Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 268 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-268`[🔗](http://w3id.org/arkumu/project-categories/project-category-268) |
 | **English Name** | Solo Dance |
@@ -5906,6 +6398,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Solo Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 252 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-252`[🔗](http://w3id.org/arkumu/project-categories/project-category-252) |
 | **English Name** | Solo Music |
@@ -5928,6 +6422,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Song Lyrics
 
 
+|||
+|-----------|-----------|
 | **ID** | 185 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-185`[🔗](http://w3id.org/arkumu/project-categories/project-category-185) |
 | **English Name** | Song Lyrics |
@@ -5951,6 +6447,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sound Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 102 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-102`[🔗](http://w3id.org/arkumu/project-categories/project-category-102) |
 | **English Name** | Sound Art |
@@ -5976,6 +6474,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sound Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 14 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-14`[🔗](http://w3id.org/arkumu/project-categories/project-category-14) |
 | **English Name** | Sound Design |
@@ -6000,6 +6500,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sound Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 97 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-97`[🔗](http://w3id.org/arkumu/project-categories/project-category-97) |
 | **English Name** | Sound Installation |
@@ -6023,6 +6525,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sound Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 106 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-106`[🔗](http://w3id.org/arkumu/project-categories/project-category-106) |
 | **English Name** | Sound Installation |
@@ -6046,6 +6550,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sound Poetry
 
 
+|||
+|-----------|-----------|
 | **ID** | 183 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-183`[🔗](http://w3id.org/arkumu/project-categories/project-category-183) |
 | **English Name** | Sound Poetry |
@@ -6070,6 +6576,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Sound Sculpture
 
 
+|||
+|-----------|-----------|
 | **ID** | 107 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-107`[🔗](http://w3id.org/arkumu/project-categories/project-category-107) |
 | **English Name** | Sound Sculpture |
@@ -6095,6 +6603,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Soundtrack
 
 
+|||
+|-----------|-----------|
 | **ID** | 110 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-110`[🔗](http://w3id.org/arkumu/project-categories/project-category-110) |
 | **English Name** | Soundtrack |
@@ -6119,6 +6629,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Soundtrack
 
 
+|||
+|-----------|-----------|
 | **ID** | 253 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-253`[🔗](http://w3id.org/arkumu/project-categories/project-category-253) |
 | **English Name** | Soundtrack |
@@ -6143,6 +6655,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Soundtrack
 
 
+|||
+|-----------|-----------|
 | **ID** | 71 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-71`[🔗](http://w3id.org/arkumu/project-categories/project-category-71) |
 | **English Name** | Soundtrack |
@@ -6167,6 +6681,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Speech
 
 
+|||
+|-----------|-----------|
 | **ID** | 275 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-275`[🔗](http://w3id.org/arkumu/project-categories/project-category-275) |
 | **English Name** | Speech |
@@ -6193,6 +6709,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Spoken Drama
 
 
+|||
+|-----------|-----------|
 | **ID** | 53 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-53`[🔗](http://w3id.org/arkumu/project-categories/project-category-53) |
 | **English Name** | Spoken Drama |
@@ -6218,6 +6736,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Stage Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 199 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-199`[🔗](http://w3id.org/arkumu/project-categories/project-category-199) |
 | **English Name** | Stage Music |
@@ -6241,6 +6761,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Staged Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 23 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-23`[🔗](http://w3id.org/arkumu/project-categories/project-category-23) |
 | **English Name** | Staged Photography |
@@ -6264,6 +6786,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Staged Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 122 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-122`[🔗](http://w3id.org/arkumu/project-categories/project-category-122) |
 | **English Name** | Staged Photography |
@@ -6287,6 +6811,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Still Life
 
 
+|||
+|-----------|-----------|
 | **ID** | 285 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-285`[🔗](http://w3id.org/arkumu/project-categories/project-category-285) |
 | **English Name** | Still Life |
@@ -6312,6 +6838,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Street Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 270 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-270`[🔗](http://w3id.org/arkumu/project-categories/project-category-270) |
 | **English Name** | Street Dance |
@@ -6337,6 +6865,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Street Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 52 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-52`[🔗](http://w3id.org/arkumu/project-categories/project-category-52) |
 | **English Name** | Street Theatre |
@@ -6361,6 +6891,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Swing
 
 
+|||
+|-----------|-----------|
 | **ID** | 227 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-227`[🔗](http://w3id.org/arkumu/project-categories/project-category-227) |
 | **English Name** | Swing |
@@ -6384,6 +6916,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Television Programme
 
 
+|||
+|-----------|-----------|
 | **ID** | 75 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-75`[🔗](http://w3id.org/arkumu/project-categories/project-category-75) |
 | **English Name** | Television Programme |
@@ -6410,6 +6944,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Textile Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 15 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-15`[🔗](http://w3id.org/arkumu/project-categories/project-category-15) |
 | **English Name** | Textile Design |
@@ -6434,6 +6970,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-32`[🔗](http://w3id.org/arkumu/project-categories/project-category-32) |
 | **English Name** | Theatre |
@@ -6458,6 +6996,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Theatre of the Absurd
 
 
+|||
+|-----------|-----------|
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-33`[🔗](http://w3id.org/arkumu/project-categories/project-category-33) |
 | **English Name** | Theatre of the Absurd |
@@ -6482,6 +7022,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Theatrical Photography
 
 
+|||
+|-----------|-----------|
 | **ID** | 28 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-28`[🔗](http://w3id.org/arkumu/project-categories/project-category-28) |
 | **English Name** | Theatrical Photography |
@@ -6505,6 +7047,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Tragedy
 
 
+|||
+|-----------|-----------|
 | **ID** | 160 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-160`[🔗](http://w3id.org/arkumu/project-categories/project-category-160) |
 | **English Name** | Tragedy |
@@ -6529,6 +7073,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Transformation Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 16 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-16`[🔗](http://w3id.org/arkumu/project-categories/project-category-16) |
 | **English Name** | Transformation Design |
@@ -6551,6 +7097,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## User Interface
 
 
+|||
+|-----------|-----------|
 | **ID** | 90 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-90`[🔗](http://w3id.org/arkumu/project-categories/project-category-90) |
 | **English Name** | User Interface |
@@ -6576,6 +7124,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## User Interface Design
 
 
+|||
+|-----------|-----------|
 | **ID** | 17 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-17`[🔗](http://w3id.org/arkumu/project-categories/project-category-17) |
 | **English Name** | User Interface Design |
@@ -6600,6 +7150,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Verse Drama
 
 
+|||
+|-----------|-----------|
 | **ID** | 161 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-161`[🔗](http://w3id.org/arkumu/project-categories/project-category-161) |
 | **English Name** | Verse Drama |
@@ -6624,6 +7176,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Video Art
 
 
+|||
+|-----------|-----------|
 | **ID** | 138 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-138`[🔗](http://w3id.org/arkumu/project-categories/project-category-138) |
 | **English Name** | Video Art |
@@ -6648,6 +7202,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Video Essay
 
 
+|||
+|-----------|-----------|
 | **ID** | 141 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-141`[🔗](http://w3id.org/arkumu/project-categories/project-category-141) |
 | **English Name** | Video Essay |
@@ -6670,6 +7226,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Video Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 101 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-101`[🔗](http://w3id.org/arkumu/project-categories/project-category-101) |
 | **English Name** | Video Installation |
@@ -6693,6 +7251,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Video Installation
 
 
+|||
+|-----------|-----------|
 | **ID** | 142 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-142`[🔗](http://w3id.org/arkumu/project-categories/project-category-142) |
 | **English Name** | Video Installation |
@@ -6716,6 +7276,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Video Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 143 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-143`[🔗](http://w3id.org/arkumu/project-categories/project-category-143) |
 | **English Name** | Video Performance |
@@ -6739,6 +7301,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Video Sculpture
 
 
+|||
+|-----------|-----------|
 | **ID** | 144 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-144`[🔗](http://w3id.org/arkumu/project-categories/project-category-144) |
 | **English Name** | Video Sculpture |
@@ -6761,6 +7325,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Virtual Reality
 
 
+|||
+|-----------|-----------|
 | **ID** | 145 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-145`[🔗](http://w3id.org/arkumu/project-categories/project-category-145) |
 | **English Name** | Virtual Reality |
@@ -6787,6 +7353,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Virtual Reality
 
 
+|||
+|-----------|-----------|
 | **ID** | 91 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-91`[🔗](http://w3id.org/arkumu/project-categories/project-category-91) |
 | **English Name** | Virtual Reality |
@@ -6813,6 +7381,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Vocal Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 257 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-257`[🔗](http://w3id.org/arkumu/project-categories/project-category-257) |
 | **English Name** | Vocal Music |
@@ -6836,6 +7406,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Web Series
 
 
+|||
+|-----------|-----------|
 | **ID** | 92 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-92`[🔗](http://w3id.org/arkumu/project-categories/project-category-92) |
 | **English Name** | Web Series |
@@ -6861,6 +7433,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Web Series
 
 
+|||
+|-----------|-----------|
 | **ID** | 76 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-76`[🔗](http://w3id.org/arkumu/project-categories/project-category-76) |
 | **English Name** | Web Series |
@@ -6886,6 +7460,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Website
 
 
+|||
+|-----------|-----------|
 | **ID** | 115 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-115`[🔗](http://w3id.org/arkumu/project-categories/project-category-115) |
 | **English Name** | Website |
@@ -6910,6 +7486,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Website
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-4`[🔗](http://w3id.org/arkumu/project-categories/project-category-4) |
 | **English Name** | Website |
@@ -6934,6 +7512,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## West Coast Jazz
 
 
+|||
+|-----------|-----------|
 | **ID** | 228 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-228`[🔗](http://w3id.org/arkumu/project-categories/project-category-228) |
 | **English Name** | West Coast Jazz |
@@ -6958,6 +7538,8 @@ Not to be confused with [Project Types](/documentation/controlled-vocabularies/p
 ## Youth Theatre
 
 
+|||
+|-----------|-----------|
 | **ID** | 44 |
 | **Permanent URL** | `http://w3id.org/arkumu/project-categories/project-category-44`[🔗](http://w3id.org/arkumu/project-categories/project-category-44) |
 | **English Name** | Youth Theatre |

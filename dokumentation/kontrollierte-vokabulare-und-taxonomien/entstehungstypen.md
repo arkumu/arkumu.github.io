@@ -55,6 +55,8 @@ Typical examples of retro-digitised material include recordings from audio tapes
 ## Born Digital
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/genesis-types/born-digital`[🔗](http://w3id.org/arkumu/genesis-types/born-digital) |
 | **English Name** | Born Digital |
@@ -73,6 +75,8 @@ Typical examples of retro-digitised material include recordings from audio tapes
 ## Retro-Digitised
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/genesis-types/retro-digitised`[🔗](http://w3id.org/arkumu/genesis-types/retro-digitised) |
 | **English Name** | Retro-Digitised |

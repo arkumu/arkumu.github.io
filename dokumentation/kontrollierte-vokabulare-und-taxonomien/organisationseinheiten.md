@@ -47,6 +47,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Academy of Media Arts Cologne
 
 
+|||
+|-----------|-----------|
 | **ID** | 156 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-156`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-156) |
 | **English Name** | Academy of Media Arts Cologne |
@@ -67,6 +69,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Archive for Media Arts, Academy of Media Arts Cologne (Event Archive)
 
 
+|||
+|-----------|-----------|
 | **ID** | 158 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-158`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-158) |
 | **English Name** | Archive for Media Arts, Academy of Media Arts Cologne (Event Archive) |
@@ -90,6 +94,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Archive for Media Arts, Academy of Media Arts Cologne (Project Archive)
 
 
+|||
+|-----------|-----------|
 | **ID** | 157 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-157`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-157) |
 | **English Name** | Archive for Media Arts, Academy of Media Arts Cologne (Project Archive) |
@@ -113,6 +119,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Art and Media Studies Department
 
 
+|||
+|-----------|-----------|
 | **ID** | 165 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-165`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-165) |
 | **English Name** | Art and Media Studies Department |
@@ -134,6 +142,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Art Department
 
 
+|||
+|-----------|-----------|
 | **ID** | 164 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-164`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-164) |
 | **English Name** | Art Department |
@@ -155,6 +165,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 227 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-227`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-227) |
 | **English Name** | ArtEZ Hogeschool voor de Kunsten | Dance Artist (B.A.) |
@@ -176,6 +188,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Callhoff Archive
 
 
+|||
+|-----------|-----------|
 | **ID** | 170 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-170`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-170) |
 | **English Name** | Callhoff Archive |
@@ -197,6 +211,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Case – Projektraum der Fotografie
 
 
+|||
+|-----------|-----------|
 | **ID** | 168 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-168`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-168) |
 | **English Name** | Case – Projektraum der Fotografie |
@@ -220,6 +236,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Centre for Music and Film Informatics
 
 
+|||
+|-----------|-----------|
 | **ID** | 82 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-82`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-82) |
 | **English Name** | Centre for Music and Film Informatics |
@@ -241,6 +259,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Centre for Music Teacher Education in the Job
 
 
+|||
+|-----------|-----------|
 | **ID** | 154 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-154`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-154) |
 | **English Name** | Centre for Music Teacher Education in the Job |
@@ -262,6 +282,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Centre of Contemporary Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 155 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-155`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-155) |
 | **English Name** | Centre of Contemporary Dance |
@@ -283,6 +305,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Children's Choir of the University
 
 
+|||
+|-----------|-----------|
 | **ID** | 88 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-88`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-88) |
 | **English Name** | Children's Choir of the University |
@@ -304,6 +328,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## College for Music and Art Montepulciano
 
 
+|||
+|-----------|-----------|
 | **ID** | 215 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-215`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-215) |
 | **English Name** | College for Music and Art Montepulciano |
@@ -327,6 +353,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Cologne Institute for Music Pedagogy Research
 
 
+|||
+|-----------|-----------|
 | **ID** | 87 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-87`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-87) |
 | **English Name** | Cologne Institute for Music Pedagogy Research |
@@ -348,6 +376,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Concert Study Course of Excellence
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-3`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-3) |
 | **English Name** | Concert Study Course of Excellence |
@@ -369,6 +399,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Cooperations
 
 
+|||
+|-----------|-----------|
 | **ID** | 213 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-213`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-213) |
 | **English Name** | Cooperations |
@@ -389,6 +421,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Department 1 (Orchestral Instruments and Orchestral Conducting)
 
 
+|||
+|-----------|-----------|
 | **ID** | 218 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-218`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-218) |
 | **English Name** | Department 1 (Orchestral Instruments and Orchestral Conducting) |
@@ -410,6 +444,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Department 2 (Keyboard Instruments and Vocals)
 
 
+|||
+|-----------|-----------|
 | **ID** | 219 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-219`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-219) |
 | **English Name** | Department 2 (Keyboard Instruments and Vocals) |
@@ -431,6 +467,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting)
 
 
+|||
+|-----------|-----------|
 | **ID** | 220 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-220`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-220) |
 | **English Name** | Department 3 (Composition, Music Theory, School Music, Instrumental and Vocal Pedagogy, Elementary Music Pedagogy, Choral Conducting, Church Music, Music Broadcasting) |
@@ -452,6 +490,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Detmold Young Students' Institute
 
 
+|||
+|-----------|-----------|
 | **ID** | 45 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-45`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-45) |
 | **English Name** | Detmold Young Students' Institute |
@@ -473,6 +513,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age"
 
 
+|||
+|-----------|-----------|
 | **ID** | 171 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-171`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-171) |
 | **English Name** | DFG-Project "Classical musicians’ presentation and reception on YouTube: performance and life practices in the digital age" |
@@ -494,6 +536,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Diploma Programme Acting (Artist Diploma)
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-6`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-6) |
 | **English Name** | Diploma Programme Acting (Artist Diploma) |
@@ -515,6 +559,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Diploma Programme Directing (Artist Diploma)
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-5`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-5) |
 | **English Name** | Diploma Programme Directing (Artist Diploma) |
@@ -536,6 +582,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Diploma Programme Physical Theatre (Artist Diploma)
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-4`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-4) |
 | **English Name** | Diploma Programme Physical Theatre (Artist Diploma) |
@@ -557,6 +605,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Doctoral Programme
 
 
+|||
+|-----------|-----------|
 | **ID** | 161 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-161`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-161) |
 | **English Name** | Doctoral Programme |
@@ -580,6 +630,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing)
 
 
+|||
+|-----------|-----------|
 | **ID** | 46 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-46`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-46) |
 | **English Name** | Doctoral Programme Audiovisual Arts Computing (Dr. phil, Dr. Ing) |
@@ -601,6 +653,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Doctoral Programme Music Acoustics (Dr.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 47 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-47`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-47) |
 | **English Name** | Doctoral Programme Music Acoustics (Dr.) |
@@ -622,6 +676,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Doctoral Programme Musicology (Dr. Phil.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 48 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-48`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-48) |
 | **English Name** | Doctoral Programme Musicology (Dr. Phil.) |
@@ -643,6 +699,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Doctoral Programme Musicology (Dr. Phil.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 182 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-182`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-182) |
 | **English Name** | Doctoral Programme Musicology (Dr. Phil.) |
@@ -664,6 +722,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Erich Thienhaus Institute
 
 
+|||
+|-----------|-----------|
 | **ID** | 217 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-217`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-217) |
 | **English Name** | Erich Thienhaus Institute |
@@ -687,6 +747,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Excellence Programme Composition
 
 
+|||
+|-----------|-----------|
 | **ID** | 172 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-172`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-172) |
 | **English Name** | Excellence Programme Composition |
@@ -708,6 +770,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Excellence Programme Music Performance
 
 
+|||
+|-----------|-----------|
 | **ID** | 173 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-173`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-173) |
 | **English Name** | Excellence Programme Music Performance |
@@ -729,6 +793,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## exMedia Department
 
 
+|||
+|-----------|-----------|
 | **ID** | 162 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-162`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-162) |
 | **English Name** | exMedia Department |
@@ -750,6 +816,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Film and Television Department
 
 
+|||
+|-----------|-----------|
 | **ID** | 163 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-163`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-163) |
 | **English Name** | Film and Television Department |
@@ -771,6 +839,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Folkwang Tanzstudio
 
 
+|||
+|-----------|-----------|
 | **ID** | 226 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-226`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-226) |
 | **English Name** | Folkwang Tanzstudio |
@@ -792,6 +862,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Folkwang University of the Arts
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-1`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-1) |
 | **English Name** | Folkwang University of the Arts |
@@ -812,6 +884,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines)
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-2`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-2) |
 | **English Name** | German-French Musicology Study Programme (B.A./Licence des Artes et Sciences humaines) |
@@ -833,6 +907,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Glasmoog – Space for Art & Discourse
 
 
+|||
+|-----------|-----------|
 | **ID** | 167 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-167`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-167) |
 | **English Name** | Glasmoog – Space for Art & Discourse |
@@ -857,6 +933,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Hochschule Düsseldorf - University of Applied Sciences
 
 
+|||
+|-----------|-----------|
 | **ID** | 223 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-223`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-223) |
 | **English Name** | Hochschule Düsseldorf - University of Applied Sciences |
@@ -878,6 +956,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Hochschule für Musik Detmold
 
 
+|||
+|-----------|-----------|
 | **ID** | 44 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-44`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-44) |
 | **English Name** | Hochschule für Musik Detmold |
@@ -898,6 +978,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Hochschule für Musik und Tanz Köln
 
 
+|||
+|-----------|-----------|
 | **ID** | 83 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-83`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-83) |
 | **English Name** | Hochschule für Musik und Tanz Köln |
@@ -918,6 +1000,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Art and Design Science
 
 
+|||
+|-----------|-----------|
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-9`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-9) |
 | **English Name** | Institute for Art and Design Science |
@@ -939,6 +1023,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Church Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 177 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-177`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-177) |
 | **English Name** | Institute for Church Music |
@@ -960,6 +1046,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Composition and Music Theory
 
 
+|||
+|-----------|-----------|
 | **ID** | 178 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-178`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-178) |
 | **English Name** | Institute for Composition and Music Theory |
@@ -981,6 +1069,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Computer Music and Electronic Media
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-7`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-7) |
 | **English Name** | Institute for Computer Music and Electronic Media |
@@ -1002,6 +1092,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Contemporary Dance
 
 
+|||
+|-----------|-----------|
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-12`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-12) |
 | **English Name** | Institute for Contemporary Dance |
@@ -1023,6 +1115,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Early Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 84 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-84`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-84) |
 | **English Name** | Institute for Early Music |
@@ -1044,6 +1138,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Gregorian Chant
 
 
+|||
+|-----------|-----------|
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-8`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-8) |
 | **English Name** | Institute for Gregorian Chant |
@@ -1065,6 +1161,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Historic Musicology
 
 
+|||
+|-----------|-----------|
 | **ID** | 85 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-85`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-85) |
 | **English Name** | Institute for Historic Musicology |
@@ -1086,6 +1184,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Music and Media
 
 
+|||
+|-----------|-----------|
 | **ID** | 179 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-179`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-179) |
 | **English Name** | Institute for Music and Media |
@@ -1107,6 +1207,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for New Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 86 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-86`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-86) |
 | **English Name** | Institute for New Music |
@@ -1128,6 +1230,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for Popular Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-11`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-11) |
 | **English Name** | Institute for Popular Music |
@@ -1149,6 +1253,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute for the Promotion of Young Artists | folkwang junior
 
 
+|||
+|-----------|-----------|
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-10`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-10) |
 | **English Name** | Institute for the Promotion of Young Artists | folkwang junior  |
@@ -1170,6 +1276,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Institute of Musicology
 
 
+|||
+|-----------|-----------|
 | **ID** | 181 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-181`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-181) |
 | **English Name** | Institute of Musicology |
@@ -1191,6 +1299,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Kunstakademie Düsseldorf
 
 
+|||
+|-----------|-----------|
 | **ID** | 224 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-224`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-224) |
 | **English Name** | Kunstakademie Düsseldorf |
@@ -1212,6 +1322,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Library Tape Archive
 
 
+|||
+|-----------|-----------|
 | **ID** | 152 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-152`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-152) |
 | **English Name** | Library Tape Archive |
@@ -1233,6 +1345,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Media and Fine Art Diploma 1 | Undergraduate Course
 
 
+|||
+|-----------|-----------|
 | **ID** | 159 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-159`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-159) |
 | **English Name** | Media and Fine Art Diploma 1 | Undergraduate Course |
@@ -1256,6 +1370,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Media and Fine Art Diploma 2 | Postgraduate Course
 
 
+|||
+|-----------|-----------|
 | **ID** | 160 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-160`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-160) |
 | **English Name** | Media and Fine Art Diploma 2 | Postgraduate Course |
@@ -1279,6 +1395,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Media Design Department
 
 
+|||
+|-----------|-----------|
 | **ID** | 166 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-166`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-166) |
 | **English Name** | Media Design Department |
@@ -1300,6 +1418,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Music Studies for the Armed Forces
 
 
+|||
+|-----------|-----------|
 | **ID** | 214 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-214`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-214) |
 | **English Name** | Music Studies for the Armed Forces |
@@ -1321,6 +1441,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## NRW Orchestra Centre
 
 
+|||
+|-----------|-----------|
 | **ID** | 216 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-216`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-216) |
 | **English Name** | NRW Orchestra Centre |
@@ -1342,6 +1464,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Peter Oswald Institute
 
 
+|||
+|-----------|-----------|
 | **ID** | 90 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-90`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-90) |
 | **English Name** | Peter Oswald Institute |
@@ -1363,6 +1487,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Pre-College Cologne
 
 
+|||
+|-----------|-----------|
 | **ID** | 91 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-91`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-91) |
 | **English Name** | Pre-College Cologne |
@@ -1384,6 +1510,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Project EchoSpore
 
 
+|||
+|-----------|-----------|
 | **ID** | 92 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-92`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-92) |
 | **English Name** | Project EchoSpore |
@@ -1405,6 +1533,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Project Schauspiel HfMT (Acting HfMT)
 
 
+|||
+|-----------|-----------|
 | **ID** | 93 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-93`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-93) |
 | **English Name** | Project Schauspiel HfMT (Acting HfMT) |
@@ -1426,6 +1556,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Reasearch Centre "Düsseldorf's Civic Music Life"
 
 
+|||
+|-----------|-----------|
 | **ID** | 174 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-174`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-174) |
 | **English Name** | Reasearch Centre "Düsseldorf's Civic Music Life" |
@@ -1447,6 +1579,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Research Centre Sepulchral Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 175 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-175`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-175) |
 | **English Name** | Research Centre Sepulchral Music |
@@ -1468,6 +1602,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Research Centre Studio for the Digitisation of Historical Sound Recording Media
 
 
+|||
+|-----------|-----------|
 | **ID** | 176 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-176`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-176) |
 | **English Name** | Research Centre Studio for the Digitisation of Historical Sound Recording Media |
@@ -1489,6 +1625,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Rheinische Opernakademie (Rhenish Opera Acadaemy)
 
 
+|||
+|-----------|-----------|
 | **ID** | 95 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-95`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-95) |
 | **English Name** | Rheinische Opernakademie (Rhenish Opera Acadaemy) |
@@ -1510,6 +1648,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Robert Schumann Hochschule Düsseldorf
 
 
+|||
+|-----------|-----------|
 | **ID** | 169 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-169`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-169) |
 | **English Name** | Robert Schumann Hochschule Düsseldorf |
@@ -1530,6 +1670,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Royal Academy of Art, The Hague (KABK)
 
 
+|||
+|-----------|-----------|
 | **ID** | 225 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-225`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-225) |
 | **English Name** | Royal Academy of Art, The Hague (KABK) |
@@ -1551,6 +1693,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Schumann Junior Institute
 
 
+|||
+|-----------|-----------|
 | **ID** | 180 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-180`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-180) |
 | **English Name** | Schumann Junior Institute |
@@ -1572,6 +1716,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Seminar Project Jazz Against The Machine
 
 
+|||
+|-----------|-----------|
 | **ID** | 94 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-94`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-94) |
 | **English Name** | Seminar Project Jazz Against The Machine |
@@ -1593,6 +1739,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Song Academy at the HfMT Köln
 
 
+|||
+|-----------|-----------|
 | **ID** | 89 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-89`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-89) |
 | **English Name** | Song Academy at the HfMT Köln |
@@ -1614,6 +1762,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Studiengang Master of Music | Music Education/Music Management
 
 
+|||
+|-----------|-----------|
 | **ID** | 222 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-222`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-222) |
 | **English Name** | Studiengang Master of Music | Music Education/Music Management |
@@ -1635,6 +1785,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Studio for Electronic Music
 
 
+|||
+|-----------|-----------|
 | **ID** | 151 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-151`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-151) |
 | **English Name** | Studio for Electronic Music |
@@ -1656,6 +1808,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Artistic Music Production (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 184 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-184`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-184) |
 | **English Name** | Study Programme Artistic Music Production (M.Mus.) |
@@ -1677,6 +1831,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Audio and Video (B.Eng.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 212 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-212`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-212) |
 | **English Name** | Study Programme Audio and Video (B.Eng.) |
@@ -1698,6 +1854,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Arts | Dance (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 96 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-96`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-96) |
 | **English Name** | Study Programme Bachelor of Arts | Dance (B.A.) |
@@ -1719,6 +1877,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Brass Instruments (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 97 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-97`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-97) |
 | **English Name** | Study Programme Bachelor of Music | Brass Instruments (B.Mus.) |
@@ -1740,6 +1900,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Catholic Church Music (B. Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 51 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-51`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-51) |
 | **English Name** | Study Programme Bachelor of Music | Catholic Church Music (B. Mus.) |
@@ -1761,6 +1923,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Choral Conducting (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 98 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-98`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-98) |
 | **English Name** | Study Programme Bachelor of Music | Choral Conducting (B.Mus.) |
@@ -1782,6 +1946,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 110 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-110`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-110) |
 | **English Name** | Study Programme Bachelor of Music | Church Music (Catholic) (B.Mus.) |
@@ -1803,6 +1969,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 101 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-101`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-101) |
 | **English Name** | Study Programme Bachelor of Music | Church Music (Protestant) (B.Mus.) |
@@ -1824,6 +1992,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Composition/Music Theory
 
 
+|||
+|-----------|-----------|
 | **ID** | 117 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-117`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-117) |
 | **English Name** | Study Programme Bachelor of Music | Composition/Music Theory |
@@ -1845,6 +2015,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Electronic Compostion (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 99 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-99`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-99) |
 | **English Name** | Study Programme Bachelor of Music | Electronic Compostion (B.Mus.) |
@@ -1866,6 +2038,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 100 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-100`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-100) |
 | **English Name** | Study Programme Bachelor of Music | Elementary Music [Pedagogy] (B.Mus.) |
@@ -1887,6 +2061,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Freelance Musician (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 50 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-50`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-50) |
 | **English Name** | Study Programme Bachelor of Music | Freelance Musician (B.Mus.) |
@@ -1908,6 +2084,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Guitar (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 103 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-103`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-103) |
 | **English Name** | Study Programme Bachelor of Music | Guitar (B.Mus.) |
@@ -1929,6 +2107,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Harp (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 104 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-104`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-104) |
 | **English Name** | Study Programme Bachelor of Music | Harp (B.Mus.) |
@@ -1950,6 +2130,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Historic Instruments (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 105 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-105`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-105) |
 | **English Name** | Study Programme Bachelor of Music | Historic Instruments (B.Mus.) |
@@ -1971,6 +2153,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Instrumental Composition (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 108 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-108`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-108) |
 | **English Name** | Study Programme Bachelor of Music | Instrumental Composition (B.Mus.) |
@@ -1992,6 +2176,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 107 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-107`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-107) |
 | **English Name** | Study Programme Bachelor of Music | Instrumental/Vocal Pedagogy (B.Mus.) |
@@ -2013,6 +2199,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Jazz/Pop (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 109 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-109`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-109) |
 | **English Name** | Study Programme Bachelor of Music | Jazz/Pop (B.Mus.) |
@@ -2034,6 +2222,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Mandolin (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 112 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-112`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-112) |
 | **English Name** | Study Programme Bachelor of Music | Mandolin (B.Mus.) |
@@ -2055,6 +2245,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 52 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-52`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-52) |
 | **English Name** | Study Programme Bachelor of Music | Orchesteral Musician (B. Mus.) |
@@ -2076,6 +2268,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 113 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-113`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-113) |
 | **English Name** | Study Programme Bachelor of Music | Orchestral Conducting (B.Mus.) |
@@ -2097,6 +2291,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Organ (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 114 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-114`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-114) |
 | **English Name** | Study Programme Bachelor of Music | Organ (B.Mus.) |
@@ -2118,6 +2314,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 115 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-115`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-115) |
 | **English Name** | Study Programme Bachelor of Music | Percussion/Timpani (B.Mus.) |
@@ -2139,6 +2337,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Piano (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 111 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-111`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-111) |
 | **English Name** | Study Programme Bachelor of Music | Piano (B.Mus.) |
@@ -2160,6 +2360,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 49 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-49`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-49) |
 | **English Name** | Study Programme Bachelor of Music | Protestant Church Music  (B. Mus.) |
@@ -2181,6 +2383,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Strings (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 116 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-116`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-116) |
 | **English Name** | Study Programme Bachelor of Music | Strings (B.Mus.) |
@@ -2202,6 +2406,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Voice (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 102 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-102`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-102) |
 | **English Name** | Study Programme Bachelor of Music | Voice (B.Mus.) |
@@ -2223,6 +2429,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 106 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-106`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-106) |
 | **English Name** | Study Programme Bachelor of Music | Woodwind Instruments (B.Mus.) |
@@ -2244,6 +2452,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Communication Design (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 23 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-23`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-23) |
 | **English Name** | Study Programme Communication Design (B.A.) |
@@ -2265,6 +2475,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Communication Design (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 24 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-24`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-24) |
 | **English Name** | Study Programme Communication Design (M.A.) |
@@ -2286,6 +2498,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Dance Composition | Choreography (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 41 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-41`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-41) |
 | **English Name** | Study Programme Dance Composition | Choreography (M.A.) |
@@ -2307,6 +2521,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Dance Composition | Interpreatation (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 42 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-42`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-42) |
 | **English Name** | Study Programme Dance Composition | Interpreatation (M.A.) |
@@ -2328,6 +2544,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 40 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-40`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-40) |
 | **English Name** | Study Programme Dance Composition | Movement Notation/Movement Analysis (M.A.) |
@@ -2349,6 +2567,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Dance Padagogy for Artistic Dance (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 43 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-43`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-43) |
 | **English Name** | Study Programme Dance Padagogy for Artistic Dance (M.A.) |
@@ -2370,6 +2590,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Design Futures (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-13`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-13) |
 | **English Name** | Study Programme Design Futures (M.A.) |
@@ -2391,6 +2613,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Directing of Vocal Ensembles (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 27 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-27`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-27) |
 | **English Name** | Study Programme Directing of Vocal Ensembles (M.Mus.) |
@@ -2412,6 +2636,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Gregorian Chant (Certificate)
 
 
+|||
+|-----------|-----------|
 | **ID** | 16 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-16`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-16) |
 | **English Name** | Study Programme Gregorian Chant (Certificate) |
@@ -2433,6 +2659,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Instrumental Training (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 17 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-17`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-17) |
 | **English Name** | Study Programme Instrumental Training (B.A.) |
@@ -2454,6 +2682,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Integrative Composition (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 18 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-18`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-18) |
 | **English Name** | Study Programme Integrative Composition (M.Mus.) |
@@ -2475,6 +2705,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Integrative Music Theory (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 19 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-19`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-19) |
 | **English Name** | Study Programme Integrative Music Theory (M.Mus.) |
@@ -2496,6 +2728,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Jazz | Artist Producer (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 20 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-20`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-20) |
 | **English Name** | Study Programme Jazz | Artist Producer (M.Mus.) |
@@ -2517,6 +2751,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Jazz | Improvising Artist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 21 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-21`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-21) |
 | **English Name** | Study Programme Jazz | Improvising Artist (M.Mus.) |
@@ -2538,6 +2774,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Jazz | Performing Artist (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 22 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-22`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-22) |
 | **English Name** | Study Programme Jazz | Performing Artist (B.Mus.) |
@@ -2559,6 +2797,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Klang und Realität (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 183 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-183`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-183) |
 | **English Name** | Study Programme Klang und Realität (M.Mus.) |
@@ -2580,6 +2820,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Arts | Dance Studies (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 121 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-121`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-121) |
 | **English Name** | Study Programme Master of Arts | Dance Studies (M.A.) |
@@ -2601,6 +2843,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Arts | Medition in Dance (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 120 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-120`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-120) |
 | **English Name** | Study Programme Master of Arts | Medition in Dance (M.A.) |
@@ -2622,6 +2866,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Arts | Music Pedagogy (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 118 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-118`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-118) |
 | **English Name** | Study Programme Master of Arts | Music Pedagogy (M.A.) |
@@ -2643,6 +2889,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Arts | Musicology (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 119 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-119`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-119) |
 | **English Name** | Study Programme Master of Arts | Musicology (M.A.) |
@@ -2664,6 +2912,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Accordion | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 53 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-53`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-53) |
 | **English Name** | Study Programme Master of Music | Accordion | Chamber Music (M.Mus.) |
@@ -2685,6 +2935,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 54 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-54`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-54) |
 | **English Name** | Study Programme Master of Music | Accordion | Music and Musicology (M.Mus.) |
@@ -2706,6 +2958,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Accordion | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 55 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-55`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-55) |
 | **English Name** | Study Programme Master of Music | Accordion | Solist (M.Mus.) |
@@ -2727,6 +2981,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 60 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-60`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-60) |
 | **English Name** | Study Programme Master of Music | Bassoon | Chamber Music (M.Mus.) |
@@ -2748,6 +3004,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 61 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-61`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-61) |
 | **English Name** | Study Programme Master of Music | Bassoon | Music and Musicology (M.Mus.) |
@@ -2769,6 +3027,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 62 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-62`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-62) |
 | **English Name** | Study Programme Master of Music | Bassoon | Orchestral Playing (M.Mus.) |
@@ -2790,6 +3050,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Bassoon | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 63 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-63`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-63) |
 | **English Name** | Study Programme Master of Music | Bassoon | Solist (M.Mus.) |
@@ -2811,6 +3073,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Catholic Church Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 75 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-75`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-75) |
 | **English Name** | Study Programme Master of Music | Catholic Church Music (M.Mus.) |
@@ -2832,6 +3096,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 138 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-138`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-138) |
 | **English Name** | Study Programme Master of Music | Chamber Music (M.Mus.) |
@@ -2853,6 +3119,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Choral Conducting (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 123 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-123`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-123) |
 | **English Name** | Study Programme Master of Music | Choral Conducting (M.Mus.) |
@@ -2874,6 +3142,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Church Music (Catholic) (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 139 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-139`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-139) |
 | **English Name** | Study Programme Master of Music | Church Music (Catholic) (M.Mus.) |
@@ -2895,6 +3165,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Church Music (Protestant) (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 128 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-128`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-128) |
 | **English Name** | Study Programme Master of Music | Church Music (Protestant) (M.Mus.) |
@@ -2916,6 +3188,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Conducting Contemporary Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 126 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-126`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-126) |
 | **English Name** | Study Programme Master of Music | Conducting Contemporary Music (M.Mus.) |
@@ -2937,6 +3211,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 124 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-124`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-124) |
 | **English Name** | Study Programme Master of Music | Conducting Musical Theatre  (M.Mus.) |
@@ -2958,6 +3234,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Conducting Orchestra (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 125 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-125`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-125) |
 | **English Name** | Study Programme Master of Music | Conducting Orchestra (M.Mus.) |
@@ -2979,6 +3257,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Electronic Composition (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 127 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-127`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-127) |
 | **English Name** | Study Programme Master of Music | Electronic Composition (M.Mus.) |
@@ -3000,6 +3280,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Flute | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 64 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-64`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-64) |
 | **English Name** | Study Programme Master of Music | Flute | Chamber Music (M.Mus.) |
@@ -3021,6 +3303,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Flute | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 65 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-65`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-65) |
 | **English Name** | Study Programme Master of Music | Flute | Music and Musicology (M.Mus.) |
@@ -3042,6 +3326,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 66 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-66`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-66) |
 | **English Name** | Study Programme Master of Music | Flute | Orchestral Playing (M.Mus.) |
@@ -3063,6 +3349,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Flute | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 67 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-67`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-67) |
 | **English Name** | Study Programme Master of Music | Flute | Solist (M.Mus.) |
@@ -3084,6 +3372,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Guitar (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 131 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-131`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-131) |
 | **English Name** | Study Programme Master of Music | Guitar (M.Mus.) |
@@ -3105,6 +3395,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Guitar | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 69 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-69`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-69) |
 | **English Name** | Study Programme Master of Music | Guitar | Chamber Music (M.Mus.) |
@@ -3126,6 +3418,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 70 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-70`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-70) |
 | **English Name** | Study Programme Master of Music | Guitar | Music and Musicology (M.Mus.) |
@@ -3147,6 +3441,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Guitar | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 68 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-68`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-68) |
 | **English Name** | Study Programme Master of Music | Guitar | Solist (M.Mus.) |
@@ -3168,6 +3464,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Harp (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 132 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-132`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-132) |
 | **English Name** | Study Programme Master of Music | Harp (M.Mus.) |
@@ -3189,6 +3487,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Harp | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 71 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-71`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-71) |
 | **English Name** | Study Programme Master of Music | Harp | Chamber Music (M.Mus.) |
@@ -3210,6 +3510,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Harp | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 72 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-72`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-72) |
 | **English Name** | Study Programme Master of Music | Harp | Music and Musicology (M.Mus.) |
@@ -3231,6 +3533,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 73 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-73`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-73) |
 | **English Name** | Study Programme Master of Music | Harp | Orchestral Playing (M.Mus.) |
@@ -3252,6 +3556,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Harp | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 74 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-74`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-74) |
 | **English Name** | Study Programme Master of Music | Harp | Solist (M.Mus.) |
@@ -3273,6 +3579,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 133 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-133`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-133) |
 | **English Name** | Study Programme Master of Music | Historische Instrumente und Barockgesang (M.Mus.) |
@@ -3294,6 +3602,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Instrumental Composition (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 134 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-134`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-134) |
 | **English Name** | Study Programme Master of Music | Instrumental Composition (M.Mus.) |
@@ -3315,6 +3625,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Interpretation New Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 135 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-135`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-135) |
 | **English Name** | Study Programme Master of Music | Interpretation New Music (M.Mus.) |
@@ -3336,6 +3648,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 136 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-136`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-136) |
 | **English Name** | Study Programme Master of Music | Jazz Composition/Arrangement (M.Mus.) |
@@ -3357,6 +3671,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 137 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-137`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-137) |
 | **English Name** | Study Programme Master of Music | Jazz/Pop Instrumental/Vocal (M.Mus.) |
@@ -3378,6 +3694,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Mandolin (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 142 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-142`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-142) |
 | **English Name** | Study Programme Master of Music | Mandolin (M.Mus.) |
@@ -3399,6 +3717,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Modern Piano Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 143 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-143`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-143) |
 | **English Name** | Study Programme Master of Music | Modern Piano Music (M.Mus.) |
@@ -3420,6 +3740,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Music Theory (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 150 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-150`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-150) |
 | **English Name** | Study Programme Master of Music | Music Theory (M.Mus.) |
@@ -3441,6 +3763,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Oboe | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 221 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-221`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-221) |
 | **English Name** | Study Programme Master of Music | Oboe | Solist (M.Mus.) |
@@ -3462,6 +3786,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Opera Correpetition (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 144 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-144`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-144) |
 | **English Name** | Study Programme Master of Music | Opera Correpetition (M.Mus.) |
@@ -3483,6 +3809,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Orchestral Playing (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 145 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-145`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-145) |
 | **English Name** | Study Programme Master of Music | Orchestral Playing (M.Mus.) |
@@ -3504,6 +3832,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Organ (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 146 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-146`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-146) |
 | **English Name** | Study Programme Master of Music | Organ (M.Mus.) |
@@ -3525,6 +3855,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Organ | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 77 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-77`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-77) |
 | **English Name** | Study Programme Master of Music | Organ | Chamber Music (M.Mus.) |
@@ -3546,6 +3878,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Organ | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 78 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-78`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-78) |
 | **English Name** | Study Programme Master of Music | Organ | Music and Musicology (M.Mus.) |
@@ -3567,6 +3901,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Organ | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 76 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-76`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-76) |
 | **English Name** | Study Programme Master of Music | Organ | Solist (M.Mus.) |
@@ -3588,6 +3924,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Percussion/Timpani (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 148 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-148`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-148) |
 | **English Name** | Study Programme Master of Music | Percussion/Timpani (M.Mus.) |
@@ -3609,6 +3947,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Piano (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 140 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-140`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-140) |
 | **English Name** | Study Programme Master of Music | Piano (M.Mus.) |
@@ -3630,6 +3970,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Production (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 147 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-147`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-147) |
 | **English Name** | Study Programme Master of Music | Production (M.Mus.) |
@@ -3651,6 +3993,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Protestant Church Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 59 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-59`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-59) |
 | **English Name** | Study Programme Master of Music | Protestant Church Music (M.Mus.) |
@@ -3672,6 +4016,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Recorder | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 56 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-56`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-56) |
 | **English Name** | Study Programme Master of Music | Recorder | Chamber Music (M.Mus.) |
@@ -3693,6 +4039,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 57 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-57`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-57) |
 | **English Name** | Study Programme Master of Music | Recorder | Music and Musicology (M.Mus.) |
@@ -3714,6 +4062,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Recorder | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 58 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-58`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-58) |
 | **English Name** | Study Programme Master of Music | Recorder | Solist (M.Mus.) |
@@ -3735,6 +4085,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 80 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-80`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-80) |
 | **English Name** | Study Programme Master of Music | Saxophone | Chamber Music (M.Mus.) |
@@ -3756,6 +4108,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 81 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-81`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-81) |
 | **English Name** | Study Programme Master of Music | Saxophone | Music and Musicology (M.Mus.) |
@@ -3777,6 +4131,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Saxophone | Solist (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 79 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-79`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-79) |
 | **English Name** | Study Programme Master of Music | Saxophone | Solist (M.Mus.) |
@@ -3798,6 +4154,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 141 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-141`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-141) |
 | **English Name** | Study Programme Master of Music | Song Interpretation for Pianists (M.Mus.) |
@@ -3819,6 +4177,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | String Instruments (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 149 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-149`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-149) |
 | **English Name** | Study Programme Master of Music | String Instruments (M.Mus.) |
@@ -3840,6 +4200,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Voice Music Theatre (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 130 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-130`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-130) |
 | **English Name** | Study Programme Master of Music | Voice Music Theatre (M.Mus.) |
@@ -3861,6 +4223,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Voice Song/Concert (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 129 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-129`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-129) |
 | **English Name** | Study Programme Master of Music | Voice Song/Concert (M.Mus.) |
@@ -3882,6 +4246,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Master of Music | Wind Instruments (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 122 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-122`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-122) |
 | **English Name** | Study Programme Master of Music | Wind Instruments (M.Mus.) |
@@ -3903,6 +4269,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Media Creation (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 38 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-38`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-38) |
 | **English Name** | Study Programme Media Creation (M.A.) |
@@ -3924,6 +4292,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music and Media (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 197 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-197`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-197) |
 | **English Name** | Study Programme Music and Media (B.Mus.) |
@@ -3945,6 +4315,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music of the Middle Ages (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 29 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-29`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-29) |
 | **English Name** | Study Programme Music of the Middle Ages (M.Mus.) |
@@ -3966,6 +4338,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Pedagogy (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 30 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-30`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-30) |
 | **English Name** | Study Programme Music Pedagogy (B.A.) |
@@ -3987,6 +4361,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Composition (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 191 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-191`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-191) |
 | **English Name** | Study Programme Music Performance | Composition (B.Mus.) |
@@ -4008,6 +4384,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Composition (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 192 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-192`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-192) |
 | **English Name** | Study Programme Music Performance | Composition (M.Mus.) |
@@ -4029,6 +4407,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Guitar major (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 187 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-187`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-187) |
 | **English Name** | Study Programme Music Performance | Guitar major (B.Mus.) |
@@ -4050,6 +4430,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Guitar major (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 188 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-188`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-188) |
 | **English Name** | Study Programme Music Performance | Guitar major (M.Mus.) |
@@ -4071,6 +4453,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Organ major (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 195 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-195`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-195) |
 | **English Name** | Study Programme Music Performance | Organ major (B.Mus.) |
@@ -4092,6 +4476,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Organ major (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 196 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-196`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-196) |
 | **English Name** | Study Programme Music Performance | Organ major (M.Mus.) |
@@ -4113,6 +4499,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Piano major (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 189 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-189`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-189) |
 | **English Name** | Study Programme Music Performance | Piano major (B.Mus.) |
@@ -4134,6 +4522,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Piano major (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 190 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-190`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-190) |
 | **English Name** | Study Programme Music Performance | Piano major (M.Mus.) |
@@ -4155,6 +4545,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Voice  major (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 186 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-186`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-186) |
 | **English Name** | Study Programme Music Performance | Voice  major (M.Mus.) |
@@ -4176,6 +4568,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Performance | Voice major (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 185 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-185`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-185) |
 | **English Name** | Study Programme Music Performance | Voice major (B.Mus.) |
@@ -4197,6 +4591,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Church Music (catholic) (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 202 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-202`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-202) |
 | **English Name** | Study Programme Music Promotion | Church Music (catholic) (B.Mus.) |
@@ -4218,6 +4614,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Church Music (catholic) (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 203 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-203`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-203) |
 | **English Name** | Study Programme Music Promotion | Church Music (catholic) (M.Mus.) |
@@ -4239,6 +4637,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Church Music (protestant) (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 200 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-200`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-200) |
 | **English Name** | Study Programme Music Promotion | Church Music (protestant) (B.Mus.) |
@@ -4260,6 +4660,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Church Music (protestant) (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 201 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-201`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-201) |
 | **English Name** | Study Programme Music Promotion | Church Music (protestant) (M.Mus.) |
@@ -4281,6 +4683,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 198 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-198`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-198) |
 | **English Name** | Study Programme Music Promotion | Conducting (Choral Conducting) (B.Mus.) |
@@ -4302,6 +4706,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 199 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-199`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-199) |
 | **English Name** | Study Programme Music Promotion | Conducting (Choral Conducting) (M.Mus.) |
@@ -4323,6 +4729,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 207 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-207`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-207) |
 | **English Name** | Study Programme Music Promotion | Conducting (Orchestral Conducting) (B.Mus.) |
@@ -4344,6 +4752,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Music Pedagogy (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 204 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-204`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-204) |
 | **English Name** | Study Programme Music Promotion | Music Pedagogy (B.Mus.) |
@@ -4365,6 +4775,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Music Pedagogy (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 205 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-205`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-205) |
 | **English Name** | Study Programme Music Promotion | Music Pedagogy (M.Mus.) |
@@ -4386,6 +4798,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 208 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-208`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-208) |
 | **English Name** | Study Programme Music Promotion | Music Theory/Aural Skills Training (B.Mus.) |
@@ -4407,6 +4821,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 206 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-206`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-206) |
 | **English Name** | Study Programme Music Promotion | Musiktherorie und Hörerziehung (B.Mus.) |
@@ -4428,6 +4844,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Teaching (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 25 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-25`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-25) |
 | **English Name** | Study Programme Music Teaching (B.A.) |
@@ -4449,6 +4867,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Music Teaching (M.Ed.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 26 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-26`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-26) |
 | **English Name** | Study Programme Music Teaching (M.Ed.) |
@@ -4470,6 +4890,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Musical (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 28 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-28`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-28) |
 | **English Name** | Study Programme Musical (B.A.) |
@@ -4491,6 +4913,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Musicology (B. A./Dual-subject Bachelor)
 
 
+|||
+|-----------|-----------|
 | **ID** | 31 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-31`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-31) |
 | **English Name** | Study Programme Musicology (B. A./Dual-subject Bachelor) |
@@ -4512,6 +4936,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Musicology (B.A./Dual-subject Bachelor)
 
 
+|||
+|-----------|-----------|
 | **ID** | 209 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-209`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-209) |
 | **English Name** | Study Programme Musicology (B.A./Dual-subject Bachelor) |
@@ -4533,6 +4959,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Musicology (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 210 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-210`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-210) |
 | **English Name** | Study Programme Musicology (M.A.) |
@@ -4554,6 +4982,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Musicology (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-32`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-32) |
 | **English Name** | Study Programme Musicology (M.A.) |
@@ -4575,6 +5005,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Orchestral Instruments (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 193 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-193`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-193) |
 | **English Name** | Study Programme Orchestral Instruments (B.Mus.) |
@@ -4596,6 +5028,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Orchestral Instruments (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 194 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-194`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-194) |
 | **English Name** | Study Programme Orchestral Instruments (M.Mus.) |
@@ -4617,6 +5051,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Orchestral Performance (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-33`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-33) |
 | **English Name** | Study Programme Orchestral Performance (M.Mus.) |
@@ -4638,6 +5074,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Orchestral Playing (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 211 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-211`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-211) |
 | **English Name** | Study Programme Orchestral Playing (M.Mus.) |
@@ -4659,6 +5097,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Photography (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 14 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-14`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-14) |
 | **English Name** | Study Programme Photography (B.A.) |
@@ -4680,6 +5120,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Photography Studies and Practice (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 34 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-34`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-34) |
 | **English Name** | Study Programme Photography Studies and Practice (M.A.) |
@@ -4701,6 +5143,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Photography Studies and Research (M.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 35 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-35`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-35) |
 | **English Name** | Study Programme Photography Studies and Research (M.A.) |
@@ -4722,6 +5166,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Popular Music (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 36 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-36`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-36) |
 | **English Name** | Study Programme Popular Music (M.Mus.) |
@@ -4743,6 +5189,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Product Design (B.A.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 37 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-37`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-37) |
 | **English Name** | Study Programme Product Design (B.A.) |
@@ -4764,6 +5212,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Profession Performance (M.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 39 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-39`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-39) |
 | **English Name** | Study Programme Profession Performance (M.Mus.) |
@@ -4785,6 +5235,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Study Programme Voice | Music Theatre (B.Mus.)
 
 
+|||
+|-----------|-----------|
 | **ID** | 15 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-15`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-15) |
 | **English Name** | Study Programme Voice | Music Theatre (B.Mus.) |
@@ -4806,6 +5258,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## tanzhaus nrw
 
 
+|||
+|-----------|-----------|
 | **ID** | 228 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-228`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-228) |
 | **English Name** | tanzhaus nrw |
@@ -4827,6 +5281,8 @@ Organisational Units include degree programmes, research institutes, archives or
 ## Voc.Cologne
 
 
+|||
+|-----------|-----------|
 | **ID** | 153 |
 | **Permanent URL** | `http://w3id.org/arkumu/organisational-units/organisational-unit-153`[🔗](http://w3id.org/arkumu/organisational-units/organisational-unit-153) |
 | **English Name** | Voc.Cologne |

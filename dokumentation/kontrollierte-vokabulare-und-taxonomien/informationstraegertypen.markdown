@@ -46,6 +46,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1 Inch Type A Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32) |
 | **English Name** | 1 Inch Type A Videotape |
@@ -69,6 +71,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1 Inch Type B Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33) |
 | **English Name** | 1 Inch Type B Videotape |
@@ -92,6 +96,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1 Inch Type A Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 32 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-32) |
 | **English Name** | 1 Inch Type A Videotape |
@@ -115,6 +121,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1 Inch Type B Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 33 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-33) |
 | **English Name** | 1 Inch Type B Videotape |
@@ -138,6 +146,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1 Inch Type C Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 34 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-34`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-34) |
 | **English Name** | 1 Inch Type C Videotape |
@@ -162,6 +172,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1/2 Inch Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 35 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-35`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-35) |
 | **English Name** | 1/2 Inch Videotape |
@@ -186,6 +198,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 1/4 Inch Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 36 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-36`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-36) |
 | **English Name** | 1/4 Inch Videotape |
@@ -210,6 +224,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 16 mm Negative Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 97 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-97`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-97) |
 | **English Name** | 16 mm Negative Film |
@@ -233,6 +249,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 16 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 96 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-96`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-96) |
 | **English Name** | 16 mm Positive Film |
@@ -257,6 +275,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 2 Inch Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 37 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-37`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-37) |
 | **English Name** | 2 Inch Videotape |
@@ -281,6 +301,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 22 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 100 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-100`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-100) |
 | **English Name** | 22 mm Positive Film |
@@ -305,6 +327,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 28 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 101 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-101`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-101) |
 | **English Name** | 28 mm Positive Film |
@@ -329,6 +353,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 3,5" Floppy Disk
 
 
+|||
+|-----------|-----------|
 | **ID** | 126 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-126`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-126) |
 | **English Name** | 3,5" Floppy Disk |
@@ -353,6 +379,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 35 mm Black-and-White Photographic Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 111 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-111`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-111) |
 | **English Name** | 35 mm Black-and-White Photographic Film |
@@ -375,6 +403,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 35 mm Negative Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 103 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-103`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-103) |
 | **English Name** | 35 mm Negative Film |
@@ -398,6 +428,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 35 mm Negative Photographic Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 110 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-110`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-110) |
 | **English Name** | 35 mm Negative Photographic Film |
@@ -420,6 +452,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 35 mm Photo Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 108 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-108`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-108) |
 | **English Name** | 35 mm Photo Film |
@@ -444,6 +478,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 35 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 102 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-102`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-102) |
 | **English Name** | 35 mm Positive Film |
@@ -468,6 +504,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 35 mm Reversal Photographic Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 109 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-109`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-109) |
 | **English Name** | 35 mm Reversal Photographic Film |
@@ -492,6 +530,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 5,25" Floppy Disk
 
 
+|||
+|-----------|-----------|
 | **ID** | 127 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-127`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-127) |
 | **English Name** | 5,25" Floppy Disk |
@@ -516,6 +556,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 70 mm Negative Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 105 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-105`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-105) |
 | **English Name** | 70 mm Negative Film |
@@ -539,6 +581,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 70 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 104 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-104`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-104) |
 | **English Name** | 70 mm Positive Film |
@@ -563,6 +607,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 8 mm Negative Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 93 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-93`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-93) |
 | **English Name** | 8 mm Negative Film |
@@ -586,6 +632,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 8 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 92 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-92`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-92) |
 | **English Name** | 8 mm Positive Film |
@@ -610,6 +658,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 8-track Tape
 
 
+|||
+|-----------|-----------|
 | **ID** | 67 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-67`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-67) |
 | **English Name** | 8-track Tape |
@@ -637,6 +687,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## 9,5 mm Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 95 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-95`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-95) |
 | **English Name** | 9,5 mm Film |
@@ -661,6 +713,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## ADAT
 
 
+|||
+|-----------|-----------|
 | **ID** | 80 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-80`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-80) |
 | **English Name** | ADAT |
@@ -684,6 +738,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## APS Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 107 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-107`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-107) |
 | **English Name** | APS Film |
@@ -706,6 +762,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Audio Cassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 60 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-60`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-60) |
 | **English Name** | Audio Cassette |
@@ -730,6 +788,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Audio CD
 
 
+|||
+|-----------|-----------|
 | **ID** | 85 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-85`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-85) |
 | **English Name** | Audio CD |
@@ -755,6 +815,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Betacam
 
 
+|||
+|-----------|-----------|
 | **ID** | 2 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-2`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-2) |
 | **English Name** | Betacam |
@@ -779,6 +841,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Betacam SP
 
 
+|||
+|-----------|-----------|
 | **ID** | 3 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-3`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-3) |
 | **English Name** | Betacam SP |
@@ -802,6 +866,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Betacam SX
 
 
+|||
+|-----------|-----------|
 | **ID** | 4 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-4`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-4) |
 | **English Name** | Betacam SX |
@@ -825,6 +891,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Betamax
 
 
+|||
+|-----------|-----------|
 | **ID** | 5 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-5`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-5) |
 | **English Name** | Betamax |
@@ -849,6 +917,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Blu-ray Audio Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 89 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-89`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-89) |
 | **English Name** | Blu-ray Audio Disc |
@@ -873,6 +943,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Blu-ray Video Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 39 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-39`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-39) |
 | **English Name** | Blu-ray Video Disc |
@@ -898,6 +970,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Catrivision
 
 
+|||
+|-----------|-----------|
 | **ID** | 6 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-6`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-6) |
 | **English Name** | Catrivision |
@@ -921,6 +995,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Coarse Groove Record
 
 
+|||
+|-----------|-----------|
 | **ID** | 54 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-54`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-54) |
 | **English Name** | Coarse Groove Record |
@@ -944,6 +1020,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Compact LaserDisc
 
 
+|||
+|-----------|-----------|
 | **ID** | 86 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-86`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-86) |
 | **English Name** | Compact LaserDisc |
@@ -966,6 +1044,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## D1
 
 
+|||
+|-----------|-----------|
 | **ID** | 7 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-7`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-7) |
 | **English Name** | D1 |
@@ -989,6 +1069,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## D2
 
 
+|||
+|-----------|-----------|
 | **ID** | 8 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-8`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-8) |
 | **English Name** | D2 |
@@ -1012,6 +1094,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## D3
 
 
+|||
+|-----------|-----------|
 | **ID** | 9 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-9`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-9) |
 | **English Name** | D3 |
@@ -1035,6 +1119,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## D5
 
 
+|||
+|-----------|-----------|
 | **ID** | 10 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-10`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-10) |
 | **English Name** | D5 |
@@ -1058,6 +1144,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## D6
 
 
+|||
+|-----------|-----------|
 | **ID** | 11 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-11`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-11) |
 | **English Name** | D6 |
@@ -1082,6 +1170,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## D9
 
 
+|||
+|-----------|-----------|
 | **ID** | 12 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-12`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-12) |
 | **English Name** | D9 |
@@ -1106,6 +1196,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DASH Open Reel Tape
 
 
+|||
+|-----------|-----------|
 | **ID** | 74 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-74`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-74) |
 | **English Name** | DASH Open Reel Tape |
@@ -1128,6 +1220,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DAT
 
 
+|||
+|-----------|-----------|
 | **ID** | 79 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-79`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-79) |
 | **English Name** | DAT |
@@ -1151,6 +1245,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Data Blu-ray
 
 
+|||
+|-----------|-----------|
 | **ID** | 122 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-122`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-122) |
 | **English Name** | Data Blu-ray |
@@ -1175,6 +1271,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Data CD
 
 
+|||
+|-----------|-----------|
 | **ID** | 124 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-124`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-124) |
 | **English Name** | Data CD |
@@ -1198,6 +1296,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Data DVD
 
 
+|||
+|-----------|-----------|
 | **ID** | 121 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-121`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-121) |
 | **English Name** | Data DVD |
@@ -1221,6 +1321,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DCT
 
 
+|||
+|-----------|-----------|
 | **ID** | 13 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-13`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-13) |
 | **English Name** | DCT |
@@ -1244,6 +1346,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Dictabelt
 
 
+|||
+|-----------|-----------|
 | **ID** | 48 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-48`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-48) |
 | **English Name** | Dictabelt |
@@ -1268,6 +1372,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Dictation Cylinder
 
 
+|||
+|-----------|-----------|
 | **ID** | 52 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-52`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-52) |
 | **English Name** | Dictation Cylinder |
@@ -1291,6 +1397,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Digital Audio Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 72 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-72`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-72) |
 | **English Name** | Digital Audio Storage Medium |
@@ -1312,6 +1420,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Digital Betacam
 
 
+|||
+|-----------|-----------|
 | **ID** | 14 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-14`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-14) |
 | **English Name** | Digital Betacam |
@@ -1336,6 +1446,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Digital Compact Cassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 82 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-82`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-82) |
 | **English Name** | Digital Compact Cassette |
@@ -1359,6 +1471,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Digital8
 
 
+|||
+|-----------|-----------|
 | **ID** | 15 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-15`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-15) |
 | **English Name** | Digital8 |
@@ -1383,6 +1497,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DTRS
 
 
+|||
+|-----------|-----------|
 | **ID** | 81 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-81`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-81) |
 | **English Name** | DTRS |
@@ -1407,6 +1523,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DV
 
 
+|||
+|-----------|-----------|
 | **ID** | 16 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-16`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-16) |
 | **English Name** | DV |
@@ -1430,6 +1548,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DVCAM
 
 
+|||
+|-----------|-----------|
 | **ID** | 17 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-17`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-17) |
 | **English Name** | DVCAM |
@@ -1453,6 +1573,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DVCPRO
 
 
+|||
+|-----------|-----------|
 | **ID** | 18 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-18`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-18) |
 | **English Name** | DVCPRO |
@@ -1477,6 +1599,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## DVD-Audio
 
 
+|||
+|-----------|-----------|
 | **ID** | 88 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-88`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-88) |
 | **English Name** | DVD-Audio |
@@ -1501,6 +1625,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## EVD
 
 
+|||
+|-----------|-----------|
 | **ID** | 41 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-41`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-41) |
 | **English Name** | EVD |
@@ -1525,6 +1651,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Executive Cassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 61 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-61`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-61) |
 | **English Name** | Executive Cassette |
@@ -1547,6 +1675,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Fidelipac
 
 
+|||
+|-----------|-----------|
 | **ID** | 65 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-65`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-65) |
 | **English Name** | Fidelipac |
@@ -1570,6 +1700,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Grooved Analog Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 53 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-53`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-53) |
 | **English Name** | Grooved Analog Disc |
@@ -1594,6 +1726,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## HD
 
 
+|||
+|-----------|-----------|
 | **ID** | 128 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-128`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-128) |
 | **English Name** | HD |
@@ -1620,6 +1754,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## HDCAM
 
 
+|||
+|-----------|-----------|
 | **ID** | 19 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-19`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-19) |
 | **English Name** | HDCAM |
@@ -1644,6 +1780,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## HDV
 
 
+|||
+|-----------|-----------|
 | **ID** | 20 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-20`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-20) |
 | **English Name** | HDV |
@@ -1667,6 +1805,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Hi8
 
 
+|||
+|-----------|-----------|
 | **ID** | 21 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-21`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-21) |
 | **English Name** | Hi8 |
@@ -1691,6 +1831,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Large Format
 
 
+|||
+|-----------|-----------|
 | **ID** | 116 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-116`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-116) |
 | **English Name** | Large Format |
@@ -1714,6 +1856,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## LaserDisc
 
 
+|||
+|-----------|-----------|
 | **ID** | 42 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-42`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-42) |
 | **English Name** | LaserDisc |
@@ -1738,6 +1882,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## M-Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 123 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-123`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-123) |
 | **English Name** | M-Disc |
@@ -1760,6 +1906,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Magnetic Audio Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 57 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-57`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-57) |
 | **English Name** | Magnetic Audio Storage Medium |
@@ -1781,6 +1929,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Magnetic Audio Tape
 
 
+|||
+|-----------|-----------|
 | **ID** | 58 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-58`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-58) |
 | **English Name** | Magnetic Audio Tape |
@@ -1804,6 +1954,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Magnetic Sound Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 68 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-68`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-68) |
 | **English Name** | Magnetic Sound Disc |
@@ -1827,6 +1979,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Magnetic Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 125 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-125`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-125) |
 | **English Name** | Magnetic Storage Medium |
@@ -1848,6 +2002,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Magneto-digital Audio Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 73 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-73`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-73) |
 | **English Name** | Magneto-digital Audio Storage Medium |
@@ -1870,6 +2026,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Mechanical Audio Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 47 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-47`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-47) |
 | **English Name** | Mechanical Audio Storage Medium |
@@ -1891,6 +2049,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Medium Format
 
 
+|||
+|-----------|-----------|
 | **ID** | 112 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-112`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-112) |
 | **English Name** | Medium Format |
@@ -1913,6 +2073,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Medium Format Black-and-White Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 115 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-115`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-115) |
 | **English Name** | Medium Format Black-and-White Film |
@@ -1935,6 +2097,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Medium Format Negative Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 114 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-114`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-114) |
 | **English Name** | Medium Format Negative Film |
@@ -1957,6 +2121,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Medium Format Reversal Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 113 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-113`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-113) |
 | **English Name** | Medium Format Reversal Film |
@@ -1979,6 +2145,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Microcassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 63 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-63`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-63) |
 | **English Name** | Microcassette |
@@ -2002,6 +2170,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Microfilm
 
 
+|||
+|-----------|-----------|
 | **ID** | 119 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-119`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-119) |
 | **English Name** | Microfilm |
@@ -2024,6 +2194,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Microform
 
 
+|||
+|-----------|-----------|
 | **ID** | 117 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-117`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-117) |
 | **English Name** | Microform |
@@ -2045,6 +2217,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Microgroove Record
 
 
+|||
+|-----------|-----------|
 | **ID** | 55 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-55`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-55) |
 | **English Name** | Microgroove Record |
@@ -2067,6 +2241,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## MII
 
 
+|||
+|-----------|-----------|
 | **ID** | 22 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-22`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-22) |
 | **English Name** | MII |
@@ -2090,6 +2266,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Mikrofiche
 
 
+|||
+|-----------|-----------|
 | **ID** | 118 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-118`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-118) |
 | **English Name** | Mikrofiche |
@@ -2114,6 +2292,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Mini-Cassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 62 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-62`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-62) |
 | **English Name** | Mini-Cassette |
@@ -2139,6 +2319,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## MiniDisc
 
 
+|||
+|-----------|-----------|
 | **ID** | 90 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-90`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-90) |
 | **English Name** | MiniDisc |
@@ -2163,6 +2345,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## MiniDV
 
 
+|||
+|-----------|-----------|
 | **ID** | 23 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-23`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-23) |
 | **English Name** | MiniDV |
@@ -2187,6 +2371,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Monograph
 
 
+|||
+|-----------|-----------|
 | **ID** | 134 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-134`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-134) |
 | **English Name** | Monograph |
@@ -2211,6 +2397,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Moving Image Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 91 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-91`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-91) |
 | **English Name** | Moving Image Film |
@@ -2235,6 +2423,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Musical Notation
 
 
+|||
+|-----------|-----------|
 | **ID** | 135 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-135`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-135) |
 | **English Name** | Musical Notation |
@@ -2258,6 +2448,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Narrow Groove Cylinder
 
 
+|||
+|-----------|-----------|
 | **ID** | 51 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-51`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-51) |
 | **English Name** | Narrow Groove Cylinder |
@@ -2282,6 +2474,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Normal Groove Cylinder
 
 
+|||
+|-----------|-----------|
 | **ID** | 50 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-50`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-50) |
 | **English Name** | Normal Groove Cylinder |
@@ -2306,6 +2500,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## NT cassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 83 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-83`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-83) |
 | **English Name** | NT cassette |
@@ -2329,6 +2525,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Open Reel Audiotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 59 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-59`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-59) |
 | **English Name** | Open Reel Audiotape |
@@ -2352,6 +2550,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Open Reel Videotape
 
 
+|||
+|-----------|-----------|
 | **ID** | 31 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-31`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-31) |
 | **English Name** | Open Reel Videotape |
@@ -2376,6 +2576,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Optical Audio Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 70 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-70`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-70) |
 | **English Name** | Optical Audio Storage Medium |
@@ -2397,6 +2599,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Optical Sound Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 71 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-71`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-71) |
 | **English Name** | Optical Sound Film |
@@ -2421,6 +2625,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Optical Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 120 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-120`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-120) |
 | **English Name** | Optical Storage Medium |
@@ -2443,6 +2649,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Optical Video Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 38 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-38`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-38) |
 | **English Name** | Optical Video Disc |
@@ -2465,6 +2673,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Opto-digital Audio Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 84 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-84`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-84) |
 | **English Name** | Opto-digital Audio Storage Medium |
@@ -2487,6 +2697,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## PCM Betamax
 
 
+|||
+|-----------|-----------|
 | **ID** | 76 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-76`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-76) |
 | **English Name** | PCM Betamax |
@@ -2510,6 +2722,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## PCM U-Matic
 
 
+|||
+|-----------|-----------|
 | **ID** | 77 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-77`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-77) |
 | **English Name** | PCM U-Matic |
@@ -2533,6 +2747,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## PCM VHS
 
 
+|||
+|-----------|-----------|
 | **ID** | 78 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-78`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-78) |
 | **English Name** | PCM VHS |
@@ -2556,6 +2772,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Periodical
 
 
+|||
+|-----------|-----------|
 | **ID** | 133 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-133`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-133) |
 | **English Name** | Periodical |
@@ -2579,6 +2797,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Phonograph Cylinder
 
 
+|||
+|-----------|-----------|
 | **ID** | 49 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-49`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-49) |
 | **English Name** | Phonograph Cylinder |
@@ -2605,6 +2825,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Photographic Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 106 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-106`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-106) |
 | **English Name** | Photographic Film |
@@ -2626,6 +2848,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Picocassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 64 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-64`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-64) |
 | **English Name** | Picocassette |
@@ -2648,6 +2872,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Pro Digi Open Reel Tape
 
 
+|||
+|-----------|-----------|
 | **ID** | 75 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-75`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-75) |
 | **English Name** | Pro Digi Open Reel Tape |
@@ -2670,6 +2896,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## S-VHS
 
 
+|||
+|-----------|-----------|
 | **ID** | 27 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-27`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-27) |
 | **English Name** | S-VHS |
@@ -2692,6 +2920,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Solid State Storage Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 129 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-129`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-129) |
 | **English Name** | Solid State Storage Medium |
@@ -2713,6 +2943,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## SSD
 
 
+|||
+|-----------|-----------|
 | **ID** | 130 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-130`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-130) |
 | **English Name** | SSD |
@@ -2737,6 +2969,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Stereo-Pak
 
 
+|||
+|-----------|-----------|
 | **ID** | 66 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-66`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-66) |
 | **English Name** | Stereo-Pak |
@@ -2761,6 +2995,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Super 16 mm Negative Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 99 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-99`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-99) |
 | **English Name** | Super 16 mm Negative Film |
@@ -2784,6 +3020,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Super 16 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 98 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-98`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-98) |
 | **English Name** | Super 16 mm Positive Film |
@@ -2808,6 +3046,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Super 8 mm Positive Film
 
 
+|||
+|-----------|-----------|
 | **ID** | 94 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-94`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-94) |
 | **English Name** | Super 8 mm Positive Film |
@@ -2833,6 +3073,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Super Audio CD
 
 
+|||
+|-----------|-----------|
 | **ID** | 87 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-87`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-87) |
 | **English Name** | Super Audio CD |
@@ -2857,6 +3099,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Super Video CD
 
 
+|||
+|-----------|-----------|
 | **ID** | 44 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-44`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-44) |
 | **English Name** | Super Video CD |
@@ -2880,6 +3124,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Tefifon Tape
 
 
+|||
+|-----------|-----------|
 | **ID** | 56 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-56`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-56) |
 | **English Name** | Tefifon Tape |
@@ -2902,6 +3148,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Text Medium
 
 
+|||
+|-----------|-----------|
 | **ID** | 132 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-132`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-132) |
 | **English Name** | Text Medium |
@@ -2926,6 +3174,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## U-matic
 
 
+|||
+|-----------|-----------|
 | **ID** | 24 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-24`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-24) |
 | **English Name** | U-matic |
@@ -2950,6 +3200,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Universal Media Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 45 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-45`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-45) |
 | **English Name** | Universal Media Disc |
@@ -2973,6 +3225,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## USB Flash Drive
 
 
+|||
+|-----------|-----------|
 | **ID** | 131 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-131`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-131) |
 | **English Name** | USB Flash Drive |
@@ -2999,6 +3253,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## V-Cord
 
 
+|||
+|-----------|-----------|
 | **ID** | 25 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-25`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-25) |
 | **English Name** | V-Cord |
@@ -3022,6 +3278,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## VHS
 
 
+|||
+|-----------|-----------|
 | **ID** | 26 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-26`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-26) |
 | **English Name** | VHS |
@@ -3045,6 +3303,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## VHS-C
 
 
+|||
+|-----------|-----------|
 | **ID** | 28 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-28`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-28) |
 | **English Name** | VHS-C |
@@ -3067,6 +3327,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Video CD
 
 
+|||
+|-----------|-----------|
 | **ID** | 43 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-43`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-43) |
 | **English Name** | Video CD |
@@ -3091,6 +3353,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Video-DVD
 
 
+|||
+|-----------|-----------|
 | **ID** | 40 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-40`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-40) |
 | **English Name** | Video-DVD |
@@ -3115,6 +3379,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Video8
 
 
+|||
+|-----------|-----------|
 | **ID** | 29 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-29`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-29) |
 | **English Name** | Video8 |
@@ -3138,6 +3404,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Videocassette
 
 
+|||
+|-----------|-----------|
 | **ID** | 1 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-1`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-1) |
 | **English Name** | Videocassette |
@@ -3162,6 +3430,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## VX
 
 
+|||
+|-----------|-----------|
 | **ID** | 30 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-30`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-30) |
 | **English Name** | VX |
@@ -3185,6 +3455,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## Wire Recording
 
 
+|||
+|-----------|-----------|
 | **ID** | 69 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-69`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-69) |
 | **English Name** | Wire Recording |
@@ -3209,6 +3481,8 @@ Information Storage Medium Types are used to classify Information Storage Media.
 ## XDCAM Disc
 
 
+|||
+|-----------|-----------|
 | **ID** | 46 |
 | **Permanent URL** | `http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-46`[🔗](http://w3id.org/arkumu/information-storage-medium-types/information-storage-medium-type-46) |
 | **English Name** | XDCAM Disc |
