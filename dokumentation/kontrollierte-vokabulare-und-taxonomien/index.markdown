@@ -45,7 +45,7 @@ In arkumu.nrw, controlled vocabularies appear in two forms: value lists and taxo
 
 **Deutsch:**
 
-Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei werden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie programmatisch verfügbar sind; d.h. sie können direkt und aktiv in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
+Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei werden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie über [Flexsearch](https://github.com/skohub-io/skohub-vocabs#tokenizer) programmatisch verfügbar sind; d.h. sie können direkt und aktiv in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
 
 Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegt und über GitHub Pages veröffentlicht. Wie sie gepflegt werden können, ist dort beschrieben. Es wird www.w3id.org als Provider für permanente URLs benutzt.
 
@@ -55,7 +55,7 @@ Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.c
 
 **English:**
 
-As part of a revision in 2026, all vocabularies were converted to the SKOS format. During this process, they were consolidated and logically validated. They are now available at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/). Their publication via the [https://skohub.io](https://skohub.io) workflow means they are programmatically accessible; that is, they can be used directly/actively in input forms. Since they were published under a CC0 license, they are also directly available to other initiatives seeking to document cultural heritage. 
+As part of a revision in 2026, all vocabularies were converted to the SKOS format. During this process, they were consolidated and logically validated. They are now available at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/). Their publication via the [https://skohub.io](https://skohub.io) workflow means they are programmatically accessible via [Flexsearch](https://github.com/skohub-io/skohub-vocabs#tokenizer); that is, they can be used directly/actively in input forms. Since they were published under a CC0 license, they are also directly available to other initiatives seeking to document cultural heritage. 
 
 The vocabularies (as well as docs.arkumu.nrw) are maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages. Instructions on how to maintain them are provided there. We use www.w3id.org as provider for permanent URLs.
 
