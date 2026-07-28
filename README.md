@@ -8,20 +8,11 @@ The published website is available at <https://docs.arkumu.nrw/>.
 
 ----
 
-## ❗ Update
-
-Um die Seite mit Suche lokal zu starten, muss sie mit <code>npm run dev</code> geöffnet werden. Änderungen werden dann allerdings nicht mehr sofort angezeigt. Für Updates muss erst ein neuer Build gemacht werden. Für Bearbeitungen empfiehlt sich weiterhin die lokale Ausführung direkt über [Jekyll](#installation) oder über [Docker](#dockerization).
-
-To start the page locally with a working search, it must be started with <code>npm run dev</code>. However, changes will no longer be displayed immediately. A new build must first be created to see updates. For editing, we still recommend running the site directly via [Jekyll](#installation) or running it via [Docker](#dockerization).
-
-----
-
 ## Inhaltsverzeichnis | Table of Contents
 
 1. [Basis-Konzepte | Basic Concepts](#basis-konzepte--basic-concepts)
 2. [Struktur | Structure](#struktur--structure)
 3. [Dockerization](#dockerization)
-4. [Installation](#installation)
 
 ----
 
@@ -63,17 +54,10 @@ arkumu-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment optimiz
 
 ## Dockerization
 
-### Vollzogene Schritte / Steps taken
+Diese beiden Dateien ermöglichen ein einfaches lokales Starten der Seite in Docker. | These two files make it possible to easily run the site locally in Docker:
 
-Für eine einfache Benutzung in Docker wurden folgende Schritte unternommen. | The following steps were taken to make the use of Docker easy.
-
-#### 1. **Erstellen des Dockerfile / Creation of the Docker file**  
-Es wurde eine <code>Dockerfile</code> erstellt, die ein Ruby-System, in Version 3.2.3, im Container installiert. Das ist die Version, die zur Erstellung von arkumu-Docs verwendet wurde. Es werden alle Dateien übertragen inklusive der Informationen wie sie in der Gemfile spezifiziert sind. Der Port ist ursprünglich 0.0.0.0 und wird auf [http://localhost:4000/](http://localhost:4000/) lokal gehostet. Die Jekyll-Einstellung <code>--force-polling</code> ermöglicht das automatische neuladen der Jekyll-App im Container. Ebenso ist der Live-Reload von Jekyll mit <code>--livereload</code> aktiviert, was aber in einem Container-Build nur mäßig sinnvoll ist. Er kann bei Bedarf in der Dockerfile und in der unten stehenden <code>docker-compose.yml</code> samt des Port entfernt werden. | A <code>Dockerfile</code> was created that installs a Ruby, version 3.2.3, in the container. That's the version used for creating arkumu-Docs. All files are transferred including the information as specified in the Gemfile. The port is originally 0.0.0.0 and is hosted locally on http://localhost:4000/. The Jekyll setting <code>--force-polling</code> enables the automatic reload of the Jekyll app in the container. The live reload of Jekyll is also activated with <code>--livereload</code>, but this is only moderately useful in a container build. If required, it can be removed in the Dockerfile and in the <code>docker-compose.yml</code> below, along with the used port.
-
-#### 2. **Erstellen der docker-compose.yml | Creation of the docker-compose.yaml**
-
-Die .yml-Datei spezifiziert das automatischen Neu-Laden des Containers und die Ausgabe auf Port 4000. Sie enthält den Container-Namen und baut bei jedem Neuladen die gesamte App. Hier kann noch weiter verbessert werden, dass nicht alles immer neu geladen wird. Port 35729 ist der Live-Reload-Port von Jekyll. Diesen und das <code>--livereload</code> unter <code>command:</code> entfernen, damit es ausgeschaltet wird. |  The .yml file is for automatically reloading the container and refreshing to port 4000. It contains the container name and builds the entire app each time it is reloaded. This can be further improved so that not everything is always reloaded. Port 35729 is Jekyll's live reload port. Remove port and the <code>--livereload</code> under <code>command:</code> to turn it off.
-
+- Dockerfile
+- docker-compose.yml
 
 ### Docker starten
 
@@ -81,6 +65,10 @@ Die Installation ist einfach und benötigt nur zwei Schritte. | The installation
 
 Vorraussetzung: | Requirement: Docker ist installiert und läuft. | Docker is installed and running. 
 
-1. Normal das GitHub-Repo klonen: | Simply clone the git repo: <code>git clone https://github.com/arkumu/arkumu.github.io.git</code>.
+1. Das GitHub-Repo klonen: | Clone the git repo: <code>git clone https://github.com/arkumu/arkumu.github.io.git</code>.
 
-2. Den Docker Container mit <code>docker compose up</code> starten. | Start the docker container with <code>docker compose up</code>.
+2. Den Docker Container starten: | Start the docker container with: <code>docker compose up</code>.
+
+### Einschränkungen / Alternative zu Docker
+
+Die Suchfunktion über Pagefind ist nicht Teil der Docker-Installation. Um die volle Funktionalität auch lokal nutzen zu können, kann die Seite auch direkt über Jekyll mit <code>npm run dev</code> gestartet werden. Siehe `_serve-locally-without-docker.sh` | The search function via Pagefind is not part of the Docker installation. To be able to use the full functionality locally, the site can also be launched directly via Jekyll with <code>npm run dev</code>. See `_serve-locally-without-docker.sh`
