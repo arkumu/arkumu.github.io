@@ -9,13 +9,22 @@ permalink: /documentation/controlled-vocabularies/roles
 
 <br/>
 
+Permanent URL: [http://w3id.org/arkumu/roles](http://w3id.org/arkumu/roles)
+
 ---
 
 <br/>
 
 **Deutsch:**
 
-Rollen beschreiben die Berufe und Tätigkeiten von Akteur:innen innerhalb des arkumu.nrw-Systems. Sie können auf zweierlei Weise verwendet werden: als globale Rollen, die eine Akteur:in immer – unabhängig vom Kontext – innehat, und als kontextuelle Rollen in Bezug auf ein bestimmtes Ereignis. Um das Spektrum aller Berufe und Tätigkeiten abbilden zu können, ist arkumu.nrw nicht auf künstlerische Rollen beschränkt.
+Rollen beschreiben die Tätigkeiten von Akteur:innen in Ereignissen  – siehe [Entitäten und Attribute des Datenmodells](/resources/entities-and-attributes-of-the-data-model.html#ereignis-akteurinnen-rollen-und-rechteangaben).
+
+Die Taxonomie gibt zusätzlich an, ob eine von ein:er Akteur:in eingenommene Rolle üblicherweise zu Urheberrechten und/oder Leistungsschutzrechten führt. Ist eine Person beispielsweise „Komponist:in“ oder “Künstler:in” in einem Ereignis, dann besitzt sie mit großer Wahrscheinlichkeit Urheberrechte an dem verknüpften Projekt. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungsschutzrechte.
+
+Die Rollen-Taxonomie wurde in Teilen auch benutzt, um als Teil der biografischen Erschließung Berufe von Akteur:innen abzubilden. Diese Informationen sollten in Zukunft nicht Teil der Rollen-Taxonomie sein, die auf künstlerische Rollen beschränkt sein sollte. Damit wird diese Taxonomie universell im Kulturerbe-Bereich einsetzbar.
+
+ⓘ Im Folgenden wird zur besseren Lesbarkeit und Auffindbarkeit das initial erstellte Vokabular aufgeführt. Die auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegte und über GitHub Pages auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) veröffentlichte Fassung ist möglicherweise aktueller und als verbindlich anzusehen.
+
 
 <br/>
 
@@ -25,1684 +34,16 @@ Rollen beschreiben die Berufe und Tätigkeiten von Akteur:innen innerhalb des ar
 
 **English:**
 
-Roles describe the professions and activities of actors within the arkumu.nrw system. They can be used in two ways: as global roles, which an actor holds independently of any specific context, and as contextual roles, which apply only in relation to a particular event.
-To reflect the full range of professions and activities, arkumu.nrw is not limited to artistic roles.
+Roles describe the activities of actors in events – see [Entities and Attributes of the Data Model](/resources/entities-and-attributes-of-the-data-model.html#event-participants-roles-and-rights-specifications).
 
+The taxonomy also specifies whether a role assumed by a participant typically results in copyright and/or Leistungsschutzrecht („ancillary copyright“). For example, if a person is a „composer“ or „artist“ in an event, they are highly likely to hold copyright in the associated project. If a participant is the „producer“ of a film, they are likely to hold Leistungsschutzrecht.
 
-<br/>
+The role taxonomy was also used in part to map the professions of participants as part of biographical cataloguing. In future, this information should not form part of the role taxonomy, which should be limited to artistic roles. This makes this taxonomy universally applicable in the field of cultural heritage.
 
----
-
-<br/>
-
-Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte Ansicht des Vokabulars verweisen, die extern gehostet wird. Künstlerische Rollen sollten getrennt aufgeführt werden von "globalen Rollen" oder Berufen, die nur für die biographische Beschreibungen verwendet werden. Damit würde diese Rollen-Taxonomie universeller im Kulturerbe-Bereich einsetzbar.| Please note: In future, this page will link to an automatically generated, externally hosted view of this vocabulary. Artistic roles should be separated from non-artistic "global roles" or professions, which are only used for biographical descriptions. This would make this taxonomy more universally applicable in the field of cultural heritage. |
-
-| Format | Link | Last Updated |
-|-----------|-----------|-----------|
-| **SKOS/RDF** | <https://docs.arkumu.nrw/assets/documents/___.rdf> | _TODO_ |
-| **SKOS/Turtle** | <https://docs.arkumu.nrw/assets/documents/___.ttl> | _TODO_ |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Roles.xlsx> | _TODO_ |
-| **CSV** | <https://docs.arkumu.nrw/assets/documents/Roles.csv> | 2025-10-16 |
-| **Excel** | <https://docs.arkumu.nrw/assets/documents/Roles.xlsx> | 2025-10-16 |
-| **PDF** | <https://docs.arkumu.nrw/assets/documents/Roles.pdf> | 2025-10-16 |
-
-
+ⓘ The vocabulary initially created is documented below for easier reading and reference. The version maintained on [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) and published via GitHub Pages at [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) might be more up-to-date and should be considered authoritative.
 
 <br/>
 
----
-
-<br/>
-
-<details><summary>Roles ordered by ID | Rollen nach ID geordnet</summary>
-<table>
-<tr><th>ID</th><th>German Name</th><th>English Name</th></tr>
-<tr><td><a href='#role-1'>1</a></td><td><a href='#role-1'>1. Kameraassistenz</a></td><td><a href='#role-1'>1st assistant camera</a></td></tr>
-<tr><td><a href='#role-2'>2</a></td><td><a href='#role-2'>2. Kameraassistenz</a></td><td><a href='#role-2'>2nd assistant camera</a></td></tr>
-<tr><td><a href='#role-3'>3</a></td><td><a href='#role-3'>Absolvent:in</a></td><td><a href='#role-3'>graduate</a></td></tr>
-<tr><td><a href='#role-4'>4</a></td><td><a href='#role-4'>Agent:in</a></td><td><a href='#role-4'>agent</a></td></tr>
-<tr><td><a href='#role-5'>5</a></td><td><a href='#role-5'>Amateur:in</a></td><td><a href='#role-5'>amateur</a></td></tr>
-<tr><td><a href='#role-6'>6</a></td><td><a href='#role-6'>Animation</a></td><td><a href='#role-6'>animation</a></td></tr>
-<tr><td><a href='#role-7'>7</a></td><td><a href='#role-7'>Anthropolog:in</a></td><td><a href='#role-7'>anthropologist</a></td></tr>
-<tr><td><a href='#role-8'>8</a></td><td><a href='#role-8'>Archäolog:in</a></td><td><a href='#role-8'>archaeologist</a></td></tr>
-<tr><td><a href='#role-9'>9</a></td><td><a href='#role-9'>Archivar:in</a></td><td><a href='#role-9'>archivist</a></td></tr>
-<tr><td><a href='#role-10'>10</a></td><td><a href='#role-10'>Arrangeur:in</a></td><td><a href='#role-10'>music arranger</a></td></tr>
-<tr><td><a href='#role-11'>11</a></td><td><a href='#role-11'>Arzt/Ärztin</a></td><td><a href='#role-11'>physician</a></td></tr>
-<tr><td><a href='#role-12'>12</a></td><td><a href='#role-12'>Augenarzt/Augenärztin</a></td><td><a href='#role-12'>ophthalmologist</a></td></tr>
-<tr><td><a href='#role-13'>13</a></td><td><a href='#role-13'>Assistent:in</a></td><td><a href='#role-13'>assistant</a></td></tr>
-<tr><td><a href='#role-14'>14</a></td><td><a href='#role-14'>Aufnahmeexpert:in</a></td><td><a href='#role-14'>recording expert</a></td></tr>
-<tr><td><a href='#role-15'>15</a></td><td><a href='#role-15'>Aufnahmeleiter:in</a></td><td><a href='#role-15'>recording supervisor</a></td></tr>
-<tr><td><a href='#role-16'>16</a></td><td><a href='#role-16'>Tonmeister:in</a></td><td><a href='#role-16'>tonmeister</a></td></tr>
-<tr><td><a href='#role-17'>17</a></td><td><a href='#role-17'>Auftraggeber:in</a></td><td><a href='#role-17'>commissioner</a></td></tr>
-<tr><td><a href='#role-18'>18</a></td><td><a href='#role-18'>Autor:in</a></td><td><a href='#role-18'>author</a></td></tr>
-<tr><td><a href='#role-19'>19</a></td><td><a href='#role-19'>Dramatiker:in</a></td><td><a href='#role-19'>playwright</a></td></tr>
-<tr><td><a href='#role-20'>20</a></td><td><a href='#role-20'>Romanautor:in</a></td><td><a href='#role-20'>novelist</a></td></tr>
-<tr><td><a href='#role-21'>21</a></td><td><a href='#role-21'>Ballettmeister:in</a></td><td><a href='#role-21'>ballet master</a></td></tr>
-<tr><td><a href='#role-22'>22</a></td><td><a href='#role-22'>Bankbeamt:in</a></td><td><a href='#role-22'>bank officer</a></td></tr>
-<tr><td><a href='#role-23'>23</a></td><td><a href='#role-23'>Barbetreiber:in</a></td><td><a href='#role-23'>bar manager</a></td></tr>
-<tr><td><a href='#role-24'>24</a></td><td><a href='#role-24'>Beleuchter:in</a></td><td><a href='#role-24'>lighting technician</a></td></tr>
-<tr><td><a href='#role-25'>25</a></td><td><a href='#role-25'>Bergbauingenieur:in</a></td><td><a href='#role-25'>mining engineer</a></td></tr>
-<tr><td><a href='#role-26'>26</a></td><td><a href='#role-26'>Besitzer:in</a></td><td><a href='#role-26'>possessor</a></td></tr>
-<tr><td><a href='#role-27'>27</a></td><td><a href='#role-27'>Betreuer:in</a></td><td><a href='#role-27'>academic supervisor</a></td></tr>
-<tr><td><a href='#role-28'>28</a></td><td><a href='#role-28'>Bibliothekar:in</a></td><td><a href='#role-28'>librarian</a></td></tr>
-<tr><td><a href='#role-29'>29</a></td><td><a href='#role-29'>Bildgestalter:in</a></td><td><a href='#role-29'>cinematographer</a></td></tr>
-<tr><td><a href='#role-30'>30</a></td><td><a href='#role-30'>Blechbläser:in</a></td><td><a href='#role-30'>brass player</a></td></tr>
-<tr><td><a href='#role-31'>31</a></td><td><a href='#role-31'>Hornist:in</a></td><td><a href='#role-31'>hornist</a></td></tr>
-<tr><td><a href='#role-32'>32</a></td><td><a href='#role-32'>Kornettist:in</a></td><td><a href='#role-32'>cornetist</a></td></tr>
-<tr><td><a href='#role-33'>33</a></td><td><a href='#role-33'>Posaunist:in</a></td><td><a href='#role-33'>trombonist</a></td></tr>
-<tr><td><a href='#role-34'>34</a></td><td><a href='#role-34'>Trompeter:in</a></td><td><a href='#role-34'>trumpeter</a></td></tr>
-<tr><td><a href='#role-35'>35</a></td><td><a href='#role-35'>Tubist:in</a></td><td><a href='#role-35'>tuba player</a></td></tr>
-<tr><td><a href='#role-36'>36</a></td><td><a href='#role-36'>Zinkenist:in</a></td><td><a href='#role-36'>cornettist</a></td></tr>
-<tr><td><a href='#role-37'>37</a></td><td><a href='#role-37'>Buchhalter:in</a></td><td><a href='#role-37'>bookkeeper</a></td></tr>
-<tr><td><a href='#role-38'>38</a></td><td><a href='#role-38'>Bühnenbildner:in</a></td><td><a href='#role-38'>scenographer</a></td></tr>
-<tr><td><a href='#role-39'>39</a></td><td><a href='#role-39'>Bühnenregisseur:in</a></td><td><a href='#role-39'>theatrical director</a></td></tr>
-<tr><td><a href='#role-40'>40</a></td><td><a href='#role-40'>Bühnentechniker:in</a></td><td><a href='#role-40'>theatrical technician</a></td></tr>
-<tr><td><a href='#role-41'>41</a></td><td><a href='#role-41'>Choreograf:in</a></td><td><a href='#role-41'>choreographer</a></td></tr>
-<tr><td><a href='#role-42'>42</a></td><td><a href='#role-42'>Co-Autor:in</a></td><td><a href='#role-42'>co-author</a></td></tr>
-<tr><td><a href='#role-43'>43</a></td><td><a href='#role-43'>Colour Grading</a></td><td><a href='#role-43'>colour grading</a></td></tr>
-<tr><td><a href='#role-44'>44</a></td><td><a href='#role-44'>Designer:in</a></td><td><a href='#role-44'>designer</a></td></tr>
-<tr><td><a href='#role-45'>45</a></td><td><a href='#role-45'>Dichterkomponist:in</a></td><td><a href='#role-45'>poet-composer</a></td></tr>
-<tr><td><a href='#role-46'>46</a></td><td><a href='#role-46'>Digitalisierer:in</a></td><td><a href='#role-46'>digitisation officer</a></td></tr>
-<tr><td><a href='#role-47'>47</a></td><td><a href='#role-47'>Diplomat:in</a></td><td><a href='#role-47'>diplomat</a></td></tr>
-<tr><td><a href='#role-48'>48</a></td><td><a href='#role-48'>Dirigent:in</a></td><td><a href='#role-48'>conductor</a></td></tr>
-<tr><td><a href='#role-49'>49</a></td><td><a href='#role-49'>Chorleiter:in</a></td><td><a href='#role-49'>choir director</a></td></tr>
-<tr><td><a href='#role-50'>50</a></td><td><a href='#role-50'>Ensembleleiter:in</a></td><td><a href='#role-50'>ensemble leader</a></td></tr>
-<tr><td><a href='#role-51'>51</a></td><td><a href='#role-51'>Generalmusikdirektor:in</a></td><td><a href='#role-51'>general music director</a></td></tr>
-<tr><td><a href='#role-52'>52</a></td><td><a href='#role-52'>Kantor:in (christlich)</a></td><td><a href='#role-52'>cantor</a></td></tr>
-<tr><td><a href='#role-53'>53</a></td><td><a href='#role-53'>Orchesterleiter:in</a></td><td><a href='#role-53'>band leader</a></td></tr>
-<tr><td><a href='#role-54'>54</a></td><td><a href='#role-54'>DJ</a></td><td><a href='#role-54'>dj</a></td></tr>
-<tr><td><a href='#role-55'>55</a></td><td><a href='#role-55'>Dramaturg:in</a></td><td><a href='#role-55'>dramaturge</a></td></tr>
-<tr><td><a href='#role-56'>56</a></td><td><a href='#role-56'>Drehbuchautor:in</a></td><td><a href='#role-56'>screen writer</a></td></tr>
-<tr><td><a href='#role-57'>57</a></td><td><a href='#role-57'>Durchschlagzungeninstrumenten-Spieler:in</a></td><td><a href='#role-57'>free-reed player</a></td></tr>
-<tr><td><a href='#role-58'>58</a></td><td><a href='#role-58'>Akkordeonist:in</a></td><td><a href='#role-58'>accordionist</a></td></tr>
-<tr><td><a href='#role-59'>59</a></td><td><a href='#role-59'>Konzertinaspieler:in</a></td><td><a href='#role-59'>concertina player</a></td></tr>
-<tr><td><a href='#role-60'>60</a></td><td><a href='#role-60'>Mundharmonikaspieler:in</a></td><td><a href='#role-60'>harmonica player</a></td></tr>
-<tr><td><a href='#role-61'>61</a></td><td><a href='#role-61'>Eigentümer:in</a></td><td><a href='#role-61'>owner</a></td></tr>
-<tr><td><a href='#role-62'>62</a></td><td><a href='#role-62'>Erfinder:in</a></td><td><a href='#role-62'>inventor</a></td></tr>
-<tr><td><a href='#role-63'>63</a></td><td><a href='#role-63'>erwähnte:r Akteur:in</a></td><td><a href='#role-63'>mentioned actor</a></td></tr>
-<tr><td><a href='#role-64'>64</a></td><td><a href='#role-64'>Ethnolog:in</a></td><td><a href='#role-64'>ethnologist</a></td></tr>
-<tr><td><a href='#role-65'>65</a></td><td><a href='#role-65'>Ethnograph:in</a></td><td><a href='#role-65'>ethnographer</a></td></tr>
-<tr><td><a href='#role-66'>66</a></td><td><a href='#role-66'>Fernsehmoderator:in</a></td><td><a href='#role-66'>television presenter</a></td></tr>
-<tr><td><a href='#role-67'>67</a></td><td><a href='#role-67'>Filmförderung</a></td><td><a href='#role-67'>film funding</a></td></tr>
-<tr><td><a href='#role-68'>68</a></td><td><a href='#role-68'>Filmproduzent:in</a></td><td><a href='#role-68'>film producer</a></td></tr>
-<tr><td><a href='#role-69'>69</a></td><td><a href='#role-69'>Folkloremusiker:in</a></td><td><a href='#role-69'>folk musician</a></td></tr>
-<tr><td><a href='#role-70'>70</a></td><td><a href='#role-70'>Fotograf:in</a></td><td><a href='#role-70'>photographer</a></td></tr>
-<tr><td><a href='#role-71'>71</a></td><td><a href='#role-71'>Fotograf:in (Film)</a></td><td><a href='#role-71'>still photographer</a></td></tr>
-<tr><td><a href='#role-72'>72</a></td><td><a href='#role-72'>Foto-Künstler:in</a></td><td><a href='#role-72'>art photographer</a></td></tr>
-<tr><td><a href='#role-73'>73</a></td><td><a href='#role-73'>Gerichtsvollzieher:in</a></td><td><a href='#role-73'>bailiff</a></td></tr>
-<tr><td><a href='#role-74'>74</a></td><td><a href='#role-74'>Gesangslehrer:in</a></td><td><a href='#role-74'>voice teacher</a></td></tr>
-<tr><td><a href='#role-75'>75</a></td><td><a href='#role-75'>Gewandmeister:in</a></td><td><a href='#role-75'>wardrobe master</a></td></tr>
-<tr><td><a href='#role-76'>76</a></td><td><a href='#role-76'>Grip</a></td><td><a href='#role-76'>grip</a></td></tr>
-<tr><td><a href='#role-77'>77</a></td><td><a href='#role-77'>Händler:in</a></td><td><a href='#role-77'>trader</a></td></tr>
-<tr><td><a href='#role-78'>78</a></td><td><a href='#role-78'>Autohändler:in</a></td><td><a href='#role-78'>car dealer</a></td></tr>
-<tr><td><a href='#role-79'>79</a></td><td><a href='#role-79'>Fahrradhändler:in</a></td><td><a href='#role-79'>bicycle dealer</a></td></tr>
-<tr><td><a href='#role-80'>80</a></td><td><a href='#role-80'>Musikalienhändler:in</a></td><td><a href='#role-80'>music dealer</a></td></tr>
-<tr><td><a href='#role-81'>81</a></td><td><a href='#role-81'>Schreibwarenhändler:in</a></td><td><a href='#role-81'>stationer</a></td></tr>
-<tr><td><a href='#role-82'>82</a></td><td><a href='#role-82'>Hersteller:in</a></td><td><a href='#role-82'>manufacturer</a></td></tr>
-<tr><td><a href='#role-83'>83</a></td><td><a href='#role-83'>Historiker:in</a></td><td><a href='#role-83'>historian</a></td></tr>
-<tr><td><a href='#role-84'>84</a></td><td><a href='#role-84'>Holzbläser:in</a></td><td><a href='#role-84'>woodwind player</a></td></tr>
-<tr><td><a href='#role-85'>85</a></td><td><a href='#role-85'>Blockflötist:in</a></td><td><a href='#role-85'>recorder player</a></td></tr>
-<tr><td><a href='#role-86'>86</a></td><td><a href='#role-86'>Dudelsackspieler:in</a></td><td><a href='#role-86'>bagpiper</a></td></tr>
-<tr><td><a href='#role-87'>87</a></td><td><a href='#role-87'>Fagottist:in</a></td><td><a href='#role-87'>bassoonist</a></td></tr>
-<tr><td><a href='#role-88'>88</a></td><td><a href='#role-88'>Flötist:in</a></td><td><a href='#role-88'>flutist</a></td></tr>
-<tr><td><a href='#role-89'>89</a></td><td><a href='#role-89'>Piccoloflötist:in</a></td><td><a href='#role-89'>piccolo player</a></td></tr>
-<tr><td><a href='#role-90'>90</a></td><td><a href='#role-90'>Klarinettist:in</a></td><td><a href='#role-90'>clarinetist</a></td></tr>
-<tr><td><a href='#role-91'>91</a></td><td><a href='#role-91'>Oboist:in</a></td><td><a href='#role-91'>oboist</a></td></tr>
-<tr><td><a href='#role-92'>92</a></td><td><a href='#role-92'>Saxofonist:in</a></td><td><a href='#role-92'>saxophonist</a></td></tr>
-<tr><td><a href='#role-93'>93</a></td><td><a href='#role-93'>Altsaxofonist:in</a></td><td><a href='#role-93'>alto saxophonist</a></td></tr>
-<tr><td><a href='#role-94'>94</a></td><td><a href='#role-94'>Baritonsaxofonist:in</a></td><td><a href='#role-94'>baritone saxophonist</a></td></tr>
-<tr><td><a href='#role-95'>95</a></td><td><a href='#role-95'>Basssaxofonist:in</a></td><td><a href='#role-95'>bass saxophonist</a></td></tr>
-<tr><td><a href='#role-96'>96</a></td><td><a href='#role-96'>Mezzosopran-Saxofonist:in</a></td><td><a href='#role-96'>mezzo-soprano saxophonist</a></td></tr>
-<tr><td><a href='#role-97'>97</a></td><td><a href='#role-97'>Sopransaxofonist:in</a></td><td><a href='#role-97'>soprano saxophonist</a></td></tr>
-<tr><td><a href='#role-98'>98</a></td><td><a href='#role-98'>Tenorsaxofonist:in</a></td><td><a href='#role-98'>tenor saxophonist</a></td></tr>
-<tr><td><a href='#role-99'>99</a></td><td><a href='#role-99'>Impressario</a></td><td><a href='#role-99'>impresario</a></td></tr>
-<tr><td><a href='#role-100'>100</a></td><td><a href='#role-100'>Ingenieur:in</a></td><td><a href='#role-100'>engineer</a></td></tr>
-<tr><td><a href='#role-101'>101</a></td><td><a href='#role-101'>Elektroingenieur:in</a></td><td><a href='#role-101'>electrical engineer</a></td></tr>
-<tr><td><a href='#role-102'>102</a></td><td><a href='#role-102'>Instrumentalist:in</a></td><td><a href='#role-102'>instrumentalist</a></td></tr>
-<tr><td><a href='#role-103'>103</a></td><td><a href='#role-103'>Intendant:in</a></td><td><a href='#role-103'>intendant</a></td></tr>
-<tr><td><a href='#role-104'>104</a></td><td><a href='#role-104'>Interpret:in</a></td><td><a href='#role-104'>performing artist</a></td></tr>
-<tr><td><a href='#role-105'>105</a></td><td><a href='#role-105'>Journalist:in</a></td><td><a href='#role-105'>journalist</a></td></tr>
-<tr><td><a href='#role-106'>106</a></td><td><a href='#role-106'>Kulturjournalist:in</a></td><td><a href='#role-106'>arts journalist</a></td></tr>
-<tr><td><a href='#role-107'>107</a></td><td><a href='#role-107'>Kritiker:in</a></td><td><a href='#role-107'>critic</a></td></tr>
-<tr><td><a href='#role-108'>108</a></td><td><a href='#role-108'>Literaturkritiker:in</a></td><td><a href='#role-108'>literary critic</a></td></tr>
-<tr><td><a href='#role-109'>109</a></td><td><a href='#role-109'>Musikkritiker:in</a></td><td><a href='#role-109'>music critic</a></td></tr>
-<tr><td><a href='#role-110'>110</a></td><td><a href='#role-110'>Musikjournalist:in</a></td><td><a href='#role-110'>music journalist</a></td></tr>
-<tr><td><a href='#role-111'>111</a></td><td><a href='#role-111'>Kabarettist:in</a></td><td><a href='#role-111'>cabaret performer</a></td></tr>
-<tr><td><a href='#role-112'>112</a></td><td><a href='#role-112'>Kameraperson</a></td><td><a href='#role-112'>cinematographer</a></td></tr>
-<tr><td><a href='#role-113'>113</a></td><td><a href='#role-113'>Klinikverwalter:in</a></td><td><a href='#role-113'>hospital administrator</a></td></tr>
-<tr><td><a href='#role-114'>114</a></td><td><a href='#role-114'>Komiker:innenduo</a></td><td><a href='#role-114'>double act</a></td></tr>
-<tr><td><a href='#role-115'>115</a></td><td><a href='#role-115'>Komponist:in</a></td><td><a href='#role-115'>composer</a></td></tr>
-<tr><td><a href='#role-116'>116</a></td><td><a href='#role-116'>Koproduzent:in</a></td><td><a href='#role-116'>co-producer</a></td></tr>
-<tr><td><a href='#role-117'>117</a></td><td><a href='#role-117'>Kostümbildner:in</a></td><td><a href='#role-117'>costume designer</a></td></tr>
-<tr><td><a href='#role-118'>118</a></td><td><a href='#role-118'>Kulturaktivist:in</a></td><td><a href='#role-118'>cultural activist</a></td></tr>
-<tr><td><a href='#role-119'>119</a></td><td><a href='#role-119'>Künstler:in</a></td><td><a href='#role-119'>artist</a></td></tr>
-<tr><td><a href='#role-120'>120</a></td><td><a href='#role-120'>Karikaturist:in</a></td><td><a href='#role-120'>caricaturist</a></td></tr>
-<tr><td><a href='#role-121'>121</a></td><td><a href='#role-121'>Maler:in</a></td><td><a href='#role-121'>painter</a></td></tr>
-<tr><td><a href='#role-122'>122</a></td><td><a href='#role-122'>Kunstpfeifer:in</a></td><td><a href='#role-122'>whistle artist</a></td></tr>
-<tr><td><a href='#role-123'>123</a></td><td><a href='#role-123'>Kurator:in</a></td><td><a href='#role-123'>curator</a></td></tr>
-<tr><td><a href='#role-124'>124</a></td><td><a href='#role-124'>Ausstellungs-Kurator:in</a></td><td><a href='#role-124'>exhibition curator</a></td></tr>
-<tr><td><a href='#role-125'>125</a></td><td><a href='#role-125'>Lehrer:in</a></td><td><a href='#role-125'>teacher</a></td></tr>
-<tr><td><a href='#role-126'>126</a></td><td><a href='#role-126'>Sprachlehrer:in</a></td><td><a href='#role-126'>voice teacher</a></td></tr>
-<tr><td><a href='#role-127'>127</a></td><td><a href='#role-127'>Englischlehrer:in</a></td><td><a href='#role-127'>english teacher</a></td></tr>
-<tr><td><a href='#role-128'>128</a></td><td><a href='#role-128'>Librettist:in</a></td><td><a href='#role-128'>librettist</a></td></tr>
-<tr><td><a href='#role-129'>129</a></td><td><a href='#role-129'>Linguist:in</a></td><td><a href='#role-129'>linguist</a></td></tr>
-<tr><td><a href='#role-130'>130</a></td><td><a href='#role-130'>Romanist:in</a></td><td><a href='#role-130'>romanist</a></td></tr>
-<tr><td><a href='#role-131'>131</a></td><td><a href='#role-131'>Lokomotivführer:in</a></td><td><a href='#role-131'>train driver</a></td></tr>
-<tr><td><a href='#role-132'>132</a></td><td><a href='#role-132'>Luftfahrtpionier:in</a></td><td><a href='#role-132'>aviation pioneer</a></td></tr>
-<tr><td><a href='#role-133'>133</a></td><td><a href='#role-133'>Manager:in</a></td><td><a href='#role-133'>manager</a></td></tr>
-<tr><td><a href='#role-134'>134</a></td><td><a href='#role-134'>Maskenbildner:in</a></td><td><a href='#role-134'>make-up artist</a></td></tr>
-<tr><td><a href='#role-135'>135</a></td><td><a href='#role-135'>Maurer:in</a></td><td><a href='#role-135'>bricklayer</a></td></tr>
-<tr><td><a href='#role-136'>136</a></td><td><a href='#role-136'>Medienmanager:in</a></td><td><a href='#role-136'>media executive</a></td></tr>
-<tr><td><a href='#role-137'>137</a></td><td><a href='#role-137'>Mischtonmeister</a></td><td><a href='#role-137'>re-recording mixer</a></td></tr>
-<tr><td><a href='#role-138'>138</a></td><td><a href='#role-138'>Mitwirkende:r</a></td><td><a href='#role-138'>contributor</a></td></tr>
-<tr><td><a href='#role-139'>139</a></td><td><a href='#role-139'>Montage</a></td><td><a href='#role-139'>montage</a></td></tr>
-<tr><td><a href='#role-140'>140</a></td><td><a href='#role-140'>musikalische:r Begleiter:in</a></td><td><a href='#role-140'>accompanist</a></td></tr>
-<tr><td><a href='#role-141'>141</a></td><td><a href='#role-141'>Musikensemble</a></td><td><a href='#role-141'>musical ensemble</a></td></tr>
-<tr><td><a href='#role-142'>142</a></td><td><a href='#role-142'>Band</a></td><td><a href='#role-142'>band</a></td></tr>
-<tr><td><a href='#role-143'>143</a></td><td><a href='#role-143'>Chor</a></td><td><a href='#role-143'>choir</a></td></tr>
-<tr><td><a href='#role-144'>144</a></td><td><a href='#role-144'>Choralschola</a></td><td><a href='#role-144'>scholae</a></td></tr>
-<tr><td><a href='#role-145'>145</a></td><td><a href='#role-145'>Frauenchor</a></td><td><a href='#role-145'>women's choir</a></td></tr>
-<tr><td><a href='#role-146'>146</a></td><td><a href='#role-146'>Kinderchor</a></td><td><a href='#role-146'>children's choir</a></td></tr>
-<tr><td><a href='#role-147'>147</a></td><td><a href='#role-147'>Knabenchor</a></td><td><a href='#role-147'>boys' choir</a></td></tr>
-<tr><td><a href='#role-148'>148</a></td><td><a href='#role-148'>Männerchor</a></td><td><a href='#role-148'>male choir</a></td></tr>
-<tr><td><a href='#role-149'>149</a></td><td><a href='#role-149'>Combo</a></td><td><a href='#role-149'>combo</a></td></tr>
-<tr><td><a href='#role-150'>150</a></td><td><a href='#role-150'>Elektronik-Ensemble</a></td><td><a href='#role-150'>electronic band</a></td></tr>
-<tr><td><a href='#role-151'>151</a></td><td><a href='#role-151'>Instrumentalgruppe</a></td><td><a href='#role-151'>instrumental group</a></td></tr>
-<tr><td><a href='#role-152'>152</a></td><td><a href='#role-152'>Kammermusikensemble</a></td><td><a href='#role-152'>chamber music ensemble</a></td></tr>
-<tr><td><a href='#role-153'>153</a></td><td><a href='#role-153'>Streichquartett</a></td><td><a href='#role-153'>string quartet</a></td></tr>
-<tr><td><a href='#role-154'>154</a></td><td><a href='#role-154'>Orchester</a></td><td><a href='#role-154'>orchestra</a></td></tr>
-<tr><td><a href='#role-155'>155</a></td><td><a href='#role-155'>Blasorchester</a></td><td><a href='#role-155'>wind orchestra</a></td></tr>
-<tr><td><a href='#role-156'>156</a></td><td><a href='#role-156'>Militärorchester</a></td><td><a href='#role-156'>military band</a></td></tr>
-<tr><td><a href='#role-157'>157</a></td><td><a href='#role-157'>Streichorchester</a></td><td><a href='#role-157'>string orchestra</a></td></tr>
-<tr><td><a href='#role-158'>158</a></td><td><a href='#role-158'>Vokalensemble</a></td><td><a href='#role-158'>vocal group</a></td></tr>
-<tr><td><a href='#role-159'>159</a></td><td><a href='#role-159'>Volksmusikgruppe</a></td><td><a href='#role-159'>folk music group</a></td></tr>
-<tr><td><a href='#role-160'>160</a></td><td><a href='#role-160'>Musiker:in</a></td><td><a href='#role-160'>musician</a></td></tr>
-<tr><td><a href='#role-161'>161</a></td><td><a href='#role-161'>Musikinstrumentenbauer:in</a></td><td><a href='#role-161'>instrument maker</a></td></tr>
-<tr><td><a href='#role-162'>162</a></td><td><a href='#role-162'>Geigenbauer:in</a></td><td><a href='#role-162'>luthier</a></td></tr>
-<tr><td><a href='#role-163'>163</a></td><td><a href='#role-163'>Klavierbauer:in</a></td><td><a href='#role-163'>piano maker</a></td></tr>
-<tr><td><a href='#role-164'>164</a></td><td><a href='#role-164'>Orgelbauer:in</a></td><td><a href='#role-164'>organ builder</a></td></tr>
-<tr><td><a href='#role-165'>165</a></td><td><a href='#role-165'>Musiklehrer:in</a></td><td><a href='#role-165'>music teacher</a></td></tr>
-<tr><td><a href='#role-166'>166</a></td><td><a href='#role-166'>Musikproduzent:in</a></td><td><a href='#role-166'>music producer</a></td></tr>
-<tr><td><a href='#role-167'>167</a></td><td><a href='#role-167'>Musikalische:r Leiter:in</a></td><td><a href='#role-167'>musical supervisor</a></td></tr>
-<tr><td><a href='#role-168'>168</a></td><td><a href='#role-168'>Sessionleiter:in</a></td><td><a href='#role-168'>session supervisor</a></td></tr>
-<tr><td><a href='#role-169'>169</a></td><td><a href='#role-169'>Musikwissenschaftler:in</a></td><td><a href='#role-169'>musicologist</a></td></tr>
-<tr><td><a href='#role-170'>170</a></td><td><a href='#role-170'>Obstbautechniker:in</a></td><td><a href='#role-170'>orchard technician</a></td></tr>
-<tr><td><a href='#role-171'>171</a></td><td><a href='#role-171'>Offizier:in</a></td><td><a href='#role-171'>officer</a></td></tr>
-<tr><td><a href='#role-172'>172</a></td><td><a href='#role-172'>Marineoffizier:in</a></td><td><a href='#role-172'>navy officer</a></td></tr>
-<tr><td><a href='#role-173'>173</a></td><td><a href='#role-173'>Orientalist:in</a></td><td><a href='#role-173'>orientalist</a></td></tr>
-<tr><td><a href='#role-174'>174</a></td><td><a href='#role-174'>Ornitholog:in</a></td><td><a href='#role-174'>ornithologist</a></td></tr>
-<tr><td><a href='#role-175'>175</a></td><td><a href='#role-175'>Pantomim:in</a></td><td><a href='#role-175'>mime</a></td></tr>
-<tr><td><a href='#role-176'>176</a></td><td><a href='#role-176'>Performer:in</a></td><td><a href='#role-176'>performer</a></td></tr>
-<tr><td><a href='#role-177'>177</a></td><td><a href='#role-177'>Perkussionist:in</a></td><td><a href='#role-177'>percussionist</a></td></tr>
-<tr><td><a href='#role-178'>178</a></td><td><a href='#role-178'>Marimbafonist:in</a></td><td><a href='#role-178'>marimba player</a></td></tr>
-<tr><td><a href='#role-179'>179</a></td><td><a href='#role-179'>Paukist:in</a></td><td><a href='#role-179'>timpanist</a></td></tr>
-<tr><td><a href='#role-180'>180</a></td><td><a href='#role-180'>Schlagzeuger:in</a></td><td><a href='#role-180'>drummer</a></td></tr>
-<tr><td><a href='#role-181'>181</a></td><td><a href='#role-181'>Vibrafonist:in</a></td><td><a href='#role-181'>vibraphone player</a></td></tr>
-<tr><td><a href='#role-182'>182</a></td><td><a href='#role-182'>Xylofonist:in</a></td><td><a href='#role-182'>xylophonist</a></td></tr>
-<tr><td><a href='#role-183'>183</a></td><td><a href='#role-183'>Philolog:in</a></td><td><a href='#role-183'>philologist</a></td></tr>
-<tr><td><a href='#role-184'>184</a></td><td><a href='#role-184'>Philosoph:in</a></td><td><a href='#role-184'>philosopher</a></td></tr>
-<tr><td><a href='#role-185'>185</a></td><td><a href='#role-185'>Physiker:in</a></td><td><a href='#role-185'>physicist</a></td></tr>
-<tr><td><a href='#role-186'>186</a></td><td><a href='#role-186'>Politiker:in</a></td><td><a href='#role-186'>politician</a></td></tr>
-<tr><td><a href='#role-187'>187</a></td><td><a href='#role-187'>Priester:in</a></td><td><a href='#role-187'>priest</a></td></tr>
-<tr><td><a href='#role-188'>188</a></td><td><a href='#role-188'>Pfarrer:in</a></td><td><a href='#role-188'>minister</a></td></tr>
-<tr><td><a href='#role-189'>189</a></td><td><a href='#role-189'>Prediger:in</a></td><td><a href='#role-189'>preacher</a></td></tr>
-<tr><td><a href='#role-190'>190</a></td><td><a href='#role-190'>Produktionsleiter:in</a></td><td><a href='#role-190'>supervising producer</a></td></tr>
-<tr><td><a href='#role-191'>191</a></td><td><a href='#role-191'>Produktionsfirma</a></td><td><a href='#role-191'>production company</a></td></tr>
-<tr><td><a href='#role-192'>192</a></td><td><a href='#role-192'>Produzent:in</a></td><td><a href='#role-192'>producer</a></td></tr>
-<tr><td><a href='#role-193'>193</a></td><td><a href='#role-193'>Rechtsanwalt/Rechtsanwältin</a></td><td><a href='#role-193'>lawyer</a></td></tr>
-<tr><td><a href='#role-194'>194</a></td><td><a href='#role-194'>Notar:in</a></td><td><a href='#role-194'>notary</a></td></tr>
-<tr><td><a href='#role-195'>195</a></td><td><a href='#role-195'>Redakteur:in</a></td><td><a href='#role-195'>editor</a></td></tr>
-<tr><td><a href='#role-196'>196</a></td><td><a href='#role-196'>Regieassistent:in</a></td><td><a href='#role-196'>assistant director</a></td></tr>
-<tr><td><a href='#role-197'>197</a></td><td><a href='#role-197'>Regisseur:in</a></td><td><a href='#role-197'>director</a></td></tr>
-<tr><td><a href='#role-198'>198</a></td><td><a href='#role-198'>Requisiteur:in</a></td><td><a href='#role-198'>property master</a></td></tr>
-<tr><td><a href='#role-199'>199</a></td><td><a href='#role-199'>Sänger:in</a></td><td><a href='#role-199'>singer</a></td></tr>
-<tr><td><a href='#role-200'>200</a></td><td><a href='#role-200'>Altist:in</a></td><td><a href='#role-200'>alto</a></td></tr>
-<tr><td><a href='#role-201'>201</a></td><td><a href='#role-201'>Bariton</a></td><td><a href='#role-201'>baritone</a></td></tr>
-<tr><td><a href='#role-202'>202</a></td><td><a href='#role-202'>Bassbariton</a></td><td><a href='#role-202'>bass-baritone</a></td></tr>
-<tr><td><a href='#role-203'>203</a></td><td><a href='#role-203'>Bassist (Gesang)</a></td><td><a href='#role-203'>bassist (singer)</a></td></tr>
-<tr><td><a href='#role-204'>204</a></td><td><a href='#role-204'>Chorsänger:in</a></td><td><a href='#role-204'>chorister</a></td></tr>
-<tr><td><a href='#role-205'>205</a></td><td><a href='#role-205'>Countertenor</a></td><td><a href='#role-205'>countertenor</a></td></tr>
-<tr><td><a href='#role-206'>206</a></td><td><a href='#role-206'>Kastrat</a></td><td><a href='#role-206'>castrato</a></td></tr>
-<tr><td><a href='#role-207'>207</a></td><td><a href='#role-207'>Kantor:in (jüdisch)</a></td><td><a href='#role-207'>hazzan</a></td></tr>
-<tr><td><a href='#role-208'>208</a></td><td><a href='#role-208'>Knabenalt</a></td><td><a href='#role-208'>boy alto</a></td></tr>
-<tr><td><a href='#role-209'>209</a></td><td><a href='#role-209'>Knabensopran</a></td><td><a href='#role-209'>boy soprano</a></td></tr>
-<tr><td><a href='#role-210'>210</a></td><td><a href='#role-210'>Mezzosopranist:in</a></td><td><a href='#role-210'>mezzo-soprano</a></td></tr>
-<tr><td><a href='#role-211'>211</a></td><td><a href='#role-211'>Sopranist:in</a></td><td><a href='#role-211'>soprano</a></td></tr>
-<tr><td><a href='#role-212'>212</a></td><td><a href='#role-212'>Tenorist:in</a></td><td><a href='#role-212'>tenor</a></td></tr>
-<tr><td><a href='#role-213'>213</a></td><td><a href='#role-213'>Schauspieler:in</a></td><td><a href='#role-213'>actor/actress</a></td></tr>
-<tr><td><a href='#role-214'>214</a></td><td><a href='#role-214'>Schlosser:in</a></td><td><a href='#role-214'>locksmith</a></td></tr>
-<tr><td><a href='#role-215'>215</a></td><td><a href='#role-215'>Schnitt</a></td><td><a href='#role-215'>film editor</a></td></tr>
-<tr><td><a href='#role-216'>216</a></td><td><a href='#role-216'>Script Continuity</a></td><td><a href='#role-216'>script supervisor</a></td></tr>
-<tr><td><a href='#role-217'>217</a></td><td><a href='#role-217'>Sekretär:in</a></td><td><a href='#role-217'>secretary</a></td></tr>
-<tr><td><a href='#role-218'>218</a></td><td><a href='#role-218'>Set Designer:in</a></td><td><a href='#role-218'>set designer</a></td></tr>
-<tr><td><a href='#role-219'>219</a></td><td><a href='#role-219'>Soldat:in</a></td><td><a href='#role-219'>soldier</a></td></tr>
-<tr><td><a href='#role-220'>220</a></td><td><a href='#role-220'>Sounddesigner:in</a></td><td><a href='#role-220'>sound designer</a></td></tr>
-<tr><td><a href='#role-221'>221</a></td><td><a href='#role-221'>Special Effects</a></td><td><a href='#role-221'>special effects</a></td></tr>
-<tr><td><a href='#role-222'>222</a></td><td><a href='#role-222'>Sponsor:in</a></td><td><a href='#role-222'>sponsor</a></td></tr>
-<tr><td><a href='#role-223'>223</a></td><td><a href='#role-223'>Sprecher:in</a></td><td><a href='#role-223'>speaker</a></td></tr>
-<tr><td><a href='#role-224'>224</a></td><td><a href='#role-224'>Ansager:in</a></td><td><a href='#role-224'>announcer</a></td></tr>
-<tr><td><a href='#role-225'>225</a></td><td><a href='#role-225'>Rezitator:in</a></td><td><a href='#role-225'>reciter</a></td></tr>
-<tr><td><a href='#role-226'>226</a></td><td><a href='#role-226'>Streicher:in</a></td><td><a href='#role-226'>string player</a></td></tr>
-<tr><td><a href='#role-227'>227</a></td><td><a href='#role-227'>Bratschist:in</a></td><td><a href='#role-227'>violist</a></td></tr>
-<tr><td><a href='#role-228'>228</a></td><td><a href='#role-228'>Cellist:in</a></td><td><a href='#role-228'>cellist</a></td></tr>
-<tr><td><a href='#role-229'>229</a></td><td><a href='#role-229'>Gambist:in</a></td><td><a href='#role-229'>viol player</a></td></tr>
-<tr><td><a href='#role-230'>230</a></td><td><a href='#role-230'>Kontrabassist:in</a></td><td><a href='#role-230'>double bassist</a></td></tr>
-<tr><td><a href='#role-231'>231</a></td><td><a href='#role-231'>Violinist:in</a></td><td><a href='#role-231'>violinist</a></td></tr>
-<tr><td><a href='#role-232'>232</a></td><td><a href='#role-232'>Student:in</a></td><td><a href='#role-232'>student</a></td></tr>
-<tr><td><a href='#role-233'>233</a></td><td><a href='#role-233'>Synchronsprecher:in</a></td><td><a href='#role-233'>dub actor</a></td></tr>
-<tr><td><a href='#role-234'>234</a></td><td><a href='#role-234'>Synchronregie</a></td><td><a href='#role-234'>dialog director</a></td></tr>
-<tr><td><a href='#role-235'>235</a></td><td><a href='#role-235'>Szenenbildner:in</a></td><td><a href='#role-235'>set designer/production designer</a></td></tr>
-<tr><td><a href='#role-236'>236</a></td><td><a href='#role-236'>Tänzer:in</a></td><td><a href='#role-236'>dancer</a></td></tr>
-<tr><td><a href='#role-237'>237</a></td><td><a href='#role-237'>Klavierist:in</a></td><td><a href='#role-237'>clavierist</a></td></tr>
-<tr><td><a href='#role-238'>238</a></td><td><a href='#role-238'>Cembalist:in</a></td><td><a href='#role-238'>harpsichordist</a></td></tr>
-<tr><td><a href='#role-239'>239</a></td><td><a href='#role-239'>Harmoniumspieler:in</a></td><td><a href='#role-239'>harmonium player</a></td></tr>
-<tr><td><a href='#role-240'>240</a></td><td><a href='#role-240'>Keyboarder:in</a></td><td><a href='#role-240'>keyboarder</a></td></tr>
-<tr><td><a href='#role-241'>241</a></td><td><a href='#role-241'>Organist:in</a></td><td><a href='#role-241'>organist</a></td></tr>
-<tr><td><a href='#role-242'>242</a></td><td><a href='#role-242'>Pianist:in</a></td><td><a href='#role-242'>pianist</a></td></tr>
-<tr><td><a href='#role-243'>243</a></td><td><a href='#role-243'>Pianolist:in</a></td><td><a href='#role-243'>pianolist</a></td></tr>
-<tr><td><a href='#role-244'>244</a></td><td><a href='#role-244'>Techniker:in</a></td><td><a href='#role-244'>technician</a></td></tr>
-<tr><td><a href='#role-245'>245</a></td><td><a href='#role-245'>Elektroniker:in</a></td><td><a href='#role-245'>electronic technician</a></td></tr>
-<tr><td><a href='#role-246'>246</a></td><td><a href='#role-246'>Elektrotechniker:in</a></td><td><a href='#role-246'>electrotechnician</a></td></tr>
-<tr><td><a href='#role-247'>247</a></td><td><a href='#role-247'>Textdichter:in</a></td><td><a href='#role-247'>lyricist</a></td></tr>
-<tr><td><a href='#role-248'>248</a></td><td><a href='#role-248'>Theatergruppe</a></td><td><a href='#role-248'>theatre group</a></td></tr>
-<tr><td><a href='#role-249'>249</a></td><td><a href='#role-249'>Theaterleiter:in</a></td><td><a href='#role-249'>theatre manager</a></td></tr>
-<tr><td><a href='#role-250'>250</a></td><td><a href='#role-250'>Theaterproduzent:in</a></td><td><a href='#role-250'>theatrical producer</a></td></tr>
-<tr><td><a href='#role-251'>251</a></td><td><a href='#role-251'>Toningenieur:in</a></td><td><a href='#role-251'>audio engineer</a></td></tr>
-<tr><td><a href='#role-252'>252</a></td><td><a href='#role-252'>Master-Ingenieur:in</a></td><td><a href='#role-252'>mastering engineer</a></td></tr>
-<tr><td><a href='#role-253'>253</a></td><td><a href='#role-253'>Tonmischer:in</a></td><td><a href='#role-253'>sound mixer</a></td></tr>
-<tr><td><a href='#role-254'>254</a></td><td><a href='#role-254'>Übersetzer:in</a></td><td><a href='#role-254'>translator</a></td></tr>
-<tr><td><a href='#role-255'>255</a></td><td><a href='#role-255'>Unternehmer:in</a></td><td><a href='#role-255'>entrepreneur</a></td></tr>
-<tr><td><a href='#role-256'>256</a></td><td><a href='#role-256'>Veranstalter:in</a></td><td><a href='#role-256'>host</a></td></tr>
-<tr><td><a href='#role-257'>257</a></td><td><a href='#role-257'>Verfasser:in</a></td><td><a href='#role-257'>writer</a></td></tr>
-<tr><td><a href='#role-258'>258</a></td><td><a href='#role-258'>Verleger:in</a></td><td><a href='#role-258'>publisher</a></td></tr>
-<tr><td><a href='#role-259'>259</a></td><td><a href='#role-259'>Musikverleger:in</a></td><td><a href='#role-259'>music publisher</a></td></tr>
-<tr><td><a href='#role-260'>260</a></td><td><a href='#role-260'>Vertrieb</a></td><td><a href='#role-260'>distributor</a></td></tr>
-<tr><td><a href='#role-261'>261</a></td><td><a href='#role-261'>Voice-Over</a></td><td><a href='#role-261'>voice-over</a></td></tr>
-<tr><td><a href='#role-262'>262</a></td><td><a href='#role-262'>Vokalist:in</a></td><td><a href='#role-262'>vocalist</a></td></tr>
-<tr><td><a href='#role-263'>263</a></td><td><a href='#role-263'>Chansonnier/Chansonnière</a></td><td><a href='#role-263'>chansonnier/chanteuse</a></td></tr>
-<tr><td><a href='#role-264'>264</a></td><td><a href='#role-264'>Jodler:in</a></td><td><a href='#role-264'>yodeler</a></td></tr>
-<tr><td><a href='#role-265'>265</a></td><td><a href='#role-265'>Rapper:in</a></td><td><a href='#role-265'>rapper</a></td></tr>
-<tr><td><a href='#role-266'>266</a></td><td><a href='#role-266'>Vortragsredner:in</a></td><td><a href='#role-266'>lecturer</a></td></tr>
-<tr><td><a href='#role-267'>267</a></td><td><a href='#role-267'>Webvideoproduzent:in</a></td><td><a href='#role-267'>web video producer</a></td></tr>
-<tr><td><a href='#role-268'>268</a></td><td><a href='#role-268'>Video Blogger:in</a></td><td><a href='#role-268'>video blogger</a></td></tr>
-<tr><td><a href='#role-269'>269</a></td><td><a href='#role-269'>Widmungsträger:in</a></td><td><a href='#role-269'>dedicatee</a></td></tr>
-<tr><td><a href='#role-270'>270</a></td><td><a href='#role-270'>Zirkusdirektor:in</a></td><td><a href='#role-270'>circus director</a></td></tr>
-<tr><td><a href='#role-271'>271</a></td><td><a href='#role-271'>Zupfinstrumentenspieler:in</a></td><td><a href='#role-271'>plucked string instrument player</a></td></tr>
-<tr><td><a href='#role-272'>272</a></td><td><a href='#role-272'>Balalaikaspieler:in</a></td><td><a href='#role-272'>balalaikist</a></td></tr>
-<tr><td><a href='#role-273'>273</a></td><td><a href='#role-273'>Banjospieler:in</a></td><td><a href='#role-273'>banjoist</a></td></tr>
-<tr><td><a href='#role-274'>274</a></td><td><a href='#role-274'>Bassist:in (Instrument)</a></td><td><a href='#role-274'>bassist (instrument)</a></td></tr>
-<tr><td><a href='#role-275'>275</a></td><td><a href='#role-275'>Gitarrist:in</a></td><td><a href='#role-275'>guitarist</a></td></tr>
-<tr><td><a href='#role-276'>276</a></td><td><a href='#role-276'>Lead-Gitarrist:in</a></td><td><a href='#role-276'>lead guitarist</a></td></tr>
-<tr><td><a href='#role-277'>277</a></td><td><a href='#role-277'>Rhythmusgitarrist</a></td><td><a href='#role-277'>rhythm guitarist</a></td></tr>
-<tr><td><a href='#role-278'>278</a></td><td><a href='#role-278'>Harfenist:in</a></td><td><a href='#role-278'>harpist</a></td></tr>
-<tr><td><a href='#role-279'>279</a></td><td><a href='#role-279'>Lautenist:in</a></td><td><a href='#role-279'>lutenist</a></td></tr>
-<tr><td><a href='#role-280'>280</a></td><td><a href='#role-280'>Mandolinist:in</a></td><td><a href='#role-280'>mandolinist</a></td></tr>
-<tr><td><a href='#role-281'>281</a></td><td><a href='#role-281'>Ukulelist:in</a></td><td><a href='#role-281'>ukulelist</a></td></tr>
-<tr><td><a href='#role-282'>282</a></td><td><a href='#role-282'>Zitherspieler:in</a></td><td><a href='#role-282'>zitherist</a></td></tr>
-<tr><td><a href='#role-283'>283</a></td><td><a href='#role-283'>unbekannt</a></td><td><a href='#role-283'>unknown</a></td></tr>
-<tr><td><a href='#role-284'>284</a></td><td><a href='#role-284'>Komiker:in</a></td><td><a href='#role-284'>comedian</a></td></tr>
-<tr><td><a href='#role-285'>285</a></td><td><a href='#role-285'>Boxer:in</a></td><td><a href='#role-285'>boxer</a></td></tr>
-<tr><td><a href='#role-286'>286</a></td><td><a href='#role-286'>Tanzorchester</a></td><td><a href='#role-286'>dance orchestra</a></td></tr>
-<tr><td><a href='#role-287'>287</a></td><td><a href='#role-287'>Tonträgerunternehmen</a></td><td><a href='#role-287'>record company</a></td></tr>
-<tr><td><a href='#role-288'>288</a></td><td><a href='#role-288'>Software-Entwickler:in</a></td><td><a href='#role-288'>software developer</a></td></tr>
-<tr><td><a href='#role-289'>289</a></td><td><a href='#role-289'>Schriftsteller:in</a></td><td><a href='#role-289'>writer</a></td></tr>
-<tr><td><a href='#role-290'>290</a></td><td><a href='#role-290'>Kriminalschriftsteller:in</a></td><td><a href='#role-290'>crime fiction writer</a></td></tr>
-<tr><td><a href='#role-291'>291</a></td><td><a href='#role-291'>Lyriker:in</a></td><td><a href='#role-291'>poet</a></td></tr>
-<tr><td><a href='#role-292'>292</a></td><td><a href='#role-292'>Betriebswirt:in</a></td><td><a href='#role-292'>business manager</a></td></tr>
-<tr><td><a href='#role-293'>293</a></td><td><a href='#role-293'>Bewegungspädagog:in</a></td><td><a href='#role-293'>movement educator</a></td></tr>
-<tr><td><a href='#role-294'>294</a></td><td><a href='#role-294'>Bildhauer:in</a></td><td><a href='#role-294'>sculptor</a></td></tr>
-<tr><td><a href='#role-295'>295</a></td><td><a href='#role-295'>Biolog:in</a></td><td><a href='#role-295'>biologist</a></td></tr>
-<tr><td><a href='#role-296'>296</a></td><td><a href='#role-296'>Biotechniker:in</a></td><td><a href='#role-296'>biological technician</a></td></tr>
-<tr><td><a href='#role-297'>297</a></td><td><a href='#role-297'>Botaniker:in</a></td><td><a href='#role-297'>botanist</a></td></tr>
-<tr><td><a href='#role-298'>298</a></td><td><a href='#role-298'>Selbstverleger:in</a></td><td><a href='#role-298'>independent publisher</a></td></tr>
-<tr><td><a href='#role-299'>299</a></td><td><a href='#role-299'>Web-Designer:in</a></td><td><a href='#role-299'>website designer</a></td></tr>
-<tr><td><a href='#role-300'>300</a></td><td><a href='#role-300'>Kapellmeister:in</a></td><td><a href='#role-300'>chapelmaster</a></td></tr>
-<tr><td><a href='#role-301'>301</a></td><td><a href='#role-301'>Ergonom:in</a></td><td><a href='#role-301'>ergonomist</a></td></tr>
-<tr><td><a href='#role-302'>302</a></td><td><a href='#role-302'>Garderobier:e</a></td><td><a href='#role-302'>dresser</a></td></tr>
-<tr><td><a href='#role-303'>303</a></td><td><a href='#role-303'>Geschäftspartner:in</a></td><td><a href='#role-303'>business partner</a></td></tr>
-<tr><td><a href='#role-304'>304</a></td><td><a href='#role-304'>Dolly Grip</a></td><td><a href='#role-304'>dolly grip</a></td></tr>
-<tr><td><a href='#role-305'>305</a></td><td><a href='#role-305'>Handwerker:in</a></td><td><a href='#role-305'>artisan</a></td></tr>
-<tr><td><a href='#role-306'>306</a></td><td><a href='#role-306'>Buchbinder:in</a></td><td><a href='#role-306'>bookbinder</a></td></tr>
-<tr><td><a href='#role-307'>307</a></td><td><a href='#role-307'>Drucker:in</a></td><td><a href='#role-307'>printer</a></td></tr>
-<tr><td><a href='#role-308'>308</a></td><td><a href='#role-308'>Schneider:in</a></td><td><a href='#role-308'>tailor</a></td></tr>
-<tr><td><a href='#role-309'>309</a></td><td><a href='#role-309'>Herausgeber:in</a></td><td><a href='#role-309'>publisher</a></td></tr>
-<tr><td><a href='#role-310'>310</a></td><td><a href='#role-310'>Humangeograph:in</a></td><td><a href='#role-310'>human geographer</a></td></tr>
-<tr><td><a href='#role-311'>311</a></td><td><a href='#role-311'>Informatiker:in</a></td><td><a href='#role-311'>computer scientist</a></td></tr>
-<tr><td><a href='#role-312'>312</a></td><td><a href='#role-312'>Jurist:in</a></td><td><a href='#role-312'>jurist</a></td></tr>
-<tr><td><a href='#role-313'>313</a></td><td><a href='#role-313'>Keramiker:in</a></td><td><a href='#role-313'>ceramicist</a></td></tr>
-<tr><td><a href='#role-314'>314</a></td><td><a href='#role-314'>Konzertmeister:in</a></td><td><a href='#role-314'>concertmaster</a></td></tr>
-<tr><td><a href='#role-315'>315</a></td><td><a href='#role-315'>Korrepetitor:in</a></td><td><a href='#role-315'>répétiteur</a></td></tr>
-<tr><td><a href='#role-316'>316</a></td><td><a href='#role-316'>Kranführer:in</a></td><td><a href='#role-316'>crane operator</a></td></tr>
-<tr><td><a href='#role-317'>317</a></td><td><a href='#role-317'>Kulturwissenschaftler:in</a></td><td><a href='#role-317'>cultural studies scholar</a></td></tr>
-<tr><td><a href='#role-318'>318</a></td><td><a href='#role-318'>Kunsthistoriker:in</a></td><td><a href='#role-318'>art historian</a></td></tr>
-<tr><td><a href='#role-319'>319</a></td><td><a href='#role-319'>Grafikdesigner:in</a></td><td><a href='#role-319'>graphic designer</a></td></tr>
-<tr><td><a href='#role-320'>320</a></td><td><a href='#role-320'>Klangkünstler:in</a></td><td><a href='#role-320'>sound artist</a></td></tr>
-<tr><td><a href='#role-321'>321</a></td><td><a href='#role-321'>Illustrator:in</a></td><td><a href='#role-321'>illustrator</a></td></tr>
-<tr><td><a href='#role-322'>322</a></td><td><a href='#role-322'>Performancekünstler:in</a></td><td><a href='#role-322'>performance artist</a></td></tr>
-<tr><td><a href='#role-323'>323</a></td><td><a href='#role-323'>Videokünstler:in</a></td><td><a href='#role-323'>video artist</a></td></tr>
-<tr><td><a href='#role-324'>324</a></td><td><a href='#role-324'>Künstlerische:r Leiter:in</a></td><td><a href='#role-324'>artistic director</a></td></tr>
-<tr><td><a href='#role-325'>325</a></td><td><a href='#role-325'>Kunstwissenschaftler:in</a></td><td><a href='#role-325'>art scholar</a></td></tr>
-<tr><td><a href='#role-326'>326</a></td><td><a href='#role-326'>Hochschullehrer:in</a></td><td><a href='#role-326'>university teacher</a></td></tr>
-<tr><td><a href='#role-327'>327</a></td><td><a href='#role-327'>Sportlehrer:in</a></td><td><a href='#role-327'>physical education teacher</a></td></tr>
-<tr><td><a href='#role-328'>328</a></td><td><a href='#role-328'>Tanzlehrer:in</a></td><td><a href='#role-328'>dance teacher</a></td></tr>
-<tr><td><a href='#role-329'>329</a></td><td><a href='#role-329'>Logopäd:in</a></td><td><a href='#role-329'>speech and language therapist</a></td></tr>
-<tr><td><a href='#role-330'>330</a></td><td><a href='#role-330'>Eventmanager:in</a></td><td><a href='#role-330'>event manager</a></td></tr>
-<tr><td><a href='#role-331'>331</a></td><td><a href='#role-331'>Medienwissenschaftler:in</a></td><td><a href='#role-331'>media scholar</a></td></tr>
-<tr><td><a href='#role-332'>332</a></td><td><a href='#role-332'>Musicaldarsteller:in</a></td><td><a href='#role-332'>musical theatre actor</a></td></tr>
-<tr><td><a href='#role-333'>333</a></td><td><a href='#role-333'>Bandleader:in</a></td><td><a href='#role-333'>bandleader</a></td></tr>
-<tr><td><a href='#role-334'>334</a></td><td><a href='#role-334'>Jazzmusiker:in</a></td><td><a href='#role-334'>jazz musician</a></td></tr>
-<tr><td><a href='#role-335'>335</a></td><td><a href='#role-335'>Musikethnolog:in</a></td><td><a href='#role-335'>ethnomusicologist</a></td></tr>
-<tr><td><a href='#role-336'>336</a></td><td><a href='#role-336'>Naturwissenschaftler:in</a></td><td><a href='#role-336'>natural scientist</a></td></tr>
-<tr><td><a href='#role-337'>337</a></td><td><a href='#role-337'>Chemiker:in</a></td><td><a href='#role-337'>chemist</a></td></tr>
-<tr><td><a href='#role-338'>338</a></td><td><a href='#role-338'>Neurobiolog:in</a></td><td><a href='#role-338'>neurobiologist</a></td></tr>
-<tr><td><a href='#role-339'>339</a></td><td><a href='#role-339'>Ökolog:in</a></td><td><a href='#role-339'>ecologist</a></td></tr>
-<tr><td><a href='#role-340'>340</a></td><td><a href='#role-340'>Pädagog:in</a></td><td><a href='#role-340'>pedagogue</a></td></tr>
-<tr><td><a href='#role-341'>341</a></td><td><a href='#role-341'>Politikwissenschaftler:in</a></td><td><a href='#role-341'>political scientist</a></td></tr>
-<tr><td><a href='#role-342'>342</a></td><td><a href='#role-342'>Praktikant:in</a></td><td><a href='#role-342'>intern</a></td></tr>
-<tr><td><a href='#role-343'>343</a></td><td><a href='#role-343'>Produktionsassistent:in</a></td><td><a href='#role-343'>assistant producer</a></td></tr>
-<tr><td><a href='#role-344'>344</a></td><td><a href='#role-344'>Programmierer:in</a></td><td><a href='#role-344'>programmer</a></td></tr>
-<tr><td><a href='#role-345'>345</a></td><td><a href='#role-345'>Psycholog:in</a></td><td><a href='#role-345'>psychologist</a></td></tr>
-<tr><td><a href='#role-346'>346</a></td><td><a href='#role-346'>Psychotherapeut:in</a></td><td><a href='#role-346'>psychotherapist</a></td></tr>
-<tr><td><a href='#role-347'>347</a></td><td><a href='#role-347'>Musiktherapeut:in</a></td><td><a href='#role-347'>music therapist</a></td></tr>
-<tr><td><a href='#role-348'>348</a></td><td><a href='#role-348'>Publizist:in</a></td><td><a href='#role-348'>opinion journalist</a></td></tr>
-<tr><td><a href='#role-349'>349</a></td><td><a href='#role-349'>Raumplaner:in</a></td><td><a href='#role-349'>spatial planner</a></td></tr>
-<tr><td><a href='#role-350'>350</a></td><td><a href='#role-350'>Schriftsetzer:in</a></td><td><a href='#role-350'>typesetter</a></td></tr>
-<tr><td><a href='#role-351'>351</a></td><td><a href='#role-351'>Musikschriftsteller:in</a></td><td><a href='#role-351'>musicographer</a></td></tr>
-<tr><td><a href='#role-352'>352</a></td><td><a href='#role-352'>Soufflage</a></td><td><a href='#role-352'>prompter</a></td></tr>
-<tr><td><a href='#role-353'>353</a></td><td><a href='#role-353'>Soziolog:in</a></td><td><a href='#role-353'>sociologist</a></td></tr>
-<tr><td><a href='#role-354'>354</a></td><td><a href='#role-354'>Kultursoziolog:in</a></td><td><a href='#role-354'>cultural sociologist</a></td></tr>
-<tr><td><a href='#role-355'>355</a></td><td><a href='#role-355'>Sportler:in</a></td><td><a href='#role-355'>athlete</a></td></tr>
-<tr><td><a href='#role-356'>356</a></td><td><a href='#role-356'>Bergsteiger:in</a></td><td><a href='#role-356'>mountaineer</a></td></tr>
-<tr><td><a href='#role-357'>357</a></td><td><a href='#role-357'>Kampfsportler:in</a></td><td><a href='#role-357'>martial artist</a></td></tr>
-<tr><td><a href='#role-358'>358</a></td><td><a href='#role-358'>Sprecherzieher:in</a></td><td><a href='#role-358'>speech trainer</a></td></tr>
-<tr><td><a href='#role-359'>359</a></td><td><a href='#role-359'>Steuerfachangestellte:r</a></td><td><a href='#role-359'>tax consultant</a></td></tr>
-<tr><td><a href='#role-360'>360</a></td><td><a href='#role-360'>Technische:r Direktor:in</a></td><td><a href='#role-360'>technical director</a></td></tr>
-<tr><td><a href='#role-361'>361</a></td><td><a href='#role-361'>Tontechniker:in</a></td><td><a href='#role-361'>audio technician</a></td></tr>
-<tr><td><a href='#role-362'>362</a></td><td><a href='#role-362'>Veranstaltungstechniker:in</a></td><td><a href='#role-362'>event technician</a></td></tr>
-<tr><td><a href='#role-363'>363</a></td><td><a href='#role-363'>Theatermacher:in</a></td><td><a href='#role-363'>theatre maker</a></td></tr>
-<tr><td><a href='#role-364'>364</a></td><td><a href='#role-364'>Inspizient:in</a></td><td><a href='#role-364'>stage manager</a></td></tr>
-<tr><td><a href='#role-365'>365</a></td><td><a href='#role-365'>Theaterwissenschaftler:in</a></td><td><a href='#role-365'>theatrologist</a></td></tr>
-<tr><td><a href='#role-366'>366</a></td><td><a href='#role-366'>Theolog:in</a></td><td><a href='#role-366'>theologian</a></td></tr>
-<tr><td><a href='#role-367'>367</a></td><td><a href='#role-367'>Tischler:in</a></td><td><a href='#role-367'>carpenter</a></td></tr>
-<tr><td><a href='#role-368'>368</a></td><td><a href='#role-368'>Tonassistent:in</a></td><td><a href='#role-368'>boom operator</a></td></tr>
-<tr><td><a href='#role-369'>369</a></td><td><a href='#role-369'>Travestie</a></td><td><a href='#role-369'>travesti</a></td></tr>
-<tr><td><a href='#role-370'>370</a></td><td><a href='#role-370'>Dragqueen</a></td><td><a href='#role-370'>drag queen</a></td></tr>
-<tr><td><a href='#role-371'>371</a></td><td><a href='#role-371'>Unterstützer:in</a></td><td><a href='#role-371'>participant</a></td></tr>
-<tr><td><a href='#role-372'>372</a></td><td><a href='#role-372'>Visagist:in</a></td><td><a href='#role-372'>visagiste</a></td></tr>
-<tr><td><a href='#role-373'>373</a></td><td><a href='#role-373'>Vorsitzende:r</a></td><td><a href='#role-373'>chairperson</a></td></tr>
-<tr><td><a href='#role-374'>374</a></td><td><a href='#role-374'>Werkstattleiter:in</a></td><td><a href='#role-374'>workshop manager</a></td></tr>
-<tr><td><a href='#role-375'>375</a></td><td><a href='#role-375'>Wirtschaftswissenschaftler:in</a></td><td><a href='#role-375'>economist</a></td></tr>
-<tr><td><a href='#role-376'>376</a></td><td><a href='#role-376'>Yogalehrer:in</a></td><td><a href='#role-376'>yoga instructor</a></td></tr>
-<tr><td><a href='#role-377'>377</a></td><td><a href='#role-377'>Zoolog:in</a></td><td><a href='#role-377'>zoologist</a></td></tr>
-<tr><td><a href='#role-378'>378</a></td><td><a href='#role-378'>Architekt:in</a></td><td><a href='#role-378'>architect</a></td></tr>
-<tr><td><a href='#role-379'>379</a></td><td><a href='#role-379'>Technische Realisation</a></td><td><a href='#role-379'>technical realisation</a></td></tr>
-<tr><td><a href='#role-380'>380</a></td><td><a href='#role-380'>Kooperation</a></td><td><a href='#role-380'>cooperation</a></td></tr>
-<tr><td><a href='#role-381'>381</a></td><td><a href='#role-381'>wissenschaftliche:r Mitarbeiter:in</a></td><td><a href='#role-381'>research fellow</a></td></tr>
-<tr><td><a href='#role-382'>382</a></td><td><a href='#role-382'>Projektleiter:in</a></td><td><a href='#role-382'>project manager</a></td></tr>
-<tr><td><a href='#role-383'>383</a></td><td><a href='#role-383'>Mastering Studio</a></td><td><a href='#role-383'>mastering studio</a></td></tr>
-<tr><td><a href='#role-384'>384</a></td><td><a href='#role-384'>Buchhändler:in</a></td><td><a href='#role-384'>bookseller</a></td></tr>
-<tr><td><a href='#role-385'>385</a></td><td><a href='#role-385'>Grafiker:in</a></td><td><a href='#role-385'>graphic artist</a></td></tr>
-<tr><td><a href='#role-386'>386</a></td><td><a href='#role-386'>Model</a></td><td><a href='#role-386'>model</a></td></tr>
-<tr><td><a href='#role-387'>387</a></td><td><a href='#role-387'>Modedesigner:in</a></td><td><a href='#role-387'>fashion designer</a></td></tr>
-<tr><td><a href='#role-388'>388</a></td><td><a href='#role-388'>Tanzwissenschaftler:in</a></td><td><a href='#role-388'>dance researcher</a></td></tr>
-<tr><td><a href='#role-389'>389</a></td><td><a href='#role-389'>Zeichner:in</a></td><td><a href='#role-389'>draftsperson</a></td></tr>
-<tr><td><a href='#role-390'>390</a></td><td><a href='#role-390'>Comiczeichner:in</a></td><td><a href='#role-390'>comics artist</a></td></tr>
-<tr><td><a href='#role-391'>391</a></td><td><a href='#role-391'>Tätowierer:in</a></td><td><a href='#role-391'>tattoo artist</a></td></tr>
-<tr><td><a href='#role-392'>392</a></td><td><a href='#role-392'>Location Manager:in</a></td><td><a href='#role-392'>location manager</a></td></tr>
-<tr><td><a href='#role-393'>393</a></td><td><a href='#role-393'>Kognitionswissenschaftler:in</a></td><td><a href='#role-393'>cognitive scientist</a></td></tr>
-<tr><td><a href='#role-394'>394</a></td><td><a href='#role-394'>Mathematiker:in</a></td><td><a href='#role-394'>mathematician</a></td></tr>
-<tr><td><a href='#role-397'>397</a></td><td><a href='#role-397'>Hörfunkmoderator:in</a></td><td><a href='#role-397'>radio personality</a></td></tr>
-<tr><td><a href='#role-398'>398</a></td><td><a href='#role-398'>VFX Producer:in</a></td><td><a href='#role-398'>VFX producer</a></td></tr>
-<tr><td><a href='#role-399'>399</a></td><td><a href='#role-399'>VFX-Künstler:in</a></td><td><a href='#role-399'>VFX artist</a></td></tr>
-<tr><td><a href='#role-400'>400</a></td><td><a href='#role-400'>Öffentlichkeitsarbeit</a></td><td><a href='#role-400'>public relations</a></td></tr>
-<tr><td><a href='#role-401'>401</a></td><td><a href='#role-401'>Liedbegleitung</a></td><td><a href='#role-401'>song accompaniment</a></td></tr>
-<tr><td><a href='#role-402'>402</a></td><td><a href='#role-402'>Lehrbeauftragte:r</a></td><td><a href='#role-402'>freelance instructor</a></td></tr>
-<tr><td><a href='#role-403'>403</a></td><td><a href='#role-403'>Moderator:in</a></td><td><a href='#role-403'>presenter</a></td></tr>
-<tr><td><a href='#role-404'>404</a></td><td><a href='#role-404'>Kirchenmusiker:in</a></td><td><a href='#role-404'>church musician</a></td></tr>
-<tr><td><a href='#role-405'>405</a></td><td><a href='#role-405'>Klangregisseur:in</a></td><td><a href='#role-404'>sound director</a></td></tr>
-<tr><td><a href='#role-406'>406</a></td><td><a href='#role-406'>Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>water instrument player</a></td></tr>
-<tr><td><a href='#role-407'>407</a></td><td><a href='#role-407'>Synthesizerspieler:in</a></td><td><a href='#role-407'>synthesizer player</a></td></tr>
-</table>
-</details>
-
-<details><summary>Roles ordered by German Name | Rollen nach Deutschem Namen geordnet</summary>
-<table>
-<tr><th>German Name</th><th>English Name</th><th>ID</th></tr>
-<tr><td><a href='#role-1'>1. Kameraassistenz</a></td><td><a href='#role-1'>1st assistant camera</a></td><td><a href='#role-1'>1</a></td></tr>
-<tr><td><a href='#role-2'>2. Kameraassistenz</a></td><td><a href='#role-2'>2nd assistant camera</a></td><td><a href='#role-2'>2</a></td></tr>
-<tr><td><a href='#role-3'>Absolvent:in</a></td><td><a href='#role-3'>graduate</a></td><td><a href='#role-3'>3</a></td></tr>
-<tr><td><a href='#role-4'>Agent:in</a></td><td><a href='#role-4'>agent</a></td><td><a href='#role-4'>4</a></td></tr>
-<tr><td><a href='#role-58'>Akkordeonist:in</a></td><td><a href='#role-58'>accordionist</a></td><td><a href='#role-58'>58</a></td></tr>
-<tr><td><a href='#role-200'>Altist:in</a></td><td><a href='#role-200'>alto</a></td><td><a href='#role-200'>200</a></td></tr>
-<tr><td><a href='#role-93'>Altsaxofonist:in</a></td><td><a href='#role-93'>alto saxophonist</a></td><td><a href='#role-93'>93</a></td></tr>
-<tr><td><a href='#role-5'>Amateur:in</a></td><td><a href='#role-5'>amateur</a></td><td><a href='#role-5'>5</a></td></tr>
-<tr><td><a href='#role-6'>Animation</a></td><td><a href='#role-6'>animation</a></td><td><a href='#role-6'>6</a></td></tr>
-<tr><td><a href='#role-224'>Ansager:in</a></td><td><a href='#role-224'>announcer</a></td><td><a href='#role-224'>224</a></td></tr>
-<tr><td><a href='#role-7'>Anthropolog:in</a></td><td><a href='#role-7'>anthropologist</a></td><td><a href='#role-7'>7</a></td></tr>
-<tr><td><a href='#role-378'>Architekt:in</a></td><td><a href='#role-378'>architect</a></td><td><a href='#role-378'>378</a></td></tr>
-<tr><td><a href='#role-9'>Archivar:in</a></td><td><a href='#role-9'>archivist</a></td><td><a href='#role-9'>9</a></td></tr>
-<tr><td><a href='#role-8'>Archäolog:in</a></td><td><a href='#role-8'>archaeologist</a></td><td><a href='#role-8'>8</a></td></tr>
-<tr><td><a href='#role-10'>Arrangeur:in</a></td><td><a href='#role-10'>music arranger</a></td><td><a href='#role-10'>10</a></td></tr>
-<tr><td><a href='#role-11'>Arzt/Ärztin</a></td><td><a href='#role-11'>physician</a></td><td><a href='#role-11'>11</a></td></tr>
-<tr><td><a href='#role-13'>Assistent:in</a></td><td><a href='#role-13'>assistant</a></td><td><a href='#role-13'>13</a></td></tr>
-<tr><td><a href='#role-14'>Aufnahmeexpert:in</a></td><td><a href='#role-14'>recording expert</a></td><td><a href='#role-14'>14</a></td></tr>
-<tr><td><a href='#role-15'>Aufnahmeleiter:in</a></td><td><a href='#role-15'>recording supervisor</a></td><td><a href='#role-15'>15</a></td></tr>
-<tr><td><a href='#role-17'>Auftraggeber:in</a></td><td><a href='#role-17'>commissioner</a></td><td><a href='#role-17'>17</a></td></tr>
-<tr><td><a href='#role-12'>Augenarzt/Augenärztin</a></td><td><a href='#role-12'>ophthalmologist</a></td><td><a href='#role-12'>12</a></td></tr>
-<tr><td><a href='#role-124'>Ausstellungs-Kurator:in</a></td><td><a href='#role-124'>exhibition curator</a></td><td><a href='#role-124'>124</a></td></tr>
-<tr><td><a href='#role-78'>Autohändler:in</a></td><td><a href='#role-78'>car dealer</a></td><td><a href='#role-78'>78</a></td></tr>
-<tr><td><a href='#role-18'>Autor:in</a></td><td><a href='#role-18'>author</a></td><td><a href='#role-18'>18</a></td></tr>
-<tr><td><a href='#role-272'>Balalaikaspieler:in</a></td><td><a href='#role-272'>balalaikist</a></td><td><a href='#role-272'>272</a></td></tr>
-<tr><td><a href='#role-21'>Ballettmeister:in</a></td><td><a href='#role-21'>ballet master</a></td><td><a href='#role-21'>21</a></td></tr>
-<tr><td><a href='#role-142'>Band</a></td><td><a href='#role-142'>band</a></td><td><a href='#role-142'>142</a></td></tr>
-<tr><td><a href='#role-333'>Bandleader:in</a></td><td><a href='#role-333'>bandleader</a></td><td><a href='#role-333'>333</a></td></tr>
-<tr><td><a href='#role-273'>Banjospieler:in</a></td><td><a href='#role-273'>banjoist</a></td><td><a href='#role-273'>273</a></td></tr>
-<tr><td><a href='#role-22'>Bankbeamt:in</a></td><td><a href='#role-22'>bank officer</a></td><td><a href='#role-22'>22</a></td></tr>
-<tr><td><a href='#role-23'>Barbetreiber:in</a></td><td><a href='#role-23'>bar manager</a></td><td><a href='#role-23'>23</a></td></tr>
-<tr><td><a href='#role-201'>Bariton</a></td><td><a href='#role-201'>baritone</a></td><td><a href='#role-201'>201</a></td></tr>
-<tr><td><a href='#role-94'>Baritonsaxofonist:in</a></td><td><a href='#role-94'>baritone saxophonist</a></td><td><a href='#role-94'>94</a></td></tr>
-<tr><td><a href='#role-202'>Bassbariton</a></td><td><a href='#role-202'>bass-baritone</a></td><td><a href='#role-202'>202</a></td></tr>
-<tr><td><a href='#role-203'>Bassist (Gesang)</a></td><td><a href='#role-203'>bassist (singer)</a></td><td><a href='#role-203'>203</a></td></tr>
-<tr><td><a href='#role-274'>Bassist:in (Instrument)</a></td><td><a href='#role-274'>bassist (instrument)</a></td><td><a href='#role-274'>274</a></td></tr>
-<tr><td><a href='#role-95'>Basssaxofonist:in</a></td><td><a href='#role-95'>bass saxophonist</a></td><td><a href='#role-95'>95</a></td></tr>
-<tr><td><a href='#role-24'>Beleuchter:in</a></td><td><a href='#role-24'>lighting technician</a></td><td><a href='#role-24'>24</a></td></tr>
-<tr><td><a href='#role-25'>Bergbauingenieur:in</a></td><td><a href='#role-25'>mining engineer</a></td><td><a href='#role-25'>25</a></td></tr>
-<tr><td><a href='#role-356'>Bergsteiger:in</a></td><td><a href='#role-356'>mountaineer</a></td><td><a href='#role-356'>356</a></td></tr>
-<tr><td><a href='#role-26'>Besitzer:in</a></td><td><a href='#role-26'>possessor</a></td><td><a href='#role-26'>26</a></td></tr>
-<tr><td><a href='#role-27'>Betreuer:in</a></td><td><a href='#role-27'>academic supervisor</a></td><td><a href='#role-27'>27</a></td></tr>
-<tr><td><a href='#role-292'>Betriebswirt:in</a></td><td><a href='#role-292'>business manager</a></td><td><a href='#role-292'>292</a></td></tr>
-<tr><td><a href='#role-293'>Bewegungspädagog:in</a></td><td><a href='#role-293'>movement educator</a></td><td><a href='#role-293'>293</a></td></tr>
-<tr><td><a href='#role-28'>Bibliothekar:in</a></td><td><a href='#role-28'>librarian</a></td><td><a href='#role-28'>28</a></td></tr>
-<tr><td><a href='#role-29'>Bildgestalter:in</a></td><td><a href='#role-29'>cinematographer</a></td><td><a href='#role-29'>29</a></td></tr>
-<tr><td><a href='#role-294'>Bildhauer:in</a></td><td><a href='#role-294'>sculptor</a></td><td><a href='#role-294'>294</a></td></tr>
-<tr><td><a href='#role-295'>Biolog:in</a></td><td><a href='#role-295'>biologist</a></td><td><a href='#role-295'>295</a></td></tr>
-<tr><td><a href='#role-296'>Biotechniker:in</a></td><td><a href='#role-296'>biological technician</a></td><td><a href='#role-296'>296</a></td></tr>
-<tr><td><a href='#role-155'>Blasorchester</a></td><td><a href='#role-155'>wind orchestra</a></td><td><a href='#role-155'>155</a></td></tr>
-<tr><td><a href='#role-30'>Blechbläser:in</a></td><td><a href='#role-30'>brass player</a></td><td><a href='#role-30'>30</a></td></tr>
-<tr><td><a href='#role-85'>Blockflötist:in</a></td><td><a href='#role-85'>recorder player</a></td><td><a href='#role-85'>85</a></td></tr>
-<tr><td><a href='#role-297'>Botaniker:in</a></td><td><a href='#role-297'>botanist</a></td><td><a href='#role-297'>297</a></td></tr>
-<tr><td><a href='#role-285'>Boxer:in</a></td><td><a href='#role-285'>boxer</a></td><td><a href='#role-285'>285</a></td></tr>
-<tr><td><a href='#role-227'>Bratschist:in</a></td><td><a href='#role-227'>violist</a></td><td><a href='#role-227'>227</a></td></tr>
-<tr><td><a href='#role-306'>Buchbinder:in</a></td><td><a href='#role-306'>bookbinder</a></td><td><a href='#role-306'>306</a></td></tr>
-<tr><td><a href='#role-37'>Buchhalter:in</a></td><td><a href='#role-37'>bookkeeper</a></td><td><a href='#role-37'>37</a></td></tr>
-<tr><td><a href='#role-384'>Buchhändler:in</a></td><td><a href='#role-384'>bookseller</a></td><td><a href='#role-384'>384</a></td></tr>
-<tr><td><a href='#role-38'>Bühnenbildner:in</a></td><td><a href='#role-38'>scenographer</a></td><td><a href='#role-38'>38</a></td></tr>
-<tr><td><a href='#role-39'>Bühnenregisseur:in</a></td><td><a href='#role-39'>theatrical director</a></td><td><a href='#role-39'>39</a></td></tr>
-<tr><td><a href='#role-40'>Bühnentechniker:in</a></td><td><a href='#role-40'>theatrical technician</a></td><td><a href='#role-40'>40</a></td></tr>
-<tr><td><a href='#role-228'>Cellist:in</a></td><td><a href='#role-228'>cellist</a></td><td><a href='#role-228'>228</a></td></tr>
-<tr><td><a href='#role-238'>Cembalist:in</a></td><td><a href='#role-238'>harpsichordist</a></td><td><a href='#role-238'>238</a></td></tr>
-<tr><td><a href='#role-263'>Chansonnier/Chansonnière</a></td><td><a href='#role-263'>chansonnier/chanteuse</a></td><td><a href='#role-263'>263</a></td></tr>
-<tr><td><a href='#role-337'>Chemiker:in</a></td><td><a href='#role-337'>chemist</a></td><td><a href='#role-337'>337</a></td></tr>
-<tr><td><a href='#role-143'>Chor</a></td><td><a href='#role-143'>choir</a></td><td><a href='#role-143'>143</a></td></tr>
-<tr><td><a href='#role-144'>Choralschola</a></td><td><a href='#role-144'>scholae</a></td><td><a href='#role-144'>144</a></td></tr>
-<tr><td><a href='#role-41'>Choreograf:in</a></td><td><a href='#role-41'>choreographer</a></td><td><a href='#role-41'>41</a></td></tr>
-<tr><td><a href='#role-49'>Chorleiter:in</a></td><td><a href='#role-49'>choir director</a></td><td><a href='#role-49'>49</a></td></tr>
-<tr><td><a href='#role-204'>Chorsänger:in</a></td><td><a href='#role-204'>chorister</a></td><td><a href='#role-204'>204</a></td></tr>
-<tr><td><a href='#role-42'>Co-Autor:in</a></td><td><a href='#role-42'>co-author</a></td><td><a href='#role-42'>42</a></td></tr>
-<tr><td><a href='#role-43'>Colour Grading</a></td><td><a href='#role-43'>colour grading</a></td><td><a href='#role-43'>43</a></td></tr>
-<tr><td><a href='#role-149'>Combo</a></td><td><a href='#role-149'>combo</a></td><td><a href='#role-149'>149</a></td></tr>
-<tr><td><a href='#role-390'>Comiczeichner:in</a></td><td><a href='#role-390'>comics artist</a></td><td><a href='#role-390'>390</a></td></tr>
-<tr><td><a href='#role-205'>Countertenor</a></td><td><a href='#role-205'>countertenor</a></td><td><a href='#role-205'>205</a></td></tr>
-<tr><td><a href='#role-44'>Designer:in</a></td><td><a href='#role-44'>designer</a></td><td><a href='#role-44'>44</a></td></tr>
-<tr><td><a href='#role-45'>Dichterkomponist:in</a></td><td><a href='#role-45'>poet-composer</a></td><td><a href='#role-45'>45</a></td></tr>
-<tr><td><a href='#role-46'>Digitalisierer:in</a></td><td><a href='#role-46'>digitisation officer</a></td><td><a href='#role-46'>46</a></td></tr>
-<tr><td><a href='#role-47'>Diplomat:in</a></td><td><a href='#role-47'>diplomat</a></td><td><a href='#role-47'>47</a></td></tr>
-<tr><td><a href='#role-48'>Dirigent:in</a></td><td><a href='#role-48'>conductor</a></td><td><a href='#role-48'>48</a></td></tr>
-<tr><td><a href='#role-54'>DJ</a></td><td><a href='#role-54'>dj</a></td><td><a href='#role-54'>54</a></td></tr>
-<tr><td><a href='#role-304'>Dolly Grip</a></td><td><a href='#role-304'>dolly grip</a></td><td><a href='#role-304'>304</a></td></tr>
-<tr><td><a href='#role-370'>Dragqueen</a></td><td><a href='#role-370'>drag queen</a></td><td><a href='#role-370'>370</a></td></tr>
-<tr><td><a href='#role-19'>Dramatiker:in</a></td><td><a href='#role-19'>playwright</a></td><td><a href='#role-19'>19</a></td></tr>
-<tr><td><a href='#role-55'>Dramaturg:in</a></td><td><a href='#role-55'>dramaturge</a></td><td><a href='#role-55'>55</a></td></tr>
-<tr><td><a href='#role-56'>Drehbuchautor:in</a></td><td><a href='#role-56'>screen writer</a></td><td><a href='#role-56'>56</a></td></tr>
-<tr><td><a href='#role-307'>Drucker:in</a></td><td><a href='#role-307'>printer</a></td><td><a href='#role-307'>307</a></td></tr>
-<tr><td><a href='#role-86'>Dudelsackspieler:in</a></td><td><a href='#role-86'>bagpiper</a></td><td><a href='#role-86'>86</a></td></tr>
-<tr><td><a href='#role-57'>Durchschlagzungeninstrumenten-Spieler:in</a></td><td><a href='#role-57'>free-reed player</a></td><td><a href='#role-57'>57</a></td></tr>
-<tr><td><a href='#role-61'>Eigentümer:in</a></td><td><a href='#role-61'>owner</a></td><td><a href='#role-61'>61</a></td></tr>
-<tr><td><a href='#role-101'>Elektroingenieur:in</a></td><td><a href='#role-101'>electrical engineer</a></td><td><a href='#role-101'>101</a></td></tr>
-<tr><td><a href='#role-150'>Elektronik-Ensemble</a></td><td><a href='#role-150'>electronic band</a></td><td><a href='#role-150'>150</a></td></tr>
-<tr><td><a href='#role-245'>Elektroniker:in</a></td><td><a href='#role-245'>electronic technician</a></td><td><a href='#role-245'>245</a></td></tr>
-<tr><td><a href='#role-246'>Elektrotechniker:in</a></td><td><a href='#role-246'>electrotechnician</a></td><td><a href='#role-246'>246</a></td></tr>
-<tr><td><a href='#role-127'>Englischlehrer:in</a></td><td><a href='#role-127'>english teacher</a></td><td><a href='#role-127'>127</a></td></tr>
-<tr><td><a href='#role-50'>Ensembleleiter:in</a></td><td><a href='#role-50'>ensemble leader</a></td><td><a href='#role-50'>50</a></td></tr>
-<tr><td><a href='#role-62'>Erfinder:in</a></td><td><a href='#role-62'>inventor</a></td><td><a href='#role-62'>62</a></td></tr>
-<tr><td><a href='#role-301'>Ergonom:in</a></td><td><a href='#role-301'>ergonomist</a></td><td><a href='#role-301'>301</a></td></tr>
-<tr><td><a href='#role-63'>erwähnte:r Akteur:in</a></td><td><a href='#role-63'>mentioned actor</a></td><td><a href='#role-63'>63</a></td></tr>
-<tr><td><a href='#role-65'>Ethnograph:in</a></td><td><a href='#role-65'>ethnographer</a></td><td><a href='#role-65'>65</a></td></tr>
-<tr><td><a href='#role-64'>Ethnolog:in</a></td><td><a href='#role-64'>ethnologist</a></td><td><a href='#role-64'>64</a></td></tr>
-<tr><td><a href='#role-330'>Eventmanager:in</a></td><td><a href='#role-330'>event manager</a></td><td><a href='#role-330'>330</a></td></tr>
-<tr><td><a href='#role-87'>Fagottist:in</a></td><td><a href='#role-87'>bassoonist</a></td><td><a href='#role-87'>87</a></td></tr>
-<tr><td><a href='#role-79'>Fahrradhändler:in</a></td><td><a href='#role-79'>bicycle dealer</a></td><td><a href='#role-79'>79</a></td></tr>
-<tr><td><a href='#role-66'>Fernsehmoderator:in</a></td><td><a href='#role-66'>television presenter</a></td><td><a href='#role-66'>66</a></td></tr>
-<tr><td><a href='#role-67'>Filmförderung</a></td><td><a href='#role-67'>film funding</a></td><td><a href='#role-67'>67</a></td></tr>
-<tr><td><a href='#role-68'>Filmproduzent:in</a></td><td><a href='#role-68'>film producer</a></td><td><a href='#role-68'>68</a></td></tr>
-<tr><td><a href='#role-88'>Flötist:in</a></td><td><a href='#role-88'>flutist</a></td><td><a href='#role-88'>88</a></td></tr>
-<tr><td><a href='#role-69'>Folkloremusiker:in</a></td><td><a href='#role-69'>folk musician</a></td><td><a href='#role-69'>69</a></td></tr>
-<tr><td><a href='#role-72'>Foto-Künstler:in</a></td><td><a href='#role-72'>art photographer</a></td><td><a href='#role-72'>72</a></td></tr>
-<tr><td><a href='#role-70'>Fotograf:in</a></td><td><a href='#role-70'>photographer</a></td><td><a href='#role-70'>70</a></td></tr>
-<tr><td><a href='#role-71'>Fotograf:in (Film)</a></td><td><a href='#role-71'>still photographer</a></td><td><a href='#role-71'>71</a></td></tr>
-<tr><td><a href='#role-145'>Frauenchor</a></td><td><a href='#role-145'>women's choir</a></td><td><a href='#role-145'>145</a></td></tr>
-<tr><td><a href='#role-229'>Gambist:in</a></td><td><a href='#role-229'>viol player</a></td><td><a href='#role-229'>229</a></td></tr>
-<tr><td><a href='#role-302'>Garderobier:e</a></td><td><a href='#role-302'>dresser</a></td><td><a href='#role-302'>302</a></td></tr>
-<tr><td><a href='#role-162'>Geigenbauer:in</a></td><td><a href='#role-162'>luthier</a></td><td><a href='#role-162'>162</a></td></tr>
-<tr><td><a href='#role-51'>Generalmusikdirektor:in</a></td><td><a href='#role-51'>general music director</a></td><td><a href='#role-51'>51</a></td></tr>
-<tr><td><a href='#role-73'>Gerichtsvollzieher:in</a></td><td><a href='#role-73'>bailiff</a></td><td><a href='#role-73'>73</a></td></tr>
-<tr><td><a href='#role-74'>Gesangslehrer:in</a></td><td><a href='#role-74'>voice teacher</a></td><td><a href='#role-74'>74</a></td></tr>
-<tr><td><a href='#role-303'>Geschäftspartner:in</a></td><td><a href='#role-303'>business partner</a></td><td><a href='#role-303'>303</a></td></tr>
-<tr><td><a href='#role-75'>Gewandmeister:in</a></td><td><a href='#role-75'>wardrobe master</a></td><td><a href='#role-75'>75</a></td></tr>
-<tr><td><a href='#role-275'>Gitarrist:in</a></td><td><a href='#role-275'>guitarist</a></td><td><a href='#role-275'>275</a></td></tr>
-<tr><td><a href='#role-319'>Grafikdesigner:in</a></td><td><a href='#role-319'>graphic designer</a></td><td><a href='#role-319'>319</a></td></tr>
-<tr><td><a href='#role-385'>Grafiker:in</a></td><td><a href='#role-385'>graphic artist</a></td><td><a href='#role-385'>385</a></td></tr>
-<tr><td><a href='#role-76'>Grip</a></td><td><a href='#role-76'>grip</a></td><td><a href='#role-76'>76</a></td></tr>
-<tr><td><a href='#role-305'>Handwerker:in</a></td><td><a href='#role-305'>artisan</a></td><td><a href='#role-305'>305</a></td></tr>
-<tr><td><a href='#role-278'>Harfenist:in</a></td><td><a href='#role-278'>harpist</a></td><td><a href='#role-278'>278</a></td></tr>
-<tr><td><a href='#role-239'>Harmoniumspieler:in</a></td><td><a href='#role-239'>harmonium player</a></td><td><a href='#role-239'>239</a></td></tr>
-<tr><td><a href='#role-309'>Herausgeber:in</a></td><td><a href='#role-309'>publisher</a></td><td><a href='#role-309'>309</a></td></tr>
-<tr><td><a href='#role-82'>Hersteller:in</a></td><td><a href='#role-82'>manufacturer</a></td><td><a href='#role-82'>82</a></td></tr>
-<tr><td><a href='#role-83'>Historiker:in</a></td><td><a href='#role-83'>historian</a></td><td><a href='#role-83'>83</a></td></tr>
-<tr><td><a href='#role-326'>Hochschullehrer:in</a></td><td><a href='#role-326'>university teacher</a></td><td><a href='#role-326'>326</a></td></tr>
-<tr><td><a href='#role-84'>Holzbläser:in</a></td><td><a href='#role-84'>woodwind player</a></td><td><a href='#role-84'>84</a></td></tr>
-<tr><td><a href='#role-31'>Hornist:in</a></td><td><a href='#role-31'>hornist</a></td><td><a href='#role-31'>31</a></td></tr>
-<tr><td><a href='#role-310'>Humangeograph:in</a></td><td><a href='#role-310'>human geographer</a></td><td><a href='#role-310'>310</a></td></tr>
-<tr><td><a href='#role-77'>Händler:in</a></td><td><a href='#role-77'>trader</a></td><td><a href='#role-77'>77</a></td></tr>
-<tr><td><a href='#role-397'>Hörfunkmoderator:in</a></td><td><a href='#role-397'>radio personality</a></td><td><a href='#role-397'>397</a></td></tr>
-<tr><td><a href='#role-321'>Illustrator:in</a></td><td><a href='#role-321'>illustrator</a></td><td><a href='#role-321'>321</a></td></tr>
-<tr><td><a href='#role-99'>Impressario</a></td><td><a href='#role-99'>impresario</a></td><td><a href='#role-99'>99</a></td></tr>
-<tr><td><a href='#role-311'>Informatiker:in</a></td><td><a href='#role-311'>computer scientist</a></td><td><a href='#role-311'>311</a></td></tr>
-<tr><td><a href='#role-100'>Ingenieur:in</a></td><td><a href='#role-100'>engineer</a></td><td><a href='#role-100'>100</a></td></tr>
-<tr><td><a href='#role-364'>Inspizient:in</a></td><td><a href='#role-364'>stage manager</a></td><td><a href='#role-364'>364</a></td></tr>
-<tr><td><a href='#role-151'>Instrumentalgruppe</a></td><td><a href='#role-151'>instrumental group</a></td><td><a href='#role-151'>151</a></td></tr>
-<tr><td><a href='#role-102'>Instrumentalist:in</a></td><td><a href='#role-102'>instrumentalist</a></td><td><a href='#role-102'>102</a></td></tr>
-<tr><td><a href='#role-103'>Intendant:in</a></td><td><a href='#role-103'>intendant</a></td><td><a href='#role-103'>103</a></td></tr>
-<tr><td><a href='#role-104'>Interpret:in</a></td><td><a href='#role-104'>performing artist</a></td><td><a href='#role-104'>104</a></td></tr>
-<tr><td><a href='#role-334'>Jazzmusiker:in</a></td><td><a href='#role-334'>jazz musician</a></td><td><a href='#role-334'>334</a></td></tr>
-<tr><td><a href='#role-264'>Jodler:in</a></td><td><a href='#role-264'>yodeler</a></td><td><a href='#role-264'>264</a></td></tr>
-<tr><td><a href='#role-105'>Journalist:in</a></td><td><a href='#role-105'>journalist</a></td><td><a href='#role-105'>105</a></td></tr>
-<tr><td><a href='#role-312'>Jurist:in</a></td><td><a href='#role-312'>jurist</a></td><td><a href='#role-312'>312</a></td></tr>
-<tr><td><a href='#role-111'>Kabarettist:in</a></td><td><a href='#role-111'>cabaret performer</a></td><td><a href='#role-111'>111</a></td></tr>
-<tr><td><a href='#role-112'>Kameraperson</a></td><td><a href='#role-112'>cinematographer</a></td><td><a href='#role-112'>112</a></td></tr>
-<tr><td><a href='#role-152'>Kammermusikensemble</a></td><td><a href='#role-152'>chamber music ensemble</a></td><td><a href='#role-152'>152</a></td></tr>
-<tr><td><a href='#role-357'>Kampfsportler:in</a></td><td><a href='#role-357'>martial artist</a></td><td><a href='#role-357'>357</a></td></tr>
-<tr><td><a href='#role-52'>Kantor:in (christlich)</a></td><td><a href='#role-52'>cantor</a></td><td><a href='#role-52'>52</a></td></tr>
-<tr><td><a href='#role-207'>Kantor:in (jüdisch)</a></td><td><a href='#role-207'>hazzan</a></td><td><a href='#role-207'>207</a></td></tr>
-<tr><td><a href='#role-300'>Kapellmeister:in</a></td><td><a href='#role-300'>chapelmaster</a></td><td><a href='#role-300'>300</a></td></tr>
-<tr><td><a href='#role-120'>Karikaturist:in</a></td><td><a href='#role-120'>caricaturist</a></td><td><a href='#role-120'>120</a></td></tr>
-<tr><td><a href='#role-206'>Kastrat</a></td><td><a href='#role-206'>castrato</a></td><td><a href='#role-206'>206</a></td></tr>
-<tr><td><a href='#role-313'>Keramiker:in</a></td><td><a href='#role-313'>ceramicist</a></td><td><a href='#role-313'>313</a></td></tr>
-<tr><td><a href='#role-240'>Keyboarder:in</a></td><td><a href='#role-240'>keyboarder</a></td><td><a href='#role-240'>240</a></td></tr>
-<tr><td><a href='#role-146'>Kinderchor</a></td><td><a href='#role-146'>children's choir</a></td><td><a href='#role-146'>146</a></td></tr>
-<tr><td><a href='#role-404'>Kirchenmusiker:in</a></td><td><a href='#role-404'>church musician</a></td><td><a href='#role-404'>404</a></td></tr>
-<tr><td><a href='#role-320'>Klangkünstler:in</a></td><td><a href='#role-320'>sound artist</a></td><td><a href='#role-320'>320</a></td></tr>
-<tr><td><a href='#role-405'>Klangregisseur:in</a></td><td><a href='#role-405'>sound director</a></td><td><a href='#role-405'>405</a></td></tr>
-<tr><td><a href='#role-90'>Klarinettist:in</a></td><td><a href='#role-90'>clarinetist</a></td><td><a href='#role-90'>90</a></td></tr>
-<tr><td><a href='#role-163'>Klavierbauer:in</a></td><td><a href='#role-163'>piano maker</a></td><td><a href='#role-163'>163</a></td></tr>
-<tr><td><a href='#role-237'>Klavierist:in</a></td><td><a href='#role-237'>clavierist</a></td><td><a href='#role-237'>237</a></td></tr>
-<tr><td><a href='#role-113'>Klinikverwalter:in</a></td><td><a href='#role-113'>hospital administrator</a></td><td><a href='#role-113'>113</a></td></tr>
-<tr><td><a href='#role-208'>Knabenalt</a></td><td><a href='#role-208'>boy alto</a></td><td><a href='#role-208'>208</a></td></tr>
-<tr><td><a href='#role-147'>Knabenchor</a></td><td><a href='#role-147'>boys' choir</a></td><td><a href='#role-147'>147</a></td></tr>
-<tr><td><a href='#role-209'>Knabensopran</a></td><td><a href='#role-209'>boy soprano</a></td><td><a href='#role-209'>209</a></td></tr>
-<tr><td><a href='#role-393'>Kognitionswissenschaftler:in</a></td><td><a href='#role-393'>cognitive scientist</a></td><td><a href='#role-393'>393</a></td></tr>
-<tr><td><a href='#role-284'>Komiker:in</a></td><td><a href='#role-284'>comedian</a></td><td><a href='#role-284'>284</a></td></tr>
-<tr><td><a href='#role-114'>Komiker:innenduo</a></td><td><a href='#role-114'>double act</a></td><td><a href='#role-114'>114</a></td></tr>
-<tr><td><a href='#role-115'>Komponist:in</a></td><td><a href='#role-115'>composer</a></td><td><a href='#role-115'>115</a></td></tr>
-<tr><td><a href='#role-230'>Kontrabassist:in</a></td><td><a href='#role-230'>double bassist</a></td><td><a href='#role-230'>230</a></td></tr>
-<tr><td><a href='#role-59'>Konzertinaspieler:in</a></td><td><a href='#role-59'>concertina player</a></td><td><a href='#role-59'>59</a></td></tr>
-<tr><td><a href='#role-314'>Konzertmeister:in</a></td><td><a href='#role-314'>concertmaster</a></td><td><a href='#role-314'>314</a></td></tr>
-<tr><td><a href='#role-380'>Kooperation</a></td><td><a href='#role-380'>cooperation</a></td><td><a href='#role-380'>380</a></td></tr>
-<tr><td><a href='#role-116'>Koproduzent:in</a></td><td><a href='#role-116'>co-producer</a></td><td><a href='#role-116'>116</a></td></tr>
-<tr><td><a href='#role-32'>Kornettist:in</a></td><td><a href='#role-32'>cornetist</a></td><td><a href='#role-32'>32</a></td></tr>
-<tr><td><a href='#role-315'>Korrepetitor:in</a></td><td><a href='#role-315'>répétiteur</a></td><td><a href='#role-315'>315</a></td></tr>
-<tr><td><a href='#role-117'>Kostümbildner:in</a></td><td><a href='#role-117'>costume designer</a></td><td><a href='#role-117'>117</a></td></tr>
-<tr><td><a href='#role-316'>Kranführer:in</a></td><td><a href='#role-316'>crane operator</a></td><td><a href='#role-316'>316</a></td></tr>
-<tr><td><a href='#role-290'>Kriminalschriftsteller:in</a></td><td><a href='#role-290'>crime fiction writer</a></td><td><a href='#role-290'>290</a></td></tr>
-<tr><td><a href='#role-107'>Kritiker:in</a></td><td><a href='#role-107'>critic</a></td><td><a href='#role-107'>107</a></td></tr>
-<tr><td><a href='#role-118'>Kulturaktivist:in</a></td><td><a href='#role-118'>cultural activist</a></td><td><a href='#role-118'>118</a></td></tr>
-<tr><td><a href='#role-106'>Kulturjournalist:in</a></td><td><a href='#role-106'>arts journalist</a></td><td><a href='#role-106'>106</a></td></tr>
-<tr><td><a href='#role-354'>Kultursoziolog:in</a></td><td><a href='#role-354'>cultural sociologist</a></td><td><a href='#role-354'>354</a></td></tr>
-<tr><td><a href='#role-317'>Kulturwissenschaftler:in</a></td><td><a href='#role-317'>cultural studies scholar</a></td><td><a href='#role-317'>317</a></td></tr>
-<tr><td><a href='#role-318'>Kunsthistoriker:in</a></td><td><a href='#role-318'>art historian</a></td><td><a href='#role-318'>318</a></td></tr>
-<tr><td><a href='#role-122'>Kunstpfeifer:in</a></td><td><a href='#role-122'>whistle artist</a></td><td><a href='#role-122'>122</a></td></tr>
-<tr><td><a href='#role-325'>Kunstwissenschaftler:in</a></td><td><a href='#role-325'>art scholar</a></td><td><a href='#role-325'>325</a></td></tr>
-<tr><td><a href='#role-123'>Kurator:in</a></td><td><a href='#role-123'>curator</a></td><td><a href='#role-123'>123</a></td></tr>
-<tr><td><a href='#role-119'>Künstler:in</a></td><td><a href='#role-119'>artist</a></td><td><a href='#role-119'>119</a></td></tr>
-<tr><td><a href='#role-324'>Künstlerische:r Leiter:in</a></td><td><a href='#role-324'>artistic director</a></td><td><a href='#role-324'>324</a></td></tr>
-<tr><td><a href='#role-279'>Lautenist:in</a></td><td><a href='#role-279'>lutenist</a></td><td><a href='#role-279'>279</a></td></tr>
-<tr><td><a href='#role-276'>Lead-Gitarrist:in</a></td><td><a href='#role-276'>lead guitarist</a></td><td><a href='#role-276'>276</a></td></tr>
-<tr><td><a href='#role-402'>Lehrbeauftragte:r</a></td><td><a href='#role-402'>freelance instructor</a></td><td><a href='#role-402'>402</a></td></tr>
-<tr><td><a href='#role-125'>Lehrer:in</a></td><td><a href='#role-125'>teacher</a></td><td><a href='#role-125'>125</a></td></tr>
-<tr><td><a href='#role-128'>Librettist:in</a></td><td><a href='#role-128'>librettist</a></td><td><a href='#role-128'>128</a></td></tr>
-<tr><td><a href='#role-401'>Liedbegleitung</a></td><td><a href='#role-401'>song accompaniment</a></td><td><a href='#role-401'>401</a></td></tr>
-<tr><td><a href='#role-129'>Linguist:in</a></td><td><a href='#role-129'>linguist</a></td><td><a href='#role-129'>129</a></td></tr>
-<tr><td><a href='#role-108'>Literaturkritiker:in</a></td><td><a href='#role-108'>literary critic</a></td><td><a href='#role-108'>108</a></td></tr>
-<tr><td><a href='#role-392'>Location Manager:in</a></td><td><a href='#role-392'>location manager</a></td><td><a href='#role-392'>392</a></td></tr>
-<tr><td><a href='#role-329'>Logopäd:in</a></td><td><a href='#role-329'>speech and language therapist</a></td><td><a href='#role-329'>329</a></td></tr>
-<tr><td><a href='#role-131'>Lokomotivführer:in</a></td><td><a href='#role-131'>train driver</a></td><td><a href='#role-131'>131</a></td></tr>
-<tr><td><a href='#role-132'>Luftfahrtpionier:in</a></td><td><a href='#role-132'>aviation pioneer</a></td><td><a href='#role-132'>132</a></td></tr>
-<tr><td><a href='#role-291'>Lyriker:in</a></td><td><a href='#role-291'>poet</a></td><td><a href='#role-291'>291</a></td></tr>
-<tr><td><a href='#role-121'>Maler:in</a></td><td><a href='#role-121'>painter</a></td><td><a href='#role-121'>121</a></td></tr>
-<tr><td><a href='#role-133'>Manager:in</a></td><td><a href='#role-133'>manager</a></td><td><a href='#role-133'>133</a></td></tr>
-<tr><td><a href='#role-280'>Mandolinist:in</a></td><td><a href='#role-280'>mandolinist</a></td><td><a href='#role-280'>280</a></td></tr>
-<tr><td><a href='#role-178'>Marimbafonist:in</a></td><td><a href='#role-178'>marimba player</a></td><td><a href='#role-178'>178</a></td></tr>
-<tr><td><a href='#role-172'>Marineoffizier:in</a></td><td><a href='#role-172'>navy officer</a></td><td><a href='#role-172'>172</a></td></tr>
-<tr><td><a href='#role-134'>Maskenbildner:in</a></td><td><a href='#role-134'>make-up artist</a></td><td><a href='#role-134'>134</a></td></tr>
-<tr><td><a href='#role-252'>Master-Ingenieur:in</a></td><td><a href='#role-252'>mastering engineer</a></td><td><a href='#role-252'>252</a></td></tr>
-<tr><td><a href='#role-383'>Mastering Studio</a></td><td><a href='#role-383'>mastering studio</a></td><td><a href='#role-383'>383</a></td></tr>
-<tr><td><a href='#role-394'>Mathematiker:in</a></td><td><a href='#role-394'>mathematician</a></td><td><a href='#role-394'>394</a></td></tr>
-<tr><td><a href='#role-135'>Maurer:in</a></td><td><a href='#role-135'>bricklayer</a></td><td><a href='#role-135'>135</a></td></tr>
-<tr><td><a href='#role-136'>Medienmanager:in</a></td><td><a href='#role-136'>media executive</a></td><td><a href='#role-136'>136</a></td></tr>
-<tr><td><a href='#role-331'>Medienwissenschaftler:in</a></td><td><a href='#role-331'>media scholar</a></td><td><a href='#role-331'>331</a></td></tr>
-<tr><td><a href='#role-96'>Mezzosopran-Saxofonist:in</a></td><td><a href='#role-96'>mezzo-soprano saxophonist</a></td><td><a href='#role-96'>96</a></td></tr>
-<tr><td><a href='#role-210'>Mezzosopranist:in</a></td><td><a href='#role-210'>mezzo-soprano</a></td><td><a href='#role-210'>210</a></td></tr>
-<tr><td><a href='#role-156'>Militärorchester</a></td><td><a href='#role-156'>military band</a></td><td><a href='#role-156'>156</a></td></tr>
-<tr><td><a href='#role-137'>Mischtonmeister</a></td><td><a href='#role-137'>re-recording mixer</a></td><td><a href='#role-137'>137</a></td></tr>
-<tr><td><a href='#role-138'>Mitwirkende:r</a></td><td><a href='#role-138'>contributor</a></td><td><a href='#role-138'>138</a></td></tr>
-<tr><td><a href='#role-387'>Modedesigner:in</a></td><td><a href='#role-387'>fashion designer</a></td><td><a href='#role-387'>387</a></td></tr>
-<tr><td><a href='#role-386'>Model</a></td><td><a href='#role-386'>model</a></td><td><a href='#role-386'>386</a></td></tr>
-<tr><td><a href='#role-403'>Moderator:in</a></td><td><a href='#role-403'>presenter</a></td><td><a href='#role-403'>403</a></td></tr>
-<tr><td><a href='#role-139'>Montage</a></td><td><a href='#role-139'>montage</a></td><td><a href='#role-139'>139</a></td></tr>
-<tr><td><a href='#role-60'>Mundharmonikaspieler:in</a></td><td><a href='#role-60'>harmonica player</a></td><td><a href='#role-60'>60</a></td></tr>
-<tr><td><a href='#role-332'>Musicaldarsteller:in</a></td><td><a href='#role-332'>musical theatre actor</a></td><td><a href='#role-332'>332</a></td></tr>
-<tr><td><a href='#role-80'>Musikalienhändler:in</a></td><td><a href='#role-80'>music dealer</a></td><td><a href='#role-80'>80</a></td></tr>
-<tr><td><a href='#role-140'>musikalische:r Begleiter:in</a></td><td><a href='#role-140'>accompanist</a></td><td><a href='#role-140'>140</a></td></tr>
-<tr><td><a href='#role-167'>Musikalische:r Leiter:in</a></td><td><a href='#role-167'>musical supervisor</a></td><td><a href='#role-167'>167</a></td></tr>
-<tr><td><a href='#role-141'>Musikensemble</a></td><td><a href='#role-141'>musical ensemble</a></td><td><a href='#role-141'>141</a></td></tr>
-<tr><td><a href='#role-160'>Musiker:in</a></td><td><a href='#role-160'>musician</a></td><td><a href='#role-160'>160</a></td></tr>
-<tr><td><a href='#role-335'>Musikethnolog:in</a></td><td><a href='#role-335'>ethnomusicologist</a></td><td><a href='#role-335'>335</a></td></tr>
-<tr><td><a href='#role-161'>Musikinstrumentenbauer:in</a></td><td><a href='#role-161'>instrument maker</a></td><td><a href='#role-161'>161</a></td></tr>
-<tr><td><a href='#role-110'>Musikjournalist:in</a></td><td><a href='#role-110'>music journalist</a></td><td><a href='#role-110'>110</a></td></tr>
-<tr><td><a href='#role-109'>Musikkritiker:in</a></td><td><a href='#role-109'>music critic</a></td><td><a href='#role-109'>109</a></td></tr>
-<tr><td><a href='#role-165'>Musiklehrer:in</a></td><td><a href='#role-165'>music teacher</a></td><td><a href='#role-165'>165</a></td></tr>
-<tr><td><a href='#role-166'>Musikproduzent:in</a></td><td><a href='#role-166'>music producer</a></td><td><a href='#role-166'>166</a></td></tr>
-<tr><td><a href='#role-351'>Musikschriftsteller:in</a></td><td><a href='#role-351'>musicographer</a></td><td><a href='#role-351'>351</a></td></tr>
-<tr><td><a href='#role-347'>Musiktherapeut:in</a></td><td><a href='#role-347'>music therapist</a></td><td><a href='#role-347'>347</a></td></tr>
-<tr><td><a href='#role-259'>Musikverleger:in</a></td><td><a href='#role-259'>music publisher</a></td><td><a href='#role-259'>259</a></td></tr>
-<tr><td><a href='#role-169'>Musikwissenschaftler:in</a></td><td><a href='#role-169'>musicologist</a></td><td><a href='#role-169'>169</a></td></tr>
-<tr><td><a href='#role-148'>Männerchor</a></td><td><a href='#role-148'>male choir</a></td><td><a href='#role-148'>148</a></td></tr>
-<tr><td><a href='#role-336'>Naturwissenschaftler:in</a></td><td><a href='#role-336'>natural scientist</a></td><td><a href='#role-336'>336</a></td></tr>
-<tr><td><a href='#role-338'>Neurobiolog:in</a></td><td><a href='#role-338'>neurobiologist</a></td><td><a href='#role-338'>338</a></td></tr>
-<tr><td><a href='#role-194'>Notar:in</a></td><td><a href='#role-194'>notary</a></td><td><a href='#role-194'>194</a></td></tr>
-<tr><td><a href='#role-91'>Oboist:in</a></td><td><a href='#role-91'>oboist</a></td><td><a href='#role-91'>91</a></td></tr>
-<tr><td><a href='#role-170'>Obstbautechniker:in</a></td><td><a href='#role-170'>orchard technician</a></td><td><a href='#role-170'>170</a></td></tr>
-<tr><td><a href='#role-171'>Offizier:in</a></td><td><a href='#role-171'>officer</a></td><td><a href='#role-171'>171</a></td></tr>
-<tr><td><a href='#role-154'>Orchester</a></td><td><a href='#role-154'>orchestra</a></td><td><a href='#role-154'>154</a></td></tr>
-<tr><td><a href='#role-53'>Orchesterleiter:in</a></td><td><a href='#role-53'>band leader</a></td><td><a href='#role-53'>53</a></td></tr>
-<tr><td><a href='#role-241'>Organist:in</a></td><td><a href='#role-241'>organist</a></td><td><a href='#role-241'>241</a></td></tr>
-<tr><td><a href='#role-164'>Orgelbauer:in</a></td><td><a href='#role-164'>organ builder</a></td><td><a href='#role-164'>164</a></td></tr>
-<tr><td><a href='#role-173'>Orientalist:in</a></td><td><a href='#role-173'>orientalist</a></td><td><a href='#role-173'>173</a></td></tr>
-<tr><td><a href='#role-174'>Ornitholog:in</a></td><td><a href='#role-174'>ornithologist</a></td><td><a href='#role-174'>174</a></td></tr>
-<tr><td><a href='#role-175'>Pantomim:in</a></td><td><a href='#role-175'>mime</a></td><td><a href='#role-175'>175</a></td></tr>
-<tr><td><a href='#role-179'>Paukist:in</a></td><td><a href='#role-179'>timpanist</a></td><td><a href='#role-179'>179</a></td></tr>
-<tr><td><a href='#role-322'>Performancekünstler:in</a></td><td><a href='#role-322'>performance artist</a></td><td><a href='#role-322'>322</a></td></tr>
-<tr><td><a href='#role-176'>Performer:in</a></td><td><a href='#role-176'>performer</a></td><td><a href='#role-176'>176</a></td></tr>
-<tr><td><a href='#role-177'>Perkussionist:in</a></td><td><a href='#role-177'>percussionist</a></td><td><a href='#role-177'>177</a></td></tr>
-<tr><td><a href='#role-188'>Pfarrer:in</a></td><td><a href='#role-188'>minister</a></td><td><a href='#role-188'>188</a></td></tr>
-<tr><td><a href='#role-183'>Philolog:in</a></td><td><a href='#role-183'>philologist</a></td><td><a href='#role-183'>183</a></td></tr>
-<tr><td><a href='#role-184'>Philosoph:in</a></td><td><a href='#role-184'>philosopher</a></td><td><a href='#role-184'>184</a></td></tr>
-<tr><td><a href='#role-185'>Physiker:in</a></td><td><a href='#role-185'>physicist</a></td><td><a href='#role-185'>185</a></td></tr>
-<tr><td><a href='#role-242'>Pianist:in</a></td><td><a href='#role-242'>pianist</a></td><td><a href='#role-242'>242</a></td></tr>
-<tr><td><a href='#role-243'>Pianolist:in</a></td><td><a href='#role-243'>pianolist</a></td><td><a href='#role-243'>243</a></td></tr>
-<tr><td><a href='#role-89'>Piccoloflötist:in</a></td><td><a href='#role-89'>piccolo player</a></td><td><a href='#role-89'>89</a></td></tr>
-<tr><td><a href='#role-186'>Politiker:in</a></td><td><a href='#role-186'>politician</a></td><td><a href='#role-186'>186</a></td></tr>
-<tr><td><a href='#role-341'>Politikwissenschaftler:in</a></td><td><a href='#role-341'>political scientist</a></td><td><a href='#role-341'>341</a></td></tr>
-<tr><td><a href='#role-33'>Posaunist:in</a></td><td><a href='#role-33'>trombonist</a></td><td><a href='#role-33'>33</a></td></tr>
-<tr><td><a href='#role-342'>Praktikant:in</a></td><td><a href='#role-342'>intern</a></td><td><a href='#role-342'>342</a></td></tr>
-<tr><td><a href='#role-189'>Prediger:in</a></td><td><a href='#role-189'>preacher</a></td><td><a href='#role-189'>189</a></td></tr>
-<tr><td><a href='#role-187'>Priester:in</a></td><td><a href='#role-187'>priest</a></td><td><a href='#role-187'>187</a></td></tr>
-<tr><td><a href='#role-343'>Produktionsassistent:in</a></td><td><a href='#role-343'>assistant producer</a></td><td><a href='#role-343'>343</a></td></tr>
-<tr><td><a href='#role-191'>Produktionsfirma</a></td><td><a href='#role-191'>production company</a></td><td><a href='#role-191'>191</a></td></tr>
-<tr><td><a href='#role-190'>Produktionsleiter:in</a></td><td><a href='#role-190'>supervising producer</a></td><td><a href='#role-190'>190</a></td></tr>
-<tr><td><a href='#role-192'>Produzent:in</a></td><td><a href='#role-192'>producer</a></td><td><a href='#role-192'>192</a></td></tr>
-<tr><td><a href='#role-344'>Programmierer:in</a></td><td><a href='#role-344'>programmer</a></td><td><a href='#role-344'>344</a></td></tr>
-<tr><td><a href='#role-382'>Projektleiter:in</a></td><td><a href='#role-382'>project manager</a></td><td><a href='#role-382'>382</a></td></tr>
-<tr><td><a href='#role-345'>Psycholog:in</a></td><td><a href='#role-345'>psychologist</a></td><td><a href='#role-345'>345</a></td></tr>
-<tr><td><a href='#role-346'>Psychotherapeut:in</a></td><td><a href='#role-346'>psychotherapist</a></td><td><a href='#role-346'>346</a></td></tr>
-<tr><td><a href='#role-348'>Publizist:in</a></td><td><a href='#role-348'>opinion journalist</a></td><td><a href='#role-348'>348</a></td></tr>
-<tr><td><a href='#role-340'>Pädagog:in</a></td><td><a href='#role-340'>pedagogue</a></td><td><a href='#role-340'>340</a></td></tr>
-<tr><td><a href='#role-265'>Rapper:in</a></td><td><a href='#role-265'>rapper</a></td><td><a href='#role-265'>265</a></td></tr>
-<tr><td><a href='#role-349'>Raumplaner:in</a></td><td><a href='#role-349'>spatial planner</a></td><td><a href='#role-349'>349</a></td></tr>
-<tr><td><a href='#role-193'>Rechtsanwalt/Rechtsanwältin</a></td><td><a href='#role-193'>lawyer</a></td><td><a href='#role-193'>193</a></td></tr>
-<tr><td><a href='#role-195'>Redakteur:in</a></td><td><a href='#role-195'>editor</a></td><td><a href='#role-195'>195</a></td></tr>
-<tr><td><a href='#role-196'>Regieassistent:in</a></td><td><a href='#role-196'>assistant director</a></td><td><a href='#role-196'>196</a></td></tr>
-<tr><td><a href='#role-197'>Regisseur:in</a></td><td><a href='#role-197'>director</a></td><td><a href='#role-197'>197</a></td></tr>
-<tr><td><a href='#role-198'>Requisiteur:in</a></td><td><a href='#role-198'>property master</a></td><td><a href='#role-198'>198</a></td></tr>
-<tr><td><a href='#role-225'>Rezitator:in</a></td><td><a href='#role-225'>reciter</a></td><td><a href='#role-225'>225</a></td></tr>
-<tr><td><a href='#role-277'>Rhythmusgitarrist</a></td><td><a href='#role-277'>rhythm guitarist</a></td><td><a href='#role-277'>277</a></td></tr>
-<tr><td><a href='#role-20'>Romanautor:in</a></td><td><a href='#role-20'>novelist</a></td><td><a href='#role-20'>20</a></td></tr>
-<tr><td><a href='#role-130'>Romanist:in</a></td><td><a href='#role-130'>romanist</a></td><td><a href='#role-130'>130</a></td></tr>
-<tr><td><a href='#role-92'>Saxofonist:in</a></td><td><a href='#role-92'>saxophonist</a></td><td><a href='#role-92'>92</a></td></tr>
-<tr><td><a href='#role-213'>Schauspieler:in</a></td><td><a href='#role-213'>actor/actress</a></td><td><a href='#role-213'>213</a></td></tr>
-<tr><td><a href='#role-180'>Schlagzeuger:in</a></td><td><a href='#role-180'>drummer</a></td><td><a href='#role-180'>180</a></td></tr>
-<tr><td><a href='#role-214'>Schlosser:in</a></td><td><a href='#role-214'>locksmith</a></td><td><a href='#role-214'>214</a></td></tr>
-<tr><td><a href='#role-308'>Schneider:in</a></td><td><a href='#role-308'>tailor</a></td><td><a href='#role-308'>308</a></td></tr>
-<tr><td><a href='#role-215'>Schnitt</a></td><td><a href='#role-215'>film editor</a></td><td><a href='#role-215'>215</a></td></tr>
-<tr><td><a href='#role-81'>Schreibwarenhändler:in</a></td><td><a href='#role-81'>stationer</a></td><td><a href='#role-81'>81</a></td></tr>
-<tr><td><a href='#role-350'>Schriftsetzer:in</a></td><td><a href='#role-350'>typesetter</a></td><td><a href='#role-350'>350</a></td></tr>
-<tr><td><a href='#role-289'>Schriftsteller:in</a></td><td><a href='#role-289'>writer</a></td><td><a href='#role-289'>289</a></td></tr>
-<tr><td><a href='#role-216'>Script Continuity</a></td><td><a href='#role-216'>script supervisor</a></td><td><a href='#role-216'>216</a></td></tr>
-<tr><td><a href='#role-217'>Sekretär:in</a></td><td><a href='#role-217'>secretary</a></td><td><a href='#role-217'>217</a></td></tr>
-<tr><td><a href='#role-298'>Selbstverleger:in</a></td><td><a href='#role-298'>independent publisher</a></td><td><a href='#role-298'>298</a></td></tr>
-<tr><td><a href='#role-168'>Sessionleiter:in</a></td><td><a href='#role-168'>session supervisor</a></td><td><a href='#role-168'>168</a></td></tr>
-<tr><td><a href='#role-218'>Set Designer:in</a></td><td><a href='#role-218'>set designer</a></td><td><a href='#role-218'>218</a></td></tr>
-<tr><td><a href='#role-288'>Software-Entwickler:in</a></td><td><a href='#role-288'>software developer</a></td><td><a href='#role-288'>288</a></td></tr>
-<tr><td><a href='#role-219'>Soldat:in</a></td><td><a href='#role-219'>soldier</a></td><td><a href='#role-219'>219</a></td></tr>
-<tr><td><a href='#role-211'>Sopranist:in</a></td><td><a href='#role-211'>soprano</a></td><td><a href='#role-211'>211</a></td></tr>
-<tr><td><a href='#role-97'>Sopransaxofonist:in</a></td><td><a href='#role-97'>soprano saxophonist</a></td><td><a href='#role-97'>97</a></td></tr>
-<tr><td><a href='#role-352'>Soufflage</a></td><td><a href='#role-352'>prompter</a></td><td><a href='#role-352'>352</a></td></tr>
-<tr><td><a href='#role-220'>Sounddesigner:in</a></td><td><a href='#role-220'>sound designer</a></td><td><a href='#role-220'>220</a></td></tr>
-<tr><td><a href='#role-353'>Soziolog:in</a></td><td><a href='#role-353'>sociologist</a></td><td><a href='#role-353'>353</a></td></tr>
-<tr><td><a href='#role-221'>Special Effects</a></td><td><a href='#role-221'>special effects</a></td><td><a href='#role-221'>221</a></td></tr>
-<tr><td><a href='#role-222'>Sponsor:in</a></td><td><a href='#role-222'>sponsor</a></td><td><a href='#role-222'>222</a></td></tr>
-<tr><td><a href='#role-327'>Sportlehrer:in</a></td><td><a href='#role-327'>physical education teacher</a></td><td><a href='#role-327'>327</a></td></tr>
-<tr><td><a href='#role-355'>Sportler:in</a></td><td><a href='#role-355'>athlete</a></td><td><a href='#role-355'>355</a></td></tr>
-<tr><td><a href='#role-126'>Sprachlehrer:in</a></td><td><a href='#role-126'>voice teacher</a></td><td><a href='#role-126'>126</a></td></tr>
-<tr><td><a href='#role-223'>Sprecher:in</a></td><td><a href='#role-223'>speaker</a></td><td><a href='#role-223'>223</a></td></tr>
-<tr><td><a href='#role-358'>Sprecherzieher:in</a></td><td><a href='#role-358'>speech trainer</a></td><td><a href='#role-358'>358</a></td></tr>
-<tr><td><a href='#role-359'>Steuerfachangestellte:r</a></td><td><a href='#role-359'>tax consultant</a></td><td><a href='#role-359'>359</a></td></tr>
-<tr><td><a href='#role-226'>Streicher:in</a></td><td><a href='#role-226'>string player</a></td><td><a href='#role-226'>226</a></td></tr>
-<tr><td><a href='#role-157'>Streichorchester</a></td><td><a href='#role-157'>string orchestra</a></td><td><a href='#role-157'>157</a></td></tr>
-<tr><td><a href='#role-153'>Streichquartett</a></td><td><a href='#role-153'>string quartet</a></td><td><a href='#role-153'>153</a></td></tr>
-<tr><td><a href='#role-232'>Student:in</a></td><td><a href='#role-232'>student</a></td><td><a href='#role-232'>232</a></td></tr>
-<tr><td><a href='#role-234'>Synchronregie</a></td><td><a href='#role-234'>dialog director</a></td><td><a href='#role-234'>234</a></td></tr>
-<tr><td><a href='#role-233'>Synchronsprecher:in</a></td><td><a href='#role-233'>dub actor</a></td><td><a href='#role-233'>233</a></td></tr>
-<tr><td><a href='#role-407'>Synthesizerspieler:in</a></td><td><a href='#role-407'>synthesizer player</a></td><td><a href='#role-407'>407</a></td></tr>
-<tr><td><a href='#role-235'>Szenenbildner:in</a></td><td><a href='#role-235'>set designer/production designer</a></td><td><a href='#role-235'>235</a></td></tr>
-<tr><td><a href='#role-199'>Sänger:in</a></td><td><a href='#role-199'>singer</a></td><td><a href='#role-199'>199</a></td></tr>
-<tr><td><a href='#role-328'>Tanzlehrer:in</a></td><td><a href='#role-328'>dance teacher</a></td><td><a href='#role-328'>328</a></td></tr>
-<tr><td><a href='#role-286'>Tanzorchester</a></td><td><a href='#role-286'>dance orchestra</a></td><td><a href='#role-286'>286</a></td></tr>
-<tr><td><a href='#role-388'>Tanzwissenschaftler:in</a></td><td><a href='#role-388'>dance researcher</a></td><td><a href='#role-388'>388</a></td></tr>
-<tr><td><a href='#role-244'>Techniker:in</a></td><td><a href='#role-244'>technician</a></td><td><a href='#role-244'>244</a></td></tr>
-<tr><td><a href='#role-379'>Technische Realisation</a></td><td><a href='#role-379'>technical realisation</a></td><td><a href='#role-379'>379</a></td></tr>
-<tr><td><a href='#role-360'>Technische:r Direktor:in</a></td><td><a href='#role-360'>technical director</a></td><td><a href='#role-360'>360</a></td></tr>
-<tr><td><a href='#role-212'>Tenorist:in</a></td><td><a href='#role-212'>tenor</a></td><td><a href='#role-212'>212</a></td></tr>
-<tr><td><a href='#role-98'>Tenorsaxofonist:in</a></td><td><a href='#role-98'>tenor saxophonist</a></td><td><a href='#role-98'>98</a></td></tr>
-<tr><td><a href='#role-247'>Textdichter:in</a></td><td><a href='#role-247'>lyricist</a></td><td><a href='#role-247'>247</a></td></tr>
-<tr><td><a href='#role-248'>Theatergruppe</a></td><td><a href='#role-248'>theatre group</a></td><td><a href='#role-248'>248</a></td></tr>
-<tr><td><a href='#role-249'>Theaterleiter:in</a></td><td><a href='#role-249'>theatre manager</a></td><td><a href='#role-249'>249</a></td></tr>
-<tr><td><a href='#role-363'>Theatermacher:in</a></td><td><a href='#role-363'>theatre maker</a></td><td><a href='#role-363'>363</a></td></tr>
-<tr><td><a href='#role-250'>Theaterproduzent:in</a></td><td><a href='#role-250'>theatrical producer</a></td><td><a href='#role-250'>250</a></td></tr>
-<tr><td><a href='#role-365'>Theaterwissenschaftler:in</a></td><td><a href='#role-365'>theatrologist</a></td><td><a href='#role-365'>365</a></td></tr>
-<tr><td><a href='#role-366'>Theolog:in</a></td><td><a href='#role-366'>theologian</a></td><td><a href='#role-366'>366</a></td></tr>
-<tr><td><a href='#role-367'>Tischler:in</a></td><td><a href='#role-367'>carpenter</a></td><td><a href='#role-367'>367</a></td></tr>
-<tr><td><a href='#role-368'>Tonassistent:in</a></td><td><a href='#role-368'>boom operator</a></td><td><a href='#role-368'>368</a></td></tr>
-<tr><td><a href='#role-251'>Toningenieur:in</a></td><td><a href='#role-251'>audio engineer</a></td><td><a href='#role-251'>251</a></td></tr>
-<tr><td><a href='#role-16'>Tonmeister:in</a></td><td><a href='#role-16'>tonmeister</a></td><td><a href='#role-16'>16</a></td></tr>
-<tr><td><a href='#role-253'>Tonmischer:in</a></td><td><a href='#role-253'>sound mixer</a></td><td><a href='#role-253'>253</a></td></tr>
-<tr><td><a href='#role-361'>Tontechniker:in</a></td><td><a href='#role-361'>audio technician</a></td><td><a href='#role-361'>361</a></td></tr>
-<tr><td><a href='#role-287'>Tonträgerunternehmen</a></td><td><a href='#role-287'>record company</a></td><td><a href='#role-287'>287</a></td></tr>
-<tr><td><a href='#role-369'>Travestie</a></td><td><a href='#role-369'>travesti</a></td><td><a href='#role-369'>369</a></td></tr>
-<tr><td><a href='#role-34'>Trompeter:in</a></td><td><a href='#role-34'>trumpeter</a></td><td><a href='#role-34'>34</a></td></tr>
-<tr><td><a href='#role-35'>Tubist:in</a></td><td><a href='#role-35'>tuba player</a></td><td><a href='#role-35'>35</a></td></tr>
-<tr><td><a href='#role-236'>Tänzer:in</a></td><td><a href='#role-236'>dancer</a></td><td><a href='#role-236'>236</a></td></tr>
-<tr><td><a href='#role-391'>Tätowierer:in</a></td><td><a href='#role-391'>tattoo artist</a></td><td><a href='#role-391'>391</a></td></tr>
-<tr><td><a href='#role-281'>Ukulelist:in</a></td><td><a href='#role-281'>ukulelist</a></td><td><a href='#role-281'>281</a></td></tr>
-<tr><td><a href='#role-283'>unbekannt</a></td><td><a href='#role-283'>unknown</a></td><td><a href='#role-283'>283</a></td></tr>
-<tr><td><a href='#role-255'>Unternehmer:in</a></td><td><a href='#role-255'>entrepreneur</a></td><td><a href='#role-255'>255</a></td></tr>
-<tr><td><a href='#role-371'>Unterstützer:in</a></td><td><a href='#role-371'>participant</a></td><td><a href='#role-371'>371</a></td></tr>
-<tr><td><a href='#role-256'>Veranstalter:in</a></td><td><a href='#role-256'>host</a></td><td><a href='#role-256'>256</a></td></tr>
-<tr><td><a href='#role-362'>Veranstaltungstechniker:in</a></td><td><a href='#role-362'>event technician</a></td><td><a href='#role-362'>362</a></td></tr>
-<tr><td><a href='#role-257'>Verfasser:in</a></td><td><a href='#role-257'>writer</a></td><td><a href='#role-257'>257</a></td></tr>
-<tr><td><a href='#role-258'>Verleger:in</a></td><td><a href='#role-258'>publisher</a></td><td><a href='#role-258'>258</a></td></tr>
-<tr><td><a href='#role-260'>Vertrieb</a></td><td><a href='#role-260'>distributor</a></td><td><a href='#role-260'>260</a></td></tr>
-<tr><td><a href='#role-398'>VFX Producer:in</a></td><td><a href='#role-398'>VFX producer</a></td><td><a href='#role-398'>398</a></td></tr>
-<tr><td><a href='#role-399'>VFX-Künstler:in</a></td><td><a href='#role-399'>VFX artist</a></td><td><a href='#role-399'>399</a></td></tr>
-<tr><td><a href='#role-181'>Vibrafonist:in</a></td><td><a href='#role-181'>vibraphone player</a></td><td><a href='#role-181'>181</a></td></tr>
-<tr><td><a href='#role-268'>Video Blogger:in</a></td><td><a href='#role-268'>video blogger</a></td><td><a href='#role-268'>268</a></td></tr>
-<tr><td><a href='#role-323'>Videokünstler:in</a></td><td><a href='#role-323'>video artist</a></td><td><a href='#role-323'>323</a></td></tr>
-<tr><td><a href='#role-231'>Violinist:in</a></td><td><a href='#role-231'>violinist</a></td><td><a href='#role-231'>231</a></td></tr>
-<tr><td><a href='#role-372'>Visagist:in</a></td><td><a href='#role-372'>visagiste</a></td><td><a href='#role-372'>372</a></td></tr>
-<tr><td><a href='#role-261'>Voice-Over</a></td><td><a href='#role-261'>voice-over</a></td><td><a href='#role-261'>261</a></td></tr>
-<tr><td><a href='#role-158'>Vokalensemble</a></td><td><a href='#role-158'>vocal group</a></td><td><a href='#role-158'>158</a></td></tr>
-<tr><td><a href='#role-262'>Vokalist:in</a></td><td><a href='#role-262'>vocalist</a></td><td><a href='#role-262'>262</a></td></tr>
-<tr><td><a href='#role-159'>Volksmusikgruppe</a></td><td><a href='#role-159'>folk music group</a></td><td><a href='#role-159'>159</a></td></tr>
-<tr><td><a href='#role-373'>Vorsitzende:r</a></td><td><a href='#role-373'>chairperson</a></td><td><a href='#role-373'>373</a></td></tr>
-<tr><td><a href='#role-266'>Vortragsredner:in</a></td><td><a href='#role-266'>lecturer</a></td><td><a href='#role-266'>266</a></td></tr>
-<tr><td><a href='#role-406'>Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>water instrument player</a></td><td><a href='#role-406'>406</a></td></tr>
-<tr><td><a href='#role-299'>Web-Designer:in</a></td><td><a href='#role-299'>website designer</a></td><td><a href='#role-299'>299</a></td></tr>
-<tr><td><a href='#role-267'>Webvideoproduzent:in</a></td><td><a href='#role-267'>web video producer</a></td><td><a href='#role-267'>267</a></td></tr>
-<tr><td><a href='#role-374'>Werkstattleiter:in</a></td><td><a href='#role-374'>workshop manager</a></td><td><a href='#role-374'>374</a></td></tr>
-<tr><td><a href='#role-269'>Widmungsträger:in</a></td><td><a href='#role-269'>dedicatee</a></td><td><a href='#role-269'>269</a></td></tr>
-<tr><td><a href='#role-375'>Wirtschaftswissenschaftler:in</a></td><td><a href='#role-375'>economist</a></td><td><a href='#role-375'>375</a></td></tr>
-<tr><td><a href='#role-381'>wissenschaftliche:r Mitarbeiter:in</a></td><td><a href='#role-381'>research fellow</a></td><td><a href='#role-381'>381</a></td></tr>
-<tr><td><a href='#role-182'>Xylofonist:in</a></td><td><a href='#role-182'>xylophonist</a></td><td><a href='#role-182'>182</a></td></tr>
-<tr><td><a href='#role-376'>Yogalehrer:in</a></td><td><a href='#role-376'>yoga instructor</a></td><td><a href='#role-376'>376</a></td></tr>
-<tr><td><a href='#role-389'>Zeichner:in</a></td><td><a href='#role-389'>draftsperson</a></td><td><a href='#role-389'>389</a></td></tr>
-<tr><td><a href='#role-36'>Zinkenist:in</a></td><td><a href='#role-36'>cornettist</a></td><td><a href='#role-36'>36</a></td></tr>
-<tr><td><a href='#role-270'>Zirkusdirektor:in</a></td><td><a href='#role-270'>circus director</a></td><td><a href='#role-270'>270</a></td></tr>
-<tr><td><a href='#role-282'>Zitherspieler:in</a></td><td><a href='#role-282'>zitherist</a></td><td><a href='#role-282'>282</a></td></tr>
-<tr><td><a href='#role-377'>Zoolog:in</a></td><td><a href='#role-377'>zoologist</a></td><td><a href='#role-377'>377</a></td></tr>
-<tr><td><a href='#role-271'>Zupfinstrumentenspieler:in</a></td><td><a href='#role-271'>plucked string instrument player</a></td><td><a href='#role-271'>271</a></td></tr>
-<tr><td><a href='#role-400'>Öffentlichkeitsarbeit</a></td><td><a href='#role-400'>public relations</a></td><td><a href='#role-400'>400</a></td></tr>
-<tr><td><a href='#role-339'>Ökolog:in</a></td><td><a href='#role-339'>ecologist</a></td><td><a href='#role-339'>339</a></td></tr>
-<tr><td><a href='#role-254'>Übersetzer:in</a></td><td><a href='#role-254'>translator</a></td><td><a href='#role-254'>254</a></td></tr>
-</table>
-</details>
-
-<details><summary>Roles ordered by German Breadcrumb | Rollen nach Deutschem Breadcrumb geordnet</summary>
-<table>
-<tr><th>German Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#role-1">1. Kameraassistenz</a></td><td><a href='#role-1'>1</a></td></tr>
-<tr><td><a href="#role-2">2. Kameraassistenz</a></td><td><a href='#role-2'>2</a></td></tr>
-<tr><td><a href="#role-3">Absolvent:in</a></td><td><a href='#role-3'>3</a></td></tr>
-<tr><td><a href="#role-4">Agent:in</a></td><td><a href='#role-4'>4</a></td></tr>
-<tr><td><a href="#role-5">Amateur:in</a></td><td><a href='#role-5'>5</a></td></tr>
-<tr><td><a href="#role-6">Animation:in</a></td><td><a href='#role-6'>6</a></td></tr>
-<tr><td><a href="#role-7">Anthropolog:in</a></td><td><a href='#role-7'>7</a></td></tr>
-<tr><td><a href="#role-378">Architekt:in</a></td><td><a href='#role-378'>378</a></td></tr>
-<tr><td><a href="#role-9">Archivar:in</a></td><td><a href='#role-9'>9</a></td></tr>
-<tr><td><a href="#role-8">Archäolog:in</a></td><td><a href='#role-8'>8</a></td></tr>
-<tr><td><a href="#role-10">Arrangeur:in</a></td><td><a href='#role-10'>10</a></td></tr>
-<tr><td><a href="#role-11">Arzt/Ärztin</a></td><td><a href='#role-11'>11</a></td></tr>
-<tr><td><a href="#role-11">Arzt/Ärztin</a> > <a href="#role-12">Augenarzt/Augenärztin</a></td><td><a href='#role-12'>12</a></td></tr>
-<tr><td><a href="#role-13">Assistent:in</a></td><td><a href='#role-13'>13</a></td></tr>
-<tr><td><a href="#role-14">Aufnahmeexpert:in</a></td><td><a href='#role-14'>14</a></td></tr>
-<tr><td><a href="#role-15">Aufnahmeleiter:in</a></td><td><a href='#role-15'>15</a></td></tr>
-<tr><td><a href="#role-15">Aufnahmeleiter:in</a> > <a href="#role-16">Tonmeister:in</a></td><td><a href='#role-16'>16</a></td></tr>
-<tr><td><a href="#role-17">Auftraggeber:in</a></td><td><a href='#role-17'>17</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-#19">Dramatiker:in</a></td><td><a href='#role-19'>19</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-20">Romanautor:in</a></td><td><a href='#role-20'>20</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a></td><td><a href='#role-18'>18</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a></td><td><a href='#role-289'>289</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a> > <a href="#role-290">Kriminalschriftsteller:in</a></td><td><a href='#role-290'>290</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a> > <a href="#role-291">Lyriker:in</a></td><td><a href='#role-291'>291</a></td></tr>
-<tr><td><a href="#role-18">Autor:in</a> > <a href="#role-289">Schriftsteller:in</a> > <a href="#role-351">Musikschriftsteller:in</a></td><td><a href='#role-351'>351</a></td></tr>
-<tr><td><a href="#role-21">Ballettmeister:in</a></td><td><a href='#role-21'>21</a></td></tr>
-<tr><td><a href="#role-22">Bankbeamt:in</a></td><td><a href='#role-22'>22</a></td></tr>
-<tr><td><a href="#role-23">Barbetreiber:in</a></td><td><a href='#role-23'>23</a></td></tr>
-<tr><td><a href="#role-24">Beleuchter:in</a></td><td><a href='#role-24'>24</a></td></tr>
-<tr><td><a href="#role-25">Bergbauingenieur:in</a></td><td><a href='#role-25'>25</a></td></tr>
-<tr><td><a href="#role-26">Besitzer:in</a></td><td><a href='#role-26'>26</a></td></tr>
-<tr><td><a href="#role-27">Betreuer:in</a></td><td><a href='#role-27'>27</a></td></tr>
-<tr><td><a href="#role-292">Betriebswirt:in</a></td><td><a href='#role-292'>292</a></td></tr>
-<tr><td><a href="#role-293">Bewegungspädagog:in</a></td><td><a href='#role-293'>293</a></td></tr>
-<tr><td><a href="#role-28">Bibliothekar:in</a></td><td><a href='#role-28'>28</a></td></tr>
-<tr><td><a href="#role-29">Bildgestalter:in</a></td><td><a href='#role-29'>29</a></td></tr>
-<tr><td><a href="#role-294">Bildhauer:in</a></td><td><a href='#role-294'>294</a></td></tr>
-<tr><td><a href="#role-395">Bildingenieur:in</a></td><td><a href='#role-395'>395</a></td></tr>
-<tr><td><a href="#role-396">Bildmischer:in</a></td><td><a href='#role-396'>396</a></td></tr>
-<tr><td><a href="#role-295">Biolog:in</a></td><td><a href='#role-295'>295</a></td></tr>
-<tr><td><a href="#role-296">Biotechniker:in</a></td><td><a href='#role-296'>296</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a></td><td><a href='#role-30'>30</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-31">Hornist:in</a></td><td><a href='#role-31'>31</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-32">Kornettist:in</a></td><td><a href='#role-32'>32</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-33">Posaunist:in</a></td><td><a href='#role-33'>33</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-34">Trompeter:in</a></td><td><a href='#role-34'>34</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-35">Tubist:in</a></td><td><a href='#role-35'>35</a></td></tr>
-<tr><td><a href="#role-30">Blechbläser:in</a> > <a href="#role-36">Zinkenist:in</a></td><td><a href='#role-36'>36</a></td></tr>
-<tr><td><a href="#role-297">Botaniker:in</a></td><td><a href='#role-297'>297</a></td></tr>
-<tr><td><a href="#role-285">Boxer:in</a></td><td><a href='#role-285'>285</a></td></tr>
-<tr><td><a href="#role-37">Buchhalter:in</a></td><td><a href='#role-37'>37</a></td></tr>
-<tr><td><a href="#role-384">Buchhändler:in</a></td><td><a href='#role-384'>384</a></td></tr>
-<tr><td><a href="#role-38">Bühnenbildner:in</a></td><td><a href='#role-38'>38</a></td></tr>
-<tr><td><a href="#role-39">Bühnenregisseur:in</a></td><td><a href='#role-39'>39</a></td></tr>
-<tr><td><a href="#role-40">Bühnentechniker:in</a></td><td><a href='#role-40'>40</a></td></tr>
-<tr><td><a href="#role-41">Choreograf:in</a></td><td><a href='#role-41'>41</a></td></tr>
-<tr><td><a href="#role-42">Co-Autor:in</a></td><td><a href='#role-42'>42</a></td></tr>
-<tr><td><a href="#role-43">Colour Grading</a></td><td><a href='#role-43'>43</a></td></tr>
-<tr><td><a href="#role-44">Designer:in</a></td><td><a href='#role-44'>44</a></td></tr>
-<tr><td><a href="#role-44">Designer:in</a> > <a href="#role-319">Grafikdesigner:in</a></td><td><a href='#role-319'>319</a></td></tr>
-<tr><td><a href="#role-44">Designer:in</a> > <a href="#role-387">Modedesigner:in</a></td><td><a href='#role-387'>387</a></td></tr>
-<tr><td><a href="#role-44">Designer:in</a> > <a href="#role-299">Web-Designer:in</a></td><td><a href='#role-299'>299</a></td></tr>
-<tr><td><a href="#role-45">Dichterkomponist:in</a></td><td><a href='#role-45'>45</a></td></tr>
-<tr><td><a href="#role-46">Digitalisierer:in</a></td><td><a href='#role-46'>46</a></td></tr>
-<tr><td><a href="#role-47">Diplomat:in</a></td><td><a href='#role-47'>47</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a></td><td><a href='#role-48'>48</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-49">Chorleiter:in</a></td><td><a href='#role-49'>49</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-50">Ensembleleiter:in</a></td><td><a href='#role-50'>50</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-51">Generalmusikdirektor:in</a></td><td><a href='#role-51'>51</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-52">Kantor:in (christlich)</a></td><td><a href='#role-52'>52</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-300">Kapellmeister:in</a></td><td><a href='#role-300'>300</a></td></tr>
-<tr><td><a href="#role-48">Dirigent:in</a> > <a href="#role-53">Orchesterleiter:in</a></td><td><a href='#role-53'>53</a></td></tr>
-<tr><td><a href="#role-54">DJ</a></td><td><a href='#role-54'>54</a></td></tr>
-<tr><td><a href="#role-55">Dramaturg:in</a></td><td><a href='#role-55'>55</a></td></tr>
-<tr><td><a href="#role-56">Drehbuchautor:in</a></td><td><a href='#role-56'>56</a></td></tr>
-<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a></td><td><a href='#role-57'>57</a></td></tr>
-<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a> > <a href="#role-58">Akkordeonist:in</a></td><td><a href='#role-58'>58</a></td></tr>
-<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a> > <a href="#role-59">Konzertinaspieler:in</a></td><td><a href='#role-59'>59</a></td></tr>
-<tr><td><a href="#role-57">Durchschlagzungeninstrumenten-Spieler:in</a> > <a href="#role-60">Mundharmonikaspieler:in</a></td><td><a href='#role-60'>60</a></td></tr>
-<tr><td><a href="#role-61">Eigentümer:in</a></td><td><a href='#role-61'>61</a></td></tr>
-<tr><td><a href="#role-62">Erfinder:in</a></td><td><a href='#role-62'>62</a></td></tr>
-<tr><td><a href="#role-301">Ergonom:in</a></td><td><a href='#role-301'>301</a></td></tr>
-<tr><td><a href="#role-63">erwähnte:r Akteur:in</a></td><td><a href='#role-63'>63</a></td></tr>
-<tr><td><a href="#role-64">Ethnolog:in</a></td><td><a href='#role-64'>64</a></td></tr>
-<tr><td><a href="#role-64">Ethnolog:in</a> > <a href="#role-65">Ethnograph:in</a></td><td><a href='#role-65'>65</a></td></tr>
-<tr><td><a href="#role-66">Fernsehmoderator:in</a></td><td><a href='#role-66'>66</a></td></tr>
-<tr><td><a href="#role-67">Filmförderung</a></td><td><a href='#role-67'>67</a></td></tr>
-<tr><td><a href="#role-68">Filmproduzent:in</a></td><td><a href='#role-68'>68</a></td></tr>
-<tr><td><a href="#role-69">Folkloremusiker:in</a></td><td><a href='#role-69'>69</a></td></tr>
-<tr><td><a href="#role-70">Fotograf:in</a></td><td><a href='#role-70'>70</a></td></tr>
-<tr><td><a href="#role-70">Fotograf:in</a> > <a href="#role-72">Foto-Künstler:in</a></td><td><a href='#role-72'>72</a></td></tr>
-<tr><td><a href="#role-70">Fotograf:in</a> > <a href="#role-71">Fotograf:in (Film)</a></td><td><a href='#role-71'>71</a></td></tr>
-<tr><td><a href="#role-302">Garderobier:e</a></td><td><a href='#role-302'>302</a></td></tr>
-<tr><td><a href="#role-73">Gerichtsvollzieher:in</a></td><td><a href='#role-73'>73</a></td></tr>
-<tr><td><a href="#role-74">Gesangslehrer:in</a></td><td><a href='#role-74'>74</a></td></tr>
-<tr><td><a href="#role-303">Geschäftspartner:in</a></td><td><a href='#role-303'>303</a></td></tr>
-<tr><td><a href="#role-75">Gewandmeister:in</a></td><td><a href='#role-75'>75</a></td></tr>
-<tr><td><a href="#role-76">Grip</a></td><td><a href='#role-76'>76</a></td></tr>
-<tr><td><a href="#role-76">Grip</a> > <a href="#role-304">Dolly Grip</a></td><td><a href='#role-304'>304</a></td></tr>
-<tr><td><a href="#role-305">Handwerker:in</a></td><td><a href='#role-305'>305</a></td></tr>
-<tr><td><a href="#role-305">Handwerker:in</a> > <a href="#role-306">Buchbinder:in</a></td><td><a href='#role-306'>306</a></td></tr>
-<tr><td><a href="#role-305">Handwerker:in</a> > <a href="#role-307">Drucker:in</a></td><td><a href='#role-307'>307</a></td></tr>
-<tr><td><a href="#role-305">Handwerker:in</a> > <a href="#role-308">Schneider:in</a></td><td><a href='#role-308'>308</a></td></tr>
-<tr><td><a href="#role-309">Herausgeber:in</a></td><td><a href='#role-309'>309</a></td></tr>
-<tr><td><a href="#role-82">Hersteller:in</a></td><td><a href='#role-82'>82</a></td></tr>
-<tr><td><a href="#role-83">Historiker:in</a></td><td><a href='#role-83'>83</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a></td><td><a href='#role-84'>84</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-85">Blockflötist:in</a></td><td><a href='#role-85'>85</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-86">Dudelsackspieler:in</a></td><td><a href='#role-86'>86</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-87">Fagottist:in</a></td><td><a href='#role-87'>87</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-88">Flötist:in</a></td><td><a href='#role-88'>88</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-88">Flötist:in</a> > <a href="#role-89">Piccoloflötist:in</a></td><td><a href='#role-89'>89</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-90">Klarinettist:in</a></td><td><a href='#role-90'>90</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-91">Oboist:in</a></td><td><a href='#role-91'>91</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a></td><td><a href='#role-92'>92</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-93">Altsaxofonist:in</a></td><td><a href='#role-93'>93</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-94">Baritonsaxofonist:in</a></td><td><a href='#role-94'>94</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-95">Basssaxofonist:in</a></td><td><a href='#role-95'>95</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-96">Mezzosopran-Saxofonist:in</a></td><td><a href='#role-96'>96</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-97">Sopransaxofonist:in</a></td><td><a href='#role-97'>97</a></td></tr>
-<tr><td><a href="#role-84">Holzbläser:in</a> > <a href="#role-92">Saxofonist:in</a> > <a href="#role-98">Tenorsaxofonist:in</a></td><td><a href='#role-98'>98</a></td></tr>
-<tr><td><a href="#role-310">Humangeograph:in</a></td><td><a href='#role-310'>310</a></td></tr>
-<tr><td><a href="#role-77">Händler:in</a></td><td><a href='#role-77'>77</a></td></tr>
-<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-78">Autohändler:in</a></td><td><a href='#role-78'>78</a></td></tr>
-<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-79">Fahrradhändler:in</a></td><td><a href='#role-79'>79</a></td></tr>
-<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-80">Musikalienhändler:in</a></td><td><a href='#role-80'>80</a></td></tr>
-<tr><td><a href="#role-77">Händler:in</a> > <a href="#role-81">Schreibwarenhändler:in</a></td><td><a href='#role-81'>81</a></td></tr>
-<tr><td><a href="#role-397">Hörfunkmoderator:in</a></td><td><a href='#role-397'>397</a></td></tr>
-<tr><td><a href="#role-99">Impressario</a></td><td><a href='#role-99'>99</a></td></tr>
-<tr><td><a href="#role-311">Informatiker:in</a></td><td><a href='#role-311'>311</a></td></tr>
-<tr><td><a href="#role-100">Ingenieur:in</a></td><td><a href='#role-100'>100</a></td></tr>
-<tr><td><a href="#role-100">Ingenieur:in</a> > <a href="#role-101">Elektroingenieur:in</a></td><td><a href='#role-101'>101</a></td></tr>
-<tr><td><a href="#role-102">Instrumentalist:in</a></td><td><a href='#role-102'>102</a></td></tr>
-<tr><td><a href="#role-103">Intendant:in</a></td><td><a href='#role-103'>103</a></td></tr>
-<tr><td><a href="#role-104">Interpret:in</a></td><td><a href='#role-104'>104</a></td></tr>
-<tr><td><a href="#role-105">Journalist:in</a></td><td><a href='#role-105'>105</a></td></tr>
-<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-107">Kritiker:in</a></td><td><a href='#role-107'>107</a></td></tr>
-<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-107">Kritiker:in</a> > <a href="#role-108">Literaturkritiker:in</a></td><td><a href='#role-108'>108</a></td></tr>
-<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-107">Kritiker:in</a> > <a href="#role-109">Musikkritiker:in</a></td><td><a href='#role-109'>109</a></td></tr>
-<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-106">Kulturjournalist:in</a></td><td><a href='#role-106'>106</a></td></tr>
-<tr><td><a href="#role-105">Journalist:in</a> > <a href="#role-110">Musikjournalist:in</a></td><td><a href='#role-110'>110</a></td></tr>
-<tr><td><a href="#role-312">Jurist:in</a></td><td><a href='#role-312'>312</a></td></tr>
-<tr><td><a href="#role-111">Kabarettist:in</a></td><td><a href='#role-111'>111</a></td></tr>
-<tr><td><a href="#role-112">Kameraperson</a></td><td><a href='#role-112'>112</a></td></tr>
-<tr><td><a href="#role-313">Keramiker:in</a></td><td><a href='#role-313'>313</a></td></tr>
-<tr><td><a href="#role-404">Kirchenmusiker:in</a></td><td><a href='#role-404'>404</a></td></tr>
-<tr><td><a href="#role-405">Klangregisseur:in</a></td><td><a href='#role-405'>405</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a></td><td><a href='#role-237'>237</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-238">Cembalist:in</a></td><td><a href='#role-238'>238</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-239">Harmoniumspieler:in</a></td><td><a href='#role-239'>239</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-240">Keyboarder:in</a></td><td><a href='#role-240'>240</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-241">Organist:in</a></td><td><a href='#role-241'>241</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-242">Pianist:in</a></td><td><a href='#role-242'>242</a></td></tr>
-<tr><td><a href="#role-237">Klavierist:in</a> > <a href="#role-243">Pianolist:in</a></td><td><a href='#role-243'>243</a></td></tr>
-<tr><td><a href="#role-113">Klinikverwalter:in</a></td><td><a href='#role-113'>113</a></td></tr>
-<tr><td><a href="#role-393">Kognitionswissenschaftler:in</a></td><td><a href='#role-393'>393</a></td></tr>
-<tr><td><a href="#role-284">Komiker:in</a></td><td><a href='#role-284'>284</a></td></tr>
-<tr><td><a href="#role-114">Komiker:innenduo</a></td><td><a href='#role-114'>114</a></td></tr>
-<tr><td><a href="#role-115">Komponist:in</a></td><td><a href='#role-115'>115</a></td></tr>
-<tr><td><a href="#role-314">Konzertmeister:in</a></td><td><a href='#role-314'>314</a></td></tr>
-<tr><td><a href="#role-380">Kooperation</a></td><td><a href='#role-380'>380</a></td></tr>
-<tr><td><a href="#role-116">Koproduzent:in</a></td><td><a href='#role-116'>116</a></td></tr>
-<tr><td><a href="#role-315">Korrepetitor:in</a></td><td><a href='#role-315'>315</a></td></tr>
-<tr><td><a href="#role-117">Kostümbildner:in</a></td><td><a href='#role-117'>117</a></td></tr>
-<tr><td><a href="#role-316">Kranführer:in</a></td><td><a href='#role-316'>316</a></td></tr>
-<tr><td><a href="#role-118">Kulturaktivist:in</a></td><td><a href='#role-118'>118</a></td></tr>
-<tr><td><a href="#role-317">Kulturwissenschaftler:in</a></td><td><a href='#role-317'>317</a></td></tr>
-<tr><td><a href="#role-318">Kunsthistoriker:in</a></td><td><a href='#role-318'>318</a></td></tr>
-<tr><td><a href="#role-122">Kunstpfeifer:in</a></td><td><a href='#role-122'>122</a></td></tr>
-<tr><td><a href="#role-235">Kunstwissenschaftler:in</a></td><td><a href='#role-325'>325</a></td></tr>
-<tr><td><a href="#role-123">Kurator:in</a></td><td><a href='#role-123'>123</a></td></tr>
-<tr><td><a href="#role-123">Kurator:in</a> > <a href="#role-124">Ausstellungs-Kurator:in</a></td><td><a href='#role-124'>124</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a></td><td><a href='#role-119'>119</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-385">Grafiker:in</a></td><td><a href='#role-385'>385</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-385">Grafiker:in</a> > <a href="#role-389">Zeichner:in</a></td><td><a href='#role-389'>389</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-385">Grafiker:in</a> > <a href="#role-389">Zeichner:in</a> > <a href="#role-390">Comiczeichner:in</a></td><td><a href='#role-390'>390</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-120">Karikaturist:in</a></td><td><a href='#role-120'>120</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-320">Klangkünstler:in</a></td><td><a href='#role-320'>320</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-121">Maler:in</a></td><td><a href='#role-121'>121</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-121">Maler:in</a> > <a href="#role-321">Illustrator:in</a></td><td><a href='#role-321'>321</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-322">Performancekünstler:in</a></td><td><a href='#role-322'>322</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-399">VFX-Künstler:in</a></td><td><a href='#role-399'>399</a></td></tr>
-<tr><td><a href="#role-119">Künstler:in</a> > <a href="#role-323">Videokünstler:in</a></td><td><a href='#role-323'>323</a></td></tr>
-<tr><td><a href="#role-234">Künstlerische Leiter:in</a></td><td><a href='#role-324'>324</a></td></tr>
-<tr><td><a href="#role-402">Lehrbeauftragte:r</a></td><td><a href='#role-402'>402</a></td></tr>
-<tr><td><a href="#role-125">Lehrer:in</a></td><td><a href='#role-125'>125</a></td></tr>
-<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-326">Hochschullehrer:in</a></td><td><a href='#role-326'>326</a></td></tr>
-<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-327">Sportlehrer:in</a></td><td><a href='#role-327'>327</a></td></tr>
-<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-327">Sportlehrer:in</a> > <a href="#role-328">Tanzlehrer:in</a></td><td><a href='#role-328'>328</a></td></tr>
-<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-126">Sprachlehrer:in</a></td><td><a href='#role-126'>126</a></td></tr>
-<tr><td><a href="#role-125">Lehrer:in</a> > <a href="#role-126">Sprachlehrer:in</a> > <a href="#role-127">Englischlehrer:in</a></td><td><a href='#role-127'>127</a></td></tr>
-<tr><td><a href="#role-128">Librettist:in</a></td><td><a href='#role-128'>128</a></td></tr>
-<tr><td><a href="#role-401">Liedbegleitung</a></td><td><a href='#role-401'>401</a></td></tr>
-<tr><td><a href="#role-129">Linguist:in</a></td><td><a href='#role-129'>129</a></td></tr>
-<tr><td><a href="#role-129">Linguist:in</a> > <a href="#role-130">Romanist:in</a></td><td><a href='#role-130'>130</a></td></tr>
-<tr><td><a href="#role-392">Location Manager:in</a></td><td><a href='#role-392'>392</a></td></tr>
-<tr><td><a href="#role-329">Logopäd:in</a></td><td><a href='#role-329'>329</a></td></tr>
-<tr><td><a href="#role-131">Lokomotivführer:in</a></td><td><a href='#role-131'>131</a></td></tr>
-<tr><td><a href="#role-132">Luftfahrtpionier:in</a></td><td><a href='#role-132'>132</a></td></tr>
-<tr><td><a href="#role-133">Manager:in</a></td><td><a href='#role-133'>133</a></td></tr>
-<tr><td><a href="#role-133">Manager:in</a> > <a href="#role-330">Eventmanager:in</a></td><td><a href='#role-330'>330</a></td></tr>
-<tr><td><a href="#role-172">Marineoffizier:in</a></td><td><a href='#role-172'>172</a></td></tr>
-<tr><td><a href="#role-134">Maskenbildner:in</a></td><td><a href='#role-134'>134</a></td></tr>
-<tr><td><a href="#role-383">Mastering Studio</a></td><td><a href='#role-383'>383</a></td></tr>
-<tr><td><a href="#role-394">Mathematiker:in</a></td><td><a href='#role-394'>394</a></td></tr>
-<tr><td><a href="#role-135">Maurer:in</a></td><td><a href='#role-135'>135</a></td></tr>
-<tr><td><a href="#role-136">Medienmanager:in</a></td><td><a href='#role-136'>136</a></td></tr>
-<tr><td><a href="#role-331">Medienwissenschaftler:in</a></td><td><a href='#role-331'>331</a></td></tr>
-<tr><td><a href="#role-137">Mischtonmeister</a></td><td><a href='#role-137'>137</a></td></tr>
-<tr><td><a href="#role-138">Mitwirkende:r</a></td><td><a href='#role-138'>138</a></td></tr>
-<tr><td><a href="#role-386">Model</a></td><td><a href='#role-386'>386</a></td></tr>
-<tr><td><a href="#role-403">Moderator:in</a></td><td><a href='#role-403'>403</a></td></tr>
-<tr><td><a href="#role-139">Montage</a></td><td><a href='#role-139'>139</a></td></tr>
-<tr><td><a href="#role-332">Musicaldarsteller:in</a></td><td><a href='#role-332'>332</a></td></tr>
-<tr><td><a href="#role-140">musikalische:r Begleiter:in</a></td><td><a href='#role-140'>140</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a></td><td><a href='#role-141'>141</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-142">Band</a></td><td><a href='#role-142'>142</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a></td><td><a href='#role-143'>143</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-144">Choralschola</a></td><td><a href='#role-144'>144</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-145">Frauenchor</a></td><td><a href='#role-145'>145</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-146">Kinderchor</a></td><td><a href='#role-146'>146</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-147">Knabenchor</a></td><td><a href='#role-147'>147</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-143">Chor</a> > <a href="#role-148">Männerchor</a></td><td><a href='#role-148'>148</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-149">Combo</a></td><td><a href='#role-149'>149</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-150">Elektronik-Ensemble</a></td><td><a href='#role-150'>150</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-151">Instrumentalgruppe</a></td><td><a href='#role-151'>151</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-152">Kammermusikensemble</a></td><td><a href='#role-152'>152</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-152">Kammermusikensemble</a> > <a href="#role-153">Streichquartett</a></td><td><a href='#role-153'>153</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a></td><td><a href='#role-154'>154</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-155">Blasorchester</a></td><td><a href='#role-155'>155</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-156">Militärorchester</a></td><td><a href='#role-156'>156</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-157">Streichorchester</a></td><td><a href='#role-157'>157</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-154">Orchester</a> > <a href="#role-286">Tanzorchester</a></td><td><a href='#role-286'>286</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-158">Vokalensemble</a></td><td><a href='#role-158'>158</a></td></tr>
-<tr><td><a href="#role-141">Musikensemble</a> > <a href="#role-159">Volksmusikgruppe</a></td><td><a href='#role-159'>159</a></td></tr>
-<tr><td><a href="#role-160">Musiker:in</a></td><td><a href='#role-160'>160</a></td></tr>
-<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-333">Bandleader:in</a></td><td><a href='#role-333'>333</a></td></tr>
-<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-334">Jazzmusiker:in</a></td><td><a href='#role-334'>334</a></td></tr>
-<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-407">Synthesizerspieler:in</a></td><td><a href='#role-407'>407</a></td></tr>
-<tr><td><a href="#role-160">Musiker:in</a> > <a href="#role-406">Wasserinstrumentspieler:in</a></td><td><a href='#role-406'>406</a></td></tr>
-<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a></td><td><a href='#role-161'>161</a></td></tr>
-<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a> > <a href="#role-162">Geigenbauer:in</a></td><td><a href='#role-162'>162</a></td></tr>
-<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a> > <a href="#role-163">Klavierbauer:in</a></td><td><a href='#role-163'>163</a></td></tr>
-<tr><td><a href="#role-161">Musikinstrumentenbauer:in</a> > <a href="#role-164">Orgelbauer:in</a></td><td><a href='#role-164'>164</a></td></tr>
-<tr><td><a href="#role-165">Musiklehrer:in</a></td><td><a href='#role-165'>165</a></td></tr>
-<tr><td><a href="#role-166">Musikproduzent:in</a></td><td><a href='#role-166'>166</a></td></tr>
-<tr><td><a href="#role-166">Musikproduzent:in</a> > <a href="#role-167">Musikalische:r Leiter:in</a></td><td><a href='#role-167'>167</a></td></tr>
-<tr><td><a href="#role-166">Musikproduzent:in</a> > <a href="#role-168">Sessionleiter:in</a></td><td><a href='#role-168'>168</a></td></tr>
-<tr><td><a href="#role-169">Musikwissenschaftler:in</a></td><td><a href='#role-169'>169</a></td></tr>
-<tr><td><a href="#role-169">Musikwissenschaftler:in</a> > <a href="#role-335">Musikethnolog:in</a></td><td><a href='#role-335'>335</a></td></tr>
-<tr><td><a href="#role-336">Naturwissenschaftler:in</a></td><td><a href='#role-336'>336</a></td></tr>
-<tr><td><a href="#role-336">Naturwissenschaftler:in</a> > <a href="#role-337">Chemiker:in</a></td><td><a href='#role-337'>337</a></td></tr>
-<tr><td><a href="#role-338">Neurobiolog:in</a></td><td><a href='#role-338'>338</a></td></tr>
-<tr><td><a href="#role-170">Obstbautechniker:in</a></td><td><a href='#role-170'>170</a></td></tr>
-<tr><td><a href="#role-171">Offizier:in</a></td><td><a href='#role-171'>171</a></td></tr>
-<tr><td><a href="#role-173">Orientalist:in</a></td><td><a href='#role-173'>173</a></td></tr>
-<tr><td><a href="#role-174">Ornitholog:in</a></td><td><a href='#role-174'>174</a></td></tr>
-<tr><td><a href="#role-175">Pantomim:in</a></td><td><a href='#role-175'>175</a></td></tr>
-<tr><td><a href="#role-176">Performer:in</a></td><td><a href='#role-176'>176</a></td></tr>
-<tr><td><a href="#role-177">Perkussionist:in</a></td><td><a href='#role-177'>177</a></td></tr>
-<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-178">Marimbafonist:in</a></td><td><a href='#role-178'>178</a></td></tr>
-<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-179">Paukist:in</a></td><td><a href='#role-179'>179</a></td></tr>
-<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-180">Schlagzeuger:in</a></td><td><a href='#role-180'>180</a></td></tr>
-<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-181">Vibrafonist:in</a></td><td><a href='#role-181'>181</a></td></tr>
-<tr><td><a href="#role-177">Perkussionist:in</a> > <a href="#role-182">Xylofonist:in</a></td><td><a href='#role-182'>182</a></td></tr>
-<tr><td><a href="#role-182">Philolog:in</a></td><td><a href='#role-183'>183</a></td></tr>
-<tr><td><a href="#role-184">Philosoph:in</a></td><td><a href='#role-184'>184</a></td></tr>
-<tr><td><a href="#role-185">Physiker:in</a></td><td><a href='#role-185'>185</a></td></tr>
-<tr><td><a href="#role-186">Politiker:in</a></td><td><a href='#role-186'>186</a></td></tr>
-<tr><td><a href="#role-341">Politikwissenschaftler:in</a></td><td><a href='#role-341'>341</a></td></tr>
-<tr><td><a href="#role-342">Praktikant:in</a></td><td><a href='#role-342'>342</a></td></tr>
-<tr><td><a href="#role-187">Priester:in</a></td><td><a href='#role-187'>187</a></td></tr>
-<tr><td><a href="#role-187">Priester:in</a> > <a href="#role-188">Pfarrer:in</a></td><td><a href='#role-188'>188</a></td></tr>
-<tr><td><a href="#role-187">Priester:in</a> > <a href="#role-189">Prediger:in</a></td><td><a href='#role-189'>189</a></td></tr>
-<tr><td><a href="#role-191">Produktionsfirma</a></td><td><a href='#role-191'>191</a></td></tr>
-<tr><td><a href="#role-190">Produktionsleiter:in</a></td><td><a href='#role-190'>190</a></td></tr>
-<tr><td><a href="#role-190">Produktionsleiter:in</a> > <a href="#role-343">Produktionsassistent:in</a></td><td><a href='#role-343'>343</a></td></tr>
-<tr><td><a href="#role-192">Produzent:in</a></td><td><a href='#role-192'>192</a></td></tr>
-<tr><td><a href="#role-344">Programmierer:in</a></td><td><a href='#role-344'>344</a></td></tr>
-<tr><td><a href="#role-382">Projektleiter:in</a></td><td><a href='#role-382'>382</a></td></tr>
-<tr><td><a href="#role-345">Psycholog:in</a></td><td><a href='#role-345'>345</a></td></tr>
-<tr><td><a href="#role-346">Psychotherapeut:in</a></td><td><a href='#role-346'>346</a></td></tr>
-<tr><td><a href="#role-346">Psychotherapeut:in</a> > <a href="#role-347">Musiktherapeut:in</a></td><td><a href='#role-347'>347</a></td></tr>
-<tr><td><a href="#role-348">Publizist:in</a></td><td><a href='#role-348'>348</a></td></tr>
-<tr><td><a href="#role-340">Pädagog:in</a></td><td><a href='#role-340'>340</a></td></tr>
-<tr><td><a href="#role-349">Raumplaner:in</a></td><td><a href='#role-349'>349</a></td></tr>
-<tr><td><a href="#role-193">Rechtsanwalt/Rechtsanwältin</a></td><td><a href='#role-193'>193</a></td></tr>
-<tr><td><a href="#role-193">Rechtsanwalt/Rechtsanwältin</a> > <a href="#role-194">Notar:in</a></td><td><a href='#role-194'>194</a></td></tr>
-<tr><td><a href="#role-195">Redakteur:in</a></td><td><a href='#role-195'>195</a></td></tr>
-<tr><td><a href="#role-196">Regieassistent:in</a></td><td><a href='#role-196'>196</a></td></tr>
-<tr><td><a href="#role-197">Regisseur:in</a></td><td><a href='#role-197'>197</a></td></tr>
-<tr><td><a href="#role-198">Requisiteur:in</a></td><td><a href='#role-198'>198</a></td></tr>
-<tr><td><a href="#role-213">Schauspieler:in</a></td><td><a href='#role-213'>213</a></td></tr>
-<tr><td><a href="#role-214">Schlosser:in</a></td><td><a href='#role-214'>214</a></td></tr>
-<tr><td><a href="#role-215">Schnitt</a></td><td><a href='#role-215'>215</a></td></tr>
-<tr><td><a href="#role-350">Schriftsetzer:in</a></td><td><a href='#role-350'>350</a></td></tr>
-<tr><td><a href="#role-216">Script Continuity</a></td><td><a href='#role-216'>216</a></td></tr>
-<tr><td><a href="#role-217">Sekretär:in</a></td><td><a href='#role-217'>217</a></td></tr>
-<tr><td><a href="#role-298">Selbstverleger:in</a></td><td><a href='#role-298'>298</a></td></tr>
-<tr><td><a href="#role-218">Set Designer:in</a></td><td><a href='#role-218'>218</a></td></tr>
-<tr><td><a href="#role-288">Software-Entwickler:in</a></td><td><a href='#role-288'>288</a></td></tr>
-<tr><td><a href="#role-219">Soldat:in</a></td><td><a href='#role-219'>219</a></td></tr>
-<tr><td><a href="#role-352">Soufflage</a></td><td><a href='#role-352'>352</a></td></tr>
-<tr><td><a href="#role-220">Sounddesigner:in</a></td><td><a href='#role-220'>220</a></td></tr>
-<tr><td><a href="#role-353">Soziolog:in</a></td><td><a href='#role-353'>353</a></td></tr>
-<tr><td><a href="#role-353">Soziolog:in</a> > <a href="#role-354">Kultursoziolog:in</a></td><td><a href='#role-354'>354</a></td></tr>
-<tr><td><a href="#role-221">Special Effects</a></td><td><a href='#role-221'>221</a></td></tr>
-<tr><td><a href="#role-222">Sponsor:in</a></td><td><a href='#role-222'>222</a></td></tr>
-<tr><td><a href="#role-355">Sportler:in</a></td><td><a href='#role-355'>355</a></td></tr>
-<tr><td><a href="#role-355">Sportler:in</a> > <a href="#role-356">Bergsteiger:in</a></td><td><a href='#role-356'>356</a></td></tr>
-<tr><td><a href="#role-355">Sportler:in</a> > <a href="#role-357">Kampfsportler:in</a></td><td><a href='#role-357'>357</a></td></tr>
-<tr><td><a href="#role-223">Sprecher:in</a></td><td><a href='#role-223'>223</a></td></tr>
-<tr><td><a href="#role-223">Sprecher:in</a> > <a href="#role-224">Ansager:in</a></td><td><a href='#role-224'>224</a></td></tr>
-<tr><td><a href="#role-223">Sprecher:in</a> > <a href="#role-225">Rezitator:in</a></td><td><a href='#role-225'>225</a></td></tr>
-<tr><td><a href="#role-358">Sprecherzieher:in</a></td><td><a href='#role-358'>358</a></td></tr>
-<tr><td><a href="#role-359">Steuerfachangestellte:r</a></td><td><a href='#role-359'>359</a></td></tr>
-<tr><td><a href="#role-226">Streicher:in</a></td><td><a href='#role-226'>226</a></td></tr>
-<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-227">Bratschist:in</a></td><td><a href='#role-227'>227</a></td></tr>
-<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-228">Cellist:in</a></td><td><a href='#role-228'>228</a></td></tr>
-<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-229">Gambist:in</a></td><td><a href='#role-229'>229</a></td></tr>
-<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-230">Kontrabassist:in</a></td><td><a href='#role-230'>230</a></td></tr>
-<tr><td><a href="#role-226">Streicher:in</a> > <a href="#role-231">Violinist:in</a></td><td><a href='#role-231'>231</a></td></tr>
-<tr><td><a href="#role-232">Student:in</a></td><td><a href='#role-232'>232</a></td></tr>
-<tr><td><a href="#role-234">Synchronregie</a></td><td><a href='#role-234'>234</a></td></tr>
-<tr><td><a href="#role-233">Synchronsprecher:in</a></td><td><a href='#role-233'>233</a></td></tr>
-<tr><td><a href="#role-235">Szenenbildner:in</a></td><td><a href='#role-235'>235</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a></td><td><a href='#role-199'>199</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-200">Altist:in</a></td><td><a href='#role-200'>200</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-201">Bariton</a></td><td><a href='#role-201'>201</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-202">Bassbariton</a></td><td><a href='#role-202'>202</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-203">Bassist (Gesang)</a></td><td><a href='#role-203'>203</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-204">Chorsänger:in</a></td><td><a href='#role-204'>204</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-205">Countertenor</a></td><td><a href='#role-205'>205</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-207">Kantor:in (jüdisch)</a></td><td><a href='#role-207'>207</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-206">Kastrat</a></td><td><a href='#role-206'>206</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-208">Knabenalt</a></td><td><a href='#role-208'>208</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-209">Knabensopran</a></td><td><a href='#role-209'>209</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-210">Mezzosopranist:in</a></td><td><a href='#role-210'>210</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-211">Sopranist:in</a></td><td><a href='#role-211'>211</a></td></tr>
-<tr><td><a href="#role-199">Sänger:in</a> > <a href="#role-212">Tenorist:in</a></td><td><a href='#role-212'>212</a></td></tr>
-<tr><td><a href="#role-388">Tanzwissenschaftler:in</a></td><td><a href='#role-388'>388</a></td></tr>
-<tr><td><a href="#role-244">Techniker:in</a></td><td><a href='#role-244'>244</a></td></tr>
-<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-245">Elektroniker:in</a></td><td><a href='#role-245'>245</a></td></tr>
-<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-246">Elektrotechniker:in</a></td><td><a href='#role-246'>246</a></td></tr>
-<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-360">Technische:r Direktor:in</a></td><td><a href='#role-360'>360</a></td></tr>
-<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-361">Tontechniker:in</a></td><td><a href='#role-361'>361</a></td></tr>
-<tr><td><a href="#role-244">Techniker:in</a> > <a href="#role-362">Veranstaltungstechniker:in</a></td><td><a href='#role-362'>362</a></td></tr>
-<tr><td><a href="#role-379">Technische Realisation</a></td><td><a href='#role-379'>379</a></td></tr>
-<tr><td><a href="#role-247">Textdichter:in</a></td><td><a href='#role-247'>247</a></td></tr>
-<tr><td><a href="#role-248">Theatergruppe</a></td><td><a href='#role-248'>248</a></td></tr>
-<tr><td><a href="#role-249">Theaterleiter:in</a></td><td><a href='#role-249'>249</a></td></tr>
-<tr><td><a href="#role-363">Theatermacher:in</a></td><td><a href='#role-363'>363</a></td></tr>
-<tr><td><a href="#role-363">Theatermacher:in</a> > <a href="#role-364">Inspizient:in</a></td><td><a href='#role-364'>364</a></td></tr>
-<tr><td><a href="#role-250">Theaterproduzent:in</a></td><td><a href='#role-250'>250</a></td></tr>
-<tr><td><a href="#role-365">Theaterwissenschaftler:in</a></td><td><a href='#role-365'>365</a></td></tr>
-<tr><td><a href="#role-366">Theolog:in</a></td><td><a href='#role-366'>366</a></td></tr>
-<tr><td><a href="#role-367">Tischler:in</a></td><td><a href='#role-367'>367</a></td></tr>
-<tr><td><a href="#role-368">Tonassistent:in</a></td><td><a href='#role-368'>368</a></td></tr>
-<tr><td><a href="#role-251">Toningenieur:in</a></td><td><a href='#role-251'>251</a></td></tr>
-<tr><td><a href="#role-251">Toningenieur:in</a> > <a href="#role-252">Master-Ingenieur:in</a></td><td><a href='#role-252'>252</a></td></tr>
-<tr><td><a href="#role-251">Toningenieur:in</a> > <a href="#role-253">Tonmischer:in</a></td><td><a href='#role-253'>253</a></td></tr>
-<tr><td><a href="#role-287">Tonträgerunternehmen</a></td><td><a href='#role-287'>287</a></td></tr>
-<tr><td><a href="#role-369">Travestie</a></td><td><a href='#role-369'>369</a></td></tr>
-<tr><td><a href="#role-369">Travestie</a> > <a href="#role-370">Dragqueen</a></td><td><a href='#role-370'>370</a></td></tr>
-<tr><td><a href="#role-236">Tänzer:in</a></td><td><a href='#role-236'>236</a></td></tr>
-<tr><td><a href="#role-391">Tätowierer:in</a></td><td><a href='#role-391'>391</a></td></tr>
-<tr><td><a href="#role-283">unbekannt</a></td><td><a href='#role-283'>283</a></td></tr>
-<tr><td><a href="#role-255">Unternehmer:in</a></td><td><a href='#role-255'>255</a></td></tr>
-<tr><td><a href="#role-371">Unterstützer:in</a></td><td><a href='#role-371'>371</a></td></tr>
-<tr><td><a href="#role-256">Veranstalter:in</a></td><td><a href='#role-256'>256</a></td></tr>
-<tr><td><a href="#role-257">Verfasser:in</a></td><td><a href='#role-257'>257</a></td></tr>
-<tr><td><a href="#role-258">Verleger:in</a></td><td><a href='#role-258'>258</a></td></tr>
-<tr><td><a href="#role-258">Verleger:in</a> > <a href="#role-259">Musikverleger:in</a></td><td><a href='#role-259'>259</a></td></tr>
-<tr><td><a href="#role-260">Vertrieb</a></td><td><a href='#role-260'>260</a></td></tr>
-<tr><td><a href="#role-398">VFX Producer:in</a></td><td><a href='#role-398'>398</a></td></tr>
-<tr><td><a href="#role-372">Visagist:in</a></td><td><a href='#role-372'>372</a></td></tr>
-<tr><td><a href="#role-261">Voice-Over</a></td><td><a href='#role-261'>261</a></td></tr>
-<tr><td><a href="#role-262">Vokalist:in</a></td><td><a href='#role-262'>262</a></td></tr>
-<tr><td><a href="#role-262">Vokalist:in</a> > <a href="#role-263">Chansonnier/Chansonnière</a></td><td><a href='#role-263'>263</a></td></tr>
-<tr><td><a href="#role-262">Vokalist:in</a> > <a href="#role-264">Jodler:in</a></td><td><a href='#role-264'>264</a></td></tr>
-<tr><td><a href="#role-262">Vokalist:in</a> > <a href="#role-265">Rapper:in</a></td><td><a href='#role-265'>265</a></td></tr>
-<tr><td><a href="#role-373">Vorsitzende:r</a></td><td><a href='#role-373'>373</a></td></tr>
-<tr><td><a href="#role-266">Vortragsredner:in</a></td><td><a href='#role-266'>266</a></td></tr>
-<tr><td><a href="#role-265">Webvideoproduzent:in</a> > <a href="#role-268">Video Blogger:in</a></td><td><a href='#role-268'>268</a></td></tr>
-<tr><td><a href="#role-267">Webvideoproduzent:in</a></td><td><a href='#role-267'>267</a></td></tr>
-<tr><td><a href="#role-374">Werkstattleiter:in</a></td><td><a href='#role-374'>374</a></td></tr>
-<tr><td><a href="#role-269">Widmungsträger:in</a></td><td><a href='#role-269'>269</a></td></tr>
-<tr><td><a href="#role-375">Wirtschaftswissenschaftler:in</a></td><td><a href='#role-375'>375</a></td></tr>
-<tr><td><a href="#role-381">wissenschaftliche:r Mitarbeiter:in</a></td><td><a href='#role-381'>381</a></td></tr>
-<tr><td><a href="#role-376">Yogalehrer:in</a></td><td><a href='#role-376'>376</a></td></tr>
-<tr><td><a href="#role-270">Zirkusdirektor:in</a></td><td><a href='#role-270'>270</a></td></tr>
-<tr><td><a href="#role-377">Zoolog:in</a></td><td><a href='#role-377'>377</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a></td><td><a href='#role-271'>271</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-272">Balalaikaspieler:in</a></td><td><a href='#role-272'>272</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-273">Banjospieler:in</a></td><td><a href='#role-273'>273</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-274">Bassist:in (Instrument)</a></td><td><a href='#role-274'>274</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-275">Gitarrist:in</a></td><td><a href='#role-275'>275</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-275">Gitarrist:in</a> > <a href="#role-276">Lead-Gitarrist:in</a></td><td><a href='#role-276'>276</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-275">Gitarrist:in</a> > <a href="#role-277">Rhythmusgitarrist</a></td><td><a href='#role-277'>277</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-278">Harfenist:in</a></td><td><a href='#role-278'>278</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-279">Lautenist:in</a></td><td><a href='#role-279'>279</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-280">Mandolinist:in</a></td><td><a href='#role-280'>280</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-281">Ukulelist:in</a></td><td><a href='#role-281'>281</a></td></tr>
-<tr><td><a href="#role-271">Zupfinstrumentenspieler:in</a> > <a href="#role-282">Zitherspieler:in</a></td><td><a href='#role-282'>282</a></td></tr>
-<tr><td><a href="#role-400">Öffentlichkeitsarbeit</a></td><td><a href='#role-400'>400</a></td></tr>
-<tr><td><a href="#role-339">Ökolog:in</a></td><td><a href='#role-339'>339</a></td></tr>
-<tr><td><a href="#role-254">Übersetzer:in</a></td><td><a href='#role-254'>254</a></td></tr>
-</table>
-</details>
-
-<details><summary>Roles ordered by English Breadcrumb | Rollen nach Englischem Breadcrumb geordnet</summary>
-<table>
-<tr><th>English Breadcrumb</th><th>ID</th></tr>
-<tr><td><a href="#role-1">1st assistant camera</a></td><td><a href='#role-1'>1</a></td></tr>
-<tr><td><a href="#role-2">2nd assistant camera</a></td><td><a href='#role-2'>2</a></td></tr>
-<tr><td><a href="#role-27">academic supervisor</a></td><td><a href='#role-27'>27</a></td></tr>
-<tr><td><a href="#role-140">accompanist</a></td><td><a href='#role-140'>140</a></td></tr>
-<tr><td><a href="#role-213">actor/actress</a></td><td><a href='#role-213'>213</a></td></tr>
-<tr><td><a href="#role-4">agent</a></td><td><a href='#role-4'>4</a></td></tr>
-<tr><td><a href="#role-5">amateur</a></td><td><a href='#role-5'>5</a></td></tr>
-<tr><td><a href="#role-6">animation</a></td><td><a href='#role-6'>6</a></td></tr>
-<tr><td><a href="#role-7">anthropologist</a></td><td><a href='#role-7'>7</a></td></tr>
-<tr><td><a href="#role-8">archaeologist</a></td><td><a href='#role-8'>8</a></td></tr>
-<tr><td><a href="#role-378">architect</a></td><td><a href='#role-378'>378</a></td></tr>
-<tr><td><a href="#role-9">archivist</a></td><td><a href='#role-9'>9</a></td></tr>
-<tr><td><a href="#role-318">art historian</a></td><td><a href='#role-318'>318</a></td></tr>
-<tr><td><a href="#role-235">art scholar</a></td><td><a href='#role-325'>325</a></td></tr>
-<tr><td><a href="#role-305">artisan</a></td><td><a href='#role-305'>305</a></td></tr>
-<tr><td><a href="#role-305">artisan</a> > <a href="#role-306">bookbinder</a></td><td><a href='#role-306'>306</a></td></tr>
-<tr><td><a href="#role-305">artisan</a> > <a href="#role-307">printer</a></td><td><a href='#role-307'>307</a></td></tr>
-<tr><td><a href="#role-305">artisan</a> > <a href="#role-308">tailor</a></td><td><a href='#role-308'>308</a></td></tr>
-<tr><td><a href="#role-119">artist</a></td><td><a href='#role-119'>119</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-120">caricaturist</a></td><td><a href='#role-120'>120</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-385">graphic artist</a></td><td><a href='#role-385'>385</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-385">graphic artist</a> > <a href="#role-389">draftsperson</a></td><td><a href='#role-389'>389</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-385">graphic artist</a> > <a href="#role-389">draftsperson</a> > <a href="#role-390">comics artist</a></td><td><a href='#role-390'>390</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-121">painter</a></td><td><a href='#role-121'>121</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-121">painter</a> > <a href="#role-321">illustrator</a></td><td><a href='#role-321'>321</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-322">performance artist</a></td><td><a href='#role-322'>322</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-320">sound artist</a></td><td><a href='#role-320'>320</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-399">VFX-artist</a></td><td><a href='#role-399'>399</a></td></tr>
-<tr><td><a href="#role-119">artist</a> > <a href="#role-323">video artist</a></td><td><a href='#role-323'>323</a></td></tr>
-<tr><td><a href="#role-234">artistic director</a></td><td><a href='#role-324'>324</a></td></tr>
-<tr><td><a href="#role-196">assistant director</a></td><td><a href='#role-196'>196</a></td></tr>
-<tr><td><a href="#role-13">assistant</a></td><td><a href='#role-13'>13</a></td></tr>
-<tr><td><a href="#role-355">athlete</a></td><td><a href='#role-355'>355</a></td></tr>
-<tr><td><a href="#role-355">athlete</a> > <a href="#role-357">martial artist</a></td><td><a href='#role-357'>357</a></td></tr>
-<tr><td><a href="#role-355">athlete</a> > <a href="#role-356">mountaineer</a></td><td><a href='#role-356'>356</a></td></tr>
-<tr><td><a href="#role-251">audio engineer</a></td><td><a href='#role-251'>251</a></td></tr>
-<tr><td><a href="#role-251">audio engineer</a> > <a href="#role-252">mastering engineer</a></td><td><a href='#role-252'>252</a></td></tr>
-<tr><td><a href="#role-251">audio engineer</a> > <a href="#role-253">sound mixer</a></td><td><a href='#role-253'>253</a></td></tr>
-<tr><td><a href="#role-18">author</a> > <a href="#role-20">novelist</a></td><td><a href='#role-20'>20</a></td></tr>
-<tr><td><a href="#role-18">author</a> > <a href="#role-#19">playwright</a></td><td><a href='#role-19'>19</a></td></tr>
-<tr><td><a href="#role-18">author</a></td><td><a href='#role-18'>18</a></td></tr>
-<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a></td><td><a href='#role-289'>289</a></td></tr>
-<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a> > <a href="#role-290">crime fiction writer</a></td><td><a href='#role-290'>290</a></td></tr>
-<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a> > <a href="#role-351">musicographer</a></td><td><a href='#role-351'>351</a></td></tr>
-<tr><td><a href="#role-18">author</a> > <a href="#role-289">writer</a> > <a href="#role-290">poet</a></td><td><a href='#role-291'>291</a></td></tr>
-<tr><td><a href="#role-132">aviation pioneer</a></td><td><a href='#role-132'>132</a></td></tr>
-<tr><td><a href="#role-73">bailiff</a></td><td><a href='#role-73'>73</a></td></tr>
-<tr><td><a href="#role-21">ballet master</a></td><td><a href='#role-21'>21</a></td></tr>
-<tr><td><a href="#role-22">bank officer</a></td><td><a href='#role-22'>22</a></td></tr>
-<tr><td><a href="#role-23">bar manager</a></td><td><a href='#role-23'>23</a></td></tr>
-<tr><td><a href="#role-296">biological technician</a></td><td><a href='#role-296'>296</a></td></tr>
-<tr><td><a href="#role-295">biologist</a></td><td><a href='#role-295'>295</a></td></tr>
-<tr><td><a href="#role-37">bookkeeper</a></td><td><a href='#role-37'>37</a></td></tr>
-<tr><td><a href="#role-384">bookseller</a></td><td><a href='#role-384'>384</a></td></tr>
-<tr><td><a href="#role-368">boom operator</a></td><td><a href='#role-368'>368</a></td></tr>
-<tr><td><a href="#role-297">botanist</a></td><td><a href='#role-297'>297</a></td></tr>
-<tr><td><a href="#role-285">boxer</a></td><td><a href='#role-285'>285</a></td></tr>
-<tr><td><a href="#role-30">brass player</a></td><td><a href='#role-30'>30</a></td></tr>
-<tr><td><a href="#role-30">brass player</a> > <a href="#role-32">cornetist</a></td><td><a href='#role-32'>32</a></td></tr>
-<tr><td><a href="#role-30">brass player</a> > <a href="#role-36">cornettist</a></td><td><a href='#role-36'>36</a></td></tr>
-<tr><td><a href="#role-30">brass player</a> > <a href="#role-31">hornist</a></td><td><a href='#role-31'>31</a></td></tr>
-<tr><td><a href="#role-30">brass player</a> > <a href="#role-33">trombonist</a></td><td><a href='#role-33'>33</a></td></tr>
-<tr><td><a href="#role-30">brass player</a> > <a href="#role-34">trumpeter</a></td><td><a href='#role-34'>34</a></td></tr>
-<tr><td><a href="#role-30">brass player</a> > <a href="#role-35">tuba player</a></td><td><a href='#role-35'>35</a></td></tr>
-<tr><td><a href="#role-135">bricklayer</a></td><td><a href='#role-135'>135</a></td></tr>
-<tr><td><a href="#role-292">business manager</a></td><td><a href='#role-292'>292</a></td></tr>
-<tr><td><a href="#role-303">business partner</a></td><td><a href='#role-303'>303</a></td></tr>
-<tr><td><a href="#role-111">cabaret performer</a></td><td><a href='#role-111'>111</a></td></tr>
-<tr><td><a href="#role-367">carpenter</a></td><td><a href='#role-367'>367</a></td></tr>
-<tr><td><a href="#role-313">ceramicist</a></td><td><a href='#role-313'>313</a></td></tr>
-<tr><td><a href="#role-373">chairperson</a></td><td><a href='#role-373'>373</a></td></tr>
-<tr><td><a href="#role-41">choreographer</a></td><td><a href='#role-41'>41</a></td></tr>
-<tr><td><a href="#role-404">church musician</a></td><td><a href='#role-404'>404</a></td></tr>
-<tr><td><a href="#role-112">cinematographer</a></td><td><a href='#role-112'>112</a></td></tr>
-<tr><td><a href="#role-29">cinematographer</a></td><td><a href='#role-29'>29</a></td></tr>
-<tr><td><a href="#role-270">circus director</a></td><td><a href='#role-270'>270</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a></td><td><a href='#role-237'>237</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a> > <a href="#role-239">harmonium player</a></td><td><a href='#role-239'>239</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a> > <a href="#role-238">harpsichordist</a></td><td><a href='#role-238'>238</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a> > <a href="#role-240">keyboarder</a></td><td><a href='#role-240'>240</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a> > <a href="#role-241">organist</a></td><td><a href='#role-241'>241</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a> > <a href="#role-242">pianist</a></td><td><a href='#role-242'>242</a></td></tr>
-<tr><td><a href="#role-237">clavierist</a> > <a href="#role-243">pianolist</a></td><td><a href='#role-243'>243</a></td></tr>
-<tr><td><a href="#role-42">co-author</a></td><td><a href='#role-42'>42</a></td></tr>
-<tr><td><a href="#role-116">co-producer</a></td><td><a href='#role-116'>116</a></td></tr>
-<tr><td><a href="#role-393">cognitive scientist</a></td><td><a href='#role-393'>393</a></td></tr>
-<tr><td><a href="#role-43">colour grading</a></td><td><a href='#role-43'>43</a></td></tr>
-<tr><td><a href="#role-284">comedian</a></td><td><a href='#role-284'>284</a></td></tr>
-<tr><td><a href="#role-17">commissioner</a></td><td><a href='#role-17'>17</a></td></tr>
-<tr><td><a href="#role-115">composer</a></td><td><a href='#role-115'>115</a></td></tr>
-<tr><td><a href="#role-311">computer scientist</a></td><td><a href='#role-311'>311</a></td></tr>
-<tr><td><a href="#role-314">concertmaster</a></td><td><a href='#role-314'>314</a></td></tr>
-<tr><td><a href="#role-48">conductor</a></td><td><a href='#role-48'>48</a></td></tr>
-<tr><td><a href="#role-48">conductor</a> > <a href="#role-53">band leader</a></td><td><a href='#role-53'>53</a></td></tr>
-<tr><td><a href="#role-48">conductor</a> > <a href="#role-52">cantor</a></td><td><a href='#role-52'>52</a></td></tr>
-<tr><td><a href="#role-48">conductor</a> > <a href="#role-300">chapelmaster</a></td><td><a href='#role-300'>300</a></td></tr>
-<tr><td><a href="#role-48">conductor</a> > <a href="#role-49">choir director</a></td><td><a href='#role-49'>49</a></td></tr>
-<tr><td><a href="#role-48">conductor</a> > <a href="#role-50">ensemble leader</a></td><td><a href='#role-50'>50</a></td></tr>
-<tr><td><a href="#role-48">conductor</a> > <a href="#role-51">general music director</a></td><td><a href='#role-51'>51</a></td></tr>
-<tr><td><a href="#role-138">contributor</a></td><td><a href='#role-138'>138</a></td></tr>
-<tr><td><a href="#role-380">cooperation</a></td><td><a href='#role-380'>380</a></td></tr>
-<tr><td><a href="#role-117">costume designer</a></td><td><a href='#role-117'>117</a></td></tr>
-<tr><td><a href="#role-316">crane operator</a></td><td><a href='#role-316'>316</a></td></tr>
-<tr><td><a href="#role-118">cultural activist</a></td><td><a href='#role-118'>118</a></td></tr>
-<tr><td><a href="#role-317">cultural studies scholar</a></td><td><a href='#role-317'>317</a></td></tr>
-<tr><td><a href="#role-123">curator</a></td><td><a href='#role-123'>123</a></td></tr>
-<tr><td><a href="#role-123">curator</a> > <a href="#role-124">exhibition curator</a></td><td><a href='#role-124'>124</a></td></tr>
-<tr><td><a href="#role-388">dance researcher</a></td><td><a href='#role-388'>388</a></td></tr>
-<tr><td><a href="#role-236">dancer</a></td><td><a href='#role-236'>236</a></td></tr>
-<tr><td><a href="#role-269">dedicatee</a></td><td><a href='#role-269'>269</a></td></tr>
-<tr><td><a href="#role-44">designer</a></td><td><a href='#role-44'>44</a></td></tr>
-<tr><td><a href="#role-44">designer</a> > <a href="#role-387">fashion designer</a></td><td><a href='#role-387'>387</a></td></tr>
-<tr><td><a href="#role-44">designer</a> > <a href="#role-319">graphic designer</a></td><td><a href='#role-319'>319</a></td></tr>
-<tr><td><a href="#role-44">designer</a> > <a href="#role-299">website designer</a></td><td><a href='#role-299'>299</a></td></tr>
-<tr><td><a href="#role-234">dialog director</a></td><td><a href='#role-234'>234</a></td></tr>
-<tr><td><a href="#role-46">digitisation officer</a></td><td><a href='#role-46'>46</a></td></tr>
-<tr><td><a href="#role-47">diplomat</a></td><td><a href='#role-47'>47</a></td></tr>
-<tr><td><a href="#role-197">director</a></td><td><a href='#role-197'>197</a></td></tr>
-<tr><td><a href="#role-260">distributor</a></td><td><a href='#role-260'>260</a></td></tr>
-<tr><td><a href="#role-54">dj</a></td><td><a href='#role-54'>54</a></td></tr>
-<tr><td><a href="#role-114">double act</a></td><td><a href='#role-114'>114</a></td></tr>
-<tr><td><a href="#role-55">dramaturge</a></td><td><a href='#role-55'>55</a></td></tr>
-<tr><td><a href="#role-302">dresser</a></td><td><a href='#role-302'>302</a></td></tr>
-<tr><td><a href="#role-233">dub actor</a></td><td><a href='#role-233'>233</a></td></tr>
-<tr><td><a href="#role-339">ecologist</a></td><td><a href='#role-339'>339</a></td></tr>
-<tr><td><a href="#role-375">economist</a></td><td><a href='#role-375'>375</a></td></tr>
-<tr><td><a href="#role-195">editor</a></td><td><a href='#role-195'>195</a></td></tr>
-<tr><td><a href="#role-100">engineer</a></td><td><a href='#role-100'>100</a></td></tr>
-<tr><td><a href="#role-100">engineer</a> > <a href="#role-101">electrical engineer</a></td><td><a href='#role-101'>101</a></td></tr>
-<tr><td><a href="#role-255">entrepreneur</a></td><td><a href='#role-255'>255</a></td></tr>
-<tr><td><a href="#role-301">ergonomist</a></td><td><a href='#role-301'>301</a></td></tr>
-<tr><td><a href="#role-64">ethnologist</a></td><td><a href='#role-64'>64</a></td></tr>
-<tr><td><a href="#role-64">ethnologist</a> > <a href="#role-65">ethnographer</a></td><td><a href='#role-65'>65</a></td></tr>
-<tr><td><a href="#role-215">film editor</a></td><td><a href='#role-215'>215</a></td></tr>
-<tr><td><a href="#role-67">film funding</a></td><td><a href='#role-67'>67</a></td></tr>
-<tr><td><a href="#role-68">film producer</a></td><td><a href='#role-68'>68</a></td></tr>
-<tr><td><a href="#role-69">folk musician</a></td><td><a href='#role-69'>69</a></td></tr>
-<tr><td><a href="#role-57">free-reed player</a></td><td><a href='#role-57'>57</a></td></tr>
-<tr><td><a href="#role-57">free-reed player</a> > <a href="#role-58">accordionist</a></td><td><a href='#role-58'>58</a></td></tr>
-<tr><td><a href="#role-57">free-reed player</a> > <a href="#role-59">concertina player</a></td><td><a href='#role-59'>59</a></td></tr>
-<tr><td><a href="#role-57">free-reed player</a> > <a href="#role-60">harmonica player</a></td><td><a href='#role-60'>60</a></td></tr>
-<tr><td><a href="#role-402">freelance instructor</a></td><td><a href='#role-402'>402</a></td></tr>
-<tr><td><a href="#role-3">graduate</a></td><td><a href='#role-3'>3</a></td></tr>
-<tr><td><a href="#role-76">grip</a></td><td><a href='#role-76'>76</a></td></tr>
-<tr><td><a href="#role-76">grip</a> > <a href="#role-304">dolly grip</a></td><td><a href='#role-304'>304</a></td></tr>
-<tr><td><a href="#role-83">historian</a></td><td><a href='#role-83'>83</a></td></tr>
-<tr><td><a href="#role-113">hospital administrator</a></td><td><a href='#role-113'>113</a></td></tr>
-<tr><td><a href="#role-256">host</a></td><td><a href='#role-256'>256</a></td></tr>
-<tr><td><a href="#role-310">human geographer</a></td><td><a href='#role-310'>310</a></td></tr>
-<tr><td><a href="#role-99">impresario</a></td><td><a href='#role-99'>99</a></td></tr>
-<tr><td><a href="#role-298">independent publisher</a></td><td><a href='#role-298'>298</a></td></tr>
-<tr><td><a href="#role-161">instrument maker</a></td><td><a href='#role-161'>161</a></td></tr>
-<tr><td><a href="#role-161">instrument maker</a> > <a href="#role-162">luthier</a></td><td><a href='#role-162'>162</a></td></tr>
-<tr><td><a href="#role-161">instrument maker</a> > <a href="#role-164">organ builder</a></td><td><a href='#role-164'>164</a></td></tr>
-<tr><td><a href="#role-161">instrument maker</a> > <a href="#role-163">piano maker</a></td><td><a href='#role-163'>163</a></td></tr>
-<tr><td><a href="#role-102">instrumentalist</a></td><td><a href='#role-102'>102</a></td></tr>
-<tr><td><a href="#role-103">intendant</a></td><td><a href='#role-103'>103</a></td></tr>
-<tr><td><a href="#role-342">intern</a></td><td><a href='#role-342'>342</a></td></tr>
-<tr><td><a href="#role-62">inventor</a></td><td><a href='#role-62'>62</a></td></tr>
-<tr><td><a href="#role-105">journalist</a></td><td><a href='#role-105'>105</a></td></tr>
-<tr><td><a href="#role-105">journalist</a> > <a href="#role-106">arts journalist</a></td><td><a href='#role-106'>106</a></td></tr>
-<tr><td><a href="#role-105">journalist</a> > <a href="#role-107">critic</a></td><td><a href='#role-107'>107</a></td></tr>
-<tr><td><a href="#role-105">journalist</a> > <a href="#role-107">critic</a> > <a href="#role-108">literary critic</a></td><td><a href='#role-108'>108</a></td></tr>
-<tr><td><a href="#role-105">journalist</a> > <a href="#role-107">critic</a> > <a href="#role-109">music critic</a></td><td><a href='#role-109'>109</a></td></tr>
-<tr><td><a href="#role-105">journalist</a> > <a href="#role-110">music journalist</a></td><td><a href='#role-110'>110</a></td></tr>
-<tr><td><a href="#role-312">jurist</a></td><td><a href='#role-312'>312</a></td></tr>
-<tr><td><a href="#role-193">lawyer</a></td><td><a href='#role-193'>193</a></td></tr>
-<tr><td><a href="#role-193">lawyer</a> > <a href="#role-194">notary</a></td><td><a href='#role-194'>194</a></td></tr>
-<tr><td><a href="#role-266">lecturer</a></td><td><a href='#role-266'>266</a></td></tr>
-<tr><td><a href="#role-28">librarian</a></td><td><a href='#role-28'>28</a></td></tr>
-<tr><td><a href="#role-128">librettist</a></td><td><a href='#role-128'>128</a></td></tr>
-<tr><td><a href="#role-24">lighting technician</a></td><td><a href='#role-24'>24</a></td></tr>
-<tr><td><a href="#role-129">linguist</a></td><td><a href='#role-129'>129</a></td></tr>
-<tr><td><a href="#role-129">linguist</a> > <a href="#role-130">romanist</a></td><td><a href='#role-130'>130</a></td></tr>
-<tr><td><a href="#role-392">location manager</a></td><td><a href='#role-392'>392</a></td></tr>
-<tr><td><a href="#role-214">locksmith</a></td><td><a href='#role-214'>214</a></td></tr>
-<tr><td><a href="#role-247">lyricist</a></td><td><a href='#role-247'>247</a></td></tr>
-<tr><td><a href="#role-134">make-up artist </a></td><td><a href='#role-134'>134</a></td></tr>
-<tr><td><a href="#role-133">manager</a></td><td><a href='#role-133'>133</a></td></tr>
-<tr><td><a href="#role-133">manager</a> > <a href="#role-329">event manager</a></td><td><a href='#role-330'>330</a></td></tr>
-<tr><td><a href="#role-82">manufacturer</a></td><td><a href='#role-82'>82</a></td></tr>
-<tr><td><a href="#role-383">mastering studio</a></td><td><a href='#role-383'>383</a></td></tr>
-<tr><td><a href="#role-394">mathematician</a></td><td><a href='#role-394'>394</a></td></tr>
-<tr><td><a href="#role-136">media executive</a></td><td><a href='#role-136'>136</a></td></tr>
-<tr><td><a href="#role-331">media scholar</a></td><td><a href='#role-331'>331</a></td></tr>
-<tr><td><a href="#role-63">mentioned actor</a></td><td><a href='#role-63'>63</a></td></tr>
-<tr><td><a href="#role-175">mime</a></td><td><a href='#role-175'>175</a></td></tr>
-<tr><td><a href="#role-25">mining engineer</a></td><td><a href='#role-25'>25</a></td></tr>
-<tr><td><a href="#role-386">model</a></td><td><a href='#role-386'>386</a></td></tr>
-<tr><td><a href="#role-139">montage</a></td><td><a href='#role-139'>139</a></td></tr>
-<tr><td><a href="#role-293">movement educator</a></td><td><a href='#role-293'>293</a></td></tr>
-<tr><td><a href="#role-10">music arranger</a></td><td><a href='#role-10'>10</a></td></tr>
-<tr><td><a href="#role-166">music producer</a></td><td><a href='#role-166'>166</a></td></tr>
-<tr><td><a href="#role-166">music producer</a> > <a href="#role-167">musical supervisor</a></td><td><a href='#role-167'>167</a></td></tr>
-<tr><td><a href="#role-166">music producer</a> > <a href="#role-168">session supervisor</a></td><td><a href='#role-168'>168</a></td></tr>
-<tr><td><a href="#role-165">music teacher</a></td><td><a href='#role-165'>165</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a></td><td><a href='#role-141'>141</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-142">band</a></td><td><a href='#role-142'>142</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-152">chamber music ensemble</a></td><td><a href='#role-152'>152</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-152">chamber music ensemble</a> > <a href="#role-153">string quartet</a></td><td><a href='#role-153'>153</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a></td><td><a href='#role-143'>143</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-147">boys' choir</a></td><td><a href='#role-147'>147</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-146">children's choir</a></td><td><a href='#role-146'>146</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-148">male choir</a></td><td><a href='#role-148'>148</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-144">scholae</a></td><td><a href='#role-144'>144</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-143">choir</a> > <a href="#role-145">women's choir</a></td><td><a href='#role-145'>145</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-149">combo</a></td><td><a href='#role-149'>149</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-150">electronic band</a></td><td><a href='#role-150'>150</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-159">folk music group</a></td><td><a href='#role-159'>159</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-151">instrumental group</a></td><td><a href='#role-151'>151</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a></td><td><a href='#role-154'>154</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-286">dance orchestra</a></td><td><a href='#role-286'>286</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-156">military band</a></td><td><a href='#role-156'>156</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-157">string orchestra</a></td><td><a href='#role-157'>157</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-154">orchestra</a> > <a href="#role-155">wind orchestra</a></td><td><a href='#role-155'>155</a></td></tr>
-<tr><td><a href="#role-141">musical ensemble</a> > <a href="#role-158">vocal group</a></td><td><a href='#role-158'>158</a></td></tr>
-<tr><td><a href="#role-332">musical theatre actor</a></td><td><a href='#role-332'>332</a></td></tr>
-<tr><td><a href="#role-160">musician</a></td><td><a href='#role-160'>160</a></td></tr>
-<tr><td><a href="#role-160">musician</a> > <a href="#role-333">bandleader</a></td><td><a href='#role-333'>333</a></td></tr>
-<tr><td><a href="#role-160">musician</a> > <a href="#role-407">synthesizer player</a></td><td><a href='#role-407'>407</a></td></tr>
-<tr><td><a href="#role-160">musician</a> > <a href="#role-406">water instrument player</a></td><td><a href='#role-406'>406</a></td></tr>
-<tr><td><a href="#role-160">musician</a> > <a href="#role-334">jazz musician</a></td><td><a href='#role-334'>334</a></td></tr>
-<tr><td><a href="#role-169">musicologist</a></td><td><a href='#role-169'>169</a></td></tr>
-<tr><td><a href="#role-169">musicologist</a> > <a href="#role-335">ethnomusicologist</a></td><td><a href='#role-335'>335</a></td></tr>
-<tr><td><a href="#role-336">natural scientist</a></td><td><a href='#role-336'>336</a></td></tr>
-<tr><td><a href="#role-336">natural scientist</a> > <a href="#role-337">chemist</a></td><td><a href='#role-337'>337</a></td></tr>
-<tr><td><a href="#role-172">navy officer</a></td><td><a href='#role-172'>172</a></td></tr>
-<tr><td><a href="#role-338">neurobiologist</a></td><td><a href='#role-338'>338</a></td></tr>
-<tr><td><a href="#role-171">officer</a></td><td><a href='#role-171'>171</a></td></tr>
-<tr><td><a href="#role-348">opinion journalist</a></td><td><a href='#role-348'>348</a></td></tr>
-<tr><td><a href="#role-170">orchard technician</a></td><td><a href='#role-170'>170</a></td></tr>
-<tr><td><a href="#role-173">orientalist</a></td><td><a href='#role-173'>173</a></td></tr>
-<tr><td><a href="#role-174">ornithologist</a></td><td><a href='#role-174'>174</a></td></tr>
-<tr><td><a href="#role-61">owner</a></td><td><a href='#role-61'>61</a></td></tr>
-<tr><td><a href="#role-371">participant</a></td><td><a href='#role-371'>371</a></td></tr>
-<tr><td><a href="#role-340">pedagogue</a></td><td><a href='#role-340'>340</a></td></tr>
-<tr><td><a href="#role-177">percussionist</a></td><td><a href='#role-177'>177</a></td></tr>
-<tr><td><a href="#role-177">percussionist</a> > <a href="#role-180">drummer</a></td><td><a href='#role-180'>180</a></td></tr>
-<tr><td><a href="#role-177">percussionist</a> > <a href="#role-178">marimba player</a></td><td><a href='#role-178'>178</a></td></tr>
-<tr><td><a href="#role-177">percussionist</a> > <a href="#role-179">timpanist</a></td><td><a href='#role-179'>179</a></td></tr>
-<tr><td><a href="#role-177">percussionist</a> > <a href="#role-181">vibraphone player</a></td><td><a href='#role-181'>181</a></td></tr>
-<tr><td><a href="#role-177">percussionist</a> > <a href="#role-182">xylophonist</a></td><td><a href='#role-182'>182</a></td></tr>
-<tr><td><a href="#role-176">performer</a></td><td><a href='#role-176'>176</a></td></tr>
-<tr><td><a href="#role-104">performing artist</a></td><td><a href='#role-104'>104</a></td></tr>
-<tr><td><a href="#role-182">philologist</a></td><td><a href='#role-183'>183</a></td></tr>
-<tr><td><a href="#role-184">philosopher</a></td><td><a href='#role-184'>184</a></td></tr>
-<tr><td><a href="#role-70">photographer</a></td><td><a href='#role-70'>70</a></td></tr>
-<tr><td><a href="#role-70">photographer</a> > <a href="#role-72">art photographer</a></td><td><a href='#role-72'>72</a></td></tr>
-<tr><td><a href="#role-70">photographer</a> > <a href="#role-71">still photographer</a></td><td><a href='#role-71'>71</a></td></tr>
-<tr><td><a href="#role-11">physician</a></td><td><a href='#role-11'>11</a></td></tr>
-<tr><td><a href="#role-11">physician</a> > <a href="#role-12">ophthalmologist</a></td><td><a href='#role-12'>12</a></td></tr>
-<tr><td><a href="#role-185">physicist</a></td><td><a href='#role-185'>185</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a></td><td><a href='#role-271'>271</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-272">balalaikist</a></td><td><a href='#role-272'>272</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-273">banjoist</a></td><td><a href='#role-273'>273</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-274">bassist (instrument)</a></td><td><a href='#role-274'>274</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-275">guitarist</a></td><td><a href='#role-275'>275</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-275">guitarist</a> > <a href="#role-276">lead guitarist</a></td><td><a href='#role-276'>276</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-275">guitarist</a> > <a href="#role-277">rhythm guitarist</a></td><td><a href='#role-277'>277</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-278">harpist</a></td><td><a href='#role-278'>278</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-279">lutenist</a></td><td><a href='#role-279'>279</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-280">mandolinist</a></td><td><a href='#role-280'>280</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-281">ukulelist</a></td><td><a href='#role-281'>281</a></td></tr>
-<tr><td><a href="#role-271">plucked string instrument player</a> > <a href="#role-282">Zitherspieler:in</a></td><td><a href='#role-282'>282</a></td></tr>
-<tr><td><a href="#role-45">poet-composer</a></td><td><a href='#role-45'>45</a></td></tr>
-<tr><td><a href="#role-341">political scientist</a></td><td><a href='#role-341'>341</a></td></tr>
-<tr><td><a href="#role-186">politician</a></td><td><a href='#role-186'>186</a></td></tr>
-<tr><td><a href="#role-26">possessor</a></td><td><a href='#role-26'>26</a></td></tr>
-<tr><td><a href="#role-403">presenter</a></td><td><a href='#role-403'>403</a></td></tr>
-<tr><td><a href="#role-187">priest</a></td><td><a href='#role-187'>187</a></td></tr>
-<tr><td><a href="#role-187">priest</a> > <a href="#role-188">minister</a></td><td><a href='#role-188'>188</a></td></tr>
-<tr><td><a href="#role-187">priest</a> > <a href="#role-189">preacher</a></td><td><a href='#role-189'>189</a></td></tr>
-<tr><td><a href="#role-192">producer</a></td><td><a href='#role-192'>192</a></td></tr>
-<tr><td><a href="#role-191">production company</a></td><td><a href='#role-191'>191</a></td></tr>
-<tr><td><a href="#role-344">programmer</a></td><td><a href='#role-344'>344</a></td></tr>
-<tr><td><a href="#role-382">project manager</a></td><td><a href='#role-382'>382</a></td></tr>
-<tr><td><a href="#role-352">prompter</a></td><td><a href='#role-352'>352</a></td></tr>
-<tr><td><a href="#role-198">property master</a></td><td><a href='#role-198'>198</a></td></tr>
-<tr><td><a href="#role-345">psychologist</a></td><td><a href='#role-345'>345</a></td></tr>
-<tr><td><a href="#role-346">psychotherapist</a></td><td><a href='#role-346'>346</a></td></tr>
-<tr><td><a href="#role-346">psychotherapist</a> > <a href="#role-347">music therapist</a></td><td><a href='#role-347'>347</a></td></tr>
-<tr><td><a href="#role-400">public relations</a></td><td><a href='#role-400'>400</a></td></tr>
-<tr><td><a href="#role-258">publisher</a></td><td><a href='#role-258'>258</a></td></tr>
-<tr><td><a href="#role-258">publisher</a> > <a href="#role-259">music publisher</a></td><td><a href='#role-259'>259</a></td></tr>
-<tr><td><a href="#role-309">publisher</a></td><td><a href='#role-309'>309</a></td></tr>
-<tr><td><a href="#role-397">radio personality</a></td><td><a href='#role-397'>397</a></td></tr>
-<tr><td><a href="#role-137">re-recording mixer</a></td><td><a href='#role-137'>137</a></td></tr>
-<tr><td><a href="#role-287">record company</a></td><td><a href='#role-287'>287</a></td></tr>
-<tr><td><a href="#role-14">recording expert</a></td><td><a href='#role-14'>14</a></td></tr>
-<tr><td><a href="#role-15">recording supervisor</a></td><td><a href='#role-15'>15</a></td></tr>
-<tr><td><a href="#role-15">recording supervisor</a> > <a href="#role-16">tonmeister</a></td><td><a href='#role-16'>16</a></td></tr>
-<tr><td><a href="#role-381">research fellow</a></td><td><a href='#role-381'>381</a></td></tr>
-<tr><td><a href="#role-315">répétiteur</a></td><td><a href='#role-315'>315</a></td></tr>
-<tr><td><a href="#role-38">scenographer</a></td><td><a href='#role-38'>38</a></td></tr>
-<tr><td><a href="#role-56">screen writer</a></td><td><a href='#role-56'>56</a></td></tr>
-<tr><td><a href="#role-216">script supervisor</a></td><td><a href='#role-216'>216</a></td></tr>
-<tr><td><a href="#role-294">sculptor</a></td><td><a href='#role-294'>294</a></td></tr>
-<tr><td><a href="#role-217">secretary</a></td><td><a href='#role-217'>217</a></td></tr>
-<tr><td><a href="#role-235">set designer/production designer</a></td><td><a href='#role-235'>235</a></td></tr>
-<tr><td><a href="#role-218">set designer</a></td><td><a href='#role-218'>218</a></td></tr>
-<tr><td><a href="#role-199">singer</a></td><td><a href='#role-199'>199</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-200">alto</a></td><td><a href='#role-200'>200</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-201">baritone</a></td><td><a href='#role-201'>201</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-202">bass-baritone</a></td><td><a href='#role-202'>202</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-203">bassist (singer)</a></td><td><a href='#role-203'>203</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-208">boy alto</a></td><td><a href='#role-208'>208</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-209">boy soprano</a></td><td><a href='#role-209'>209</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-206">castrato</a></td><td><a href='#role-206'>206</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-204">chorister</a></td><td><a href='#role-204'>204</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-205">countertenor</a></td><td><a href='#role-205'>205</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-207">hazzan</a></td><td><a href='#role-207'>207</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-210">mezzo-soprano</a></td><td><a href='#role-210'>210</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-211">soprano</a></td><td><a href='#role-211'>211</a></td></tr>
-<tr><td><a href="#role-199">singer</a> > <a href="#role-212">tenor</a></td><td><a href='#role-212'>212</a></td></tr>
-<tr><td><a href="#role-353">sociologist</a></td><td><a href='#role-353'>353</a></td></tr>
-<tr><td><a href="#role-353">sociologist</a> > <a href="#role-354">cultural sociologist</a></td><td><a href='#role-354'>354</a></td></tr>
-<tr><td><a href="#role-288">software developer</a></td><td><a href='#role-288'>288</a></td></tr>
-<tr><td><a href="#role-219">soldier</a></td><td><a href='#role-219'>219</a></td></tr>
-<tr><td><a href="#role-401">song accompaniment</a></td><td><a href='#role-401'>401</a></td></tr>
-<tr><td><a href="#role-220">sound designer</a></td><td><a href='#role-220'>220</a></td></tr>
-<tr><td><a href="#role-405">sound director</a></td><td><a href='#role-405'>405</a></td></tr>
-<tr><td><a href="#role-349">spatial planner</a></td><td><a href='#role-349'>349</a></td></tr>
-<tr><td><a href="#role-223">speaker</a></td><td><a href='#role-223'>223</a></td></tr>
-<tr><td><a href="#role-223">speaker</a> > <a href="#role-224">announcer</a></td><td><a href='#role-224'>224</a></td></tr>
-<tr><td><a href="#role-223">speaker</a> > <a href="#role-225">reciter</a></td><td><a href='#role-225'>225</a></td></tr>
-<tr><td><a href="#role-221">special effects</a></td><td><a href='#role-221'>221</a></td></tr>
-<tr><td><a href="#role-329">speech and language therapist</a></td><td><a href='#role-329'>329</a></td></tr>
-<tr><td><a href="#role-358">speech trainer</a></td><td><a href='#role-358'>358</a></td></tr>
-<tr><td><a href="#role-222">sponsor</a></td><td><a href='#role-222'>222</a></td></tr>
-<tr><td><a href="#role-226">string player</a></td><td><a href='#role-226'>226</a></td></tr>
-<tr><td><a href="#role-226">string player</a> > <a href="#role-228">cellist</a></td><td><a href='#role-228'>228</a></td></tr>
-<tr><td><a href="#role-226">string player</a> > <a href="#role-230">double bassist</a></td><td><a href='#role-230'>230</a></td></tr>
-<tr><td><a href="#role-226">string player</a> > <a href="#role-229">viol player</a></td><td><a href='#role-229'>229</a></td></tr>
-<tr><td><a href="#role-226">string player</a> > <a href="#role-231">violinist</a></td><td><a href='#role-231'>231</a></td></tr>
-<tr><td><a href="#role-226">string player</a> > <a href="#role-227">violist</a></td><td><a href='#role-227'>227</a></td></tr>
-<tr><td><a href="#role-232">student</a></td><td><a href='#role-232'>232</a></td></tr>
-<tr><td><a href="#role-190">supervising producer</a></td><td><a href='#role-190'>190</a></td></tr>
-<tr><td><a href="#role-190">supervising producer</a> > <a href="#role-343">assistant producer</a></td><td><a href='#role-343'>343</a></td></tr>
-<tr><td><a href="#role-391">tattoo artist</a></td><td><a href='#role-391'>391</a></td></tr>
-<tr><td><a href="#role-359">tax consultant</a></td><td><a href='#role-359'>359</a></td></tr>
-<tr><td><a href="#role-125">teacher</a></td><td><a href='#role-125'>125</a></td></tr>
-<tr><td><a href="#role-125">teacher</a> > <a href="#role-327">physical education teacher</a></td><td><a href='#role-327'>327</a></td></tr>
-<tr><td><a href="#role-125">teacher</a> > <a href="#role-327">physical education teacher</a> > <a href="#role-328">dance teacher</a></td><td><a href='#role-328'>328</a></td></tr>
-<tr><td><a href="#role-125">teacher</a> > <a href="#role-326">university teacher</a></td><td><a href='#role-326'>326</a></td></tr>
-<tr><td><a href="#role-125">teacher</a> > <a href="#role-126">voice teacher</a></td><td><a href='#role-126'>126</a></td></tr>
-<tr><td><a href="#role-125">teacher</a> > <a href="#role-126">voice teacher</a> > <a href="#role-127">english teacher</a></td><td><a href='#role-127'>127</a></td></tr>
-<tr><td><a href="#role-379">technical realisation</a></td><td><a href='#role-379'>379</a></td></tr>
-<tr><td><a href="#role-244">technician</a></td><td><a href='#role-244'>244</a></td></tr>
-<tr><td><a href="#role-244">technician</a> > <a href="#role-361">audio technician</a></td><td><a href='#role-361'>361</a></td></tr>
-<tr><td><a href="#role-244">technician</a> > <a href="#role-245">electronic technician</a></td><td><a href='#role-245'>245</a></td></tr>
-<tr><td><a href="#role-244">technician</a> > <a href="#role-246">electrotechnician</a></td><td><a href='#role-246'>246</a></td></tr>
-<tr><td><a href="#role-244">technician</a> > <a href="#role-362">event technician</a></td><td><a href='#role-362'>362</a></td></tr>
-<tr><td><a href="#role-244">technician</a> > <a href="#role-360">technical director</a></td><td><a href='#role-360'>360</a></td></tr>
-<tr><td><a href="#role-66">television presenter</a></td><td><a href='#role-66'>66</a></td></tr>
-<tr><td><a href="#role-248">theatre group</a></td><td><a href='#role-248'>248</a></td></tr>
-<tr><td><a href="#role-363">theatre maker</a></td><td><a href='#role-363'>363</a></td></tr>
-<tr><td><a href="#role-363">theatre maker</a> > <a href="#role-364">stage manager</a></td><td><a href='#role-364'>364</a></td></tr>
-<tr><td><a href="#role-249">theatre manager</a></td><td><a href='#role-249'>249</a></td></tr>
-<tr><td><a href="#role-39">theatrical director</a></td><td><a href='#role-39'>39</a></td></tr>
-<tr><td><a href="#role-250">theatrical producer</a></td><td><a href='#role-250'>250</a></td></tr>
-<tr><td><a href="#role-40">theatrical technician</a></td><td><a href='#role-40'>40</a></td></tr>
-<tr><td><a href="#role-365">theatrologist</a></td><td><a href='#role-365'>365</a></td></tr>
-<tr><td><a href="#role-366">theologian</a></td><td><a href='#role-366'>366</a></td></tr>
-<tr><td><a href="#role-77">trader</a></td><td><a href='#role-77'>77</a></td></tr>
-<tr><td><a href="#role-77">trader</a> > <a href="#role-79">bicycle dealer</a></td><td><a href='#role-79'>79</a></td></tr>
-<tr><td><a href="#role-77">trader</a> > <a href="#role-78">car dealer</a></td><td><a href='#role-78'>78</a></td></tr>
-<tr><td><a href="#role-77">trader</a> > <a href="#role-80">music dealer</a></td><td><a href='#role-80'>80</a></td></tr>
-<tr><td><a href="#role-77">trader</a> > <a href="#role-81">stationer</a></td><td><a href='#role-81'>81</a></td></tr>
-<tr><td><a href="#role-131">train driver</a></td><td><a href='#role-131'>131</a></td></tr>
-<tr><td><a href="#role-254">translator</a></td><td><a href='#role-254'>254</a></td></tr>
-<tr><td><a href="#role-369">travesti</a></td><td><a href='#role-369'>369</a></td></tr>
-<tr><td><a href="#role-369">travesti</a> > <a href="#role-370">drag queen</a></td><td><a href='#role-370'>370</a></td></tr>
-<tr><td><a href="#role-350">typesetter</a></td><td><a href='#role-350'>350</a></td></tr>
-<tr><td><a href="#role-283">unknown</a></td><td><a href='#role-283'>283</a></td></tr>
-<tr><td><a href="#role-398">VFX producer</a></td><td><a href='#role-398'>398</a></td></tr>
-<tr><td><a href="#role-372">visagiste</a></td><td><a href='#role-372'>372</a></td></tr>
-<tr><td><a href="#role-262">vocalist</a></td><td><a href='#role-262'>262</a></td></tr>
-<tr><td><a href="#role-262">vocalist</a> > <a href="#role-263">chansonnier/chanteuse</a></td><td><a href='#role-263'>263</a></td></tr>
-<tr><td><a href="#role-262">vocalist</a> > <a href="#role-265">rapper</a></td><td><a href='#role-265'>265</a></td></tr>
-<tr><td><a href="#role-262">vocalist</a> > <a href="#role-264">yodeler</a></td><td><a href='#role-264'>264</a></td></tr>
-<tr><td><a href="#role-74">voice teacher</a></td><td><a href='#role-74'>74</a></td></tr>
-<tr><td><a href="#role-261">voice-over</a></td><td><a href='#role-261'>261</a></td></tr>
-<tr><td><a href="#role-75">wardrobe master</a></td><td><a href='#role-75'>75</a></td></tr>
-<tr><td><a href="#role-265">web video producer</a> > <a href="#role-268">video blogger</a></td><td><a href='#role-268'>268</a></td></tr>
-<tr><td><a href="#role-267">web video producer</a></td><td><a href='#role-267'>267</a></td></tr>
-<tr><td><a href="#role-122">whistle artist</a></td><td><a href='#role-122'>122</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a></td><td><a href='#role-84'>84</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-86">bagpiper</a></td><td><a href='#role-86'>86</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-87">bassoonist</a></td><td><a href='#role-87'>87</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-90">clarinetist</a></td><td><a href='#role-90'>90</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-88">flutist</a></td><td><a href='#role-88'>88</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-88">flutist</a> > <a href="#role-89">piccolo player</a></td><td><a href='#role-89'>89</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-91">oboist</a></td><td><a href='#role-91'>91</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-85">recorder player</a></td><td><a href='#role-85'>85</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a></td><td><a href='#role-92'>92</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-93">alto saxophonist</a></td><td><a href='#role-93'>93</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-94">baritone saxophonist</a></td><td><a href='#role-94'>94</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-95">bass saxophonist</a></td><td><a href='#role-95'>95</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-96">mezzo-soprano saxophonist</a></td><td><a href='#role-96'>96</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-97">soprano saxophonist</a></td><td><a href='#role-97'>97</a></td></tr>
-<tr><td><a href="#role-84">woodwind player</a> > <a href="#role-92">saxophonist</a> > <a href="#role-98">tenor saxophonist</a></td><td><a href='#role-98'>98</a></td></tr>
-<tr><td><a href="#role-374">workshop manager</a></td><td><a href='#role-374'>374</a></td></tr>
-<tr><td><a href="#role-257">writer</a></td><td><a href='#role-257'>257</a></td></tr>
-<tr><td><a href="#role-376">yoga instructor</a></td><td><a href='#role-376'>376</a></td></tr>
-<tr><td><a href="#role-377">zoologist</a></td><td><a href='#role-377'>377</a></td></tr>
-<tr><td></td>-<td><a href='#role-395'>395</a></td></tr>
-<tr><td>-</td><td><a href='#role-396'>396</a></td></tr>
-</table>
-</details>
-
-<br/>
 
 ---
 
@@ -1715,7 +56,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 1 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-1`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-1) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-1`[🔗](http://w3id.org/arkumu/roles#role-1) |
 | **German Name** | 1. Kameraassistenz |
 | **German Synonyms** | 1. Kameraassistentin,1. Kameraassistent |
 | **English Name** | 1st assistant camera |
@@ -1743,7 +84,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 2 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-2`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-2) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-2`[🔗](http://w3id.org/arkumu/roles#role-2) |
 | **German Name** | 2. Kameraassistenz |
 | **German Synonyms** | 2. Kamerassistentin,2.  Kamerassistent |
 | **English Name** | 2nd assistant camera |
@@ -1771,7 +112,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 27 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-27`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-27) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-27`[🔗](http://w3id.org/arkumu/roles#role-27) |
 | **German Name** | Betreuer:in |
 | **German Synonyms** | Betreuerin,Betreuer,betreuende Hochschullehrerin,betreuender Hochschullehrer,akademische Betreuung |
 | **English Name** | academic supervisor |
@@ -1796,7 +137,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 140 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-140`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-140) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-140`[🔗](http://w3id.org/arkumu/roles#role-140) |
 | **German Name** | musikalische:r Begleiter:in |
 | **German Synonyms** | musikalischer Begleiterin,musikalischer Begleiter |
 | **English Name** | accompanist |
@@ -1821,7 +162,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 58 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-58`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-58) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-58`[🔗](http://w3id.org/arkumu/roles#role-58) |
 | **German Name** | Akkordeonist:in |
 | **German Synonyms** | Akkordeonistin,Akkordeonist |
 | **English Name** | accordionist |
@@ -1849,7 +190,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 213 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-213`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-213) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-213`[🔗](http://w3id.org/arkumu/roles#role-213) |
 | **German Name** | Schauspieler:in |
 | **German Synonyms** | Schauspielerin,Schauspieler |
 | **English Name** | actor/actress |
@@ -1877,7 +218,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 4 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-4`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-4) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-4`[🔗](http://w3id.org/arkumu/roles#role-4) |
 | **German Name** | Agent:in |
 | **German Synonyms** | Künstleragentin,Künstleragent,Musikagentin,Musikagent,Agentin,Agent |
 | **English Name** | agent |
@@ -1904,7 +245,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 200 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-200`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-200) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-200`[🔗](http://w3id.org/arkumu/roles#role-200) |
 | **German Name** | Altist:in |
 | **German Synonyms** | Contralto,Altistin,Altist |
 | **English Name** | alto |
@@ -1931,7 +272,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 93 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-93`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-93) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-93`[🔗](http://w3id.org/arkumu/roles#role-93) |
 | **German Name** | Altsaxofonist:in |
 | **German Synonyms** | Altsaxofonistin,Altsaxofonist |
 | **English Name** | alto saxophonist |
@@ -1957,7 +298,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 5 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-5`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-5) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-5`[🔗](http://w3id.org/arkumu/roles#role-5) |
 | **German Name** | Amateur:in |
 | **German Synonyms** | Amateurin,Amateur |
 | **English Name** | amateur |
@@ -1983,7 +324,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 6 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-6`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-6) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-6`[🔗](http://w3id.org/arkumu/roles#role-6) |
 | **German Name** | Animation |
 | **German Synonyms** | Animator,Animateurin |
 | **English Name** | animation |
@@ -2011,7 +352,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 224 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-224`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-224) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-224`[🔗](http://w3id.org/arkumu/roles#role-224) |
 | **German Name** | Ansager:in |
 | **German Synonyms** | Ansagerin,Ansager |
 | **English Name** | announcer |
@@ -2038,7 +379,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 7 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-7`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-7) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-7`[🔗](http://w3id.org/arkumu/roles#role-7) |
 | **German Name** | Anthropolog:in |
 | **German Synonyms** | Menschenkundlerin,Menschenkundler,Anthropologin,Anthropologe |
 | **English Name** | anthropologist |
@@ -2065,7 +406,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 8 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-8`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-8) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-8`[🔗](http://w3id.org/arkumu/roles#role-8) |
 | **German Name** | Archäolog:in |
 | **German Synonyms** | Archäologin,Archäologe |
 | **English Name** | archaeologist |
@@ -2093,7 +434,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 378 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-378`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-378) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-378`[🔗](http://w3id.org/arkumu/roles#role-378) |
 | **German Name** | Architekt:in |
 | **German Synonyms** | Architektin,Architekt,Hochbau-Ingenieurin,Hochbau-Ingenieur |
 | **English Name** | architect |
@@ -2121,7 +462,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 9 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-9`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-9) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-9`[🔗](http://w3id.org/arkumu/roles#role-9) |
 | **German Name** | Archivar:in |
 | **German Synonyms** | Archivarin,Archivar |
 | **English Name** | archivist |
@@ -2149,7 +490,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 318 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-318`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-318) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-318`[🔗](http://w3id.org/arkumu/roles#role-318) |
 | **German Name** | Kunsthistoriker:in |
 | **German Synonyms** | Kunsthistorikerin,Kunstwissenschaftler,Kunstgeschichtlerin,Kunstgeschichtler,Kunsthistoriker,Kunstwissenschaftlerin |
 | **English Name** | art historian |
@@ -2177,7 +518,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 72 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-72`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-72) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-72`[🔗](http://w3id.org/arkumu/roles#role-72) |
 | **German Name** | Foto-Künstler:in |
 | **German Synonyms** | Foto-Künstlerin,Foto-Künstler |
 | **English Name** | art photographer |
@@ -2204,7 +545,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 325 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-325`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-325) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-325`[🔗](http://w3id.org/arkumu/roles#role-325) |
 | **German Name** | Kunstwissenschaftler:in |
 | **German Synonyms** | Kunstwissenschaftler,Kunstwissenschaftlerin |
 | **English Name** | art scholar |
@@ -2233,7 +574,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 305 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-305`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-305) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-305`[🔗](http://w3id.org/arkumu/roles#role-305) |
 | **German Name** | Handwerker:in |
 | **German Synonyms** | Handwerker,Handwerkerin |
 | **English Name** | artisan |
@@ -2261,7 +602,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 119 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-119`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-119) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-119`[🔗](http://w3id.org/arkumu/roles#role-119) |
 | **German Name** | Künstler:in |
 | **German Synonyms** | Autorin,Autor,Komponistin,Komponist,Interpretin,Interpret,Bildende Künstlerin,Bildender Künstler,Medienkünstlerin,Medienkünstler,Künstlerin,Künstler |
 | **English Name** | artist |
@@ -2288,7 +629,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 324 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-324`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-324) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-324`[🔗](http://w3id.org/arkumu/roles#role-324) |
 | **German Name** | Künstlerische:r Leiter:in |
 | **German Synonyms** | Künstlerische Leiterin,Künstlerische Leitung,Künstlerischer Leiter |
 | **English Name** | artistic director |
@@ -2316,7 +657,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 106 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-106`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-106) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-106`[🔗](http://w3id.org/arkumu/roles#role-106) |
 | **German Name** | Kulturjournalist:in |
 | **German Synonyms** | Kulturjournalistin,Kulturjournalist |
 | **English Name** | arts journalist |
@@ -2343,7 +684,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 196 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-196`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-196) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-196`[🔗](http://w3id.org/arkumu/roles#role-196) |
 | **German Name** | Regieassistent:in |
 | **German Synonyms** | Regieassistentin,Regieassistent |
 | **English Name** | assistant director |
@@ -2370,7 +711,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 343 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-343`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-343) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-343`[🔗](http://w3id.org/arkumu/roles#role-343) |
 | **German Name** | Produktionsassistent:in |
 | **English Name** | assistant producer |
 | **Wikidata ID** | [Q19952916](https://www.wikidata.org/entity/Q19952916) |
@@ -2395,7 +736,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 13 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-13`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-13) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-13`[🔗](http://w3id.org/arkumu/roles#role-13) |
 | **German Name** | Assistent:in |
 | **German Synonyms** | Assistentin,Assistent |
 | **English Name** | assistant |
@@ -2422,7 +763,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 355 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-355`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-355) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-355`[🔗](http://w3id.org/arkumu/roles#role-355) |
 | **German Name** | Sportler:in |
 | **German Synonyms** | Sportlerin,Sportler |
 | **English Name** | athlete |
@@ -2450,7 +791,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 251 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-251`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-251) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-251`[🔗](http://w3id.org/arkumu/roles#role-251) |
 | **German Name** | Toningenieur:in |
 | **German Synonyms** | Toningenieurin,Toningenieur |
 | **English Name** | audio engineer |
@@ -2478,7 +819,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 361 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-361`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-361) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-361`[🔗](http://w3id.org/arkumu/roles#role-361) |
 | **German Name** | Tontechniker:in |
 | **German Synonyms** | Tontechnikerin,Tontechniker |
 | **English Name** | audio technician |
@@ -2506,7 +847,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 18 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-18`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-18) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-18`[🔗](http://w3id.org/arkumu/roles#role-18) |
 | **German Name** | Autor:in |
 | **German Synonyms** | Verfasserin,Verfasser,Buchautorin,Buchautor,Schriftstellerin,Schriftsteller,Autorin,Autor |
 | **English Name** | author |
@@ -2534,7 +875,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 132 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-132`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-132) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-132`[🔗](http://w3id.org/arkumu/roles#role-132) |
 | **German Name** | Luftfahrtpionier:in |
 | **German Synonyms** | Luftfahrtpionierin,Luftfahrtpionier |
 | **English Name** | aviation pioneer |
@@ -2559,7 +900,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 86 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-86`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-86) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-86`[🔗](http://w3id.org/arkumu/roles#role-86) |
 | **German Name** | Dudelsackspieler:in |
 | **German Synonyms** | Sackpfeifenspielerin,Sackpfeifenspieler,Dudelsackspielerin,Dudelsackspieler |
 | **English Name** | bagpiper |
@@ -2586,7 +927,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 73 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-73`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-73) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-73`[🔗](http://w3id.org/arkumu/roles#role-73) |
 | **German Name** | Gerichtsvollzieher:in |
 | **German Synonyms** | Betreibungsbeamtin,Betreibungsbeamter,Gerichtsvollzieherin,Gerichtsvollzieher |
 | **English Name** | bailiff |
@@ -2613,7 +954,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 272 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-272`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-272) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-272`[🔗](http://w3id.org/arkumu/roles#role-272) |
 | **German Name** | Balalaikaspieler:in |
 | **German Synonyms** | Balalaikaspielerin,Balalaikaspieler |
 | **English Name** | balalaikist |
@@ -2639,7 +980,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 21 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-21`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-21) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-21`[🔗](http://w3id.org/arkumu/roles#role-21) |
 | **German Name** | Ballettmeister:in |
 | **German Synonyms** | Maître de Ballet,Directeur da la Danse,Ballettmeisterin,Ballettmeister |
 | **English Name** | ballet master |
@@ -2664,7 +1005,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 142 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-142`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-142) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-142`[🔗](http://w3id.org/arkumu/roles#role-142) |
 | **German Name** | Band |
 | **English Name** | band |
 | **Wikidata ID** | [Q215380](https://www.wikidata.org/entity/Q215380) |
@@ -2691,7 +1032,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 53 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-53`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-53) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-53`[🔗](http://w3id.org/arkumu/roles#role-53) |
 | **German Name** | Orchesterleiter:in |
 | **German Synonyms** | Orchesterleiterin,Orchesterleiter |
 | **English Name** | band leader |
@@ -2720,7 +1061,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 333 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-333`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-333) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-333`[🔗](http://w3id.org/arkumu/roles#role-333) |
 | **German Name** | Bandleader:in |
 | **German Synonyms** | Blasmusikleiter,Blasorchesterdirigentin,Bandleaderin,Blasmusikleiterin,Bandleader,Blasorchesterdirigent |
 | **English Name** | bandleader |
@@ -2748,7 +1089,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 273 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-273`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-273) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-273`[🔗](http://w3id.org/arkumu/roles#role-273) |
 | **German Name** | Banjospieler:in |
 | **German Synonyms** | Banjoistin,Banjoist,Banjospielerin,Banjospieler |
 | **English Name** | banjoist |
@@ -2778,7 +1119,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 22 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-22`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-22) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-22`[🔗](http://w3id.org/arkumu/roles#role-22) |
 | **German Name** | Bankbeamt:in |
 | **German Synonyms** | Bankerin,Banker,Bankbeamtin,Bankbeamter |
 | **English Name** | bank officer |
@@ -2803,7 +1144,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 23 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-23`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-23) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-23`[🔗](http://w3id.org/arkumu/roles#role-23) |
 | **German Name** | Barbetreiber:in |
 | **German Synonyms** | Barbetreiberin,Barbetreiber |
 | **English Name** | bar manager |
@@ -2829,7 +1170,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 201 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-201`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-201) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-201`[🔗](http://w3id.org/arkumu/roles#role-201) |
 | **German Name** | Bariton |
 | **English Name** | baritone |
 | **Wikidata ID** | [Q31687](https://www.wikidata.org/entity/Q31687) |
@@ -2855,7 +1196,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 94 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-94`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-94) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-94`[🔗](http://w3id.org/arkumu/roles#role-94) |
 | **German Name** | Baritonsaxofonist:in |
 | **German Synonyms** | Baritonsaxofonistin,Baritonsaxofonist |
 | **English Name** | baritone saxophonist |
@@ -2881,7 +1222,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 95 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-95`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-95) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-95`[🔗](http://w3id.org/arkumu/roles#role-95) |
 | **German Name** | Basssaxofonist:in |
 | **German Synonyms** | Basssaxofonistin,Basssaxofonist |
 | **English Name** | bass saxophonist |
@@ -2907,7 +1248,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 202 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-202`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-202) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-202`[🔗](http://w3id.org/arkumu/roles#role-202) |
 | **German Name** | Bassbariton |
 | **English Name** | bass-baritone |
 | **Wikidata ID** | [Q810480](https://www.wikidata.org/entity/Q810480) |
@@ -2933,7 +1274,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 274 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-274`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-274) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-274`[🔗](http://w3id.org/arkumu/roles#role-274) |
 | **German Name** | Bassist:in (Instrument) |
 | **German Synonyms** | Bassgitarristin,Bassgitarrist |
 | **English Name** | bassist (instrument) |
@@ -2961,7 +1302,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 203 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-203`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-203) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-203`[🔗](http://w3id.org/arkumu/roles#role-203) |
 | **German Name** | Bassist (Gesang) |
 | **English Name** | bassist (singer) |
 | **English Synonyms** | bass singer |
@@ -2988,7 +1329,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 87 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-87`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-87) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-87`[🔗](http://w3id.org/arkumu/roles#role-87) |
 | **German Name** | Fagottist:in |
 | **German Synonyms** | Fagottistin,Fagottist |
 | **English Name** | bassoonist |
@@ -3016,7 +1357,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 79 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-79`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-79) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-79`[🔗](http://w3id.org/arkumu/roles#role-79) |
 | **German Name** | Fahrradhändler:in |
 | **German Synonyms** | Fahrradhändlerin,Fahrradhändler |
 | **English Name** | bicycle dealer |
@@ -3042,7 +1383,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 296 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-296`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-296) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-296`[🔗](http://w3id.org/arkumu/roles#role-296) |
 | **German Name** | Biotechniker:in |
 | **English Name** | biological technician |
 | **Wikidata ID** | [Q121904647](https://www.wikidata.org/entity/Q121904647) |
@@ -3066,7 +1407,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 295 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-295`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-295) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-295`[🔗](http://w3id.org/arkumu/roles#role-295) |
 | **German Name** | Biolog:in |
 | **German Synonyms** | Biologin,Biologe |
 | **English Name** | biologist |
@@ -3094,7 +1435,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 306 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-306`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-306) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-306`[🔗](http://w3id.org/arkumu/roles#role-306) |
 | **German Name** | Buchbinder:in |
 | **German Synonyms** | Buchbinderin,Buchbinder |
 | **English Name** | bookbinder |
@@ -3123,7 +1464,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 37 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-37`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-37) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-37`[🔗](http://w3id.org/arkumu/roles#role-37) |
 | **German Name** | Buchhalter:in |
 | **German Synonyms** | Buchhalterin,Buchhalter |
 | **English Name** | bookkeeper |
@@ -3152,7 +1493,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 384 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-384`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-384) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-384`[🔗](http://w3id.org/arkumu/roles#role-384) |
 | **German Name** | Buchhändler:in |
 | **German Synonyms** | Buchhändler,Buchhändlerin |
 | **English Name** | bookseller |
@@ -3181,7 +1522,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 368 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-368`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-368) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-368`[🔗](http://w3id.org/arkumu/roles#role-368) |
 | **German Name** | Tonassistent:in |
 | **English Name** | boom operator |
 | **English Synonyms** | fishpole operator,perchwoman,tape operator,perchman |
@@ -3206,7 +1547,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 297 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-297`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-297) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-297`[🔗](http://w3id.org/arkumu/roles#role-297) |
 | **German Name** | Botaniker:in |
 | **German Synonyms** | Bontanikerin,Pflanzenkundler,Pflanzenkundlerin,Botaniker |
 | **English Name** | botanist |
@@ -3234,7 +1575,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 285 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-285`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-285) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-285`[🔗](http://w3id.org/arkumu/roles#role-285) |
 | **German Name** | Boxer:in |
 | **German Synonyms** | Faustkämpfer,Faustkämpferin |
 | **English Name** | boxer |
@@ -3261,7 +1602,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 208 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-208`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-208) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-208`[🔗](http://w3id.org/arkumu/roles#role-208) |
 | **German Name** | Knabenalt |
 | **English Name** | boy alto |
 | **Wikidata ID** | [Q53395277](https://www.wikidata.org/entity/Q53395277) |
@@ -3286,7 +1627,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 209 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-209`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-209) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-209`[🔗](http://w3id.org/arkumu/roles#role-209) |
 | **German Name** | Knabensopran |
 | **English Name** | boy soprano |
 | **Wikidata ID** | [Q1376492](https://www.wikidata.org/entity/Q1376492) |
@@ -3311,7 +1652,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 147 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-147`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-147) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-147`[🔗](http://w3id.org/arkumu/roles#role-147) |
 | **German Name** | Knabenchor |
 | **English Name** | boys' choir |
 | **Wikidata ID** | [Q1776834](https://www.wikidata.org/entity/Q1776834) |
@@ -3337,7 +1678,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 30 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-30`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-30) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-30`[🔗](http://w3id.org/arkumu/roles#role-30) |
 | **German Name** | Blechbläser:in |
 | **German Synonyms** | Blechbläserin,Blechbläser |
 | **English Name** | brass player |
@@ -3364,7 +1705,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 135 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-135`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-135) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-135`[🔗](http://w3id.org/arkumu/roles#role-135) |
 | **German Name** | Maurer:in |
 | **German Synonyms** | Maurerin,Maurer |
 | **English Name** | bricklayer |
@@ -3393,7 +1734,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 292 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-292`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-292) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-292`[🔗](http://w3id.org/arkumu/roles#role-292) |
 | **German Name** | Betriebswirt:in |
 | **German Synonyms** | Dipl.-Betriebswirt (FH),Betriebswirtin,Dipl.-Betrw.,Staatlich geprüfte Betriebswirtin,Dipl.-BW,Dipl.-Bw.,Diplom-Betriebswirtschaftlerin,Dipl.-Betriebswirtin (FH),Beratende Betriebswirtin,Dipl.-Betriebsw.,Beratender Betriebswirt,Diplom-Betriebswirtin,Staatlich geprüfter Betriebswirt,Diplom-Betriebswirt,Betriebswirt,Diplom-Betriebswirtschaftler,Dipl.-Bwt.,Dipl.-Betr.-Wirt |
 | **English Name** | business manager |
@@ -3420,7 +1761,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 303 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-303`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-303) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-303`[🔗](http://w3id.org/arkumu/roles#role-303) |
 | **German Name** | Geschäftspartner:in |
 | **German Synonyms** | Geschäftspartnerin,Geschäftspartner |
 | **English Name** | business partner |
@@ -3445,7 +1786,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 111 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-111`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-111) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-111`[🔗](http://w3id.org/arkumu/roles#role-111) |
 | **German Name** | Kabarettist:in |
 | **German Synonyms** | Kabarettistin,Kabarettist |
 | **English Name** | cabaret performer |
@@ -3473,7 +1814,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 52 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-52`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-52) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-52`[🔗](http://w3id.org/arkumu/roles#role-52) |
 | **German Name** | Kantor:in (christlich) |
 | **German Synonyms** | Kantorin (christlich),Kantor (christlich) |
 | **English Name** | cantor |
@@ -3501,7 +1842,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 78 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-78`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-78) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-78`[🔗](http://w3id.org/arkumu/roles#role-78) |
 | **German Name** | Autohändler:in |
 | **German Synonyms** | Autohändlerin,Autohändler |
 | **English Name** | car dealer |
@@ -3528,7 +1869,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 120 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-120`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-120) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-120`[🔗](http://w3id.org/arkumu/roles#role-120) |
 | **German Name** | Karikaturist:in |
 | **German Synonyms** | Schnellzeichnerin,Schnellzeichner,Karikaturistin,Karikaturist |
 | **English Name** | caricaturist |
@@ -3556,7 +1897,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 367 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-367`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-367) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-367`[🔗](http://w3id.org/arkumu/roles#role-367) |
 | **German Name** | Tischler:in |
 | **German Synonyms** | Tischler,Zimmerin,Zimmerer,Tischlerin |
 | **English Name** | carpenter |
@@ -3584,7 +1925,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 206 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-206`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-206) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-206`[🔗](http://w3id.org/arkumu/roles#role-206) |
 | **German Name** | Kastrat |
 | **English Name** | castrato |
 | **Wikidata ID** | [Q210970](https://www.wikidata.org/entity/Q210970) |
@@ -3610,7 +1951,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 228 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-228`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-228) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-228`[🔗](http://w3id.org/arkumu/roles#role-228) |
 | **German Name** | Cellist:in |
 | **German Synonyms** | Violoncellistin,Cellistin,Cellist |
 | **English Name** | cellist |
@@ -3639,7 +1980,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 313 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-313`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-313) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-313`[🔗](http://w3id.org/arkumu/roles#role-313) |
 | **German Name** | Keramiker:in |
 | **German Synonyms** | Keramiker,Keramikerin |
 | **English Name** | ceramicist |
@@ -3667,7 +2008,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 373 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-373`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-373) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-373`[🔗](http://w3id.org/arkumu/roles#role-373) |
 | **German Name** | Vorsitzende:r |
 | **German Synonyms** | Landesvorsitzende,Bundesvorsitzende,Obmann,Landesvorsitzender,Vorsitz,Vorsitzende,Direktor,erster Vorsitzender,Generaldirektorin,Chairman,Parteichef,Direktorin,erste Vorsitzende,Bundesvorsitzender,Präsident,Präsidentin,Vorsitzender,Generaldirektor,Parteichefin |
 | **English Name** | chairperson |
@@ -3694,7 +2035,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 152 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-152`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-152) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-152`[🔗](http://w3id.org/arkumu/roles#role-152) |
 | **German Name** | Kammermusikensemble |
 | **English Name** | chamber music ensemble |
 | **Wikidata ID** | [Q19191604](https://www.wikidata.org/entity/Q19191604) |
@@ -3719,7 +2060,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 263 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-263`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-263) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-263`[🔗](http://w3id.org/arkumu/roles#role-263) |
 | **German Name** | Chansonnier/Chansonnière |
 | **German Synonyms** | Chansonsängerin,Chansonsänger |
 | **English Name** | chansonnier/chanteuse |
@@ -3747,7 +2088,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 300 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-300`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-300) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-300`[🔗](http://w3id.org/arkumu/roles#role-300) |
 | **German Name** | Kapellmeister:in |
 | **German Synonyms** | Kapellmeisterin,Kapellmeister,Capellmeister,Capellmeisterein,Maestro di cappella,Orchesterleiter,Orchesterleiterin |
 | **English Name** | chapelmaster |
@@ -3774,7 +2115,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 337 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-337`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-337) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-337`[🔗](http://w3id.org/arkumu/roles#role-337) |
 | **German Name** | Chemiker:in |
 | **German Synonyms** | Chemikerin,Chemiker |
 | **English Name** | chemist |
@@ -3803,7 +2144,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 146 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-146`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-146) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-146`[🔗](http://w3id.org/arkumu/roles#role-146) |
 | **German Name** | Kinderchor |
 | **English Name** | children's choir |
 | **Wikidata ID** | [Q1753063](https://www.wikidata.org/entity/Q1753063) |
@@ -3829,7 +2170,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 143 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-143`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-143) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-143`[🔗](http://w3id.org/arkumu/roles#role-143) |
 | **German Name** | Chor |
 | **English Name** | choir |
 | **Wikidata ID** | [Q131186](https://www.wikidata.org/entity/Q131186) |
@@ -3856,7 +2197,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 49 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-49`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-49) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-49`[🔗](http://w3id.org/arkumu/roles#role-49) |
 | **German Name** | Chorleiter:in |
 | **German Synonyms** | Chordirektorin,Chordirektor,Chorleiterin,Chorleiter |
 | **English Name** | choir director |
@@ -3886,7 +2227,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 41 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-41`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-41) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-41`[🔗](http://w3id.org/arkumu/roles#role-41) |
 | **German Name** | Choreograf:in |
 | **German Synonyms** | Choreografin,Choreograf |
 | **English Name** | choreographer |
@@ -3914,7 +2255,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 204 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-204`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-204) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-204`[🔗](http://w3id.org/arkumu/roles#role-204) |
 | **German Name** | Chorsänger:in |
 | **German Synonyms** | Chorsängerin,Chorsänger |
 | **English Name** | chorister |
@@ -3942,7 +2283,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 404 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-404`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-404) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-404`[🔗](http://w3id.org/arkumu/roles#role-404) |
 | **German Name** | Kirchenmusiker:in |
 | **German Synonyms** | Kirchenmusiker,Kirchenmusikerin |
 | **English Name** | church musician |
@@ -3969,7 +2310,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 29 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-29`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-29) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-29`[🔗](http://w3id.org/arkumu/roles#role-29) |
 | **German Name** | Bildgestalter:in |
 | **German Synonyms** | Kameramann,Kamerafrau,Bildgestalterin,Bildgestalter |
 | **English Name** | cinematographer |
@@ -3998,7 +2339,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 112 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-112`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-112) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-112`[🔗](http://w3id.org/arkumu/roles#role-112) |
 | **German Name** | Kameraperson |
 | **German Synonyms** | Bildgestalterin,Bildgestalter,Kamerafrau,Kameramann |
 | **English Name** | cinematographer |
@@ -4027,7 +2368,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 270 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-270`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-270) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-270`[🔗](http://w3id.org/arkumu/roles#role-270) |
 | **German Name** | Zirkusdirektor:in |
 | **German Synonyms** | Zirkusdirektorin,Zirkusdirektor |
 | **English Name** | circus director |
@@ -4055,7 +2396,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 90 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-90`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-90) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-90`[🔗](http://w3id.org/arkumu/roles#role-90) |
 | **German Name** | Klarinettist:in |
 | **German Synonyms** | Klarinettistin,Klarinettist |
 | **English Name** | clarinetist |
@@ -4084,7 +2425,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 237 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-237`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-237) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-237`[🔗](http://w3id.org/arkumu/roles#role-237) |
 | **German Name** | Klavierist:in |
 | **German Synonyms** | Tasteninstrumentenspielerin,Tasteninstrumentenspieler,Klavieristin,Klavierist |
 | **English Name** | clavierist |
@@ -4111,7 +2452,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 42 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-42`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-42) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-42`[🔗](http://w3id.org/arkumu/roles#role-42) |
 | **German Name** | Co-Autor:in |
 | **German Synonyms** | Co-Autorin,Co-Autor |
 | **English Name** | co-author |
@@ -4136,7 +2477,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 116 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-116`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-116) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-116`[🔗](http://w3id.org/arkumu/roles#role-116) |
 | **German Name** | Koproduzent:in |
 | **German Synonyms** | Koproduzentin,Koproduzent |
 | **English Name** | co-producer |
@@ -4161,7 +2502,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 393 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-393`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-393) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-393`[🔗](http://w3id.org/arkumu/roles#role-393) |
 | **German Name** | Kognitionswissenschaftler:in |
 | **English Name** | cognitive scientist |
 | **English Synonyms** | cognitivist |
@@ -4188,7 +2529,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 43 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-43`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-43) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-43`[🔗](http://w3id.org/arkumu/roles#role-43) |
 | **German Name** | Colour Grading |
 | **German Synonyms** | Farbkorrektur |
 | **English Name** | colour grading |
@@ -4214,7 +2555,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 149 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-149`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-149) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-149`[🔗](http://w3id.org/arkumu/roles#role-149) |
 | **German Name** | Combo |
 | **English Name** | combo |
 | **Wikidata ID** | [Q2985084](https://www.wikidata.org/entity/Q2985084) |
@@ -4240,7 +2581,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 284 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-284`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-284) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-284`[🔗](http://w3id.org/arkumu/roles#role-284) |
 | **German Name** | Komiker:in |
 | **German Synonyms** | Komiker,Komikerin,Komidiant:in,Komödiant,Komödiantin |
 | **English Name** | comedian |
@@ -4269,7 +2610,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 390 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-390`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-390) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-390`[🔗](http://w3id.org/arkumu/roles#role-390) |
 | **German Name** | Comiczeichner:in |
 | **German Synonyms** | Comiczeichnerin,Comiczeichner,Comickünstlerin,Comickünster,Letterer |
 | **English Name** | comics artist |
@@ -4297,7 +2638,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 17 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-17`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-17) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-17`[🔗](http://w3id.org/arkumu/roles#role-17) |
 | **German Name** | Auftraggeber:in |
 | **German Synonyms** | Auftraggeberin,Auftraggeber |
 | **English Name** | commissioner |
@@ -4325,7 +2666,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 115 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-115`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-115) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-115`[🔗](http://w3id.org/arkumu/roles#role-115) |
 | **German Name** | Komponist:in |
 | **German Synonyms** | Komposition,Komponistin,Komponist |
 | **English Name** | composer |
@@ -4353,7 +2694,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 311 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-311`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-311) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-311`[🔗](http://w3id.org/arkumu/roles#role-311) |
 | **German Name** | Informatiker:in |
 | **German Synonyms** | Informatiker,Informatikerin |
 | **English Name** | computer scientist |
@@ -4381,7 +2722,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 59 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-59`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-59) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-59`[🔗](http://w3id.org/arkumu/roles#role-59) |
 | **German Name** | Konzertinaspieler:in |
 | **German Synonyms** | Konzertinaspielerin,Konzertinaspieler |
 | **English Name** | concertina player |
@@ -4407,7 +2748,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 314 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-314`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-314) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-314`[🔗](http://w3id.org/arkumu/roles#role-314) |
 | **German Name** | Konzertmeister:in |
 | **German Synonyms** | Konzertmeisterin,Konzertmeister |
 | **English Name** | concertmaster |
@@ -4434,7 +2775,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 48 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-48`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-48) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-48`[🔗](http://w3id.org/arkumu/roles#role-48) |
 | **German Name** | Dirigent:in |
 | **German Synonyms** | Dirigentin,Dirigent |
 | **English Name** | conductor |
@@ -4462,7 +2803,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 138 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-138`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-138) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-138`[🔗](http://w3id.org/arkumu/roles#role-138) |
 | **German Name** | Mitwirkende:r |
 | **German Synonyms** | Akteurin,Akteur,Mitwirkende,Mitwirkender |
 | **English Name** | contributor |
@@ -4488,7 +2829,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 380 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-380`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-380) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-380`[🔗](http://w3id.org/arkumu/roles#role-380) |
 | **German Name** | Kooperation |
 | **English Name** | cooperation |
 | **Wikidata ID** | [Q380962](https://www.wikidata.org/entity/Q380962) |
@@ -4514,7 +2855,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 32 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-32`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-32) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-32`[🔗](http://w3id.org/arkumu/roles#role-32) |
 | **German Name** | Kornettist:in |
 | **German Synonyms** | Kornettistin,Kornettist |
 | **English Name** | cornetist |
@@ -4542,7 +2883,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 36 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-36`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-36) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-36`[🔗](http://w3id.org/arkumu/roles#role-36) |
 | **German Name** | Zinkenist:in |
 | **German Synonyms** | Zinkenistin,Zinkenist |
 | **English Name** | cornettist |
@@ -4569,7 +2910,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 117 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-117`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-117) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-117`[🔗](http://w3id.org/arkumu/roles#role-117) |
 | **German Name** | Kostümbildner:in |
 | **German Synonyms** | Kostümdesignerin,Kostümdesigner,Kostümbildnerin,Kostümbildner |
 | **English Name** | costume designer |
@@ -4597,7 +2938,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 205 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-205`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-205) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-205`[🔗](http://w3id.org/arkumu/roles#role-205) |
 | **German Name** | Countertenor |
 | **English Name** | countertenor |
 | **Wikidata ID** | [Q223166](https://www.wikidata.org/entity/Q223166) |
@@ -4623,7 +2964,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 316 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-316`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-316) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-316`[🔗](http://w3id.org/arkumu/roles#role-316) |
 | **German Name** | Kranführer:in |
 | **English Name** | crane operator |
 | **Wikidata ID** | [Q70660439](https://www.wikidata.org/entity/Q70660439) |
@@ -4649,7 +2990,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 290 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-290`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-290) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-290`[🔗](http://w3id.org/arkumu/roles#role-290) |
 | **German Name** | Kriminalschriftsteller:in |
 | **German Synonyms** | Kriminalroman-Schriftsteller,Kriminalroman-Autor,Kriminalroman-Autorin,Kriminal-Autor,Kriminalromanautor,Krimiautorin,Kriminalautor,Kriminalschriftsteller,Kriminalroman-Schriftstellerin,Krimi-Autorin,Kriminalromanautorin,Kriminal-Autorin,Krimi-Autor,Kriminalautorin,Krimiautor,Kriminalschriftstellerin |
 | **English Name** | crime fiction writer |
@@ -4677,7 +3018,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 107 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-107`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-107) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-107`[🔗](http://w3id.org/arkumu/roles#role-107) |
 | **German Name** | Kritiker:in |
 | **German Synonyms** | Kritikerin,Kritiker |
 | **English Name** | critic |
@@ -4706,7 +3047,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 118 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-118`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-118) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-118`[🔗](http://w3id.org/arkumu/roles#role-118) |
 | **German Name** | Kulturaktivist:in |
 | **German Synonyms** | Kulturaktivistin,Kulturaktivist |
 | **English Name** | cultural activist |
@@ -4731,7 +3072,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 354 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-354`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-354) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-354`[🔗](http://w3id.org/arkumu/roles#role-354) |
 | **German Name** | Kultursoziolog:in |
 | **German Synonyms** | Kultursoziologin,Kultursoziologe |
 | **English Name** | cultural sociologist |
@@ -4759,7 +3100,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 317 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-317`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-317) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-317`[🔗](http://w3id.org/arkumu/roles#role-317) |
 | **German Name** | Kulturwissenschaftler:in |
 | **German Synonyms** | Kulturwissenschaftlerin,Kulturologin,Kulturologe,Kulturwissenschaftler |
 | **English Name** | cultural studies scholar |
@@ -4786,7 +3127,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 123 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-123`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-123) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-123`[🔗](http://w3id.org/arkumu/roles#role-123) |
 | **German Name** | Kurator:in |
 | **German Synonyms** | Kuratorin,Kurator |
 | **English Name** | curator |
@@ -4814,7 +3155,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 286 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-286`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-286) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-286`[🔗](http://w3id.org/arkumu/roles#role-286) |
 | **German Name** | Tanzorchester |
 | **German Synonyms** | Tanzkapelle |
 | **English Name** | dance orchestra |
@@ -4842,7 +3183,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 388 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-388`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-388) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-388`[🔗](http://w3id.org/arkumu/roles#role-388) |
 | **German Name** | Tanzwissenschaftler:in |
 | **German Synonyms** | Tanzwissenschaftler,Tanzwissenschaftlerin |
 | **English Name** | dance researcher |
@@ -4870,7 +3211,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 328 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-328`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-328) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-328`[🔗](http://w3id.org/arkumu/roles#role-328) |
 | **German Name** | Tanzlehrer:in |
 | **German Synonyms** | Tanzlehrerin,Tanzlehrer |
 | **English Name** | dance teacher |
@@ -4898,7 +3239,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 236 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-236`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-236) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-236`[🔗](http://w3id.org/arkumu/roles#role-236) |
 | **German Name** | Tänzer:in |
 | **German Synonyms** | Tänzerin,Tänzer |
 | **English Name** | dancer |
@@ -4926,7 +3267,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 269 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-269`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-269) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-269`[🔗](http://w3id.org/arkumu/roles#role-269) |
 | **German Name** | Widmungsträger:in |
 | **German Synonyms** | Widmungsempfängerin,Widmungsempfänger,Widmungsträgerin,Widmungsträger |
 | **English Name** | dedicatee |
@@ -4952,7 +3293,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 44 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-44`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-44) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-44`[🔗](http://w3id.org/arkumu/roles#role-44) |
 | **German Name** | Designer:in |
 | **German Synonyms** | Gestalter,Gestalterin,Designerin,Designer |
 | **English Name** | designer |
@@ -4980,7 +3321,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 234 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-234`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-234) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-234`[🔗](http://w3id.org/arkumu/roles#role-234) |
 | **German Name** | Synchronregie |
 | **German Synonyms** | Dialogregisseurin,Dialogregisseur |
 | **English Name** | dialog director |
@@ -5008,7 +3349,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 46 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-46`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-46) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-46`[🔗](http://w3id.org/arkumu/roles#role-46) |
 | **German Name** | Digitalisierer:in |
 | **German Synonyms** | Digitalisiererin,Digitalisierer |
 | **English Name** | digitisation officer |
@@ -5033,7 +3374,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 47 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-47`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-47) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-47`[🔗](http://w3id.org/arkumu/roles#role-47) |
 | **German Name** | Diplomat:in |
 | **German Synonyms** | Diplomatin,Diplomat |
 | **English Name** | diplomat |
@@ -5061,7 +3402,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 197 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-197`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-197) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-197`[🔗](http://w3id.org/arkumu/roles#role-197) |
 | **German Name** | Regisseur:in |
 | **German Synonyms** | Regisseurin,Regisseur |
 | **English Name** | director |
@@ -5089,7 +3430,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 260 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-260`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-260) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-260`[🔗](http://w3id.org/arkumu/roles#role-260) |
 | **German Name** | Vertrieb |
 | **English Name** | distributor |
 | **Wikidata ID** | [Q12540664](https://www.wikidata.org/entity/Q12540664) |
@@ -5116,7 +3457,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 54 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-54`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-54) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-54`[🔗](http://w3id.org/arkumu/roles#role-54) |
 | **German Name** | DJ |
 | **German Synonyms** | disc jockey,djane |
 | **English Name** | dj |
@@ -5145,7 +3486,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 304 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-304`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-304) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-304`[🔗](http://w3id.org/arkumu/roles#role-304) |
 | **German Name** | Dolly Grip |
 | **English Name** | dolly grip |
 | **Wikidata ID** | [Q4165151](https://www.wikidata.org/entity/Q4165151) |
@@ -5169,7 +3510,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 114 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-114`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-114) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-114`[🔗](http://w3id.org/arkumu/roles#role-114) |
 | **German Name** | Komiker:innenduo |
 | **German Synonyms** | Comedy Duo |
 | **English Name** | double act |
@@ -5194,7 +3535,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 230 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-230`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-230) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-230`[🔗](http://w3id.org/arkumu/roles#role-230) |
 | **German Name** | Kontrabassist:in |
 | **German Synonyms** | Kontrabassistin,Kontrabassist |
 | **English Name** | double bassist |
@@ -5223,7 +3564,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 389 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-389`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-389) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-389`[🔗](http://w3id.org/arkumu/roles#role-389) |
 | **German Name** | Zeichner:in |
 | **German Synonyms** | Zeichnerin,Zeichner,Autorin der Zeichnung,Autor der Zeichnung |
 | **English Name** | draftsperson |
@@ -5253,7 +3594,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 370 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-370`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-370) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-370`[🔗](http://w3id.org/arkumu/roles#role-370) |
 | **German Name** | Dragqueen |
 | **English Name** | drag queen |
 | **Wikidata ID** | [Q337084](https://www.wikidata.org/entity/Q337084) |
@@ -5280,7 +3621,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 55 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-55`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-55) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-55`[🔗](http://w3id.org/arkumu/roles#role-55) |
 | **German Name** | Dramaturg:in |
 | **German Synonyms** | Dramaturgin,Dramaturg |
 | **English Name** | dramaturge |
@@ -5308,7 +3649,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 302 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-302`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-302) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-302`[🔗](http://w3id.org/arkumu/roles#role-302) |
 | **German Name** | Garderobier:e |
 | **German Synonyms** | Garderobiere,Garderobier |
 | **English Name** | dresser |
@@ -5335,7 +3676,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 180 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-180`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-180) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-180`[🔗](http://w3id.org/arkumu/roles#role-180) |
 | **German Name** | Schlagzeuger:in |
 | **German Synonyms** | Schlagzeugerin,Schlagzeuger |
 | **English Name** | drummer |
@@ -5364,7 +3705,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 233 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-233`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-233) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-233`[🔗](http://w3id.org/arkumu/roles#role-233) |
 | **German Name** | Synchronsprecher:in |
 | **German Synonyms** | Synchronsprecherin,Synchronsprecher |
 | **English Name** | dub actor |
@@ -5392,7 +3733,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 339 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-339`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-339) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-339`[🔗](http://w3id.org/arkumu/roles#role-339) |
 | **German Name** | Ökolog:in |
 | **German Synonyms** | Ökologe,Oekologin,Ökologin,Oekologe |
 | **English Name** | ecologist |
@@ -5420,7 +3761,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 375 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-375`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-375) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-375`[🔗](http://w3id.org/arkumu/roles#role-375) |
 | **German Name** | Wirtschaftswissenschaftler:in |
 | **German Synonyms** | Wirtschaftsfachmann,Wirtschaftsfachfrau,Ökonomin,Wirtschaftswissenschaftler,Ökonomikerin,Ökonom,Ökonomiker,Wirtschaftswissenschaftlerin |
 | **English Name** | economist |
@@ -5448,7 +3789,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 195 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-195`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-195) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-195`[🔗](http://w3id.org/arkumu/roles#role-195) |
 | **German Name** | Redakteur:in |
 | **German Synonyms** | Editorin,Editor,redaktionell Verantwortliche,redaktionell Verantwortlicher,Redakteurin,Redakteur |
 | **English Name** | editor |
@@ -5475,7 +3816,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 101 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-101`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-101) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-101`[🔗](http://w3id.org/arkumu/roles#role-101) |
 | **German Name** | Elektroingenieur:in |
 | **German Synonyms** | Elektroingenieurin,Elektroingenieur |
 | **English Name** | electrical engineer |
@@ -5505,7 +3846,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 150 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-150`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-150) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-150`[🔗](http://w3id.org/arkumu/roles#role-150) |
 | **German Name** | Elektronik-Ensemble |
 | **German Synonyms** | Elektronik-Band |
 | **English Name** | electronic band |
@@ -5531,7 +3872,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 245 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-245`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-245) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-245`[🔗](http://w3id.org/arkumu/roles#role-245) |
 | **German Name** | Elektroniker:in |
 | **German Synonyms** | Elektronikerin,Elektroniker |
 | **English Name** | electronic technician |
@@ -5561,7 +3902,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 246 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-246`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-246) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-246`[🔗](http://w3id.org/arkumu/roles#role-246) |
 | **German Name** | Elektrotechniker:in |
 | **German Synonyms** | Elektrotechnikerin,Elektrotechniker |
 | **English Name** | electrotechnician |
@@ -5589,7 +3930,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 100 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-100`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-100) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-100`[🔗](http://w3id.org/arkumu/roles#role-100) |
 | **German Name** | Ingenieur:in |
 | **German Synonyms** | Ingenieurin,Ingenieur |
 | **English Name** | engineer |
@@ -5617,7 +3958,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 127 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-127`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-127) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-127`[🔗](http://w3id.org/arkumu/roles#role-127) |
 | **German Name** | Englischlehrer:in |
 | **German Synonyms** | Englischlehrerin,Englischlehrer |
 | **English Name** | english teacher |
@@ -5645,7 +3986,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 50 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-50`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-50) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-50`[🔗](http://w3id.org/arkumu/roles#role-50) |
 | **German Name** | Ensembleleiter:in |
 | **German Synonyms** | Ensembleleiterin,Ensembleleiter |
 | **English Name** | ensemble leader |
@@ -5674,7 +4015,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 255 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-255`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-255) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-255`[🔗](http://w3id.org/arkumu/roles#role-255) |
 | **German Name** | Unternehmer:in |
 | **German Synonyms** | Unternehmerin,Unternehmer |
 | **English Name** | entrepreneur |
@@ -5702,7 +4043,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 301 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-301`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-301) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-301`[🔗](http://w3id.org/arkumu/roles#role-301) |
 | **German Name** | Ergonom:in |
 | **German Synonyms** | Ergonome,Ergonomin |
 | **English Name** | ergonomist |
@@ -5727,7 +4068,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 65 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-65`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-65) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-65`[🔗](http://w3id.org/arkumu/roles#role-65) |
 | **German Name** | Ethnograph:in |
 | **German Synonyms** | Ethnographin,Ethnograph |
 | **English Name** | ethnographer |
@@ -5755,7 +4096,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 64 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-64`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-64) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-64`[🔗](http://w3id.org/arkumu/roles#role-64) |
 | **German Name** | Ethnolog:in |
 | **German Synonyms** | Völkerkundlerin,Völkerkundler,Ethnologin,Ethnologe |
 | **English Name** | ethnologist |
@@ -5782,7 +4123,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 335 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-335`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-335) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-335`[🔗](http://w3id.org/arkumu/roles#role-335) |
 | **German Name** | Musikethnolog:in |
 | **German Synonyms** | Musikethnologin,Musikethnologe |
 | **English Name** | ethnomusicologist |
@@ -5811,7 +4152,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 330 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-330`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-330) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-330`[🔗](http://w3id.org/arkumu/roles#role-330) |
 | **German Name** | Eventmanager:in |
 | **German Synonyms** | Eventmamager,Eventmanagerin |
 | **English Name** | event manager |
@@ -5837,7 +4178,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 362 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-362`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-362) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-362`[🔗](http://w3id.org/arkumu/roles#role-362) |
 | **German Name** | Veranstaltungstechniker:in |
 | **German Synonyms** | Veranstaltungstechniker,Veranstaltungstechnikerin |
 | **English Name** | event technician |
@@ -5863,7 +4204,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 124 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-124`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-124) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-124`[🔗](http://w3id.org/arkumu/roles#role-124) |
 | **German Name** | Ausstellungs-Kurator:in |
 | **German Synonyms** | Ausstellungskuratorin,Ausstellungskurator,Ausstellungsmacherin,Ausstellungsmacher,Ausstellungs-Kuratorin,Ausstellungs-Kurator |
 | **English Name** | exhibition curator |
@@ -5891,7 +4232,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 387 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-387`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-387) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-387`[🔗](http://w3id.org/arkumu/roles#role-387) |
 | **German Name** | Modedesigner:in |
 | **German Synonyms** | Modeschöpfer,Modedesignerin,Modeschöpferin |
 | **English Name** | fashion designer |
@@ -5920,7 +4261,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 215 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-215`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-215) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-215`[🔗](http://w3id.org/arkumu/roles#role-215) |
 | **German Name** | Schnitt |
 | **English Name** | film editor |
 | **English Synonyms** | bugle |
@@ -5948,7 +4289,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 67 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-67`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-67) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-67`[🔗](http://w3id.org/arkumu/roles#role-67) |
 | **German Name** | Filmförderung |
 | **English Name** | film funding |
 | **Wikidata ID** | [Q1341445](https://www.wikidata.org/entity/Q1341445) |
@@ -5973,7 +4314,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 68 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-68`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-68) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-68`[🔗](http://w3id.org/arkumu/roles#role-68) |
 | **German Name** | Filmproduzent:in |
 | **German Synonyms** | Produzentin,Produzent,Filmproduzentin,Filmproduzent |
 | **English Name** | film producer |
@@ -6000,7 +4341,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 88 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-88`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-88) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-88`[🔗](http://w3id.org/arkumu/roles#role-88) |
 | **German Name** | Flötist:in |
 | **German Synonyms** | Flötistin,Flötist |
 | **English Name** | flutist |
@@ -6029,7 +4370,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 159 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-159`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-159) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-159`[🔗](http://w3id.org/arkumu/roles#role-159) |
 | **German Name** | Volksmusikgruppe |
 | **English Name** | folk music group |
 | **Wikidata ID** | [Q113292621](https://www.wikidata.org/entity/Q113292621) |
@@ -6055,7 +4396,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 69 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-69`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-69) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-69`[🔗](http://w3id.org/arkumu/roles#role-69) |
 | **German Name** | Folkloremusiker:in |
 | **German Synonyms** | Folkloremusikerin,Folkloremusiker |
 | **English Name** | folk musician |
@@ -6080,7 +4421,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 57 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-57`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-57) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-57`[🔗](http://w3id.org/arkumu/roles#role-57) |
 | **German Name** | Durchschlagzungeninstrumenten-Spieler:in |
 | **German Synonyms** | Durchschlagzungeninstrumenten-Spielerin,Durchschlagzungeninstrumenten-Spieler |
 | **English Name** | free-reed player |
@@ -6106,7 +4447,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 402 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-402`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-402) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-402`[🔗](http://w3id.org/arkumu/roles#role-402) |
 | **German Name** | Lehrbeauftragte:r |
 | **German Synonyms** | Lehrbeauftragter,Lehrbeauftragte |
 | **English Name** | freelance instructor |
@@ -6134,7 +4475,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 51 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-51`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-51) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-51`[🔗](http://w3id.org/arkumu/roles#role-51) |
 | **German Name** | Generalmusikdirektor:in |
 | **German Synonyms** | Generalmusikdirektorin,Generalmusikdirektor |
 | **English Name** | general music director |
@@ -6161,7 +4502,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 3 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-3`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-3) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-3`[🔗](http://w3id.org/arkumu/roles#role-3) |
 | **German Name** | Absolvent:in |
 | **German Synonyms** | Absolventin,Absolvent |
 | **English Name** | graduate |
@@ -6189,7 +4530,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 385 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-385`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-385) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-385`[🔗](http://w3id.org/arkumu/roles#role-385) |
 | **German Name** | Grafiker:in |
 | **German Synonyms** | Grafiker,Grafikerin,Graphiker,Graphikerin |
 | **English Name** | graphic artist |
@@ -6219,7 +4560,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 319 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-319`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-319) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-319`[🔗](http://w3id.org/arkumu/roles#role-319) |
 | **German Name** | Grafikdesigner:in |
 | **German Synonyms** | Graphikdesignerin,Gebrauchsgraphiker,Gebrauchsgrafiker,Gebrauchsgraphikerin,Gebrauchsgrafikerin,Grafikdesignerin,Graphikdesigner,Grafikdesigner |
 | **English Name** | graphic designer |
@@ -6248,7 +4589,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 76 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-76`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-76) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-76`[🔗](http://w3id.org/arkumu/roles#role-76) |
 | **German Name** | Grip |
 | **English Name** | grip |
 | **Wikidata ID** | [Q3274496](https://www.wikidata.org/entity/Q3274496) |
@@ -6272,7 +4613,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 275 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-275`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-275) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-275`[🔗](http://w3id.org/arkumu/roles#role-275) |
 | **German Name** | Gitarrist:in |
 | **German Synonyms** | Gitarristin,Gitarrist |
 | **English Name** | guitarist |
@@ -6301,7 +4642,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 60 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-60`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-60) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-60`[🔗](http://w3id.org/arkumu/roles#role-60) |
 | **German Name** | Mundharmonikaspieler:in |
 | **German Synonyms** | Mundharmonikaspielerin,Mundharmonikaspieler |
 | **English Name** | harmonica player |
@@ -6330,7 +4671,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 239 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-239`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-239) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-239`[🔗](http://w3id.org/arkumu/roles#role-239) |
 | **German Name** | Harmoniumspieler:in |
 | **German Synonyms** | Harmoniumspielerin,Harmoniumspieler |
 | **English Name** | harmonium player |
@@ -6358,7 +4699,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 278 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-278`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-278) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-278`[🔗](http://w3id.org/arkumu/roles#role-278) |
 | **German Name** | Harfenist:in |
 | **German Synonyms** | Harfenistin,Harfenist |
 | **English Name** | harpist |
@@ -6387,7 +4728,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 238 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-238`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-238) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-238`[🔗](http://w3id.org/arkumu/roles#role-238) |
 | **German Name** | Cembalist:in |
 | **German Synonyms** | Cembalistin,Cembalist |
 | **English Name** | harpsichordist |
@@ -6416,7 +4757,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 207 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-207`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-207) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-207`[🔗](http://w3id.org/arkumu/roles#role-207) |
 | **German Name** | Kantor:in (jüdisch) |
 | **German Synonyms** | Chasan,Vorbeter,Kantorin (jüdisch),Kantor (jüdisch) |
 | **English Name** | hazzan |
@@ -6444,7 +4785,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 83 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-83`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-83) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-83`[🔗](http://w3id.org/arkumu/roles#role-83) |
 | **German Name** | Historiker:in |
 | **German Synonyms** | Historiografin,Historiograf,Geschichtswissenschaftlerin,Geschichtswissenschaftler,Geschichtsforscherin,Geschichtsforscher,Historikerin,Historiker |
 | **English Name** | historian |
@@ -6472,7 +4813,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 31 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-31`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-31) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-31`[🔗](http://w3id.org/arkumu/roles#role-31) |
 | **German Name** | Hornist:in |
 | **German Synonyms** | Hornistin,Hornist |
 | **English Name** | hornist |
@@ -6500,7 +4841,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 113 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-113`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-113) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-113`[🔗](http://w3id.org/arkumu/roles#role-113) |
 | **German Name** | Klinikverwalter:in |
 | **German Synonyms** | Klinikverwalterin,Klinikverwalter |
 | **English Name** | hospital administrator |
@@ -6525,7 +4866,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 256 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-256`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-256) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-256`[🔗](http://w3id.org/arkumu/roles#role-256) |
 | **German Name** | Veranstalter:in |
 | **German Synonyms** | Veranstalterin,Veranstalter |
 | **English Name** | host |
@@ -6551,7 +4892,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 310 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-310`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-310) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-310`[🔗](http://w3id.org/arkumu/roles#role-310) |
 | **German Name** | Humangeograph:in |
 | **German Synonyms** | Antropogeographin,Antropogeografin,Humangeograph,Antropogeograf,Humangeographin,Humangeograf,Antropogeograph,Humangeografin |
 | **English Name** | human geographer |
@@ -6576,7 +4917,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 321 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-321`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-321) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-321`[🔗](http://w3id.org/arkumu/roles#role-321) |
 | **German Name** | Illustrator:in |
 | **German Synonyms** | Buch-Illustratorin,Illustratorin,Illustrator,Buchillustratorin,Buchillustrator,Buch-Illustrator |
 | **English Name** | illustrator |
@@ -6605,7 +4946,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 99 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-99`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-99) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-99`[🔗](http://w3id.org/arkumu/roles#role-99) |
 | **German Name** | Impressario |
 | **English Name** | impresario |
 | **English Synonyms** | talent manager |
@@ -6630,7 +4971,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 298 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-298`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-298) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-298`[🔗](http://w3id.org/arkumu/roles#role-298) |
 | **German Name** | Selbstverleger:in |
 | **German Synonyms** | Selbstverleger,Selbstverlegerin |
 | **English Name** | independent publisher |
@@ -6657,7 +4998,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 161 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-161`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-161) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-161`[🔗](http://w3id.org/arkumu/roles#role-161) |
 | **German Name** | Musikinstrumentenbauer:in |
 | **German Synonyms** | Instrumentenbauerin,Instrumentenbauer,Musikinstrumentenbauerin,Musikinstrumentenbauer |
 | **English Name** | instrument maker |
@@ -6685,7 +5026,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 151 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-151`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-151) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-151`[🔗](http://w3id.org/arkumu/roles#role-151) |
 | **German Name** | Instrumentalgruppe |
 | **English Name** | instrumental group |
 | **Wikidata ID** | [Q64596595](https://www.wikidata.org/entity/Q64596595) |
@@ -6710,7 +5051,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 102 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-102`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-102) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-102`[🔗](http://w3id.org/arkumu/roles#role-102) |
 | **German Name** | Instrumentalist:in |
 | **German Synonyms** | Instrumentalistin,Instrumentalist |
 | **English Name** | instrumentalist |
@@ -6736,7 +5077,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 103 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-103`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-103) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-103`[🔗](http://w3id.org/arkumu/roles#role-103) |
 | **German Name** | Intendant:in |
 | **German Synonyms** | Künstlerische Leiterin,Künstlerischer Leiter,Intendantin,Intendant |
 | **English Name** | intendant |
@@ -6763,7 +5104,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 342 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-342`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-342) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-342`[🔗](http://w3id.org/arkumu/roles#role-342) |
 | **German Name** | Praktikant:in |
 | **German Synonyms** | Praktikantin,Praktikant |
 | **English Name** | intern |
@@ -6791,7 +5132,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 62 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-62`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-62) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-62`[🔗](http://w3id.org/arkumu/roles#role-62) |
 | **German Name** | Erfinder:in |
 | **German Synonyms** | Erfinderin,Erfinder |
 | **English Name** | inventor |
@@ -6819,7 +5160,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 334 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-334`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-334) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-334`[🔗](http://w3id.org/arkumu/roles#role-334) |
 | **German Name** | Jazzmusiker:in |
 | **German Synonyms** | Jazz-Musikerin,Jazz-Musiker,Jazzmusiker,Jazzmusikerin |
 | **English Name** | jazz musician |
@@ -6847,7 +5188,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 105 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-105`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-105) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-105`[🔗](http://w3id.org/arkumu/roles#role-105) |
 | **German Name** | Journalist:in |
 | **German Synonyms** | Journalistin,Journalist |
 | **English Name** | journalist |
@@ -6875,7 +5216,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 312 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-312`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-312) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-312`[🔗](http://w3id.org/arkumu/roles#role-312) |
 | **German Name** | Jurist:in |
 | **German Synonyms** | Juristin,Jurist |
 | **English Name** | jurist |
@@ -6903,7 +5244,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 240 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-240`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-240) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-240`[🔗](http://w3id.org/arkumu/roles#role-240) |
 | **German Name** | Keyboarder:in |
 | **German Synonyms** | Keyboarderin,Keyboarder |
 | **English Name** | keyboarder |
@@ -6929,7 +5270,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 193 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-193`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-193) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-193`[🔗](http://w3id.org/arkumu/roles#role-193) |
 | **German Name** | Rechtsanwalt/Rechtsanwältin |
 | **German Synonyms** | Rechtsanwält:in,Anwalt,Anwältin,Advokat |
 | **English Name** | lawyer |
@@ -6958,7 +5299,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 276 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-276`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-276) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-276`[🔗](http://w3id.org/arkumu/roles#role-276) |
 | **German Name** | Lead-Gitarrist:in |
 | **German Synonyms** | Lead-Gitarristin,Lead-Gitarrist |
 | **English Name** | lead guitarist |
@@ -6984,7 +5325,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 266 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-266`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-266) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-266`[🔗](http://w3id.org/arkumu/roles#role-266) |
 | **German Name** | Vortragsredner:in |
 | **German Synonyms** | Vortragsrednerin,Vortragsredner |
 | **English Name** | lecturer |
@@ -7010,7 +5351,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 28 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-28`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-28) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-28`[🔗](http://w3id.org/arkumu/roles#role-28) |
 | **German Name** | Bibliothekar:in |
 | **German Synonyms** | Bibliothekarin,Bibliothekar |
 | **English Name** | librarian |
@@ -7038,7 +5379,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 128 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-128`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-128) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-128`[🔗](http://w3id.org/arkumu/roles#role-128) |
 | **German Name** | Librettist:in |
 | **German Synonyms** | Librettistin,Librettist |
 | **English Name** | librettist |
@@ -7066,7 +5407,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 24 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-24`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-24) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-24`[🔗](http://w3id.org/arkumu/roles#role-24) |
 | **German Name** | Beleuchter:in |
 | **German Synonyms** | Oberbeleuchterin,Oberbeleuchter,Beleuchterin,Beleuchter |
 | **English Name** | lighting technician |
@@ -7094,7 +5435,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 129 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-129`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-129) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-129`[🔗](http://w3id.org/arkumu/roles#role-129) |
 | **German Name** | Linguist:in |
 | **German Synonyms** | Sprachforscherin,Sprachforscher,Sprachwissenschaftlerin,Sprachwissenschaftler,Linguistin,Linguist |
 | **English Name** | linguist |
@@ -7122,7 +5463,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 108 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-108`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-108) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-108`[🔗](http://w3id.org/arkumu/roles#role-108) |
 | **German Name** | Literaturkritiker:in |
 | **German Synonyms** | Literaturkritikerin,Literaturkritiker |
 | **English Name** | literary critic |
@@ -7151,7 +5492,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 392 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-392`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-392) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-392`[🔗](http://w3id.org/arkumu/roles#role-392) |
 | **German Name** | Location Manager:in |
 | **English Name** | location manager |
 | **English Synonyms** | location director |
@@ -7176,7 +5517,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 214 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-214`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-214) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-214`[🔗](http://w3id.org/arkumu/roles#role-214) |
 | **German Name** | Schlosser:in |
 | **German Synonyms** | Schlosserin,Schlosser |
 | **English Name** | locksmith |
@@ -7204,7 +5545,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 279 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-279`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-279) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-279`[🔗](http://w3id.org/arkumu/roles#role-279) |
 | **German Name** | Lautenist:in |
 | **German Synonyms** | lute player,Lautenistin,Lautenist |
 | **English Name** | lutenist |
@@ -7233,7 +5574,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 162 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-162`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-162) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-162`[🔗](http://w3id.org/arkumu/roles#role-162) |
 | **German Name** | Geigenbauer:in |
 | **German Synonyms** | Geigenbauerin,Geigenbauer |
 | **English Name** | luthier |
@@ -7262,7 +5603,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 247 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-247`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-247) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-247`[🔗](http://w3id.org/arkumu/roles#role-247) |
 | **German Name** | Textdichter:in |
 | **German Synonyms** | Textdichterin,Textdichter |
 | **English Name** | lyricist |
@@ -7288,7 +5629,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 134 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-134`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-134) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-134`[🔗](http://w3id.org/arkumu/roles#role-134) |
 | **German Name** | Maskenbildner:in |
 | **German Synonyms** | Maskenbildnerin,Maskenbildner |
 | **English Name** | make-up artist  |
@@ -7315,7 +5656,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 148 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-148`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-148) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-148`[🔗](http://w3id.org/arkumu/roles#role-148) |
 | **German Name** | Männerchor |
 | **English Name** | male choir |
 | **Wikidata ID** | [Q1684352](https://www.wikidata.org/entity/Q1684352) |
@@ -7341,7 +5682,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 133 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-133`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-133) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-133`[🔗](http://w3id.org/arkumu/roles#role-133) |
 | **German Name** | Manager:in |
 | **German Synonyms** | Managerin,Manager |
 | **English Name** | manager |
@@ -7367,7 +5708,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 280 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-280`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-280) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-280`[🔗](http://w3id.org/arkumu/roles#role-280) |
 | **German Name** | Mandolinist:in |
 | **German Synonyms** | Mandolinistin,Mandolinist |
 | **English Name** | mandolinist |
@@ -7395,7 +5736,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 82 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-82`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-82) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-82`[🔗](http://w3id.org/arkumu/roles#role-82) |
 | **German Name** | Hersteller:in |
 | **German Synonyms** | Herstellerin,Hersteller,Produzentin,Produzent |
 | **English Name** | manufacturer |
@@ -7423,7 +5764,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 178 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-178`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-178) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-178`[🔗](http://w3id.org/arkumu/roles#role-178) |
 | **German Name** | Marimbafonist:in |
 | **German Synonyms** | Marimbafonistin,Marimbafonist |
 | **English Name** | marimba player |
@@ -7449,7 +5790,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 357 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-357`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-357) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-357`[🔗](http://w3id.org/arkumu/roles#role-357) |
 | **German Name** | Kampfsportler:in |
 | **German Synonyms** | Kampfsportler,Kampfsportler:in |
 | **English Name** | martial artist |
@@ -7477,7 +5818,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 252 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-252`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-252) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-252`[🔗](http://w3id.org/arkumu/roles#role-252) |
 | **German Name** | Master-Ingenieur:in |
 | **German Synonyms** | Master-Ingenieurin,Master-Ingenieur |
 | **English Name** | mastering engineer |
@@ -7503,7 +5844,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 383 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-383`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-383) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-383`[🔗](http://w3id.org/arkumu/roles#role-383) |
 | **German Name** | Mastering Studio |
 | **English Name** | mastering studio |
 | **Wikidata ID** | [Q67604973](https://www.wikidata.org/entity/Q67604973) |
@@ -7527,7 +5868,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 394 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-394`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-394) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-394`[🔗](http://w3id.org/arkumu/roles#role-394) |
 | **German Name** | Mathematiker:in |
 | **German Synonyms** | Dipl.-Math. |
 | **English Name** | mathematician |
@@ -7555,7 +5896,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 136 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-136`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-136) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-136`[🔗](http://w3id.org/arkumu/roles#role-136) |
 | **German Name** | Medienmanager:in |
 | **German Synonyms** | Medienmanagerin,Medienmanager |
 | **English Name** | media executive |
@@ -7580,7 +5921,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 331 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-331`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-331) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-331`[🔗](http://w3id.org/arkumu/roles#role-331) |
 | **German Name** | Medienwissenschaftler:in |
 | **German Synonyms** | Medienwissenschftler,Medienwissenschaftlerin |
 | **English Name** | media scholar |
@@ -7607,7 +5948,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 63 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-63`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-63) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-63`[🔗](http://w3id.org/arkumu/roles#role-63) |
 | **German Name** | erwähnte:r Akteur:in |
 | **German Synonyms** | erwähnte Akteurin,erwähnter Akteur |
 | **English Name** | mentioned actor |
@@ -7632,7 +5973,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 210 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-210`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-210) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-210`[🔗](http://w3id.org/arkumu/roles#role-210) |
 | **German Name** | Mezzosopranist:in |
 | **German Synonyms** | Mezzosopranistin,Mezzosopranist |
 | **English Name** | mezzo-soprano |
@@ -7659,7 +6000,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 96 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-96`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-96) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-96`[🔗](http://w3id.org/arkumu/roles#role-96) |
 | **German Name** | Mezzosopran-Saxofonist:in |
 | **German Synonyms** | Mezzosopran-Saxofonistin,Mezzosopran-Saxofonist |
 | **English Name** | mezzo-soprano saxophonist |
@@ -7685,7 +6026,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 156 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-156`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-156) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-156`[🔗](http://w3id.org/arkumu/roles#role-156) |
 | **German Name** | Militärorchester |
 | **English Name** | military band |
 | **Wikidata ID** | [Q1078286](https://www.wikidata.org/entity/Q1078286) |
@@ -7710,7 +6051,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 175 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-175`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-175) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-175`[🔗](http://w3id.org/arkumu/roles#role-175) |
 | **German Name** | Pantomim:in |
 | **German Synonyms** | Pantomimin,Pantomime |
 | **English Name** | mime |
@@ -7739,7 +6080,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 25 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-25`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-25) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-25`[🔗](http://w3id.org/arkumu/roles#role-25) |
 | **German Name** | Bergbauingenieur:in |
 | **German Synonyms** | Bergingenieurin,Bergingenieur,Bergbauingenieurin,Bergbauingenieur |
 | **English Name** | mining engineer |
@@ -7767,7 +6108,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 188 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-188`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-188) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-188`[🔗](http://w3id.org/arkumu/roles#role-188) |
 | **German Name** | Pfarrer:in |
 | **German Synonyms** | Pastorin,Parson,Pastor,Pfarrerin,Pfarrer |
 | **English Name** | minister |
@@ -7796,7 +6137,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 386 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-386`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-386) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-386`[🔗](http://w3id.org/arkumu/roles#role-386) |
 | **German Name** | Model |
 | **German Synonyms** | Mannequin,Künstlermodell,Modell |
 | **English Name** | model |
@@ -7824,7 +6165,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 139 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-139`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-139) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-139`[🔗](http://w3id.org/arkumu/roles#role-139) |
 | **German Name** | Montage |
 | **English Name** | montage |
 | **Wikidata ID** | [Q97746411](https://www.wikidata.org/entity/Q97746411) |
@@ -7848,7 +6189,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 356 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-356`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-356) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-356`[🔗](http://w3id.org/arkumu/roles#role-356) |
 | **German Name** | Bergsteiger:in |
 | **German Synonyms** | Bergsteiger,Alpinist,Bergsteigerin,Alpinistin |
 | **English Name** | mountaineer |
@@ -7877,7 +6218,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 293 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-293`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-293) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-293`[🔗](http://w3id.org/arkumu/roles#role-293) |
 | **German Name** | Bewegungspädagog:in |
 | **German Synonyms** | Bewegungspädagoge,Bewegungspädagogin |
 | **English Name** | movement educator |
@@ -7902,7 +6243,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 10 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-10`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-10) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-10`[🔗](http://w3id.org/arkumu/roles#role-10) |
 | **German Name** | Arrangeur:in |
 | **German Synonyms** | Arrangeurin,Arrangeur |
 | **English Name** | music arranger |
@@ -7929,7 +6270,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 109 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-109`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-109) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-109`[🔗](http://w3id.org/arkumu/roles#role-109) |
 | **German Name** | Musikkritiker:in |
 | **German Synonyms** | Musikkritikerin,Musikkritiker |
 | **English Name** | music critic |
@@ -7958,7 +6299,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 80 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-80`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-80) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-80`[🔗](http://w3id.org/arkumu/roles#role-80) |
 | **German Name** | Musikalienhändler:in |
 | **German Synonyms** | Musikalienhändlerin,Musikalienhändler |
 | **English Name** | music dealer |
@@ -7985,7 +6326,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 110 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-110`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-110) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-110`[🔗](http://w3id.org/arkumu/roles#role-110) |
 | **German Name** | Musikjournalist:in |
 | **German Synonyms** | Musikjournalistin,Musikjournalist |
 | **English Name** | music journalist |
@@ -8013,7 +6354,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 166 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-166`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-166) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-166`[🔗](http://w3id.org/arkumu/roles#role-166) |
 | **German Name** | Musikproduzent:in |
 | **German Synonyms** | Produzentin,Produzent,Musikproduzentin,Musikproduzent |
 | **English Name** | music producer |
@@ -8041,7 +6382,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 259 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-259`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-259) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-259`[🔗](http://w3id.org/arkumu/roles#role-259) |
 | **German Name** | Musikverleger:in |
 | **German Synonyms** | Musikverlegerin,Musikverleger |
 | **English Name** | music publisher |
@@ -8069,7 +6410,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 165 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-165`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-165) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-165`[🔗](http://w3id.org/arkumu/roles#role-165) |
 | **German Name** | Musiklehrer:in |
 | **German Synonyms** | Musikpädagogin,Musikpädagoge,Musiklehrerin,Musiklehrer |
 | **English Name** | music teacher |
@@ -8097,7 +6438,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 347 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-347`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-347) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-347`[🔗](http://w3id.org/arkumu/roles#role-347) |
 | **German Name** | Musiktherapeut:in |
 | **German Synonyms** | Musiktherapeutin,Musiktherapeut |
 | **English Name** | music therapist |
@@ -8125,7 +6466,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 141 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-141`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-141) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-141`[🔗](http://w3id.org/arkumu/roles#role-141) |
 | **German Name** | Musikensemble |
 | **German Synonyms** | Musikgruppe |
 | **English Name** | musical ensemble |
@@ -8153,7 +6494,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 167 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-167`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-167) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-167`[🔗](http://w3id.org/arkumu/roles#role-167) |
 | **German Name** | Musikalische:r Leiter:in |
 | **German Synonyms** | Musikalische Leiterin,Musikalischer Leiter |
 | **English Name** | musical supervisor |
@@ -8179,7 +6520,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 332 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-332`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-332) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-332`[🔗](http://w3id.org/arkumu/roles#role-332) |
 | **German Name** | Musicaldarsteller:in |
 | **German Synonyms** | Musicaldarstellerin,Musical-Darstellerin,Musical-Darsteller,Musicaldarsteller |
 | **English Name** | musical theatre actor |
@@ -8207,7 +6548,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 160 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-160`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-160) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-160`[🔗](http://w3id.org/arkumu/roles#role-160) |
 | **German Name** | Musiker:in |
 | **German Synonyms** | Musikerin,Musiker |
 | **English Name** | musician |
@@ -8235,7 +6576,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 351 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-351`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-351) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-351`[🔗](http://w3id.org/arkumu/roles#role-351) |
 | **German Name** | Musikschriftsteller:in |
 | **German Synonyms** | Musikschriftstellerin,Musikschriftsteller |
 | **English Name** | musicographer |
@@ -8263,7 +6604,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 169 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-169`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-169) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-169`[🔗](http://w3id.org/arkumu/roles#role-169) |
 | **German Name** | Musikwissenschaftler:in |
 | **German Synonyms** | Musikologin,Musikologe,Musikforscherin,Musikforscher,Musikwissenschaftlerin,Musikwissenschaftler |
 | **English Name** | musicologist |
@@ -8291,7 +6632,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 336 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-336`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-336) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-336`[🔗](http://w3id.org/arkumu/roles#role-336) |
 | **German Name** | Naturwissenschaftler:in |
 | **German Synonyms** | Naturwissenschaftler,Naturforscher,Naturforscherin,Naturwissenschaftlerin |
 | **English Name** | natural scientist |
@@ -8318,7 +6659,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 172 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-172`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-172) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-172`[🔗](http://w3id.org/arkumu/roles#role-172) |
 | **German Name** | Marineoffizier:in |
 | **German Synonyms** | Marineoffizierin,Marineoffizier |
 | **English Name** | navy officer |
@@ -8345,7 +6686,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 338 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-338`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-338) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-338`[🔗](http://w3id.org/arkumu/roles#role-338) |
 | **German Name** | Neurobiolog:in |
 | **German Synonyms** | Neurobiologin |
 | **English Name** | neurobiologist |
@@ -8372,7 +6713,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 194 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-194`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-194) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-194`[🔗](http://w3id.org/arkumu/roles#role-194) |
 | **German Name** | Notar:in |
 | **German Synonyms** | Notarin,Notar |
 | **English Name** | notary |
@@ -8401,7 +6742,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 20 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-20`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-20) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-20`[🔗](http://w3id.org/arkumu/roles#role-20) |
 | **German Name** | Romanautor:in |
 | **German Synonyms** | Romancière,Romancier,Romanautorin,Romanautor |
 | **English Name** | novelist |
@@ -8430,7 +6771,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 91 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-91`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-91) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-91`[🔗](http://w3id.org/arkumu/roles#role-91) |
 | **German Name** | Oboist:in |
 | **German Synonyms** | Oboistin,Oboist |
 | **English Name** | oboist |
@@ -8459,7 +6800,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 171 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-171`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-171) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-171`[🔗](http://w3id.org/arkumu/roles#role-171) |
 | **German Name** | Offizier:in |
 | **German Synonyms** | Offizierin,Offizier |
 | **English Name** | officer |
@@ -8487,7 +6828,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 12 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-12`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-12) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-12`[🔗](http://w3id.org/arkumu/roles#role-12) |
 | **German Name** | Augenarzt/Augenärztin |
 | **German Synonyms** | Ophthalmologin,Ophthalmologe,oculist |
 | **English Name** | ophthalmologist |
@@ -8516,7 +6857,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 348 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-348`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-348) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-348`[🔗](http://w3id.org/arkumu/roles#role-348) |
 | **German Name** | Publizist:in |
 | **German Synonyms** | Publizist,Meinungsjournalist,Meinungsjounalistin,Publizistin |
 | **English Name** | opinion journalist |
@@ -8543,7 +6884,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 170 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-170`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-170) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-170`[🔗](http://w3id.org/arkumu/roles#role-170) |
 | **German Name** | Obstbautechniker:in |
 | **German Synonyms** | Obstbautechnikerin,Obstbautechniker |
 | **English Name** | orchard technician |
@@ -8568,7 +6909,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 154 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-154`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-154) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-154`[🔗](http://w3id.org/arkumu/roles#role-154) |
 | **German Name** | Orchester |
 | **English Name** | orchestra |
 | **Wikidata ID** | [Q42998](https://www.wikidata.org/entity/Q42998) |
@@ -8595,7 +6936,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 164 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-164`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-164) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-164`[🔗](http://w3id.org/arkumu/roles#role-164) |
 | **German Name** | Orgelbauer:in |
 | **German Synonyms** | Orgelbauerin,Orgelbauer |
 | **English Name** | organ builder |
@@ -8622,7 +6963,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 241 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-241`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-241) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-241`[🔗](http://w3id.org/arkumu/roles#role-241) |
 | **German Name** | Organist:in |
 | **German Synonyms** | Organistin,Organist |
 | **English Name** | organist |
@@ -8651,7 +6992,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 173 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-173`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-173) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-173`[🔗](http://w3id.org/arkumu/roles#role-173) |
 | **German Name** | Orientalist:in |
 | **German Synonyms** | Orientalistin,Orientalist |
 | **English Name** | orientalist |
@@ -8678,7 +7019,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 174 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-174`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-174) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-174`[🔗](http://w3id.org/arkumu/roles#role-174) |
 | **German Name** | Ornitholog:in |
 | **German Synonyms** | Vogelkundlerin,Vogelkundler,Ornithologin,Ornithologe |
 | **English Name** | ornithologist |
@@ -8706,7 +7047,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 61 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-61`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-61) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-61`[🔗](http://w3id.org/arkumu/roles#role-61) |
 | **German Name** | Eigentümer:in |
 | **German Synonyms** | Eigentümerin,Eigentümer |
 | **English Name** | owner |
@@ -8734,7 +7075,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 121 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-121`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-121) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-121`[🔗](http://w3id.org/arkumu/roles#role-121) |
 | **German Name** | Maler:in |
 | **German Synonyms** | Kunstmalerin,Kunstmaler,Malerin,Maler |
 | **English Name** | painter |
@@ -8762,7 +7103,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 371 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-371`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-371) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-371`[🔗](http://w3id.org/arkumu/roles#role-371) |
 | **German Name** | Unterstützer:in |
 | **German Synonyms** | Unterstützer,Unterstützerin |
 | **English Name** | participant |
@@ -8787,7 +7128,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 340 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-340`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-340) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-340`[🔗](http://w3id.org/arkumu/roles#role-340) |
 | **German Name** | Pädagog:in |
 | **German Synonyms** | Pädagogin,Erziehungswissenschaftlerin,Pädagogen,Erziehungswissenschaftler |
 | **English Name** | pedagogue |
@@ -8814,7 +7155,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 177 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-177`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-177) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-177`[🔗](http://w3id.org/arkumu/roles#role-177) |
 | **German Name** | Perkussionist:in |
 | **German Synonyms** | Perkussionistin,Perkussionist |
 | **English Name** | percussionist |
@@ -8842,7 +7183,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 322 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-322`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-322) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-322`[🔗](http://w3id.org/arkumu/roles#role-322) |
 | **German Name** | Performancekünstler:in |
 | **German Synonyms** | Performancekünstler,Performancekünstlerin,Aktionskünstlerin,Aktionskünstler |
 | **English Name** | performance artist |
@@ -8871,7 +7212,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 176 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-176`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-176) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-176`[🔗](http://w3id.org/arkumu/roles#role-176) |
 | **German Name** | Performer:in |
 | **German Synonyms** | Performance-Künstlerin,Performance-Künstler,Performerin,Performer |
 | **English Name** | performer |
@@ -8900,7 +7241,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 104 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-104`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-104) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-104`[🔗](http://w3id.org/arkumu/roles#role-104) |
 | **German Name** | Interpret:in |
 | **German Synonyms** | Aufführende,Aufführender,Darstellerin,Darsteller,Interpretin,Interpret |
 | **English Name** | performing artist |
@@ -8929,7 +7270,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 183 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-183`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-183) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-183`[🔗](http://w3id.org/arkumu/roles#role-183) |
 | **German Name** | Philolog:in |
 | **German Synonyms** | Sprachwissenschaftlerin,Sprachwissenschaftler,Philologin,Philologe |
 | **English Name** | philologist |
@@ -8957,7 +7298,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 184 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-184`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-184) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-184`[🔗](http://w3id.org/arkumu/roles#role-184) |
 | **German Name** | Philosoph:in |
 | **German Synonyms** | Philosophin,Philosoph |
 | **English Name** | philosopher |
@@ -8985,7 +7326,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 70 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-70`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-70) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-70`[🔗](http://w3id.org/arkumu/roles#role-70) |
 | **German Name** | Fotograf:in |
 | **German Synonyms** | Fotografin,Fotograf |
 | **English Name** | photographer |
@@ -9013,7 +7354,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 327 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-327`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-327) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-327`[🔗](http://w3id.org/arkumu/roles#role-327) |
 | **German Name** | Sportlehrer:in |
 | **German Synonyms** | Sportlehrer,Sportlehrer:in,Sportpädagoge,Sportpädagogin,sports educator,gym teacher,physical education instructor,physical educator,PE teacher,P.E. teacher,sports teacher |
 | **English Name** | physical education teacher |
@@ -9041,7 +7382,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 11 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-11`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-11) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-11`[🔗](http://w3id.org/arkumu/roles#role-11) |
 | **German Name** | Arzt/Ärztin |
 | **German Synonyms** | Medizinerin,Mediziner |
 | **English Name** | physician |
@@ -9070,7 +7411,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 185 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-185`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-185) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-185`[🔗](http://w3id.org/arkumu/roles#role-185) |
 | **German Name** | Physiker:in |
 | **German Synonyms** | Physikerin,Physiker |
 | **English Name** | physicist |
@@ -9098,7 +7439,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 242 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-242`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-242) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-242`[🔗](http://w3id.org/arkumu/roles#role-242) |
 | **German Name** | Pianist:in |
 | **German Synonyms** | Pianistin,Pianist |
 | **English Name** | pianist |
@@ -9127,7 +7468,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 163 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-163`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-163) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-163`[🔗](http://w3id.org/arkumu/roles#role-163) |
 | **German Name** | Klavierbauer:in |
 | **German Synonyms** | Klavierbauerin,Klavierbauer |
 | **English Name** | piano maker |
@@ -9153,7 +7494,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 243 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-243`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-243) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-243`[🔗](http://w3id.org/arkumu/roles#role-243) |
 | **German Name** | Pianolist:in |
 | **German Synonyms** | Pianolistin,Pianolist |
 | **English Name** | pianolist |
@@ -9179,7 +7520,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 89 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-89`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-89) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-89`[🔗](http://w3id.org/arkumu/roles#role-89) |
 | **German Name** | Piccoloflötist:in |
 | **German Synonyms** | Piccoloflötistin,Piccoloflötist |
 | **English Name** | piccolo player |
@@ -9205,7 +7546,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 19 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-19`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-19) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-19`[🔗](http://w3id.org/arkumu/roles#role-19) |
 | **German Name** | Dramatiker:in |
 | **German Synonyms** | Theaterautorin,Theaterautor,Dramenschreiberin,Dramenschreiber,Dramatikerin,Dramatiker |
 | **English Name** | playwright |
@@ -9235,7 +7576,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 271 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-271`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-271) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-271`[🔗](http://w3id.org/arkumu/roles#role-271) |
 | **German Name** | Zupfinstrumentenspieler:in |
 | **German Synonyms** | Zupfinstrumentenspielerin,Zupfinstrumentenspieler |
 | **English Name** | plucked string instrument player |
@@ -9260,7 +7601,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 291 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-291`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-291) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-291`[🔗](http://w3id.org/arkumu/roles#role-291) |
 | **German Name** | Lyriker:in |
 | **German Synonyms** | Dichterin,Poet,Lyrikerin,Poetin,Dichter,Lyriker |
 | **English Name** | poet |
@@ -9289,7 +7630,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 45 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-45`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-45) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-45`[🔗](http://w3id.org/arkumu/roles#role-45) |
 | **German Name** | Dichterkomponist:in |
 | **German Synonyms** | Dichterkomponistin,Dichterkomponist |
 | **English Name** | poet-composer |
@@ -9314,7 +7655,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 341 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-341`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-341) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-341`[🔗](http://w3id.org/arkumu/roles#role-341) |
 | **German Name** | Politikwissenschaftler:in |
 | **German Synonyms** | Politologe,Politikwissenschaftlerin,Politikwissenschaftler,Politologin |
 | **English Name** | political scientist |
@@ -9342,7 +7683,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 186 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-186`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-186) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-186`[🔗](http://w3id.org/arkumu/roles#role-186) |
 | **German Name** | Politiker:in |
 | **German Synonyms** | Politikerin,Politiker |
 | **English Name** | politician |
@@ -9370,7 +7711,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 26 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-26`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-26) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-26`[🔗](http://w3id.org/arkumu/roles#role-26) |
 | **German Name** | Besitzer:in |
 | **German Synonyms** | Besitzerin,Besitzer |
 | **English Name** | possessor |
@@ -9399,7 +7740,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 189 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-189`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-189) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-189`[🔗](http://w3id.org/arkumu/roles#role-189) |
 | **German Name** | Prediger:in |
 | **German Synonyms** | Predigerin,Prediger |
 | **English Name** | preacher |
@@ -9429,7 +7770,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 403 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-403`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-403) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-403`[🔗](http://w3id.org/arkumu/roles#role-403) |
 | **German Name** | Moderator:in |
 | **German Synonyms** | Moderator,Moderatorin |
 | **English Name** | presenter |
@@ -9456,7 +7797,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 187 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-187`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-187) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-187`[🔗](http://w3id.org/arkumu/roles#role-187) |
 | **German Name** | Priester:in |
 | **German Synonyms** | Geistliche,Geistlicher,Priesterin,Priester |
 | **English Name** | priest |
@@ -9484,7 +7825,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 307 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-307`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-307) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-307`[🔗](http://w3id.org/arkumu/roles#role-307) |
 | **German Name** | Drucker:in |
 | **German Synonyms** | Drucker,Drucktechnologin,Drucktechniker,Drucktechnologe,Drucktechnikerin,Druckerin |
 | **English Name** | printer |
@@ -9513,7 +7854,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 192 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-192`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-192) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-192`[🔗](http://w3id.org/arkumu/roles#role-192) |
 | **German Name** | Produzent:in |
 | **German Synonyms** | Produzentin,Produzent |
 | **English Name** | producer |
@@ -9541,7 +7882,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 191 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-191`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-191) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-191`[🔗](http://w3id.org/arkumu/roles#role-191) |
 | **German Name** | Produktionsfirma |
 | **English Name** | production company |
 | **Wikidata ID** | [Q11396960](https://www.wikidata.org/entity/Q11396960) |
@@ -9566,7 +7907,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 344 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-344`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-344) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-344`[🔗](http://w3id.org/arkumu/roles#role-344) |
 | **German Name** | Programmierer:in |
 | **German Synonyms** | Programmiererin,Programmierer,Software-Programmiererin,Computer-Programmiererin,Computer-Programmierer,Software-Programmierer |
 | **English Name** | programmer |
@@ -9594,7 +7935,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 382 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-382`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-382) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-382`[🔗](http://w3id.org/arkumu/roles#role-382) |
 | **German Name** | Projektleiter:in |
 | **German Synonyms** | Projektleiterin,Projektleiter,Projektmanagerin,Projektmanager |
 | **English Name** | project manager |
@@ -9622,7 +7963,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 352 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-352`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-352) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-352`[🔗](http://w3id.org/arkumu/roles#role-352) |
 | **German Name** | Soufflage |
 | **German Synonyms** | Einhelferin,Soufflage,Souffleuse,Souffleur,Soufflieren,Einhelfer |
 | **English Name** | prompter |
@@ -9649,7 +7990,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 198 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-198`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-198) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-198`[🔗](http://w3id.org/arkumu/roles#role-198) |
 | **German Name** | Requisiteur:in |
 | **German Synonyms** | Requisiteurin,Requisiteur |
 | **English Name** | property master |
@@ -9676,7 +8017,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 345 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-345`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-345) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-345`[🔗](http://w3id.org/arkumu/roles#role-345) |
 | **German Name** | Psycholog:in |
 | **German Synonyms** | Psychologe,Psychologin |
 | **English Name** | psychologist |
@@ -9704,7 +8045,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 346 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-346`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-346) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-346`[🔗](http://w3id.org/arkumu/roles#role-346) |
 | **German Name** | Psychotherapeut:in |
 | **German Synonyms** | Psychotherapeutin,Psychotherapeut |
 | **English Name** | psychotherapist |
@@ -9731,7 +8072,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 400 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-400`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-400) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-400`[🔗](http://w3id.org/arkumu/roles#role-400) |
 | **German Name** | Öffentlichkeitsarbeit |
 | **English Name** | public relations |
 | **Wikidata ID** | [Q133080](https://www.wikidata.org/entity/Q133080) |
@@ -9755,7 +8096,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 258 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-258`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-258) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-258`[🔗](http://w3id.org/arkumu/roles#role-258) |
 | **German Name** | Verleger:in |
 | **German Synonyms** | Verlegerin,Verleger |
 | **English Name** | publisher |
@@ -9783,7 +8124,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 309 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-309`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-309) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-309`[🔗](http://w3id.org/arkumu/roles#role-309) |
 | **German Name** | Herausgeber:in |
 | **German Synonyms** | Herausgeberin,Hrsg.,Hg.,Herausgeber |
 | **English Name** | publisher |
@@ -9811,7 +8152,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 397 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-397`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-397) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-397`[🔗](http://w3id.org/arkumu/roles#role-397) |
 | **German Name** | Hörfunkmoderator:in |
 | **German Synonyms** | Radiomoderator,Hörfunkmoderatorin,Radiomoderatorin,Rundfunkmoderator |
 | **English Name** | radio personality |
@@ -9837,7 +8178,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 265 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-265`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-265) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-265`[🔗](http://w3id.org/arkumu/roles#role-265) |
 | **German Name** | Rapper:in |
 | **German Synonyms** | Rapperin,Rapper |
 | **English Name** | rapper |
@@ -9865,7 +8206,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 137 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-137`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-137) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-137`[🔗](http://w3id.org/arkumu/roles#role-137) |
 | **German Name** | Mischtonmeister |
 | **English Name** | re-recording mixer |
 | **English Synonyms** | dubbing mixer |
@@ -9890,7 +8231,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 225 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-225`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-225) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-225`[🔗](http://w3id.org/arkumu/roles#role-225) |
 | **German Name** | Rezitator:in |
 | **German Synonyms** | Rezitatorin,Rezitator |
 | **English Name** | reciter |
@@ -9916,7 +8257,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 287 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-287`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-287) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-287`[🔗](http://w3id.org/arkumu/roles#role-287) |
 | **German Name** | Tonträgerunternehmen |
 | **German Synonyms** | Schallplattenfirma,Tonträgerfirma,Schallplattenunternehmen |
 | **English Name** | record company |
@@ -9941,7 +8282,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 85 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-85`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-85) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-85`[🔗](http://w3id.org/arkumu/roles#role-85) |
 | **German Name** | Blockflötist:in |
 | **German Synonyms** | Blockflötistin,Blockflötist |
 | **English Name** | recorder player |
@@ -9969,7 +8310,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 14 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-14`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-14) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-14`[🔗](http://w3id.org/arkumu/roles#role-14) |
 | **German Name** | Aufnahmeexpert:in |
 | **German Synonyms** | Aufnahmeexpertin,Aufnahmeexperte |
 | **English Name** | recording expert |
@@ -9994,7 +8335,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 15 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-15`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-15) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-15`[🔗](http://w3id.org/arkumu/roles#role-15) |
 | **German Name** | Aufnahmeleiter:in |
 | **German Synonyms** | Aufnahmeleitung,Aufnahmeleiterin,Aufnahmeleiter |
 | **English Name** | recording supervisor |
@@ -10021,7 +8362,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 381 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-381`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-381) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-381`[🔗](http://w3id.org/arkumu/roles#role-381) |
 | **German Name** | wissenschaftliche:r Mitarbeiter:in |
 | **German Synonyms** | wissenschaftliche Mitarbeiterin,wissenschaftlicher Mitarbeiter,akademische Mitarbeiterin,akademischer Mitarbeiter |
 | **English Name** | research fellow |
@@ -10048,7 +8389,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 277 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-277`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-277) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-277`[🔗](http://w3id.org/arkumu/roles#role-277) |
 | **German Name** | Rhythmusgitarrist |
 | **German Synonyms** | Rhythmusgitarrist,Rhythmusgitarrist |
 | **English Name** | rhythm guitarist |
@@ -10074,7 +8415,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 130 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-130`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-130) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-130`[🔗](http://w3id.org/arkumu/roles#role-130) |
 | **German Name** | Romanist:in |
 | **German Synonyms** | Romanistin,Romanist |
 | **English Name** | romanist |
@@ -10103,7 +8444,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 315 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-315`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-315) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-315`[🔗](http://w3id.org/arkumu/roles#role-315) |
 | **German Name** | Korrepetitor:in |
 | **German Synonyms** | Korrepetition,Korrepetitorin,Solorepetitor,Solorepetitorin,Korrepetitor |
 | **English Name** | répétiteur |
@@ -10130,7 +8471,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 92 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-92`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-92) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-92`[🔗](http://w3id.org/arkumu/roles#role-92) |
 | **German Name** | Saxofonist:in |
 | **German Synonyms** | Saxofonistin,Saxofonist |
 | **English Name** | saxophonist |
@@ -10158,7 +8499,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 38 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-38`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-38) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-38`[🔗](http://w3id.org/arkumu/roles#role-38) |
 | **German Name** | Bühnenbildner:in |
 | **German Synonyms** | Szenograf,Bühnenbildnerin,Bühnenbildner |
 | **English Name** | scenographer |
@@ -10187,7 +8528,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 144 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-144`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-144) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-144`[🔗](http://w3id.org/arkumu/roles#role-144) |
 | **German Name** | Choralschola |
 | **English Name** | scholae |
 | **Wikidata ID** | [Q1076344](https://www.wikidata.org/entity/Q1076344) |
@@ -10212,7 +8553,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 56 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-56`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-56) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-56`[🔗](http://w3id.org/arkumu/roles#role-56) |
 | **German Name** | Drehbuchautor:in |
 | **German Synonyms** | Buch,Drehbuchautorin,Drehbuchautor |
 | **English Name** | screen writer |
@@ -10240,7 +8581,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 216 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-216`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-216) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-216`[🔗](http://w3id.org/arkumu/roles#role-216) |
 | **German Name** | Script Continuity |
 | **English Name** | script supervisor |
 | **Wikidata ID** | [Q1263187](https://www.wikidata.org/entity/Q1263187) |
@@ -10264,7 +8605,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 294 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-294`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-294) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-294`[🔗](http://w3id.org/arkumu/roles#role-294) |
 | **German Name** | Bildhauer:in |
 | **German Synonyms** | Plastiker,Plastikerin,Bildhauerin,Bildhauer |
 | **English Name** | sculptor |
@@ -10292,7 +8633,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 217 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-217`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-217) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-217`[🔗](http://w3id.org/arkumu/roles#role-217) |
 | **German Name** | Sekretär:in |
 | **German Synonyms** | Sekretärin,Sekretär |
 | **English Name** | secretary |
@@ -10321,7 +8662,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 168 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-168`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-168) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-168`[🔗](http://w3id.org/arkumu/roles#role-168) |
 | **German Name** | Sessionleiter:in |
 | **German Synonyms** | Sessionleiterin,Sessionleiter |
 | **English Name** | session supervisor |
@@ -10347,7 +8688,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 218 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-218`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-218) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-218`[🔗](http://w3id.org/arkumu/roles#role-218) |
 | **German Name** | Set Designer:in |
 | **German Synonyms** | Bühnenbild,Set Designerin,Set Designer |
 | **English Name** | set designer |
@@ -10374,7 +8715,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 235 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-235`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-235) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-235`[🔗](http://w3id.org/arkumu/roles#role-235) |
 | **German Name** | Szenenbildner:in |
 | **German Synonyms** | Szenenbildnerin,Szenenbildner |
 | **English Name** | set designer/production designer |
@@ -10400,7 +8741,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 199 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-199`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-199) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-199`[🔗](http://w3id.org/arkumu/roles#role-199) |
 | **German Name** | Sänger:in |
 | **German Synonyms** | Vokalistin,Vokalist,Sängerin,Sänger |
 | **English Name** | singer |
@@ -10429,7 +8770,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 353 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-353`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-353) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-353`[🔗](http://w3id.org/arkumu/roles#role-353) |
 | **German Name** | Soziolog:in |
 | **German Synonyms** | Soziologe,Soziologin,Sozialwissenschaftler,Sozialwissenschaftlerin |
 | **English Name** | sociologist |
@@ -10457,7 +8798,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 288 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-288`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-288) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-288`[🔗](http://w3id.org/arkumu/roles#role-288) |
 | **German Name** | Software-Entwickler:in |
 | **English Name** | software developer |
 | **Wikidata ID** | [Q183888](https://www.wikidata.org/entity/Q183888) |
@@ -10481,7 +8822,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 219 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-219`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-219) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-219`[🔗](http://w3id.org/arkumu/roles#role-219) |
 | **German Name** | Soldat:in |
 | **German Synonyms** | Soldatin,Soldat |
 | **English Name** | soldier |
@@ -10509,7 +8850,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 401 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-401`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-401) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-401`[🔗](http://w3id.org/arkumu/roles#role-401) |
 | **German Name** | Liedbegleitung |
 | **German Synonyms** | Liedbegleiter,Liedbegleiterin |
 | **English Name** | song accompaniment |
@@ -10536,7 +8877,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 211 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-211`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-211) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-211`[🔗](http://w3id.org/arkumu/roles#role-211) |
 | **German Name** | Sopranist:in |
 | **German Synonyms** | Sopranistin,Sopranist |
 | **English Name** | soprano |
@@ -10564,7 +8905,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 97 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-97`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-97) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-97`[🔗](http://w3id.org/arkumu/roles#role-97) |
 | **German Name** | Sopransaxofonist:in |
 | **German Synonyms** | Sopransaxofonistin,Sopransaxofonist |
 | **English Name** | soprano saxophonist |
@@ -10590,7 +8931,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 320 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-320`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-320) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-320`[🔗](http://w3id.org/arkumu/roles#role-320) |
 | **German Name** | Klangkünstler:in |
 | **German Synonyms** | Klangkünstlerin,Klangkünstler |
 | **English Name** | sound artist |
@@ -10618,7 +8959,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 220 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-220`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-220) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-220`[🔗](http://w3id.org/arkumu/roles#role-220) |
 | **German Name** | Sounddesigner:in |
 | **German Synonyms** | Sounddesignerin,Sounddesigner |
 | **English Name** | sound designer |
@@ -10646,7 +8987,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 405 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-405`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-405) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-405`[🔗](http://w3id.org/arkumu/roles#role-405) |
 | **English Name** | sound director |
 | **German Name** | Klangregisseur:in |
 | **English Synonyms** | - |
@@ -10671,7 +9012,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 253 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-253`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-253) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-253`[🔗](http://w3id.org/arkumu/roles#role-253) |
 | **German Name** | Tonmischer:in |
 | **German Synonyms** | Tonmischerin,Tonmischer |
 | **English Name** | sound mixer |
@@ -10697,7 +9038,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 349 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-349`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-349) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-349`[🔗](http://w3id.org/arkumu/roles#role-349) |
 | **German Name** | Raumplaner:in |
 | **German Synonyms** | Raumplanerin,Raumplaner |
 | **English Name** | spatial planner |
@@ -10724,7 +9065,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 223 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-223`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-223) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-223`[🔗](http://w3id.org/arkumu/roles#role-223) |
 | **German Name** | Sprecher:in |
 | **German Synonyms** | Sprecherin,Sprecher |
 | **English Name** | speaker |
@@ -10751,7 +9092,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 221 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-221`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-221) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-221`[🔗](http://w3id.org/arkumu/roles#role-221) |
 | **German Name** | Special Effects |
 | **English Name** | special effects |
 | **Wikidata ID** | [Q381243](https://www.wikidata.org/entity/Q381243) |
@@ -10775,7 +9116,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 329 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-329`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-329) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-329`[🔗](http://w3id.org/arkumu/roles#role-329) |
 | **German Name** | Logopäd:in |
 | **German Synonyms** | Logopäde,Logopädin |
 | **English Name** | speech and language therapist |
@@ -10802,7 +9143,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 358 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-358`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-358) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-358`[🔗](http://w3id.org/arkumu/roles#role-358) |
 | **German Name** | Sprecherzieher:in |
 | **German Synonyms** | Sprechtrainerin,Sprecherzieher,Sprechtrainer,Sprecherzieherin |
 | **English Name** | speech trainer |
@@ -10829,7 +9170,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 222 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-222`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-222) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-222`[🔗](http://w3id.org/arkumu/roles#role-222) |
 | **German Name** | Sponsor:in |
 | **German Synonyms** | Sponsorin,Sponsor |
 | **English Name** | sponsor |
@@ -10855,7 +9196,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 364 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-364`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-364) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-364`[🔗](http://w3id.org/arkumu/roles#role-364) |
 | **German Name** | Inspizient:in |
 | **German Synonyms** | Inspizientin,Inspizient |
 | **English Name** | stage manager |
@@ -10883,7 +9224,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 81 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-81`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-81) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-81`[🔗](http://w3id.org/arkumu/roles#role-81) |
 | **German Name** | Schreibwarenhändler:in |
 | **German Synonyms** | Schreibwarenhändlerin,Schreibwarenhändler |
 | **English Name** | stationer |
@@ -10910,7 +9251,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 71 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-71`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-71) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-71`[🔗](http://w3id.org/arkumu/roles#role-71) |
 | **German Name** | Fotograf:in (Film) |
 | **German Synonyms** | Fotografin (Film),Fotograf (Film) |
 | **English Name** | still photographer |
@@ -10937,7 +9278,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 157 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-157`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-157) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-157`[🔗](http://w3id.org/arkumu/roles#role-157) |
 | **German Name** | Streichorchester |
 | **English Name** | string orchestra |
 | **Wikidata ID** | [Q1090674](https://www.wikidata.org/entity/Q1090674) |
@@ -10963,7 +9304,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 226 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-226`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-226) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-226`[🔗](http://w3id.org/arkumu/roles#role-226) |
 | **German Name** | Streicher:in |
 | **German Synonyms** | Streicherin,Streicher |
 | **English Name** | string player |
@@ -10989,7 +9330,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 153 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-153`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-153) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-153`[🔗](http://w3id.org/arkumu/roles#role-153) |
 | **German Name** | Streichquartett |
 | **English Name** | string quartet |
 | **Wikidata ID** | [Q207338](https://www.wikidata.org/entity/Q207338) |
@@ -11014,7 +9355,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 232 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-232`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-232) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-232`[🔗](http://w3id.org/arkumu/roles#role-232) |
 | **German Name** | Student:in |
 | **German Synonyms** | Studentin,Student |
 | **English Name** | student |
@@ -11043,7 +9384,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 190 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-190`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-190) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-190`[🔗](http://w3id.org/arkumu/roles#role-190) |
 | **German Name** | Produktionsleiter:in |
 | **German Synonyms** | Produktionsleiterin,Produktionsleiter |
 | **English Name** | supervising producer  |
@@ -11070,7 +9411,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 407 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-407`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-407) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-407`[🔗](http://w3id.org/arkumu/roles#role-407) |
 | **English Name** | synthesizer player |
 | **German Name** | Synthesizer-Spieler:in |
 | **English Synonyms** | - |
@@ -11096,7 +9437,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 308 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-308`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-308) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-308`[🔗](http://w3id.org/arkumu/roles#role-308) |
 | **German Name** | Schneider:in |
 | **German Synonyms** | Weißnäherin,Schneiderin,Näherin,Schneider,Schneidermeister,Näher,Schneidermeisterin,Weißnäher |
 | **English Name** | tailor |
@@ -11125,7 +9466,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 391 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-391`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-391) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-391`[🔗](http://w3id.org/arkumu/roles#role-391) |
 | **German Name** | Tätowierer:in |
 | **German Synonyms** | Tätowiererin,Tätowierer |
 | **English Name** | tattoo artist |
@@ -11154,7 +9495,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 359 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-359`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-359) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-359`[🔗](http://w3id.org/arkumu/roles#role-359) |
 | **German Name** | Steuerfachangestellte:r |
 | **German Synonyms** | Stuerfachgehilfe,Steuerfachangestellte,Steuerfachangestellter,Steuerfachgehilfin |
 | **English Name** | tax consultant |
@@ -11181,7 +9522,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 125 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-125`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-125) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-125`[🔗](http://w3id.org/arkumu/roles#role-125) |
 | **German Name** | Lehrer:in |
 | **German Synonyms** | Lehrkraft,Lehrerin,Lehrer |
 | **English Name** | teacher |
@@ -11210,7 +9551,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 360 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-360`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-360) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-360`[🔗](http://w3id.org/arkumu/roles#role-360) |
 | **German Name** | Technische:r Direktor:in |
 | **German Synonyms** | Technische Direktorin,Technischer Direktor,Technical Director |
 | **English Name** | technical director |
@@ -11237,7 +9578,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 379 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-379`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-379) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-379`[🔗](http://w3id.org/arkumu/roles#role-379) |
 | **German Name** | Technische Realisation |
 | **German Synonyms** | Technische Umsetzung,Technische Realisierung |
 | **English Name** | technical realisation |
@@ -11262,7 +9603,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 244 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-244`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-244) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-244`[🔗](http://w3id.org/arkumu/roles#role-244) |
 | **German Name** | Techniker:in |
 | **German Synonyms** | Technikerin,Techniker |
 | **English Name** | technician |
@@ -11290,7 +9631,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 66 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-66`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-66) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-66`[🔗](http://w3id.org/arkumu/roles#role-66) |
 | **German Name** | Fernsehmoderator:in |
 | **German Synonyms** | TV-Moderatorin,TV-Moderator,TV host,Fernsehmoderatorin,Fernsehmoderator |
 | **English Name** | television presenter |
@@ -11315,7 +9656,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 212 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-212`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-212) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-212`[🔗](http://w3id.org/arkumu/roles#role-212) |
 | **German Name** | Tenorist:in |
 | **German Synonyms** | Tenoristin,Tenorist |
 | **English Name** | tenor |
@@ -11342,7 +9683,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 98 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-98`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-98) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-98`[🔗](http://w3id.org/arkumu/roles#role-98) |
 | **German Name** | Tenorsaxofonist:in |
 | **German Synonyms** | Tenorsaxofonistin,Tenorsaxofonist |
 | **English Name** | tenor saxophonist |
@@ -11368,7 +9709,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 248 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-248`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-248) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-248`[🔗](http://w3id.org/arkumu/roles#role-248) |
 | **German Name** | Theatergruppe |
 | **German Synonyms** | Theaterensemble |
 | **English Name** | theatre group |
@@ -11396,7 +9737,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 363 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-363`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-363) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-363`[🔗](http://w3id.org/arkumu/roles#role-363) |
 | **German Name** | Theatermacher:in |
 | **German Synonyms** | Bühnenschaffender,Theaterschaffender,Theaterschaffende,Theatermacher,Bühnenschaffende,Theatermacherin |
 | **English Name** | theatre maker |
@@ -11422,7 +9763,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 249 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-249`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-249) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-249`[🔗](http://w3id.org/arkumu/roles#role-249) |
 | **German Name** | Theaterleiter:in |
 | **German Synonyms** | Theaterdirektor:in,Theaterleiterin,Theaterleiter |
 | **English Name** | theatre manager |
@@ -11451,7 +9792,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 39 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-39`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-39) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-39`[🔗](http://w3id.org/arkumu/roles#role-39) |
 | **German Name** | Bühnenregisseur:in |
 | **German Synonyms** | Bühnenregisseurin,Bühnenregisseur,Theaterregisseurin,Theaterregisseur |
 | **English Name** | theatrical director |
@@ -11479,7 +9820,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 250 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-250`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-250) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-250`[🔗](http://w3id.org/arkumu/roles#role-250) |
 | **German Name** | Theaterproduzent:in |
 | **German Synonyms** | Theaterproduzentin,Theaterproduzent |
 | **English Name** | theatrical producer |
@@ -11507,7 +9848,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 40 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-40`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-40) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-40`[🔗](http://w3id.org/arkumu/roles#role-40) |
 | **German Name** | Bühnentechniker:in |
 | **German Synonyms** | Bühnentechnikerin,Bühnentechniker |
 | **English Name** | theatrical technician |
@@ -11533,7 +9874,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 365 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-365`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-365) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-365`[🔗](http://w3id.org/arkumu/roles#role-365) |
 | **German Name** | Theaterwissenschaftler:in |
 | **German Synonyms** | Theaterwissenschaftlerin,Theaterwissenschaftler |
 | **English Name** | theatrologist |
@@ -11560,7 +9901,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 366 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-366`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-366) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-366`[🔗](http://w3id.org/arkumu/roles#role-366) |
 | **German Name** | Theolog:in |
 | **German Synonyms** | Theologin,Theologe |
 | **English Name** | theologian |
@@ -11588,7 +9929,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 179 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-179`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-179) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-179`[🔗](http://w3id.org/arkumu/roles#role-179) |
 | **German Name** | Paukist:in |
 | **German Synonyms** | Paukistin,Paukist |
 | **English Name** | timpanist |
@@ -11616,7 +9957,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 16 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-16`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-16) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-16`[🔗](http://w3id.org/arkumu/roles#role-16) |
 | **German Name** | Tonmeister:in |
 | **German Synonyms** | Tonmeisterin,Tonmeister |
 | **English Name** | tonmeister |
@@ -11645,7 +9986,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 77 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-77`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-77) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-77`[🔗](http://w3id.org/arkumu/roles#role-77) |
 | **German Name** | Händler:in |
 | **German Synonyms** | Kaufmann,Kauffrau,Händlerin,Händler |
 | **English Name** | trader |
@@ -11674,7 +10015,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 131 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-131`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-131) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-131`[🔗](http://w3id.org/arkumu/roles#role-131) |
 | **German Name** | Lokomotivführer:in |
 | **German Synonyms** | Triebfahrzeugführerin,Triebfahrzeugführer,Lokomotivführerin,Lokomotivführer |
 | **English Name** | train driver |
@@ -11701,7 +10042,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 254 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-254`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-254) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-254`[🔗](http://w3id.org/arkumu/roles#role-254) |
 | **German Name** | Übersetzer:in |
 | **German Synonyms** | Übersetzerin,Übersetzer |
 | **English Name** | translator |
@@ -11729,7 +10070,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 369 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-369`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-369) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-369`[🔗](http://w3id.org/arkumu/roles#role-369) |
 | **German Name** | Travestie |
 | **English Name** | travesti |
 | **Wikidata ID** | [Q16764901](https://www.wikidata.org/entity/Q16764901) |
@@ -11756,7 +10097,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 33 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-33`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-33) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-33`[🔗](http://w3id.org/arkumu/roles#role-33) |
 | **German Name** | Posaunist:in |
 | **German Synonyms** | Posaunistin,Posaunist |
 | **English Name** | trombonist |
@@ -11784,7 +10125,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 34 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-34`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-34) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-34`[🔗](http://w3id.org/arkumu/roles#role-34) |
 | **German Name** | Trompeter:in |
 | **German Synonyms** | Trompeterin,Trompeter |
 | **English Name** | trumpeter |
@@ -11813,7 +10154,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 35 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-35`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-35) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-35`[🔗](http://w3id.org/arkumu/roles#role-35) |
 | **German Name** | Tubist:in |
 | **German Synonyms** | Tubaspielerin,Tubaspieler,Tubistin,Tubist |
 | **English Name** | tuba player |
@@ -11842,7 +10183,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 350 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-350`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-350) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-350`[🔗](http://w3id.org/arkumu/roles#role-350) |
 | **German Name** | Schriftsetzer:in |
 | **German Synonyms** | Setzerin,Setzer |
 | **English Name** | typesetter |
@@ -11870,7 +10211,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 281 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-281`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-281) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-281`[🔗](http://w3id.org/arkumu/roles#role-281) |
 | **German Name** | Ukulelist:in |
 | **German Synonyms** | Ukulelistin,Ukulelist |
 | **English Name** | ukulelist |
@@ -11896,7 +10237,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 326 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-326`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-326) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-326`[🔗](http://w3id.org/arkumu/roles#role-326) |
 | **German Name** | Hochschullehrer:in |
 | **German Synonyms** | Professor,Lehrerin im Hochschuldienst,Dozent,College-Professor,Hochschullehrer,College-Professorin,Hochschuldozent,Dozentin,Lehrkraft im Hochschuldienst,Lehrer im Hochschuldienst,Hochschuldozentin,Hochschullehrerin,Professorin |
 | **English Name** | university teacher |
@@ -11924,7 +10265,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 283 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-283`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-283) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-283`[🔗](http://w3id.org/arkumu/roles#role-283) |
 | **German Name** | unbekannt |
 | **German Synonyms** | nicht feststellbar |
 | **English Name** | unknown |
@@ -11950,7 +10291,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 399 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-399`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-399) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-399`[🔗](http://w3id.org/arkumu/roles#role-399) |
 | **German Name** | VFX-Künstler:in |
 | **German Synonyms** | Spezialeffekt-Künstler,Spezialeffektkünstler,Spezialeffekt-Künstlerin,Spezialeffektkünstlerin,VFX-Künstler |
 | **English Name** | VFX artist |
@@ -11976,7 +10317,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 398 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-398`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-398) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-398`[🔗](http://w3id.org/arkumu/roles#role-398) |
 | **German Name** | VFX Producer:in |
 | **English Name** | VFX producer |
 | **Wikidata ID** | [Q1364080](https://www.wikidata.org/entity/Q1364080) |
@@ -12000,7 +10341,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 181 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-181`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-181) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-181`[🔗](http://w3id.org/arkumu/roles#role-181) |
 | **German Name** | Vibrafonist:in |
 | **German Synonyms** | Vibrafonistin,Vibrafonist |
 | **English Name** | vibraphone player |
@@ -12028,7 +10369,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 323 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-323`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-323) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-323`[🔗](http://w3id.org/arkumu/roles#role-323) |
 | **German Name** | Videokünstler:in |
 | **German Synonyms** | Videokünstlerin,Videokünstler |
 | **English Name** | video artist |
@@ -12056,7 +10397,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 268 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-268`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-268) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-268`[🔗](http://w3id.org/arkumu/roles#role-268) |
 | **German Name** | Video Blogger:in |
 | **German Synonyms** | Video-Blogger,Video-Bloggerin,Vlogger |
 | **English Name** | video blogger |
@@ -12082,7 +10423,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 229 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-229`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-229) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-229`[🔗](http://w3id.org/arkumu/roles#role-229) |
 | **German Name** | Gambist:in |
 | **German Synonyms** | Gambistin,Gambist |
 | **English Name** | viol player |
@@ -12111,7 +10452,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 231 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-231`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-231) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-231`[🔗](http://w3id.org/arkumu/roles#role-231) |
 | **German Name** | Violinist:in |
 | **German Synonyms** | Geigerin,Geiger,Violinistin,Violinist |
 | **English Name** | violinist |
@@ -12140,7 +10481,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 227 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-227`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-227) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-227`[🔗](http://w3id.org/arkumu/roles#role-227) |
 | **German Name** | Bratschist:in |
 | **German Synonyms** | Bratschistin,Bratschist |
 | **English Name** | violist |
@@ -12170,7 +10511,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 372 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-372`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-372) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-372`[🔗](http://w3id.org/arkumu/roles#role-372) |
 | **German Name** | Visagist:in |
 | **German Synonyms** | Make-Up-Artist,Visagistin,Visagist |
 | **English Name** | visagiste |
@@ -12197,7 +10538,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 158 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-158`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-158) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-158`[🔗](http://w3id.org/arkumu/roles#role-158) |
 | **German Name** | Vokalensemble |
 | **English Name** | vocal group |
 | **English Synonyms** | vocal ensemble |
@@ -12224,7 +10565,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 262 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-262`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-262) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-262`[🔗](http://w3id.org/arkumu/roles#role-262) |
 | **German Name** | Vokalist:in |
 | **German Synonyms** | Vokalistin,Vokalist,Stimme |
 | **English Name** | vocalist |
@@ -12249,7 +10590,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 126 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-126`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-126) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-126`[🔗](http://w3id.org/arkumu/roles#role-126) |
 | **German Name** | Sprachlehrer:in |
 | **German Synonyms** | Sprachlehrerin,Sprachlehrer |
 | **English Name** | voice teacher |
@@ -12277,7 +10618,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 74 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-74`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-74) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-74`[🔗](http://w3id.org/arkumu/roles#role-74) |
 | **German Name** | Gesangslehrer:in |
 | **German Synonyms** | Gesangslehrerin,Gesangslehrer,Gesangspädagog:in,Gesangspädagogin,Gesangspädagoge |
 | **English Name** | voice teacher |
@@ -12305,7 +10646,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 261 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-261`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-261) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-261`[🔗](http://w3id.org/arkumu/roles#role-261) |
 | **German Name** | Voice-Over |
 | **German Synonyms** | Off-Kommentar |
 | **English Name** | voice-over |
@@ -12333,7 +10674,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 406 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-406`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-406) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-406`[🔗](http://w3id.org/arkumu/roles#role-406) |
 | **English Name** | water instrument player |
 | **German Name** | Wasserinstrumentspieler:in |
 | **English Synonyms** | - |
@@ -12359,7 +10700,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 75 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-75`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-75) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-75`[🔗](http://w3id.org/arkumu/roles#role-75) |
 | **German Name** | Gewandmeister:in |
 | **German Synonyms** | Gewandmeisterin,Gewandmeister |
 | **English Name** | wardrobe master |
@@ -12385,7 +10726,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 267 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-267`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-267) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-267`[🔗](http://w3id.org/arkumu/roles#role-267) |
 | **German Name** | Webvideoproduzent:in |
 | **German Synonyms** | Webvideoproduzentin,Webvideoproduzent |
 | **English Name** | web video producer |
@@ -12410,7 +10751,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 299 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-299`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-299) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-299`[🔗](http://w3id.org/arkumu/roles#role-299) |
 | **German Name** | Web-Designer:in |
 | **German Synonyms** | Webdesignerin,Webdesigner |
 | **English Name** | website designer |
@@ -12439,7 +10780,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 122 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-122`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-122) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-122`[🔗](http://w3id.org/arkumu/roles#role-122) |
 | **German Name** | Kunstpfeifer:in |
 | **German Synonyms** | Kunstpfeiferin,Kunstpfeifer |
 | **English Name** | whistle artist |
@@ -12466,7 +10807,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 155 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-155`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-155) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-155`[🔗](http://w3id.org/arkumu/roles#role-155) |
 | **German Name** | Blasorchester |
 | **English Name** | wind orchestra |
 | **English Synonyms** | band,wind band |
@@ -12493,7 +10834,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 145 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-145`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-145) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-145`[🔗](http://w3id.org/arkumu/roles#role-145) |
 | **German Name** | Frauenchor |
 | **English Name** | women's choir |
 | **Wikidata ID** | [Q1451652](https://www.wikidata.org/entity/Q1451652) |
@@ -12519,7 +10860,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 84 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-84`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-84) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-84`[🔗](http://w3id.org/arkumu/roles#role-84) |
 | **German Name** | Holzbläser:in |
 | **German Synonyms** | Holzbläserin,Holzbläser |
 | **English Name** | woodwind player |
@@ -12544,7 +10885,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 374 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-374`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-374) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-374`[🔗](http://w3id.org/arkumu/roles#role-374) |
 | **German Name** | Werkstattleiter:in |
 | **German Synonyms** | Werkstattleiterin,Werkstattleiter |
 | **English Name** | workshop manager |
@@ -12569,7 +10910,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 289 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-289`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-289) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-289`[🔗](http://w3id.org/arkumu/roles#role-289) |
 | **German Name** | Schriftsteller:in |
 | **German Synonyms** | Buchautorin,Urheber,Schriftsteller,Buchautor,Autor,Schriftstellerin,Autorin,Verfasserin,Verfasser,Urheberin |
 | **English Name** | writer |
@@ -12598,7 +10939,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 257 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-257`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-257) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-257`[🔗](http://w3id.org/arkumu/roles#role-257) |
 | **German Name** | Verfasser:in |
 | **German Synonyms** | Autor,Verfasserin,Verfasser |
 | **English Name** | writer |
@@ -12627,7 +10968,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 182 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-182`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-182) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-182`[🔗](http://w3id.org/arkumu/roles#role-182) |
 | **German Name** | Xylofonist:in |
 | **German Synonyms** | Xylofonistin,Xylofonist |
 | **English Name** | xylophonist |
@@ -12655,7 +10996,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 264 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-264`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-264) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-264`[🔗](http://w3id.org/arkumu/roles#role-264) |
 | **German Name** | Jodler:in |
 | **German Synonyms** | Jodlerin,Jodler |
 | **English Name** | yodeler |
@@ -12683,7 +11024,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 376 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-376`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-376) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-376`[🔗](http://w3id.org/arkumu/roles#role-376) |
 | **German Name** | Yogalehrer:in |
 | **German Synonyms** | Yogalehrer,Yogalehrerin |
 | **English Name** | yoga instructor |
@@ -12710,7 +11051,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 282 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-282`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-282) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-282`[🔗](http://w3id.org/arkumu/roles#role-282) |
 | **German Name** | Zitherspieler:in |
 | **German Synonyms** | Zitherspielerin,Zitherspieler |
 | **English Name** | zitherist |
@@ -12738,7 +11079,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 377 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-377`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-377) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-377`[🔗](http://w3id.org/arkumu/roles#role-377) |
 | **German Name** | Zoolog:in |
 | **German Synonyms** | Zoologin,Zoologe |
 | **English Name** | zoologist |
@@ -12766,7 +11107,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 395 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-395`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-395) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-395`[🔗](http://w3id.org/arkumu/roles#role-395) |
 | **English Name** | - |
 | **German Name** | Bildingenieur:in |
 | **German Synonyms** | Medieningenieur:in |
@@ -12790,7 +11131,7 @@ Bitte beachten: Perspektivisch wird diese Seite auf eine automatisch generierte 
 |||
 |-----------|-----------|
 | **ID** | 396 |
-| **URI** | `https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-396`[🔗](https://docs.arkumu.nrw/documentation/controlled-vocabularies/roles#role-396) |
+| **Permanent URL** | `http://w3id.org/arkumu/roles#role-396`[🔗](http://w3id.org/arkumu/roles#role-396) |
 | **English Name** | - |
 | **German Name** | Bildmischer:in |
 | **English Synonyms** | video operator,video mixer |
