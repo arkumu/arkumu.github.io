@@ -11,7 +11,7 @@ permalink: /documentation/controlled-vocabularies
 
 ---
 
-## Was sind Kontrollierte Vokabulare?
+## Was sind kontrollierte Vokabulare?
 
 ```What are controlled vocabularies?```
 
@@ -19,7 +19,7 @@ permalink: /documentation/controlled-vocabularies
 
 Durch die gemeinsame Verwendung einheitlicher und eindeutig identifizierbarer Begrifflichkeiten ist es möglich, Akteur:innen, Projekte, Ereignisse und andere Entitäten standardisiert zu klassifizieren und sie dadurch wiederauffindbar, vergleichbar und nachnutzbar zu machen. 
 
-Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in Wertelisten und in Taxonomien, die darüber hinaus auch eine hierarchische Einordnung der Begriffe ermöglichen. Durch die angegebenen URIs ist jeder Begriff dauerhaft identifizierbar und referenzierbar.
+Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in Wertelisten und in Taxonomien, die darüber hinaus auch eine hierarchische Einordnung der Begriffe ermöglichen. Durch die angegebenen permanenten URLs ist jeder Begriff dauerhaft identifizierbar und referenzierbar.
 
 <br/>
 
@@ -29,7 +29,7 @@ Kontrollierte Vokabulare treten in arkumu.nrw vor allem in zwei Formen auf: in W
 
 By using consistent and uniquely identifiable terminology, it becomes possible to classify actors, projects, events and other entities in a standardized way, making them easier to find, compare, and reuse.
 
-In arkumu.nrw, controlled vocabularies appear in two forms: value lists and taxonomies, the latter additionally allowing for the hierarchical structuring of terms. Thanks to the assigned URIs, each term is persistently identifiable and citable.
+In arkumu.nrw, controlled vocabularies appear in two forms: value lists and taxonomies, the latter additionally allowing for the hierarchical structuring of terms. Thanks to permanent URLs, each term is persistently identifiable and citable.
 
 <br/>
 <br/>
@@ -39,13 +39,13 @@ In arkumu.nrw, controlled vocabularies appear in two forms: value lists and taxo
 
 
 
-## Abrufbar über vocabs.arkumu.nrw
+## vocabs.arkumu.nrw
 
-```Accessible on vocabs.arkumu.nrw```
+```vocabs.arkumu.nrw```
 
 **Deutsch:**
 
-Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei werden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie über [Flexsearch](https://github.com/skohub-io/skohub-vocabs#tokenizer) programmatisch verfügbar sind; d.h. sie können direkt und aktiv in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
+Im Rahmen einer Überarbeitung wurden 2026 alle Vokabulare in das SKOS-Format konvertiert. Dabei wurden diese konsolidiert und logisch validiert. Sie sind nun auf [https://vocabs.arkumu.nrw/](https://vocabs.arkumu.nrw/) zugänglich. Die Veröffentlichung über den workflow von [https://skohub.io](https://skohub.io) bedeutet, dass sie über [Flexsearch](https://github.com/skohub-io/skohub-vocabs#tokenizer) programmatisch verfügbar sind; d.h. sie können direkt und aktiv in Eingabemasken verwendet werden. Da sie mit einer CC0-Lizenz veröffentlicht wurden, stehen sie direkt auch anderen Initiativen zur Verfügung, die Kulturerbe erfassen möchten.
 
 Die Vokabulare werden (ebenso wie docs.arkumu.nrw) auf [GitHub](https://github.com/arkumu/vocabs.arkumu.nrw) gepflegt und über GitHub Pages veröffentlicht. Wie sie gepflegt werden können, ist dort beschrieben. Es wird www.w3id.org als Provider für permanente URLs benutzt.
 
